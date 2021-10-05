@@ -1,0 +1,33 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain" language="en" script="Latn">Review of the Advanced Encryption Standard</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Review of the Advanced Encryption Standard</title>
+  <uri type="doi">https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8319.pdf</uri>
+  <docidentifier type="NIST">NISTIR 8319</docidentifier>
+  <docidentifier type="DOI">10.6028/NIST.IR.8319</docidentifier>
+  <date type="published">
+    <on>2021-07</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Nicky</forename>
+        <surname script="Latn">Mouha</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>National Institute of Standards and Technology</name>
+      <abbreviation>NIST</abbreviation>
+    </organization>
+  </contributor>
+  <language/>
+  <script>Latn</script>
+  <abstract format="text/plain" script="Latn">The field of cryptography continues to advance at a very rapid pace, leading to new insights that may impact the security properties of cryptographic algorithms. The Crypto Publication Review Board ("the Board") has been established to identify publications to be reviewed. This report subjects the first standard to the review process: Federal Information Processing Standard (FIPS) 197, which defines the Advanced Encryption Standard (AES).</abstract>
+  <place>Gaithersburg, MD</place>
+  <ext>
+    <doctype>standard</doctype>
+  </ext>
+</bibdata>

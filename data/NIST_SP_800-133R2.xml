@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain" language="en" script="Latn">Recommendation for cryptographic key generation</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Recommendation for cryptographic key generation</title>
+  <uri type="doi">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r2.pdf</uri>
+  <docidentifier type="NIST">NIST SP 800-133r2</docidentifier>
+  <docidentifier type="DOI">10.6028/NIST.SP.800-133r2</docidentifier>
+  <date type="published">
+    <on>2020-06</on>
+  </date>
+  <date type="confirmed">
+    <on>2020-06</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Elaine</forename>
+        <surname script="Latn">Barker</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Allen</forename>
+        <surname script="Latn">Roginsky</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Richard</forename>
+        <surname script="Latn">Davis</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>National Institute of Standards and Technology</name>
+      <abbreviation>NIST</abbreviation>
+    </organization>
+  </contributor>
+  <edition>r2</edition>
+  <language/>
+  <script>Latn</script>
+  <relation type="obsoletes">
+    <bibitem>
+      <formattedref format="text/plain">10.6028/NIST.SP.800-133r1</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="editionOf">
+    <bibitem>
+      <formattedref format="text/plain">10.6028/NIST.SP.800-133</formattedref>
+    </bibitem>
+  </relation>
+  <place>Gaithersburg, MD</place>
+  <ext>
+    <doctype>standard</doctype>
+  </ext>
+</bibdata>

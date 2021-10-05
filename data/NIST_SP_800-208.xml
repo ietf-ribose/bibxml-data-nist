@@ -1,0 +1,78 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain" language="en" script="Latn">Recommendation for Stateful Hash-Based Signature Schemes</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Recommendation for Stateful Hash-Based Signature Schemes</title>
+  <uri type="doi">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf</uri>
+  <docidentifier type="NIST">NIST SP 800-208</docidentifier>
+  <docidentifier type="DOI">10.6028/NIST.SP.800-208</docidentifier>
+  <date type="published">
+    <on>2020-10</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">David</forename>
+        <surname script="Latn">Cooper</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Daniel</forename>
+        <surname script="Latn">Apon</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Quynh</forename>
+        <surname script="Latn">Dang</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Michael</forename>
+        <surname script="Latn">Davidson</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Morris</forename>
+        <surname script="Latn">Dworkin</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Carl</forename>
+        <surname script="Latn">Miller</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>National Institute of Standards and Technology</name>
+      <abbreviation>NIST</abbreviation>
+    </organization>
+  </contributor>
+  <language/>
+  <script>Latn</script>
+  <abstract format="text/plain" script="Latn">This recommendation specifies two algorithms that can be used to generate a digital signature, both of which are stateful hash-based signature schemes: the Leighton-Micali Signature (LMS) system and the eXtended Merkle Signature Scheme (XMSS), along with their multi-tree variants, the Hierarchical Signature System (HSS) and multi-tree XMSS (XMSSMT).</abstract>
+  <place>Gaithersburg, MD</place>
+  <ext>
+    <doctype>standard</doctype>
+  </ext>
+</bibdata>

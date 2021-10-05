@@ -1,0 +1,24 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain" language="en" script="Latn">Control Baselines for Information Systems and Organizations</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Control Baselines for Information Systems and Organizations</title>
+  <uri type="doi">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf</uri>
+  <docidentifier type="NIST">NIST SP 800-53B</docidentifier>
+  <docidentifier type="DOI">10.6028/NIST.SP.800-53B</docidentifier>
+  <date type="published">
+    <on>2020-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>National Institute of Standards and Technology</name>
+      <abbreviation>NIST</abbreviation>
+    </organization>
+  </contributor>
+  <language/>
+  <script>Latn</script>
+  <abstract format="text/plain" script="Latn">This publication provides security and privacy control baselines for the Federal Government. There are three security control baselines (one for each system impact level—low-impact, moderate-impact, and high-impact), as well as a privacy baseline that is applied to systems irrespective of impact level. In addition to the control baselines, this publication provides tailoring guidance and a set of working assumptions that help guide and inform the control selection process. Finally, this publication provides guidance on the development of overlays to facilitate control baseline customization for specific communities of interest, technologies, and environments of operation.</abstract>
+  <place>Gaithersburg, MD</place>
+  <ext>
+    <doctype>standard</doctype>
+  </ext>
+</bibdata>

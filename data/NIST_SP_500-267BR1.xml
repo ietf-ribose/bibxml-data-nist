@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain" language="en" script="Latn">USGv6 Profile</title>
+  <title type="main" format="text/plain" language="en" script="Latn">USGv6 Profile</title>
+  <uri type="doi">https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.500-267Br1.pdf</uri>
+  <docidentifier type="NIST">NIST SP 500-267Br1</docidentifier>
+  <docidentifier type="DOI">10.6028/NIST.SP.500-267Br1</docidentifier>
+  <date type="published">
+    <on>2020-11</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Doug</forename>
+        <surname script="Latn">Montgomery</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Mark</forename>
+        <surname script="Latn">Carson</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Timothy</forename>
+        <surname script="Latn">Winters</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Michayla</forename>
+        <surname script="Latn">Newcombe</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <forename script="Latn">Timothy</forename>
+        <surname script="Latn">Carlin</surname>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>National Institute of Standards and Technology</name>
+      <abbreviation>NIST</abbreviation>
+    </organization>
+  </contributor>
+  <language/>
+  <script>Latn</script>
+  <abstract format="text/plain" script="Latn">This profile establishes a basic taxonomy of IPv6 capabilities, defined in terms of IETF specifications, resulting in specific capability labels for common network functions and usage scenarios. The profile maps each such labeled capability to one or more specific technical specifications, or parts of specifications. Each labeled capability adopts by reference the normative requirements of the cited specifications. In rare cases the profile may augment or modify the normative requirements of a base specification. The defined capability labels effectively form a vocabulary for expressing IPv6 requirements for, and documenting the IPv6 capabilities of, specific products. It is expected that this profile, when combined with the USGv6 Test Program, can facilitate the efficient adoption of IPv6 technologies in Federal information systems.</abstract>
+  <place>Gaithersburg, MD</place>
+  <ext>
+    <doctype>standard</doctype>
+  </ext>
+</bibdata>
