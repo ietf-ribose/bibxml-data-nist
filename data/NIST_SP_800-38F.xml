@@ -1,0 +1,11 @@
+<reference anchor="NISTSP800-38F" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38F.pdf">
+  <front>
+    <title>Recommendation for Block Cipher Modes of Operation: Methods for Key Wrapping (SP 800-38F)</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38F"/>
+    <author surname="Dworkin"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2012" month="December" day="1"/>
+  </front>
+</reference>

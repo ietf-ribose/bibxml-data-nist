@@ -1,0 +1,23 @@
+<reference anchor="NISTSP800-22r1a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-22r1a.pdf">
+  <front>
+    <title>A statistical test suite for random and pseudorandom number generators for cryptographic applications</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-22r1a"/>
+    <author surname="Bassham"/>
+    <author surname="Rukhin"/>
+    <author surname="Soto"/>
+    <author surname="Nechvatal"/>
+    <author surname="Smid"/>
+    <author surname="Barker"/>
+    <author surname="Leigh"/>
+    <author surname="Levenson"/>
+    <author surname="Vangel"/>
+    <author surname="Banks"/>
+    <author surname="Heckert"/>
+    <author surname="Dray"/>
+    <author surname="Vo"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2010" month="January" day="1"/>
+  </front>
+</reference>

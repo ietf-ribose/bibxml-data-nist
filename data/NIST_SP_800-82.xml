@@ -1,0 +1,13 @@
+<reference anchor="NISTSP800-82" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82.pdf">
+  <front>
+    <title>Guide to Industrial Control Systems (ICS) security : Supervisory Control and Data Acquisition (SCADA) systems, Distributed Control systems (DCS), and other control system configurations such as Programmable Logic Controllers (PLC) : recommendations of the National Institute of Standards and Technology, Computer security</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-82"/>
+    <author surname="Stouffer"/>
+    <author surname="Falco"/>
+    <author surname="Scarfone"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2011" month="June" day="1"/>
+  </front>
+</reference>

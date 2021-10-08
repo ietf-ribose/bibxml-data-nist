@@ -1,0 +1,11 @@
+<reference anchor="NISTSP800-38G" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38G.pdf">
+  <front>
+    <title>Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38G"/>
+    <author surname="Dworkin"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2016" month="March" day="1"/>
+  </front>
+</reference>

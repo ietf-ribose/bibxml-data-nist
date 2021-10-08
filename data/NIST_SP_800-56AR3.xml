@@ -1,0 +1,15 @@
+<reference anchor="NISTSP800-56Ar3" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar3.pdf">
+  <front>
+    <title>Recommendation for pair-wise key-establishment schemes using discrete logarithm cryptography</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56Ar3"/>
+    <author surname="Barker"/>
+    <author surname="Chen"/>
+    <author surname="Roginsky"/>
+    <author surname="Vassilev"/>
+    <author surname="Davis"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2018" month="April" day="1"/>
+  </front>
+</reference>

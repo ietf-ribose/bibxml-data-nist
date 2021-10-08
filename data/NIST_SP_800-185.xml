@@ -1,0 +1,13 @@
+<reference anchor="NISTSP800-185" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-185.pdf">
+  <front>
+    <title>SHA-3 derived functions: cSHAKE, KMAC, TupleHash and ParallelHash</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-185"/>
+    <author surname="Kelsey"/>
+    <author surname="Change"/>
+    <author surname="Perlner"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2016" month="December" day="1"/>
+  </front>
+</reference>

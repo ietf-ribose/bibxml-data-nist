@@ -1,0 +1,11 @@
+<reference anchor="NISTSP800-38d" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38d.pdf">
+  <front>
+    <title>Recommendation for block cipher modes of operation : GaloisCounter Mode (GCM) and GMAC</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38d"/>
+    <author surname="Dworkin"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2007" month="January" day="1"/>
+  </front>
+</reference>

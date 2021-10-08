@@ -1,0 +1,13 @@
+<reference anchor="NISTSP800-56ar" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-56ar.pdf">
+  <front>
+    <title>Recommendation for pair-wise key establishment schemes using discrete logarithm cryptography</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56ar"/>
+    <author surname="Barker"/>
+    <author surname="Johnson"/>
+    <author surname="Smid"/>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2007" month="January" day="1"/>
+  </front>
+</reference>
