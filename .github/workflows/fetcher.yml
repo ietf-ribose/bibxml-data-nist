@@ -20,7 +20,7 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
-        run: relaton fetch-data nist-tech-pubs -f xml
+        run: relaton fetch-data nist-tech-pubs -f bibxml
       - name: Push data
         run: |
           echo `date` > flag.txt
