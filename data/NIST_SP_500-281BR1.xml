@@ -1,4 +1,4 @@
-<reference anchor="NISTSP500-281Br1" target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.500-281Br1.pdf">
+<reference anchor="NIST." target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.500-281Br1.pdf">
   <front>
     <title>USGv6 Test Methods: General Description and Validation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-281Br1"/>
@@ -10,5 +10,6 @@
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="2020" month="November" day="24"/>
+    <abstract>This document defines the scope of accreditation for the USGv6 Test Program, including test method validation procedures, laboratory accreditation process and roles of the accreditor.</abstract>
   </front>
 </reference>

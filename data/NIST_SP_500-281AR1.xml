@@ -1,4 +1,4 @@
-<reference anchor="NISTSP500-281Ar1" target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.500-281Ar1.pdf">
+<reference anchor="NIST." target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.500-281Ar1.pdf">
   <front>
     <title>USGv6 Test Program Guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-281Ar1"/>
@@ -10,5 +10,6 @@
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="2020" month="November" day="24"/>
+    <abstract>This document outlines the form and function of the USGv6 Test Program. In particular, it defines the components of the test program, their implementation and use. This guide also defines the management process that will govern the future evolution of the test program and how it will address and accommodate ever changing requirement sets and product offerings.</abstract>
   </front>
 </reference>
