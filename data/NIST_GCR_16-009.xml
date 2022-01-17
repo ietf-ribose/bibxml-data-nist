@@ -2,8 +2,13 @@
   <front>
     <title>An Analysis of References from US Patents to NIST-Supported Technical Outputs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-009"/>
-    <author fullname="Anthony Breitzman" initials="A." surname="Breitzman"/>
-    <author fullname="Patrick Thomas" initials="P." surname="Thomas"/>
+    <seriesInfo name="NIST" value="NIST GCR 16-009"/>
+    <author fullname="Anthony Breitzman" initials="A." surname="Breitzman">
+      <organization>Technology Partnerships Office</organization>
+    </author>
+    <author fullname="Patrick Thomas" initials="P." surname="Thomas">
+      <organization>Technology Partnerships Office</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

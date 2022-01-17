@@ -2,7 +2,10 @@
   <front>
     <title>Configuration of profiling tools for C/C++ applications under 64-bit Linux</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1790"/>
-    <author fullname="David Flater" initials="D." surname="Flater"/>
+    <seriesInfo name="NIST" value="NIST TN 1790"/>
+    <author fullname="David Flater" initials="D." surname="Flater">
+      <organization>Information Technology Laboratory, Software and Systems Division</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

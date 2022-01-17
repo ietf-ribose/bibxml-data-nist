@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.9460" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9460.pdf">
   <front>
-    <title>Investigation of the directional effects in the stress corrosion of aluminum alloys: quarterly status report for the quarter ending 103166</title>
+    <title>Investigation of the directional effects in the stress corrosion of aluminum alloys:quarterly status report for the quarter ending 103166</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9460"/>
+    <seriesInfo name="NIST" value="NBS RPT 9460"/>
     <author fullname="Hugh Logan" initials="H." surname="Logan"/>
     <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

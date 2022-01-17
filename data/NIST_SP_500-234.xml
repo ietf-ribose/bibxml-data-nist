@@ -2,11 +2,19 @@
   <front>
     <title>Reference information for the software verification and validation process</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-234"/>
+    <seriesInfo name="NIST" value="NIST SP 500-234"/>
     <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
     <author fullname="Laura Ippolito" initials="L." surname="Ippolito"/>
     <author fullname="Barbara Cuthill" initials="B." surname="Cuthill"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

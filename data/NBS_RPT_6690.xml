@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.6690" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6690.pdf">
   <front>
-    <title>Thermal expansion of denture base resins: progress report</title>
+    <title>Thermal expansion of denture base resins:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6690"/>
+    <seriesInfo name="NIST" value="NBS RPT 6690"/>
     <author fullname="Ruth Davenport" initials="R." surname="Davenport"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

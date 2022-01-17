@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote135.pdf">
   <front>
-    <title>Ionosonde observations of artificially produced electron clouds: Firefly 1960.</title>
+    <title>Ionosonde observations of artificially produced electron clouds:Firefly 1960.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.135"/>
+    <seriesInfo name="NIST" value="NBS TN 135"/>
     <author surname="Wright"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

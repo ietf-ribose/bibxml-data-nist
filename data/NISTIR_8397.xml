@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8397" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8397.pdf">
+<reference anchor="NIST.IR.8397" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8397.pdf">
   <front>
     <title>Guidelines on Minimum Standards for Developer Verification of Software</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8397"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Barbara Guttman" initials="B." surname="Guttman"/>
-    <author fullname="Vadim Okun" initials="V." surname="Okun"/>
+    <seriesInfo name="NIST" value="NIST IR 8397"/>
+    <author fullname="Paul Black" initials="P." surname="Black">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Barbara Guttman" initials="B." surname="Guttman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Vadim Okun" initials="V." surname="Okun">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

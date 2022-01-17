@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.78-1353" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1353.pdf">
   <front>
-    <title>Interlaboratory programs for rubber : Analyses no. 37 July</title>
+    <title>Interlaboratory programs for rubber :Analyses no. 37 July</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1353"/>
+    <seriesInfo name="NIST" value="NBS IR 78-1353"/>
     <author surname="Horlick"/>
     <author surname="Cummings"/>
     <author surname="Bullman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

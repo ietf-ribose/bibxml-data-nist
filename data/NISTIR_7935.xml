@@ -2,10 +2,19 @@
   <front>
     <title>FACTS: A Framework for Analysis, Comparison, and Testing of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7935"/>
-    <author fullname="Paul Witherell" initials="P." surname="Witherell"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
-    <author fullname="Anantha Narayanan" initials="A." surname="Narayanan"/>
-    <author fullname="JaeHyun Lee" initials="J.H." surname="Lee"/>
+    <seriesInfo name="NIST" value="NIST IR 7935"/>
+    <author fullname="Paul Witherell" initials="P." surname="Witherell">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Anantha Narayanan" initials="A." surname="Narayanan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="JaeHyun Lee" initials="J.H." surname="Lee">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

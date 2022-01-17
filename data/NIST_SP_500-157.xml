@@ -2,10 +2,18 @@
   <front>
     <title>Smart card technology</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-157"/>
+    <seriesInfo name="NIST" value="NIST SP 500-157"/>
     <author fullname="Martha Haykin" initials="M." surname="Haykin"/>
     <author fullname="Robert Warnar" initials="R." surname="Warnar"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

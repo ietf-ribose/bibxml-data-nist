@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.1117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1117.pdf">
   <front>
-    <title>NBS reactor : summary of activities July 1978 to June 1979</title>
+    <title>NBS reactor :summary of activities July 1978 to June 1979</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1117"/>
+    <seriesInfo name="NIST" value="NBS TN 1117"/>
     <author fullname="Frederick Shorten" initials="F." surname="Shorten"/>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

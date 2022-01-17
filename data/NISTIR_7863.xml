@@ -2,9 +2,16 @@
   <front>
     <title>Cardholder authentication for the PIV digital signature key</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7863"/>
-    <author fullname="Timothy Polk" initials="T." surname="Polk"/>
-    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper"/>
+    <seriesInfo name="NIST" value="NIST IR 7863"/>
+    <author fullname="Timothy Polk" initials="T." surname="Polk">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Cooper" initials="D." surname="Cooper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

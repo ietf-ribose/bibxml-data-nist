@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8381" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8381.pdf">
+<reference anchor="NIST.IR.8381" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8381.pdf">
   <front>
     <title>Face Recognition Vendor Test (FRVT) Part 7: Identification for Paperless Travel and Immigration</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8381"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="Austin Hom" initials="A." surname="Hom"/>
-    <author fullname="Mei Ngan" initials="M." surname="Ngan"/>
-    <author fullname="Kayee Hanaoka" initials="K." surname="Hanaoka"/>
+    <seriesInfo name="NIST" value="NIST IR 8381"/>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Austin Hom" initials="A." surname="Hom">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mei Ngan" initials="M." surname="Ngan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kayee Hanaoka" initials="K." surname="Hanaoka">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

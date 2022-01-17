@@ -2,13 +2,28 @@
   <front>
     <title>Guide to Attribute Based Access Control (ABAC) Definition and Considerations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-162"/>
-    <author fullname="Vincent Hu" initials="V." surname="Hu"/>
-    <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo"/>
-    <author fullname="Rick Kuhn" initials="R." surname="Kuhn"/>
-    <author fullname="Adam Schnitzer" initials="A." surname="Schnitzer"/>
-    <author fullname="Kenneth Sandlin" initials="K." surname="Sandlin"/>
-    <author fullname="Robert Miller" initials="R." surname="Miller"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
+    <seriesInfo name="NIST" value="NIST SP 800-162"/>
+    <author fullname="Vincent Hu" initials="V." surname="Hu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rick Kuhn" initials="R." surname="Kuhn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Adam Schnitzer" initials="A." surname="Schnitzer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kenneth Sandlin" initials="K." surname="Sandlin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Robert Miller" initials="R." surname="Miller">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

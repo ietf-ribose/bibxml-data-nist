@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.1248" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1248.pdf">
   <front>
-    <title>Public safety communications research division impact report: fiscal years 2017</title>
+    <title>Public safety communications research division impact report:fiscal years 2017</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1248"/>
-    <author fullname="Jeremy Glenn" initials="J." surname="Glenn"/>
-    <author fullname="Isabel Shaw" initials="I." surname="Shaw"/>
-    <author fullname="Marc Leh" initials="M." surname="Leh"/>
+    <seriesInfo name="NIST" value="NIST SP 1248"/>
+    <author fullname="Jeremy Glenn" initials="J." surname="Glenn">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Isabel Shaw" initials="I." surname="Shaw">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Marc Leh" initials="M." surname="Leh">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Boulder</city>
+          <country>US</country>
+          <region>CO</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

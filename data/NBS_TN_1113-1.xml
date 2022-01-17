@@ -1,12 +1,20 @@
 <reference anchor="NBS.TN.1113-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1113-1.pdf">
   <front>
-    <title>Highway noise criteria study : traffic noise data base</title>
+    <title>Highway noise criteria study :traffic noise data base</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1113-1"/>
+    <seriesInfo name="NIST" value="NBS TN 1113-1"/>
     <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
     <author fullname="Carl Voorhees" initials="C." surname="Voorhees"/>
     <author fullname="Simone Yaniv" initials="S." surname="Yaniv"/>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

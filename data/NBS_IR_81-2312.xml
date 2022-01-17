@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.81-2312" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2312.pdf">
   <front>
-    <title>MSHA wick test for hydraulic fluids : a preliminary evaluation</title>
+    <title>MSHA wick test for hydraulic fluids :a preliminary evaluation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2312"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2312"/>
     <author fullname="Joseph Loftus" initials="J." surname="Loftus"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Simulation of the merged spectrum technique for aligning planar phased-array antennas, part I</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.3981"/>
+    <seriesInfo name="NIST" value="NIST IR 3981"/>
     <author fullname="Ronald Wittman" initials="R." surname="Wittman"/>
     <author fullname="Allen Newell" initials="A." surname="Newell"/>
     <author fullname="Carl Stubenrauch" initials="C." surname="Stubenrauch"/>
@@ -9,6 +10,13 @@
     <author fullname="Michael Francis" initials="M." surname="Francis"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

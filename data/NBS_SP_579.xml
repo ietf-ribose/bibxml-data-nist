@@ -2,9 +2,17 @@
   <front>
     <title>Symposium on International Standards Information and ISONET</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.579"/>
+    <seriesInfo name="NIST" value="NBS SP 579"/>
     <author fullname="Charles Phucas" initials="C." surname="Phucas"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

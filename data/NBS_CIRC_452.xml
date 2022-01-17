@@ -1,12 +1,20 @@
 <reference anchor="NBS.CIRC.452" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular452.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 452: slip casting of clay pots for the manufacture of optical glass at the National Bureau of Standards</title>
+    <title>Circular of the Bureau of Standards no. 452:slip casting of clay pots for the manufacture of optical glass at the National Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.452"/>
+    <seriesInfo name="NIST" value="NBS CIRC 452"/>
     <author fullname="Raymond Heindl" initials="R." surname="Heindl"/>
     <author fullname="Gordon Massengale" initials="G." surname="Massengale"/>
     <author fullname="Louis Cossette" initials="L." surname="Cossette"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1946"/>
   </front>

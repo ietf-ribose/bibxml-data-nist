@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6733" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6733.pdf">
   <front>
-    <title>Transient application, recirculating pool fire, agent effectiveness screen: final report, NGP project 3A2890</title>
+    <title>Transient application, recirculating pool fire, agent effectiveness screen:final report, NGP project 3A2890</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6733"/>
+    <seriesInfo name="NIST" value="NIST IR 6733"/>
     <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
     <author fullname="Cary Presser" initials="C." surname="Presser"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.73-111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-111.pdf">
   <front>
-    <title>Report no. 10 : examination of a failed 2-inch diameter galvanized steel pipe : Valley Gas Company, Woonsocket, Rhode Island</title>
+    <title>Report no. 10 :examination of a failed 2-inch diameter galvanized steel pipe : Valley Gas Company, Woonsocket, Rhode Island</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-111"/>
+    <seriesInfo name="NIST" value="NBS IR 73-111"/>
     <author surname="Interrante"/>
     <author surname="Hicho"/>
     <author surname="Picklesimer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

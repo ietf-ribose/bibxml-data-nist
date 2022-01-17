@@ -1,9 +1,17 @@
 <reference anchor="NBS.TIBM.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TIBM/nbstibm7.pdf">
   <front>
-    <title>Thermal insulation : comparative insulating values of 8" solid brick walls having various types of interior finishes</title>
+    <title>Thermal insulation :comparative insulating values of 8" solid brick walls having various types of interior finishes</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TIBM.7"/>
+    <seriesInfo name="NIST" value="NBS TIBM 7"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1936"/>
   </front>

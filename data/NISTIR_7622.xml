@@ -2,13 +2,31 @@
   <front>
     <title>Notional Supply Chain Risk Management Practices for Federal Information Systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7622"/>
-    <author fullname="Jon Boyens" initials="J." surname="Boyens"/>
-    <author fullname="Celia Paulsen" initials="C." surname="Paulsen"/>
-    <author fullname="Nadya Bartol" initials="N." surname="Bartol"/>
-    <author fullname="Stephany Shankles" initials="S." surname="Shankles"/>
-    <author fullname="Rama Moorthy" initials="R." surname="Moorthy"/>
+    <seriesInfo name="NIST" value="NIST IR 7622"/>
+    <author fullname="Jon Boyens" initials="J." surname="Boyens">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nadya Bartol" initials="N." surname="Bartol">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephany Shankles" initials="S." surname="Shankles">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rama Moorthy" initials="R." surname="Moorthy">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="October"/>
   </front>

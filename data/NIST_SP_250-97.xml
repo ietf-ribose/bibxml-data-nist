@@ -2,16 +2,40 @@
   <front>
     <title>Magnetic resonance imaging biomarker calibration service: proton spin relaxation times</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-97"/>
-    <author fullname="Michael Boss" initials="M." surname="Boss"/>
-    <author fullname="Andrew Dienstfrey" initials="A." surname="Dienstfrey"/>
-    <author fullname="Zydrunas Gimbutas" initials="Z." surname="Gimbutas"/>
-    <author fullname="Kathryn Keenan" initials="K." surname="Keenan"/>
-    <author fullname="Anthony Kos" initials="A." surname="Kos"/>
-    <author fullname="Jolene Splett" initials="J." surname="Splett"/>
-    <author fullname="Karl Stupic" initials="K." surname="Stupic"/>
-    <author fullname="Stephen Russek" initials="S." surname="Russek"/>
+    <seriesInfo name="NIST" value="NIST SP 250-97"/>
+    <author fullname="Michael Boss" initials="M." surname="Boss">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Andrew Dienstfrey" initials="A." surname="Dienstfrey">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Zydrunas Gimbutas" initials="Z." surname="Gimbutas">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Kathryn Keenan" initials="K." surname="Keenan">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Anthony Kos" initials="A." surname="Kos">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jolene Splett" initials="J." surname="Splett">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Karl Stupic" initials="K." surname="Stupic">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Stephen Russek" initials="S." surname="Russek">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="May"/>
   </front>

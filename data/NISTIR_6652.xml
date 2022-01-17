@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6652" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6652.pdf">
   <front>
-    <title>Dynamic force measurement: instrumented Charpy impact testing</title>
+    <title>Dynamic force measurement:instrumented Charpy impact testing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6652"/>
+    <seriesInfo name="NIST" value="NIST IR 6652"/>
     <author surname="McCowan"/>
     <author surname="Splett"/>
     <author surname="Lucon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

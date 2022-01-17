@@ -2,10 +2,22 @@
   <front>
     <title>Design and configuration of the smart manufacturing systems test bed</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-1"/>
-    <author fullname="Thomas Hedberg Jr." initials="T." surname="Hedberg Jr."/>
-    <author fullname="Moneer Helu" initials="M." surname="Helu"/>
+    <seriesInfo name="NIST" value="NIST AMS 200-1"/>
+    <author fullname="Thomas Hedberg Jr." initials="T." surname="Hedberg Jr.">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Moneer Helu" initials="M." surname="Helu">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="December" day="18"/>
   </front>

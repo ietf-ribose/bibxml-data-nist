@@ -2,6 +2,7 @@
   <front>
     <title>Control entity interface document</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4626"/>
+    <seriesInfo name="NIST" value="NIST IR 4626"/>
     <author surname="Senehi"/>
     <author fullname="Sarah Wallace" initials="S." surname="Wallace"/>
     <author fullname="Ed Barkmeyer" initials="E." surname="Barkmeyer"/>
@@ -9,6 +10,13 @@
     <author fullname="Evan Wallace" initials="E." surname="Wallace"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

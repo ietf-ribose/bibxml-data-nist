@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.74-562" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-562.pdf">
   <front>
-    <title>Space shuttle pogo pressure measuring system : a progress report</title>
+    <title>Space shuttle pogo pressure measuring system :a progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.74-562"/>
+    <seriesInfo name="NIST" value="NBS IR 74-562"/>
     <author fullname="John Hilten" initials="J." surname="Hilten"/>
     <author fullname="Paul Lederer" initials="P." surname="Lederer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

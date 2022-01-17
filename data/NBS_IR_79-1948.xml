@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.79-1948" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1948.pdf">
   <front>
-    <title>Optimizing weatherization investments in low-income housing : economic guidelines and forecasts</title>
+    <title>Optimizing weatherization investments in low-income housing :economic guidelines and forecasts</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1948"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1948"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author fullname="Richard Crenshaw" initials="R." surname="Crenshaw"/>
     <author fullname="Kimberly Barnes" initials="K." surname="Barnes"/>
     <author fullname="Phillip Chen" initials="P." surname="Chen"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

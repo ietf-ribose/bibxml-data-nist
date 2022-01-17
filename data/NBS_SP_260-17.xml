@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.260-17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-17.pdf">
   <front>
-    <title>Standard Reference Materials Boric acid; isotopic, and assay standard reference materials</title>
+    <title>Standard Reference MaterialsBoric acid; isotopic, and assay standard reference materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-17"/>
+    <seriesInfo name="NIST" value="NBS SP 260-17"/>
     <author surname="Champion"/>
     <author surname="Marinenko"/>
     <author surname="Sappenfield"/>
@@ -9,6 +10,13 @@
     <author surname="Shields"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.78-1535" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1535.pdf">
   <front>
-    <title>Laboratories technically qualified to test solar collectors in accordance with ASHRAE Standard 93-77 : a summary report</title>
+    <title>Laboratories technically qualified to test solar collectors in accordance with ASHRAE Standard 93-77 :a summary report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1535"/>
+    <seriesInfo name="NIST" value="NBS IR 78-1535"/>
     <author surname="Niessing"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

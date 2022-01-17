@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4633" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4633.pdf">
   <front>
-    <title>Ultimate strength of masonry shear walls: predictions vs test results</title>
+    <title>Ultimate strength of masonry shear walls:predictions vs test results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4633"/>
+    <seriesInfo name="NIST" value="NIST IR 4633"/>
     <author surname="Fattal"/>
     <author surname="Todd"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

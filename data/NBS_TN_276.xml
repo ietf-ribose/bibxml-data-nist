@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.276" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote276.pdf">
   <front>
-    <title>Radiochemical analysis : activation analysis, instrumentation, radiation techniques and radioisotope techniques, July 1964 to June 1965</title>
+    <title>Radiochemical analysis :activation analysis, instrumentation, radiation techniques and radioisotope techniques, July 1964 to June 1965</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.276"/>
+    <seriesInfo name="NIST" value="NBS TN 276"/>
     <author fullname="James DeVoe" initials="J." surname="DeVoe"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

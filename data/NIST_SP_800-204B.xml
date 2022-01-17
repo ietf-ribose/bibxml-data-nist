@@ -2,9 +2,16 @@
   <front>
     <title>Attribute-based Access Control for Microservices-based Applications Using a Service Mesh</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-204B"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
-    <author fullname="Zack Butcher" initials="Z." surname="Butcher"/>
-    <author fullname="Aradhna Chetal" initials="A." surname="Chetal"/>
+    <seriesInfo name="NIST" value="NIST SP 800-204B"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Zack Butcher" initials="Z." surname="Butcher">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Aradhna Chetal" initials="A." surname="Chetal">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

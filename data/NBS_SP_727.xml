@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.727" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication727.pdf">
   <front>
-    <title>Laser induced damage in optical : 1984</title>
+    <title>Laser induced damage in optical :1984</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.727"/>
+    <seriesInfo name="NIST" value="NBS SP 727"/>
     <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
     <author fullname="Arthur Guenther" initials="A." surname="Guenther"/>
     <author fullname="David Milam" initials="D." surname="Milam"/>
     <author fullname="Brian Newnam" initials="B." surname="Newnam"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

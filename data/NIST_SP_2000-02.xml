@@ -2,10 +2,22 @@
   <front>
     <title>Conformity assessment considerations for federal agencies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.2000-02"/>
-    <author fullname="Lisa Carnahan" initials="L." surname="Carnahan"/>
-    <author fullname="Amy Phelps" initials="A." surname="Phelps"/>
+    <seriesInfo name="NIST" value="NIST SP 2000-02"/>
+    <author fullname="Lisa Carnahan" initials="L." surname="Carnahan">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Amy Phelps" initials="A." surname="Phelps">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October"/>
   </front>

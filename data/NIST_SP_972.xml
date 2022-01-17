@@ -2,6 +2,7 @@
   <front>
     <title>Highly charged ions</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.972"/>
+    <seriesInfo name="NIST" value="NIST SP 972"/>
     <author fullname="John Gillaspy" initials="J." surname="Gillaspy"/>
     <author fullname="John Gillaspy" initials="J." surname="Gillaspy"/>
     <author fullname="Laura Ratliff" initials="L." surname="Ratliff"/>
@@ -9,6 +10,13 @@
     <author fullname="Endre Takacs" initials="E." surname="Takacs"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

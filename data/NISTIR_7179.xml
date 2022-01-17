@@ -2,11 +2,19 @@
   <front>
     <title>Physics-based modeling for WUI fire spread</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7179"/>
+    <seriesInfo name="NIST" value="NIST IR 7179"/>
     <author fullname="David Evans" initials="D." surname="Evans"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author fullname="Elisa Baker" initials="E." surname="Baker"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

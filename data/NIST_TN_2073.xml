@@ -2,12 +2,28 @@
   <front>
     <title>Guidebook for standards-based testing of radiation-detection systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2073"/>
-    <author surname="Pibida"/>
-    <author surname="Forrester"/>
-    <author surname="Chiaro"/>
-    <author surname="Potter"/>
+    <seriesInfo name="NIST" value="NIST TN 2073"/>
+    <author surname="Pibida">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author surname="Forrester">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author surname="Chiaro">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author surname="Potter">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November"/>
   </front>

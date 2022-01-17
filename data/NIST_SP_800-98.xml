@@ -2,13 +2,31 @@
   <front>
     <title>Guidelines for securing Radio Frequency Identification (RFID) systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-98"/>
-    <author surname="Karygiannis"/>
-    <author surname="Eydt"/>
-    <author surname="Barber"/>
-    <author surname="Bunn"/>
-    <author surname="Phillips"/>
+    <seriesInfo name="NIST" value="NIST SP 800-98"/>
+    <author surname="Karygiannis">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Eydt">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Barber">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Bunn">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Phillips">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

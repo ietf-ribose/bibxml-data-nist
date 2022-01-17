@@ -2,11 +2,25 @@
   <front>
     <title>Service range for air-to-ground communications at frequencies above 50 mc</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.6-3"/>
-    <author surname="Kirby"/>
-    <author surname="Herstreit"/>
-    <author surname="Norton"/>
+    <seriesInfo name="NIST" value="NBS CRPL 6-3"/>
+    <author surname="Kirby">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Herstreit">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Norton">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1951"/>
   </front>

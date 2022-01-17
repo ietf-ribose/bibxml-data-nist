@@ -1,15 +1,35 @@
 <reference anchor="NIST.SP.800-53a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53a.pdf">
   <front>
-    <title>Guide for assessing the security controls in federal information systems and organizations : building effective security assessment plans</title>
+    <title>Guide for assessing the security controls in federal information systems and organizations :building effective security assessment plans</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53a"/>
-    <author surname="Ross"/>
-    <author surname="Johnson"/>
-    <author surname="Katzke"/>
-    <author surname="Toth"/>
-    <author surname="Stoneburner"/>
-    <author surname="Rogers"/>
+    <seriesInfo name="NIST" value="NIST SP 800-53a"/>
+    <author surname="Ross">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Johnson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Katzke">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Toth">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Stoneburner">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Rogers">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

@@ -1,12 +1,26 @@
 <reference anchor="NIST.IR.7501" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7501.pdf">
   <front>
-    <title>NIST Intercomparison Program for Organic Contaminants in the Marine Environment: Description and Results of 2007 Organic Intercomparison Exercises</title>
+    <title>NIST Intercomparison Program for Organic Contaminants in the Marine Environment:Description and Results of 2007 Organic Intercomparison Exercises</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7501"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Reenie Parris" initials="R." surname="Parris"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <seriesInfo name="NIST" value="NIST IR 7501"/>
+    <author fullname="Michele Schantz" initials="M." surname="Schantz">
+      <organization>Analytical Chemistry Division, Chemical Science and Technology Laboratory</organization>
+    </author>
+    <author fullname="Reenie Parris" initials="R." surname="Parris">
+      <organization>Analytical Chemistry Division, Chemical Science and Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephen Wise" initials="S." surname="Wise">
+      <organization>Analytical Chemistry Division, Chemical Science and Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008" month="June"/>
   </front>

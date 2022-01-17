@@ -2,12 +2,20 @@
   <front>
     <title>Basic linear algebra operations in SLI arithmetic</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5811"/>
+    <seriesInfo name="NIST" value="NIST IR 5811"/>
     <author surname="Anuta"/>
     <author surname="Lozier"/>
     <author surname="Schabanel"/>
     <author surname="Turner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

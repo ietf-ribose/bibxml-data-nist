@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.82-2529" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2529.pdf">
   <front>
-    <title>Ultrasonic research : summary report and literature guide tothe National Bureau of Standards Office of Naval Research Program</title>
+    <title>Ultrasonic research :summary report and literature guide tothe National Bureau of Standards Office of Naval Research Program</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2529"/>
+    <seriesInfo name="NIST" value="NBS IR 82-2529"/>
     <author surname="Greenspan"/>
     <author surname="Eitzen"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

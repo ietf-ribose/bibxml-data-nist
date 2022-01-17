@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8259Aes" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8259Aes.pdf">
+<reference anchor="NIST.IR.8259Aes" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8259Aes.pdf">
   <front>
     <title>Referencia básica de las capacidades de ciberseguridad de los dispositivos de IoT</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8259Aes"/>
-    <author fullname="Michael Fagan" initials="M." surname="Fagan"/>
-    <author fullname="Katerina Megas" initials="K." surname="Megas"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
-    <author fullname="Matthew Smith" initials="M." surname="Smith"/>
+    <seriesInfo name="NIST" value="NIST IR 8259Aes"/>
+    <author fullname="Michael Fagan" initials="M." surname="Fagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Katerina Megas" initials="K." surname="Megas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Smith" initials="M." surname="Smith">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

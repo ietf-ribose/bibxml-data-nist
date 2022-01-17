@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.260-96" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-96.pdf">
   <front>
-    <title>Standard Reference Materials Uranium-235 isotope abundance standard reference materials for gamma spectrometry measurements</title>
+    <title>Standard Reference MaterialsUranium-235 isotope abundance standard reference materials for gamma spectrometry measurements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-96"/>
+    <seriesInfo name="NIST" value="NBS SP 260-96"/>
     <author surname="Connolly"/>
     <author surname="DeBievre"/>
     <author surname="Eschbach"/>
@@ -14,6 +15,13 @@
     <author surname="Carpenter"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

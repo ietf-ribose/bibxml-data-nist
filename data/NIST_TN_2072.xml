@@ -2,12 +2,28 @@
   <front>
     <title>Airflow and indoor air quality models of DOE prototype commercial buildings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2072"/>
-    <author fullname="Lisa Ng" initials="L." surname="Ng"/>
-    <author fullname="Amy Musser" initials="A." surname="Musser"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
+    <seriesInfo name="NIST" value="NIST TN 2072"/>
+    <author fullname="Lisa Ng" initials="L." surname="Ng">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Amy Musser" initials="A." surname="Musser">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="October"/>
   </front>

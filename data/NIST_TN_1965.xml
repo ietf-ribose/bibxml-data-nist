@@ -2,13 +2,31 @@
   <front>
     <title>Mobile manipulator performance measurement data</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1965"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
-    <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud"/>
-    <author fullname="Steve Legowik" initials="S." surname="Legowik"/>
-    <author fullname="Tsai Hong" initials="T." surname="Hong"/>
-    <author fullname="Sebti Foufou" initials="S." surname="Foufou"/>
+    <seriesInfo name="NIST" value="NIST TN 1965"/>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steve Legowik" initials="S." surname="Legowik">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Tsai Hong" initials="T." surname="Hong">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sebti Foufou" initials="S." surname="Foufou">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="June"/>
   </front>

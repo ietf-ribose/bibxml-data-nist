@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.800-20" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-20.pdf">
   <front>
-    <title>Modes of Operation Validation System for the Triple Data Encryption Algorithm (TMOVS) : requirements and procedures</title>
+    <title>Modes of Operation Validation System for the Triple Data Encryption Algorithm (TMOVS) :requirements and procedures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-20"/>
+    <seriesInfo name="NIST" value="NIST SP 800-20"/>
     <author surname="Keller"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012"/>
   </front>

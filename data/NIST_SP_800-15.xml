@@ -2,12 +2,28 @@
   <front>
     <title>Minimum interoperability specification for PKI components (MISPC)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-15"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
-    <author fullname="Donna Dodson" initials="D." surname="Dodson"/>
-    <author fullname="Noel Nazario" initials="N." surname="Nazario"/>
-    <author fullname="Timothy Polk" initials="T." surname="Polk"/>
+    <seriesInfo name="NIST" value="NIST SP 800-15"/>
+    <author fullname="William Burr" initials="W." surname="Burr">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Donna Dodson" initials="D." surname="Dodson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Noel Nazario" initials="N." surname="Nazario">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Timothy Polk" initials="T." surname="Polk">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

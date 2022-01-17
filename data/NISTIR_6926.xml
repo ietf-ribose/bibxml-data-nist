@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6926" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6926.pdf">
   <front>
-    <title>The NIST design repository project : project overview and implementational design</title>
+    <title>The NIST design repository project :project overview and implementational design</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6926"/>
+    <seriesInfo name="NIST" value="NIST IR 6926"/>
     <author fullname="Simon Szykman" initials="S." surname="Szykman"/>
     <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

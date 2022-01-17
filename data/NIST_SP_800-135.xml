@@ -2,9 +2,17 @@
   <front>
     <title>Recommendation for existing application-specific key derivation functions</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-135"/>
+    <seriesInfo name="NIST" value="NIST SP 800-135"/>
     <author surname="Dang"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

@@ -1,8 +1,11 @@
-<reference anchor="NISTIR.8326" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8326.pdf">
+<reference anchor="NIST.IR.8326" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8326.pdf">
   <front>
     <title>A Model-Driven Approach to Interoperability Between Simulation and Optimization for Production and Logistics Systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8326"/>
-    <author fullname="Timothy Sprock" initials="T." surname="Sprock"/>
+    <seriesInfo name="NIST" value="NIST IR 8326"/>
+    <author fullname="Timothy Sprock" initials="T." surname="Sprock">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

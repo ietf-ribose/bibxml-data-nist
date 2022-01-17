@@ -1,7 +1,8 @@
 <reference anchor="NBS.BH.14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing14.pdf">
   <front>
-    <title>Recommended minimum requirements for fire resistance in buildings : report of the Department of Commerce building code committee</title>
+    <title>Recommended minimum requirements for fire resistance in buildings :report of the Department of Commerce building code committee</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.14"/>
+    <seriesInfo name="NIST" value="NBS BH 14"/>
     <author fullname="William Hatt" initials="W." surname="Hatt"/>
     <author fullname="Rudolph Miller" initials="R." surname="Miller"/>
     <author fullname="Edwin Brown" initials="E." surname="Brown"/>
@@ -12,6 +13,13 @@
     <author fullname="James Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1931"/>
   </front>

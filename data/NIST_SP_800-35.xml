@@ -2,6 +2,7 @@
   <front>
     <title>Guide to information technology security services</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-35"/>
+    <seriesInfo name="NIST" value="NIST SP 800-35"/>
     <author surname="Grance"/>
     <author surname="Hash"/>
     <author surname="Stevens"/>
@@ -9,6 +10,13 @@
     <author surname="Bartol"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

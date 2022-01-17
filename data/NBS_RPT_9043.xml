@@ -1,13 +1,21 @@
 <reference anchor="NBS.RPT.9043" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9043.pdf">
   <front>
-    <title>Sixth preliminary report on a survey of thermodynamic properties of the compounds of the elements CHNOPS : progress report for the period 1 October to 31 December 1965 to National Aeronautics and Space Administration</title>
+    <title>Sixth preliminary report on a survey of thermodynamic properties of the compounds of the elements CHNOPS :progress report for the period 1 October to 31 December 1965 to National Aeronautics and Space Administration</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9043"/>
+    <seriesInfo name="NIST" value="NBS RPT 9043"/>
     <author fullname="George Furukawa" initials="G." surname="Furukawa"/>
     <author fullname="Mary Buresh" initials="M." surname="Buresh"/>
     <author fullname="Martin Reilly" initials="M." surname="Reilly"/>
     <author fullname="George Armstrong" initials="G." surname="Armstrong"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

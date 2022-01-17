@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.6953" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6953.pdf">
   <front>
-    <title>Electricity division: programs, activities, and accomplishments</title>
+    <title>Electricity division:programs, activities, and accomplishments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6953"/>
+    <seriesInfo name="NIST" value="NIST IR 6953"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

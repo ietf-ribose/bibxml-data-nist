@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.82-2540" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2540.pdf">
   <front>
-    <title>Economic evaluation of solar energy systems in commercial buildings : methodology and case studies</title>
+    <title>Economic evaluation of solar energy systems in commercial buildings :methodology and case studies</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2540"/>
+    <seriesInfo name="NIST" value="NBS IR 82-2540"/>
     <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
     <author fullname="Thomas Sav" initials="T." surname="Sav"/>
     <author fullname="Jeanne Powell" initials="J." surname="Powell"/>
     <author fullname="Thomas Pierce" initials="T." surname="Pierce"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

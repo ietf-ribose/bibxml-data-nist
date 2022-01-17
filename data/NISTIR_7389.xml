@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7389" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7389.pdf">
   <front>
-    <title>Marine environmental specimen bank : clean room and specimen bank protocols</title>
+    <title>Marine environmental specimen bank :clean room and specimen bank protocols</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7389"/>
+    <seriesInfo name="NIST" value="NIST IR 7389"/>
     <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
     <author fullname="Michael Ellisor" initials="M." surname="Ellisor"/>
     <author fullname="Amanda Moors" initials="A." surname="Moors"/>
@@ -9,6 +10,13 @@
     <author fullname="Paul Becker" initials="P." surname="Becker"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

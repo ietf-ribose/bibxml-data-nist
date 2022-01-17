@@ -2,11 +2,25 @@
   <front>
     <title>On-machine measurement use cases and information for machining operations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.400-1"/>
-    <author fullname="John Horst" initials="J." surname="Horst"/>
-    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg"/>
-    <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney"/>
+    <seriesInfo name="NIST" value="NIST AMS 400-1"/>
+    <author fullname="John Horst" initials="J." surname="Horst">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August"/>
   </front>

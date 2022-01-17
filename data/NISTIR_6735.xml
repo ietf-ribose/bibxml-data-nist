@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6735" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6735.pdf">
   <front>
-    <title>Seabird Tissue and Monitoring Project: protocol for collecting and banking seabird eggs</title>
+    <title>Seabird Tissue and Monitoring Project:protocol for collecting and banking seabird eggs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6735"/>
+    <seriesInfo name="NIST" value="NIST IR 6735"/>
     <author fullname="GeoffWeston York" initials="G.W." surname="York"/>
     <author fullname="Barbara Porter" initials="B." surname="Porter"/>
     <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
@@ -12,6 +13,13 @@
     <author fullname="Stephen Wise" initials="S." surname="Wise"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

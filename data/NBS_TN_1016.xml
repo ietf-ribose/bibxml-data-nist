@@ -2,9 +2,17 @@
   <front>
     <title>A standard for RF modulation factor</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1016"/>
+    <seriesInfo name="NIST" value="NBS TN 1016"/>
     <author surname="Arthur"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

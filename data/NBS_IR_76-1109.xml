@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.76-1109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1109.pdf">
   <front>
-    <title>Architectural glazing safety standard : survey of codes and standards</title>
+    <title>Architectural glazing safety standard :survey of codes and standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1109"/>
+    <seriesInfo name="NIST" value="NBS IR 76-1109"/>
     <author fullname="Sanford Adler" initials="S." surname="Adler"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

@@ -1,14 +1,29 @@
-<reference anchor="NISTIR.8392" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8392.pdf">
+<reference anchor="NIST.IR.8392" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8392.pdf">
   <front>
     <title>Evaluating the Impact of Contactless Fingerprint Imagery Spatial Loss on Matcher Performance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8392"/>
-    <author fullname="Shahram Orandi" initials="S." surname="Orandi"/>
-    <author fullname="John Libert" initials="J." surname="Libert"/>
-    <author fullname="Bruce Bandini" initials="B." surname="Bandini"/>
-    <author fullname="Kenneth Ko" initials="K." surname="Ko"/>
-    <author fullname="John Grantham" initials="J." surname="Grantham"/>
-    <author fullname="Brian Cochran" initials="B." surname="Cochran"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
+    <seriesInfo name="NIST" value="NIST IR 8392"/>
+    <author fullname="Shahram Orandi" initials="S." surname="Orandi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Libert" initials="J." surname="Libert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Bruce Bandini" initials="B." surname="Bandini">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kenneth Ko" initials="K." surname="Ko">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Grantham" initials="J." surname="Grantham">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Brian Cochran" initials="B." surname="Cochran">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

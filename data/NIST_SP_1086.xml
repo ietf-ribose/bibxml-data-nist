@@ -2,6 +2,7 @@
   <front>
     <title>CFAST</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1086"/>
+    <seriesInfo name="NIST" value="NIST SP 1086"/>
     <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
     <author fullname="Bryan Klein" initials="B." surname="Klein"/>
@@ -9,6 +10,13 @@
     <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

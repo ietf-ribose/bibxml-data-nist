@@ -1,11 +1,19 @@
 <reference anchor="NBS.NSRDS.63supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds63supp1.pdf">
   <front>
-    <title>1980 cumulative indexes to EPANIH mass spectral data base : supplement 1</title>
+    <title>1980 cumulative indexes to EPANIH mass spectral data base :supplement 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.63supp1"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 63supp1"/>
     <author fullname="Stephen Heller" initials="S." surname="Heller"/>
     <author surname="Milne"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

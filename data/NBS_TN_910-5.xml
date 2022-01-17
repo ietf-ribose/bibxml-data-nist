@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.910-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote910-5.pdf">
   <front>
-    <title>Self-study manual on optical radiation measurements : Part III--Applications, Chapter 1</title>
+    <title>Self-study manual on optical radiation measurements :Part III--Applications, Chapter 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.910-5"/>
+    <seriesInfo name="NIST" value="NBS TN 910-5"/>
     <author fullname="Fred Nicodemus" initials="F." surname="Nicodemus"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Air exchange rate measurements in the National Archives Building</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2770"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2770"/>
     <author fullname="Samuel Silberstein" initials="S." surname="Silberstein"/>
     <author fullname="Douglas Pruitt" initials="D." surname="Pruitt"/>
     <author fullname="Philip Engers" initials="P." surname="Engers"/>
@@ -9,6 +10,13 @@
     <author fullname="Steven Schweinfurth" initials="S." surname="Schweinfurth"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

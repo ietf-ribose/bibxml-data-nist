@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.396-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication396-3.pdf">
   <front>
-    <title>Critical surveys of data sources : corrosion of metals</title>
+    <title>Critical surveys of data sources :corrosion of metals</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.396-3"/>
+    <seriesInfo name="NIST" value="NBS SP 396-3"/>
     <author fullname="Ronald Diegle" initials="R." surname="Diegle"/>
     <author fullname="Walter Boyd" initials="W." surname="Boyd"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

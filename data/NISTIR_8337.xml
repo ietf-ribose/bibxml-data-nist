@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8337" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8337.pdf">
+<reference anchor="NIST.IR.8337" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8337.pdf">
   <front>
     <title>An Integrated Set of XML Tools – User Guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8337"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
-    <author fullname="Zeid Kootbally" initials="Z." surname="Kootbally"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
+    <seriesInfo name="NIST" value="NIST IR 8337"/>
+    <author fullname="Thomas Kramer" initials="T." surname="Kramer">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Zeid Kootbally" initials="Z." surname="Kootbally">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

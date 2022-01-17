@@ -2,10 +2,18 @@
   <front>
     <title>Consumer Information Series 5: care of books, documents, prints and films</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIS.5"/>
+    <seriesInfo name="NIST" value="NBS CIS 5"/>
     <author fullname="William Wilson" initials="W." surname="Wilson"/>
     <author fullname="James Gear" initials="J." surname="Gear"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

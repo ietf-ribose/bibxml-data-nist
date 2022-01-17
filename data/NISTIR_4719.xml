@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4719" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4719.pdf">
   <front>
-    <title>Protection of archival record from pollutants: the measurement of the diffusion of SO2 through and absorption of SO2 by archival boxboard</title>
+    <title>Protection of archival record from pollutants:the measurement of the diffusion of SO2 through and absorption of SO2 by archival boxboard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4719"/>
+    <seriesInfo name="NIST" value="NIST IR 4719"/>
     <author fullname="Charles Guttman" initials="C." surname="Guttman"/>
     <author fullname="Kenneth Jewett" initials="K." surname="Jewett"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

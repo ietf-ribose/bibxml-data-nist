@@ -2,16 +2,40 @@
   <front>
     <title>A calibration of timing accuracy in the NIST cyber-physical systems testbed</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2030"/>
-    <author fullname="Marc Weiss" initials="M." surname="Weiss"/>
-    <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud"/>
-    <author fullname="Dhananjay Anand" initials="D." surname="Anand"/>
-    <author fullname="Kevin Brady Jr." initials="K." surname="Brady Jr."/>
-    <author fullname="Paul Boynton" initials="P." surname="Boynton"/>
-    <author fullname="Cuong Nguyen" initials="C." surname="Nguyen"/>
-    <author fullname="Martin Burns" initials="M." surname="Burns"/>
-    <author fullname="Avi Gopstein" initials="A." surname="Gopstein"/>
+    <seriesInfo name="NIST" value="NIST TN 2030"/>
+    <author fullname="Marc Weiss" initials="M." surname="Weiss">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Dhananjay Anand" initials="D." surname="Anand">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kevin Brady Jr." initials="K." surname="Brady Jr.">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Paul Boynton" initials="P." surname="Boynton">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Cuong Nguyen" initials="C." surname="Nguyen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Martin Burns" initials="M." surname="Burns">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Avi Gopstein" initials="A." surname="Gopstein">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December"/>
   </front>

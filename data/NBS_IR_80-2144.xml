@@ -2,11 +2,19 @@
   <front>
     <title>Residential Solar Data Center MIRADS user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2144"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2144"/>
     <author fullname="Patricia Christopher" initials="P." surname="Christopher"/>
     <author fullname="Michael Vogt" initials="M." surname="Vogt"/>
     <author fullname="Douglas Hall" initials="D." surname="Hall"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

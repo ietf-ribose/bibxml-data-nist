@@ -2,14 +2,34 @@
   <front>
     <title>PIV data model test guidelines</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85b"/>
-    <author surname="Chandramouli"/>
-    <author surname="Mehta"/>
-    <author surname="Uzamere II"/>
-    <author surname="Simon"/>
-    <author surname="Ghadiali"/>
-    <author surname="Founds"/>
+    <seriesInfo name="NIST" value="NIST SP 800-85b"/>
+    <author surname="Chandramouli">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Mehta">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Uzamere II">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Simon">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Ghadiali">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Founds">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

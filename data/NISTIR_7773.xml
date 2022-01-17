@@ -2,6 +2,7 @@
   <front>
     <title>An application of combinatorial methods to conformance testing for document object model events</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7773"/>
+    <seriesInfo name="NIST" value="NIST IR 7773"/>
     <author fullname="Carmelo Montanez" initials="C." surname="Montanez"/>
     <author fullname="Richard Kuhn" initials="R." surname="Kuhn"/>
     <author fullname="Mary Brady" initials="M." surname="Brady"/>
@@ -10,6 +11,13 @@
     <author fullname="Michael Powers" initials="M." surname="Powers"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

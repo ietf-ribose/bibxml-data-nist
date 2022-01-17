@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.260-145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-145.pdf">
   <front>
-    <title>Standard Reference Materials Standard Reference Material 2538 for polarization-mode dispersion (non-mode-coupled)</title>
+    <title>Standard Reference MaterialsStandard Reference Material 2538 for polarization-mode dispersion (non-mode-coupled)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-145"/>
+    <seriesInfo name="NIST" value="NIST SP 260-145"/>
     <author fullname="Shelley Etzel" initials="S." surname="Etzel"/>
     <author fullname="Chih-Ming Wang" initials="C." surname="Wang"/>
     <author fullname="Paul Williams" initials="P." surname="Williams"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Problem and data spcification for linear programs</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3125"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3125"/>
     <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
     <author fullname="Marjorie McClain" initials="M." surname="McClain"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985" month="January"/>
   </front>

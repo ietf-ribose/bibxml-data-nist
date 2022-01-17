@@ -2,11 +2,19 @@
   <front>
     <title>Full scale test on a two-story house subjected to lateral load</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.44"/>
+    <seriesInfo name="NIST" value="NBS BSS 44"/>
     <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
     <author fullname="George Hsi" initials="G." surname="Hsi"/>
     <author fullname="Norman Somes" initials="N." surname="Somes"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

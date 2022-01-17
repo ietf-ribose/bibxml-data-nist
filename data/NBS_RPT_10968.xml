@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.10968" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10968.pdf">
   <front>
-    <title>Nonmetallic coatings for concrete reinforcing bars: interim report no. 4 screening tests for evaluating materials</title>
+    <title>Nonmetallic coatings for concrete reinforcing bars:interim report no. 4 screening tests for evaluating materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10968"/>
+    <seriesInfo name="NIST" value="NBS RPT 10968"/>
     <author fullname="James Clifton" initials="J." surname="Clifton"/>
     <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

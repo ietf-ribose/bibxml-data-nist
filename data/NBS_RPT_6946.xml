@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.6946" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6946.pdf">
   <front>
-    <title>Some tensile properties of amalgam: progress report</title>
+    <title>Some tensile properties of amalgam:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6946"/>
+    <seriesInfo name="NIST" value="NBS RPT 6946"/>
     <author fullname="Mario Rodriguez" initials="M." surname="Rodriguez"/>
     <author fullname="George Dickson" initials="G." surname="Dickson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1960"/>
   </front>

@@ -2,11 +2,19 @@
   <front>
     <title>Software tools</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-14"/>
+    <seriesInfo name="NIST" value="NBS SP 500-14"/>
     <author fullname="Trotter Hardy" initials="T." surname="Hardy"/>
     <author fullname="Belkis Leong-Hong" initials="B." surname="Leong-Hong"/>
     <author fullname="Dennis Fife" initials="D." surname="Fife"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Effect of image size and compression on one-to-one fingerprint matching</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7201"/>
+    <seriesInfo name="NIST" value="NIST IR 7201"/>
     <author fullname="Craig Watson" initials="C." surname="Watson"/>
     <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

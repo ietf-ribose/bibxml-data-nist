@@ -1,11 +1,19 @@
 <reference anchor="NBS.NSRDS.54" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds54.pdf">
   <front>
-    <title>The radiolysis of methanol : product yields, rate constants, and spectroscopic parameters of intermediates</title>
+    <title>The radiolysis of methanol :product yields, rate constants, and spectroscopic parameters of intermediates</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.54"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 54"/>
     <author surname="Baxendale"/>
     <author fullname="Peter Wardman" initials="P." surname="Wardman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

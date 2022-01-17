@@ -2,9 +2,17 @@
   <front>
     <title>Problems used in testing the efficiency and accuracy of the modified Gram-Schmidt least squares algorithm</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1126"/>
+    <seriesInfo name="NIST" value="NBS TN 1126"/>
     <author fullname="Roy Wampler" initials="R." surname="Wampler"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

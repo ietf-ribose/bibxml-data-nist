@@ -2,9 +2,17 @@
   <front>
     <title>Stable implementation agreements for open systems interconnection protocols Version 1 Edition 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-150"/>
+    <seriesInfo name="NIST" value="NBS SP 500-150"/>
     <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

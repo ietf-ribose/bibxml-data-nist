@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.3963" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3963.pdf">
   <front>
-    <title>Unsteady laminar flow in a circular tube : a test of the HERCOL (Hermitian collocation) computer code</title>
+    <title>Unsteady laminar flow in a circular tube :a test of the HERCOL (Hermitian collocation) computer code</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.3963"/>
+    <seriesInfo name="NIST" value="NIST IR 3963"/>
     <author fullname="James Welch" initials="J." surname="Welch"/>
     <author fullname="James Hurley" initials="J." surname="Hurley"/>
     <author fullname="Michael Glover" initials="M." surname="Glover"/>
@@ -9,6 +10,13 @@
     <author fullname="Marilyn Yetzbacher" initials="M." surname="Yetzbacher"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

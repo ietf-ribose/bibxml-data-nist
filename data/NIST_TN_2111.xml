@@ -2,8 +2,13 @@
   <front>
     <title>An Empirical Study on Flow-based Botnet Attacks Prediction</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2111"/>
-    <author fullname="Mitsuhiro Hatada" initials="M." surname="Hatada"/>
-    <author fullname="Matthew Scholl" initials="M." surname="Scholl"/>
+    <seriesInfo name="NIST" value="NIST TN 2111"/>
+    <author fullname="Mitsuhiro Hatada" initials="M." surname="Hatada">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Scholl" initials="M." surname="Scholl">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

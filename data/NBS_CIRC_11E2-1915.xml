@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.11e2-1915" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular11e2-1915.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 11 2nd edition: the standardization of bomb calorimeters</title>
+    <title>Circular of the Bureau of Standards no. 11 2nd edition:the standardization of bomb calorimeters</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.11e2-1915"/>
+    <seriesInfo name="NIST" value="NBS CIRC 11e2-1915"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1915"/>
   </front>

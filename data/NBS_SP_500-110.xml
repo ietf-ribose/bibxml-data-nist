@@ -1,12 +1,20 @@
 <reference anchor="NBS.SP.500-110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-110.pdf">
   <front>
-    <title>Microcomputers : introduction to features and uses</title>
+    <title>Microcomputers :introduction to features and uses</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-110"/>
+    <seriesInfo name="NIST" value="NBS SP 500-110"/>
     <author fullname="Myron Hecht" initials="M." surname="Hecht"/>
     <author fullname="Herbert Hecht" initials="H." surname="Hecht"/>
     <author fullname="Laurence Press" initials="L." surname="Press"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

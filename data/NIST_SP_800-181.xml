@@ -2,12 +2,28 @@
   <front>
     <title>National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-181"/>
-    <author fullname="William Newhouse" initials="W." surname="Newhouse"/>
-    <author fullname="Stephanie Keith" initials="S." surname="Keith"/>
-    <author fullname="Benjamin Scribner" initials="B." surname="Scribner"/>
-    <author fullname="Greg Witte" initials="G." surname="Witte"/>
+    <seriesInfo name="NIST" value="NIST SP 800-181"/>
+    <author fullname="William Newhouse" initials="W." surname="Newhouse">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephanie Keith" initials="S." surname="Keith">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Benjamin Scribner" initials="B." surname="Scribner">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Greg Witte" initials="G." surname="Witte">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="August" day="7"/>
   </front>

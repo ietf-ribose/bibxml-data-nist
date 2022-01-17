@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.250-45" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-45.pdf">
   <front>
-    <title>Radiation processing dosimetry calibration services : manual of calibration procedures</title>
+    <title>Radiation processing dosimetry calibration services :manual of calibration procedures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-45"/>
+    <seriesInfo name="NIST" value="NIST SP 250-45"/>
     <author fullname="Jimmy Humphreys" initials="J." surname="Humphreys"/>
     <author fullname="James Puhl" initials="J." surname="Puhl"/>
     <author fullname="Stephen Seltzer" initials="S." surname="Seltzer"/>
@@ -11,6 +12,13 @@
     <author fullname="Marlon Walker" initials="M." surname="Walker"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

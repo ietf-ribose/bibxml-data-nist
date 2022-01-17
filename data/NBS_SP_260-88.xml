@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-88" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-88.pdf">
   <front>
-    <title>Standard Reference Materials 1982 compilation of elemental concentration data for NBS biological, geological, and environmental standard reference materials</title>
+    <title>Standard Reference Materials1982 compilation of elemental concentration data for NBS biological, geological, and environmental standard reference materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-88"/>
+    <seriesInfo name="NIST" value="NBS SP 260-88"/>
     <author surname="Burns"/>
     <author surname="Gills"/>
     <author surname="Roelandts"/>
     <author surname="Gladney"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

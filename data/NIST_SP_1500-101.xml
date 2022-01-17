@@ -2,12 +2,28 @@
   <front>
     <title>Election event logging common data format specification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-101"/>
-    <author fullname="John Wack" initials="J." surname="Wack"/>
-    <author fullname="Richard Rivello" initials="R." surname="Rivello"/>
-    <author fullname="Sam Dana" initials="S." surname="Dana"/>
-    <author fullname="John Dziurlaj" initials="J." surname="Dziurlaj"/>
+    <seriesInfo name="NIST" value="NIST SP 1500-101"/>
+    <author fullname="John Wack" initials="J." surname="Wack">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Richard Rivello" initials="R." surname="Rivello">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Sam Dana" initials="S." surname="Dana">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Dziurlaj" initials="J." surname="Dziurlaj">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.1015" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1015.pdf">
   <front>
-    <title>Next generation fire suppression technology program : FY2004 progress</title>
+    <title>Next generation fire suppression technology program :FY2004 progress</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1015"/>
+    <seriesInfo name="NIST" value="NIST SP 1015"/>
     <author fullname="Richard Gann" initials="R." surname="Gann"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

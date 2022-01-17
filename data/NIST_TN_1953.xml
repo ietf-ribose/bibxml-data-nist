@@ -2,9 +2,19 @@
   <front>
     <title>Propane gas fire experiments in residential scale structures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1953"/>
-    <author fullname="Joseph Willi" initials="J." surname="Willi"/>
+    <seriesInfo name="NIST" value="NIST TN 1953"/>
+    <author fullname="Joseph Willi" initials="J." surname="Willi">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February"/>
   </front>

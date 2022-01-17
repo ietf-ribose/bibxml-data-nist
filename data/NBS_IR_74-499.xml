@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.74-499" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-499.pdf">
   <front>
-    <title>An analysis of the aging of paper : possible reactions and their effects on measurable properties</title>
+    <title>An analysis of the aging of paper :possible reactions and their effects on measurable properties</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.74-499"/>
+    <seriesInfo name="NIST" value="NBS IR 74-499"/>
     <author surname="Wilson"/>
     <author surname="Parks"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

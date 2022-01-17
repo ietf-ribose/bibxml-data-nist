@@ -2,10 +2,18 @@
   <front>
     <title>Recommended instrumentation approaches for a shared-memory multiprocessor</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3663"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3663"/>
     <author fullname="George Nacht" initials="G." surname="Nacht"/>
     <author fullname="Alan Mink" initials="A." surname="Mink"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

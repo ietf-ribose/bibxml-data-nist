@@ -2,10 +2,22 @@
   <front>
     <title>Exploratory lens model of decision-making in a potential phishing attack scenario</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8194"/>
-    <author fullname="Franklin Tamborello" initials="F." surname="Tamborello"/>
-    <author fullname="Kristen Greene" initials="K." surname="Greene"/>
+    <seriesInfo name="NIST" value="NIST IR 8194"/>
+    <author fullname="Franklin Tamborello" initials="F." surname="Tamborello">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kristen Greene" initials="K." surname="Greene">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="October"/>
   </front>

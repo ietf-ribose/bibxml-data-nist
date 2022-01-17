@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.84-2913" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2913.pdf">
   <front>
-    <title>Center for Materials Science : Polymer Science and Standards division: annual report 1983</title>
+    <title>Center for Materials Science :Polymer Science and Standards division: annual report 1983</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2913"/>
+    <seriesInfo name="NIST" value="NBS IR 84-2913"/>
     <author surname="Smith"/>
     <author surname="Broadhurst"/>
     <author surname="Davis"/>
@@ -10,6 +11,13 @@
     <author surname="Tesk"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

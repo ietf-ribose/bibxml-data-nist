@@ -2,10 +2,18 @@
   <front>
     <title>The NIST STEP class library (STEP into the future)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4411"/>
+    <seriesInfo name="NIST" value="NIST IR 4411"/>
     <author fullname="Michael McLay" initials="M." surname="McLay"/>
     <author fullname="Katherine Morris" initials="K." surname="Morris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

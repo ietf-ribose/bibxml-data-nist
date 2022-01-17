@@ -2,10 +2,18 @@
   <front>
     <title>A collection of computer programs for two-probe resistance (spreading resistance) and four-probe resistance calculations, RESPAC</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.400-91"/>
+    <seriesInfo name="NIST" value="NIST SP 400-91"/>
     <author fullname="John Albers" initials="J." surname="Albers"/>
     <author fullname="Harry Berkowitz" initials="H." surname="Berkowitz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>The influence of walls, corners and enclosures on fire plumes</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1984"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Michael Selepak" initials="M." surname="Selepak"/>
-    <author fullname="Edward Hnetkovsky" initials="E." surname="Hnetkovsky"/>
+    <seriesInfo name="NIST" value="NIST TN 1984"/>
+    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Michael Selepak" initials="M." surname="Selepak">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Edward Hnetkovsky" initials="E." surname="Hnetkovsky">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March"/>
   </front>

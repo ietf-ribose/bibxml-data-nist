@@ -2,9 +2,17 @@
   <front>
     <title>An expression formatter for MACSYMA</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5618"/>
+    <seriesInfo name="NIST" value="NIST IR 5618"/>
     <author fullname="Bruce Miller" initials="B." surname="Miller"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

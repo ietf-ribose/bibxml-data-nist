@@ -2,9 +2,17 @@
   <front>
     <title>Annotated accession list of data compilations of the office of standard reference data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.554"/>
+    <seriesInfo name="NIST" value="NBS TN 554"/>
     <author fullname="Herman Weisman" initials="H." surname="Weisman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

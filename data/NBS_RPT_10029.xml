@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.10029" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10029.pdf">
   <front>
-    <title>Compatibility of protective coatings, materials, and liquid propellants : quarterly progress report no. 13</title>
+    <title>Compatibility of protective coatings, materials, and liquid propellants :quarterly progress report no. 13</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10029"/>
+    <seriesInfo name="NIST" value="NBS RPT 10029"/>
     <author surname="Young"/>
     <author surname="Reid"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

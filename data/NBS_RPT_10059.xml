@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.10059" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10059.pdf">
   <front>
-    <title>Simple extension of model making technique of Wood, Geith, Pan Liang and Dockrill : progress report</title>
+    <title>Simple extension of model making technique of Wood, Geith, Pan Liang and Dockrill :progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10059"/>
+    <seriesInfo name="NIST" value="NBS RPT 10059"/>
     <author surname="Bowen"/>
     <author surname="Kingsbury"/>
     <author surname="Dickens"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

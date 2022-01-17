@@ -2,9 +2,19 @@
   <front>
     <title>SCAP composer user guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8290"/>
-    <author fullname="Joshua Lubell" initials="J." surname="Lubell"/>
+    <seriesInfo name="NIST" value="NIST IR 8290"/>
+    <author fullname="Joshua Lubell" initials="J." surname="Lubell">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.87-3661" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3661.pdf">
   <front>
-    <title>Indoor air quality modeling : phase II report</title>
+    <title>Indoor air quality modeling :phase II report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3661"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3661"/>
     <author fullname="James Axley" initials="J." surname="Axley"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

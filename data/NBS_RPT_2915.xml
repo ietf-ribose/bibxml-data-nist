@@ -2,11 +2,19 @@
   <front>
     <title>Catalog of available tropospheric field strength data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.2915"/>
+    <seriesInfo name="NIST" value="NBS RPT 2915"/>
     <author surname="Herbstreit"/>
     <author surname="Rice"/>
     <author surname="Short"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1953" month="October"/>
   </front>

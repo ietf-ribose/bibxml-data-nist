@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.81-2267" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2267.pdf">
   <front>
-    <title>1980 annual report : electric and magnetic field measurements</title>
+    <title>1980 annual report :electric and magnetic field measurements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2267"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2267"/>
     <author fullname="Ronald McKnight" initials="R." surname="McKnight"/>
     <author surname="Kotter"/>
     <author surname="Misakian"/>
     <author surname="Ortiz"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

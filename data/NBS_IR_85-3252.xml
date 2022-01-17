@@ -2,12 +2,20 @@
   <front>
     <title>A program for the development of a benchmark compartment fire model computer code</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3252"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3252"/>
     <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
     <author fullname="John Rockett" initials="J." surname="Rockett"/>
     <author fullname="Henry Mitler" initials="H." surname="Mitler"/>
     <author fullname="David Stroup" initials="D." surname="Stroup"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

@@ -2,9 +2,17 @@
   <front>
     <title>Open monte carlo engine user manual</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7739"/>
+    <seriesInfo name="NIST" value="NIST IR 7739"/>
     <author fullname="Ruediger Kessel" initials="R." surname="Kessel"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

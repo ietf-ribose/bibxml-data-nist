@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.5939" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5939.pdf">
   <front>
-    <title>SIMA reference architecture, part 1: activity models</title>
+    <title>SIMA reference architecture, part 1:activity models</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5939"/>
+    <seriesInfo name="NIST" value="NIST IR 5939"/>
     <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
     <author fullname="Neil Christopher" initials="N." surname="Christopher"/>
     <author fullname="Shaw Feng" initials="S." surname="Feng"/>
@@ -18,6 +19,13 @@
     <author fullname="Evan Wallace" initials="E." surname="Wallace"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

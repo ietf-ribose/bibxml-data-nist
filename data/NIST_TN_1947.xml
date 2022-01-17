@@ -2,9 +2,19 @@
   <front>
     <title>A study on the performance of current smoke alarms to the new fire and nuisance tests prescribed in ANSIUL 217-2015</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1947"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
+    <seriesInfo name="NIST" value="NIST TN 1947"/>
+    <author fullname="Thomas Cleary" initials="T." surname="Cleary">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.79-1371" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1371.pdf">
   <front>
-    <title>Collaborative reference program for color and appearance : ASTM 60° gloss Report no. 2</title>
+    <title>Collaborative reference program for color and appearance :ASTM 60° gloss Report no. 2</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1371"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1371"/>
     <author surname="Horlick"/>
     <author surname="Cummings"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.500-159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-159.pdf">
   <front>
-    <title>Data administration : management and practice</title>
+    <title>Data administration :management and practice</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-159"/>
+    <seriesInfo name="NIST" value="NIST SP 500-159"/>
     <author fullname="Judith Newton" initials="J." surname="Newton"/>
     <author fullname="Frankie Spielman" initials="F." surname="Spielman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

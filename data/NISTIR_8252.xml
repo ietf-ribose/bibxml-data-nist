@@ -1,12 +1,26 @@
 <reference anchor="NIST.IR.8252" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8252.pdf">
   <front>
-    <title>IREX IX part two: multispectral iris recognition</title>
+    <title>IREX IX part two:multispectral iris recognition</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8252"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="James Matey" initials="J." surname="Matey"/>
+    <seriesInfo name="NIST" value="NIST IR 8252"/>
+    <author fullname="George Quinn" initials="G." surname="Quinn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Matey" initials="J." surname="Matey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June"/>
   </front>

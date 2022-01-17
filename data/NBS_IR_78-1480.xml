@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.78-1480" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1480.pdf">
   <front>
-    <title>Evaluation of methodology for analysis of helocarbons in the upper atmosphere : phase I</title>
+    <title>Evaluation of methodology for analysis of helocarbons in the upper atmosphere :phase I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1480"/>
+    <seriesInfo name="NIST" value="NBS IR 78-1480"/>
     <author fullname="Ernest Hughes" initials="E." surname="Hughes"/>
     <author fullname="William Dorko" initials="W." surname="Dorko"/>
     <author fullname="John Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

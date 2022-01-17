@@ -1,9 +1,17 @@
 <reference anchor="NIST.SP.800-53ar1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53ar1.pdf">
   <front>
-    <title>Guide for assessing the security controls in federal information systems and organizations : building effective security assessment plans</title>
+    <title>Guide for assessing the security controls in federal information systems and organizations :building effective security assessment plans</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53ar1"/>
+    <seriesInfo name="NIST" value="NIST SP 800-53ar1"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

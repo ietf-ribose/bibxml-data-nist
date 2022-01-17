@@ -2,15 +2,37 @@
   <front>
     <title>Voices of first responders</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8277"/>
-    <author fullname="Kristen Greene" initials="K." surname="Greene"/>
-    <author fullname="Shane� Dawkins" initials="S." surname="Dawkins"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
-    <author fullname="Michelle Steves" initials="M." surname="Steves"/>
-    <author fullname="Susanne Furman" initials="S." surname="Furman"/>
-    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong"/>
-    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman"/>
+    <seriesInfo name="NIST" value="NIST IR 8277"/>
+    <author fullname="Kristen Greene" initials="K." surname="Greene">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Shane� Dawkins" initials="S." surname="Dawkins">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Michelle Steves" initials="M." surname="Steves">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Susanne Furman" initials="S." surname="Furman">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November"/>
   </front>

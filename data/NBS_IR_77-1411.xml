@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.77-1411" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1411.pdf">
   <front>
-    <title>International research : the FY 1977 survey of CBT's international programs</title>
+    <title>International research :the FY 1977 survey of CBT's international programs</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1411"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1411"/>
     <author fullname="Michael Olmert" initials="M." surname="Olmert"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

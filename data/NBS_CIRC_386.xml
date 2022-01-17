@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.386" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular386.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 386: specifications for the manufacture and installation of railway track scales for light industrial service (for knife-edge scales only)</title>
+    <title>Circular of the Bureau of Standards no. 386:specifications for the manufacture and installation of railway track scales for light industrial service (for knife-edge scales only)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.386"/>
+    <seriesInfo name="NIST" value="NBS CIRC 386"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1930"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Microwave frequency measurements and standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.9-7"/>
-    <author surname="Husten"/>
-    <author fullname="Harold Lyons" initials="H." surname="Lyons"/>
+    <seriesInfo name="NIST" value="NBS CRPL 9-7"/>
+    <author surname="Husten">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author fullname="Harold Lyons" initials="H." surname="Lyons">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1948"/>
   </front>

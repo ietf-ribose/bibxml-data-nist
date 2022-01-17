@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.319e2" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular319e2.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 319 2nd edition: alphabetical index and numerical list of United States government master specifications, promulgated by the federal specifications board (complete to June 10, 1927)</title>
+    <title>Circular of the Bureau of Standards no. 319 2nd edition:alphabetical index and numerical list of United States government master specifications, promulgated by the federal specifications board (complete to June 10, 1927)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.319e2"/>
+    <seriesInfo name="NIST" value="NBS CIRC 319e2"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1927"/>
   </front>

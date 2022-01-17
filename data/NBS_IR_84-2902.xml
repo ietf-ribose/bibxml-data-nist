@@ -2,12 +2,20 @@
   <front>
     <title>Selected NBSNET software</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2902"/>
+    <seriesInfo name="NIST" value="NBS IR 84-2902"/>
     <author fullname="Michael Strawbridge" initials="M." surname="Strawbridge"/>
     <author fullname="Sheryl Schooley" initials="S." surname="Schooley"/>
     <author fullname="Joseph Sokol" initials="J." surname="Sokol"/>
     <author fullname="Robert Crosson" initials="R." surname="Crosson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

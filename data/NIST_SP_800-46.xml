@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.800-46" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-46.pdf">
   <front>
-    <title>Security for telecommuting and broadband communications : recommendations of the National Institute of Standards and Technology</title>
+    <title>Security for telecommuting and broadband communications :recommendations of the National Institute of Standards and Technology</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-46"/>
-    <author fullname="Richard Kuhn" initials="R." surname="Kuhn"/>
-    <author fullname="Miles Tracy" initials="M." surname="Tracy"/>
-    <author fullname="Sheila Frankel" initials="S." surname="Frankel"/>
+    <seriesInfo name="NIST" value="NIST SP 800-46"/>
+    <author fullname="Richard Kuhn" initials="R." surname="Kuhn">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Miles Tracy" initials="M." surname="Tracy">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Sheila Frankel" initials="S." surname="Frankel">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

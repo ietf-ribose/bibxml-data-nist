@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.86-3414" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3414.pdf">
   <front>
-    <title>A computer code for gas-liquid two-phase vortex motions : GLVM</title>
+    <title>A computer code for gas-liquid two-phase vortex motions :GLVM</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3414"/>
+    <seriesInfo name="NIST" value="NBS IR 86-3414"/>
     <author surname="Yeh"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

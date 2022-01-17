@@ -2,12 +2,20 @@
   <front>
     <title>Style guide for voting system documentation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7519"/>
+    <seriesInfo name="NIST" value="NIST IR 7519"/>
     <author fullname="Dana Chisnell" initials="D." surname="Chisnell"/>
     <author fullname="Susan Becker" initials="S." surname="Becker"/>
     <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
     <author fullname="Svetlana Lowry" initials="S." surname="Lowry"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

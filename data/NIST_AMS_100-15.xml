@@ -2,18 +2,46 @@
   <front>
     <title>2017 NIST OAGi workshop: enabling composable service-oriented manufacturing systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-15"/>
-    <author fullname="Nenad Ivezic" initials="N." surname="Ivezic"/>
-    <author fullname="Boonserm Kulvatunyou" initials="B." surname="Kulvatunyou"/>
-    <author fullname="Dennis Brandl" initials="D." surname="Brandl"/>
-    <author fullname="Marco Macchi" initials="M." surname="Macchi"/>
-    <author fullname="Yan Lu" initials="Y." surname="Lu"/>
-    <author fullname="David Noller" initials="D." surname="Noller"/>
-    <author fullname="Jim Davis" initials="J." surname="Davis"/>
-    <author fullname="Thorsten Wuest" initials="T." surname="Wuest"/>
-    <author fullname="Dimitris Kiritsis" initials="D." surname="Kiritsis"/>
-    <author fullname="Paul Witherell" initials="P." surname="Witherell"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-15"/>
+    <author fullname="Nenad Ivezic" initials="N." surname="Ivezic">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Boonserm Kulvatunyou" initials="B." surname="Kulvatunyou">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Dennis Brandl" initials="D." surname="Brandl">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Marco Macchi" initials="M." surname="Macchi">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Yan Lu" initials="Y." surname="Lu">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Noller" initials="D." surname="Noller">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jim Davis" initials="J." surname="Davis">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thorsten Wuest" initials="T." surname="Wuest">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Dimitris Kiritsis" initials="D." surname="Kiritsis">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Paul Witherell" initials="P." surname="Witherell">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="June"/>
   </front>

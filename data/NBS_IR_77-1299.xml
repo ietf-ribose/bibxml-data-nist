@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.77-1299" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1299.pdf">
   <front>
-    <title>Power lawn mowers : time-to-blade access</title>
+    <title>Power lawn mowers :time-to-blade access</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1299"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1299"/>
     <author surname="Ramey"/>
     <author surname="Persenky"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

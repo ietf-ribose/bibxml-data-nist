@@ -2,12 +2,20 @@
   <front>
     <title>Standard x-ray diffraction powder patterns</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.25-3"/>
+    <seriesInfo name="NIST" value="NBS MONO 25-3"/>
     <author fullname="Howard Swanson" initials="H." surname="Swanson"/>
     <author fullname="MarleneCook Morris" initials="M.C." surname="Morris"/>
     <author fullname="Eloise Evans" initials="E." surname="Evans"/>
     <author fullname="Linda Ulmer" initials="L." surname="Ulmer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

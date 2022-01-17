@@ -2,10 +2,18 @@
   <front>
     <title>Performance assurance and data integrity practices</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-24"/>
+    <seriesInfo name="NIST" value="NBS SP 500-24"/>
     <author fullname="Robert Patrick" initials="R." surname="Patrick"/>
     <author fullname="Robert Blanc" initials="R." surname="Blanc"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

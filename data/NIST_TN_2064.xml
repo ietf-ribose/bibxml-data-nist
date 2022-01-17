@@ -1,11 +1,23 @@
 <reference anchor="NIST.TN.2064" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2064.pdf">
   <front>
-    <title>OpenSC : an open-source calculation tool for combustion mixture emissivityabsorptivity</title>
+    <title>OpenSC :an open-source calculation tool for combustion mixture emissivityabsorptivity</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2064"/>
-    <author fullname="WaiCheong Tam" initials="W.C." surname="Tam"/>
-    <author fullname="Walter Yuen" initials="W." surname="Yuen"/>
+    <seriesInfo name="NIST" value="NIST TN 2064"/>
+    <author fullname="WaiCheong Tam" initials="W.C." surname="Tam">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Walter Yuen" initials="W." surname="Yuen">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September"/>
   </front>

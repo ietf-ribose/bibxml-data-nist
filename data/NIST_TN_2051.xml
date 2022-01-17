@@ -2,12 +2,28 @@
   <front>
     <title>Cybersecurity framework smart grid profile</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2051"/>
-    <author fullname="Jeffrey Marron" initials="J." surname="Marron"/>
-    <author fullname="Avi Gopstein" initials="A." surname="Gopstein"/>
-    <author fullname="Nadya Bartol" initials="N." surname="Bartol"/>
-    <author fullname="Valery Feldman" initials="V." surname="Feldman"/>
+    <seriesInfo name="NIST" value="NIST TN 2051"/>
+    <author fullname="Jeffrey Marron" initials="J." surname="Marron">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Avi Gopstein" initials="A." surname="Gopstein">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nadya Bartol" initials="N." surname="Bartol">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Valery Feldman" initials="V." surname="Feldman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July"/>
   </front>

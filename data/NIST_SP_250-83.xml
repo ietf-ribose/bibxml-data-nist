@@ -2,6 +2,7 @@
   <front>
     <title>Calibration of hygrometers with the hybrid humidity generator</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-83"/>
+    <seriesInfo name="NIST" value="NIST SP 250-83"/>
     <author surname="Meyer"/>
     <author surname="Hodges"/>
     <author surname="Huang"/>
@@ -10,6 +11,13 @@
     <author surname="Scace"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

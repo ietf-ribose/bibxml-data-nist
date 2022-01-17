@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.1047" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1047.pdf">
   <front>
-    <title>Measurement methods for evaluation of the reliability of active implantable medical devices : report of a workshop held October 3-4, 2005 Gaithersburg, Maryland</title>
+    <title>Measurement methods for evaluation of the reliability of active implantable medical devices :report of a workshop held October 3-4, 2005 Gaithersburg, Maryland</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1047"/>
+    <seriesInfo name="NIST" value="NIST SP 1047"/>
     <author fullname="Elizabeth Drexler" initials="E." surname="Drexler"/>
     <author fullname="William Regnault" initials="W." surname="Regnault"/>
     <author fullname="John Tesk" initials="J." surname="Tesk"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Neutron source strength calibrations</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.250-18"/>
+    <seriesInfo name="NIST" value="NBS SP 250-18"/>
     <author fullname="Dale McGarry" initials="D." surname="McGarry"/>
     <author fullname="Edward Boswell" initials="E." surname="Boswell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

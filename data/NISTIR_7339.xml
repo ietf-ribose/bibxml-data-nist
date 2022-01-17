@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7339" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7339.pdf">
   <front>
-    <title>Analysis of standards for lifecycle management of systems for US Army : a preliminary investigation</title>
+    <title>Analysis of standards for lifecycle management of systems for US Army :a preliminary investigation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7339"/>
+    <seriesInfo name="NIST" value="NIST IR 7339"/>
     <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
     <author fullname="Sebti Foufou" initials="S." surname="Foufou"/>
     <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Preliminary face recognition grand challange results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7307"/>
+    <seriesInfo name="NIST" value="NIST IR 7307"/>
     <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
     <author fullname="Patrick Flynn" initials="P." surname="Flynn"/>
     <author fullname="Todd Scruggs" initials="T." surname="Scruggs"/>
@@ -9,6 +10,13 @@
     <author fullname="William Worek" initials="W." surname="Worek"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

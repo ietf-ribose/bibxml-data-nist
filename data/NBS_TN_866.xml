@@ -2,10 +2,18 @@
   <front>
     <title>Chemical kinetic and photochemical data for modelling atmospheric chemistry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.866"/>
+    <seriesInfo name="NIST" value="NBS TN 866"/>
     <author fullname="David Garvin" initials="D." surname="Garvin"/>
     <author fullname="Robert Hampson" initials="R." surname="Hampson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

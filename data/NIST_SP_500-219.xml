@@ -2,11 +2,19 @@
   <front>
     <title>NIST workshop on the computer interface to flat panel displays</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-219"/>
+    <seriesInfo name="NIST" value="NIST SP 500-219"/>
     <author fullname="Mark Williamson" initials="M." surname="Williamson"/>
     <author fullname="William Burr" initials="W." surname="Burr"/>
     <author fullname="John Roberts" initials="J." surname="Roberts"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

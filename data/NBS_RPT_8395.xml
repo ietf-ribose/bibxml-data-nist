@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.8395" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8395.pdf">
   <front>
-    <title>Blood: bone equilibrium in calcium homeostasis, progress report</title>
+    <title>Blood:bone equilibrium in calcium homeostasis, progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.8395"/>
+    <seriesInfo name="NIST" value="NBS RPT 8395"/>
     <author fullname="James MacGregor" initials="J." surname="MacGregor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

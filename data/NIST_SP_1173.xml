@@ -2,7 +2,10 @@
   <front>
     <title>Virtual Cement and Concrete Testing Laboratory : version 9.5 user guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1173"/>
-    <author fullname="Jeffrey Bullard" initials="J." surname="Bullard"/>
+    <seriesInfo name="NIST" value="NIST SP 1173"/>
+    <author fullname="Jeffrey Bullard" initials="J." surname="Bullard">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,6 +2,7 @@
   <front>
     <title>BFRL publications 2002</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.997"/>
+    <seriesInfo name="NIST" value="NIST SP 997"/>
     <author fullname="Regina Burgess" initials="R." surname="Burgess"/>
     <author fullname="Regina Burgess" initials="R." surname="Burgess"/>
     <author fullname="Kathleen Whisner" initials="K." surname="Whisner"/>
@@ -9,6 +10,13 @@
     <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

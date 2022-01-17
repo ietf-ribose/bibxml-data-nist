@@ -2,11 +2,19 @@
   <front>
     <title>Static analysis tool exposition (SATE) 2008</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-279"/>
+    <seriesInfo name="NIST" value="NIST SP 500-279"/>
     <author fullname="vadim Okun" initials="v." surname="Okun"/>
     <author fullname="Romain Gaucher" initials="R." surname="Gaucher"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

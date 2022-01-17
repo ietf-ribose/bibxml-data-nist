@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.500-269" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-269.pdf">
   <front>
-    <title>Software assurance tools : web application security scanner functional specification version 1.0</title>
+    <title>Software assurance tools :web application security scanner functional specification version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-269"/>
+    <seriesInfo name="NIST" value="NIST SP 500-269"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author fullname="Elizabeth, Fong" initials="E." surname="Fong"/>
     <author fullname="Vadim Okun" initials="V." surname="Okun"/>
     <author fullname="Romain Gaucher" initials="R." surname="Gaucher"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Characterization of residential distributed energy resource potential to provide ancillary services</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-601"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
-    <author fullname="Farhad Omar" initials="F." surname="Omar"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-601"/>
+    <author fullname="David Holmberg" initials="D." surname="Holmberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Farhad Omar" initials="F." surname="Omar">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October"/>
   </front>

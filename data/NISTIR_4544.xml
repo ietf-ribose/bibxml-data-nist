@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.4544" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4544.pdf">
   <front>
-    <title>Cleaning of aged EPDM rubber roofing membrane material for patching: laboratory investigations and recommendations</title>
+    <title>Cleaning of aged EPDM rubber roofing membrane material for patching:laboratory investigations and recommendations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4544"/>
+    <seriesInfo name="NIST" value="NIST IR 4544"/>
     <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
     <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
     <author fullname="Eric Byrd" initials="E." surname="Byrd"/>
@@ -9,6 +10,13 @@
     <author fullname="James Lechner" initials="J." surname="Lechner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

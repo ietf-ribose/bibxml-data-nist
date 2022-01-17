@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.76-983" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-983.pdf">
   <front>
-    <title>A survey of manufacturers' views on the ETIP procurement experiment : Volume two</title>
+    <title>A survey of manufacturers' views on the ETIP procurement experiment :Volume two</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-983"/>
+    <seriesInfo name="NIST" value="NBS IR 76-983"/>
     <author fullname="Clare Goodman" initials="C." surname="Goodman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

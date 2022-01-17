@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.410sup" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular410sup.pdf">
   <front>
-    <title>Supplement to NBS Circular C410: abridged volume correction table for petroleum oils</title>
+    <title>Supplement to NBS Circular C410:abridged volume correction table for petroleum oils</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.410sup"/>
+    <seriesInfo name="NIST" value="NBS CIRC 410sup"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1937"/>
   </front>

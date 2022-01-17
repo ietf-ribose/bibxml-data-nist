@@ -2,9 +2,17 @@
   <front>
     <title>Parallelizing a fourth-order Runge-Kutta method</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6031"/>
+    <seriesInfo name="NIST" value="NIST IR 6031"/>
     <author fullname="Hai Tang" initials="H." surname="Tang"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

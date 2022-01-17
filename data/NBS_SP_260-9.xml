@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-9.pdf">
   <front>
-    <title>Standard Reference Materials Half lives of materials used in the preparation of standard reference materials of nineteen radioactive nuclides issued by the National Bureau of Standards</title>
+    <title>Standard Reference MaterialsHalf lives of materials used in the preparation of standard reference materials of nineteen radioactive nuclides issued by the National Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-9"/>
+    <seriesInfo name="NIST" value="NBS SP 260-9"/>
     <author surname="Cavallo"/>
     <author surname="Hutchinson"/>
     <author surname="Smith"/>
     <author surname="Anspach"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

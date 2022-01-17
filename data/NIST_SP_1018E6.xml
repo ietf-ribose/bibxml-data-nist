@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.1018e6" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1018e6.pdf">
   <front>
-    <title>Fire dynamics simulator technical reference guide volume 1 : mathematical model</title>
+    <title>Fire dynamics simulator technical reference guide volume 1 :mathematical model</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1018e6"/>
+    <seriesInfo name="NIST" value="NIST SP 1018e6"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
     <author fullname="Randall McDermott" initials="R." surname="McDermott"/>
     <author fullname="Craig Weinschenk" initials="C." surname="Weinschenk"/>
@@ -10,6 +11,13 @@
     <author fullname="Jason Floyd" initials="J." surname="Floyd"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2013"/>
   </front>

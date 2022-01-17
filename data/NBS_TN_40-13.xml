@@ -1,12 +1,20 @@
 <reference anchor="NBS.TN.40-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote40-13.pdf">
   <front>
-    <title>Mean electron density variations of the quiet ionosphere no. 13: Summary of one year of data. May 1959-April 1960</title>
+    <title>Mean electron density variations of the quiet ionosphere no. 13:Summary of one year of data. May 1959-April 1960</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.40-13"/>
+    <seriesInfo name="NIST" value="NBS TN 40-13"/>
     <author fullname="DJ Brown" initials="D." surname="Brown"/>
     <author fullname="LR Wescott" initials="L." surname="Wescott"/>
     <author fullname="JW Wright" initials="J." surname="Wright"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

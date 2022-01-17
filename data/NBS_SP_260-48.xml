@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-48" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-48.pdf">
   <front>
-    <title>Standard Reference Materials : Description and use of precision thermometers for the clinical laboratory, SRM 933 and SRM 934/</title>
+    <title>Standard Reference Materials :Description and use of precision thermometers for the clinical laboratory, SRM 933 and SRM 934/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-48"/>
+    <seriesInfo name="NIST" value="NBS SP 260-48"/>
     <author surname="Wise"/>
     <author surname="Mangum"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

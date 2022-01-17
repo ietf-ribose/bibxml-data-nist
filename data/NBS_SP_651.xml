@@ -2,11 +2,19 @@
   <front>
     <title>Wind and seismic effects</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.651"/>
+    <seriesInfo name="NIST" value="NBS SP 651"/>
     <author surname="Chung"/>
     <author surname="Lew"/>
     <author surname="Kovacs"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

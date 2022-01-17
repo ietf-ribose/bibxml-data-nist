@@ -1,11 +1,19 @@
 <reference anchor="NIST.TN.1468" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1468.pdf">
   <front>
-    <title>Precise theory of levels of hydrogen and deuterium : the coulomb vacuum polarization correction</title>
+    <title>Precise theory of levels of hydrogen and deuterium :the coulomb vacuum polarization correction</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1468"/>
+    <seriesInfo name="NIST" value="NIST TN 1468"/>
     <author fullname="Svetlana Kotochigova" initials="S." surname="Kotochigova"/>
     <author fullname="Peter Mohr" initials="P." surname="Mohr"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

@@ -2,14 +2,34 @@
   <front>
     <title>Guide to test, training, and exercise programs for IT plans and capabilities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-84"/>
-    <author surname="Grance"/>
-    <author surname="Nolan"/>
-    <author surname="Burke"/>
-    <author surname="Dudley"/>
-    <author surname="White"/>
-    <author surname="Good"/>
+    <seriesInfo name="NIST" value="NIST SP 800-84"/>
+    <author surname="Grance">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Nolan">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Burke">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Dudley">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="White">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Good">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

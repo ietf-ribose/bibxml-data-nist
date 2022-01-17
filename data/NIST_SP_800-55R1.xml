@@ -2,14 +2,34 @@
   <front>
     <title>Performance measurement guide for information security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-55r1"/>
-    <author surname="Chew"/>
-    <author surname="Swanson"/>
-    <author surname="Stine"/>
-    <author surname="Bartol"/>
-    <author surname="Brown"/>
-    <author surname="Robinson"/>
+    <seriesInfo name="NIST" value="NIST SP 800-55r1"/>
+    <author surname="Chew">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Swanson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Stine">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Bartol">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Brown">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Robinson">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

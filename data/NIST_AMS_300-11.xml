@@ -2,10 +2,22 @@
   <front>
     <title>Recommendations for collecting, curating, and re-using manufacturing data</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-11"/>
-    <author fullname="Moneer Helu" initials="M." surname="Helu"/>
-    <author fullname="Jr,Thomas Hedberg" initials="J.T." surname="Hedberg"/>
+    <seriesInfo name="NIST" value="NIST AMS 300-11"/>
+    <author fullname="Moneer Helu" initials="M." surname="Helu">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jr,Thomas Hedberg" initials="J.T." surname="Hedberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

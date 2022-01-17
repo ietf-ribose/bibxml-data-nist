@@ -2,10 +2,19 @@
   <front>
     <title>Test Report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1800"/>
-    <author surname="Pibida"/>
-    <author surname="Minniti"/>
-    <author surname="O'Brien"/>
-    <author surname="Lucas"/>
+    <seriesInfo name="NIST" value="NIST TN 1800"/>
+    <author surname="Pibida">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author surname="Minniti">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author surname="O'Brien">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author surname="Lucas">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.8907" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8907.pdf">
   <front>
-    <title>Pressures exerted on complete dentures during swallowing: progress report</title>
+    <title>Pressures exerted on complete dentures during swallowing:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.8907"/>
+    <seriesInfo name="NIST" value="NBS RPT 8907"/>
     <author fullname="Masoyoshi Ohashi" initials="M." surname="Ohashi"/>
     <author fullname="George Paffenbarger" initials="G." surname="Paffenbarger"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

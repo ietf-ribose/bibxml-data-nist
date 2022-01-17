@@ -2,10 +2,22 @@
   <front>
     <title>Requirements for spectrum monitoring in industrial environments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8195"/>
-    <author fullname="Murat Aksu" initials="M." surname="Aksu"/>
-    <author fullname="Richard Candell" initials="R." surname="Candell"/>
+    <seriesInfo name="NIST" value="NIST IR 8195"/>
+    <author fullname="Murat Aksu" initials="M." surname="Aksu">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Candell" initials="R." surname="Candell">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="November" day="16"/>
   </front>

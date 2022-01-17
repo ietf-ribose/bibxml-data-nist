@@ -1,18 +1,44 @@
 <reference anchor="NIST.IR.8219" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8219.pdf">
   <front>
-    <title>Securing manufacturing industrial control systems: behavioral anomaly detection</title>
+    <title>Securing manufacturing industrial control systems:behavioral anomaly detection</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8219"/>
-    <author fullname="James McCarthy" initials="J." surname="McCarthy"/>
-    <author fullname="Michael Powell" initials="M." surname="Powell"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="CheeYee Tang" initials="C." surname="Tang"/>
-    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman"/>
-    <author fullname="William Barker" initials="W." surname="Barker"/>
-    <author fullname="Titilayo Ogunyale" initials="T." surname="Ogunyale"/>
-    <author fullname="Devin Wynne" initials="D." surname="Wynne"/>
-    <author fullname="Johnathan Wiltberger" initials="J." surname="Wiltberger"/>
+    <seriesInfo name="NIST" value="NIST IR 8219"/>
+    <author fullname="James McCarthy" initials="J." surname="McCarthy">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Powell" initials="M." surname="Powell">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="CheeYee Tang" initials="C." surname="Tang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William Barker" initials="W." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Titilayo Ogunyale" initials="T." surname="Ogunyale">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Devin Wynne" initials="D." surname="Wynne">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Johnathan Wiltberger" initials="J." surname="Wiltberger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

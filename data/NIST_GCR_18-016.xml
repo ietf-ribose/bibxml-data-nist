@@ -2,9 +2,19 @@
   <front>
     <title>User instructions and technical details for 500 mm GHP simulation programs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-016"/>
-    <author fullname="William Thomas" initials="W." surname="Thomas"/>
+    <seriesInfo name="NIST" value="NIST GCR 18-016"/>
+    <author fullname="William Thomas" initials="W." surname="Thomas">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July"/>
   </front>

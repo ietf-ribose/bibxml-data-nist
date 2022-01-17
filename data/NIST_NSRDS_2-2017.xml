@@ -2,12 +2,28 @@
   <front>
     <title>NIST Special Database 2 structured forms database version 2.0 user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.2-2017"/>
-    <author fullname="Darren Dimmick" initials="D." surname="Dimmick"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris"/>
-    <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan"/>
+    <seriesInfo name="NIST" value="NIST NSRDS 2-2017"/>
+    <author fullname="Darren Dimmick" initials="D." surname="Dimmick">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Garris" initials="M." surname="Garris">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Charles Wilson" initials="C." surname="Wilson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="March"/>
   </front>

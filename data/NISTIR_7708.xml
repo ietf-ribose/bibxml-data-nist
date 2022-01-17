@@ -1,17 +1,41 @@
 <reference anchor="NIST.IR.7708" target="https://nvlpubs.nist.gov/nistpubs/ir/2009/nist.ir.7708.pdf">
   <front>
-    <title>Marine Environmental Specimen Bank: specimen banking protocols for the National Status and Trends Mussel Watch Program</title>
+    <title>Marine Environmental Specimen Bank:specimen banking protocols for the National Status and Trends Mussel Watch Program</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7708"/>
-    <author fullname="Amanda Moors" initials="A." surname="Moors"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Lauren Rust" initials="L." surname="Rust"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Kimani Kimbrough" initials="K." surname="Kimbrough"/>
-    <author fullname="Gunnar Lauenstein" initials="G." surname="Lauenstein"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <seriesInfo name="NIST" value="NIST IR 7708"/>
+    <author fullname="Amanda Moors" initials="A." surname="Moors">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Rebecca Pugh" initials="R." surname="Pugh">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Lauren Rust" initials="L." surname="Rust">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Barbara Porter" initials="B." surname="Porter">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Kimani Kimbrough" initials="K." surname="Kimbrough">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Gunnar Lauenstein" initials="G." surname="Lauenstein">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Paul Becker" initials="P." surname="Becker">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Stephen Wise" initials="S." surname="Wise">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009" month="August"/>
   </front>

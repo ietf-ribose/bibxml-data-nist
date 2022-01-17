@@ -2,8 +2,16 @@
   <front>
     <title>Federal Information Processing Standards Publication: implementation of the code for information interchange and related media standards, hardware standards interchange codes and media</title>
     <seriesInfo name="DOI" value="10.6028/NBS.FIPS.7"/>
+    <seriesInfo name="NIST" value="NBS FIPS 7"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

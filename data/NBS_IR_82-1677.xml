@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.82-1677" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-1677.pdf">
   <front>
-    <title>Metrology for electromagnetic technology : a bibliography of NBS publications</title>
+    <title>Metrology for electromagnetic technology :a bibliography of NBS publications</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1677"/>
+    <seriesInfo name="NIST" value="NBS IR 82-1677"/>
     <author surname="Kamper"/>
     <author surname="Kline"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

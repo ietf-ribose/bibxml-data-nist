@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.273" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote273.pdf">
   <front>
-    <title>Analysis and Purification Section : summary of activities, July 1964 to June 1965</title>
+    <title>Analysis and Purification Section :summary of activities, July 1964 to June 1965</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.273"/>
+    <seriesInfo name="NIST" value="NBS TN 273"/>
     <author fullname="John Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

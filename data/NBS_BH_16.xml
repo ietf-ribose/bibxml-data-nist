@@ -1,7 +1,8 @@
 <reference anchor="NBS.BH.16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing16.pdf">
   <front>
-    <title>The preparation of zoning ordinances : a guide for municipal officials and others in the arrangement of provisions in zoning regulations</title>
+    <title>The preparation of zoning ordinances :a guide for municipal officials and others in the arrangement of provisions in zoning regulations</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.16"/>
+    <seriesInfo name="NIST" value="NBS BH 16"/>
     <author fullname="Edward Bassett" initials="E." surname="Bassett"/>
     <author fullname="Alfred Bettman" initials="A." surname="Bettman"/>
     <author fullname="Irving Hiett" initials="I." surname="Hiett"/>
@@ -14,6 +15,13 @@
     <author fullname="James Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1931"/>
   </front>

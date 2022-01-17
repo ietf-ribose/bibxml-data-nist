@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.800-70" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-70.pdf">
   <front>
-    <title>Security configuration checklists program for IT products : guidance for checklists users and developers</title>
+    <title>Security configuration checklists program for IT products :guidance for checklists users and developers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-70"/>
-    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya"/>
-    <author fullname="John Wack" initials="J." surname="Wack"/>
-    <author fullname="Karen Kent" initials="K." surname="Kent"/>
+    <seriesInfo name="NIST" value="NIST SP 800-70"/>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="John Wack" initials="J." surname="Wack">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Karen Kent" initials="K." surname="Kent">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

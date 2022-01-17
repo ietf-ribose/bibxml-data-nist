@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6491" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6491.pdf">
   <front>
-    <title>Development, commercialization, and diffusion of enabling technologies : progress report</title>
+    <title>Development, commercialization, and diffusion of enabling technologies :progress report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6491"/>
+    <seriesInfo name="NIST" value="NIST IR 6491"/>
     <author fullname="Jeanne Powell" initials="J." surname="Powell"/>
     <author fullname="Karen Lellock" initials="K." surname="Lellock"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

@@ -2,11 +2,19 @@
   <front>
     <title>BFRL publications, 1995</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.900"/>
+    <seriesInfo name="NIST" value="NIST SP 900"/>
     <author fullname="Phyllis Martin" initials="P." surname="Martin"/>
     <author fullname="Phyllis Martin" initials="P." surname="Martin"/>
     <author fullname="Nora Jason" initials="N." surname="Jason"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

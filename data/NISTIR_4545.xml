@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4545" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4545.pdf">
   <front>
-    <title>Computer security: selected articles</title>
+    <title>Computer security:selected articles</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4545"/>
+    <seriesInfo name="NIST" value="NIST IR 4545"/>
     <author fullname="Marianne Swanson" initials="M." surname="Swanson"/>
     <author fullname="Elizabeth Lennon" initials="E." surname="Lennon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

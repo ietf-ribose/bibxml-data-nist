@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.7480" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7480.pdf">
   <front>
-    <title>Materials Science and Engineering Laboratory Polymers Division : FY 2006 programs and accomplishments</title>
+    <title>Materials Science and Engineering Laboratory Polymers Division :FY 2006 programs and accomplishments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7480"/>
+    <seriesInfo name="NIST" value="NIST IR 7480"/>
     <author fullname="Eric Amis" initials="E." surname="Amis"/>
     <author fullname="Chad Snyder" initials="C." surname="Snyder"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>Compiler-based programming support capabilities</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2423"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2423"/>
     <author fullname="Gary Bray" initials="G." surname="Bray"/>
     <author fullname="Roger Lipsett" initials="R." surname="Lipsett"/>
     <author fullname="William Bail" initials="W." surname="Bail"/>
     <author fullname="Victor Berman" initials="V." surname="Berman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

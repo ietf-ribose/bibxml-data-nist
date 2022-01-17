@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8365" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8365.pdf">
+<reference anchor="NIST.IR.8365" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8365.pdf">
   <front>
     <title>A Collaborative Robot Work-Cell Testbed for Industrial Wireless Communications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8365"/>
-    <author fullname="Yongkang Liu" initials="Y." surname="Liu"/>
-    <author fullname="Mohamed Hany" initials="M." surname="Hany"/>
-    <author fullname="Karl Montgomery" initials="K." surname="Montgomery"/>
-    <author fullname="Richard Candell" initials="R." surname="Candell"/>
+    <seriesInfo name="NIST" value="NIST IR 8365"/>
+    <author fullname="Yongkang Liu" initials="Y." surname="Liu">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mohamed Hany" initials="M." surname="Hany">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Karl Montgomery" initials="K." surname="Montgomery">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Candell" initials="R." surname="Candell">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

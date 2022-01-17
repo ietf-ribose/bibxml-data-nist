@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.85-3255" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3255.pdf">
   <front>
-    <title>Validation of models for predicting formaldehyde concentrations in residences due to pressed wood products : phase I</title>
+    <title>Validation of models for predicting formaldehyde concentrations in residences due to pressed wood products :phase I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3255"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3255"/>
     <author fullname="Richard Grot" initials="R." surname="Grot"/>
     <author fullname="Samuel Silberstein" initials="S." surname="Silberstein"/>
     <author fullname="Kunimichi Ishiguro" initials="K." surname="Ishiguro"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

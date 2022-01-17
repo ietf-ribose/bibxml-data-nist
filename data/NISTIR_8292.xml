@@ -1,13 +1,29 @@
 <reference anchor="NIST.IR.8292" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8292.pdf">
   <front>
-    <title>Face Recognition Vendor Test (FRVT) part 4: MORPH</title>
+    <title>Face Recognition Vendor Test (FRVT) part 4:MORPH</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8292"/>
-    <author fullname="Mei Ngan" initials="M." surname="Ngan"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="Kayee Hanaoka" initials="K." surname="Hanaoka"/>
-    <author fullname="Jason Kuo" initials="J." surname="Kuo"/>
+    <seriesInfo name="NIST" value="NIST IR 8292"/>
+    <author fullname="Mei Ngan" initials="M." surname="Ngan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kayee Hanaoka" initials="K." surname="Hanaoka">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jason Kuo" initials="J." surname="Kuo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

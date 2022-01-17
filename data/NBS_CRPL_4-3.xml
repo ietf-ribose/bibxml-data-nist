@@ -2,9 +2,19 @@
   <front>
     <title>Sunspots and very high frequency radio transmission</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.4-3"/>
-    <author fullname="Kenneth Norton" initials="K." surname="Norton"/>
+    <seriesInfo name="NIST" value="NBS CRPL 4-3"/>
+    <author fullname="Kenneth Norton" initials="K." surname="Norton">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1947"/>
   </front>

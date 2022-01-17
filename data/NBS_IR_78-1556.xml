@@ -2,10 +2,18 @@
   <front>
     <title>Kitchen range energy consumption</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1556"/>
+    <seriesInfo name="NIST" value="NBS IR 78-1556"/>
     <author surname="Fechter"/>
     <author surname="Porter"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>An atlas of whistlers and VLF emissions. A Survey of VLF spectra from Boulder, Colorado</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.166"/>
+    <seriesInfo name="NIST" value="NBS TN 166"/>
     <author surname="Jones"/>
     <author surname="Gallet"/>
     <author surname="Watts"/>
     <author fullname="DN Frazer" initials="D." surname="Frazer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1963"/>
   </front>

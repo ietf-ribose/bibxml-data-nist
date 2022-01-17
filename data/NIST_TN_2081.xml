@@ -1,13 +1,29 @@
 <reference anchor="NIST.TN.2081" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2081.pdf">
   <front>
-    <title>Investigations on SI-traceable dynamic calibration of instrumented charpy strikers: activities performed at NIST in FY2019</title>
+    <title>Investigations on SI-traceable dynamic calibration of instrumented charpy strikers:activities performed at NIST in FY2019</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2081"/>
-    <author fullname="Nicholas Vlaijc" initials="N." surname="Vlaijc"/>
-    <author fullname="Akobuije Chijioke" initials="A." surname="Chijioke"/>
-    <author fullname="Enrico Lucon" initials="E." surname="Lucon"/>
-    <author fullname="Lance Einfeld" initials="L." surname="Einfeld"/>
+    <seriesInfo name="NIST" value="NIST TN 2081"/>
+    <author fullname="Nicholas Vlaijc" initials="N." surname="Vlaijc">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Akobuije Chijioke" initials="A." surname="Chijioke">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Enrico Lucon" initials="E." surname="Lucon">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Lance Einfeld" initials="L." surname="Einfeld">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="January"/>
   </front>

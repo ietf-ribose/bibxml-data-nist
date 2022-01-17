@@ -2,9 +2,19 @@
   <front>
     <title>Interim report on experimental broad-band antennas for vertical incidence ionosphere sounding</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.5-3"/>
-    <author surname="Cones"/>
+    <seriesInfo name="NIST" value="NBS CRPL 5-3"/>
+    <author surname="Cones">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1948"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Simple model for the QCD vacuum</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2759"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2759"/>
     <author fullname="Michael Danos" initials="M." surname="Danos"/>
     <author fullname="Daniel Irakane" initials="D." surname="Irakane"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

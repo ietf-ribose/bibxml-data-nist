@@ -1,12 +1,20 @@
 <reference anchor="NBS.SP.960-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-13.pdf">
   <front>
-    <title>NIST recommended practice guide pre characterization in low-k dielectric films using x-ray reflectivitiy</title>
+    <title>NIST recommended practice guidepre characterization in low-k dielectric films using x-ray reflectivitiy</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-13"/>
+    <seriesInfo name="NIST" value="NBS SP 960-13"/>
     <author fullname="Hae-Jeong Lee" initials="H." surname="Lee"/>
     <author fullname="Wen-li Wu" initials="W." surname="Wu"/>
     <author fullname="Christopher Soles" initials="C." surname="Soles"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

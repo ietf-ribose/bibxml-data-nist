@@ -2,12 +2,28 @@
   <front>
     <title>Cyber-physical systems and internet of things</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-202"/>
-    <author fullname="Christopher Greer" initials="C." surname="Greer"/>
-    <author fullname="Martin Burns" initials="M." surname="Burns"/>
-    <author fullname="David Wollman" initials="D." surname="Wollman"/>
-    <author fullname="Edward Griffor" initials="E." surname="Griffor"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-202"/>
+    <author fullname="Christopher Greer" initials="C." surname="Greer">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Martin Burns" initials="M." surname="Burns">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Wollman" initials="D." surname="Wollman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Edward Griffor" initials="E." surname="Griffor">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

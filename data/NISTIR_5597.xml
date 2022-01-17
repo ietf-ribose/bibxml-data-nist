@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5597" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5597.pdf">
   <front>
-    <title>Proceedings: workshop on research needs in wind engineering</title>
+    <title>Proceedings:workshop on research needs in wind engineering</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5597"/>
+    <seriesInfo name="NIST" value="NIST IR 5597"/>
     <author fullname="Richard Marshall" initials="R." surname="Marshall"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

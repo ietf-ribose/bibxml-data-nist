@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5771" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5771.pdf">
   <front>
-    <title>Standard for the Exchange of Product model data (STEP): procedures for NIST STEP validation</title>
+    <title>Standard for the Exchange of Product model data (STEP):procedures for NIST STEP validation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5771"/>
+    <seriesInfo name="NIST" value="NIST IR 5771"/>
     <author fullname="Lynne Rosenthal" initials="L." surname="Rosenthal"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.NSRDS.59" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds59.pdf">
   <front>
-    <title>Selected specific rates of reactions of transients from water in aqueous solution. : III. hydroxyl radical and perhydroxyl radical and their radical ions</title>
+    <title>Selected specific rates of reactions of transients from water in aqueous solution. :III. hydroxyl radical and perhydroxyl radical and their radical ions</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.59"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 59"/>
     <author fullname="Farhataziz Ross" initials="F." surname="Ross"/>
     <author fullname="Alberta Ross" initials="A." surname="Ross"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

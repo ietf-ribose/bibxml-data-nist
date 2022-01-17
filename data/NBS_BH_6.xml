@@ -1,7 +1,8 @@
 <reference anchor="NBS.BH.6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing6.pdf">
   <front>
-    <title>Recommended minimum requirements for masonry wall construction : report of building code committee June 26, 1924</title>
+    <title>Recommended minimum requirements for masonry wall construction :report of building code committee June 26, 1924</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.6"/>
+    <seriesInfo name="NIST" value="NBS BH 6"/>
     <author fullname="Ira Woolson" initials="I." surname="Woolson"/>
     <author fullname="Edwin Brown" initials="E." surname="Brown"/>
     <author fullname="Rudolph Miller" initials="R." surname="Miller"/>
@@ -13,6 +14,13 @@
     <author fullname="John Gries" initials="J." surname="Gries"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

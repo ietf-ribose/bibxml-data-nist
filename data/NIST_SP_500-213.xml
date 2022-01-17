@@ -2,12 +2,20 @@
   <front>
     <title>Next generation computer resources</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-213"/>
+    <seriesInfo name="NIST" value="NIST SP 500-213"/>
     <author fullname="Alan Brown" initials="A." surname="Brown"/>
     <author fullname="David Carney" initials="D." surname="Carney"/>
     <author fullname="Patricia Oberndorf" initials="P." surname="Oberndorf"/>
     <author fullname="Marvin Zelkowitz" initials="M." surname="Zelkowitz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

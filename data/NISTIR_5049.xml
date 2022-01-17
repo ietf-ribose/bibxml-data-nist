@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5049" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5049.pdf">
   <front>
-    <title>Electromagnetic compatibility: results of a limited survey</title>
+    <title>Electromagnetic compatibility:results of a limited survey</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5049"/>
+    <seriesInfo name="NIST" value="NIST IR 5049"/>
     <author fullname="Ramon Baird" initials="R." surname="Baird"/>
     <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

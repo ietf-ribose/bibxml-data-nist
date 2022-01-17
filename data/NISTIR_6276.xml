@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6276" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6276.pdf">
   <front>
-    <title>Operator's manual: balance automation software for the NIST mass calibration laboratory</title>
+    <title>Operator's manual:balance automation software for the NIST mass calibration laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6276"/>
+    <seriesInfo name="NIST" value="NIST IR 6276"/>
     <author fullname="Vincent Lee" initials="V." surname="Lee"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

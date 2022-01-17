@@ -2,12 +2,28 @@
   <front>
     <title>Theory of Discrete Event Logistics Systems (DELS) specification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8262"/>
-    <author fullname="Timothy Sprock" initials="T." surname="Sprock"/>
-    <author fullname="George Thiers" initials="G." surname="Thiers"/>
-    <author fullname="Leon McGinnis" initials="L." surname="McGinnis"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
+    <seriesInfo name="NIST" value="NIST IR 8262"/>
+    <author fullname="Timothy Sprock" initials="T." surname="Sprock">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="George Thiers" initials="G." surname="Thiers">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Leon McGinnis" initials="L." surname="McGinnis">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="June"/>
   </front>

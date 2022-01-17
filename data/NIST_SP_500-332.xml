@@ -2,11 +2,25 @@
   <front>
     <title>The NIST Cloud Federation Reference Architecture</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-332"/>
-    <author fullname="Craig Lee" initials="C." surname="Lee"/>
-    <author fullname="Robert Bohn" initials="R." surname="Bohn"/>
-    <author fullname="Martial Michel" initials="M." surname="Michel"/>
+    <seriesInfo name="NIST" value="NIST SP 500-332"/>
+    <author fullname="Craig Lee" initials="C." surname="Lee">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Robert Bohn" initials="R." surname="Bohn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Martial Michel" initials="M." surname="Michel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February"/>
   </front>

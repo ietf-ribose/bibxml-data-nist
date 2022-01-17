@@ -2,7 +2,10 @@
   <front>
     <title>NEURBT: A Program for Computing Neural Networks for Classification using Batch Learning</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8037"/>
-    <author fullname="Javier Bernal" initials="J." surname="Bernal"/>
+    <seriesInfo name="NIST" value="NIST IR 8037"/>
+    <author fullname="Javier Bernal" initials="J." surname="Bernal">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

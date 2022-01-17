@@ -2,9 +2,17 @@
   <front>
     <title>The calibration of photographic edges at NBS</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-699"/>
+    <seriesInfo name="NIST" value="NBS IR 75-699"/>
     <author fullname="Richard Swing" initials="R." surname="Swing"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

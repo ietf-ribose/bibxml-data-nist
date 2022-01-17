@@ -2,6 +2,7 @@
   <front>
     <title>The Role of standard reference materials in measurement systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.148"/>
+    <seriesInfo name="NIST" value="NBS MONO 148"/>
     <author surname="Cali"/>
     <author surname="Mears"/>
     <author surname="Michaelis"/>
@@ -11,6 +12,13 @@
     <author surname="Yolken"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

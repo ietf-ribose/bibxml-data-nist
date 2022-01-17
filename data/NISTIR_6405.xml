@@ -2,10 +2,18 @@
   <front>
     <title>Abstracting formal specifications to generate software tests via model checking</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6405"/>
+    <seriesInfo name="NIST" value="NIST IR 6405"/>
     <author fullname="Paul Ammann" initials="P." surname="Ammann"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

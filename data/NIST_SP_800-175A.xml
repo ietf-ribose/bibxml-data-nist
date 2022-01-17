@@ -2,8 +2,13 @@
   <front>
     <title>Guideline for Using Cryptographic Standards in the Federal Government: Directives, Mandates and Policies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-175A"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker"/>
-    <author fullname="William Barker" initials="W." surname="Barker"/>
+    <seriesInfo name="NIST" value="NIST SP 800-175A"/>
+    <author fullname="Elaine Barker" initials="E." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William Barker" initials="W." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

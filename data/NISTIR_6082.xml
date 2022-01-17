@@ -2,6 +2,7 @@
   <front>
     <title>Integrated vision and touch sensing for CMMS</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6082"/>
+    <seriesInfo name="NIST" value="NIST IR 6082"/>
     <author surname="Yoshimi"/>
     <author fullname="-H Hong" initials="-." surname="Hong"/>
     <author surname="Herman"/>
@@ -9,6 +10,13 @@
     <author surname="Rippey"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

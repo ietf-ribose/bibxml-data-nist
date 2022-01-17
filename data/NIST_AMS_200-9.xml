@@ -1,10 +1,20 @@
 <reference anchor="NIST.AMS.200-9" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.200-9.pdf">
   <front>
-    <title>The manufacturing cost guide: a primer version 1.0</title>
+    <title>The manufacturing cost guide:a primer version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-9"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas"/>
+    <seriesInfo name="NIST" value="NIST AMS 200-9"/>
+    <author fullname="Douglas Thomas" initials="D." surname="Thomas">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="June"/>
   </front>

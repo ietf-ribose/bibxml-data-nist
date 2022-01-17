@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6654" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6654.pdf">
   <front>
-    <title>Thermodynamic data to support high-temperature syngas quench design: vapor liquid equilibrium calculations</title>
+    <title>Thermodynamic data to support high-temperature syngas quench design:vapor liquid equilibrium calculations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6654"/>
+    <seriesInfo name="NIST" value="NIST IR 6654"/>
     <author fullname="Allan Harvey" initials="A." surname="Harvey"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

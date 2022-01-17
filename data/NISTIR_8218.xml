@@ -2,12 +2,28 @@
   <front>
     <title>Bootstrap method versus analytical approach for estimating uncertainty of measures in ROC analysis on large datasets</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8218"/>
-    <author fullname="JinChu Wu" initials="J.C." surname="Wu"/>
-    <author fullname="Alvin Martin" initials="A." surname="Martin"/>
-    <author fullname="Gregory Sanders" initials="G." surname="Sanders"/>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker"/>
+    <seriesInfo name="NIST" value="NIST IR 8218"/>
+    <author fullname="JinChu Wu" initials="J.C." surname="Wu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Alvin Martin" initials="A." surname="Martin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gregory Sanders" initials="G." surname="Sanders">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Raghu Kacker" initials="R." surname="Kacker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July"/>
   </front>

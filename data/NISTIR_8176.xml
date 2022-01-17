@@ -2,9 +2,19 @@
   <front>
     <title>Security assurance requirements for linux application container deployments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8176"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
+    <seriesInfo name="NIST" value="NIST IR 8176"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="October" day="11"/>
   </front>

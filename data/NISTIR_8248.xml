@@ -2,14 +2,34 @@
   <front>
     <title>A NIST testbed for examining the accuracy of smart meters under high harmonic waveform loads</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8248"/>
-    <author fullname="Richard Steiner" initials="R." surname="Steiner"/>
-    <author fullname="Michael Farrell" initials="M." surname="Farrell"/>
-    <author fullname="Shannon Edwards" initials="S." surname="Edwards"/>
-    <author fullname="Joni Ford" initials="J." surname="Ford"/>
-    <author fullname="Sumaiyah Sarwat" initials="S." surname="Sarwat"/>
-    <author fullname="Thomas Nelson" initials="T." surname="Nelson"/>
+    <seriesInfo name="NIST" value="NIST IR 8248"/>
+    <author fullname="Richard Steiner" initials="R." surname="Steiner">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Michael Farrell" initials="M." surname="Farrell">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Shannon Edwards" initials="S." surname="Edwards">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Joni Ford" initials="J." surname="Ford">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Sumaiyah Sarwat" initials="S." surname="Sarwat">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Thomas Nelson" initials="T." surname="Nelson">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May"/>
   </front>

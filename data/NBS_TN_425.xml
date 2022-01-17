@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.425" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote425.pdf">
   <front>
-    <title>Microchemical analysis section: summary of activities July 1966 to June 1967.</title>
+    <title>Microchemical analysis section:summary of activities July 1966 to June 1967.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.425"/>
+    <seriesInfo name="NIST" value="NBS TN 425"/>
     <author fullname="John Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

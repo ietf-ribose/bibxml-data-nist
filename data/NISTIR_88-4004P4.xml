@@ -2,10 +2,18 @@
   <front>
     <title>Product data exchange specification- first working draft</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4004p4"/>
+    <seriesInfo name="NIST" value="NIST IR 88-4004p4"/>
     <author fullname="Bradford Smith" initials="B." surname="Smith"/>
     <author fullname="Gaylen Rinaudot" initials="G." surname="Rinaudot"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

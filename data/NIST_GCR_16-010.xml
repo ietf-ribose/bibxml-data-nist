@@ -2,17 +2,43 @@
   <front>
     <title>Survey and new directions for physics-based attack detection in control systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-010"/>
-    <author fullname="David Urbina" initials="D." surname="Urbina"/>
-    <author fullname="Jairo Giraldo" initials="J." surname="Giraldo"/>
-    <author fullname="Alvaro Cardenas" initials="A." surname="Cardenas"/>
-    <author fullname="Junia Valente" initials="J." surname="Valente"/>
-    <author fullname="Mustafa Faisal" initials="M." surname="Faisal"/>
-    <author fullname="NilsOle Tippenhauer" initials="N.O." surname="Tippenhauer"/>
-    <author fullname="Justin Ruths" initials="J." surname="Ruths"/>
-    <author fullname="Richard Candell" initials="R." surname="Candell"/>
-    <author fullname="Henrik Sandberg" initials="H." surname="Sandberg"/>
+    <seriesInfo name="NIST" value="NIST GCR 16-010"/>
+    <author fullname="David Urbina" initials="D." surname="Urbina">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jairo Giraldo" initials="J." surname="Giraldo">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Alvaro Cardenas" initials="A." surname="Cardenas">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Junia Valente" initials="J." surname="Valente">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mustafa Faisal" initials="M." surname="Faisal">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="NilsOle Tippenhauer" initials="N.O." surname="Tippenhauer">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Justin Ruths" initials="J." surname="Ruths">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Candell" initials="R." surname="Candell">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Henrik Sandberg" initials="H." surname="Sandberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.1128" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1128.pdf">
   <front>
-    <title>Summary of workshop for urban and wildland-urban interface (WUI) fires : a workshop to explore future JapanUSA research collaborations</title>
+    <title>Summary of workshop for urban and wildland-urban interface (WUI) fires :a workshop to explore future JapanUSA research collaborations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1128"/>
+    <seriesInfo name="NIST" value="NIST SP 1128"/>
     <author fullname="Samuel Manzello" initials="S." surname="Manzello"/>
     <author fullname="Sayaka Suzuki" initials="S." surname="Suzuki"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

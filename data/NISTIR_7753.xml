@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7753" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7753.pdf">
   <front>
-    <title>Thermal analysis of refrigeration systems used for vaccine storage : report on pharmaceutical grade refrigerator and household refrigeratorfreezer</title>
+    <title>Thermal analysis of refrigeration systems used for vaccine storage :report on pharmaceutical grade refrigerator and household refrigeratorfreezer</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7753"/>
+    <seriesInfo name="NIST" value="NIST IR 7753"/>
     <author fullname="Michal Chojnacky" initials="M." surname="Chojnacky"/>
     <author fullname="Wyatt Miller" initials="W." surname="Miller"/>
     <author fullname="Gregory Strouse" initials="G." surname="Strouse"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

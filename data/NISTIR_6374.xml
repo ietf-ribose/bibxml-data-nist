@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6374" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6374.pdf">
   <front>
-    <title>Premixed carbon monoxide-nitrous oxide-hydrogen flames : measured and calculated burning velocities with and without Fe(CO)5</title>
+    <title>Premixed carbon monoxide-nitrous oxide-hydrogen flames :measured and calculated burning velocities with and without Fe(CO)5</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6374"/>
+    <seriesInfo name="NIST" value="NIST IR 6374"/>
     <author fullname="Gregory Linteris" initials="G." surname="Linteris"/>
     <author fullname="Marc Rumminger" initials="M." surname="Rumminger"/>
     <author fullname="Valeri Babushok" initials="V." surname="Babushok"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.83-2661" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2661.pdf">
   <front>
-    <title>Technical activities 1982 : Office of Standard Reference Data</title>
+    <title>Technical activities 1982 :Office of Standard Reference Data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2661"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2661"/>
     <author surname="Fivozinsky"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

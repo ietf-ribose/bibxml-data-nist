@@ -1,10 +1,18 @@
 <reference anchor="NBS.NSRDS.61p5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds61p5.pdf">
   <front>
-    <title>Physical properties data compilations relevant to energy storage : V. mechanical properties data on alloys for use in flywheels</title>
+    <title>Physical properties data compilations relevant to energy storage :V. mechanical properties data on alloys for use in flywheels</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.61p5"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 61p5"/>
     <author surname="Ledbetter"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

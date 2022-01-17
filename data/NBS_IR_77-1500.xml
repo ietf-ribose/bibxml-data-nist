@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.77-1500" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1500.pdf">
   <front>
-    <title>Application of life cycle costing to hand-held hair dryers : a field demonstration for small appliances</title>
+    <title>Application of life cycle costing to hand-held hair dryers :a field demonstration for small appliances</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1500"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1500"/>
     <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
     <author fullname="Clare Goodman" initials="C." surname="Goodman"/>
     <author fullname="William Beine" initials="W." surname="Beine"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

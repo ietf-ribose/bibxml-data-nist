@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.83-2799" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2799.pdf">
   <front>
-    <title>An overview of artificial intelligence and robotics : volume 1</title>
+    <title>An overview of artificial intelligence and robotics :volume 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2799"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2799"/>
     <author fullname="William Gevarter" initials="W." surname="Gevarter"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

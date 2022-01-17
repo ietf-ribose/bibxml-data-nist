@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4764.pdf">
   <front>
-    <title>Computing depth from temporal cross-correlation: a comparison of two methods of computation</title>
+    <title>Computing depth from temporal cross-correlation:a comparison of two methods of computation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4764"/>
+    <seriesInfo name="NIST" value="NIST IR 4764"/>
     <author fullname="John Horst" initials="J." surname="Horst"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

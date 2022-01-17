@@ -2,13 +2,31 @@
   <front>
     <title>Certification of Standard Reference Material 2859 and Standard Reference Material 2861 restricted elements in polyvinyl chloride</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-200"/>
-    <author fullname="John Sieber" initials="J." surname="Sieber"/>
-    <author fullname="John Molloy" initials="J." surname="Molloy"/>
-    <author fullname="Caroline Bibb" initials="C." surname="Bibb"/>
-    <author fullname="Matthew Boyce" initials="M." surname="Boyce"/>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert"/>
+    <seriesInfo name="NIST" value="NIST SP 260-200"/>
+    <author fullname="John Sieber" initials="J." surname="Sieber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="John Molloy" initials="J." surname="Molloy">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Caroline Bibb" initials="C." surname="Bibb">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Matthew Boyce" initials="M." surname="Boyce">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>Annotated bibliography of the literature on resource sharing computer networks</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.384"/>
+    <seriesInfo name="NIST" value="NBS SP 384"/>
     <author fullname="Robert Blanc" initials="R." surname="Blanc"/>
     <author surname="Cotton"/>
     <author surname="Pyke"/>
     <author surname="Watkins"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

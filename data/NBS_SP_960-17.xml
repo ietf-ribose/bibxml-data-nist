@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.960-17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-17.pdf">
   <front>
-    <title>NIST recommended practice guide : porosity and specific surface area measurements for solid materials/</title>
+    <title>NIST recommended practice guide :porosity and specific surface area measurements for solid materials/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-17"/>
+    <seriesInfo name="NIST" value="NBS SP 960-17"/>
     <author fullname="Klaus Meyer" initials="K." surname="Meyer"/>
     <author fullname="Peter Klobes" initials="P." surname="Klobes"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

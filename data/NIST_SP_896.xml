@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.896" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication896.pdf">
   <front>
-    <title>Conference proceedings : International Workshop on Instrumented Indentation San Diego, CA April 22-23, 1995</title>
+    <title>Conference proceedings :International Workshop on Instrumented Indentation San Diego, CA April 22-23, 1995</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.896"/>
+    <seriesInfo name="NIST" value="NIST SP 896"/>
     <author fullname="Douglas Smith" initials="D." surname="Smith"/>
     <author fullname="Douglas Smith" initials="D." surname="Smith"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

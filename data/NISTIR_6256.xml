@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6256.pdf">
   <front>
-    <title>The OOF Manual: version 1.0</title>
+    <title>The OOF Manual:version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6256"/>
+    <seriesInfo name="NIST" value="NIST IR 6256"/>
     <author fullname="Craig Carter" initials="C." surname="Carter"/>
     <author fullname="Stephen Langer" initials="S." surname="Langer"/>
     <author fullname="EdwinJr Fuller" initials="E.J." surname="Fuller"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

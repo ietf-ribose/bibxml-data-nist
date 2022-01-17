@@ -2,11 +2,25 @@
   <front>
     <title>Back-scatter observations by the Central Radio Propagation Laboratory August 1947- March 1948</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.5-5"/>
-    <author surname="Hartsfield"/>
-    <author surname="Ostrow"/>
-    <author surname="Silberstein"/>
+    <seriesInfo name="NIST" value="NBS CRPL 5-5"/>
+    <author surname="Hartsfield">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Ostrow">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Silberstein">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1948"/>
   </front>

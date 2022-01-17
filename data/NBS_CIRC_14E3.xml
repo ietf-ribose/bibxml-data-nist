@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.14e3" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular14e3.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 14 3rd edition: analyzed irons and steels- methods of analysis</title>
+    <title>Circular of the Bureau of Standards no. 14 3rd edition:analyzed irons and steels- methods of analysis</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.14e3"/>
+    <seriesInfo name="NIST" value="NBS CIRC 14e3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1912"/>
   </front>

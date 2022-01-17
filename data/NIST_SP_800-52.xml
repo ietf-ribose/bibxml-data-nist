@@ -2,12 +2,28 @@
   <front>
     <title>Guidelines for the selection, configuration, and use of Transport Layer Security (TLS) implementations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-52"/>
-    <author surname="Chernick"/>
-    <author fullname="C,III Edington" initials="C.I." surname="Edington"/>
-    <author surname="Fanto"/>
-    <author surname="Rosenthal"/>
+    <seriesInfo name="NIST" value="NIST SP 800-52"/>
+    <author surname="Chernick">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="C,III Edington" initials="C.I." surname="Edington">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Fanto">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Rosenthal">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

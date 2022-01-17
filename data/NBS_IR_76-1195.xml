@@ -2,10 +2,18 @@
   <front>
     <title>The world of EDP standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1195"/>
+    <seriesInfo name="NIST" value="NBS IR 76-1195"/>
     <author fullname="Marjorie Hill" initials="M." surname="Hill"/>
     <author fullname="Josephine Walkowicz" initials="J." surname="Walkowicz"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

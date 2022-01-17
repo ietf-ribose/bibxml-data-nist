@@ -2,6 +2,7 @@
   <front>
     <title>The architecture development facilitator (ADF) first year report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7411"/>
+    <seriesInfo name="NIST" value="NIST IR 7411"/>
     <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
     <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
     <author fullname="Puja Goyal" initials="P." surname="Goyal"/>
@@ -10,6 +11,13 @@
     <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Development of soft armor conditioning protocols for NIJ standard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7627"/>
+    <seriesInfo name="NIST" value="NIST IR 7627"/>
     <author fullname="Amanda Forester" initials="A." surname="Forester"/>
     <author fullname="Kirk Rice" initials="K." surname="Rice"/>
     <author fullname="Michael Riley" initials="M." surname="Riley"/>
@@ -14,6 +15,13 @@
     <author fullname="Joannie Chin" initials="J." surname="Chin"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

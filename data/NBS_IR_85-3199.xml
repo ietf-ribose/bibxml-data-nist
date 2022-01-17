@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.85-3199" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3199.pdf">
   <front>
-    <title>Acoustics LAP handbook : operational and technical requirements of the laboratory accreditation program for acoustical testing services</title>
+    <title>Acoustics LAP handbook :operational and technical requirements of the laboratory accreditation program for acoustical testing services</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3199"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3199"/>
     <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
     <author fullname="Wiley Hall" initials="W." surname="Hall"/>
     <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
     <author fullname="Harvey Berger" initials="H." surname="Berger"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

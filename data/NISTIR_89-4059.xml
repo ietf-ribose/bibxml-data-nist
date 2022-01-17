@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.89-4059" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4059.pdf">
   <front>
-    <title>Allocating staff to tax facilities: a graphics-based microcomputer allocation model</title>
+    <title>Allocating staff to tax facilities:a graphics-based microcomputer allocation model</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4059"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4059"/>
     <author fullname="Paul Domich" initials="P." surname="Domich"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

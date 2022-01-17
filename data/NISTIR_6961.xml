@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6961" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6961.pdf">
   <front>
-    <title>Report of the results of SIM.QM-P6: UVvisible spectrophotometry wavelength standard interlaboratory comparison</title>
+    <title>Report of the results of SIM.QM-P6:UVvisible spectrophotometry wavelength standard interlaboratory comparison</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6961"/>
+    <seriesInfo name="NIST" value="NIST IR 6961"/>
     <author fullname="John Travis" initials="J." surname="Travis"/>
     <author fullname="Melody Smith" initials="M." surname="Smith"/>
     <author fullname="David Duewer" initials="D." surname="Duewer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

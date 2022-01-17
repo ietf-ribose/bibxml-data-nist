@@ -1,10 +1,18 @@
 <reference anchor="NBS.MONO.91" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph91.pdf">
   <front>
-    <title>Automatic indexing : a state-of-the-art report</title>
+    <title>Automatic indexing :a state-of-the-art report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.91"/>
+    <seriesInfo name="NIST" value="NBS MONO 91"/>
     <author fullname="MaryElizabeth Stevens" initials="M.E." surname="Stevens"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.7248" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7248.pdf">
   <front>
-    <title>FY 2005 programs and accomplishments: ceramics, materials reliability, metallurgy, NIST center for neutron research, and polymers divisions</title>
+    <title>FY 2005 programs and accomplishments:ceramics, materials reliability, metallurgy, NIST center for neutron research, and polymers divisions</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7248"/>
+    <seriesInfo name="NIST" value="NIST IR 7248"/>
     <author fullname="Richard Kayser" initials="R." surname="Kayser"/>
     <author fullname="Stephen Freiman" initials="S." surname="Freiman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

@@ -2,9 +2,17 @@
   <front>
     <title>The NIRA computer program package (photonuclear data center)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.903"/>
+    <seriesInfo name="NIST" value="NBS TN 903"/>
     <author fullname="vander Molen" initials="v.d." surname="Molen"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Characterization of emissions from spray polyurethane foam</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1921"/>
-    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck"/>
-    <author fullname="Mengyan Gong" initials="M." surname="Gong"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
+    <seriesInfo name="NIST" value="NIST TN 1921"/>
+    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mengyan Gong" initials="M." surname="Gong">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="September" day="8"/>
   </front>

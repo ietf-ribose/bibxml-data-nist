@@ -2,12 +2,20 @@
   <front>
     <title>12th International Conference on Automatic Fire Detection</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.965"/>
+    <seriesInfo name="NIST" value="NIST SP 965"/>
     <author fullname="Kellie Beall" initials="K." surname="Beall"/>
     <author fullname="Kellie Beall" initials="K." surname="Beall"/>
     <author fullname="WilliamLytle Grosshandler" initials="W.L." surname="Grosshandler"/>
     <author fullname="Heinz Luck" initials="H." surname="Luck"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

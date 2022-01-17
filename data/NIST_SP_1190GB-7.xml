@@ -2,9 +2,19 @@
   <front>
     <title>Guide Brief 7: defining communities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-7"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister"/>
+    <seriesInfo name="NIST" value="NIST SP 1190GB-7"/>
+    <author fullname="Therese McAllister" initials="T." surname="McAllister">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="May"/>
   </front>

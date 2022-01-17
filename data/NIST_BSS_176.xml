@@ -1,13 +1,21 @@
 <reference anchor="NIST.BSS.176" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nistbuildingscience176.pdf">
   <front>
-    <title>Performance of tape-bonded seams of EPDM membranes : effect of material and application factors on peel creep-rupture response</title>
+    <title>Performance of tape-bonded seams of EPDM membranes :effect of material and application factors on peel creep-rupture response</title>
     <seriesInfo name="DOI" value="10.6028/NIST.BSS.176"/>
+    <seriesInfo name="NIST" value="NIST BSS 176"/>
     <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter"/>
     <author fullname="Mark Vangel" initials="M." surname="Vangel"/>
     <author fullname="Kevin Kraft" initials="K." surname="Kraft"/>
     <author fullname="James Filliben" initials="J." surname="Filliben"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

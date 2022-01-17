@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5622" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5622.pdf">
   <front>
-    <title>DETAN 95: computer code for calculating spectrum-averaged cross sections and detector responses in neutron spectra</title>
+    <title>DETAN 95:computer code for calculating spectrum-averaged cross sections and detector responses in neutron spectra</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5622"/>
+    <seriesInfo name="NIST" value="NIST IR 5622"/>
     <author surname="Eisenhauer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

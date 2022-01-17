@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7136.pdf">
   <front>
-    <title>The NIST road network database: version 1.0</title>
+    <title>The NIST road network database:version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7136"/>
+    <seriesInfo name="NIST" value="NIST IR 7136"/>
     <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
     <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky"/>
     <author fullname="Anthony Barbera" initials="A." surname="Barbera"/>
@@ -11,6 +12,13 @@
     <author fullname="Martin Paredes" initials="M." surname="Paredes"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

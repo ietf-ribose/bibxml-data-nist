@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.4731" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4731.pdf">
   <front>
-    <title>Alaska Marine Mammal Tissue Archival Project: sample inventory and results of analyses of selected samples for organic compounds and trace elements</title>
+    <title>Alaska Marine Mammal Tissue Archival Project:sample inventory and results of analyses of selected samples for organic compounds and trace elements</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4731"/>
+    <seriesInfo name="NIST" value="NIST IR 4731"/>
     <author fullname="Paul Becker" initials="P." surname="Becker"/>
     <author fullname="Stephen Wise" initials="S." surname="Wise"/>
     <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
@@ -9,6 +10,13 @@
     <author fullname="Rolf Zeisler" initials="R." surname="Zeisler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

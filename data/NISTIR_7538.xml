@@ -2,6 +2,7 @@
   <front>
     <title>User's guide for the quality of design testing tool and the content checker</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7538"/>
+    <seriesInfo name="NIST" value="NIST IR 7538"/>
     <author fullname="KC Morris" initials="K." surname="Morris"/>
     <author fullname="Simon Frechette" initials="S." surname="Frechette"/>
     <author fullname="Puja Goyal" initials="P." surname="Goyal"/>
@@ -12,6 +13,13 @@
     <author fullname="Severin Tixier" initials="S." surname="Tixier"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.185" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote185.pdf">
   <front>
-    <title>Lectures on ion-atom collisions: lectures delivered at the Joint Institute for Laboratory Astrophysics, University of Colorado, during September, 1962.</title>
+    <title>Lectures on ion-atom collisions:lectures delivered at the Joint Institute for Laboratory Astrophysics, University of Colorado, during September, 1962.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.185"/>
+    <seriesInfo name="NIST" value="NBS TN 185"/>
     <author surname="McDowell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1963"/>
   </front>

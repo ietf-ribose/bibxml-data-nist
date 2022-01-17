@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.73-270" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-270.pdf">
   <front>
-    <title>Field service test model : computer-controlled U system manual for computer subsystem</title>
+    <title>Field service test model :computer-controlled U system manual for computer subsystem</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-270"/>
+    <seriesInfo name="NIST" value="NBS IR 73-270"/>
     <author surname="Carpenter"/>
     <author surname="Gray"/>
     <author surname="Grubb"/>
     <author surname="Palombo"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

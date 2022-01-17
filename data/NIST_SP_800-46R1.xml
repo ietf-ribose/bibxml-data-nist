@@ -2,11 +2,25 @@
   <front>
     <title>Guide to enterprise telework and remote access security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-46r1"/>
-    <author surname="Scarfone"/>
-    <author surname="Hoffman"/>
-    <author surname="Souppaya"/>
+    <seriesInfo name="NIST" value="NIST SP 800-46r1"/>
+    <author surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Hoffman">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Souppaya">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

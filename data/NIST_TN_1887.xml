@@ -2,8 +2,13 @@
   <front>
     <title>CONTAM User Guide and Program Documentation Version 3.2</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1887"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
-    <author fullname="Brian Polidoro" initials="B." surname="Polidoro"/>
+    <seriesInfo name="NIST" value="NIST TN 1887"/>
+    <author fullname="Stuart Dols" initials="S." surname="Dols">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Brian Polidoro" initials="B." surname="Polidoro">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

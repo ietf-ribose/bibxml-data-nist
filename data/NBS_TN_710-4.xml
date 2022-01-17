@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.710-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote710-4.pdf">
   <front>
-    <title>Thermal Comfort requirement adjacent to cold walls : application to glazed opening</title>
+    <title>Thermal Comfort requirement adjacent to cold walls :application to glazed opening</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.710-4"/>
+    <seriesInfo name="NIST" value="NBS TN 710-4"/>
     <author surname="Anquez"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

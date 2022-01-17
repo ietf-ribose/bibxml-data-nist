@@ -1,11 +1,19 @@
 <reference anchor="NBS.MONO.100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph100.pdf">
   <front>
-    <title>Trace characterization : chemical and physical</title>
+    <title>Trace characterization :chemical and physical</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.100"/>
+    <seriesInfo name="NIST" value="NBS MONO 100"/>
     <author fullname="Wayne Meinke" initials="W." surname="Meinke"/>
     <author fullname="Bourdon Scribner" initials="B." surname="Scribner"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

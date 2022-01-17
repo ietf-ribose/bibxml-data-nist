@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-54" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-54.pdf">
   <front>
-    <title>Standard Reference Materials : Certification and use of acidic potassium dichromate solutions as an ultraviolet absorbance standard</title>
+    <title>Standard Reference Materials :Certification and use of acidic potassium dichromate solutions as an ultraviolet absorbance standard</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-54"/>
+    <seriesInfo name="NIST" value="NBS SP 260-54"/>
     <author surname="Mavrodineanu"/>
     <author surname="Burke"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

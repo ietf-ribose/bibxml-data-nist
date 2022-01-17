@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.5602" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5602.pdf">
   <front>
-    <title>Interim testing artifact (ITA), a performance evaluation system for coordinate measuring machines (CMMs): user manual</title>
+    <title>Interim testing artifact (ITA), a performance evaluation system for coordinate measuring machines (CMMs):user manual</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5602"/>
+    <seriesInfo name="NIST" value="NIST IR 5602"/>
     <author surname="Singer"/>
     <author surname="Land"/>
     <author surname="Phillips"/>
@@ -13,6 +14,13 @@
     <author surname="Faust"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

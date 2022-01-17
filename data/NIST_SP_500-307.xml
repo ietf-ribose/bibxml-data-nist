@@ -2,11 +2,25 @@
   <front>
     <title>Cloud computing service metrics description</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-307"/>
-    <author fullname="Frederic de Vaulx" initials="F." surname="de Vaulx"/>
-    <author fullname="Eric Simmon" initials="E." surname="Simmon"/>
-    <author fullname="Robert Bohn" initials="R." surname="Bohn"/>
+    <seriesInfo name="NIST" value="NIST SP 500-307"/>
+    <author fullname="Frederic de Vaulx" initials="F." surname="de Vaulx">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Eric Simmon" initials="E." surname="Simmon">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Robert Bohn" initials="R." surname="Bohn">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="April"/>
   </front>

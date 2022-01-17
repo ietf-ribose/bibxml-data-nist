@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.47sup" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular47sup.pdf">
   <front>
-    <title>Supplement to Bureau of Standards circular no. 47: table of equivalents-millimeters to inches</title>
+    <title>Supplement to Bureau of Standards circular no. 47:table of equivalents-millimeters to inches</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.47sup"/>
+    <seriesInfo name="NIST" value="NBS CIRC 47sup"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1917"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NBS.RPT.9866" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9866.pdf">
   <front>
-    <title>Structural performance test of the Neil Mitchell Housing System: interim report</title>
+    <title>Structural performance test of the Neil Mitchell Housing System:interim report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9866"/>
+    <seriesInfo name="NIST" value="NBS RPT 9866"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

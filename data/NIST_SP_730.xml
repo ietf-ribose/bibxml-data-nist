@@ -2,11 +2,19 @@
   <front>
     <title>NBS-INA-The Institute for Numerical Analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.730"/>
+    <seriesInfo name="NIST" value="NIST SP 730"/>
     <author fullname="Magnus Hestenes" initials="M." surname="Hestenes"/>
     <author fullname="Magnus Hestenes" initials="M." surname="Hestenes"/>
     <author fullname="John Todd" initials="J." surname="Todd"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

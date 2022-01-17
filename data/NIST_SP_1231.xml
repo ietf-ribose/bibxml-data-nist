@@ -2,9 +2,19 @@
   <front>
     <title>2018 NIST center for neutron research accomplishments and opportunities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1231"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline"/>
+    <seriesInfo name="NIST" value="NIST SP 1231"/>
+    <author fullname="Steven Kline" initials="S." surname="Kline">
+      <organization>NIST Center for Neutron Research.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February"/>
   </front>

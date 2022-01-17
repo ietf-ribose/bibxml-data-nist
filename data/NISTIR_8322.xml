@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8322" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8322.pdf">
+<reference anchor="NIST.IR.8322" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8322.pdf">
   <front>
     <title>Workshop Summary Report for “Building the Federal Profile for IoT Device Cybersecurity” Virtual Workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8322"/>
-    <author fullname="Katerina Megas" initials="K." surname="Megas"/>
-    <author fullname="Michael Fagan" initials="M." surname="Fagan"/>
-    <author fullname="David Lemire" initials="D." surname="Lemire"/>
+    <seriesInfo name="NIST" value="NIST IR 8322"/>
+    <author fullname="Katerina Megas" initials="K." surname="Megas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Fagan" initials="M." surname="Fagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Lemire" initials="D." surname="Lemire">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

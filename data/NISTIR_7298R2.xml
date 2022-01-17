@@ -2,7 +2,10 @@
   <front>
     <title>Glossary of key information security terms</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7298r2"/>
-    <author fullname="Richard Kissel" initials="R." surname="Kissel"/>
+    <seriesInfo name="NIST" value="NIST IR 7298r2"/>
+    <author fullname="Richard Kissel" initials="R." surname="Kissel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

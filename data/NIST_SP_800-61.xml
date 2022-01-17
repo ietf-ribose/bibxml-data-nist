@@ -2,11 +2,25 @@
   <front>
     <title>Computer security incident handling guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-61"/>
-    <author surname="Grance"/>
-    <author surname="Kent"/>
-    <author surname="Kim"/>
+    <seriesInfo name="NIST" value="NIST SP 800-61"/>
+    <author surname="Grance">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Kent">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Kim">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Data-reduction and analysis procedures used in NIST's thermomechanical processing research</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.3950"/>
+    <seriesInfo name="NIST" value="NIST IR 3950"/>
     <author fullname="Yi-Wen Cheng" initials="Y." surname="Cheng"/>
     <author fullname="Christian Sargent" initials="C." surname="Sargent"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

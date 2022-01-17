@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.740" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote740.pdf">
   <front>
-    <title>SETAB : An edit</title>
+    <title>SETAB :An edit</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.740"/>
+    <seriesInfo name="NIST" value="NBS TN 740"/>
     <author fullname="Robert Thompson" initials="R." surname="Thompson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

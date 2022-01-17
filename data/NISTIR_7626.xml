@@ -2,6 +2,7 @@
   <front>
     <title>Formal representation of product design specifications for validating product designs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7626"/>
+    <seriesInfo name="NIST" value="NIST IR 7626"/>
     <author fullname="Alex Weissman" initials="A." surname="Weissman"/>
     <author fullname="Satyandra Gupta" initials="S." surname="Gupta"/>
     <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini"/>
@@ -9,6 +10,13 @@
     <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

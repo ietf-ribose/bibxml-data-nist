@@ -2,6 +2,7 @@
   <front>
     <title>Draft specification for a structured data interchange form</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2315"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2315"/>
     <author fullname="James Fry" initials="J." surname="Fry"/>
     <author fullname="Wan-Ping Chiang" initials="W." surname="Chiang"/>
     <author fullname="Donald DeSmith" initials="D." surname="DeSmith"/>
@@ -10,6 +11,13 @@
     <author fullname="Robert Perreault" initials="R." surname="Perreault"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

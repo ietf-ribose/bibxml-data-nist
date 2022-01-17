@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.800-60v1r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60v1r1.pdf">
   <front>
-    <title>Volume I : guide for mapping types of information and information systems to security categories</title>
+    <title>Volume I :guide for mapping types of information and information systems to security categories</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-60v1r1"/>
+    <seriesInfo name="NIST" value="NIST SP 800-60v1r1"/>
     <author fullname="Kevin Stine" initials="K." surname="Stine"/>
     <author fullname="Rich Kissel" initials="R." surname="Kissel"/>
     <author fullname="William Barker" initials="W." surname="Barker"/>
@@ -9,6 +10,13 @@
     <author fullname="Jessica Gulick" initials="J." surname="Gulick"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

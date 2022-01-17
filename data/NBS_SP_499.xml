@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.499" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication499.pdf">
   <front>
-    <title>Noise criteria for buildings : a critical review</title>
+    <title>Noise criteria for buildings :a critical review</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.499"/>
+    <seriesInfo name="NIST" value="NBS SP 499"/>
     <author fullname="Simone Yaniv" initials="S." surname="Yaniv"/>
     <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

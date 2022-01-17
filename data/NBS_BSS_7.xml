@@ -1,10 +1,18 @@
 <reference anchor="NBS.BSS.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience7.pdf">
   <front>
-    <title>Organic coatings : properties, selection, and use</title>
+    <title>Organic coatings :properties, selection, and use</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.7"/>
+    <seriesInfo name="NIST" value="NBS BSS 7"/>
     <author fullname="Aaron Roberts" initials="A." surname="Roberts"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

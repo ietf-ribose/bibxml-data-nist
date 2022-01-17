@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.438" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular438.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 438: static electricity</title>
+    <title>Circular of the Bureau of Standards no. 438:static electricity</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.438"/>
+    <seriesInfo name="NIST" value="NBS CIRC 438"/>
     <author fullname="Francis Silsbee" initials="F." surname="Silsbee"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1942"/>
   </front>

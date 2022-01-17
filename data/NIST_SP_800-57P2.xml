@@ -1,14 +1,32 @@
 <reference anchor="NIST.SP.800-57p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-57p2.pdf">
   <front>
-    <title>Recommendation for key management, part 2 : best practices for key management organization</title>
+    <title>Recommendation for key management, part 2 :best practices for key management organization</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-57p2"/>
-    <author surname="Barker"/>
-    <author surname="Barker"/>
-    <author surname="Burr"/>
-    <author surname="Polk"/>
-    <author surname="Smid"/>
+    <seriesInfo name="NIST" value="NIST SP 800-57p2"/>
+    <author surname="Barker">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Barker">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Burr">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Polk">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Smid">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

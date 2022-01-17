@@ -1,13 +1,29 @@
 <reference anchor="NIST.GCR.19-020" target="https://nvlpubs.nist.gov/nistpubs/gcr/2019/NIST.GCR.19-020.pdf">
   <front>
-    <title>Measurement science roadmap workshop for water use efficiency and water quality in premise plumbing systems, August 1-2, 2018: Synthesis of a workshop organized by the National Institute of Standards and Technology, U.S. Environmental Protection Agency, and Water Research Foundation</title>
+    <title>Measurement science roadmap workshop for water use efficiency and water quality in premise plumbing systems, August 1-2, 2018:Synthesis of a workshop organized by the National Institute of Standards and Technology, U.S. Environmental Protection Agency, and Water Research Foundation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.19-020"/>
-    <author fullname="Robert Pickering" initials="R." surname="Pickering"/>
-    <author fullname="Kathleen Onorevole" initials="K." surname="Onorevole"/>
-    <author fullname="Rob Greenwood" initials="R." surname="Greenwood"/>
-    <author fullname="Sarah Shadid" initials="S." surname="Shadid"/>
+    <seriesInfo name="NIST" value="NIST GCR 19-020"/>
+    <author fullname="Robert Pickering" initials="R." surname="Pickering">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kathleen Onorevole" initials="K." surname="Onorevole">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Rob Greenwood" initials="R." surname="Greenwood">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sarah Shadid" initials="S." surname="Shadid">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December"/>
   </front>

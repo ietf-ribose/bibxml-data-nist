@@ -2,9 +2,17 @@
   <front>
     <title>Findings of the standard benchmark library study group</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-38"/>
+    <seriesInfo name="NIST" value="NBS SP 500-38"/>
     <author fullname="Dennis Conti" initials="D." surname="Conti"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

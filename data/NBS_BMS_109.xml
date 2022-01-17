@@ -1,13 +1,21 @@
 <reference anchor="NBS.BMS.109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures109.pdf">
   <front>
-    <title>Strength of houses : application of engineering principles to structural design</title>
+    <title>Strength of houses :application of engineering principles to structural design</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BMS.109"/>
+    <seriesInfo name="NIST" value="NBS BMS 109"/>
     <author fullname="Herbert Whittemore" initials="H." surname="Whittemore"/>
     <author fullname="John Cotter" initials="J." surname="Cotter"/>
     <author fullname="Ambrose Stang" initials="A." surname="Stang"/>
     <author fullname="Vincent Phelan" initials="V." surname="Phelan"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1948"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4388" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4388.pdf">
   <front>
-    <title>AMPLE core interpreter: user's guide</title>
+    <title>AMPLE core interpreter:user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4388"/>
+    <seriesInfo name="NIST" value="NIST IR 4388"/>
     <author surname="Boudreaux"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

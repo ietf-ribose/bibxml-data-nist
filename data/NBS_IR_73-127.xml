@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.73-127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-127.pdf">
   <front>
-    <title>Evaluation of lead paint hazard elimination methods : part II</title>
+    <title>Evaluation of lead paint hazard elimination methods :part II</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-127"/>
+    <seriesInfo name="NIST" value="NBS IR 73-127"/>
     <author fullname="David Waksman" initials="D." surname="Waksman"/>
     <author fullname="Leopold Skoda" initials="L." surname="Skoda"/>
     <author fullname="Elizabeth Clark" initials="E." surname="Clark"/>
     <author fullname="McClure Godettee" initials="M." surname="Godettee"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

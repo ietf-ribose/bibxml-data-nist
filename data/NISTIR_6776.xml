@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6776.pdf">
   <front>
-    <title>Thermal spray process reliability: sensors and diagnostics, summary of a workshop held at the National Institute of Standards and Technology</title>
+    <title>Thermal spray process reliability:sensors and diagnostics, summary of a workshop held at the National Institute of Standards and Technology</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6776"/>
+    <seriesInfo name="NIST" value="NIST IR 6776"/>
     <author fullname="Stephen Ridder" initials="S." surname="Ridder"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.800-27" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-27.pdf">
   <front>
-    <title>Engineering principles for information technology security (a baseline for achieving security) : recommendations of the National Institute of Standards and Technology</title>
+    <title>Engineering principles for information technology security (a baseline for achieving security) :recommendations of the National Institute of Standards and Technology</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-27"/>
-    <author fullname="Gary Stoneburner" initials="G." surname="Stoneburner"/>
-    <author fullname="Clark Hayden" initials="C." surname="Hayden"/>
-    <author fullname="Alexis Feringa" initials="A." surname="Feringa"/>
+    <seriesInfo name="NIST" value="NIST SP 800-27"/>
+    <author fullname="Gary Stoneburner" initials="G." surname="Stoneburner">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Clark Hayden" initials="C." surname="Hayden">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Alexis Feringa" initials="A." surname="Feringa">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

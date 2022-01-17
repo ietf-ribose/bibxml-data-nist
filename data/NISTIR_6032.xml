@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6032" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6032.pdf">
   <front>
-    <title>Workshop on Raman Spectroscopy in Optical and Materials Sciences: National Institute of Standards and Technology, Optical Technology Division</title>
+    <title>Workshop on Raman Spectroscopy in Optical and Materials Sciences:National Institute of Standards and Technology, Optical Technology Division</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6032"/>
+    <seriesInfo name="NIST" value="NIST IR 6032"/>
     <author fullname="Alfons Weber" initials="A." surname="Weber"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

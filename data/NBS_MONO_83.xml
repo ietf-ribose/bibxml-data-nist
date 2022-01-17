@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.83" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph83.pdf">
   <front>
-    <title>Project FIST : fault isolatiob by semi-automatic techniques</title>
+    <title>Project FIST :fault isolatiob by semi-automatic techniques</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.83"/>
+    <seriesInfo name="NIST" value="NBS MONO 83"/>
     <author fullname="Gustave Shapiro" initials="G." surname="Shapiro"/>
     <author fullname="Owen Laug" initials="O." surname="Laug"/>
     <author fullname="George Rogers" initials="G." surname="Rogers"/>
     <author fullname="Michael Fulcomer" initials="M." surname="Fulcomer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

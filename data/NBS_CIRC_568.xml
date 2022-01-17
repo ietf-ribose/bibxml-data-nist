@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.568" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular568.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 568: high-temperature reactions of uranium dioxide with various metal oxides</title>
+    <title>Circular of the Bureau of Standards no. 568:high-temperature reactions of uranium dioxide with various metal oxides</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.568"/>
+    <seriesInfo name="NIST" value="NBS CIRC 568"/>
     <author fullname="Stewart Lang" initials="S." surname="Lang"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1956"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Aqueous-based amphiphile solutions used as gel coatings to reduce flammability of cotton fabrics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2047"/>
-    <author fullname="Andre Thompson" initials="A." surname="Thompson"/>
-    <author fullname="Brian Love" initials="B." surname="Love"/>
-    <author fullname="Rick Davis" initials="R." surname="Davis"/>
+    <seriesInfo name="NIST" value="NIST TN 2047"/>
+    <author fullname="Andre Thompson" initials="A." surname="Thompson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Brian Love" initials="B." surname="Love">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Rick Davis" initials="R." surname="Davis">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July"/>
   </front>

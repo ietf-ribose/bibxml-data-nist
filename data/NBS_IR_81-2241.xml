@@ -2,11 +2,19 @@
   <front>
     <title>Engineering</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2241"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2241"/>
     <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
     <author fullname="Kimberly Barnes" initials="K." surname="Barnes"/>
     <author fullname="George Kelly" initials="G." surname="Kelly"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

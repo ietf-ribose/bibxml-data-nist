@@ -2,7 +2,10 @@
   <front>
     <title>Secure Hash Standard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.FIPS.180-4"/>
-    <author fullname="Quynh Dang" initials="Q." surname="Dang"/>
+    <seriesInfo name="NIST" value="NIST FIPS 180-4"/>
+    <author fullname="Quynh Dang" initials="Q." surname="Dang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

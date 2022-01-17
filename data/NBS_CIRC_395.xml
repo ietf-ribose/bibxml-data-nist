@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.395" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular395.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 395: zinc and its alloys</title>
+    <title>Circular of the Bureau of Standards no. 395:zinc and its alloys</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.395"/>
+    <seriesInfo name="NIST" value="NBS CIRC 395"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1931"/>
   </front>

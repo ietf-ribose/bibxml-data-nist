@@ -2,11 +2,25 @@
   <front>
     <title>Structure signited by Virginia WUI fires Feburary 2015 to February 2017</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-018"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
-    <author fullname="Lavern Scott" initials="L." surname="Scott"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <seriesInfo name="NIST" value="NIST GCR 18-018"/>
+    <author fullname="David Evans" initials="D." surname="Evans">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Lavern Scott" initials="L." surname="Scott">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Walton" initials="W." surname="Walton">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

@@ -2,7 +2,10 @@
   <front>
     <title>MicroChar: An Application for Quantitative Analysis of Cement and Clinker Microstructure Images</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1876"/>
-    <author fullname="Jeffrey Bullard" initials="J." surname="Bullard"/>
+    <seriesInfo name="NIST" value="NIST TN 1876"/>
+    <author fullname="Jeffrey Bullard" initials="J." surname="Bullard">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

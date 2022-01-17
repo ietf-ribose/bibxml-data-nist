@@ -2,6 +2,7 @@
   <front>
     <title>Generating standard reference electromagnetic fields in the NIST anechoic chamber, 0.2 to 40 GHz</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1335"/>
+    <seriesInfo name="NIST" value="NIST TN 1335"/>
     <author surname="Hill"/>
     <author surname="Kanda"/>
     <author surname="Larsen"/>
@@ -9,6 +10,13 @@
     <author surname="Orr"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

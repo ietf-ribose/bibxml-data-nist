@@ -2,11 +2,25 @@
   <front>
     <title>Summary report on a workshop on advanced monitoring, diagnostics, and prognostics for manufacturing operations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-13"/>
-    <author fullname="Brian Weiss" initials="B." surname="Weiss"/>
-    <author fullname="Donnie Alonzo" initials="D." surname="Alonzo"/>
-    <author fullname="Steve Weinman" initials="S." surname="Weinman"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-13"/>
+    <author fullname="Brian Weiss" initials="B." surname="Weiss">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Donnie Alonzo" initials="D." surname="Alonzo">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steve Weinman" initials="S." surname="Weinman">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="November" day="13"/>
   </front>

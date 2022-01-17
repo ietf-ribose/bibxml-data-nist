@@ -2,12 +2,20 @@
   <front>
     <title>National Bureau of Standards publications 1977-1987</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.790v2"/>
+    <seriesInfo name="NIST" value="NIST SP 790v2"/>
     <author fullname="Rebecca Pardee" initials="R." surname="Pardee"/>
     <author fullname="Rebecca Pardee" initials="R." surname="Pardee"/>
     <author fullname="Ernestine Gladden" initials="E." surname="Gladden"/>
     <author fullname="Donald Harris" initials="D." surname="Harris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

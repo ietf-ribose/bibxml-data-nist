@@ -1,11 +1,19 @@
 <reference anchor="NBS.BSS.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience1.pdf">
   <front>
-    <title>Performance of buildings : concept and measurement</title>
+    <title>Performance of buildings :concept and measurement</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.1"/>
+    <seriesInfo name="NIST" value="NBS BSS 1"/>
     <author surname="Walton"/>
     <author surname="Cadoff"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

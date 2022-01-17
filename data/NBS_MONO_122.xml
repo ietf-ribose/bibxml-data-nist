@@ -2,6 +2,7 @@
   <front>
     <title>Mechanics of pneumatic tires</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.122"/>
+    <seriesInfo name="NIST" value="NBS MONO 122"/>
     <author surname="Gehman"/>
     <author surname="Ludema"/>
     <author fullname="Stanley Backer" initials="S." surname="Backer"/>
@@ -15,6 +16,13 @@
     <author surname="Pacejka"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

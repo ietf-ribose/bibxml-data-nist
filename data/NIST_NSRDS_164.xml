@@ -2,9 +2,16 @@
   <front>
     <title>NIST database of cross sections for inner-shell ionization by electron or positron impact : version 1.0 user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.164"/>
-    <author fullname="Autumn Downey" initials="A." surname="Downey"/>
-    <author fullname="Lisa Delaney" initials="L." surname="Delaney"/>
-    <author fullname="Jayne Morrow" initials="J." surname="Morrow"/>
+    <seriesInfo name="NIST" value="NIST NSRDS 164"/>
+    <author fullname="Autumn Downey" initials="A." surname="Downey">
+      <organization>Materials Measurement Laboratory</organization>
+    </author>
+    <author fullname="Lisa Delaney" initials="L." surname="Delaney">
+      <organization>Materials Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jayne Morrow" initials="J." surname="Morrow">
+      <organization>Materials Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

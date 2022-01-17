@@ -2,11 +2,25 @@
   <front>
     <title>Guide to security for full virtualization technologies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125"/>
-    <author surname="Scarfone"/>
-    <author surname="Souppaya"/>
-    <author surname="Hoffman"/>
+    <seriesInfo name="NIST" value="NIST SP 800-125"/>
+    <author surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Souppaya">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Hoffman">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

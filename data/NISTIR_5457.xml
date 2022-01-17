@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.5457" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5457.pdf">
   <front>
-    <title>Report on the Workshop of Advanced Digital Video in the National Information Infrastructure: May 10-11, 1994, Georgetown University Conference Center, Washington, DC</title>
+    <title>Report on the Workshop of Advanced Digital Video in the National Information Infrastructure:May 10-11, 1994, Georgetown University Conference Center, Washington, DC</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5457"/>
+    <seriesInfo name="NIST" value="NIST IR 5457"/>
     <author fullname="Howard Frank" initials="H." surname="Frank"/>
     <author fullname="Elden Georg" initials="E." surname="Georg"/>
     <author fullname="Michael Papillo" initials="M." surname="Papillo"/>
@@ -10,6 +11,13 @@
     <author fullname="Craig Van Degrift" initials="C." surname="Van Degrift"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

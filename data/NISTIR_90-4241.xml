@@ -2,12 +2,20 @@
   <front>
     <title>Data model development and validation for product data exchange</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4241"/>
+    <seriesInfo name="NIST" value="NIST IR 90-4241"/>
     <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
     <author fullname="Yuhwei Yang" initials="Y." surname="Yang"/>
     <author fullname="Steve Ryan" initials="S." surname="Ryan"/>
     <author fullname="Bryan Martin" initials="B." surname="Martin"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

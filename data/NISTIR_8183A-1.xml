@@ -1,16 +1,38 @@
 <reference anchor="NIST.IR.8183A-1" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-1.pdf">
   <front>
-    <title>Cybersecurity framework manufacturing profile low impact level example implementations guide : volume 1 general implementation guidance</title>
+    <title>Cybersecurity framework manufacturing profile low impact level example implementations guide :volume 1 general implementation guidance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8183A-1"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman"/>
-    <author fullname="CheeYee Tang" initials="C." surname="Tang"/>
-    <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski"/>
-    <author fullname="Michael Pease" initials="M." surname="Pease"/>
-    <author fullname="Neeraj Shah" initials="N." surname="Shah"/>
-    <author fullname="Wesley Downard" initials="W." surname="Downard"/>
+    <seriesInfo name="NIST" value="NIST IR 8183A-1"/>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="CheeYee Tang" initials="C." surname="Tang">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Michael Pease" initials="M." surname="Pease">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Neeraj Shah" initials="N." surname="Shah">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Wesley Downard" initials="W." surname="Downard">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September"/>
   </front>

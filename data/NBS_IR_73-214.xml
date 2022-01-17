@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.73-214" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-214.pdf">
   <front>
-    <title>LEAA police equipment survey of 1972 volume V : handguns and handgun ammunition</title>
+    <title>LEAA police equipment survey of 1972 volume V :handguns and handgun ammunition</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-214"/>
+    <seriesInfo name="NIST" value="NBS IR 73-214"/>
     <author surname="Bergsman"/>
     <author surname="Bunten"/>
     <author surname="Klaus"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Interlaboratory Comparison Study to Support the Deepwater Horizon Natural Resource Damage Assessment: Description and Results for QA11Blood01- PAHs, PAH Metabolites, and DOSS in Solution and Blood</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7869"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
+    <seriesInfo name="NIST" value="NIST IR 7869"/>
+    <author fullname="John Kucklick" initials="J." surname="Kucklick">
+      <organization>Analytical Chemistry Division, Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Michele Schantz" initials="M." surname="Schantz">
+      <organization>Analytical Chemistry Division, Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="July"/>
   </front>

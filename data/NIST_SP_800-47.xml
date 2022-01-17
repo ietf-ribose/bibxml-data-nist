@@ -2,13 +2,31 @@
   <front>
     <title>Security guide for interconnecting information technology systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-47"/>
-    <author surname="Grance"/>
-    <author surname="Hash"/>
-    <author surname="Peck"/>
-    <author surname="Smith"/>
-    <author surname="Korow-Diks"/>
+    <seriesInfo name="NIST" value="NIST SP 800-47"/>
+    <author surname="Grance">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Hash">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Peck">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Smith">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Korow-Diks">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NBS.SP.960-19" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-19.pdf">
   <front>
-    <title>NIST recommended practice guide measurement issues in single wall carbon nanotubes</title>
+    <title>NIST recommended practice guidemeasurement issues in single wall carbon nanotubes</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-19"/>
+    <seriesInfo name="NIST" value="NBS SP 960-19"/>
     <author fullname="Sivaram Arepalli" initials="S." surname="Arepalli"/>
     <author fullname="Stephanie Hooker" initials="S." surname="Hooker"/>
     <author fullname="Stephen Freiman" initials="S." surname="Freiman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

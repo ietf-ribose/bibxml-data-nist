@@ -2,7 +2,10 @@
   <front>
     <title>Simple Guide for Evaluating and Expressing the Uncertainty of NIST Measurement Results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1900"/>
-    <author fullname="Antonio Possolo" initials="A." surname="Possolo"/>
+    <seriesInfo name="NIST" value="NIST TN 1900"/>
+    <author fullname="Antonio Possolo" initials="A." surname="Possolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

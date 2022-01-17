@@ -2,8 +2,16 @@
   <front>
     <title>Federal Information Processing Standards Publication: information processing</title>
     <seriesInfo name="DOI" value="10.6028/NBS.FIPS.152"/>
+    <seriesInfo name="NIST" value="NBS FIPS 152"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

@@ -1,13 +1,26 @@
-<reference anchor="NISTIR.8307" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8307.pdf">
+<reference anchor="NIST.IR.8307" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8307.pdf">
   <front>
     <title>Interoperability Assessment 2019: Contactless-to-Contact Fingerprint Capture</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8307"/>
-    <author fullname="John Libert" initials="J." surname="Libert"/>
-    <author fullname="John Grantham" initials="J." surname="Grantham"/>
-    <author fullname="Bruce Bandini" initials="B." surname="Bandini"/>
-    <author fullname="Kenneth Ko" initials="K." surname="Ko"/>
-    <author fullname="Shahram Orandi" initials="S." surname="Orandi"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
+    <seriesInfo name="NIST" value="NIST IR 8307"/>
+    <author fullname="John Libert" initials="J." surname="Libert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Grantham" initials="J." surname="Grantham">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Bruce Bandini" initials="B." surname="Bandini">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kenneth Ko" initials="K." surname="Ko">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Shahram Orandi" initials="S." surname="Orandi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,12 +2,28 @@
   <front>
     <title>Findings from the NISTASTM workshop on mechanical behavior of additive manufacturing components</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-4"/>
-    <author fullname="Nikolas Hrabe" initials="N." surname="Hrabe"/>
-    <author fullname="Nicholas Barbosa" initials="N." surname="Barbosa"/>
-    <author fullname="Steve Daniewicz" initials="S." surname="Daniewicz"/>
-    <author fullname="Nima Shamsaei" initials="N." surname="Shamsaei"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-4"/>
+    <author fullname="Nikolas Hrabe" initials="N." surname="Hrabe">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Barbosa" initials="N." surname="Barbosa">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Steve Daniewicz" initials="S." surname="Daniewicz">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nima Shamsaei" initials="N." surname="Shamsaei">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

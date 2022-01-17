@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.74-446" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-446.pdf">
   <front>
-    <title>Pecos truck tire noise study : a summary of results</title>
+    <title>Pecos truck tire noise study :a summary of results</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.74-446"/>
+    <seriesInfo name="NIST" value="NBS IR 74-446"/>
     <author fullname="William Leasure" initials="W." surname="Leasure"/>
     <author fullname="Denzil Mathews" initials="D." surname="Mathews"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

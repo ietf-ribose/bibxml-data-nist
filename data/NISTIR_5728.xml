@@ -2,12 +2,20 @@
   <front>
     <title>Image gradient evolution</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5728"/>
+    <seriesInfo name="NIST" value="NIST IR 5728"/>
     <author fullname="Hongche Liu" initials="H." surname="Liu"/>
     <author fullname="Tsai-Hong Hong" initials="T." surname="Hong"/>
     <author fullname="Martin Herman" initials="M." surname="Herman"/>
     <author fullname="Rama Chellappa" initials="R." surname="Chellappa"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

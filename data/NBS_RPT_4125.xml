@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.4125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4125.pdf">
   <front>
-    <title>Underground pipe insulation : progress report August 1, 1954 to May 31, 1955</title>
+    <title>Underground pipe insulation :progress report August 1, 1954 to May 31, 1955</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.4125"/>
+    <seriesInfo name="NIST" value="NBS RPT 4125"/>
     <author fullname="Selden Cole" initials="S." surname="Cole"/>
     <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1955"/>
   </front>

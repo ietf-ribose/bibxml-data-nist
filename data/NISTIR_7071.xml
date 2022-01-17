@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.7071" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7071.pdf">
   <front>
-    <title>Modeling and simulation for emergency response: workshop report, standards and tools</title>
+    <title>Modeling and simulation for emergency response:workshop report, standards and tools</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7071"/>
+    <seriesInfo name="NIST" value="NIST IR 7071"/>
     <author fullname="Sanjay Jain" initials="S." surname="Jain"/>
     <author fullname="Charles McLean" initials="C." surname="McLean"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

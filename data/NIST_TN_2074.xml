@@ -2,11 +2,25 @@
   <front>
     <title>Measuring water flow rate for a fire hose using a wireless sensor network for smart fire fighting</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2074"/>
-    <author fullname="Christopher Brown" initials="C." surname="Brown"/>
-    <author fullname="Gregory Vogl" initials="G." surname="Vogl"/>
-    <author fullname="WaiCheong Tam" initials="W.C." surname="Tam"/>
+    <seriesInfo name="NIST" value="NIST TN 2074"/>
+    <author fullname="Christopher Brown" initials="C." surname="Brown">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Gregory Vogl" initials="G." surname="Vogl">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="WaiCheong Tam" initials="W.C." surname="Tam">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November"/>
   </front>

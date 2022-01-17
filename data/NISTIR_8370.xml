@@ -1,12 +1,23 @@
-<reference anchor="NISTIR.8370" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8370.pdf">
+<reference anchor="NIST.IR.8370" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8370.pdf">
   <front>
     <title>The San Francisco Estuary Institute Collection at the NIST Biorepository</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8370"/>
-    <author fullname="Debra Ellisor" initials="D." surname="Ellisor"/>
-    <author fullname="Nina Buzby" initials="N." surname="Buzby"/>
-    <author fullname="Michael Weaver" initials="M." surname="Weaver"/>
-    <author fullname="Melissa Foley" initials="M." surname="Foley"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
+    <seriesInfo name="NIST" value="NIST IR 8370"/>
+    <author fullname="Debra Ellisor" initials="D." surname="Ellisor">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nina Buzby" initials="N." surname="Buzby">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Michael Weaver" initials="M." surname="Weaver">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Melissa Foley" initials="M." surname="Foley">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Rebecca Pugh" initials="R." surname="Pugh">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

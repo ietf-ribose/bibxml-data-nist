@@ -2,10 +2,18 @@
   <front>
     <title>CRPL exponential reference atmosphere</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.4"/>
+    <seriesInfo name="NIST" value="NBS MONO 4"/>
     <author surname="Bean"/>
     <author surname="Thayer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

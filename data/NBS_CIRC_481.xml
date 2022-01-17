@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.481" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular481.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 481: high-frequency voltage measurement</title>
+    <title>Circular of the Bureau of Standards no. 481:high-frequency voltage measurement</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.481"/>
+    <seriesInfo name="NIST" value="NBS CIRC 481"/>
     <author fullname="Myron Selby" initials="M." surname="Selby"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1949"/>
   </front>

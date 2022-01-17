@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.10479" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10479.pdf">
   <front>
-    <title>Outdoor performance of plastics: VIII. first update of weathering data</title>
+    <title>Outdoor performance of plastics:VIII. first update of weathering data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10479"/>
+    <seriesInfo name="NIST" value="NBS RPT 10479"/>
     <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

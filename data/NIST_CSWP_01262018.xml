@@ -2,15 +2,37 @@
   <front>
     <title>Security Considerations for Code Signing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.CSWP.01262018"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper"/>
-    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
-    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya"/>
-    <author fullname="Christopher Bean" initials="C." surname="Bean"/>
-    <author fullname="Mike Boyle" initials="M." surname="Boyle"/>
-    <author fullname="Dorothy Cooley" initials="D." surname="Cooley"/>
-    <author fullname="Michael Jenkins" initials="M." surname="Jenkins"/>
+    <seriesInfo name="NIST" value="NIST CSWP 01262018"/>
+    <author fullname="David Cooper" initials="D." surname="Cooper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christopher Bean" initials="C." surname="Bean">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mike Boyle" initials="M." surname="Boyle">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Dorothy Cooley" initials="D." surname="Cooley">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Jenkins" initials="M." surname="Jenkins">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="26"/>
   </front>

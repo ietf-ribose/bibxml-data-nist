@@ -2,6 +2,7 @@
   <front>
     <title>A methodology for compensating errors detected by process-intermittent inspection</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6811"/>
+    <seriesInfo name="NIST" value="NIST IR 6811"/>
     <author fullname="Herbert Brandy" initials="H." surname="Brandy"/>
     <author fullname="Alkan Donmez" initials="A." surname="Donmez"/>
     <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
@@ -12,6 +13,13 @@
     <author fullname="Kenneth Yee" initials="K." surname="Yee"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

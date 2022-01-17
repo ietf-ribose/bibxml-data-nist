@@ -2,9 +2,17 @@
   <front>
     <title>A Fortran program for analysis of ellipsometer measurements and calculation of reflection coefficients from thin films</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.242"/>
+    <seriesInfo name="NIST" value="NBS TN 242"/>
     <author fullname="Frank McCrackin" initials="F." surname="McCrackin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

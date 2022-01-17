@@ -2,11 +2,25 @@
   <front>
     <title>Internet of things workshop report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.2100-01"/>
-    <author fullname="Alison Kahn" initials="A." surname="Kahn"/>
-    <author fullname="Marc Leh" initials="M." surname="Leh"/>
-    <author fullname="Brianna Vendetti" initials="B." surname="Vendetti"/>
+    <seriesInfo name="NIST" value="NIST SP 2100-01"/>
+    <author fullname="Alison Kahn" initials="A." surname="Kahn">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Marc Leh" initials="M." surname="Leh">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Brianna Vendetti" initials="B." surname="Vendetti">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July"/>
   </front>

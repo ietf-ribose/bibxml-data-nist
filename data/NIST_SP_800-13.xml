@@ -2,11 +2,25 @@
   <front>
     <title>Telecommunications security guidelines for telecommunications management network</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-13"/>
-    <author fullname="John Kimmins" initials="J." surname="Kimmins"/>
-    <author fullname="Charles Dinkel" initials="C." surname="Dinkel"/>
-    <author fullname="Dale Walters" initials="D." surname="Walters"/>
+    <seriesInfo name="NIST" value="NIST SP 800-13"/>
+    <author fullname="John Kimmins" initials="J." surname="Kimmins">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Charles Dinkel" initials="C." surname="Dinkel">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Dale Walters" initials="D." surname="Walters">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

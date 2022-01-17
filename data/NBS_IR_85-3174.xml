@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.85-3174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3174.pdf">
   <front>
-    <title>Paratransit advanced routing and scheduling system documentation : functional program and data specifications</title>
+    <title>Paratransit advanced routing and scheduling system documentation :functional program and data specifications</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3174"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3174"/>
     <author fullname="William Hall" initials="W." surname="Hall"/>
     <author fullname="Howard Hung" initials="H." surname="Hung"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

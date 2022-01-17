@@ -2,12 +2,20 @@
   <front>
     <title>A Boussinesq algorithm for buoyant convection in polygonal domains</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4831"/>
+    <seriesInfo name="NIST" value="NIST IR 4831"/>
     <author surname="McGrattan"/>
     <author surname="Rehm"/>
     <author surname="Tang"/>
     <author surname="Baum"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

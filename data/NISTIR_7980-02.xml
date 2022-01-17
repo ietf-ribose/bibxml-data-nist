@@ -2,7 +2,10 @@
   <front>
     <title>NIST Time and Frequency Bulletin</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7980-02"/>
-    <author fullname="Petrina Potts" initials="P." surname="Potts"/>
+    <seriesInfo name="NIST" value="NIST IR 7980-02"/>
+    <author fullname="Petrina Potts" initials="P." surname="Potts">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

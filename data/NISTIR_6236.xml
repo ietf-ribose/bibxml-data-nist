@@ -2,6 +2,7 @@
   <front>
     <title>Standard test methods and data for modeling crashworthiness</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6236"/>
+    <seriesInfo name="NIST" value="NIST IR 6236"/>
     <author surname="Fields"/>
     <author surname="Foecke"/>
     <author surname="deWi;t"/>
@@ -9,6 +10,13 @@
     <author surname="Levine"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

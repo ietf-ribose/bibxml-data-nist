@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.9488" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9488.pdf">
   <front>
-    <title>The effect of surface reactions on fatigue failure: final report</title>
+    <title>The effect of surface reactions on fatigue failure:final report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9488"/>
+    <seriesInfo name="NIST" value="NBS RPT 9488"/>
     <author surname="Shives"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

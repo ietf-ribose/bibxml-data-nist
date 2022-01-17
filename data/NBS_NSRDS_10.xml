@@ -2,11 +2,19 @@
   <front>
     <title>Selected values of electric dipole moments for molecules in the gas phase</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.10"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 10"/>
     <author fullname="Ralph Nelson" initials="R." surname="Nelson"/>
     <author fullname="David Lide" initials="D." surname="Lide"/>
     <author fullname="Arthur Maryott" initials="A." surname="Maryott"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

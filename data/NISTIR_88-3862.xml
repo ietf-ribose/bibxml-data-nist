@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.88-3862" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3862.pdf">
   <front>
-    <title>Information resource dictionary system : an integration mechanism for product data exchange specification</title>
+    <title>Information resource dictionary system :an integration mechanism for product data exchange specification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3862"/>
+    <seriesInfo name="NIST" value="NIST IR 88-3862"/>
     <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
     <author fullname="Cita Furlani" initials="C." surname="Furlani"/>
     <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
@@ -9,6 +10,13 @@
     <author fullname="David Jefferson" initials="D." surname="Jefferson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

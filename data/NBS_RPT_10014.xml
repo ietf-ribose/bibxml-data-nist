@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.10014" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10014.pdf">
   <front>
-    <title>Outdoor performance of plastics: II. Tensile and flexural properties</title>
+    <title>Outdoor performance of plastics:II. Tensile and flexural properties</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10014"/>
+    <seriesInfo name="NIST" value="NBS RPT 10014"/>
     <author fullname="Joseph Clark" initials="J." surname="Clark"/>
     <author fullname="Richard Neuman" initials="R." surname="Neuman"/>
     <author fullname="James Slater" initials="J." surname="Slater"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

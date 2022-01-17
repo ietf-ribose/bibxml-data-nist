@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.423" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular423.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 423: microscopic methods used in identifying commercial fibers</title>
+    <title>Circular of the Bureau of Standards no. 423:microscopic methods used in identifying commercial fibers</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.423"/>
+    <seriesInfo name="NIST" value="NBS CIRC 423"/>
     <author fullname="Thora Plitt" initials="T." surname="Plitt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1939"/>
   </front>

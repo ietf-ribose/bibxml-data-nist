@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.260-69" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-69.pdf">
   <front>
-    <title>Standard Reference Materials A reference method for the determination of lithium in serum</title>
+    <title>Standard Reference MaterialsA reference method for the determination of lithium in serum</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-69"/>
+    <seriesInfo name="NIST" value="NBS SP 260-69"/>
     <author fullname="Ernest Garner" initials="E." surname="Garner"/>
     <author fullname="Lawrence Machlan" initials="L." surname="Machlan"/>
     <author fullname="John Mandel" initials="J." surname="Mandel"/>
@@ -10,6 +11,13 @@
     <author fullname="Rance Velapoldi" initials="R." surname="Velapoldi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

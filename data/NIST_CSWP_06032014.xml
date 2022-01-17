@@ -2,11 +2,25 @@
   <front>
     <title>Supplemental Guidance on Ongoing Authorization: Transitioning to Near Real-Time Risk Management</title>
     <seriesInfo name="DOI" value="10.6028/NIST.CSWP.06032014"/>
-    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey"/>
-    <author fullname="Ron Ross" initials="R." surname="Ross"/>
-    <author fullname="Kevin Stine" initials="K." surname="Stine"/>
+    <seriesInfo name="NIST" value="NIST CSWP 06032014"/>
+    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ron Ross" initials="R." surname="Ross">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kevin Stine" initials="K." surname="Stine">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="June" day="3"/>
   </front>

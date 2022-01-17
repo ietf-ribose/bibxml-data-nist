@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.250-76" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-76.pdf">
   <front>
-    <title>NIST measurement services : three-terminal precision standard capacitor calibrations at NIST</title>
+    <title>NIST measurement services :three-terminal precision standard capacitor calibrations at NIST</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-76"/>
+    <seriesInfo name="NIST" value="NIST SP 250-76"/>
     <author fullname="Andrew Koffman" initials="A." surname="Koffman"/>
     <author fullname="Yicheng Wang" initials="Y." surname="Wang"/>
     <author fullname="Scott Shields" initials="S." surname="Shields"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

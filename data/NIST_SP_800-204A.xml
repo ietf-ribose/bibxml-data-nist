@@ -1,11 +1,23 @@
-<reference anchor="NIST.SP.800-204A" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A.pdf">
+<reference anchor="NIST.SP.800-204a" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A.pdf">
   <front>
     <title>Building secure microservices-based applications using service-mesh architecture</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-204a"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
-    <author fullname="Zack Butcher" initials="Z." surname="Butcher"/>
+    <seriesInfo name="NIST" value="NIST SP 800-204a"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Zack Butcher" initials="Z." surname="Butcher">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May"/>
   </front>

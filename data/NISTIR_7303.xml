@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7303" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7303.pdf">
   <front>
-    <title>Intercomparison program for organic speciation in PM2.5 air particulate matter: description and results for trial III</title>
+    <title>Intercomparison program for organic speciation in PM2.5 air particulate matter:description and results for trial III</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7303"/>
+    <seriesInfo name="NIST" value="NIST IR 7303"/>
     <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
     <author fullname="Dianne Poster" initials="D." surname="Poster"/>
     <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
@@ -10,6 +11,13 @@
     <author fullname="Joellen Lewtas" initials="J." surname="Lewtas"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

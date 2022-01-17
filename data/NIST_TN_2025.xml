@@ -2,10 +2,22 @@
   <front>
     <title>Intelligent building agents laboratory: air system design</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2025"/>
-    <author fullname="Amanda Pertzborn" initials="A." surname="Pertzborn"/>
-    <author fullname="Daniel Veronica" initials="D." surname="Veronica"/>
+    <seriesInfo name="NIST" value="NIST TN 2025"/>
+    <author fullname="Amanda Pertzborn" initials="A." surname="Pertzborn">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Daniel Veronica" initials="D." surname="Veronica">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

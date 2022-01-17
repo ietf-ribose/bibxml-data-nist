@@ -2,6 +2,7 @@
   <front>
     <title>Production of pressboard from cornstalks</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MP.123"/>
+    <seriesInfo name="NIST" value="NBS MP 123"/>
     <author surname="Naffziger"/>
     <author surname="Overman"/>
     <author surname="Sweeney"/>
@@ -9,6 +10,13 @@
     <author fullname="Baker Wingfield" initials="B." surname="Wingfield"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1936"/>
   </front>

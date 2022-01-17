@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.195" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular195.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 195: United States government master specification for powdered soap (for laundry use)</title>
+    <title>Circular of the Bureau of Standards no. 195:United States government master specification for powdered soap (for laundry use)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.195"/>
+    <seriesInfo name="NIST" value="NBS CIRC 195"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

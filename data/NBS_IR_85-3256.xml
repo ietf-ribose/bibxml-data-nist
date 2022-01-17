@@ -2,12 +2,20 @@
   <front>
     <title>Building energy analysis with BLAST and CEL-1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3256"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3256"/>
     <author fullname="Stephen Treado" initials="S." surname="Treado"/>
     <author fullname="Douglas Holland" initials="D." surname="Holland"/>
     <author fullname="William Remmert" initials="W." surname="Remmert"/>
     <author fullname="William Pierpoint" initials="W." surname="Pierpoint"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

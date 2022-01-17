@@ -2,9 +2,17 @@
   <front>
     <title>NIST calibration services for pressure using piston gauge standards</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-39e2009"/>
+    <seriesInfo name="NIST" value="NIST SP 250-39e2009"/>
     <author fullname="Douglas Olson" initials="D." surname="Olson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

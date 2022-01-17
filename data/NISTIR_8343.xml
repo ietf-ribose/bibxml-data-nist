@@ -1,15 +1,32 @@
-<reference anchor="NISTIR.8343" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8343.pdf">
+<reference anchor="NIST.IR.8343" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8343.pdf">
   <front>
     <title>Health Assessment Measurements Quality Assurance Program: Exercise 5 Final Report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8343"/>
-    <author fullname="Charles Barber" initials="C." surname="Barber"/>
-    <author fullname="Carolyn Burdette" initials="C." surname="Burdette"/>
-    <author fullname="Hugh Hayes" initials="H." surname="Hayes"/>
-    <author fullname="Caleb Luvonga" initials="C." surname="Luvonga"/>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips"/>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer"/>
-    <author fullname="Laura Wood" initials="L." surname="Wood"/>
-    <author fullname="Lee Yu" initials="L." surname="Yu"/>
+    <seriesInfo name="NIST" value="NIST IR 8343"/>
+    <author fullname="Charles Barber" initials="C." surname="Barber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Carolyn Burdette" initials="C." surname="Burdette">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Hugh Hayes" initials="H." surname="Hayes">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Caleb Luvonga" initials="C." surname="Luvonga">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Laura Wood" initials="L." surname="Wood">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Lee Yu" initials="L." surname="Yu">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

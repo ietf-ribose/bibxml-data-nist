@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7805" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7805.pdf">
   <front>
-    <title>Interagency agreement report : exposure and fire hazard assessment of nanoparticles in fire safe consumer products</title>
+    <title>Interagency agreement report :exposure and fire hazard assessment of nanoparticles in fire safe consumer products</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7805"/>
+    <seriesInfo name="NIST" value="NIST IR 7805"/>
     <author fullname="Rick Davis" initials="R." surname="Davis"/>
     <author fullname="YeonSeok Kim" initials="Y.S." surname="Kim"/>
     <author fullname="Richard Harris" initials="R." surname="Harris"/>
@@ -10,6 +11,13 @@
     <author fullname="Treye Thomas" initials="T." surname="Thomas"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Recommendation for Cryptographic Key Generation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-133"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker"/>
-    <author fullname="Allen Roginsky" initials="A." surname="Roginsky"/>
+    <seriesInfo name="NIST" value="NIST SP 800-133"/>
+    <author fullname="Elaine Barker" initials="E." surname="Barker">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Allen Roginsky" initials="A." surname="Roginsky">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="December"/>
   </front>

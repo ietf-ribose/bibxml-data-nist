@@ -1,10 +1,20 @@
 <reference anchor="NIST.SP.500-252" target="https://nvlpubs.nist.gov/nistpubs/legacy/sp/NISTspecialpublication500-252.pdf">
   <front>
-    <title>A guide for librarians and archivists : care and handling of CDs and DVDs</title>
+    <title>A guide for librarians and archivists :care and handling of CDs and DVDs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-252"/>
-    <author fullname="Fred Byers" initials="F." surname="Byers"/>
+    <seriesInfo name="NIST" value="NIST SP 500-252"/>
+    <author fullname="Fred Byers" initials="F." surname="Byers">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003" month="October"/>
   </front>

@@ -1,11 +1,23 @@
 <reference anchor="NIST.SP.1233" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1233.pdf">
   <front>
-    <title>NIST nanotechnology environmental, health, and safety research program: 2009 2016</title>
+    <title>NIST nanotechnology environmental, health, and safety research program:2009 2016</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1233"/>
-    <author fullname="Debra Kaiser" initials="D." surname="Kaiser"/>
-    <author fullname="Vincent Hackley" initials="V." surname="Hackley"/>
+    <seriesInfo name="NIST" value="NIST SP 1233"/>
+    <author fullname="Debra Kaiser" initials="D." surname="Kaiser">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Vincent Hackley" initials="V." surname="Hackley">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

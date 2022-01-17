@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.1061" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1061.pdf">
   <front>
-    <title>Forum workshop on establishing the scientific foundation for performance-based fire codes : proceedings</title>
+    <title>Forum workshop on establishing the scientific foundation for performance-based fire codes :proceedings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1061"/>
+    <seriesInfo name="NIST" value="NIST SP 1061"/>
     <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

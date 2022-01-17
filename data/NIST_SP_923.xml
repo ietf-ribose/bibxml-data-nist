@@ -2,10 +2,18 @@
   <front>
     <title>Seventh International Conference on Computer Technology in Welding</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.923"/>
+    <seriesInfo name="NIST" value="NIST SP 923"/>
     <author surname="Siewert"/>
     <author surname="Siewert"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

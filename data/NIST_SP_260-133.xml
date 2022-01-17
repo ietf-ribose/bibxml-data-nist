@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.260-133" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-133.pdf">
   <front>
-    <title>Standard Reference Materials : Acetylene 12C2H2 absorption reference for 1510-1540 nm wavelength calibration</title>
+    <title>Standard Reference Materials :Acetylene 12C2H2 absorption reference for 1510-1540 nm wavelength calibration</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-133"/>
+    <seriesInfo name="NIST" value="NIST SP 260-133"/>
     <author fullname="William Swann" initials="W." surname="Swann"/>
     <author fullname="Sarah Gilbert" initials="S." surname="Gilbert"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

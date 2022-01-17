@@ -2,9 +2,17 @@
   <front>
     <title>IGOSS-industrygovernment open systems specification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-217"/>
+    <seriesInfo name="NIST" value="NIST SP 500-217"/>
     <author fullname="Gerard Mulvenna" initials="G." surname="Mulvenna"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Strategic roadmap for interoperable public safety video analytics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8299"/>
-    <author fullname="Diane Simpson" initials="D." surname="Simpson"/>
-    <author fullname="Michelle Brennan" initials="M." surname="Brennan"/>
-    <author fullname="Susan Gomperts" initials="S." surname="Gomperts"/>
+    <seriesInfo name="NIST" value="NIST IR 8299"/>
+    <author fullname="Diane Simpson" initials="D." surname="Simpson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michelle Brennan" initials="M." surname="Brennan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Susan Gomperts" initials="S." surname="Gomperts">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

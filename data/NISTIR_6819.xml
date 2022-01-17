@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6819" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6819.pdf">
   <front>
-    <title>Comparison of concrete rheometers: international test at LCPC (Nantes, France) in October, 2000</title>
+    <title>Comparison of concrete rheometers:international test at LCPC (Nantes, France) in October, 2000</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6819"/>
+    <seriesInfo name="NIST" value="NIST IR 6819"/>
     <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
     <author fullname="Lynn Brower" initials="L." surname="Brower"/>
     <author fullname="Phil Banfill" initials="P." surname="Banfill"/>
@@ -15,6 +16,13 @@
     <author fullname="Jon Wallevik" initials="J." surname="Wallevik"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

@@ -2,12 +2,28 @@
   <front>
     <title>Transactive energy challenge phase II scenario</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2021"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
-    <author fullname="Martin Burns" initials="M." surname="Burns"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
-    <author fullname="Avi Gopstein" initials="A." surname="Gopstein"/>
+    <seriesInfo name="NIST" value="NIST TN 2021"/>
+    <author fullname="David Holmberg" initials="D." surname="Holmberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Martin Burns" initials="M." surname="Burns">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven Bushby" initials="S." surname="Bushby">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Avi Gopstein" initials="A." surname="Gopstein">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October"/>
   </front>

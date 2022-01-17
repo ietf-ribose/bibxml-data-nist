@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7029" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7029.pdf">
   <front>
-    <title>Seabird Tissue Archival and Monitoring Project: egg collections and analytical results for 1999</title>
+    <title>Seabird Tissue Archival and Monitoring Project:egg collections and analytical results for 1999</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7029"/>
+    <seriesInfo name="NIST" value="NIST IR 7029"/>
     <author fullname="StacyVander Pol" initials="S.V." surname="Pol"/>
     <author fullname="Steven Christopher" initials="S." surname="Christopher"/>
     <author fullname="David Roseneau" initials="D." surname="Roseneau"/>
@@ -13,6 +14,13 @@
     <author fullname="Geoff York" initials="G." surname="York"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

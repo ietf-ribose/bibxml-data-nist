@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.5659" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5659.pdf">
   <front>
-    <title>NIST SRM 9983 high-rigidity ball-bar stand: user manual</title>
+    <title>NIST SRM 9983 high-rigidity ball-bar stand:user manual</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5659"/>
+    <seriesInfo name="NIST" value="NIST IR 5659"/>
     <author surname="Sawyer"/>
     <author surname="Phillips"/>
     <author surname="Caskey"/>
@@ -10,6 +11,13 @@
     <author surname="Snoots"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

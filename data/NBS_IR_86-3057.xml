@@ -2,9 +2,17 @@
   <front>
     <title>Natural gas handbook</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3057"/>
+    <seriesInfo name="NIST" value="NBS IR 86-3057"/>
     <author fullname="Paul Ludtke" initials="P." surname="Ludtke"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

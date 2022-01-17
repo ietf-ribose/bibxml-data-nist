@@ -2,10 +2,22 @@
   <front>
     <title>The impact of the FCC's Open Network Architecture on NSNP telecommunications security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-11"/>
-    <author fullname="Karen Olsen" initials="K." surname="Olsen"/>
-    <author fullname="John Tebbutt" initials="J." surname="Tebbutt"/>
+    <seriesInfo name="NIST" value="NIST SP 800-11"/>
+    <author fullname="Karen Olsen" initials="K." surname="Olsen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="John Tebbutt" initials="J." surname="Tebbutt">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

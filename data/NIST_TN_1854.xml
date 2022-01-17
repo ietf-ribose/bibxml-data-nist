@@ -2,15 +2,37 @@
   <front>
     <title>Monitoring techniques for the Net-Zero Energy Residential Test Facility</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1854"/>
-    <author fullname="Mark Davis" initials="M." surname="Davis"/>
-    <author fullname="William Healy" initials="W." surname="Healy"/>
-    <author fullname="Matthew Boyd" initials="M." surname="Boyd"/>
-    <author fullname="Lisa Ng" initials="L." surname="Ng"/>
-    <author fullname="Vance Payne" initials="V." surname="Payne"/>
-    <author fullname="Harrison Skye" initials="H." surname="Skye"/>
-    <author fullname="Tania Ullah" initials="T." surname="Ullah"/>
+    <seriesInfo name="NIST" value="NIST TN 1854"/>
+    <author fullname="Mark Davis" initials="M." surname="Davis">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="William Healy" initials="W." surname="Healy">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Matthew Boyd" initials="M." surname="Boyd">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Lisa Ng" initials="L." surname="Ng">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Vance Payne" initials="V." surname="Payne">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Harrison Skye" initials="H." surname="Skye">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Tania Ullah" initials="T." surname="Ullah">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="December"/>
   </front>

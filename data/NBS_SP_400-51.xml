@@ -2,10 +2,18 @@
   <front>
     <title>A production-compatible microelectronic test pattern for evaluating photomask misalignment</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.400-51"/>
+    <seriesInfo name="NIST" value="NBS SP 400-51"/>
     <author surname="Russell"/>
     <author surname="Maxwell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

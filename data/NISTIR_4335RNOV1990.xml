@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4335rNov1990" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4335rNov1990.pdf">
   <front>
-    <title>The NIST PDES toolkit: technical fundamentals</title>
+    <title>The NIST PDES toolkit:technical fundamentals</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4335rNov1990"/>
+    <seriesInfo name="NIST" value="NIST IR 4335rNov1990"/>
     <author fullname="StephenNowland Clark" initials="S.N." surname="Clark"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

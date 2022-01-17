@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.897" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication897.pdf">
   <front>
-    <title>A working conference on global growth of technology : is America prepared?</title>
+    <title>A working conference on global growth of technology :is America prepared?</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.897"/>
+    <seriesInfo name="NIST" value="NIST SP 897"/>
     <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
     <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
     <author fullname="John Fassett" initials="J." surname="Fassett"/>
     <author fullname="Charles Ehrlich" initials="C." surname="Ehrlich"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

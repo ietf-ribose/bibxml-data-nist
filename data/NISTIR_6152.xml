@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6152" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6152.pdf">
   <front>
-    <title>Features, limitations and uncertainties in enclosure fire hazard analyses: preliminary review</title>
+    <title>Features, limitations and uncertainties in enclosure fire hazard analyses:preliminary review</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6152"/>
+    <seriesInfo name="NIST" value="NIST IR 6152"/>
     <author fullname="Frederick Mowrer" initials="F." surname="Mowrer"/>
     <author fullname="David Stroup" initials="D." surname="Stroup"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.9052" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9052.pdf">
   <front>
-    <title>Infrared optical measurements: progress and status as of August 13, 1966</title>
+    <title>Infrared optical measurements:progress and status as of August 13, 1966</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9052"/>
+    <seriesInfo name="NIST" value="NBS RPT 9052"/>
     <author fullname="Harry Keegan" initials="H." surname="Keegan"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

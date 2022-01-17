@@ -1,13 +1,21 @@
 <reference anchor="NBS.RPT.6027" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6027.pdf">
   <front>
-    <title>Concerning a microwave refractometer : communication from the Heinrich Hertz Institute of the German Academy of Science at Berlin; Berlin Adlershof</title>
+    <title>Concerning a microwave refractometer :communication from the Heinrich Hertz Institute of the German Academy of Science at Berlin; Berlin Adlershof</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6027"/>
+    <seriesInfo name="NIST" value="NBS RPT 6027"/>
     <author surname="Schunemann"/>
     <author surname="Steffen"/>
     <author fullname="Albrecht Barsis" initials="A." surname="Barsis"/>
     <author fullname="MoodyJr Thompson" initials="M.J." surname="Thompson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958" month="November"/>
   </front>

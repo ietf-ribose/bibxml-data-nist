@@ -1,12 +1,20 @@
 <reference anchor="NBS.BSS.2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience2.pdf">
   <front>
-    <title>Interrelations between cement and concrete properties, part 1 : materials, techniques, water, requirements and trace elements</title>
+    <title>Interrelations between cement and concrete properties, part 1 :materials, techniques, water, requirements and trace elements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.2"/>
+    <seriesInfo name="NIST" value="NBS BSS 2"/>
     <author surname="Blaine"/>
     <author surname="Arni"/>
     <author surname="Foster"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

@@ -2,13 +2,31 @@
   <front>
     <title>A workshop report on "electron microscopy frontiers: challenges and opportunities"</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1217"/>
-    <author fullname="John Bonevich" initials="J." surname="Bonevich"/>
-    <author fullname="Ann Chiaramonti Debay" initials="A." surname="Chiaramonti Debay"/>
-    <author fullname="Andrew Herzing" initials="A." surname="Herzing"/>
-    <author fullname="Bob Keller" initials="B." surname="Keller"/>
-    <author fullname="June Lau" initials="J." surname="Lau"/>
+    <seriesInfo name="NIST" value="NIST SP 1217"/>
+    <author fullname="John Bonevich" initials="J." surname="Bonevich">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Ann Chiaramonti Debay" initials="A." surname="Chiaramonti Debay">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Andrew Herzing" initials="A." surname="Herzing">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Bob Keller" initials="B." surname="Keller">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="June Lau" initials="J." surname="Lau">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="December" day="21"/>
   </front>

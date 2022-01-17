@@ -2,11 +2,25 @@
   <front>
     <title>Systems security engineering: considerations for a multidisciplinary approach in the engineering of trustworthy secure systems, volume 1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-160v1"/>
-    <author fullname="Ron Ross" initials="R." surname="Ross"/>
-    <author fullname="Michael McEvilley" initials="M." surname="McEvilley"/>
-    <author fullname="JanetCarrier Oren" initials="J.C." surname="Oren"/>
+    <seriesInfo name="NIST" value="NIST SP 800-160v1"/>
+    <author fullname="Ron Ross" initials="R." surname="Ross">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael McEvilley" initials="M." surname="McEvilley">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="JanetCarrier Oren" initials="J.C." surname="Oren">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March"/>
   </front>

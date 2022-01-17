@@ -2,6 +2,7 @@
   <front>
     <title>Accelerating scientific discovery through computation and visualization II</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6877"/>
+    <seriesInfo name="NIST" value="NIST IR 6877"/>
     <author fullname="James Sims" initials="J." surname="Sims"/>
     <author fullname="William George" initials="W." surname="George"/>
     <author fullname="Steve Satterfield" initials="S." surname="Satterfield"/>
@@ -29,6 +30,13 @@
     <author fullname="Judith Devaney" initials="J." surname="Devaney"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.85-3157" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3157.pdf">
   <front>
-    <title>Hierarchical control system emulation : programmer's manual</title>
+    <title>Hierarchical control system emulation :programmer's manual</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3157"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3157"/>
     <author fullname="Cita Furlani" initials="C." surname="Furlani"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

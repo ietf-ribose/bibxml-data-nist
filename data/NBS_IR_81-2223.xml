@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.81-2223" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2223.pdf">
   <front>
-    <title>Estimating benefits and costs of building regulations : a step by step guide</title>
+    <title>Estimating benefits and costs of building regulations :a step by step guide</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2223"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2223"/>
     <author fullname="CarolChapman Rawie" initials="C.C." surname="Rawie"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

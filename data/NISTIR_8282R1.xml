@@ -1,8 +1,11 @@
-<reference anchor="NISTIR.8282r1" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8282r1.pdf">
+<reference anchor="NIST.IR.8282r1" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8282r1.pdf">
   <front>
     <title>Forensic Handwriting Examination and Human Factors: Improving the Practice Through a Systems Approach</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8282r1"/>
-    <author fullname="Melissa Taylor" initials="M." surname="Taylor"/>
+    <seriesInfo name="NIST" value="NIST IR 8282r1"/>
+    <author fullname="Melissa Taylor" initials="M." surname="Taylor">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

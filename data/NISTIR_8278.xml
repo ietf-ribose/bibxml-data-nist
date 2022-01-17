@@ -1,12 +1,23 @@
-<reference anchor="NISTIR.8278" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8278.pdf">
+<reference anchor="NIST.IR.8278" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8278.pdf">
   <front>
     <title>National Online Informative References (OLIR) Program: Program Overview and OLIR Uses</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8278"/>
-    <author fullname="Nicole Keller" initials="N." surname="Keller"/>
-    <author fullname="Stephen Quinn" initials="S." surname="Quinn"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
-    <author fullname="Matthew Smith" initials="M." surname="Smith"/>
-    <author fullname="Vincent Johnson" initials="V." surname="Johnson"/>
+    <seriesInfo name="NIST" value="NIST IR 8278"/>
+    <author fullname="Nicole Keller" initials="N." surname="Keller">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephen Quinn" initials="S." surname="Quinn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Smith" initials="M." surname="Smith">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Vincent Johnson" initials="V." surname="Johnson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

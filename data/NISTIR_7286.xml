@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7286" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7286.pdf">
   <front>
-    <title>Construction object identification from LADAR scans: an experimental study using i-beams</title>
+    <title>Construction object identification from LADAR scans:an experimental study using i-beams</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7286"/>
+    <seriesInfo name="NIST" value="NIST IR 7286"/>
     <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
     <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
     <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
     <author fullname="Alan Lytle" initials="A." surname="Lytle"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

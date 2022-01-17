@@ -1,12 +1,20 @@
 <reference anchor="NBS.SP.260-28" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-28.pdf">
   <front>
-    <title>Standard Reference Materials Preparation and evaluation of SRM's 481 and 482 gold-silver and gold-copper alloys for microanalysis</title>
+    <title>Standard Reference MaterialsPreparation and evaluation of SRM's 481 and 482 gold-silver and gold-copper alloys for microanalysis</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-28"/>
+    <seriesInfo name="NIST" value="NBS SP 260-28"/>
     <author fullname="Robert Michaelis" initials="R." surname="Michaelis"/>
     <author fullname="Robert Myklebust" initials="R." surname="Myklebust"/>
     <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

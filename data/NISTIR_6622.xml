@@ -2,6 +2,7 @@
   <front>
     <title>A two-phase airframe shielding performance study using ultra-wideband measurement systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6622"/>
+    <seriesInfo name="NIST" value="NIST IR 6622"/>
     <author fullname="Chriss Grosvenor" initials="C." surname="Grosvenor"/>
     <author fullname="Robert Johnk" initials="R." surname="Johnk"/>
     <author fullname="David Novotny" initials="D." surname="Novotny"/>
@@ -10,6 +11,13 @@
     <author fullname="Jason Veneman" initials="J." surname="Veneman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

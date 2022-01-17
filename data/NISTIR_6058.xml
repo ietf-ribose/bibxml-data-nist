@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6058" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6058.pdf">
   <front>
-    <title>Production management standards: industrial need</title>
+    <title>Production management standards:industrial need</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6058"/>
+    <seriesInfo name="NIST" value="NIST IR 6058"/>
     <author fullname="Albert Jones" initials="A." surname="Jones"/>
     <author fullname="Charles McLean" initials="C." surname="McLean"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

@@ -2,8 +2,16 @@
   <front>
     <title>Federal Information Processing Standards Publication: interoperability and security requirements for use of the data encryption standard with CCITT group 3 facsimile equipment</title>
     <seriesInfo name="DOI" value="10.6028/NBS.FIPS.141"/>
+    <seriesInfo name="NIST" value="NBS FIPS 141"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

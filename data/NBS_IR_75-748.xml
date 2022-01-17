@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.75-748" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-748.pdf">
   <front>
-    <title>Power saws : a review of injury data and power saw industry survey</title>
+    <title>Power saws :a review of injury data and power saw industry survey</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-748"/>
+    <seriesInfo name="NIST" value="NBS IR 75-748"/>
     <author surname="Pezoldt"/>
     <author surname="Persensky"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

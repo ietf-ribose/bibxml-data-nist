@@ -1,11 +1,19 @@
 <reference anchor="NBS.BSS.119" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience119.pdf">
   <front>
-    <title>Economic evaluation of windows in buildings : methodology</title>
+    <title>Economic evaluation of windows in buildings :methodology</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.119"/>
+    <seriesInfo name="NIST" value="NBS BSS 119"/>
     <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6357" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6357.pdf">
   <front>
-    <title>New flame retardants consortium: final report, flame retardant mechanism of silica</title>
+    <title>New flame retardants consortium:final report, flame retardant mechanism of silica</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6357"/>
+    <seriesInfo name="NIST" value="NIST IR 6357"/>
     <author fullname="Jeffrey Gilman" initials="J." surname="Gilman"/>
     <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi"/>
     <author fullname="Marc Nyden" initials="M." surname="Nyden"/>
     <author fullname="RichardJr Harris" initials="R.J." surname="Harris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

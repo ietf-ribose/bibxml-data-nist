@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6160" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6160.pdf">
   <front>
-    <title>Process specification language: an analysis of existing representations</title>
+    <title>Process specification language:an analysis of existing representations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6160"/>
+    <seriesInfo name="NIST" value="NIST IR 6160"/>
     <author fullname="Amy Knutilla" initials="A." surname="Knutilla"/>
     <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
     <author fullname="Steven Ray" initials="S." surname="Ray"/>
@@ -11,6 +12,13 @@
     <author fullname="Richard Anderson" initials="R." surname="Anderson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

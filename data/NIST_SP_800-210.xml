@@ -2,12 +2,25 @@
   <front>
     <title>General Access Control Guidance for Cloud Systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-210"/>
-    <author fullname="Vincent Hu" initials="V." surname="Hu"/>
-    <author fullname="Michaela Iorga" initials="M." surname="Iorga"/>
-    <author fullname="Wei Bao" initials="W." surname="Bao"/>
-    <author fullname="Ang Li" initials="A." surname="Li"/>
-    <author fullname="Qinghua Li" initials="Q." surname="Li"/>
-    <author fullname="Antonios Gouglidis" initials="A." surname="Gouglidis"/>
+    <seriesInfo name="NIST" value="NIST SP 800-210"/>
+    <author fullname="Vincent Hu" initials="V." surname="Hu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michaela Iorga" initials="M." surname="Iorga">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Wei Bao" initials="W." surname="Bao">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ang Li" initials="A." surname="Li">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Qinghua Li" initials="Q." surname="Li">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Antonios Gouglidis" initials="A." surname="Gouglidis">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

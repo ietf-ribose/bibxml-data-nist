@@ -2,11 +2,19 @@
   <front>
     <title>The National Measurement System for electricity</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-935"/>
+    <seriesInfo name="NIST" value="NBS IR 75-935"/>
     <author fullname="Norman Belecki" initials="N." surname="Belecki"/>
     <author fullname="Bernadine Dunfee" initials="B." surname="Dunfee"/>
     <author fullname="Oskars Petersons" initials="O." surname="Petersons"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

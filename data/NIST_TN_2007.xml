@@ -1,18 +1,44 @@
 <reference anchor="NIST.TN.2007" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2007.pdf">
   <front>
-    <title>NIST Special Database 302: nail to nail fingerprint challenge</title>
+    <title>NIST Special Database 302:nail to nail fingerprint challenge</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2007"/>
-    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara"/>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan"/>
-    <author fullname="John Grantham" initials="J." surname="Grantham"/>
-    <author fullname="Kenneth Ko" initials="K." surname="Ko"/>
-    <author fullname="Karen Marshall" initials="K." surname="Marshall"/>
-    <author fullname="Matthew Schwarz" initials="M." surname="Schwarz"/>
-    <author fullname="Elham Tabassi" initials="E." surname="Tabassi"/>
-    <author fullname="Bryan Woodgate" initials="B." surname="Woodgate"/>
-    <author fullname="Christopher Boehnen" initials="C." surname="Boehnen"/>
+    <seriesInfo name="NIST" value="NIST TN 2007"/>
+    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Grantham" initials="J." surname="Grantham">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kenneth Ko" initials="K." surname="Ko">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Marshall" initials="K." surname="Marshall">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Schwarz" initials="M." surname="Schwarz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Bryan Woodgate" initials="B." surname="Woodgate">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christopher Boehnen" initials="C." surname="Boehnen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December"/>
   </front>

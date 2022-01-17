@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4337" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4337.pdf">
   <front>
-    <title>The NIST SQL database loader: STEP working form to SQL</title>
+    <title>The NIST SQL database loader:STEP working form to SQL</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4337"/>
+    <seriesInfo name="NIST" value="NIST IR 4337"/>
     <author fullname="Deborah Nickerson" initials="D." surname="Nickerson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

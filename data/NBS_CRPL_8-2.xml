@@ -2,9 +2,19 @@
   <front>
     <title>High-frequency voltage measurements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.8-2"/>
-    <author surname="Selby"/>
+    <seriesInfo name="NIST" value="NBS CRPL 8-2"/>
+    <author surname="Selby">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1948"/>
   </front>

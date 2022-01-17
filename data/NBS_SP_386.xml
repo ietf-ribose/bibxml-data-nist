@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.386" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication386.pdf">
   <front>
-    <title>Standards on noise measurements, rating schemes, and definitions : a compilation</title>
+    <title>Standards on noise measurements, rating schemes, and definitions :a compilation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.386"/>
+    <seriesInfo name="NIST" value="NBS SP 386"/>
     <author fullname="Jack Fath" initials="J." surname="Fath"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

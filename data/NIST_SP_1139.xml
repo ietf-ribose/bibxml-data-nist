@@ -2,13 +2,31 @@
   <front>
     <title>Progress Report National Institute of Standards and Technology (NIST); Technical Investigation of the May 22, 2011, Tornado in Joplin, Missouri</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1139"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
-    <author fullname="Franklin Lombardo" initials="F." surname="Lombardo"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
-    <author fullname="Marc Levitan" initials="M." surname="Levitan"/>
-    <author fullname="David Jorgensen" initials="D." surname="Jorgensen"/>
+    <seriesInfo name="NIST" value="NIST SP 1139"/>
+    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Franklin Lombardo" initials="F." surname="Lombardo">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Long Phan" initials="L." surname="Phan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Marc Levitan" initials="M." surname="Levitan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Jorgensen" initials="D." surname="Jorgensen">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="November"/>
   </front>

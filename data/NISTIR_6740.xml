@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6740" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6740.pdf">
   <front>
-    <title>Proceedings of the 2nd annual digital tv application software environment (DASE) symposium 2001: end-to-end data services, interoperability &amp; applications</title>
+    <title>Proceedings of the 2nd annual digital tv application software environment (DASE) symposium 2001:end-to-end data services, interoperability &amp; applications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6740"/>
+    <seriesInfo name="NIST" value="NIST IR 6740"/>
     <author fullname="Alan Mink" initials="A." surname="Mink"/>
     <author fullname="Rob Snelick" initials="R." surname="Snelick"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

@@ -2,10 +2,19 @@
   <front>
     <title>Securing Property Management Systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-27"/>
-    <author fullname="William Newhouse" initials="W." surname="Newhouse"/>
-    <author fullname="Michael Ekstrom" initials="M." surname="Ekstrom"/>
-    <author fullname="Jeff Finke" initials="J." surname="Finke"/>
-    <author fullname="Marisa Harriston" initials="M." surname="Harriston"/>
+    <seriesInfo name="NIST" value="NIST SP 1800-27"/>
+    <author fullname="William Newhouse" initials="W." surname="Newhouse">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Ekstrom" initials="M." surname="Ekstrom">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jeff Finke" initials="J." surname="Finke">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Marisa Harriston" initials="M." surname="Harriston">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

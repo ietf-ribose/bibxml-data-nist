@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.89-4069" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4069.pdf">
   <front>
-    <title>Evaluating office lighting environments: second level analysis</title>
+    <title>Evaluating office lighting environments:second level analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4069"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4069"/>
     <author fullname="Belinda Collins" initials="B." surname="Collins"/>
     <author fullname="Will Fisher" initials="W." surname="Fisher"/>
     <author fullname="Gary Gillette" initials="G." surname="Gillette"/>
     <author fullname="Robert Marans" initials="R." surname="Marans"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

@@ -2,8 +2,13 @@
   <front>
     <title>NIST WUI Project</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-982"/>
-    <author fullname="Michael Hennig" initials="M." surname="Hennig"/>
-    <author fullname="Karen Jackson" initials="K." surname="Jackson"/>
+    <seriesInfo name="NIST" value="NIST GCR 15-982"/>
+    <author fullname="Michael Hennig" initials="M." surname="Hennig">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Karen Jackson" initials="K." surname="Jackson">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

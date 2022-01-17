@@ -2,6 +2,7 @@
   <front>
     <title>User's guide to export controlled distribution of NIST biometric image software (NBIS-EC)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7391"/>
+    <seriesInfo name="NIST" value="NIST IR 7391"/>
     <author fullname="Craig Watson" initials="C." surname="Watson"/>
     <author fullname="Michael Garris" initials="M." surname="Garris"/>
     <author fullname="Elham Tabassi" initials="E." surname="Tabassi"/>
@@ -11,6 +12,13 @@
     <author fullname="Kenneth Ko" initials="K." surname="Ko"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

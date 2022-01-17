@@ -2,12 +2,28 @@
   <front>
     <title>Investigations on SI-traceable dynamic calibration of instrumented Charpy strikers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1991"/>
-    <author fullname="Akobuije Chijioke" initials="A." surname="Chijioke"/>
-    <author fullname="Nicholas Vlajic" initials="N." surname="Vlajic"/>
-    <author fullname="Edward Mulhern" initials="E." surname="Mulhern"/>
-    <author fullname="Enrico Lucon" initials="E." surname="Lucon"/>
+    <seriesInfo name="NIST" value="NIST TN 1991"/>
+    <author fullname="Akobuije Chijioke" initials="A." surname="Chijioke">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Vlajic" initials="N." surname="Vlajic">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Edward Mulhern" initials="E." surname="Mulhern">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Enrico Lucon" initials="E." surname="Lucon">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="May"/>
   </front>

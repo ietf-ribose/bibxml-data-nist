@@ -2,10 +2,18 @@
   <front>
     <title>The solar constant based on new spectral irradiance data from 3100 to 5300 angstroms</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9542"/>
+    <seriesInfo name="NIST" value="NBS RPT 9542"/>
     <author fullname="Ralph Stair" initials="R." surname="Stair"/>
     <author fullname="Howard Ellis" initials="H." surname="Ellis"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

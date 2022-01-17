@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.260-136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-136.pdf">
   <front>
-    <title>Standard Reference Materials Definitions of terms and modes used at NIST for value-assignment of reference materials for chemical measurements</title>
+    <title>Standard Reference MaterialsDefinitions of terms and modes used at NIST for value-assignment of reference materials for chemical measurements</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-136"/>
+    <seriesInfo name="NIST" value="NIST SP 260-136"/>
     <author surname="Colbert"/>
     <author surname="Fassett"/>
     <author surname="Gettings"/>
@@ -15,6 +16,13 @@
     <author surname="May"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.260-128" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-128.pdf">
   <front>
-    <title>Standard Reference Materials Transmission filters with measured optical density at 1064 nm wavelength</title>
+    <title>Standard Reference MaterialsTransmission filters with measured optical density at 1064 nm wavelength</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-128"/>
+    <seriesInfo name="NIST" value="NIST SP 260-128"/>
     <author fullname="Raju Datla" initials="R." surname="Datla"/>
     <author fullname="Thomas Gentile" initials="T." surname="Gentile"/>
     <author fullname="Zhuomin Zhang" initials="Z." surname="Zhang"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.MONO.49" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph49.pdf">
   <front>
-    <title>Tables of Einstein functions : vibrational contributions to the thermodynamic functions</title>
+    <title>Tables of Einstein functions :vibrational contributions to the thermodynamic functions</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.49"/>
+    <seriesInfo name="NIST" value="NBS MONO 49"/>
     <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath"/>
     <author fullname="Guy Ziegler" initials="G." surname="Ziegler"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

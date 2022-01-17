@@ -2,9 +2,19 @@
   <front>
     <title>Good security practices for electronic commerce, including electronic data interchange</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-9"/>
-    <author fullname="Roy Saltman" initials="R." surname="Saltman"/>
+    <seriesInfo name="NIST" value="NIST SP 800-9"/>
+    <author fullname="Roy Saltman" initials="R." surname="Saltman">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

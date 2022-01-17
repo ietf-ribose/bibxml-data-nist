@@ -2,10 +2,22 @@
   <front>
     <title>A review of public response to short message alerts under imminent threat</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1982"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
-    <author fullname="Jessica Doermann" initials="J." surname="Doermann"/>
+    <seriesInfo name="NIST" value="NIST TN 1982"/>
+    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jessica Doermann" initials="J." surname="Doermann">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="9"/>
   </front>

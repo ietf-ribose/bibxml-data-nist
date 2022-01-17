@@ -2,6 +2,7 @@
   <front>
     <title>Distributed communication methods and role-based access control for use in health care applications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5820"/>
+    <seriesInfo name="NIST" value="NIST IR 5820"/>
     <author fullname="Joseph Poole" initials="J." surname="Poole"/>
     <author fullname="John Barkley" initials="J." surname="Barkley"/>
     <author fullname="Kevin Brady" initials="K." surname="Brady"/>
@@ -9,6 +10,13 @@
     <author fullname="Wayne Salamon" initials="W." surname="Salamon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

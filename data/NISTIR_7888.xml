@@ -2,10 +2,22 @@
   <front>
     <title>SysML Extension for Dynamical System Simulation Tools</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7888"/>
-    <author fullname="Ion Matei" initials="I." surname="Matei"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
+    <seriesInfo name="NIST" value="NIST IR 7888"/>
+    <author fullname="Ion Matei" initials="I." surname="Matei">
+      <organization>Systems Integration Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization>Systems Integration Division, Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="October"/>
   </front>

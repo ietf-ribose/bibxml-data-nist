@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.500-241" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-241.pdf">
   <front>
-    <title>Information technology : a quick-reference list of organizations and standards for digital rights management</title>
+    <title>Information technology :a quick-reference list of organizations and standards for digital rights management</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-241"/>
+    <seriesInfo name="NIST" value="NIST SP 500-241"/>
     <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

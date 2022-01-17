@@ -2,9 +2,19 @@
   <front>
     <title>Preliminary models for viscosity, thermal conductivity, and surface tension of pure fluid constituents of selected diesel surrogate fuels</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1949"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
+    <seriesInfo name="NIST" value="NIST TN 1949"/>
+    <author fullname="Marcia Huber" initials="M." surname="Huber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017"/>
   </front>

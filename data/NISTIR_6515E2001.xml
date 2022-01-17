@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6515e2001" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6515e2001.pdf">
   <front>
-    <title>Annual listing: North American Quality System Registration Organizations (NAQSRO)</title>
+    <title>Annual listing:North American Quality System Registration Organizations (NAQSRO)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6515e2001"/>
+    <seriesInfo name="NIST" value="NIST IR 6515e2001"/>
     <author fullname="Michael Squires" initials="M." surname="Squires"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

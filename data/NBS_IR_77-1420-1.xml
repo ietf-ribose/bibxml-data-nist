@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.77-1420-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1420-1.pdf">
   <front>
-    <title>NBS minimal BASIC test programs- Version 1 user's manual : Volume 1- test system overview</title>
+    <title>NBS minimal BASIC test programs- Version 1 user's manual :Volume 1- test system overview</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1420-1"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1420-1"/>
     <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
     <author fullname="Charles Sheppard" initials="C." surname="Sheppard"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

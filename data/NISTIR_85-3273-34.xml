@@ -1,11 +1,23 @@
 <reference anchor="NIST.IR.85-3273-34" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.85-3273-34.pdf">
   <front>
-    <title>Energy price indices and discount factors for life-cycle cost analysis: 2019 annual supplement to NIST handbook 135</title>
+    <title>Energy price indices and discount factors for life-cycle cost analysis:2019 annual supplement to NIST handbook 135</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-34"/>
-    <author fullname="Priya Lavappa" initials="P." surname="Lavappa"/>
-    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel"/>
+    <seriesInfo name="NIST" value="NIST IR 85-3273-34"/>
+    <author fullname="Priya Lavappa" initials="P." surname="Lavappa">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

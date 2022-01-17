@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.73-314" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-314.pdf">
   <front>
-    <title>Study of measurements of antenna-radiometer parameters : final report on phase I : evaluation of antenna loss and beam efficiency measurements and radiometer calibrations for the S-193 and S-194 Skylab systems</title>
+    <title>Study of measurements of antenna-radiometer parameters :final report on phase I : evaluation of antenna loss and beam efficiency measurements and radiometer calibrations for the S-193 and S-194 Skylab systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-314"/>
+    <seriesInfo name="NIST" value="NBS IR 73-314"/>
     <author surname="Newell"/>
     <author surname="Wacker"/>
     <author surname="Wait"/>
     <author surname="Daywitt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

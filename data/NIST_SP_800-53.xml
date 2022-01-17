@@ -2,15 +2,37 @@
   <front>
     <title>Recommended security controls for federal information systems and organizations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53"/>
-    <author surname="Ross"/>
-    <author surname="Katzke"/>
-    <author surname="Johnson"/>
-    <author surname="Swanson"/>
-    <author surname="Stoneburner"/>
-    <author surname="Rogers"/>
-    <author surname="Lee"/>
+    <seriesInfo name="NIST" value="NIST SP 800-53"/>
+    <author surname="Ross">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Katzke">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Johnson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Swanson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Stoneburner">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Rogers">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Lee">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

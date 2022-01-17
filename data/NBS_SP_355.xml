@@ -2,9 +2,17 @@
   <front>
     <title>Universal testing machine of 12-million-lbf capacity at the National Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.355"/>
+    <seriesInfo name="NIST" value="NBS SP 355"/>
     <author fullname="Arthur Kirstein" initials="A." surname="Kirstein"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

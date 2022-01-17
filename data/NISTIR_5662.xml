@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.5662" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5662.pdf">
   <front>
-    <title>Background study: requisite elements, rationale, and technology overview for the Systems Integration for Manufacturing Applications (SIMA) Program</title>
+    <title>Background study:requisite elements, rationale, and technology overview for the Systems Integration for Manufacturing Applications (SIMA) Program</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5662"/>
+    <seriesInfo name="NIST" value="NIST IR 5662"/>
     <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
     <author fullname="Theodore Hopp" initials="T." surname="Hopp"/>
     <author fullname="Michael Pratt" initials="M." surname="Pratt"/>
     <author fullname="Gaylen Rinaudot" initials="G." surname="Rinaudot"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

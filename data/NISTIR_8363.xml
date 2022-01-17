@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8363" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8363.pdf">
+<reference anchor="NIST.IR.8363" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8363.pdf">
   <front>
     <title>Examining Recent HR Data for Gender Bias Among Federal Employees at NIST</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8363"/>
-    <author fullname="Jasmine Evans" initials="J." surname="Evans"/>
-    <author fullname="Amanda Koepke" initials="A." surname="Koepke"/>
-    <author fullname="Steven Lund" initials="S." surname="Lund"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
+    <seriesInfo name="NIST" value="NIST IR 8363"/>
+    <author fullname="Jasmine Evans" initials="J." surname="Evans">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Amanda Koepke" initials="A." surname="Koepke">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Steven Lund" initials="S." surname="Lund">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

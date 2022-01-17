@@ -2,11 +2,25 @@
   <front>
     <title>Guidelines on electronic mail security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-45"/>
-    <author surname="Tracy"/>
-    <author surname="Jansen"/>
-    <author surname="Bisker"/>
+    <seriesInfo name="NIST" value="NIST SP 800-45"/>
+    <author surname="Tracy">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Jansen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Bisker">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

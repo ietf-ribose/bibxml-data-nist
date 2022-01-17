@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4505" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4505.pdf">
   <front>
-    <title>Standard Reference Data Program: technical activities 1990</title>
+    <title>Standard Reference Data Program:technical activities 1990</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4505"/>
+    <seriesInfo name="NIST" value="NIST IR 4505"/>
     <author fullname="Malcolm Chase" initials="M." surname="Chase"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

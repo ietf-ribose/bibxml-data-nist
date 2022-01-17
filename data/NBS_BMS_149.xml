@@ -2,11 +2,19 @@
   <front>
     <title>Combustible contents in buildings</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BMS.149"/>
+    <seriesInfo name="NIST" value="NBS BMS 149"/>
     <author surname="Ingberg"/>
     <author fullname="John Dunham" initials="J." surname="Dunham"/>
     <author fullname="James Thompson" initials="J." surname="Thompson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1957"/>
   </front>

@@ -2,7 +2,10 @@
   <front>
     <title>Predicting Robot System Performance by Measuring and Composing Subsystem Attributes</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8091"/>
-    <author fullname="Michael Shneier" initials="M." surname="Shneier"/>
+    <seriesInfo name="NIST" value="NIST IR 8091"/>
+    <author fullname="Michael Shneier" initials="M." surname="Shneier">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.260-171" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-171.pdf">
   <front>
-    <title>Charpy machine verification : limits and uncertainty/</title>
+    <title>Charpy machine verification :limits and uncertainty/</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-171"/>
+    <seriesInfo name="NIST" value="NIST SP 260-171"/>
     <author surname="McCowan"/>
     <author surname="Splett"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

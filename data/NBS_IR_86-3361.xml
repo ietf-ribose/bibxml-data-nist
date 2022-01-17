@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.86-3361" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3361.pdf">
   <front>
-    <title>GRIDNET : a highly survivable digital communications network : final report, phase I</title>
+    <title>GRIDNET :a highly survivable digital communications network : final report, phase I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3361"/>
+    <seriesInfo name="NIST" value="NBS IR 86-3361"/>
     <author fullname="Alan Mink" initials="A." surname="Mink"/>
     <author fullname="George Nacht" initials="G." surname="Nacht"/>
     <author fullname="Alfred Koenig" initials="A." surname="Koenig"/>
     <author fullname="Arthur Holt" initials="A." surname="Holt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

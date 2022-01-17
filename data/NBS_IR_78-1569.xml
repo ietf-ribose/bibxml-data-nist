@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.78-1569" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1569.pdf">
   <front>
-    <title>End of year report : micromechanical properties of beryllium and other instrument materials</title>
+    <title>End of year report :micromechanical properties of beryllium and other instrument materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1569"/>
+    <seriesInfo name="NIST" value="NBS IR 78-1569"/>
     <author fullname="Bruce Christ" initials="B." surname="Christ"/>
     <author fullname="Robert Polvani" initials="R." surname="Polvani"/>
     <author fullname="Robert Hocken" initials="R." surname="Hocken"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

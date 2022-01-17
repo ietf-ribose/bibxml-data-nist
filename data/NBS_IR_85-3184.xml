@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.85-3184" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3184.pdf">
   <front>
-    <title>Insulation LAP handbook : operational and technical requirements of the laboratory accreditation program for personnel dosimetry processors</title>
+    <title>Insulation LAP handbook :operational and technical requirements of the laboratory accreditation program for personnel dosimetry processors</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3184"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3184"/>
     <author fullname="Wiley Hall" initials="W." surname="Hall"/>
     <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
     <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
     <author fullname="Harvey Berger" initials="H." surname="Berger"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

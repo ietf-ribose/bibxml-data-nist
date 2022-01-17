@@ -1,9 +1,17 @@
 <reference anchor="NBS.BRPD-CRPL-D.155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/brpd-crpl-d/brpd-crpl-d155.pdf">
   <front>
-    <title>Basic radio propagation predictions for October 1957: three months in advance</title>
+    <title>Basic radio propagation predictions for October 1957:three months in advance</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BRPD-CRPL-D.155"/>
+    <seriesInfo name="NIST" value="NBS BRPD-CRPL-D 155"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1957"/>
   </front>

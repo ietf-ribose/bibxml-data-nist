@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4425" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4425.pdf">
   <front>
-    <title>Pulse-echo ultrasonic evaluation of the integrity of seams of single-ply roofing membranes: results of field investigations and recommendations</title>
+    <title>Pulse-echo ultrasonic evaluation of the integrity of seams of single-ply roofing membranes:results of field investigations and recommendations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4425"/>
+    <seriesInfo name="NIST" value="NIST IR 4425"/>
     <author fullname="Hiroshi Watanabe" initials="H." surname="Watanabe"/>
     <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

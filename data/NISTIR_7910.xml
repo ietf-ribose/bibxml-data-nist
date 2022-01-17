@@ -2,9 +2,19 @@
   <front>
     <title>Alternative Methods of Latent Fingerprint Enhancement and Metrics for Comparing Them</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7910"/>
-    <author fullname="Alfred Carasso" initials="A." surname="Carasso"/>
+    <seriesInfo name="NIST" value="NIST IR 7910"/>
+    <author fullname="Alfred Carasso" initials="A." surname="Carasso">
+      <organization>Applied and Computational Mathematics Division, Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January"/>
   </front>

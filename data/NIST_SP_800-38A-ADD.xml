@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.800-38a-add" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a-add.pdf">
   <front>
-    <title>Recommendation for block cipher modes of operation : three variants of ciphertext stealing for CBC mode</title>
+    <title>Recommendation for block cipher modes of operation :three variants of ciphertext stealing for CBC mode</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38a-add"/>
+    <seriesInfo name="NIST" value="NIST SP 800-38a-add"/>
     <author surname="Dworkin"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

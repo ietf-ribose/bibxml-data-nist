@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6646" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6646.pdf">
   <front>
-    <title>Thermophysical properties measurements and models for rocket propellant RP-1: phase I</title>
+    <title>Thermophysical properties measurements and models for rocket propellant RP-1:phase I</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6646"/>
+    <seriesInfo name="NIST" value="NIST IR 6646"/>
     <author fullname="Joseph Magee" initials="J." surname="Magee"/>
     <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
     <author fullname="Daniel Friend" initials="D." surname="Friend"/>
@@ -14,6 +15,13 @@
     <author fullname="Jason Widegren" initials="J." surname="Widegren"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

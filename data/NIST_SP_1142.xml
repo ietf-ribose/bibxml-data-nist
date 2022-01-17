@@ -2,9 +2,19 @@
   <front>
     <title>The Current State and Recent Trends of the U.S. Manufacturing Industry</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1142"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas"/>
+    <seriesInfo name="NIST" value="NIST SP 1142"/>
+    <author fullname="Douglas Thomas" initials="D." surname="Thomas">
+      <organization>Applied Economics Office, Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="December"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.955supp2010" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication955supp2010.pdf">
   <front>
-    <title>Responding to national needs : supplement to appendices 1994-2009</title>
+    <title>Responding to national needs :supplement to appendices 1994-2009</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.955supp2010"/>
+    <seriesInfo name="NIST" value="NIST SP 955supp2010"/>
     <author fullname="Keith Martin" initials="K." surname="Martin"/>
     <author fullname="Barbara Silcox" initials="B." surname="Silcox"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

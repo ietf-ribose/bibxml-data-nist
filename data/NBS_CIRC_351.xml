@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.351" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular351.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 351: United States government master specification for tablecloths, cotton</title>
+    <title>Circular of the Bureau of Standards no. 351:United States government master specification for tablecloths, cotton</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.351"/>
+    <seriesInfo name="NIST" value="NBS CIRC 351"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1927"/>
   </front>

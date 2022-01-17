@@ -2,7 +2,10 @@
   <front>
     <title>Mobile ID Device Best Practice Recommendation Version 2.1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-280v2.1"/>
-    <author fullname="Kevin Mangold" initials="K." surname="Mangold"/>
+    <seriesInfo name="NIST" value="NIST SP 500-280v2 1"/>
+    <author fullname="Kevin Mangold" initials="K." surname="Mangold">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

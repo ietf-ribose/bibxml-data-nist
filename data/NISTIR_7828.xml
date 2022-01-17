@@ -2,6 +2,7 @@
   <front>
     <title>Ocular and iris recognition baseline algorithm</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7828"/>
+    <seriesInfo name="NIST" value="NIST IR 7828"/>
     <author fullname="Yooyoung Lee" initials="Y." surname="Lee"/>
     <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
     <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
@@ -9,6 +10,13 @@
     <author fullname="james Filliben" initials="j." surname="Filliben"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

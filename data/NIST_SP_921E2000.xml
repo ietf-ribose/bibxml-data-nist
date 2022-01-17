@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.921e2000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication921e2000.pdf">
   <front>
-    <title>A user's guide for FAST : engineering tools for estimating fire growth and smoke transport</title>
+    <title>A user's guide for FAST :engineering tools for estimating fire growth and smoke transport</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.921e2000"/>
+    <seriesInfo name="NIST" value="NIST SP 921e2000"/>
     <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
     <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
     <author fullname="Walter Jones" initials="W." surname="Jones"/>
@@ -9,6 +10,13 @@
     <author fullname="Glenn Forney" initials="G." surname="Forney"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

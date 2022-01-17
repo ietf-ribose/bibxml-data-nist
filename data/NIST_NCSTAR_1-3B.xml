@@ -2,9 +2,17 @@
   <front>
     <title>Steel inventory and identification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-3b"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-3b"/>
     <author fullname="Stephen Banovic" initials="S." surname="Banovic"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

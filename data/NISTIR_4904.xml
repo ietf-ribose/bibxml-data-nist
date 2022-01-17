@@ -2,10 +2,18 @@
   <front>
     <title>A compatibility analysis of the ANSI and ISO IRDS services interface</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4904"/>
+    <seriesInfo name="NIST" value="NIST IR 4904"/>
     <author fullname="Jean Bérubé" initials="J." surname="Bérubé"/>
     <author fullname="Alan Goldfine" initials="A." surname="Goldfine"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

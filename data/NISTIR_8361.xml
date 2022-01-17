@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8361" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8361.pdf">
+<reference anchor="NIST.IR.8361" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8361.pdf">
   <front>
     <title>Best Practices in the Collection and Use of Biometric and Forensic Datasets</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8361"/>
-    <author fullname="Austin Hicklin" initials="A." surname="Hicklin"/>
-    <author fullname="George Kiebuzinski" initials="G." surname="Kiebuzinski"/>
-    <author fullname="Melissa Taylor" initials="M." surname="Taylor"/>
+    <seriesInfo name="NIST" value="NIST IR 8361"/>
+    <author fullname="Austin Hicklin" initials="A." surname="Hicklin">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="George Kiebuzinski" initials="G." surname="Kiebuzinski">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Melissa Taylor" initials="M." surname="Taylor">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

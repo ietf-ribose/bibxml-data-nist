@@ -2,11 +2,19 @@
   <front>
     <title>Concepts in quality software design</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.842"/>
+    <seriesInfo name="NIST" value="NBS TN 842"/>
     <author fullname="Rao Kosaraju" initials="R." surname="Kosaraju"/>
     <author fullname="Henry Ledgard" initials="H." surname="Ledgard"/>
     <author surname="Stewart"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

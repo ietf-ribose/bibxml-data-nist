@@ -2,12 +2,20 @@
   <front>
     <title>Regular spectral transmittance</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.250-6"/>
+    <seriesInfo name="NIST" value="NBS SP 250-6"/>
     <author fullname="Kenneth Eckerle" initials="K." surname="Eckerle"/>
     <author fullname="Jack Hsia" initials="J." surname="Hsia"/>
     <author fullname="Klaus Mielenz" initials="K." surname="Mielenz"/>
     <author fullname="Victor Weidner" initials="V." surname="Weidner"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

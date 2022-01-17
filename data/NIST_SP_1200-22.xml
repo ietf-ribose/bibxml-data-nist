@@ -2,10 +2,22 @@
   <front>
     <title>Challenges and approaches for particle size analysis on micrographs of nanoparticles loaded onto textile surfaces</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-22"/>
-    <author fullname="Samuel Underwood" initials="S." surname="Underwood"/>
-    <author fullname="Justin Gorham" initials="J." surname="Gorham"/>
+    <seriesInfo name="NIST" value="NIST SP 1200-22"/>
+    <author fullname="Samuel Underwood" initials="S." surname="Underwood">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Justin Gorham" initials="J." surname="Gorham">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="May"/>
   </front>

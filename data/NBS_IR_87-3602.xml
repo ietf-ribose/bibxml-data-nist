@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.87-3602" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3602.pdf">
   <front>
-    <title>Hazard I. Volume 1 : fire hazard assessment method</title>
+    <title>Hazard I. Volume 1 :fire hazard assessment method</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3602"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3602"/>
     <author surname="Bukowski"/>
     <author surname="Jones"/>
     <author surname="Levin"/>
@@ -12,6 +13,13 @@
     <author surname="Fowell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

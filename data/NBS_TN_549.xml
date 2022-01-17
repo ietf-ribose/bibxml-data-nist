@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.549" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote549.pdf">
   <front>
-    <title>Separation and purification section: summary of activities.</title>
+    <title>Separation and purification section:summary of activities.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.549"/>
+    <seriesInfo name="NIST" value="NBS TN 549"/>
     <author fullname="David Freeman" initials="D." surname="Freeman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

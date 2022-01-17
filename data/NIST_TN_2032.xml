@@ -2,12 +2,28 @@
   <front>
     <title>Building for environmental and economic sustainability (BEES) online 2.0 technical manual</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2032"/>
-    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel"/>
-    <author fullname="AnneLandfield Greig" initials="A.L." surname="Greig"/>
-    <author fullname="Priya Lavappa" initials="P." surname="Lavappa"/>
-    <author fullname="Brian Polidoro" initials="B." surname="Polidoro"/>
+    <seriesInfo name="NIST" value="NIST TN 2032"/>
+    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="AnneLandfield Greig" initials="A.L." surname="Greig">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Priya Lavappa" initials="P." surname="Lavappa">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Brian Polidoro" initials="B." surname="Polidoro">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December"/>
   </front>

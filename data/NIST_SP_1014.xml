@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.1014" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1014whitepaper.pdf">
   <front>
-    <title>Performance measures for intelligent systems : measures of technology readiness</title>
+    <title>Performance measures for intelligent systems :measures of technology readiness</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1014"/>
+    <seriesInfo name="NIST" value="NIST SP 1014"/>
     <author fullname="Alexander Meystel" initials="A." surname="Meystel"/>
     <author fullname="Jim Albus" initials="J." surname="Albus"/>
     <author fullname="Elena Messina" initials="E." surname="Messina"/>
     <author fullname="Dennis Leedom" initials="D." surname="Leedom"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

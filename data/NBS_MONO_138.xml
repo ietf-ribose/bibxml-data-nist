@@ -2,11 +2,19 @@
   <front>
     <title>MeV total neutron cross sections</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.138"/>
+    <seriesInfo name="NIST" value="NBS MONO 138"/>
     <author fullname="Robert Schwartz" initials="R." surname="Schwartz"/>
     <author fullname="Roald Schrack" initials="R." surname="Schrack"/>
     <author fullname="Thompson,II Heaton" initials="T.I." surname="Heaton"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

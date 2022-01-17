@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.274" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular274.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 274: United States government master specification for bleached cotton sheets (medium and big count sheeting)</title>
+    <title>Circular of the Bureau of Standards no. 274:United States government master specification for bleached cotton sheets (medium and big count sheeting)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.274"/>
+    <seriesInfo name="NIST" value="NBS CIRC 274"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

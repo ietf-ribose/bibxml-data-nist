@@ -2,7 +2,10 @@
   <front>
     <title>Hydrogen Field Test Standard Design, Operating Instructions, and Specifications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1888"/>
-    <author fullname="Jodie Pope" initials="J." surname="Pope"/>
+    <seriesInfo name="NIST" value="NIST TN 1888"/>
+    <author fullname="Jodie Pope" initials="J." surname="Pope">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

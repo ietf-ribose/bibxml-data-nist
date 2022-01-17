@@ -2,12 +2,20 @@
   <front>
     <title>2nd annual PKI research workshop proceedings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7085"/>
+    <seriesInfo name="NIST" value="NIST IR 7085"/>
     <author fullname="Carl Ellison" initials="C." surname="Ellison"/>
     <author fullname="William Polk" initials="W." surname="Polk"/>
     <author fullname="Nelson Hastings" initials="N." surname="Hastings"/>
     <author fullname="Sean Smith" initials="S." surname="Smith"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

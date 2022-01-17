@@ -2,12 +2,20 @@
   <front>
     <title>The National Measurement System for fluid flow</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-930"/>
+    <seriesInfo name="NIST" value="NBS IR 75-930"/>
     <author fullname="William Haight" initials="W." surname="Haight"/>
     <author surname="Klebanoff"/>
     <author fullname="Fillmer Ruegg" initials="F." surname="Ruegg"/>
     <author fullname="Gershon Kulin" initials="G." surname="Kulin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

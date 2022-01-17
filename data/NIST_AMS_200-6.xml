@@ -2,9 +2,19 @@
   <front>
     <title>STEP file analyzer and viewer user guide (update 5)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-6"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman"/>
+    <seriesInfo name="NIST" value="NIST AMS 200-6"/>
+    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June"/>
   </front>

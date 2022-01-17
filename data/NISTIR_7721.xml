@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7721" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7721.pdf">
   <front>
-    <title>Recognizing people from dynamic and static faces and bodies : dissecting identity with a fusion approach</title>
+    <title>Recognizing people from dynamic and static faces and bodies :dissecting identity with a fusion approach</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7721"/>
+    <seriesInfo name="NIST" value="NIST IR 7721"/>
     <author surname="O'Toole"/>
     <author surname="Phillips"/>
     <author surname="Weimer"/>
@@ -11,6 +12,13 @@
     <author surname="Dunlop"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

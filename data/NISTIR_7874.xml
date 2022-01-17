@@ -2,10 +2,22 @@
   <front>
     <title>Guidelines for Access Control System Evaluation Metrics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7874"/>
-    <author fullname="Vincent Hu" initials="V." surname="Hu"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
+    <seriesInfo name="NIST" value="NIST IR 7874"/>
+    <author fullname="Vincent Hu" initials="V." surname="Hu">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Computer Security Division, Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="September"/>
   </front>

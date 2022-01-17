@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.84-2838" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2838.pdf">
   <front>
-    <title>Measurement techniques for high-power semiconductor materials and devices : annual report, January 1, 1982 to March 31, 1983</title>
+    <title>Measurement techniques for high-power semiconductor materials and devices :annual report, January 1, 1982 to March 31, 1983</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2838"/>
+    <seriesInfo name="NIST" value="NBS IR 84-2838"/>
     <author surname="Thurber"/>
     <author surname="Lowney"/>
     <author surname="Phillips"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.TN.876" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote876.pdf">
   <front>
-    <title>Exploring privacy and data security costs : a summary of a workshop</title>
+    <title>Exploring privacy and data security costs :a summary of a workshop</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.876"/>
+    <seriesInfo name="NIST" value="NBS TN 876"/>
     <author fullname="Gary Bearden" initials="G." surname="Bearden"/>
     <author fullname="John Berg" initials="J." surname="Berg"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

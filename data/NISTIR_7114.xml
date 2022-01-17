@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7114.pdf">
   <front>
-    <title>Predicting the performance of gaseous air cleaners: measurements and model simulations from a residential-scale pilot study</title>
+    <title>Predicting the performance of gaseous air cleaners:measurements and model simulations from a residential-scale pilot study</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7114"/>
+    <seriesInfo name="NIST" value="NIST IR 7114"/>
     <author fullname="Cynthia Howard-Reed" initials="C." surname="Howard-Reed"/>
     <author fullname="Steven Nabinger" initials="S." surname="Nabinger"/>
     <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

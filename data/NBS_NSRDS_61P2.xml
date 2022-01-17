@@ -1,7 +1,8 @@
 <reference anchor="NBS.NSRDS.61p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds61p2.pdf">
   <front>
-    <title>Physical properties data compilations relevant to energy storage : II. molten salts: data on single and multi-component salt systems</title>
+    <title>Physical properties data compilations relevant to energy storage :II. molten salts: data on single and multi-component salt systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.61p2"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 61p2"/>
     <author fullname="George Janz" initials="G." surname="Janz"/>
     <author surname="Allen"/>
     <author surname="Bansal"/>
@@ -9,6 +10,13 @@
     <author surname="Tomkins"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

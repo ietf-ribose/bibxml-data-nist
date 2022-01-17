@@ -2,10 +2,22 @@
   <front>
     <title>Performance of an ISA100.11a industrial wireless network with wi-fi interference</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8239"/>
-    <author fullname="Mohamed Kashef" initials="M." surname="Kashef"/>
-    <author fullname="Richard Candell" initials="R." surname="Candell"/>
+    <seriesInfo name="NIST" value="NIST IR 8239"/>
+    <author fullname="Mohamed Kashef" initials="M." surname="Kashef">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Richard Candell" initials="R." surname="Candell">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

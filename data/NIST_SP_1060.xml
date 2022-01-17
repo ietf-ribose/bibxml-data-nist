@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.1060" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1060.pdf">
   <front>
-    <title>2006 NIST Center for Neutron Research : accomplishments and opportunities</title>
+    <title>2006 NIST Center for Neutron Research :accomplishments and opportunities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1060"/>
+    <seriesInfo name="NIST" value="NIST SP 1060"/>
     <author fullname="Ronald Cappelletti" initials="R." surname="Cappelletti"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

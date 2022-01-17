@@ -2,8 +2,13 @@
   <front>
     <title>Formal Verification of Bootstrapping Remote Secure Key Infrastructures (BRSKI) Protocol Using AVISPA</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2123"/>
-    <author fullname="Monika Singh" initials="M." surname="Singh"/>
-    <author fullname="Mudumbai Ranganathan" initials="M." surname="Ranganathan"/>
+    <seriesInfo name="NIST" value="NIST TN 2123"/>
+    <author fullname="Monika Singh" initials="M." surname="Singh">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mudumbai Ranganathan" initials="M." surname="Ranganathan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

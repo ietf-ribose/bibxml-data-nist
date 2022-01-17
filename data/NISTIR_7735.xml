@@ -2,10 +2,18 @@
   <front>
     <title>Users manual for version 2.2.1 of the NIST DMIS test suite (for DMIS 5.2)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7735"/>
+    <seriesInfo name="NIST" value="NIST IR 7735"/>
     <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
     <author fullname="John Horst" initials="J." surname="Horst"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

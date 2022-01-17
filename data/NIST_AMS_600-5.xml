@@ -2,15 +2,37 @@
   <front>
     <title>Manufacturing USA annual report 2018</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-5"/>
-    <author fullname="Robert Rudnitsky" initials="R." surname="Rudnitsky"/>
-    <author fullname="Michael Molnar" initials="M." surname="Molnar"/>
-    <author fullname="Frank Gayle" initials="F." surname="Gayle"/>
-    <author fullname="Hong Liang" initials="H." surname="Liang"/>
-    <author fullname="LisaJean Fronczek" initials="L.J." surname="Fronczek"/>
-    <author fullname="Said Jahanmir" initials="S." surname="Jahanmir"/>
-    <author fullname="Zahraha Brunner" initials="Z." surname="Brunner"/>
+    <seriesInfo name="NIST" value="NIST AMS 600-5"/>
+    <author fullname="Robert Rudnitsky" initials="R." surname="Rudnitsky">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
+    <author fullname="Michael Molnar" initials="M." surname="Molnar">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
+    <author fullname="Frank Gayle" initials="F." surname="Gayle">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
+    <author fullname="Hong Liang" initials="H." surname="Liang">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
+    <author fullname="LisaJean Fronczek" initials="L.J." surname="Fronczek">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
+    <author fullname="Said Jahanmir" initials="S." surname="Jahanmir">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
+    <author fullname="Zahraha Brunner" initials="Z." surname="Brunner">
+      <organization>Office of Advanced Manufacturing.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September"/>
   </front>

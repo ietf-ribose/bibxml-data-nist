@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.81-2376" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2376.pdf">
   <front>
-    <title>Residential Solar Data Center : grant reports</title>
+    <title>Residential Solar Data Center :grant reports</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2376"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2376"/>
     <author fullname="Patricia Christopher" initials="P." surname="Christopher"/>
     <author fullname="Lynne Charlton" initials="L." surname="Charlton"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5339" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5339.pdf">
   <front>
-    <title>Comparison of fire sprinkler piping materials: steel, copper, chlorinated polyvinyl chloride and polybutylene, in residential and light hazard installations</title>
+    <title>Comparison of fire sprinkler piping materials:steel, copper, chlorinated polyvinyl chloride and polybutylene, in residential and light hazard installations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5339"/>
+    <seriesInfo name="NIST" value="NIST IR 5339"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

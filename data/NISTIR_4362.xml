@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4362" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4362.pdf">
   <front>
-    <title>Security labels for open systems: an invitational workshop</title>
+    <title>Security labels for open systems:an invitational workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4362"/>
+    <seriesInfo name="NIST" value="NIST IR 4362"/>
     <author fullname="Noel Nazario" initials="N." surname="Nazario"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

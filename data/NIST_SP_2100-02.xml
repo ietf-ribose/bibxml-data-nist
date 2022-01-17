@@ -1,19 +1,47 @@
 <reference anchor="NIST.SP.2100-02" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2100-02.pdf">
   <front>
-    <title>Notes from the NIST Research Innovation to Implementation in Forensic Science Symposium (RI2I): June 19-20, 2019</title>
+    <title>Notes from the NIST Research Innovation to Implementation in Forensic Science Symposium (RI2I):June 19-20, 2019</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.2100-02"/>
-    <author fullname="Richard Cavanagh" initials="R." surname="Cavanagh"/>
-    <author fullname="Aislinn Berge" initials="A." surname="Berge"/>
-    <author fullname="Amanda Coute" initials="A." surname="Coute"/>
-    <author fullname="Ron Fazio" initials="R." surname="Fazio"/>
-    <author fullname="Timothy Graham" initials="T." surname="Graham"/>
-    <author fullname="Charla Marshall" initials="C." surname="Marshall"/>
-    <author fullname="Jennifer Miller" initials="J." surname="Miller"/>
-    <author fullname="Lawrance Mullen" initials="L." surname="Mullen"/>
-    <author fullname="Amanda Sozer" initials="A." surname="Sozer"/>
-    <author fullname="Charlotte Word" initials="C." surname="Word"/>
+    <seriesInfo name="NIST" value="NIST SP 2100-02"/>
+    <author fullname="Richard Cavanagh" initials="R." surname="Cavanagh">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Aislinn Berge" initials="A." surname="Berge">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Amanda Coute" initials="A." surname="Coute">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Ron Fazio" initials="R." surname="Fazio">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Timothy Graham" initials="T." surname="Graham">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Charla Marshall" initials="C." surname="Marshall">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Jennifer Miller" initials="J." surname="Miller">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Lawrance Mullen" initials="L." surname="Mullen">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Amanda Sozer" initials="A." surname="Sozer">
+      <organization>Special Programs Office.</organization>
+    </author>
+    <author fullname="Charlotte Word" initials="C." surname="Word">
+      <organization>Special Programs Office.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November"/>
   </front>

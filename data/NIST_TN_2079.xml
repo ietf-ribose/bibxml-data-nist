@@ -2,14 +2,34 @@
   <front>
     <title>Theoretical basis of the direct-comparison system for power calibration including equivalent source mismatch</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2079"/>
-    <author fullname="Jeffrey Jargon" initials="J." surname="Jargon"/>
-    <author fullname="Dazhen Gu" initials="D." surname="Gu"/>
-    <author fullname="Christian Long" initials="C." surname="Long"/>
-    <author fullname="Aaron Hagerstrom" initials="A." surname="Hagerstrom"/>
-    <author fullname="Angela Stelson" initials="A." surname="Stelson"/>
-    <author fullname="Ann Monke" initials="A." surname="Monke"/>
+    <seriesInfo name="NIST" value="NIST TN 2079"/>
+    <author fullname="Jeffrey Jargon" initials="J." surname="Jargon">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Dazhen Gu" initials="D." surname="Gu">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Christian Long" initials="C." surname="Long">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Aaron Hagerstrom" initials="A." surname="Hagerstrom">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Angela Stelson" initials="A." surname="Stelson">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Ann Monke" initials="A." surname="Monke">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December"/>
   </front>

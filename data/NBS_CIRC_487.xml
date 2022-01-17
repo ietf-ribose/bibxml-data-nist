@@ -1,11 +1,19 @@
 <reference anchor="NBS.CIRC.487" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular487.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 487: density of solids and liquids</title>
+    <title>Circular of the Bureau of Standards no. 487:density of solids and liquids</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.487"/>
+    <seriesInfo name="NIST" value="NBS CIRC 487"/>
     <author fullname="Peter Hidnert" initials="P." surname="Hidnert"/>
     <author fullname="Elmer Peffer" initials="E." surname="Peffer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1950"/>
   </front>

@@ -2,12 +2,28 @@
   <front>
     <title>Case Studies of Community Resilience and Disaster Recovery from the 2013 Boulder County Floods</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-011"/>
-    <author fullname="Christopher Clavin" initials="C." surname="Clavin"/>
-    <author fullname="Zoe Petropoulos" initials="Z." surname="Petropoulos"/>
-    <author fullname="Nayanee Gupta" initials="N." surname="Gupta"/>
-    <author fullname="Christopher Tokita" initials="C." surname="Tokita"/>
+    <seriesInfo name="NIST" value="NIST GCR 16-011"/>
+    <author fullname="Christopher Clavin" initials="C." surname="Clavin">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Zoe Petropoulos" initials="Z." surname="Petropoulos">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Nayanee Gupta" initials="N." surname="Gupta">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Christopher Tokita" initials="C." surname="Tokita">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="April"/>
   </front>

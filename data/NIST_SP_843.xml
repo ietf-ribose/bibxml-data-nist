@@ -2,10 +2,18 @@
   <front>
     <title>Wind and seismic effects</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.843"/>
+    <seriesInfo name="NIST" value="NIST SP 843"/>
     <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
     <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

@@ -2,8 +2,13 @@
   <front>
     <title>Small Business Information Security: The Fundamentals</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7621r1"/>
-    <author fullname="Celia Paulsen" initials="C." surname="Paulsen"/>
-    <author fullname="Patricia Toth" initials="P." surname="Toth"/>
+    <seriesInfo name="NIST" value="NIST IR 7621r1"/>
+    <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patricia Toth" initials="P." surname="Toth">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

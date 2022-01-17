@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5134.pdf">
   <front>
-    <title>Handbook for evaluation of TEM sample preparation of particles on membrane filters: version 1.0</title>
+    <title>Handbook for evaluation of TEM sample preparation of particles on membrane filters:version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5134"/>
+    <seriesInfo name="NIST" value="NIST IR 5134"/>
     <author fullname="John Phelps" initials="J." surname="Phelps"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

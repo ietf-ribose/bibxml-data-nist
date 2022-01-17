@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-110.pdf">
   <front>
-    <title>Standard Reference Materials : Portland cement chemical composition standards (blending, packaging, and testing)/</title>
+    <title>Standard Reference Materials :Portland cement chemical composition standards (blending, packaging, and testing)/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-110"/>
+    <seriesInfo name="NIST" value="NBS SP 260-110"/>
     <author fullname="Howard Kanare" initials="H." surname="Kanare"/>
     <author fullname="Keith Kirby" initials="K." surname="Kirby"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

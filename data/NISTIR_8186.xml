@@ -2,11 +2,25 @@
   <front>
     <title>NIST interlaboratory study on the glycosylation of NISTmAb, a monoclonal antibody reference material, June 2015 to February 2016</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8186"/>
-    <author fullname="MariaLorna De Leoz" initials="M.L." surname="De Leoz"/>
-    <author fullname="David Duewer" initials="D." surname="Duewer"/>
-    <author fullname="Stephen Stein" initials="S." surname="Stein"/>
+    <seriesInfo name="NIST" value="NIST IR 8186"/>
+    <author fullname="MariaLorna De Leoz" initials="M.L." surname="De Leoz">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="David Duewer" initials="D." surname="Duewer">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Stephen Stein" initials="S." surname="Stein">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="July"/>
   </front>

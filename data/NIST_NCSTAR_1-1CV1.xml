@@ -2,11 +2,19 @@
   <front>
     <title>Maintenance and modifications to structural systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1cv1"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-1cv1"/>
     <author fullname="David Fanella" initials="D." surname="Fanella"/>
     <author fullname="Amaldo Derecho" initials="A." surname="Derecho"/>
     <author surname="Ghosh"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

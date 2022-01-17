@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.577" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular577.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 577: energy loss and range of electrons and positrons</title>
+    <title>Circular of the Bureau of Standards no. 577:energy loss and range of electrons and positrons</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.577"/>
+    <seriesInfo name="NIST" value="NBS CIRC 577"/>
     <author fullname="Ann Nelms" initials="A." surname="Nelms"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1956"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.299v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication299v2.pdf">
   <front>
-    <title>Neutron cross sections and technology : proceedings of a conference, Washington, D.C., March 4-7, 1968, volume II, sessions E-H</title>
+    <title>Neutron cross sections and technology :proceedings of a conference, Washington, D.C., March 4-7, 1968, volume II, sessions E-H</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.299v2"/>
+    <seriesInfo name="NIST" value="NBS SP 299v2"/>
     <author fullname="David Goldman" initials="D." surname="Goldman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

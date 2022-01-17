@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.73-225" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-225.pdf">
   <front>
-    <title>Methodology for examining testing laboratories for manufactured building : one and two family dwelling systems and components</title>
+    <title>Methodology for examining testing laboratories for manufactured building :one and two family dwelling systems and components</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-225"/>
+    <seriesInfo name="NIST" value="NBS IR 73-225"/>
     <author surname="Bryson"/>
     <author surname="Camacho"/>
     <author surname="Gavan"/>
@@ -9,6 +10,13 @@
     <author surname="Vogel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

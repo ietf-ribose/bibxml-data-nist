@@ -1,9 +1,17 @@
 <reference anchor="NBS.RPT.10095" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10095.pdf">
   <front>
-    <title>Naval shipboard fire risk criteria : progress report on evaluation of fire test requirements</title>
+    <title>Naval shipboard fire risk criteria :progress report on evaluation of fire test requirements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10095"/>
+    <seriesInfo name="NIST" value="NBS RPT 10095"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969" month="October"/>
   </front>

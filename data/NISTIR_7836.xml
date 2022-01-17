@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7836" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7836.pdf">
   <front>
-    <title>IREX III : performance of iris identification algorithms</title>
+    <title>IREX III :performance of iris identification algorithms</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7836"/>
+    <seriesInfo name="NIST" value="NIST IR 7836"/>
     <author surname="Grother"/>
     <author surname="Quinn"/>
     <author surname="Matey"/>
@@ -11,6 +12,13 @@
     <author surname="Watson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012"/>
   </front>

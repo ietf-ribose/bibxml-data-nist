@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.87-3604" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3604.pdf">
   <front>
-    <title>Hazard I. Volume 3 : data base listing</title>
+    <title>Hazard I. Volume 3 :data base listing</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3604"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3604"/>
     <author surname="Bukowski"/>
     <author surname="Braun"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

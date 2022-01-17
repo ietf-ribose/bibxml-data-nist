@@ -2,11 +2,25 @@
   <front>
     <title>Test &amp; evaluation of the safety app from 911Cellular, LLC at NIST</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1962"/>
-    <author fullname="Nader Moayeri" initials="N." surname="Moayeri"/>
-    <author fullname="Lu Shi" initials="L." surname="Shi"/>
-    <author fullname="Chang Li" initials="C." surname="Li"/>
+    <seriesInfo name="NIST" value="NIST TN 1962"/>
+    <author fullname="Nader Moayeri" initials="N." surname="Moayeri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lu Shi" initials="L." surname="Shi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Chang Li" initials="C." surname="Li">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="April"/>
   </front>

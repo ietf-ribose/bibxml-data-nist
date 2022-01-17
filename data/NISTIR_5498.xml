@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5498" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5498.pdf">
   <front>
-    <title>Challenges to the National Information Infrastructure: the barriers to product data sharing</title>
+    <title>Challenges to the National Information Infrastructure:the barriers to product data sharing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5498"/>
+    <seriesInfo name="NIST" value="NIST IR 5498"/>
     <author fullname="AllisonBarnard Feeney" initials="A.B." surname="Feeney"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

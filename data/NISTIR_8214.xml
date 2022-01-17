@@ -1,12 +1,26 @@
 <reference anchor="NIST.IR.8214" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8214.pdf">
   <front>
-    <title>Threshold schemes for cryptographic primitives: challenges and opportunities in standardization and validation of threshold cryptography</title>
+    <title>Threshold schemes for cryptographic primitives:challenges and opportunities in standardization and validation of threshold cryptography</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8214"/>
-    <author fullname="LuísT.A.N. Brandão" initials="L.T." surname="Brandão"/>
-    <author fullname="Nicky Mouha" initials="N." surname="Mouha"/>
-    <author fullname="Apostol Vassilev" initials="A." surname="Vassilev"/>
+    <seriesInfo name="NIST" value="NIST IR 8214"/>
+    <author fullname="LuísT.A.N. Brandão" initials="L.T." surname="Brandão">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nicky Mouha" initials="N." surname="Mouha">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Apostol Vassilev" initials="A." surname="Vassilev">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.1066" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1066.pdf">
   <front>
-    <title>Residential kitchen fire suppression research needs : workshop proceedings</title>
+    <title>Residential kitchen fire suppression research needs :workshop proceedings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1066"/>
+    <seriesInfo name="NIST" value="NIST SP 1066"/>
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
     <author fullname="Shivani Mehta" initials="S." surname="Mehta"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

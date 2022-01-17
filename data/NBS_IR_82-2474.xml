@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.82-2474" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2474.pdf">
   <front>
-    <title>HUD utilities demonstration series : performance analysis ofthe Jersey City total energy site : final report</title>
+    <title>HUD utilities demonstration series :performance analysis ofthe Jersey City total energy site : final report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2474"/>
+    <seriesInfo name="NIST" value="NBS IR 82-2474"/>
     <author surname="Hurley"/>
     <author surname="Ryan"/>
     <author surname="Phillips"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

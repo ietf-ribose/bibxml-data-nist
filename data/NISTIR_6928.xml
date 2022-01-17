@@ -2,6 +2,7 @@
   <front>
     <title>Concepts for automating systems integration</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6928"/>
+    <seriesInfo name="NIST" value="NIST IR 6928"/>
     <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
     <author fullname="AllisonBarnard Feeney" initials="A.B." surname="Feeney"/>
     <author fullname="Peter Denno" initials="P." surname="Denno"/>
@@ -11,6 +12,13 @@
     <author fullname="Evan Wallace" initials="E." surname="Wallace"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

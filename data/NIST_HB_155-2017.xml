@@ -2,10 +2,22 @@
   <front>
     <title>Weights and measures program requirements: a handbook for the weights and measures administrator</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.155-2017"/>
-    <author fullname="Linda Crown" initials="L." surname="Crown"/>
-    <author fullname="Douglas Olson" initials="D." surname="Olson"/>
+    <seriesInfo name="NIST" value="NIST HB 155-2017"/>
+    <author fullname="Linda Crown" initials="L." surname="Crown">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Douglas Olson" initials="D." surname="Olson">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="May"/>
   </front>

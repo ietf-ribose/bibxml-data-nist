@@ -2,6 +2,7 @@
   <front>
     <title>Security analysis and enhancements of computer operating systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1041"/>
+    <seriesInfo name="NIST" value="NBS IR 76-1041"/>
     <author surname="Abbott"/>
     <author surname="Chin"/>
     <author surname="Donnelley"/>
@@ -11,6 +12,13 @@
     <author surname="Linden"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

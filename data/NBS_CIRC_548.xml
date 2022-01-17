@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.548" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular548.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 548: miniature intermediate-frequency amplifiers</title>
+    <title>Circular of the Bureau of Standards no. 548:miniature intermediate-frequency amplifiers</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.548"/>
+    <seriesInfo name="NIST" value="NBS CIRC 548"/>
     <author fullname="RobertK-F Scal" initials="R.K." surname="Scal"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1954"/>
   </front>

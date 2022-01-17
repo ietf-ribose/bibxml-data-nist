@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6223" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6223.pdf">
   <front>
-    <title>Design for tolerance of electro-mechanical assemblies: an integrated approach</title>
+    <title>Design for tolerance of electro-mechanical assemblies:an integrated approach</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6223"/>
+    <seriesInfo name="NIST" value="NIST IR 6223"/>
     <author surname="Narahari"/>
     <author fullname="SudarsanK Lyons" initials="S." surname="Lyons"/>
     <author surname="Duffey"/>
     <author surname="Sriram"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

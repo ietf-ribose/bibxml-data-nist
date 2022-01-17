@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.4543" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4543.pdf">
   <front>
-    <title>AutoMan 2.0: decision support software for automated manufacturing investments</title>
+    <title>AutoMan 2.0:decision support software for automated manufacturing investments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4543"/>
+    <seriesInfo name="NIST" value="NIST IR 4543"/>
     <author fullname="Stephen Weber" initials="S." surname="Weber"/>
     <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
     <author fullname="Katherine Johnson" initials="K." surname="Johnson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.250-71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-71.pdf">
   <front>
-    <title>0 : 45 surface color</title>
+    <title>0 :45 surface color</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-71"/>
+    <seriesInfo name="NIST" value="NIST SP 250-71"/>
     <author fullname="Maria Nadal" initials="M." surname="Nadal"/>
     <author fullname="Edward Early" initials="E." surname="Early"/>
     <author fullname="Robert Bousquet" initials="R." surname="Bousquet"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

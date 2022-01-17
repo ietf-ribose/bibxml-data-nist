@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.79-1908" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1908.pdf">
   <front>
-    <title>Solar energy systems : test methods for collector insulations</title>
+    <title>Solar energy systems :test methods for collector insulations</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1908"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1908"/>
     <author fullname="McClure Godette" initials="M." surname="Godette"/>
     <author fullname="Jack Lee" initials="J." surname="Lee"/>
     <author fullname="James Fearn" initials="J." surname="Fearn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

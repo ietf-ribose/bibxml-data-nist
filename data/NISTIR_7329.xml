@@ -2,6 +2,7 @@
   <front>
     <title>HealthCare standards landscape, user guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7329"/>
+    <seriesInfo name="NIST" value="NIST IR 7329"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author fullname="Roy Morgan" initials="R." surname="Morgan"/>
     <author fullname="Thomas Rhodes" initials="T." surname="Rhodes"/>
@@ -9,6 +10,13 @@
     <author fullname="Hai Tang" initials="H." surname="Tang"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

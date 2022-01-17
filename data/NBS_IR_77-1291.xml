@@ -2,11 +2,19 @@
   <front>
     <title>Report of the workshop on cryptography in support of computer security</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1291"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1291"/>
     <author fullname="Dennis Branstad" initials="D." surname="Branstad"/>
     <author fullname="Jason Gait" initials="J." surname="Gait"/>
     <author fullname="Stuart Katzke" initials="S." surname="Katzke"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Fundamental physical constants</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.731"/>
+    <seriesInfo name="NIST" value="NBS SP 731"/>
     <author fullname="Richard Cohen" initials="R." surname="Cohen"/>
     <author fullname="Barry Taylor" initials="B." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

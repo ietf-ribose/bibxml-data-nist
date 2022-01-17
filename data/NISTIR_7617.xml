@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.7617" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7617.pdf">
   <front>
-    <title>Mobile forensic reference materials : a methodology and reification</title>
+    <title>Mobile forensic reference materials :a methodology and reification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7617"/>
+    <seriesInfo name="NIST" value="NIST IR 7617"/>
     <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
     <author fullname="Aurelien Delaitre" initials="A." surname="Delaitre"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

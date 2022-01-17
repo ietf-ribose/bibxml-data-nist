@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6538" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6538.pdf">
   <front>
-    <title>Fire service needs workshop proceedings : San Antonio, Texas, October 13-15, 1999</title>
+    <title>Fire service needs workshop proceedings :San Antonio, Texas, October 13-15, 1999</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6538"/>
+    <seriesInfo name="NIST" value="NIST IR 6538"/>
     <author fullname="William Walton" initials="W." surname="Walton"/>
     <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
@@ -9,6 +10,13 @@
     <author fullname="Nora Jason" initials="N." surname="Jason"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

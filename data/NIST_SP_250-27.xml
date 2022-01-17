@@ -2,12 +2,20 @@
   <front>
     <title>AC-DC difference calibrations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-27"/>
+    <seriesInfo name="NIST" value="NIST SP 250-27"/>
     <author surname="Kinard"/>
     <author surname="Hastings"/>
     <author surname="Lipe"/>
     <author surname="Childers"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

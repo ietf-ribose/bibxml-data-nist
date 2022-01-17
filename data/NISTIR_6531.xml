@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6531.pdf">
   <front>
-    <title>Flammability of polymer clay nanocomposites consortium: year one annual report</title>
+    <title>Flammability of polymer clay nanocomposites consortium:year one annual report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6531"/>
+    <seriesInfo name="NIST" value="NIST IR 6531"/>
     <author fullname="Jeffrey Gilman" initials="J." surname="Gilman"/>
     <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi"/>
     <author fullname="Alexander Morgan" initials="A." surname="Morgan"/>
@@ -11,6 +12,13 @@
     <author fullname="Catheryn Jackson" initials="C." surname="Jackson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

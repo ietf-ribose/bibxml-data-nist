@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.80-2069" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2069.pdf">
   <front>
-    <title>NBS : nondestructive evaluation of nonuniformities in 2219 aluminum alloy plate</title>
+    <title>NBS :nondestructive evaluation of nonuniformities in 2219 aluminum alloy plate</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2069"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2069"/>
     <author surname="Swartzendruber"/>
     <author surname="Boettinger"/>
     <author surname="Ives"/>
@@ -18,6 +19,13 @@
     <author surname="Mordfin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6771" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6771.pdf">
   <front>
-    <title>An intelligent systems architecture for manufacturing (ISAM): a reference model architecture for intelligent manufacturing systems</title>
+    <title>An intelligent systems architecture for manufacturing (ISAM):a reference model architecture for intelligent manufacturing systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6771"/>
+    <seriesInfo name="NIST" value="NIST IR 6771"/>
     <author surname="Albus"/>
     <author surname="Scott"/>
     <author surname="Messina"/>
@@ -15,6 +16,13 @@
     <author surname="Senehi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

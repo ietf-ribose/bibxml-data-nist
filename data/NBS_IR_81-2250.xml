@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.81-2250" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2250.pdf">
   <front>
-    <title>Estimating area cost factors for military construction projects : a computerized approach</title>
+    <title>Estimating area cost factors for military construction projects :a computerized approach</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2250"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2250"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author fullname="Bruce Thompson" initials="B." surname="Thompson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

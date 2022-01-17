@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.847" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote847.pdf">
   <front>
-    <title>Dataplot 70 : Fortran-callable plotting routines</title>
+    <title>Dataplot 70 :Fortran-callable plotting routines</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.847"/>
+    <seriesInfo name="NIST" value="NBS TN 847"/>
     <author fullname="Carol Young" initials="C." surname="Young"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

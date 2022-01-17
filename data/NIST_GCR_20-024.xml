@@ -2,12 +2,28 @@
   <front>
     <title>Open standards for flexible discrete manufacturing in the model-based enterprise</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.20-024"/>
-    <author fullname="Mark White" initials="M." surname="White"/>
-    <author fullname="Eric Holterman" initials="E." surname="Holterman"/>
-    <author fullname="Tim Bakker" initials="T." surname="Bakker"/>
-    <author fullname="Larry Maggiano" initials="L." surname="Maggiano"/>
+    <seriesInfo name="NIST" value="NIST GCR 20-024"/>
+    <author fullname="Mark White" initials="M." surname="White">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Eric Holterman" initials="E." surname="Holterman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Tim Bakker" initials="T." surname="Bakker">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Larry Maggiano" initials="L." surname="Maggiano">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="September"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Studies of biometric fusion</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7346"/>
+    <seriesInfo name="NIST" value="NIST IR 7346"/>
     <author fullname="Brad Ulery" initials="B." surname="Ulery"/>
     <author fullname="Austin Hicklin" initials="A." surname="Hicklin"/>
     <author surname="Watson"/>
@@ -9,6 +10,13 @@
     <author fullname="Peter Hallinan" initials="P." surname="Hallinan"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

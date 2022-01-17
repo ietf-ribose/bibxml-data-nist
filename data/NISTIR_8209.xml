@@ -2,9 +2,19 @@
   <front>
     <title>Models for viscosity, thermal conductivity, and surface tension of selected pure fluids as implemented in REFPROP v10.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8209"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
+    <seriesInfo name="NIST" value="NIST IR 8209"/>
+    <author fullname="Marcia Huber" initials="M." surname="Huber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August"/>
   </front>

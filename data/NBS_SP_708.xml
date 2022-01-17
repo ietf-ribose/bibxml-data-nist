@@ -2,10 +2,18 @@
   <front>
     <title>Standard Reference Data Publications 1964-1984</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.708"/>
+    <seriesInfo name="NIST" value="NBS SP 708"/>
     <author fullname="Joan Sauerwein" initials="J." surname="Sauerwein"/>
     <author fullname="Geraldine Dalton" initials="G." surname="Dalton"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

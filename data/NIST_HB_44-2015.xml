@@ -1,13 +1,21 @@
 <reference anchor="NIST.HB.44-2015" target="https://nvlpubs.nist.gov/nistpubs/hb/2015/NIST.HB.44-2015.pdf">
   <front>
-    <title>Specifications, tolerances, and other technical requirements for weighing and measuring devices : as adopted by the 99th National Conference on Weights and Measures 2014</title>
+    <title>Specifications, tolerances, and other technical requirements for weighing and measuring devices :as adopted by the 99th National Conference on Weights and Measures 2014</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.44-2015"/>
+    <seriesInfo name="NIST" value="NIST HB 44-2015"/>
     <author fullname="Tina Butcher" initials="T." surname="Butcher"/>
     <author fullname="Linda Crown" initials="L." surname="Crown"/>
     <author fullname="Rick Harshman" initials="R." surname="Harshman"/>
     <author fullname="Juana Williams" initials="J." surname="Williams"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2015"/>
   </front>

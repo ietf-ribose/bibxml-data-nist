@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.77-1402" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1402.pdf">
   <front>
-    <title>The National Cancer Institute's emergency virus isolation facility : a case study for use in developing a methodology of post-occupancy evaluation</title>
+    <title>The National Cancer Institute's emergency virus isolation facility :a case study for use in developing a methodology of post-occupancy evaluation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1402"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1402"/>
     <author fullname="George Turner" initials="G." surname="Turner"/>
     <author fullname="Jacqueline Elder" initials="J." surname="Elder"/>
     <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

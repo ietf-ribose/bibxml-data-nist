@@ -2,12 +2,28 @@
   <front>
     <title>NVLAP cryptographic and security testing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.150-17-2020"/>
-    <author fullname="Bradley Moore" initials="B." surname="Moore"/>
-    <author fullname="Beverly Trapnell" initials="B." surname="Trapnell"/>
-    <author fullname="James Fox" initials="J." surname="Fox"/>
-    <author fullname="Carolyn French" initials="C." surname="French"/>
+    <seriesInfo name="NIST" value="NIST HB 150-17-2020"/>
+    <author fullname="Bradley Moore" initials="B." surname="Moore">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
+    <author fullname="Beverly Trapnell" initials="B." surname="Trapnell">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
+    <author fullname="James Fox" initials="J." surname="Fox">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
+    <author fullname="Carolyn French" initials="C." surname="French">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April"/>
   </front>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.TN.1524" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1524.pdf">
   <front>
-    <title>Trapped ions and laser cooling, V : selected publications of the Ion Storage Group of the NIST Time and Frequency Division</title>
+    <title>Trapped ions and laser cooling, V :selected publications of the Ion Storage Group of the NIST Time and Frequency Division</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1524"/>
+    <seriesInfo name="NIST" value="NIST TN 1524"/>
     <author fullname="James Bergquist" initials="J." surname="Bergquist"/>
     <author fullname="John Bollinger" initials="J." surname="Bollinger"/>
     <author fullname="Wayne Itano" initials="W." surname="Itano"/>
     <author fullname="DavidJ,editors Wineland" initials="D.J.e." surname="Wineland"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

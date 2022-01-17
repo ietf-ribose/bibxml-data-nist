@@ -2,10 +2,22 @@
   <front>
     <title>Justification of Shielding Requirements for Plutonium Sources</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1758"/>
-    <author surname="Pibida"/>
-    <author surname="Unterweger"/>
+    <seriesInfo name="NIST" value="NIST TN 1758"/>
+    <author surname="Pibida">
+      <organization>Radiation and Biomolecular Physics Division, Physical Measurement Laboratory</organization>
+    </author>
+    <author surname="Unterweger">
+      <organization>Radiation and Biomolecular Physics Division, Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012"/>
   </front>

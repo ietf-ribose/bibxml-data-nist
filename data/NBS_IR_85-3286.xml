@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.85-3286" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3286.pdf">
   <front>
-    <title>Toxicity of the pyrolysis and combustion of poly(vinyl chlorides) : a literature assessment</title>
+    <title>Toxicity of the pyrolysis and combustion of poly(vinyl chlorides) :a literature assessment</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3286"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3286"/>
     <author fullname="Clayton Huggett" initials="C." surname="Huggett"/>
     <author fullname="Barbara Levin" initials="B." surname="Levin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

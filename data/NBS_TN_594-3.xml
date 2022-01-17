@@ -1,11 +1,19 @@
 <reference anchor="NBS.TN.594-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote594-3.pdf">
   <front>
-    <title>Optical radiation measurements : photometric calibration procedures</title>
+    <title>Optical radiation measurements :photometric calibration procedures</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.594-3"/>
+    <seriesInfo name="NIST" value="NBS TN 594-3"/>
     <author fullname="Velma Burns" initials="V." surname="Burns"/>
     <author fullname="Donald McSparron" initials="D." surname="McSparron"/>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

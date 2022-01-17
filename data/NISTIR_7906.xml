@@ -2,6 +2,7 @@
   <front>
     <title>Video-based face recognition via joint sparse representation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7906"/>
+    <seriesInfo name="NIST" value="NIST IR 7906"/>
     <author fullname="Yi-Chen Chen" initials="Y." surname="Chen"/>
     <author fullname="Vishal Patel" initials="V." surname="Patel"/>
     <author fullname="Sumit Shekhar" initials="S." surname="Shekhar"/>
@@ -9,6 +10,13 @@
     <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2013"/>
   </front>

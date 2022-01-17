@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.87-3066" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3066.pdf">
   <front>
-    <title>Development of standards for superconductors : interim report January- December 1985</title>
+    <title>Development of standards for superconductors :interim report January- December 1985</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3066"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3066"/>
     <author surname="Goodrich"/>
     <author surname="Bray"/>
     <author surname="Dube"/>
@@ -10,6 +11,13 @@
     <author surname="Clark"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.960-12e1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-12e1.pdf">
   <front>
-    <title>NIST recommended practice guide : stopwatch and timer calibrations (2004 edition)/</title>
+    <title>NIST recommended practice guide :stopwatch and timer calibrations (2004 edition)/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-12e1"/>
+    <seriesInfo name="NIST" value="NBS SP 960-12e1"/>
     <author fullname="Robert Graham" initials="R." surname="Graham"/>
     <author fullname="Jeff Gust" initials="J." surname="Gust"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

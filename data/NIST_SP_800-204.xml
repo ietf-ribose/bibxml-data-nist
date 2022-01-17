@@ -2,9 +2,19 @@
   <front>
     <title>Security strategies for microservices-based application systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-204"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
+    <seriesInfo name="NIST" value="NIST SP 800-204"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August"/>
   </front>

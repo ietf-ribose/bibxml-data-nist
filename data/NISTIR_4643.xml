@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4643" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4643.pdf">
   <front>
-    <title>Technical activities 1990: Surface Science Division</title>
+    <title>Technical activities 1990:Surface Science Division</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4643"/>
+    <seriesInfo name="NIST" value="NIST IR 4643"/>
     <author surname="Powell"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

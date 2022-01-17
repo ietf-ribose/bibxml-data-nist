@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-51" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-51.pdf">
   <front>
-    <title>Standard Reference Materials : Glass filters as a standard reference material for spectrophotometry</title>
+    <title>Standard Reference Materials :Glass filters as a standard reference material for spectrophotometry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-51"/>
+    <seriesInfo name="NIST" value="NBS SP 260-51"/>
     <author surname="Baldwin"/>
     <author surname="Mavrodineanu"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

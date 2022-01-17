@@ -2,9 +2,19 @@
   <front>
     <title>Security recommendations for hypervisor deployment on servers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125A"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
+    <seriesInfo name="NIST" value="NIST SP 800-125A"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="23"/>
   </front>

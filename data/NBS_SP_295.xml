@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.295" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication295.pdf">
   <front>
-    <title>Electronic composition in printing : proceedings of a symposium National Bureau of Standards June 15-16, 1967</title>
+    <title>Electronic composition in printing :proceedings of a symposium National Bureau of Standards June 15-16, 1967</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.295"/>
+    <seriesInfo name="NIST" value="NBS SP 295"/>
     <author fullname="Richard Lee" initials="R." surname="Lee"/>
     <author fullname="Roy Worral" initials="R." surname="Worral"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

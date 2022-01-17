@@ -1,7 +1,8 @@
 <reference anchor="NBS.BH.8" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing8.pdf">
   <front>
-    <title>Recommended practice for arrangement of building codes : report of building code committee July 15, 1925</title>
+    <title>Recommended practice for arrangement of building codes :report of building code committee July 15, 1925</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.8"/>
+    <seriesInfo name="NIST" value="NBS BH 8"/>
     <author fullname="Ira Woolson" initials="I." surname="Woolson"/>
     <author fullname="Edwin Brown" initials="E." surname="Brown"/>
     <author fullname="Rudolph Miller" initials="R." surname="Miller"/>
@@ -12,6 +13,13 @@
     <author fullname="Frank Cartwright" initials="F." surname="Cartwright"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

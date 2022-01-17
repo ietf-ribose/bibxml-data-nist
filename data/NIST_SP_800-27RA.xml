@@ -2,11 +2,19 @@
   <front>
     <title>Engineering principles for information technology security (a baseline for achieving security), revision a</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-27ra"/>
+    <seriesInfo name="NIST" value="NIST SP 800-27ra"/>
     <author surname="Stoneburner"/>
     <author surname="Hayden"/>
     <author surname="Feringa"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Framework for Addressing the NationalWildland Urban Interface Fire Problem – Determining Fire and Ember Exposure Zones using a WUI Hazard Scale</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1748"/>
-    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
-    <author fullname="William Mell" initials="W." surname="Mell"/>
+    <seriesInfo name="NIST" value="NIST TN 1748"/>
+    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
+      <organization>Fire Research Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Mell" initials="W." surname="Mell">
+      <organization>Fire Research Division, Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.895" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote895.pdf">
   <front>
-    <title>An overview of floor slip-resistance research with annotated bibliography : addendum</title>
+    <title>An overview of floor slip-resistance research with annotated bibliography :addendum</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.895"/>
+    <seriesInfo name="NIST" value="NBS TN 895"/>
     <author fullname="Robert Brungraber" initials="R." surname="Brungraber"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

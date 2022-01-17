@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.9665" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9665.pdf">
   <front>
-    <title>Thermal conductance of soils: first quarterly report</title>
+    <title>Thermal conductance of soils:first quarterly report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9665"/>
+    <seriesInfo name="NIST" value="NBS RPT 9665"/>
     <author surname="Flynn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

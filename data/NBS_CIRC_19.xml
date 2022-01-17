@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.19" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular19.pdf">
   <front>
-    <title>Bureau circular no. 19: standard density and volumetric tables</title>
+    <title>Bureau circular no. 19:standard density and volumetric tables</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.19"/>
+    <seriesInfo name="NIST" value="NBS CIRC 19"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1909"/>
   </front>

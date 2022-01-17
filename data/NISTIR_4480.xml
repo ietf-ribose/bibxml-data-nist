@@ -2,9 +2,17 @@
   <front>
     <title>Assembly code to compute sine and cosine using the CORDIC algorithm</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4480"/>
+    <seriesInfo name="NIST" value="NIST IR 4480"/>
     <author fullname="John Horst" initials="J." surname="Horst"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

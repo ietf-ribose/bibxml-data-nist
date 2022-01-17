@@ -1,9 +1,17 @@
 <reference anchor="NBS.BRPD-CRPL-D.216" target="https://nvlpubs.nist.gov/nistpubs/Legacy/brpd-crpl-d/brpd-crpl-d216.pdf">
   <front>
-    <title>Basic radio propagation predictions for November 1962: three months in advance</title>
+    <title>Basic radio propagation predictions for November 1962:three months in advance</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BRPD-CRPL-D.216"/>
+    <seriesInfo name="NIST" value="NBS BRPD-CRPL-D 216"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

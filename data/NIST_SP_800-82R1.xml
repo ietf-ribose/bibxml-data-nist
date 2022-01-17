@@ -2,9 +2,16 @@
   <front>
     <title>Guide to Industrial Control Systems (ICS) Security : Supervisory Control and Data Acquisition (SCADA) Systems, Distributed Control Systems (DCS), and Other Control System Configurations such as Programmable Logic Controllers (PLC)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-82r1"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="Joe Falco" initials="J." surname="Falco"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
+    <seriesInfo name="NIST" value="NIST SP 800-82r1"/>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Intelligent Systems Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joe Falco" initials="J." surname="Falco">
+      <organization>Intelligent Systems Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Intelligent Systems Division, Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

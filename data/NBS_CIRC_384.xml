@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.384" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular384.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 384: sound absorption coefficients of the more common materials</title>
+    <title>Circular of the Bureau of Standards no. 384:sound absorption coefficients of the more common materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.384"/>
+    <seriesInfo name="NIST" value="NBS CIRC 384"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1930"/>
   </front>

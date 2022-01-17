@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6943" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6943.pdf">
   <front>
-    <title>Program design and firm success in the advanced technology program: project structure and innovation outcomes</title>
+    <title>Program design and firm success in the advanced technology program:project structure and innovation outcomes</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6943"/>
+    <seriesInfo name="NIST" value="NIST IR 6943"/>
     <author fullname="Michael Darby" initials="M." surname="Darby"/>
     <author fullname="Lynne Zucker" initials="L." surname="Zucker"/>
     <author fullname="Andrew Wang" initials="A." surname="Wang"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

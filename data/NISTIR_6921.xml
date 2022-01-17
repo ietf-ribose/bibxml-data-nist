@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6921" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6921.pdf">
   <front>
-    <title>CONTAMW 2.0, user manual: multizone airflow and contaminant transport analysis software</title>
+    <title>CONTAMW 2.0, user manual:multizone airflow and contaminant transport analysis software</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6921"/>
+    <seriesInfo name="NIST" value="NIST IR 6921"/>
     <author fullname="Stuart Dols" initials="S." surname="Dols"/>
     <author fullname="George Walton" initials="G." surname="Walton"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

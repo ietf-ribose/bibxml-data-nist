@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.6321" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6321.pdf">
   <front>
-    <title>Tests of prestressed cellular slabs : (series of slabs nos. 1 through 29) final report</title>
+    <title>Tests of prestressed cellular slabs :(series of slabs nos. 1 through 29) final report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6321"/>
+    <seriesInfo name="NIST" value="NBS RPT 6321"/>
     <author fullname="Arthur Kirstein" initials="A." surname="Kirstein"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

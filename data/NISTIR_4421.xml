@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4421" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4421.pdf">
   <front>
-    <title>Development plan: STEP Production Cell</title>
+    <title>Development plan:STEP Production Cell</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4421"/>
+    <seriesInfo name="NIST" value="NIST IR 4421"/>
     <author fullname="James Fowler" initials="J." surname="Fowler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

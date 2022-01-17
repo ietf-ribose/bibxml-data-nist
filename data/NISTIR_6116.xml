@@ -2,6 +2,7 @@
   <front>
     <title>NGIS SIM Specification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6116"/>
+    <seriesInfo name="NIST" value="NIST IR 6116"/>
     <author fullname="William Rippey" initials="W." surname="Rippey"/>
     <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
     <author fullname="Martin Herman" initials="M." surname="Herman"/>
@@ -12,6 +13,13 @@
     <author fullname="John Rose" initials="J." surname="Rose"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

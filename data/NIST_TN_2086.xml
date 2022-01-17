@@ -2,11 +2,25 @@
   <front>
     <title>A review of social media use during disaster response and recovery phases</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2086"/>
-    <author fullname="Camila Young" initials="C." surname="Young"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
-    <author fullname="Aashna Pradhan" initials="A." surname="Pradhan"/>
+    <seriesInfo name="NIST" value="NIST TN 2086"/>
+    <author fullname="Camila Young" initials="C." surname="Young">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Aashna Pradhan" initials="A." surname="Pradhan">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="January"/>
   </front>

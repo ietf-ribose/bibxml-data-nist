@@ -1,13 +1,26 @@
-<reference anchor="NISTIR.8212" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8212.pdf">
+<reference anchor="NIST.IR.8212" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8212.pdf">
   <front>
     <title>ISCMA: An Information Security Continuous Monitoring Program Assessment</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8212"/>
-    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey"/>
-    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri"/>
-    <author fullname="Chad Baer" initials="C." surname="Baer"/>
-    <author fullname="Ron Rudman" initials="R." surname="Rudman"/>
-    <author fullname="Robert Niemeyer" initials="R." surname="Niemeyer"/>
-    <author fullname="Susan Urban" initials="S." surname="Urban"/>
+    <seriesInfo name="NIST" value="NIST IR 8212"/>
+    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Chad Baer" initials="C." surname="Baer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ron Rudman" initials="R." surname="Rudman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Robert Niemeyer" initials="R." surname="Niemeyer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Susan Urban" initials="S." surname="Urban">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

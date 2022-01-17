@@ -2,6 +2,7 @@
   <front>
     <title>An experimental study of phase variations in line-of-sight microwave transmissions</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.33"/>
+    <seriesInfo name="NIST" value="NBS MONO 33"/>
     <author surname="Norton"/>
     <author surname="Herbstreit"/>
     <author surname="Janes"/>
@@ -15,6 +16,13 @@
     <author surname="Kirkpatrick"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1961"/>
   </front>

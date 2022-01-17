@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.75-777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-777.pdf">
   <front>
-    <title>Study of the national standards for directional and other official signs : overview of their adequacy</title>
+    <title>Study of the national standards for directional and other official signs :overview of their adequacy</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-777"/>
+    <seriesInfo name="NIST" value="NBS IR 75-777"/>
     <author fullname="John Fechter" initials="J." surname="Fechter"/>
     <author fullname="Valom Pezoldt" initials="V." surname="Pezoldt"/>
     <author surname="Persensky"/>
     <author fullname="Richard Lepkowski" initials="R." surname="Lepkowski"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

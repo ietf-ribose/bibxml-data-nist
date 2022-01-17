@@ -2,13 +2,31 @@
   <front>
     <title>Certification of standard reference material 2365 BK virus DNA quantitative standard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-191"/>
-    <author fullname="Megan Cleveland" initials="M." surname="Cleveland"/>
-    <author fullname="Natalia Farkas" initials="N." surname="Farkas"/>
-    <author fullname="Kevin Kiesler" initials="K." surname="Kiesler"/>
-    <author fullname="Blaza Toman" initials="B." surname="Toman"/>
-    <author fullname="Peter Vallone" initials="P." surname="Vallone"/>
+    <seriesInfo name="NIST" value="NIST SP 260-191"/>
+    <author fullname="Megan Cleveland" initials="M." surname="Cleveland">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Natalia Farkas" initials="N." surname="Farkas">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Kevin Kiesler" initials="K." surname="Kiesler">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Blaza Toman" initials="B." surname="Toman">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Peter Vallone" initials="P." surname="Vallone">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August"/>
   </front>

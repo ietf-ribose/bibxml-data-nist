@@ -2,6 +2,7 @@
   <front>
     <title>Model phase diagrams for an FCC alloy</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6463"/>
+    <seriesInfo name="NIST" value="NIST IR 6463"/>
     <author surname="Braun"/>
     <author surname="Zhang"/>
     <author surname="Cahn"/>
@@ -9,6 +10,13 @@
     <author surname="Wheeler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

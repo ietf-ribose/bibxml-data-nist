@@ -2,10 +2,18 @@
   <front>
     <title>Comparison of massively parallel hand-print segmenters</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4923"/>
+    <seriesInfo name="NIST" value="NIST IR 4923"/>
     <author fullname="Allen Wilkinson" initials="A." surname="Wilkinson"/>
     <author fullname="Michael Garris" initials="M." surname="Garris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

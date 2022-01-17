@@ -2,10 +2,22 @@
   <front>
     <title>A soot deposition gauge for fire measurements</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1985"/>
-    <author fullname="Amy Mensch" initials="A." surname="Mensch"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
+    <seriesInfo name="NIST" value="NIST TN 1985"/>
+    <author fullname="Amy Mensch" initials="A." surname="Mensch">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thomas Cleary" initials="T." surname="Cleary">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March"/>
   </front>

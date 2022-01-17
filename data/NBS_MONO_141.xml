@@ -1,11 +1,19 @@
 <reference anchor="NBS.MONO.141" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph141.pdf">
   <front>
-    <title>The Measurement of lumped parameter impedance : a metrology guide</title>
+    <title>The Measurement of lumped parameter impedance :a metrology guide</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.141"/>
+    <seriesInfo name="NIST" value="NBS MONO 141"/>
     <author surname="Jones"/>
     <author surname="Anson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

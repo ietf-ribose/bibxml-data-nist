@@ -2,12 +2,20 @@
   <front>
     <title>LBIR facility: user handbook</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.147"/>
+    <seriesInfo name="NIST" value="NIST HB 147"/>
     <author surname="Datla"/>
     <author fullname="Ebner, C" initials="E." surname="C"/>
     <author surname="Proctor"/>
     <author surname="Parr"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

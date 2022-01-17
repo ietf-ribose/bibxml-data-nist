@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-61" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-61.pdf">
   <front>
-    <title>Standard Reference Materials : The characterization of linear polyethylene SRM's 1482, 1483, and 1484/</title>
+    <title>Standard Reference Materials :The characterization of linear polyethylene SRM's 1482, 1483, and 1484/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-61"/>
+    <seriesInfo name="NIST" value="NBS SP 260-61"/>
     <author fullname="Herman Wagner" initials="H." surname="Wagner"/>
     <author fullname="Peter Verdier" initials="P." surname="Verdier"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

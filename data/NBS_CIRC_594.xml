@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.594" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular594.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 594: preparation, maintenance, and application of standards of radioactivity</title>
+    <title>Circular of the Bureau of Standards no. 594:preparation, maintenance, and application of standards of radioactivity</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.594"/>
+    <seriesInfo name="NIST" value="NBS CIRC 594"/>
     <author surname="Mann"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958"/>
   </front>

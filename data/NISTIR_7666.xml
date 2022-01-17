@@ -2,6 +2,7 @@
   <front>
     <title>An other race effect for face recognition algorithms</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7666"/>
+    <seriesInfo name="NIST" value="NIST IR 7666"/>
     <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
     <author fullname="Fang Jiang" initials="F." surname="Jiang"/>
     <author fullname="Abhijit Narvekar" initials="A." surname="Narvekar"/>
@@ -9,6 +10,13 @@
     <author fullname="Alice O'Toole" initials="A." surname="O'Toole"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

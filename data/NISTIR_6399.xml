@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6399" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6399.pdf">
   <front>
-    <title>Deterioration of Iowa highway concrete pavements: a petrographic study</title>
+    <title>Deterioration of Iowa highway concrete pavements:a petrographic study</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6399"/>
+    <seriesInfo name="NIST" value="NIST IR 6399"/>
     <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

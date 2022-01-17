@@ -2,10 +2,18 @@
   <front>
     <title>A bibliography on automated measurements (July 1, 1969, to July 1, 1974)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-801"/>
+    <seriesInfo name="NIST" value="NBS IR 75-801"/>
     <author fullname="Gloria Teamer" initials="G." surname="Teamer"/>
     <author fullname="Anne Rumfelt" initials="A." surname="Rumfelt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

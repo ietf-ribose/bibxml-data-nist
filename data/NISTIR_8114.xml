@@ -2,12 +2,28 @@
   <front>
     <title>Report on lightweight cryptography</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8114"/>
-    <author fullname="Kerry McKay" initials="K." surname="McKay"/>
-    <author fullname="Larry Bassham" initials="L." surname="Bassham"/>
-    <author fullname="MeltemSonmez Turan" initials="M.S." surname="Turan"/>
-    <author fullname="Nicky Mouha" initials="N." surname="Mouha"/>
+    <seriesInfo name="NIST" value="NIST IR 8114"/>
+    <author fullname="Kerry McKay" initials="K." surname="McKay">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Larry Bassham" initials="L." surname="Bassham">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="MeltemSonmez Turan" initials="M.S." surname="Turan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nicky Mouha" initials="N." surname="Mouha">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="March"/>
   </front>

@@ -2,10 +2,19 @@
   <front>
     <title>Wireless User Requirements for the Factory Workcell</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-8r1"/>
-    <author fullname="Karl Montgomery" initials="K." surname="Montgomery"/>
-    <author fullname="Richard Candell" initials="R." surname="Candell"/>
-    <author fullname="Yongkang Liu" initials="Y." surname="Liu"/>
-    <author fullname="Mohamed Hany" initials="M." surname="Hany"/>
+    <seriesInfo name="NIST" value="NIST AMS 300-8r1"/>
+    <author fullname="Karl Montgomery" initials="K." surname="Montgomery">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Candell" initials="R." surname="Candell">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Yongkang Liu" initials="Y." surname="Liu">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mohamed Hany" initials="M." surname="Hany">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

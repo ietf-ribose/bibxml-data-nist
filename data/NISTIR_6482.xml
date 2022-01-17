@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6482" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6482.pdf">
   <front>
-    <title>A prototype model for simulating barrier fire performance: CFAST.GYPST</title>
+    <title>A prototype model for simulating barrier fire performance:CFAST.GYPST</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6482"/>
+    <seriesInfo name="NIST" value="NIST IR 6482"/>
     <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
     <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

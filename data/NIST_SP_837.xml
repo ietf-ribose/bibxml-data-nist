@@ -2,10 +2,18 @@
   <front>
     <title>Science, technology and competitiveness</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.837"/>
+    <seriesInfo name="NIST" value="NIST SP 837"/>
     <author surname="Hixenbaugh"/>
     <author surname="Hixenbaugh"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

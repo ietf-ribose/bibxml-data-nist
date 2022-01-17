@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.2956" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2956.pdf">
   <front>
-    <title>Tests of refrigeration and miscellaneous equipment : progress report July 1</title>
+    <title>Tests of refrigeration and miscellaneous equipment :progress report July 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.2956"/>
+    <seriesInfo name="NIST" value="NBS RPT 2956"/>
     <author surname="Achenbach"/>
     <author surname="Phillips"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1953"/>
   </front>

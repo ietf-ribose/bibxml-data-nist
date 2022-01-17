@@ -2,10 +2,18 @@
   <front>
     <title>Proceedings of defining the state of the art in software security tools workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-264"/>
+    <seriesInfo name="NIST" value="NIST SP 500-264"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

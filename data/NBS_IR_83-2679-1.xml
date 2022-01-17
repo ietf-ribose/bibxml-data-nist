@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.83-2679-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2679-1.pdf">
   <front>
-    <title>Technical aspects of critical materials use by the steel industry Volume I : summary report</title>
+    <title>Technical aspects of critical materials use by the steel industry Volume I :summary report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2679-1"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2679-1"/>
     <author fullname="Robert Mehrabian" initials="R." surname="Mehrabian"/>
     <author fullname="John McKinley" initials="J." surname="McKinley"/>
     <author fullname="Bruce Steiner" initials="B." surname="Steiner"/>
     <author fullname="Kirit Bhansali" initials="K." surname="Bhansali"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

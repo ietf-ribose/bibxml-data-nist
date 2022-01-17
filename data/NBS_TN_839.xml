@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.839" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote839.pdf">
   <front>
-    <title>Fire detection : the state-of-the-art</title>
+    <title>Fire detection :the state-of-the-art</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.839"/>
+    <seriesInfo name="NIST" value="NBS TN 839"/>
     <author fullname="Richard Custer" initials="R." surname="Custer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

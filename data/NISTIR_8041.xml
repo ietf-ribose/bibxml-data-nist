@@ -2,7 +2,10 @@
   <front>
     <title>Proceedings of the Cybersecurity for Direct Digital Manufacturing (DDM) Symposium</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8041"/>
-    <author fullname="Celia Paulsen" initials="C." surname="Paulsen"/>
+    <seriesInfo name="NIST" value="NIST IR 8041"/>
+    <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

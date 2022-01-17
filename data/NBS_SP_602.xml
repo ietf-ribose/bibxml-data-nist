@@ -2,6 +2,7 @@
   <front>
     <title>NBSRIA Robotics Research Workshop</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.602"/>
+    <seriesInfo name="NIST" value="NBS SP 602"/>
     <author fullname="James Albus" initials="J." surname="Albus"/>
     <author fullname="Gordon VanderBrug" initials="G." surname="VanderBrug"/>
     <author fullname="Anthony Barbera" initials="A." surname="Barbera"/>
@@ -9,6 +10,13 @@
     <author fullname="Thomas Wheatley" initials="T." surname="Wheatley"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

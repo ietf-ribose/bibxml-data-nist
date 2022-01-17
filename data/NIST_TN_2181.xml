@@ -2,8 +2,13 @@
   <front>
     <title>Load Forecasting Tool for NIST Transactive Energy Market</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2181"/>
-    <author fullname="Farhad Omar" initials="F." surname="Omar"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
+    <seriesInfo name="NIST" value="NIST TN 2181"/>
+    <author fullname="Farhad Omar" initials="F." surname="Omar">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Holmberg" initials="D." surname="Holmberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

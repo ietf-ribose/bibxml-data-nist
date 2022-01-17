@@ -2,10 +2,18 @@
   <front>
     <title>Integer representation of decimal numbers for exact computations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7144"/>
+    <seriesInfo name="NIST" value="NIST IR 7144"/>
     <author fullname="Javier Bernal" initials="J." surname="Bernal"/>
     <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

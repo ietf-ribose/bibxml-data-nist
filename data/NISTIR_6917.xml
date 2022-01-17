@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6917" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6917.pdf">
   <front>
-    <title>Different timelines for different technologies: evidence from the advanced technology program</title>
+    <title>Different timelines for different technologies:evidence from the advanced technology program</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6917"/>
+    <seriesInfo name="NIST" value="NIST IR 6917"/>
     <author fullname="Jeanne Powell" initials="J." surname="Powell"/>
     <author fullname="Francisco Moris" initials="F." surname="Moris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

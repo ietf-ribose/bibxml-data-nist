@@ -2,6 +2,7 @@
   <front>
     <title>FRVT 2006 and ICE 2006 large-scale results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7408"/>
+    <seriesInfo name="NIST" value="NIST IR 7408"/>
     <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
     <author fullname="Todd Scruggs" initials="T." surname="Scruggs"/>
     <author fullname="Alice O'Toole" initials="A." surname="O'Toole"/>
@@ -11,6 +12,13 @@
     <author fullname="Matthew Sharpe" initials="M." surname="Sharpe"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

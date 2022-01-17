@@ -2,12 +2,28 @@
   <front>
     <title>Interlaboratory mechanical-property study for Cobalt-Chromium alloy made by laser powder-bed-fusion additive manufacturing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2006"/>
-    <author fullname="John Slotwinski" initials="J." surname="Slotwinski"/>
-    <author fullname="William Luecke" initials="W." surname="Luecke"/>
-    <author fullname="Eric Lass" initials="E." surname="Lass"/>
-    <author fullname="Antonio Possolo" initials="A." surname="Possolo"/>
+    <seriesInfo name="NIST" value="NIST TN 2006"/>
+    <author fullname="John Slotwinski" initials="J." surname="Slotwinski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Luecke" initials="W." surname="Luecke">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Eric Lass" initials="E." surname="Lass">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Antonio Possolo" initials="A." surname="Possolo">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August"/>
   </front>

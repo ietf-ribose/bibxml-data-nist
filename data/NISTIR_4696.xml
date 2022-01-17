@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4696" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4696.pdf">
   <front>
-    <title>Polymers, NAS-NRC assessment panel February 13-14, 1992: Materials Science and Engineering Laboratory</title>
+    <title>Polymers, NAS-NRC assessment panel February 13-14, 1992:Materials Science and Engineering Laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4696"/>
+    <seriesInfo name="NIST" value="NIST IR 4696"/>
     <author surname="Smith"/>
     <author surname="Fanconi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

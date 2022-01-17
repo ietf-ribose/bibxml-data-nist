@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.570" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular570.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 570: units and systems of weights and measures- their origin, development, and present status</title>
+    <title>Circular of the Bureau of Standards no. 570:units and systems of weights and measures- their origin, development, and present status</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.570"/>
+    <seriesInfo name="NIST" value="NBS CIRC 570"/>
     <author fullname="Lewis Judson" initials="L." surname="Judson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1956"/>
   </front>

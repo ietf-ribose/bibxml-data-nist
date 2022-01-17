@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.1018-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1018-5.pdf">
   <front>
-    <title>Fire dynamics simulator (version 5) : technical reference guide</title>
+    <title>Fire dynamics simulator (version 5) :technical reference guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1018-5"/>
+    <seriesInfo name="NIST" value="NIST SP 1018-5"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
     <author fullname="Simo Hostikka" initials="S." surname="Hostikka"/>
     <author fullname="Jason Floyd" initials="J." surname="Floyd"/>
@@ -9,6 +10,13 @@
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

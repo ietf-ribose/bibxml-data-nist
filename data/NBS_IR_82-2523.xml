@@ -2,12 +2,20 @@
   <front>
     <title>A bibliography on laboratory accreditation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2523"/>
+    <seriesInfo name="NIST" value="NBS IR 82-2523"/>
     <author fullname="James Bryson" initials="J." surname="Bryson"/>
     <author fullname="Lisa Drake" initials="L." surname="Drake"/>
     <author fullname="Wiley Hall" initials="W." surname="Hall"/>
     <author fullname="Douglas Thomas" initials="D." surname="Thomas"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

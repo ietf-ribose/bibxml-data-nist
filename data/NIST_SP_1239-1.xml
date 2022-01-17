@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.1239-1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1239-1.pdf">
   <front>
-    <title>NIST conference papers fiscal year 2017: volume 1: Engineering Laboratory</title>
+    <title>NIST conference papers fiscal year 2017:volume 1: Engineering Laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1239-1"/>
-    <author role="editor" fullname="Andrea Medina-Smith" initials="A." surname="Medina-Smith"/>
-    <author role="editor" fullname="Kathryn Miller" initials="K." surname="Miller"/>
-    <author role="editor" fullname="Karen Wick" initials="K." surname="Wick"/>
+    <seriesInfo name="NIST" value="NIST SP 1239-1"/>
+    <author role="editor" fullname="Andrea Medina-Smith" initials="A." surname="Medina-Smith">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
+    <author role="editor" fullname="Kathryn Miller" initials="K." surname="Miller">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
+    <author role="editor" fullname="Karen Wick" initials="K." surname="Wick">
+      <organization>National Institute of Standards and Technology.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August"/>
   </front>

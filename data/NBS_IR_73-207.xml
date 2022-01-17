@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.73-207" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-207.pdf">
   <front>
-    <title>Chemical kinetics data survey vi : photochemical and rate data for twelve gas phase reactions of interest for atmospheric chemistry</title>
+    <title>Chemical kinetics data survey vi :photochemical and rate data for twelve gas phase reactions of interest for atmospheric chemistry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-207"/>
+    <seriesInfo name="NIST" value="NBS IR 73-207"/>
     <author surname="Hampson"/>
     <author surname="Garvin"/>
     <author surname="Herron"/>
@@ -13,6 +14,13 @@
     <author surname="Tsang"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

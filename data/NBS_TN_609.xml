@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.609" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote609.pdf">
   <front>
-    <title>Study of cryogenic storage tank fatigue life : low temperature mechanical testing of AISI 304 and 310 stainless steels</title>
+    <title>Study of cryogenic storage tank fatigue life :low temperature mechanical testing of AISI 304 and 310 stainless steels</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.609"/>
+    <seriesInfo name="NIST" value="NBS TN 609"/>
     <author surname="Reed"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

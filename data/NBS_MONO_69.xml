@@ -1,11 +1,19 @@
 <reference anchor="NBS.MONO.69" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph69.pdf">
   <front>
-    <title>Shielding against gamma rays, neutrons, and electrons from nuclear weapons : a review and bibliography</title>
+    <title>Shielding against gamma rays, neutrons, and electrons from nuclear weapons :a review and bibliography</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.69"/>
+    <seriesInfo name="NIST" value="NBS MONO 69"/>
     <author surname="Hubbell"/>
     <author surname="Spencer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

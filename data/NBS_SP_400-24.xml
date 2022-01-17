@@ -2,10 +2,18 @@
   <front>
     <title>A laser scanner for semiconductor devices</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.400-24"/>
+    <seriesInfo name="NIST" value="NBS SP 400-24"/>
     <author fullname="David Sawyer" initials="D." surname="Sawyer"/>
     <author fullname="David Berning" initials="D." surname="Berning"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

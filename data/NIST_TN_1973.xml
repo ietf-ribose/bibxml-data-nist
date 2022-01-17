@@ -2,12 +2,28 @@
   <front>
     <title>A methodology for estimating seismic retroft costs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1973"/>
-    <author fullname="Juan Fung" initials="J." surname="Fung"/>
-    <author fullname="David Butry" initials="D." surname="Butry"/>
-    <author fullname="Siamak Sattar" initials="S." surname="Sattar"/>
-    <author fullname="Steven McCabe" initials="S." surname="McCabe"/>
+    <seriesInfo name="NIST" value="NIST TN 1973"/>
+    <author fullname="Juan Fung" initials="J." surname="Fung">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Butry" initials="D." surname="Butry">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Siamak Sattar" initials="S." surname="Sattar">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven McCabe" initials="S." surname="McCabe">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="September"/>
   </front>

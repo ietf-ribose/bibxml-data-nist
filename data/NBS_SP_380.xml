@@ -2,12 +2,20 @@
   <front>
     <title>Photonuclear reaction data, 1973</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.380"/>
+    <seriesInfo name="NIST" value="NBS SP 380"/>
     <author surname="Fuller"/>
     <author surname="Gerstenberg"/>
     <author fullname="Vander Molen" initials="V." surname="Molen"/>
     <author surname="Dunn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

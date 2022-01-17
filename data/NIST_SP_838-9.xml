@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.838-9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication838-9.pdf">
   <front>
-    <title>Publications 1995 : NIST Building &amp; Fire Research Laboratory</title>
+    <title>Publications 1995 :NIST Building &amp; Fire Research Laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.838-9"/>
+    <seriesInfo name="NIST" value="NIST SP 838-9"/>
     <author fullname="Nora Jason" initials="N." surname="Jason"/>
     <author fullname="Nora Jason" initials="N." surname="Jason"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.74-555" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-555.pdf">
   <front>
-    <title>City Games : an executive's overview</title>
+    <title>City Games :an executive's overview</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.74-555"/>
+    <seriesInfo name="NIST" value="NBS IR 74-555"/>
     <author fullname="John Moriarty" initials="J." surname="Moriarty"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

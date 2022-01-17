@@ -2,11 +2,19 @@
   <front>
     <title>A simulation analysis of BACnet local area networks</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7038"/>
+    <seriesInfo name="NIST" value="NIST IR 7038"/>
     <author fullname="WongSeok Song" initials="W.S." surname="Song"/>
     <author fullname="SeungHo Hong" initials="S.H." surname="Hong"/>
     <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

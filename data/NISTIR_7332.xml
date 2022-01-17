@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.7332" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7332.pdf">
   <front>
-    <title>NCMC-9: combinatorial methods for nanostructure materials, NCMC workshop report</title>
+    <title>NCMC-9:combinatorial methods for nanostructure materials, NCMC workshop report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7332"/>
+    <seriesInfo name="NIST" value="NIST IR 7332"/>
     <author fullname="Michael Fasokla" initials="M." surname="Fasokla"/>
     <author fullname="Carol Laumeire" initials="C." surname="Laumeire"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

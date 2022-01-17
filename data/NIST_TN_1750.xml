@@ -2,10 +2,22 @@
   <front>
     <title>Annex 47 Extended Project Summary</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1750"/>
-    <author fullname="Daniel Choiniére" initials="D." surname="Choiniére"/>
-    <author fullname="Natascha Milesi Ferretti" initials="N." surname="Milesi Ferretti"/>
+    <seriesInfo name="NIST" value="NIST TN 1750"/>
+    <author fullname="Daniel Choiniére" initials="D." surname="Choiniére">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Natascha Milesi Ferretti" initials="N." surname="Milesi Ferretti">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="September"/>
   </front>

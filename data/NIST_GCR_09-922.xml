@@ -2,9 +2,19 @@
   <front>
     <title>Radiation transport measurement in methanol pool fires with fourier transform infrared spectroscopy</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.09-922"/>
-    <author fullname="Aykut Yilmaz" initials="A." surname="Yilmaz"/>
+    <seriesInfo name="NIST" value="NIST GCR 09-922"/>
+    <author fullname="Aykut Yilmaz" initials="A." surname="Yilmaz">
+      <organization>Building and Fire Research Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009" month="January"/>
   </front>

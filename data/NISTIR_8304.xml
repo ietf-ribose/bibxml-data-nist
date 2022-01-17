@@ -1,9 +1,14 @@
-<reference anchor="NISTIR.8304" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8304.pdf">
+<reference anchor="NIST.IR.8304" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8304.pdf">
   <front>
     <title>SATE VI Ockham Sound Analysis Criteria</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8304"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="KanwardeepSingh Walia" initials="K.S." surname="Walia"/>
+    <seriesInfo name="NIST" value="NIST IR 8304"/>
+    <author fullname="Paul Black" initials="P." surname="Black">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="KanwardeepSingh Walia" initials="K.S." surname="Walia">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

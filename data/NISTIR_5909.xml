@@ -2,12 +2,20 @@
   <front>
     <title>Group 1 for the process engineering data STEP application protocol</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5909"/>
+    <seriesInfo name="NIST" value="NIST IR 5909"/>
     <author fullname="Steven Kline" initials="S." surname="Kline"/>
     <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
     <author fullname="Neal Appel" initials="N." surname="Appel"/>
     <author fullname="Mitch Gilbert" initials="M." surname="Gilbert"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

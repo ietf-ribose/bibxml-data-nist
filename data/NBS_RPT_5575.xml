@@ -2,6 +2,7 @@
   <front>
     <title>Measurements of the power spectrum of fading in tropospheric scatter propagation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.5575"/>
+    <seriesInfo name="NIST" value="NBS RPT 5575"/>
     <author surname="Barghausen"/>
     <author surname="Janes"/>
     <author surname="Guiraud"/>
@@ -9,6 +10,13 @@
     <author surname="Peterson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958" month="May"/>
   </front>

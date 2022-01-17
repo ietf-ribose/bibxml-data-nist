@@ -1,11 +1,19 @@
 <reference anchor="NBS.MONO.27supp2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph27supp2.pdf">
   <front>
-    <title>Bibliography of temperature measurement : July 1960 to December 1962</title>
+    <title>Bibliography of temperature measurement :July 1960 to December 1962</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.27supp2"/>
+    <seriesInfo name="NIST" value="NBS MONO 27supp2"/>
     <author fullname="Lief Olsen" initials="L." surname="Olsen"/>
     <author fullname="Carl Halpern" initials="C." surname="Halpern"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1963"/>
   </front>

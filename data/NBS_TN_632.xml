@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.632" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote632.pdf">
   <front>
-    <title>Frequency stability specification and measurement : high frequency and microwave signals</title>
+    <title>Frequency stability specification and measurement :high frequency and microwave signals</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.632"/>
+    <seriesInfo name="NIST" value="NBS TN 632"/>
     <author surname="Shoaf"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

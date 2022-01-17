@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.260-163" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-163.pdf">
   <front>
-    <title>Standard Reference Materials 2840 to 2482 Composition standards for AlGaAs epitaxial layers</title>
+    <title>Standard Reference Materials 2840 to 2482Composition standards for AlGaAs epitaxial layers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-163"/>
+    <seriesInfo name="NIST" value="NIST SP 260-163"/>
     <author fullname="Todd Harvey" initials="T." surname="Harvey"/>
     <author fullname="Albert Paul" initials="A." surname="Paul"/>
     <author fullname="Lawrence Robins" initials="L." surname="Robins"/>
     <author fullname="Kris Bertness" initials="K." surname="Bertness"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

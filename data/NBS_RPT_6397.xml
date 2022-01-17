@@ -1,9 +1,17 @@
 <reference anchor="NBS.RPT.6397" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6397.pdf">
   <front>
-    <title>Manual on experimental statistics for ordnance engineers: part II, section 4 (sensitivity testing)</title>
+    <title>Manual on experimental statistics for ordnance engineers:part II, section 4 (sensitivity testing)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6397"/>
+    <seriesInfo name="NIST" value="NBS RPT 6397"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

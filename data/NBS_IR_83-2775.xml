@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.83-2775" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2775.pdf">
   <front>
-    <title>Conference on standards, measurements, quality control and production for economic support and growth : a record of the U.S. papers to be presented at the conference on standards, measurements, quality control and production for economic support and growth to be held in Cairo, Egypt. October 29-31, 1983</title>
+    <title>Conference on standards, measurements, quality control and production for economic support and growth :a record of the U.S. papers to be presented at the conference on standards, measurements, quality control and production for economic support and growth to be held in Cairo, Egypt. October 29-31, 1983</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2775"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2775"/>
     <author fullname="Ernest Ambler" initials="E." surname="Ambler"/>
     <author fullname="Richard Goodemote" initials="R." surname="Goodemote"/>
     <author fullname="John Donaldson" initials="J." surname="Donaldson"/>
@@ -11,6 +12,13 @@
     <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

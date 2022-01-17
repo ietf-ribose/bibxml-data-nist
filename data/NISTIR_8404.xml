@@ -1,8 +1,11 @@
-<reference anchor="NISTIR.8404" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8404.pdf">
+<reference anchor="NIST.IR.8404" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8404.pdf">
   <front>
     <title>Twenty-Fourth Annual Report on Federal Agency Use of Voluntary Consensus Standards and Conformity Assessment Activities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8404"/>
-    <author fullname="Nathalie Rioux" initials="N." surname="Rioux"/>
+    <seriesInfo name="NIST" value="NIST IR 8404"/>
+    <author fullname="Nathalie Rioux" initials="N." surname="Rioux">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6875" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6875.pdf">
   <front>
-    <title>Final report: effective non-toxic metallic fire suppressants</title>
+    <title>Final report:effective non-toxic metallic fire suppressants</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6875"/>
+    <seriesInfo name="NIST" value="NIST IR 6875"/>
     <author fullname="Gregory Linteris" initials="G." surname="Linteris"/>
     <author fullname="Marc Rumminger" initials="M." surname="Rumminger"/>
     <author fullname="Valeri Babushok" initials="V." surname="Babushok"/>
@@ -10,6 +11,13 @@
     <author fullname="Pasan Wanigarathe" initials="P." surname="Wanigarathe"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -2,9 +2,19 @@
   <front>
     <title>Development of a spatially resolved optical technique for measuring heat flux and thermal footprint of firebrand piles</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2052"/>
-    <author fullname="Yasin Abul-Huda" initials="Y." surname="Abul-Huda"/>
+    <seriesInfo name="NIST" value="NIST TN 2052"/>
+    <author fullname="Yasin Abul-Huda" initials="Y." surname="Abul-Huda">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July"/>
   </front>

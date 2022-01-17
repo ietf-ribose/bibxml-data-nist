@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.3968" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3968.pdf">
   <front>
-    <title>Report no. 23- residual stress detection in railroad wheels : an ultrasonic system using EMATS</title>
+    <title>Report no. 23- residual stress detection in railroad wheels :an ultrasonic system using EMATS</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.3968"/>
+    <seriesInfo name="NIST" value="NIST IR 3968"/>
     <author fullname="Raymond Schramm" initials="R." surname="Schramm"/>
     <author fullname="Alfred Clark" initials="A." surname="Clark"/>
     <author fullname="Dragan Mitrakovic" initials="D." surname="Mitrakovic"/>
@@ -9,6 +10,13 @@
     <author fullname="Todd McGuire" initials="T." surname="McGuire"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

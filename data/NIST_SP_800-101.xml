@@ -2,10 +2,22 @@
   <front>
     <title>Guidelines on cell phone forensics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-101"/>
-    <author surname="Jansen"/>
-    <author surname="Ayers"/>
+    <seriesInfo name="NIST" value="NIST SP 800-101"/>
+    <author surname="Jansen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Ayers">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>2004 conference on IEEE 1588, standard for a precision clock synchronization protocol for networked measurement and control systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7192"/>
+    <seriesInfo name="NIST" value="NIST IR 7192"/>
     <author fullname="Kang Lee" initials="K." surname="Lee"/>
     <author fullname="John Eidson" initials="J." surname="Eidson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

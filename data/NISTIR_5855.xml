@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.5855" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5855.pdf">
   <front>
-    <title>Specification for interoperability between ballistic imaging systems: part 1- cartridge cases</title>
+    <title>Specification for interoperability between ballistic imaging systems:part 1- cartridge cases</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5855"/>
+    <seriesInfo name="NIST" value="NIST IR 5855"/>
     <author fullname="Bruce Field" initials="B." surname="Field"/>
     <author fullname="Edward Kelley" initials="E." surname="Kelley"/>
     <author fullname="Michael McCabe" initials="M." surname="McCabe"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

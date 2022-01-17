@@ -1,11 +1,19 @@
 <reference anchor="NBS.CIRC.540" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular540.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 540: weights and measures case reference book (through July 1952 court decisions)</title>
+    <title>Circular of the Bureau of Standards no. 540:weights and measures case reference book (through July 1952 court decisions)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.540"/>
+    <seriesInfo name="NIST" value="NBS CIRC 540"/>
     <author fullname="Kathryn Schwartz" initials="K." surname="Schwartz"/>
     <author fullname="William Bussey" initials="W." surname="Bussey"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1953"/>
   </front>

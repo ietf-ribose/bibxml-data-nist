@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5712" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5712.pdf">
   <front>
-    <title>Indoor air quality impacts of residential HVAC systems, phase II. B report: IAQ control retrofit simulations and analysis</title>
+    <title>Indoor air quality impacts of residential HVAC systems, phase II. B report:IAQ control retrofit simulations and analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5712"/>
+    <seriesInfo name="NIST" value="NIST IR 5712"/>
     <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
     <author fullname="Andrew Persily" initials="A." surname="Persily"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

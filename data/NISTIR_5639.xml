@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.5639" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5639.pdf">
   <front>
-    <title>Certification of the standard reference material 1473a: a low density polyethylene resin</title>
+    <title>Certification of the standard reference material 1473a:a low density polyethylene resin</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5639"/>
+    <seriesInfo name="NIST" value="NIST IR 5639"/>
     <author surname="Maurey"/>
     <author surname="Blair"/>
     <author surname="Guttman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

@@ -1,17 +1,41 @@
 <reference anchor="NIST.IR.8266" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8266.pdf">
   <front>
-    <title>Dietary Supplement Laboratory Quality Assurance Program: exercise O final report</title>
+    <title>Dietary Supplement Laboratory Quality Assurance Program:exercise O final report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8266"/>
-    <author fullname="Charles Barber" initials="C." surname="Barber"/>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips"/>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer"/>
-    <author fullname="Laura Wood" initials="L." surname="Wood"/>
-    <author fullname="Maria Ale" initials="M." surname="Ale"/>
-    <author fullname="Stephen Long" initials="S." surname="Long"/>
-    <author fullname="Elizabeth Mudge" initials="E." surname="Mudge"/>
-    <author fullname="Shannon Whitehead" initials="S." surname="Whitehead"/>
+    <seriesInfo name="NIST" value="NIST IR 8266"/>
+    <author fullname="Charles Barber" initials="C." surname="Barber">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Laura Wood" initials="L." surname="Wood">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Maria Ale" initials="M." surname="Ale">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Stephen Long" initials="S." surname="Long">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Elizabeth Mudge" initials="E." surname="Mudge">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Shannon Whitehead" initials="S." surname="Whitehead">
+      <organization>Material Measurement Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September"/>
   </front>

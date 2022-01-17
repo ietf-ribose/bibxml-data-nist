@@ -2,8 +2,16 @@
   <front>
     <title>Standards for security categorization of federal information and information systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.FIPS.199"/>
+    <seriesInfo name="NIST" value="NIST FIPS 199"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004" month="February"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4420" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4420.pdf">
   <front>
-    <title>3D piping IGES application protocol: version 1.0</title>
+    <title>3D piping IGES application protocol:version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4420"/>
+    <seriesInfo name="NIST" value="NIST IR 4420"/>
     <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
     <author fullname="Kent Reed" initials="K." surname="Reed"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

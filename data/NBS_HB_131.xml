@@ -2,12 +2,20 @@
   <front>
     <title>Using ANS FOTRAN</title>
     <seriesInfo name="DOI" value="10.6028/NBS.HB.131"/>
+    <seriesInfo name="NIST" value="NBS HB 131"/>
     <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
     <author fullname="Fraces Holberton" initials="F." surname="Holberton"/>
     <author surname="Larmouth"/>
     <author surname="McIlroy"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.15" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular15.pdf">
   <front>
-    <title>Bureau circular no. 15: the international unit of light</title>
+    <title>Bureau circular no. 15:the international unit of light</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.15"/>
+    <seriesInfo name="NIST" value="NBS CIRC 15"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1909"/>
   </front>

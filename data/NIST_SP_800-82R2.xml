@@ -2,11 +2,22 @@
   <front>
     <title>Guide to Industrial Control Systems (ICS) Security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-82r2"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri"/>
-    <author fullname="Suzanne Lightman" initials="S." surname="Lightman"/>
-    <author fullname="Marshall Abrams" initials="M." surname="Abrams"/>
-    <author fullname="Adam Hahn" initials="A." surname="Hahn"/>
+    <seriesInfo name="NIST" value="NIST SP 800-82r2"/>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Suzanne Lightman" initials="S." surname="Lightman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Marshall Abrams" initials="M." surname="Abrams">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Adam Hahn" initials="A." surname="Hahn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,9 +2,17 @@
   <front>
     <title>Latent fingerprint training with NIST special database 27 and universal latent workstation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6799"/>
+    <seriesInfo name="NIST" value="NIST IR 6799"/>
     <author fullname="Michael Garris" initials="M." surname="Garris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

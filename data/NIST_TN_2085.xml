@@ -2,10 +2,22 @@
   <front>
     <title>Workshop on smart grid interoperability testing and certification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2085"/>
-    <author fullname="Cuong Nguyen" initials="C." surname="Nguyen"/>
-    <author fullname="Avi Gopstein" initials="A." surname="Gopstein"/>
+    <seriesInfo name="NIST" value="NIST TN 2085"/>
+    <author fullname="Cuong Nguyen" initials="C." surname="Nguyen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Avi Gopstein" initials="A." surname="Gopstein">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="January"/>
   </front>

@@ -2,12 +2,28 @@
   <front>
     <title>Helium Dispersion in an Attached Single-Car Residential Garage with and Without Vehicle</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1731"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
-    <author fullname="Marco Fernandez" initials="M." surname="Fernandez"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
+    <seriesInfo name="NIST" value="NIST TN 1731"/>
+    <author fullname="William Pitts" initials="W." surname="Pitts">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jiann Yang" initials="J." surname="Yang">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Marco Fernandez" initials="M." surname="Fernandez">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="October"/>
   </front>

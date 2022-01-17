@@ -2,14 +2,34 @@
   <front>
     <title>Fog computing conceptual model</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-325"/>
-    <author fullname="Michaela Iorga" initials="M." surname="Iorga"/>
-    <author fullname="Larry Feldman" initials="L." surname="Feldman"/>
-    <author fullname="Robert Barton" initials="R." surname="Barton"/>
-    <author fullname="Michael Martin" initials="M." surname="Martin"/>
-    <author fullname="Ned Goren" initials="N." surname="Goren"/>
-    <author fullname="Charif Mahmoudi" initials="C." surname="Mahmoudi"/>
+    <seriesInfo name="NIST" value="NIST SP 500-325"/>
+    <author fullname="Michaela Iorga" initials="M." surname="Iorga">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Larry Feldman" initials="L." surname="Feldman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Robert Barton" initials="R." surname="Barton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Martin" initials="M." surname="Martin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ned Goren" initials="N." surname="Goren">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Charif Mahmoudi" initials="C." surname="Mahmoudi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March"/>
   </front>

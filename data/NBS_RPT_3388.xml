@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.3388" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3388.pdf">
   <front>
-    <title>Shrinkage stresses in masonry walls: progress report no. 1</title>
+    <title>Shrinkage stresses in masonry walls:progress report no. 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.3388"/>
+    <seriesInfo name="NIST" value="NBS RPT 3388"/>
     <author surname="Reichard"/>
     <author surname="Watstein"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1954"/>
   </front>

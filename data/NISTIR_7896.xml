@@ -2,15 +2,37 @@
   <front>
     <title>Third-Round Report of the SHA-3 Cryptographic Hash Algorithm Competition</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7896"/>
-    <author fullname="Shu-jen Chang" initials="S." surname="Chang"/>
-    <author fullname="Ray Perlner" initials="R." surname="Perlner"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
-    <author fullname="Meltem Sonmez Turan" initials="M." surname="Sonmez Turan"/>
-    <author fullname="John Kelsey" initials="J." surname="Kelsey"/>
-    <author fullname="Souradyuti Paul" initials="S." surname="Paul"/>
-    <author fullname="Lawrence Bassham" initials="L." surname="Bassham"/>
+    <seriesInfo name="NIST" value="NIST IR 7896"/>
+    <author fullname="Shu-jen Chang" initials="S." surname="Chang">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ray Perlner" initials="R." surname="Perlner">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William Burr" initials="W." surname="Burr">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Meltem Sonmez Turan" initials="M." surname="Sonmez Turan">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Kelsey" initials="J." surname="Kelsey">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Souradyuti Paul" initials="S." surname="Paul">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lawrence Bassham" initials="L." surname="Bassham">
+      <organization>Conputer Security Division, Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="November"/>
   </front>

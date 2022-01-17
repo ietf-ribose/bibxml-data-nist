@@ -2,15 +2,37 @@
   <front>
     <title>Charter of the Institute Directors Council: Manufacturing USA</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-1"/>
-    <author fullname="Craig Blue" initials="C." surname="Blue"/>
-    <author fullname="Larry Brown" initials="L." surname="Brown"/>
-    <author fullname="Yoel Fink" initials="Y." surname="Fink"/>
-    <author fullname="Nick Justice" initials="N." surname="Justice"/>
-    <author fullname="Michael Liehr" initials="M." surname="Liehr"/>
-    <author fullname="Tom McDermott" initials="T." surname="McDermott"/>
-    <author fullname="Ed Morris" initials="E." surname="Morris"/>
+    <seriesInfo name="NIST" value="NIST AMS 600-1"/>
+    <author fullname="Craig Blue" initials="C." surname="Blue">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Larry Brown" initials="L." surname="Brown">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Yoel Fink" initials="Y." surname="Fink">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Nick Justice" initials="N." surname="Justice">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Michael Liehr" initials="M." surname="Liehr">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Tom McDermott" initials="T." surname="McDermott">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Ed Morris" initials="E." surname="Morris">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November"/>
   </front>

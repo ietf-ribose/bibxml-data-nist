@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7174.pdf">
   <front>
-    <title>Evaluation best practices and results : the advanced technology program</title>
+    <title>Evaluation best practices and results :the advanced technology program</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7174"/>
+    <seriesInfo name="NIST" value="NIST IR 7174"/>
     <author fullname="Stephanie Shipp" initials="S." surname="Shipp"/>
     <author fullname="Connie Chang" initials="C." surname="Chang"/>
     <author fullname="Lorel Wisniewski" initials="L." surname="Wisniewski"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

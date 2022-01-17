@@ -2,10 +2,18 @@
   <front>
     <title>A sprinkler fire suppression algorithm for the GSA engineering fire assessment system</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4833"/>
+    <seriesInfo name="NIST" value="NIST IR 4833"/>
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
     <author fullname="Robert Vettori" initials="R." surname="Vettori"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

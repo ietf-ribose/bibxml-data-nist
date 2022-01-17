@@ -1,10 +1,18 @@
 <reference anchor="NBS.MONO.102" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph102.pdf">
   <front>
-    <title>Effects of finite lattice capacity on spin lattice relaxation : theory and numerical analysis</title>
+    <title>Effects of finite lattice capacity on spin lattice relaxation :theory and numerical analysis</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.102"/>
+    <seriesInfo name="NIST" value="NBS MONO 102"/>
     <author fullname="Robert Peterson" initials="R." surname="Peterson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

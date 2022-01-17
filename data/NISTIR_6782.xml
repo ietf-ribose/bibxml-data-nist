@@ -2,10 +2,18 @@
   <front>
     <title>Admission, discharge, and transfer system projection profile (ADT-PP) (an ISO.IEC 15408 security protection profile for a healthcare IT application system)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6782"/>
+    <seriesInfo name="NIST" value="NIST IR 6782"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
     <author fullname="Glen Marshall" initials="G." surname="Marshall"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Standard Reference Materials Catalog</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-176"/>
-    <author role="editor" fullname="Regina Montgomery" initials="R." surname="Montgomery"/>
-    <author role="editor" fullname="Joan Sauerwein" initials="J." surname="Sauerwein"/>
+    <seriesInfo name="NIST" value="NIST SP 260-176"/>
+    <author role="editor" fullname="Regina Montgomery" initials="R." surname="Montgomery">
+      <organization>Office of Reference Materials</organization>
+    </author>
+    <author role="editor" fullname="Joan Sauerwein" initials="J." surname="Sauerwein">
+      <organization>Office of Reference Materials</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January"/>
   </front>

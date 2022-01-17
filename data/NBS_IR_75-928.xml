@@ -2,11 +2,19 @@
   <front>
     <title>The National Measurement System for mass, volume and density</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-928"/>
+    <seriesInfo name="NIST" value="NBS IR 75-928"/>
     <author fullname="Paul Pontius" initials="P." surname="Pontius"/>
     <author fullname="James Whetstone" initials="J." surname="Whetstone"/>
     <author fullname="John Simpson" initials="J." surname="Simpson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

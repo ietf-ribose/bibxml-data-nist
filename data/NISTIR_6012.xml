@@ -2,12 +2,20 @@
   <front>
     <title>The NIST DMIS interpreter</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6012"/>
+    <seriesInfo name="NIST" value="NIST IR 6012"/>
     <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
     <author fullname="Frederick Proctor" initials="F." surname="Proctor"/>
     <author fullname="William Rippey" initials="W." surname="Rippey"/>
     <author fullname="Harry Scott" initials="H." surname="Scott"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

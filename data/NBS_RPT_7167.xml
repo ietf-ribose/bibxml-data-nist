@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.7167" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7167.pdf">
   <front>
-    <title>On the synthetic record problem: autoregressive models for stream discharge</title>
+    <title>On the synthetic record problem:autoregressive models for stream discharge</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.7167"/>
+    <seriesInfo name="NIST" value="NBS RPT 7167"/>
     <author fullname="JoanRaup Rosenblatt" initials="J.R." surname="Rosenblatt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1961"/>
   </front>

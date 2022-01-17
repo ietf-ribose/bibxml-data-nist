@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5667v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5667v2.pdf">
   <front>
-    <title>A study of potential applications of automation and robotics technology in construction, maintenance and operation of highway systems: a final report</title>
+    <title>A study of potential applications of automation and robotics technology in construction, maintenance and operation of highway systems:a final report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5667v2"/>
+    <seriesInfo name="NIST" value="NIST IR 5667v2"/>
     <author fullname="Ernest Kent" initials="E." surname="Kent"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

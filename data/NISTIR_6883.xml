@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6883" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6883.pdf">
   <front>
-    <title>Analysis of the ASTM round-robin test on particle size distribution of Portland cement: phase I</title>
+    <title>Analysis of the ASTM round-robin test on particle size distribution of Portland cement:phase I</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6883"/>
+    <seriesInfo name="NIST" value="NIST IR 6883"/>
     <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
     <author fullname="Vincent Hackley" initials="V." surname="Hackley"/>
     <author fullname="AnaIvelisse Avilés" initials="A.I." surname="Avilés"/>
     <author fullname="CharlesJr Buchanan" initials="C.J." surname="Buchanan"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

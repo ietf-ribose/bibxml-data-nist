@@ -2,10 +2,22 @@
   <front>
     <title>Laboratory tests of a prototype carbon dioxide ground-source air conditioner</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2068"/>
-    <author fullname="Harrison Skye" initials="H." surname="Skye"/>
-    <author fullname="Wei Wu" initials="W." surname="Wu"/>
+    <seriesInfo name="NIST" value="NIST TN 2068"/>
+    <author fullname="Harrison Skye" initials="H." surname="Skye">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Wei Wu" initials="W." surname="Wu">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="October"/>
   </front>

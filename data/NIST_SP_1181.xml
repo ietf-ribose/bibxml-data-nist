@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.1181" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1181.pdf">
   <front>
-    <title>Unit pricing guide : a best practice approach to unit pricing</title>
+    <title>Unit pricing guide :a best practice approach to unit pricing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1181"/>
+    <seriesInfo name="NIST" value="NIST SP 1181"/>
     <author fullname="David Sefcik" initials="D." surname="Sefcik"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014"/>
   </front>

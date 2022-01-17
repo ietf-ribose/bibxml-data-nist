@@ -2,11 +2,22 @@
   <front>
     <title>gtklogger: A Tool For Systematically Testing Graphical User Interfaces</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1862"/>
-    <author fullname="Stephen Langer" initials="S." surname="Langer"/>
-    <author fullname="Yannick Congo" initials="Y." surname="Congo"/>
-    <author fullname="AndrewC.E. Reid" initials="A.C." surname="Reid"/>
-    <author fullname="Rhonald Lua" initials="R." surname="Lua"/>
-    <author fullname="Valerie Coffman" initials="V." surname="Coffman"/>
+    <seriesInfo name="NIST" value="NIST TN 1862"/>
+    <author fullname="Stephen Langer" initials="S." surname="Langer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Yannick Congo" initials="Y." surname="Congo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="AndrewC.E. Reid" initials="A.C." surname="Reid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rhonald Lua" initials="R." surname="Lua">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Valerie Coffman" initials="V." surname="Coffman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

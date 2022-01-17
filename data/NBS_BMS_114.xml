@@ -2,9 +2,17 @@
   <front>
     <title>Temperatures in a test bungalow with some radiant and jacketed space heaters</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BMS.114"/>
+    <seriesInfo name="NIST" value="NBS BMS 114"/>
     <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1949"/>
   </front>

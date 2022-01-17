@@ -2,11 +2,19 @@
   <front>
     <title>Model for the non-perturbative QCD vacuum</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4555"/>
+    <seriesInfo name="NIST" value="NIST IR 4555"/>
     <author fullname="Michael Danos" initials="M." surname="Danos"/>
     <author fullname="Daniel Gogny" initials="D." surname="Gogny"/>
     <author fullname="Daniel Iracane" initials="D." surname="Iracane"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

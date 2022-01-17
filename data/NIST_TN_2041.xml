@@ -2,15 +2,37 @@
   <front>
     <title>Towards a process to quantify the hazard of fire protection design alternatives</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2041"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Morgan Bruns" initials="M." surname="Bruns"/>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert"/>
-    <author fullname="Chandler MacLaren" initials="C." surname="MacLaren"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
-    <author fullname="David Butry" initials="D." surname="Butry"/>
+    <seriesInfo name="NIST" value="NIST TN 2041"/>
+    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Morgan Bruns" initials="M." surname="Bruns">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Chandler MacLaren" initials="C." surname="MacLaren">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Peacock" initials="R." surname="Peacock">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thomas Cleary" initials="T." surname="Cleary">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Butry" initials="D." surname="Butry">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May"/>
   </front>

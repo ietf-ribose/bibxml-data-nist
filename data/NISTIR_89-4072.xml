@@ -2,9 +2,17 @@
   <front>
     <title>AIRNET</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4072"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4072"/>
     <author fullname="George Walton" initials="G." surname="Walton"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

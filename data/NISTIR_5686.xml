@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5686" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5686.pdf">
   <front>
-    <title>Algorithm testing and evaluation program for coordinate measuring systems: testing methods</title>
+    <title>Algorithm testing and evaluation program for coordinate measuring systems:testing methods</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5686"/>
+    <seriesInfo name="NIST" value="NIST IR 5686"/>
     <author fullname="Cathleen Diaz" initials="C." surname="Diaz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

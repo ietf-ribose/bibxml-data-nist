@@ -2,12 +2,20 @@
   <front>
     <title>Technical reference manual for NIST automated computer time service (ACTS)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6611"/>
+    <seriesInfo name="NIST" value="NIST IR 6611"/>
     <author fullname="Judah Levine" initials="J." surname="Levine"/>
     <author fullname="Michael Lombardi" initials="M." surname="Lombardi"/>
     <author fullname="Lisa Nelson" initials="L." surname="Nelson"/>
     <author fullname="Victor Zhang" initials="V." surname="Zhang"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

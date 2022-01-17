@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.430" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular430.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 430: glass stopcocks</title>
+    <title>Circular of the Bureau of Standards no. 430:glass stopcocks</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.430"/>
+    <seriesInfo name="NIST" value="NBS CIRC 430"/>
     <author fullname="Martin Shepherd" initials="M." surname="Shepherd"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1941"/>
   </front>

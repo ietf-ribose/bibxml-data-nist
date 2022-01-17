@@ -2,11 +2,19 @@
   <front>
     <title>A calometerer for measuring high-energy optical pulses</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3008"/>
+    <seriesInfo name="NIST" value="NBS IR 84-3008"/>
     <author surname="Simpson"/>
     <author surname="Johnson"/>
     <author surname="Etzel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

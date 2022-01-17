@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.80-2106" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2106.pdf">
   <front>
-    <title>Soil impact attenuation performance : a field study</title>
+    <title>Soil impact attenuation performance :a field study</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2106"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2106"/>
     <author fullname="William Beine" initials="W." surname="Beine"/>
     <author fullname="John Sorrells" initials="J." surname="Sorrells"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

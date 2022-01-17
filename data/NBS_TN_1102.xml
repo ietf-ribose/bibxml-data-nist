@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.1102" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1102.pdf">
   <front>
-    <title>Large scale integration digital testing : annotated bibliography, 1969-1978</title>
+    <title>Large scale integration digital testing :annotated bibliography, 1969-1978</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1102"/>
+    <seriesInfo name="NIST" value="NBS TN 1102"/>
     <author surname="Leedy"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

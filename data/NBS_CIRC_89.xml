@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.89" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular89.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no.89: Recommended specifications for white paint and tinted paints made on a white base-semipaste and ready mixed</title>
+    <title>Circular of the Bureau of Standards no.89:Recommended specifications for white paint and tinted paints made on a white base-semipaste and ready mixed</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.89"/>
+    <seriesInfo name="NIST" value="NBS CIRC 89"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1920"/>
   </front>

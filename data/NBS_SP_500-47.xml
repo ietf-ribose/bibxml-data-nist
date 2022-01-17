@@ -2,9 +2,17 @@
   <front>
     <title>Data base reorganization</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-47"/>
+    <seriesInfo name="NIST" value="NBS SP 500-47"/>
     <author fullname="Gary Sockut" initials="G." surname="Sockut"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

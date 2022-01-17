@@ -2,10 +2,18 @@
   <front>
     <title>A technical overview of the information resource dictionary system</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3164"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3164"/>
     <author fullname="Alan Goldfine" initials="A." surname="Goldfine"/>
     <author fullname="Patricia Konig" initials="P." surname="Konig"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

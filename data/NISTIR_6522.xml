@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6522" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6522.pdf">
   <front>
-    <title>Silicon microelectronics programs at the National Institute of Standards and Technology: programs, activities, and accomplishments</title>
+    <title>Silicon microelectronics programs at the National Institute of Standards and Technology:programs, activities, and accomplishments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6522"/>
+    <seriesInfo name="NIST" value="NIST IR 6522"/>
     <author fullname="JoaquinMartinezde Pinillos" initials="J.M.d." surname="Pinillos"/>
     <author fullname="Stephen Knight" initials="S." surname="Knight"/>
     <author fullname="Alice Settle-Raskin" initials="A." surname="Settle-Raskin"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

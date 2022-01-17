@@ -2,13 +2,31 @@
   <front>
     <title>Evaluation infrastructure for the measurement of content-based video quality and video analytics performance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8187"/>
-    <author fullname="Haiying Guan" initials="H." surname="Guan"/>
-    <author fullname="Daniel Zhou" initials="D." surname="Zhou"/>
-    <author fullname="Jonathan Fiscus" initials="J." surname="Fiscus"/>
-    <author fullname="John Garofolo" initials="J." surname="Garofolo"/>
-    <author fullname="James Horan" initials="J." surname="Horan"/>
+    <seriesInfo name="NIST" value="NIST IR 8187"/>
+    <author fullname="Haiying Guan" initials="H." surname="Guan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Daniel Zhou" initials="D." surname="Zhou">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jonathan Fiscus" initials="J." surname="Fiscus">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Garofolo" initials="J." surname="Garofolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Horan" initials="J." surname="Horan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="July"/>
   </front>

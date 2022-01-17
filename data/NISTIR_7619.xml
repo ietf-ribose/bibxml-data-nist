@@ -2,6 +2,7 @@
   <front>
     <title>Visualization of structural behavior under fire</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7619"/>
+    <seriesInfo name="NIST" value="NIST IR 7619"/>
     <author fullname="Dilip Banerjee" initials="D." surname="Banerjee"/>
     <author fullname="John Gross" initials="J." surname="Gross"/>
     <author fullname="William Hess" initials="W." surname="Hess"/>
@@ -9,6 +10,13 @@
     <author fullname="Judith Terrill" initials="J." surname="Terrill"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

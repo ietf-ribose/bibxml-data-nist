@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.10652" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10652.pdf">
   <front>
-    <title>Evaluation of lead paint removal and detoxification methods: milestone report (7a)</title>
+    <title>Evaluation of lead paint removal and detoxification methods:milestone report (7a)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10652"/>
+    <seriesInfo name="NIST" value="NBS RPT 10652"/>
     <author fullname="Elizabeth Clark" initials="E." surname="Clark"/>
     <author fullname="Marilyn McPherson" initials="M." surname="McPherson"/>
     <author fullname="Leopold Skoda" initials="L." surname="Skoda"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

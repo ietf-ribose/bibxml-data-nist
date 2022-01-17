@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.80-2111-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2111-2.pdf">
   <front>
-    <title>Review and refinement of ATC 3-06 tentative seismic provisions : report of Technical Committee 2 : structural design</title>
+    <title>Review and refinement of ATC 3-06 tentative seismic provisions :report of Technical Committee 2 : structural design</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2111-2"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2111-2"/>
     <author fullname="JamesRobert Harris" initials="J.R." surname="Harris"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

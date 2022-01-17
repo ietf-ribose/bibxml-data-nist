@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.89-3916r1991" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3916r1991.pdf">
   <front>
-    <title>Time domain frequency stability calculated from the frequency domain description : use of the SIGINT software package to calculate time domain frequency stability from the frequency domain</title>
+    <title>Time domain frequency stability calculated from the frequency domain description :use of the SIGINT software package to calculate time domain frequency stability from the frequency domain</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3916r1991"/>
+    <seriesInfo name="NIST" value="NIST IR 89-3916r1991"/>
     <author surname="Walls"/>
     <author fullname="John Gary" initials="J." surname="Gary"/>
     <author fullname="Abbie O'Gallagher" initials="A." surname="O'Gallagher"/>
@@ -9,6 +10,13 @@
     <author fullname="Linda Sweet" initials="L." surname="Sweet"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

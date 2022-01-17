@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8393" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8393.pdf">
+<reference anchor="NIST.IR.8393" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8393.pdf">
   <front>
     <title>Sensitivity to X-Ray Computed Tomography Instrument Geometry Errors as a Function of Rotation Stage Position, Detector Position, and Detector Size</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8393"/>
-    <author fullname="Bala Muralikrishnan" initials="B." surname="Muralikrishnan"/>
-    <author fullname="Prashanth Jaganmoha" initials="P." surname="Jaganmoha"/>
-    <author fullname="Meghan Shilling" initials="M." surname="Shilling"/>
-    <author fullname="Ed Morse" initials="E." surname="Morse"/>
+    <seriesInfo name="NIST" value="NIST IR 8393"/>
+    <author fullname="Bala Muralikrishnan" initials="B." surname="Muralikrishnan">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Prashanth Jaganmoha" initials="P." surname="Jaganmoha">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Meghan Shilling" initials="M." surname="Shilling">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Ed Morse" initials="E." surname="Morse">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

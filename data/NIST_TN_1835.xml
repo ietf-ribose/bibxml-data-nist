@@ -2,11 +2,25 @@
   <front>
     <title>Nanoparticle released from consumer products: flooring nanocoatings and interior nanopaints</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1835"/>
-    <author fullname="Lipiin Sung" initials="L." surname="Sung"/>
-    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <seriesInfo name="NIST" value="NIST TN 1835"/>
+    <author fullname="Lipiin Sung" initials="L." surname="Sung">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="July"/>
   </front>

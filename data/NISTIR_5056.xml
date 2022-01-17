@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5056" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5056.pdf">
   <front>
-    <title>IIW Commission V, Quality Control and Quality Assurance of Welded Products: annual report 199697</title>
+    <title>IIW Commission V, Quality Control and Quality Assurance of Welded Products:annual report 199697</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5056"/>
+    <seriesInfo name="NIST" value="NIST IR 5056"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

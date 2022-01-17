@@ -2,9 +2,17 @@
   <front>
     <title>Integrating jQuery with the 3D descriptive markup of X3DOM</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7827"/>
+    <seriesInfo name="NIST" value="NIST IR 7827"/>
     <author fullname="Sandy Ressler" initials="S." surname="Ressler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

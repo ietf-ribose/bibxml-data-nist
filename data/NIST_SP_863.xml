@@ -2,6 +2,7 @@
   <front>
     <title>U.S. Green Building Conference-1994</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.863"/>
+    <seriesInfo name="NIST" value="NIST SP 863"/>
     <author surname="Fanney"/>
     <author surname="Fanney"/>
     <author surname="Whitter"/>
@@ -9,6 +10,13 @@
     <author surname="Simon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

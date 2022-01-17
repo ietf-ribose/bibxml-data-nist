@@ -2,9 +2,17 @@
   <front>
     <title>CSPP</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6462"/>
+    <seriesInfo name="NIST" value="NIST IR 6462"/>
     <author fullname="Gary Stoneburner" initials="G." surname="Stoneburner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

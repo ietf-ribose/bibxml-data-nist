@@ -2,9 +2,17 @@
   <front>
     <title>Data compression</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-12"/>
+    <seriesInfo name="NIST" value="NBS SP 500-12"/>
     <author fullname="Jules Aronson" initials="J." surname="Aronson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

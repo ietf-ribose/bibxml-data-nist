@@ -2,12 +2,28 @@
   <front>
     <title>Estimating the impact of 16 CFR part 1633 on bed fire outcomes</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2092"/>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert"/>
-    <author fullname="David Butry" initials="D." surname="Butry"/>
-    <author fullname="Rick Davis" initials="R." surname="Davis"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
+    <seriesInfo name="NIST" value="NIST TN 2092"/>
+    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Butry" initials="D." surname="Butry">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Rick Davis" initials="R." surname="Davis">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Gann" initials="R." surname="Gann">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April"/>
   </front>

@@ -2,7 +2,10 @@
   <front>
     <title>Workshop Summary: Materials Genome Initiative: Materials Data</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8038"/>
-    <author fullname="James Warren" initials="J." surname="Warren"/>
+    <seriesInfo name="NIST" value="NIST IR 8038"/>
+    <author fullname="James Warren" initials="J." surname="Warren">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

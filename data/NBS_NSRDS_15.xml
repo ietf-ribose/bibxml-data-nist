@@ -1,7 +1,8 @@
 <reference anchor="NBS.NSRDS.15" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds15.pdf">
   <front>
-    <title>Molten salts : volume 1. electrical conductance, density, and viscosity data</title>
+    <title>Molten salts :volume 1. electrical conductance, density, and viscosity data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.15"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 15"/>
     <author surname="Janz"/>
     <author surname="Dampier"/>
     <author surname="Lakshminarayanan"/>
@@ -9,6 +10,13 @@
     <author surname="Tomkins"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

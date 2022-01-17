@@ -1,0 +1,24 @@
+<reference anchor="NIST.TN.1458" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1458.pdf">
+  <front>
+    <title>NIST measurement service for DC standard resistors</title>
+    <seriesInfo name="DOI" value="10.6028/NIST.TN.1458"/>
+    <seriesInfo name="NIST" value="NIST TN 1458"/>
+    <author surname="Dziuba"/>
+    <author fullname="Dean Jarrett" initials="D." surname="Jarrett"/>
+    <author fullname="George Jones" initials="G." surname="Jones"/>
+    <author fullname="Marlin Kraft" initials="M." surname="Kraft"/>
+    <author fullname="Scott Shields" initials="S." surname="Shields"/>
+    <author fullname="Randolph Elmquist" initials="R." surname="Elmquist"/>
+    <author>
+      <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2003"/>
+  </front>
+</reference>

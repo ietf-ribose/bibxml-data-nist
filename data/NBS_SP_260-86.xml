@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-86" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-86.pdf">
   <front>
-    <title>Standard Reference Materials : A standard reference material containing 2.5 percent austenite (SRM 488)/</title>
+    <title>Standard Reference Materials :A standard reference material containing 2.5 percent austenite (SRM 488)/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-86"/>
+    <seriesInfo name="NIST" value="NBS SP 260-86"/>
     <author surname="Eaton"/>
     <author surname="Hicho"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

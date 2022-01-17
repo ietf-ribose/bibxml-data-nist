@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.73-231" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-231.pdf">
   <front>
-    <title>Response characteristics of a portable x-ray fluorescence lead detector : detection of lead in paint</title>
+    <title>Response characteristics of a portable x-ray fluorescence lead detector :detection of lead in paint</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-231"/>
+    <seriesInfo name="NIST" value="NBS IR 73-231"/>
     <author fullname="Joe Spurgeon" initials="J." surname="Spurgeon"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

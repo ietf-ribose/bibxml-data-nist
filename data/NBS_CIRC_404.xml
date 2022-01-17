@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.404" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular404.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 404: cautions regarding gas-appliance attachments</title>
+    <title>Circular of the Bureau of Standards no. 404:cautions regarding gas-appliance attachments</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.404"/>
+    <seriesInfo name="NIST" value="NBS CIRC 404"/>
     <author fullname="John Eiseman" initials="J." surname="Eiseman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1934"/>
   </front>

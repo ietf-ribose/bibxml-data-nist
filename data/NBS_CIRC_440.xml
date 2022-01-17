@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.440" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular440.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 440: polarimetry, saccharimetry and the sugars</title>
+    <title>Circular of the Bureau of Standards no. 440:polarimetry, saccharimetry and the sugars</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.440"/>
+    <seriesInfo name="NIST" value="NBS CIRC 440"/>
     <author fullname="Frederick Bates" initials="F." surname="Bates"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1942"/>
   </front>

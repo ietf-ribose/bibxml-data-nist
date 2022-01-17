@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8379" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8379.pdf">
+<reference anchor="NIST.IR.8379" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8379.pdf">
   <front>
     <title>Summary Report for the Virtual Workshop Addressing Public Comment on NIST Cybersecurity for IoT Guidance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8379"/>
-    <author fullname="Katerina Megas" initials="K." surname="Megas"/>
-    <author fullname="Michael Fagan" initials="M." surname="Fagan"/>
-    <author fullname="David Lemire" initials="D." surname="Lemire"/>
+    <seriesInfo name="NIST" value="NIST IR 8379"/>
+    <author fullname="Katerina Megas" initials="K." surname="Megas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Fagan" initials="M." surname="Fagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Lemire" initials="D." surname="Lemire">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

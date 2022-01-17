@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.506" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote506.pdf">
   <front>
-    <title>Analytical mass spectrometry section: summary of activities July 1968 to June 1969.</title>
+    <title>Analytical mass spectrometry section:summary of activities July 1968 to June 1969.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.506"/>
+    <seriesInfo name="NIST" value="NBS TN 506"/>
     <author fullname="William Shields" initials="W." surname="Shields"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

@@ -1,8 +1,11 @@
-<reference anchor="NISTIR.8347" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8347.pdf">
+<reference anchor="NIST.IR.8347" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8347.pdf">
   <front>
     <title>NIST Test Personal Identity Verification (PIV) Cards Version 2</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8347"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper"/>
+    <seriesInfo name="NIST" value="NIST IR 8347"/>
+    <author fullname="David Cooper" initials="D." surname="Cooper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

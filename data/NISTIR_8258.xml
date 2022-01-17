@@ -1,11 +1,23 @@
 <reference anchor="NIST.IR.8258" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8258.pdf">
   <front>
-    <title>The unit manufacturing process (UMP) builder: user's guide</title>
+    <title>The unit manufacturing process (UMP) builder:user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8258"/>
-    <author fullname="David Lechevalier" initials="D." surname="Lechevalier"/>
-    <author fullname="William Bernstein" initials="W." surname="Bernstein"/>
+    <seriesInfo name="NIST" value="NIST IR 8258"/>
+    <author fullname="David Lechevalier" initials="D." surname="Lechevalier">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Bernstein" initials="W." surname="Bernstein">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July"/>
   </front>

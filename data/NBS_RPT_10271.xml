@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.10271" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10271.pdf">
   <front>
-    <title>Aggregation phenomena of collagen: progress report</title>
+    <title>Aggregation phenomena of collagen:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10271"/>
+    <seriesInfo name="NIST" value="NBS RPT 10271"/>
     <author fullname="James Cassel" initials="J." surname="Cassel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

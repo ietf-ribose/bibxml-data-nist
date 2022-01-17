@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.77-1209" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1209.pdf">
   <front>
-    <title>Control of smoke movement in buildings : a review</title>
+    <title>Control of smoke movement in buildings :a review</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1209"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1209"/>
     <author surname="Benjamin"/>
     <author surname="Fung"/>
     <author surname="Roth"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

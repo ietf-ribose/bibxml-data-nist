@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4508" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4508.pdf">
   <front>
-    <title>The National PDES Testbed mail server: user's guide</title>
+    <title>The National PDES Testbed mail server:user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4508"/>
+    <seriesInfo name="NIST" value="NIST IR 4508"/>
     <author fullname="Sandy Ressler" initials="S." surname="Ressler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

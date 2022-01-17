@@ -2,6 +2,7 @@
   <front>
     <title>Fire tests of single office workstations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5c"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-5c"/>
     <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
     <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
@@ -9,6 +10,13 @@
     <author fullname="Richard Gann" initials="R." surname="Gann"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

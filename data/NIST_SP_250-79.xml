@@ -2,10 +2,18 @@
   <front>
     <title>Airspeed calibration service</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-79"/>
+    <seriesInfo name="NIST" value="NIST SP 250-79"/>
     <author fullname="Mike Hall" initials="M." surname="Hall"/>
     <author surname="Yeh"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

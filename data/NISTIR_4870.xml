@@ -2,12 +2,20 @@
   <front>
     <title>Feasibility and design considerations of emergency evacuation by elevators</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4870"/>
+    <seriesInfo name="NIST" value="NIST IR 4870"/>
     <author fullname="John Klote" initials="J." surname="Klote"/>
     <author fullname="Daniel Alvord" initials="D." surname="Alvord"/>
     <author fullname="Bernard Levin" initials="B." surname="Levin"/>
     <author fullname="Norman Groner" initials="N." surname="Groner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

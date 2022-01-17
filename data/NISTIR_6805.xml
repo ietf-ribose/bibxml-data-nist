@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6805" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6805.pdf">
   <front>
-    <title>Optical current transducers for electrical power systems: overview and literature survey</title>
+    <title>Optical current transducers for electrical power systems:overview and literature survey</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6805"/>
+    <seriesInfo name="NIST" value="NIST IR 6805"/>
     <author surname="Simmon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

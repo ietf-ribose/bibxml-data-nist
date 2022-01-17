@@ -2,6 +2,7 @@
   <front>
     <title>Unified telerobotic architecture project (UTAP) standard interface environment (SIE)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5658"/>
+    <seriesInfo name="NIST" value="NIST IR 5658"/>
     <author fullname="Ronald Lumia" initials="R." surname="Lumia"/>
     <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
     <author fullname="Robert Russell" initials="R." surname="Russell"/>
@@ -11,6 +12,13 @@
     <author fullname="Robert Steele" initials="R." surname="Steele"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

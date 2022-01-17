@@ -2,14 +2,34 @@
   <front>
     <title>Integrating IT Security into the Capital Planning and Investment Control Process</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-65"/>
-    <author surname="Hash"/>
-    <author surname="Bartol"/>
-    <author surname="Rollins"/>
-    <author surname="Robinson"/>
-    <author surname="Abeles"/>
-    <author surname="Batdorff"/>
+    <seriesInfo name="NIST" value="NIST SP 800-65"/>
+    <author surname="Hash">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Bartol">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Rollins">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Robinson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Abeles">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Batdorff">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

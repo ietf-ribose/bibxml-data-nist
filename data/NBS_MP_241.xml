@@ -1,9 +1,17 @@
 <reference anchor="NBS.MP.241" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub241.pdf">
   <front>
-    <title>Standard materials issued by the National Bureau of Standards A descriptive list with prices</title>
+    <title>Standard materials issued by the National Bureau of StandardsA descriptive list with prices</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MP.241"/>
+    <seriesInfo name="NIST" value="NBS MP 241"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

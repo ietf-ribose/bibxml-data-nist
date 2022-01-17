@@ -2,13 +2,31 @@
   <front>
     <title>IT asset management: financial services</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-5"/>
-    <author fullname="Michael Stone" initials="M." surname="Stone"/>
-    <author fullname="Chinedum Irrechukwu" initials="C." surname="Irrechukwu"/>
-    <author fullname="Harry Perper" initials="H." surname="Perper"/>
-    <author fullname="Devin Wynne" initials="D." surname="Wynne"/>
-    <author fullname="Leah Kauffman" initials="L." surname="Kauffman"/>
+    <seriesInfo name="NIST" value="NIST SP 1800-5"/>
+    <author fullname="Michael Stone" initials="M." surname="Stone">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Chinedum Irrechukwu" initials="C." surname="Irrechukwu">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Harry Perper" initials="H." surname="Perper">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Devin Wynne" initials="D." surname="Wynne">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Leah Kauffman" initials="L." surname="Kauffman">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

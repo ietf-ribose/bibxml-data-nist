@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4703" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4703.pdf">
   <front>
-    <title>Technology integration workshop: selected papers</title>
+    <title>Technology integration workshop:selected papers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4703"/>
+    <seriesInfo name="NIST" value="NIST IR 4703"/>
     <author fullname="Henry Tom" initials="H." surname="Tom"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

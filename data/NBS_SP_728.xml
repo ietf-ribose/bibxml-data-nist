@@ -2,11 +2,19 @@
   <front>
     <title>Expert systems and emergency management</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.728"/>
+    <seriesInfo name="NIST" value="NBS SP 728"/>
     <author fullname="Saul Gass" initials="S." surname="Gass"/>
     <author fullname="Suneel Bhasker" initials="S." surname="Bhasker"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

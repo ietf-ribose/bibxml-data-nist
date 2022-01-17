@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.543" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote543.pdf">
   <front>
-    <title>Electrochemical analysis section : summary of activities July 1969 to June 1970</title>
+    <title>Electrochemical analysis section :summary of activities July 1969 to June 1970</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.543"/>
+    <seriesInfo name="NIST" value="NBS TN 543"/>
     <author fullname="Richard Durst" initials="R." surname="Durst"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

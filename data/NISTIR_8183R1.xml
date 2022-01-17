@@ -1,14 +1,29 @@
-<reference anchor="NISTIR.8183r1" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8183r1.pdf">
+<reference anchor="NIST.IR.8183r1" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8183r1.pdf">
   <front>
     <title>Cybersecurity Framework Version 1.1 Manufacturing Profile</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8183r1"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman"/>
-    <author fullname="CheeYee Tang" initials="C." surname="Tang"/>
-    <author fullname="Joshua Lubell" initials="J." surname="Lubell"/>
-    <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski"/>
-    <author fullname="Michael Pease" initials="M." surname="Pease"/>
-    <author fullname="John McCarthy" initials="J." surname="McCarthy"/>
+    <seriesInfo name="NIST" value="NIST IR 8183r1"/>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="CheeYee Tang" initials="C." surname="Tang">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joshua Lubell" initials="J." surname="Lubell">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Michael Pease" initials="M." surname="Pease">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="John McCarthy" initials="J." surname="McCarthy">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

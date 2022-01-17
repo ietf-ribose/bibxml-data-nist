@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.392" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular392.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 392: testing of timepieces</title>
+    <title>Circular of the Bureau of Standards no. 392:testing of timepieces</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.392"/>
+    <seriesInfo name="NIST" value="NBS CIRC 392"/>
     <author fullname="RalphEdgar Gould" initials="R.E." surname="Gould"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1931"/>
   </front>

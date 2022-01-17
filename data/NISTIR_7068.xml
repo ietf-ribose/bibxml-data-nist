@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7068" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7068.pdf">
   <front>
-    <title>Deposition rates of fine and course particles in residential buildings: literature review and measurements in an occupied townhouse</title>
+    <title>Deposition rates of fine and course particles in residential buildings:literature review and measurements in an occupied townhouse</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7068"/>
+    <seriesInfo name="NIST" value="NIST IR 7068"/>
     <author fullname="Cynthia Howard-Reed" initials="C." surname="Howard-Reed"/>
     <author fullname="Lance Wallace" initials="L." surname="Wallace"/>
     <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

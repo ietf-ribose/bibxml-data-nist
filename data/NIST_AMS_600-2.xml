@@ -2,9 +2,19 @@
   <front>
     <title>Network Charter: Manufacturing USA Program</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-2"/>
-    <author fullname="Mike Molnar" initials="M." surname="Molnar"/>
+    <seriesInfo name="NIST" value="NIST AMS 600-2"/>
+    <author fullname="Mike Molnar" initials="M." surname="Molnar">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

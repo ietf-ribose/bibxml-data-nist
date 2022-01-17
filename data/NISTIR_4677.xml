@@ -2,11 +2,19 @@
   <front>
     <title>NIST calibration services for humidity measurement</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4677"/>
+    <seriesInfo name="NIST" value="NIST IR 4677"/>
     <author surname="Wexler"/>
     <author surname="Hyland"/>
     <author surname="Hasegawa"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

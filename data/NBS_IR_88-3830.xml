@@ -2,10 +2,18 @@
   <front>
     <title>The ICST-NBS Information Resource Dictionary System command language prototype</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3830"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3830"/>
     <author fullname="Alan Goldfine" initials="A." surname="Goldfine"/>
     <author fullname="Thomasin Kirkendall" initials="T." surname="Kirkendall"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

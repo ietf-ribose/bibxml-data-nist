@@ -1,11 +1,19 @@
 <reference anchor="NBS.BSS.136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience136.pdf">
   <front>
-    <title>Organization of building standards : systematic techniques for scope and arrangement</title>
+    <title>Organization of building standards :systematic techniques for scope and arrangement</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.136"/>
+    <seriesInfo name="NIST" value="NBS BSS 136"/>
     <author fullname="James Harris" initials="J." surname="Harris"/>
     <author fullname="Richard Wright" initials="R." surname="Wright"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

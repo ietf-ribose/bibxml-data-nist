@@ -2,9 +2,16 @@
   <front>
     <title>Computer Security Division 2014 Annual Report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-176"/>
-    <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly"/>
-    <author fullname="Gregory Witte" initials="G." surname="Witte"/>
-    <author fullname="Larry Feldman" initials="L." surname="Feldman"/>
+    <seriesInfo name="NIST" value="NIST SP 800-176"/>
+    <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gregory Witte" initials="G." surname="Witte">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Larry Feldman" initials="L." surname="Feldman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

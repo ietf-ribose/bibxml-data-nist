@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.260-140" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-140.pdf">
   <front>
-    <title>Standard Reference Materials Technical specifications for certification of spectrophotometric NTRMs</title>
+    <title>Standard Reference MaterialsTechnical specifications for certification of spectrophotometric NTRMs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-140"/>
+    <seriesInfo name="NIST" value="NIST SP 260-140"/>
     <author fullname="Gary Kramer" initials="G." surname="Kramer"/>
     <author fullname="Melody Smith" initials="M." surname="Smith"/>
     <author fullname="John Travis" initials="J." surname="Travis"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

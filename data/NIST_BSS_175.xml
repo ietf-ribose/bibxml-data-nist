@@ -1,7 +1,8 @@
 <reference anchor="NIST.BSS.175" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nistbuildingscience175.pdf">
   <front>
-    <title>Performance of tape-bonded seams of EPDM membranes : comparison of the peel creep-rupture response of tape-bonded and liquid-adhesive-bonded seams</title>
+    <title>Performance of tape-bonded seams of EPDM membranes :comparison of the peel creep-rupture response of tape-bonded and liquid-adhesive-bonded seams</title>
     <seriesInfo name="DOI" value="10.6028/NIST.BSS.175"/>
+    <seriesInfo name="NIST" value="NIST BSS 175"/>
     <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter"/>
     <author fullname="Mark Vangel" initials="M." surname="Vangel"/>
     <author fullname="Edward Embree" initials="E." surname="Embree"/>
@@ -9,6 +10,13 @@
     <author fullname="JamesF,Jr Seiler" initials="J.F.J." surname="Seiler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

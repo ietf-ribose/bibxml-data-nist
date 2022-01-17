@@ -2,6 +2,7 @@
   <front>
     <title>Experiments and modeling of multiple workstations burning in a compartment</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5e"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-5e"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
@@ -9,6 +10,13 @@
     <author fullname="Robert Anleitner" initials="R." surname="Anleitner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

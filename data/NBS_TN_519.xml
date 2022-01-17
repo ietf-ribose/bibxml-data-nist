@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.519" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote519.pdf">
   <front>
-    <title>Forensic science: a bibliography of activation analysis papers, G.J. Lutz, editor.</title>
+    <title>Forensic science:a bibliography of activation analysis papers, G.J. Lutz, editor.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.519"/>
+    <seriesInfo name="NIST" value="NBS TN 519"/>
     <author surname="Lutz"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

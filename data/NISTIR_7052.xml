@@ -2,6 +2,7 @@
   <front>
     <title>The NIST 3 megawatt quantitative heat release rate facility</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7052"/>
+    <seriesInfo name="NIST" value="NIST IR 7052"/>
     <author fullname="Rodney Bryant" initials="R." surname="Bryant"/>
     <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
     <author fullname="Erik Johnsson" initials="E." surname="Johnsson"/>
@@ -12,6 +13,13 @@
     <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

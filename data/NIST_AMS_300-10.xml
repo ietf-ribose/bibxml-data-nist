@@ -2,12 +2,28 @@
   <front>
     <title>Recommendations on ensuring traceability and trustworthiness of manufacturing-related data</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-10"/>
-    <author fullname="Jr,Thomas Hedberg" initials="J.T." surname="Hedberg"/>
-    <author fullname="Moneer Helu" initials="M." surname="Helu"/>
-    <author fullname="Sylvere Krima" initials="S." surname="Krima"/>
-    <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney"/>
+    <seriesInfo name="NIST" value="NIST AMS 300-10"/>
+    <author fullname="Jr,Thomas Hedberg" initials="J.T." surname="Hedberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Moneer Helu" initials="M." surname="Helu">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sylvere Krima" initials="S." surname="Krima">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

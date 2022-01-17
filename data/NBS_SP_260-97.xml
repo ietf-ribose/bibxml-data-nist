@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-97" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-97.pdf">
   <front>
-    <title>Standard Reference Materials : Summary of the coal, ore, mineral, rock, and refractory standards issued by the National Bureau of Standards/</title>
+    <title>Standard Reference Materials :Summary of the coal, ore, mineral, rock, and refractory standards issued by the National Bureau of Standards/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-97"/>
+    <seriesInfo name="NIST" value="NBS SP 260-97"/>
     <author surname="Gills"/>
     <author surname="Mavrodineanu"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

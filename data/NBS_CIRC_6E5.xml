@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.6e5" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular6e5.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 6 5th edition: fees for electric, magnetic, and photometric testing</title>
+    <title>Circular of the Bureau of Standards no. 6 5th edition:fees for electric, magnetic, and photometric testing</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.6e5"/>
+    <seriesInfo name="NIST" value="NBS CIRC 6e5"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1913"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Characterization of airborne nanoparticle released from consumer products</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1787"/>
-    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
-    <author fullname="Lipiin Sung" initials="L." surname="Sung"/>
-    <author fullname="Joannie Chin" initials="J." surname="Chin"/>
+    <seriesInfo name="NIST" value="NIST TN 1787"/>
+    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Lipiin Sung" initials="L." surname="Sung">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joannie Chin" initials="J." surname="Chin">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August"/>
   </front>

@@ -2,10 +2,22 @@
   <front>
     <title>Measurement of SVOC emission parameters for building materials using solid-phase microextraction (SPME)-based method</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2040"/>
-    <author fullname="Mengyan Gong" initials="M." surname="Gong"/>
-    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck"/>
+    <seriesInfo name="NIST" value="NIST TN 2040"/>
+    <author fullname="Mengyan Gong" initials="M." surname="Gong">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April"/>
   </front>

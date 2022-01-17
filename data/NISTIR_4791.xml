@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4791" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4791.pdf">
   <front>
-    <title>Noise-induced chaos and phase space flux: a sample-theoretic study</title>
+    <title>Noise-induced chaos and phase space flux:a sample-theoretic study</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4791"/>
+    <seriesInfo name="NIST" value="NIST IR 4791"/>
     <author fullname="Michael Frey" initials="M." surname="Frey"/>
     <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.82-2610" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2610.pdf">
   <front>
-    <title>Highway noise criteria study : technical summary</title>
+    <title>Highway noise criteria study :technical summary</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2610"/>
+    <seriesInfo name="NIST" value="NBS IR 82-2610"/>
     <author fullname="Simone Yaniv" initials="S." surname="Yaniv"/>
     <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

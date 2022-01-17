@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.260-166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-166.pdf">
   <front>
-    <title>Certification of SRM 114q : part II (particle size distribution)</title>
+    <title>Certification of SRM 114q :part II (particle size distribution)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-166"/>
+    <seriesInfo name="NIST" value="NIST SP 260-166"/>
     <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
     <author fullname="William Guthrie" initials="W." surname="Guthrie"/>
     <author fullname="AnaIvelisse Avilés" initials="A.I." surname="Avilés"/>
@@ -10,6 +11,13 @@
     <author fullname="Bruce MacDonald" initials="B." surname="MacDonald"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

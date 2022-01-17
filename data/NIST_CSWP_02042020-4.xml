@@ -2,13 +2,31 @@
   <front>
     <title>Case Studies in Cyber Supply Chain Risk Management: Anonymous Renewable Energy Company</title>
     <seriesInfo name="DOI" value="10.6028/NIST.CSWP.02042020-4"/>
-    <author fullname="Jon Boyens" initials="J." surname="Boyens"/>
-    <author fullname="Celia Paulsen" initials="C." surname="Paulsen"/>
-    <author fullname="Nadya Bartol" initials="N." surname="Bartol"/>
-    <author fullname="Kris Winkler" initials="K." surname="Winkler"/>
-    <author fullname="James Gimbi" initials="J." surname="Gimbi"/>
+    <seriesInfo name="NIST" value="NIST CSWP 02042020-4"/>
+    <author fullname="Jon Boyens" initials="J." surname="Boyens">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nadya Bartol" initials="N." surname="Bartol">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kris Winkler" initials="K." surname="Winkler">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Gimbi" initials="J." surname="Gimbi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="4"/>
   </front>

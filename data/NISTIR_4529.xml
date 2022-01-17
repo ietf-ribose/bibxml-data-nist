@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.4529" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4529.pdf">
   <front>
-    <title>Alaska Marine Mammal Tissue Archival Project: revised collection protocol</title>
+    <title>Alaska Marine Mammal Tissue Archival Project:revised collection protocol</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4529"/>
+    <seriesInfo name="NIST" value="NIST IR 4529"/>
     <author fullname="Paul Becker" initials="P." surname="Becker"/>
     <author fullname="Stephen Wise" initials="S." surname="Wise"/>
     <author fullname="Barbara Koster" initials="B." surname="Koster"/>
     <author fullname="Rolf Zeisler" initials="R." surname="Zeisler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

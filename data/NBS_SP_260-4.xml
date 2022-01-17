@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-4.pdf">
   <front>
-    <title>Standard Reference Materials : Sources of information/</title>
+    <title>Standard Reference Materials :Sources of information/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-4"/>
+    <seriesInfo name="NIST" value="NBS SP 260-4"/>
     <author fullname="Thomas Mears" initials="T." surname="Mears"/>
     <author fullname="John, Hague" initials="J." surname="Hague"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.7419" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7419.pdf">
   <front>
-    <title>The use of portable fire extinguishers in nightclubs : workshop summary</title>
+    <title>The use of portable fire extinguishers in nightclubs :workshop summary</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7419"/>
+    <seriesInfo name="NIST" value="NIST IR 7419"/>
     <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

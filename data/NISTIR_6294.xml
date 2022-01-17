@@ -2,10 +2,18 @@
   <front>
     <title>Initial CAALS device capability dataset, version 1.0.7</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6294"/>
+    <seriesInfo name="NIST" value="NIST IR 6294"/>
     <author fullname="Torsten Staab" initials="T." surname="Staab"/>
     <author fullname="Gary Kramer" initials="G." surname="Kramer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

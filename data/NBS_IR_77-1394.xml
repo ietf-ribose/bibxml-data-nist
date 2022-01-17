@@ -2,10 +2,18 @@
   <front>
     <title>A computer code for the simulation of turbulent swirling flow through closed-conduit flow meters</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1394"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1394"/>
     <author surname="Davis"/>
     <author surname="Moore"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

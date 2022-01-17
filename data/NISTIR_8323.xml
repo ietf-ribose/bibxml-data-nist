@@ -1,18 +1,44 @@
-<reference anchor="NISTIR.8323" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8323.pdf">
+<reference anchor="NIST.IR.8323" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8323.pdf">
   <front>
-    <title>Foundational PNT Profile: Applying the Cybersecurity Framework for the Responsible Use of Positioning, Navigation, and Timing (PNT) Services</title>
+    <title>Foundational PNT Profile:Applying the Cybersecurity Framework for the Responsible Use of Positioning, Navigation, and Timing (PNT) Services</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8323"/>
-    <author fullname="Michael Bartock" initials="M." surname="Bartock"/>
-    <author fullname="Joseph Brule" initials="J." surname="Brule"/>
-    <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud"/>
-    <author fullname="Suzanne Lightman" initials="S." surname="Lightman"/>
-    <author fullname="James McCarthy" initials="J." surname="McCarthy"/>
-    <author fullname="Karen Reczek" initials="K." surname="Reczek"/>
-    <author fullname="Doug Northrip" initials="D." surname="Northrip"/>
-    <author fullname="Arthur Scholz" initials="A." surname="Scholz"/>
-    <author fullname="Theresa Suloway" initials="T." surname="Suloway"/>
+    <seriesInfo name="NIST" value="NIST IR 8323"/>
+    <author fullname="Michael Bartock" initials="M." surname="Bartock">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Joseph Brule" initials="J." surname="Brule">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Suzanne Lightman" initials="S." surname="Lightman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James McCarthy" initials="J." surname="McCarthy">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Reczek" initials="K." surname="Reczek">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Doug Northrip" initials="D." surname="Northrip">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Arthur Scholz" initials="A." surname="Scholz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Theresa Suloway" initials="T." surname="Suloway">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2021" month="February" day="11"/>
   </front>

@@ -2,11 +2,22 @@
   <front>
     <title>Guide to Cyber Threat Information Sharing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-150"/>
-    <author fullname="Christopher Johnson" initials="C." surname="Johnson"/>
-    <author fullname="MarkLee Badger" initials="M.L." surname="Badger"/>
-    <author fullname="David Waltermire" initials="D." surname="Waltermire"/>
-    <author fullname="Julie Snyder" initials="J." surname="Snyder"/>
-    <author fullname="Clem Skorupka" initials="C." surname="Skorupka"/>
+    <seriesInfo name="NIST" value="NIST SP 800-150"/>
+    <author fullname="Christopher Johnson" initials="C." surname="Johnson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="MarkLee Badger" initials="M.L." surname="Badger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Waltermire" initials="D." surname="Waltermire">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Julie Snyder" initials="J." surname="Snyder">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Clem Skorupka" initials="C." surname="Skorupka">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

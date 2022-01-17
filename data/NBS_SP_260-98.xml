@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.260-98" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-98.pdf">
   <front>
-    <title>Standard Reference Materials : Glass fiberboard SRM for thermal resistance/</title>
+    <title>Standard Reference Materials :Glass fiberboard SRM for thermal resistance/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-98"/>
+    <seriesInfo name="NIST" value="NBS SP 260-98"/>
     <author fullname="Jerome Hust" initials="J." surname="Hust"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

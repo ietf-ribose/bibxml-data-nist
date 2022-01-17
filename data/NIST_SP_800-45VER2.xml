@@ -2,12 +2,28 @@
   <front>
     <title>Guidelines on electronic mail security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-45ver2"/>
-    <author surname="Tracy"/>
-    <author surname="Jansen"/>
-    <author surname="Scarfone"/>
-    <author surname="Butterfield"/>
+    <seriesInfo name="NIST" value="NIST SP 800-45ver2"/>
+    <author surname="Tracy">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Jansen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Butterfield">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

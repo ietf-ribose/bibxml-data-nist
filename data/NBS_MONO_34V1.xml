@@ -2,6 +2,7 @@
   <front>
     <title>Tables of chemical kinetics homogeneous reactions (supplementary tables)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.34v1"/>
+    <seriesInfo name="NIST" value="NBS MONO 34v1"/>
     <author surname="Astin"/>
     <author surname="Bigeleisen"/>
     <author surname="Noyes"/>
@@ -20,6 +21,13 @@
     <author surname="Merritt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1961"/>
   </front>

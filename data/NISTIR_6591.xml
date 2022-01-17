@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6591" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6591.pdf">
   <front>
-    <title>Digital cinema 2001 conference proceedings: a new vision for movies</title>
+    <title>Digital cinema 2001 conference proceedings:a new vision for movies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6591"/>
+    <seriesInfo name="NIST" value="NIST IR 6591"/>
     <author fullname="Charles Fenimore" initials="C." surname="Fenimore"/>
     <author fullname="Mary Floyd" initials="M." surname="Floyd"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

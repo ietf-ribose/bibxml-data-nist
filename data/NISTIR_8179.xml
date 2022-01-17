@@ -2,12 +2,28 @@
   <front>
     <title>Criticality analysis process model: prioritizing systems and components</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8179"/>
-    <author fullname="Celia Paulsen" initials="C." surname="Paulsen"/>
-    <author fullname="Jon Boyens" initials="J." surname="Boyens"/>
-    <author fullname="Nadya Bartol" initials="N." surname="Bartol"/>
-    <author fullname="Kris Winkler" initials="K." surname="Winkler"/>
+    <seriesInfo name="NIST" value="NIST IR 8179"/>
+    <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jon Boyens" initials="J." surname="Boyens">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nadya Bartol" initials="N." surname="Bartol">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kris Winkler" initials="K." surname="Winkler">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="April"/>
   </front>

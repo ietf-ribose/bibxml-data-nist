@@ -2,19 +2,49 @@
   <front>
     <title>LTE impacts on GPS: final test report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1952"/>
-    <author fullname="William Young" initials="W." surname="Young"/>
-    <author fullname="Ari Feldman" initials="A." surname="Feldman"/>
-    <author fullname="Sheryl Genco" initials="S." surname="Genco"/>
-    <author fullname="Aziz Kord" initials="A." surname="Kord"/>
-    <author fullname="Daniel Kuester" initials="D." surname="Kuester"/>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury"/>
-    <author fullname="Duncan McGillivray" initials="D." surname="McGillivray"/>
-    <author fullname="Audrey Puls" initials="A." surname="Puls"/>
-    <author fullname="Andre Rosete" initials="A." surname="Rosete"/>
-    <author fullname="Adam Wunderlich" initials="A." surname="Wunderlich"/>
-    <author fullname="Wen-Bin Yang" initials="W." surname="Yang"/>
+    <seriesInfo name="NIST" value="NIST TN 1952"/>
+    <author fullname="William Young" initials="W." surname="Young">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Ari Feldman" initials="A." surname="Feldman">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Sheryl Genco" initials="S." surname="Genco">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Aziz Kord" initials="A." surname="Kord">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Daniel Kuester" initials="D." surname="Kuester">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="John Ladbury" initials="J." surname="Ladbury">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Duncan McGillivray" initials="D." surname="McGillivray">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Audrey Puls" initials="A." surname="Puls">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Andre Rosete" initials="A." surname="Rosete">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Adam Wunderlich" initials="A." surname="Wunderlich">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Wen-Bin Yang" initials="W." surname="Yang">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February"/>
   </front>

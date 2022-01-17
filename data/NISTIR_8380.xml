@@ -1,9 +1,14 @@
-<reference anchor="NISTIR.8380" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8380.pdf">
+<reference anchor="NIST.IR.8380" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8380.pdf">
   <front>
     <title>Aerial LTE Demonstration Report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8380"/>
-    <author fullname="Maxwell Maurice" initials="M." surname="Maurice"/>
-    <author fullname="Samuel Ray" initials="S." surname="Ray"/>
+    <seriesInfo name="NIST" value="NIST IR 8380"/>
+    <author fullname="Maxwell Maurice" initials="M." surname="Maurice">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Samuel Ray" initials="S." surname="Ray">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

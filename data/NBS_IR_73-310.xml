@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.73-310" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-310.pdf">
   <front>
-    <title>Electromagnetic scattering by a thin wire with continuous impedance loading-- part II : time domain analysis</title>
+    <title>Electromagnetic scattering by a thin wire with continuous impedance loading-- part II :time domain analysis</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-310"/>
+    <seriesInfo name="NIST" value="NBS IR 73-310"/>
     <author fullname="Tommy Tong" initials="T." surname="Tong"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

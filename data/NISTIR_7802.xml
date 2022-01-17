@@ -2,10 +2,18 @@
   <front>
     <title>Trust model for security automation data 1.0 (TMSAD)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7802"/>
+    <seriesInfo name="NIST" value="NIST IR 7802"/>
     <author fullname="Harold Booth" initials="H." surname="Booth"/>
     <author fullname="Adam Halbardier" initials="A." surname="Halbardier"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

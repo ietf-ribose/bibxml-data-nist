@@ -2,10 +2,18 @@
   <front>
     <title>The eleventh text REtrieval conference, TREC 2002</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-251"/>
+    <seriesInfo name="NIST" value="NIST SP 500-251"/>
     <author fullname="Ellen Voorhees" initials="E." surname="Voorhees"/>
     <author fullname="Lori Buckland" initials="L." surname="Buckland"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

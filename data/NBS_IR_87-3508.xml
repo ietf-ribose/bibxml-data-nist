@@ -2,10 +2,18 @@
   <front>
     <title>The geometry modeling system user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3508"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3508"/>
     <author fullname="Stephen Clark" initials="S." surname="Clark"/>
     <author fullname="Sanford Ressler" initials="S." surname="Ressler"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

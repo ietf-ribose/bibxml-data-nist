@@ -2,9 +2,19 @@
   <front>
     <title>Software science' revisited: rationalizing Halstead's system using dimensionless units.</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1990"/>
-    <author fullname="David Flater" initials="D." surname="Flater"/>
+    <seriesInfo name="NIST" value="NIST TN 1990"/>
+    <author fullname="David Flater" initials="D." surname="Flater">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="May"/>
   </front>

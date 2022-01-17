@@ -2,6 +2,7 @@
   <front>
     <title>Geometrical considerations and nomenclature for reflectance</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.160"/>
+    <seriesInfo name="NIST" value="NBS MONO 160"/>
     <author surname="Nicodemus"/>
     <author surname="Richmond"/>
     <author surname="Hsia"/>
@@ -9,6 +10,13 @@
     <author surname="Limperis"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

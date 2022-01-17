@@ -2,6 +2,7 @@
   <front>
     <title>A statistical test suite for random and pseudorandom number generators for cryptographic applications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-22r1a"/>
+    <seriesInfo name="NIST" value="NIST SP 800-22r1a"/>
     <author surname="Bassham"/>
     <author surname="Rukhin"/>
     <author surname="Soto"/>
@@ -17,6 +18,13 @@
     <author surname="Vo"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

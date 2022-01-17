@@ -1,15 +1,35 @@
 <reference anchor="NIST.SP.1241" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1241.pdf">
   <front>
-    <title>Large Outdoor Fires and the Built Environment (LOF&amp;BE): summary of workshop at Interflam 2019</title>
+    <title>Large Outdoor Fires and the Built Environment (LOF&amp;BE):summary of workshop at Interflam 2019</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1241"/>
-    <author fullname="Samuel Manzello" initials="S." surname="Manzello"/>
-    <author fullname="Sara McAllister" initials="S." surname="McAllister"/>
-    <author fullname="Sayaka Suzuki" initials="S." surname="Suzuki"/>
-    <author fullname="Raphaele Blanchi" initials="R." surname="Blanchi"/>
-    <author fullname="Elsa Pastor" initials="E." surname="Pastor"/>
-    <author fullname="Enrico Ronchi" initials="E." surname="Ronchi"/>
+    <seriesInfo name="NIST" value="NIST SP 1241"/>
+    <author fullname="Samuel Manzello" initials="S." surname="Manzello">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Sara McAllister" initials="S." surname="McAllister">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Sayaka Suzuki" initials="S." surname="Suzuki">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Raphaele Blanchi" initials="R." surname="Blanchi">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Elsa Pastor" initials="E." surname="Pastor">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Enrico Ronchi" initials="E." surname="Ronchi">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August"/>
   </front>

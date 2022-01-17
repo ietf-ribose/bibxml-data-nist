@@ -2,12 +2,28 @@
   <front>
     <title>NIST measurement services: photometric calibrations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-95"/>
-    <author fullname="Yuqin Zong" initials="Y." surname="Zong"/>
-    <author fullname="Maria Nadal" initials="M." surname="Nadal"/>
-    <author fullname="Benjamin Tsai" initials="B." surname="Tsai"/>
-    <author fullname="Cameron Miller" initials="C." surname="Miller"/>
+    <seriesInfo name="NIST" value="NIST SP 250-95"/>
+    <author fullname="Yuqin Zong" initials="Y." surname="Zong">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Maria Nadal" initials="M." surname="Nadal">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Benjamin Tsai" initials="B." surname="Tsai">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Cameron Miller" initials="C." surname="Miller">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July"/>
   </front>

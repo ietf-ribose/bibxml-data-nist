@@ -2,9 +2,17 @@
   <front>
     <title>Keypunch controls for string-punching of statistical data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.282"/>
+    <seriesInfo name="NIST" value="NBS TN 282"/>
     <author fullname="Marty Brenner" initials="M." surname="Brenner"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

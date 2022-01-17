@@ -2,14 +2,34 @@
   <front>
     <title>An Experimental and Computational Study of Reinforced Concrete Assemblies under a Column Removal Scenario</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1720"/>
-    <author fullname="H.S. Lew" initials="H." surname="Lew"/>
-    <author fullname="Yihai Bao" initials="Y." surname="Bao"/>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek"/>
-    <author fullname="Joseph Main" initials="J." surname="Main"/>
-    <author fullname="Santiago Pujol" initials="S." surname="Pujol"/>
-    <author fullname="Mete Sozen" initials="M." surname="Sozen"/>
+    <seriesInfo name="NIST" value="NIST TN 1720"/>
+    <author fullname="H.S. Lew" initials="H." surname="Lew">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Yihai Bao" initials="Y." surname="Bao">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joseph Main" initials="J." surname="Main">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Santiago Pujol" initials="S." surname="Pujol">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mete Sozen" initials="M." surname="Sozen">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011" month="October"/>
   </front>

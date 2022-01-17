@@ -2,10 +2,18 @@
   <front>
     <title>Computerizing materials data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.689"/>
+    <seriesInfo name="NIST" value="NBS SP 689"/>
     <author fullname="John Rumble" initials="J." surname="Rumble"/>
     <author surname="Westbrook"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.75" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote75.pdf">
   <front>
-    <title>Soviet research in field electron and ion emission, 1955-1959 : an annotated bibliography</title>
+    <title>Soviet research in field electron and ion emission, 1955-1959 :an annotated bibliography</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.75"/>
+    <seriesInfo name="NIST" value="NBS TN 75"/>
     <author fullname="Tibor Marton" initials="T." surname="Marton"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1960"/>
   </front>

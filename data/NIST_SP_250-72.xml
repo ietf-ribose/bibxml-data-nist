@@ -2,6 +2,7 @@
   <front>
     <title>NIST calibration services for liquid volume</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-72"/>
+    <seriesInfo name="NIST" value="NIST SP 250-72"/>
     <author fullname="Vern Bean" initials="V." surname="Bean"/>
     <author fullname="Pedro Espina" initials="P." surname="Espina"/>
     <author fullname="JohnD,Houser,John Wright" initials="J.D.J." surname="Wright"/>
@@ -9,6 +10,13 @@
     <author fullname="Aaron Johnson" initials="A." surname="Johnson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

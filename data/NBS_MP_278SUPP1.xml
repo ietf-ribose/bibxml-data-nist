@@ -1,11 +1,19 @@
 <reference anchor="NBS.MP.278supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub278supp1.pdf">
   <front>
-    <title>Bibliography on atomic transition probabilities : May 1966 through December 1967 (Supplement)/</title>
+    <title>Bibliography on atomic transition probabilities :May 1966 through December 1967 (Supplement)/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MP.278supp1"/>
+    <seriesInfo name="NIST" value="NBS MP 278supp1"/>
     <author surname="Wiese"/>
     <author surname="Glennon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

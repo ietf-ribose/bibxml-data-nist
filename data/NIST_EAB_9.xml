@@ -2,10 +2,22 @@
   <front>
     <title>NIST customer demographics: collaborative research and development agreements</title>
     <seriesInfo name="DOI" value="10.6028/NIST.EAB.9"/>
-    <author fullname="Nicole Gingrich" initials="N." surname="Gingrich"/>
-    <author fullname="Isaac Patterson" initials="I." surname="Patterson"/>
+    <seriesInfo name="NIST" value="NIST EAB 9"/>
+    <author fullname="Nicole Gingrich" initials="N." surname="Gingrich">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Isaac Patterson" initials="I." surname="Patterson">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March"/>
   </front>

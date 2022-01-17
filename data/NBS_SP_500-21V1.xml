@@ -2,10 +2,18 @@
   <front>
     <title>Design alternatives for computer network security</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-21v1"/>
+    <seriesInfo name="NIST" value="NBS SP 500-21v1"/>
     <author fullname="Gerald Cole" initials="G." surname="Cole"/>
     <author fullname="Dennis Branstad" initials="D." surname="Branstad"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

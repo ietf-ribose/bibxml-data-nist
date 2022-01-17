@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4705" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4705.pdf">
   <front>
-    <title>Fire-plume-generated ceiling jet characteristics and convective heat transfer to ceiling and wall surfaces in a two-layer zone-type fire environment: uniform temperature ceiling and walls</title>
+    <title>Fire-plume-generated ceiling jet characteristics and convective heat transfer to ceiling and wall surfaces in a two-layer zone-type fire environment:uniform temperature ceiling and walls</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4705"/>
+    <seriesInfo name="NIST" value="NIST IR 4705"/>
     <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

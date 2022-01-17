@@ -2,8 +2,13 @@
   <front>
     <title>Thermodynamic Properties of Polycyclic Aromatic Hydrocarbons</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1186"/>
-    <author fullname="Thomas Allison" initials="T." surname="Allison"/>
-    <author fullname="Donald Burgess Jr." initials="D." surname="Burgess Jr."/>
+    <seriesInfo name="NIST" value="NIST SP 1186"/>
+    <author fullname="Thomas Allison" initials="T." surname="Allison">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Donald Burgess Jr." initials="D." surname="Burgess Jr.">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,6 +2,7 @@
   <front>
     <title>Temperature-electromotive force reference functions and tables for the letter-designated thermocouple types based on the ITS-90</title>
     <seriesInfo name="DOI" value="10.6028/NIST.MONO.175"/>
+    <seriesInfo name="NIST" value="NIST MONO 175"/>
     <author surname="Burns"/>
     <author surname="Scroger"/>
     <author surname="Strouse"/>
@@ -9,6 +10,13 @@
     <author surname="Guthrie"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

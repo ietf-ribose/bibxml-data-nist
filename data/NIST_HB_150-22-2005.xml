@@ -1,10 +1,20 @@
 <reference anchor="NIST.HB.150-22-2005" target="https://nvlpubs.nist.gov/nistpubs/hb/2005/hb150-22.pdf">
   <front>
-    <title>National Voluntary Laboratory Accreditation Program: voting system testing</title>
+    <title>National Voluntary Laboratory Accreditation Program:voting system testing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.150-22-2005"/>
-    <author fullname="Jon Crickenberger" initials="J." surname="Crickenberger"/>
+    <seriesInfo name="NIST" value="NIST HB 150-22-2005"/>
+    <author fullname="Jon Crickenberger" initials="J." surname="Crickenberger">
+      <organization>Standards Service Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

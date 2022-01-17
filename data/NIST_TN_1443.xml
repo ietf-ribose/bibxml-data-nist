@@ -1,7 +1,8 @@
 <reference anchor="NIST.TN.1443" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1443.pdf">
   <front>
-    <title>Alternative fire suppressant chemicals : a research review with recommendations</title>
+    <title>Alternative fire suppressant chemicals :a research review with recommendations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1443"/>
+    <seriesInfo name="NIST" value="NIST TN 1443"/>
     <author fullname="Robert Tapscott" initials="R." surname="Tapscott"/>
     <author fullname="Ronald Sheinson" initials="R." surname="Sheinson"/>
     <author fullname="Valeri Babushok" initials="V." surname="Babushok"/>
@@ -9,6 +10,13 @@
     <author fullname="Richard Gann" initials="R." surname="Gann"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

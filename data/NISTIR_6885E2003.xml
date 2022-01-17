@@ -2,12 +2,20 @@
   <front>
     <title>Automated security self-evaluation tool user manual</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6885e2003"/>
+    <seriesInfo name="NIST" value="NIST IR 6885e2003"/>
     <author fullname="Marianne Swanson" initials="M." surname="Swanson"/>
     <author fullname="Jennifer Fabius" initials="J." surname="Fabius"/>
     <author fullname="Marc Stevens" initials="M." surname="Stevens"/>
     <author fullname="Mark McLamon" initials="M." surname="McLamon"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

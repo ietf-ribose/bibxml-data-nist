@@ -2,7 +2,10 @@
   <front>
     <title>De-identification of personal information</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8053"/>
-    <author fullname="Simson Garfinkel" initials="S." surname="Garfinkel"/>
+    <seriesInfo name="NIST" value="NIST IR 8053"/>
+    <author fullname="Simson Garfinkel" initials="S." surname="Garfinkel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

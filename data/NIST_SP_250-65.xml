@@ -2,6 +2,7 @@
   <front>
     <title>Heat-flux sensor calibration</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-65"/>
+    <seriesInfo name="NIST" value="NIST SP 250-65"/>
     <author fullname="Benjamin Tsai" initials="B." surname="Tsai"/>
     <author fullname="Charles Gibson" initials="C." surname="Gibson"/>
     <author fullname="Annageri Murthy" initials="A." surname="Murthy"/>
@@ -10,6 +11,13 @@
     <author fullname="Robert Saunders" initials="R." surname="Saunders"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

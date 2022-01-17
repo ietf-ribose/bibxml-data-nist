@@ -2,11 +2,25 @@
   <front>
     <title>2012 Proceedings of the Performance Metrics for Intelligent Systems (PerMI ‘12) Workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1136"/>
-    <author fullname="Rajmohan Madhavan" initials="R." surname="Madhavan"/>
-    <author fullname="Elena Messina" initials="E." surname="Messina"/>
-    <author fullname="Brian Weiss" initials="B." surname="Weiss"/>
+    <seriesInfo name="NIST" value="NIST SP 1136"/>
+    <author fullname="Rajmohan Madhavan" initials="R." surname="Madhavan">
+      <organization>Intelligent Systems Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Elena Messina" initials="E." surname="Messina">
+      <organization>Intelligent Systems Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Brian Weiss" initials="B." surname="Weiss">
+      <organization>Intelligent Systems Division, Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="November"/>
   </front>

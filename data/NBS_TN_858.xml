@@ -2,10 +2,18 @@
   <front>
     <title>A program for the survey of fire loads and live loads in office buildings</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.858"/>
+    <seriesInfo name="NIST" value="NBS TN 858"/>
     <author fullname="Charles Culver" initials="C." surname="Culver"/>
     <author fullname="Jill Kushner" initials="J." surname="Kushner"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

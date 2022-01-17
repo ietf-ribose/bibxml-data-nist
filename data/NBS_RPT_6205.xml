@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.6205" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6205.pdf">
   <front>
-    <title>Boiling tests of insulation for underground heat distribution systems : an interim report</title>
+    <title>Boiling tests of insulation for underground heat distribution systems :an interim report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6205"/>
+    <seriesInfo name="NIST" value="NBS RPT 6205"/>
     <author fullname="Selden Cole" initials="S." surname="Cole"/>
     <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
     <author fullname="Frank Powlitch" initials="F." surname="Powlitch"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958"/>
   </front>

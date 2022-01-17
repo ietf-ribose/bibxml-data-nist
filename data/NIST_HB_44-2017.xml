@@ -2,11 +2,25 @@
   <front>
     <title>Specifications, tolerances, and other technical requirements for weighing and measuring devices (HB 44 2017 ed)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.44-2017"/>
-    <author fullname="Tina Butcher" initials="T." surname="Butcher"/>
-    <author fullname="Linda Crown" initials="L." surname="Crown"/>
-    <author fullname="Richard Harshman" initials="R." surname="Harshman"/>
+    <seriesInfo name="NIST" value="NIST HB 44-2017"/>
+    <author fullname="Tina Butcher" initials="T." surname="Butcher">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Linda Crown" initials="L." surname="Crown">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Richard Harshman" initials="R." surname="Harshman">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

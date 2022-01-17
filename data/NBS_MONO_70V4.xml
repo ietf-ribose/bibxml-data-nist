@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.70v4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph70v4.pdf">
   <front>
-    <title>Microwave spectral tables : volume IV. polyatomic molecules without internal rotation</title>
+    <title>Microwave spectral tables :volume IV. polyatomic molecules without internal rotation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v4"/>
+    <seriesInfo name="NIST" value="NBS MONO 70v4"/>
     <author fullname="Marian Cord" initials="M." surname="Cord"/>
     <author fullname="Jean Petersen" initials="J." surname="Petersen"/>
     <author fullname="Matthew Lojko" initials="M." surname="Lojko"/>
     <author fullname="Rudolph Haas" initials="R." surname="Haas"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

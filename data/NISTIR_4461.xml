@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.4461" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4461.pdf">
   <front>
-    <title>Polymer Composite Processing: 2nd industry workshop held at NIST Gaithersburg, MD, May 18, 1990</title>
+    <title>Polymer Composite Processing:2nd industry workshop held at NIST Gaithersburg, MD, May 18, 1990</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4461"/>
+    <seriesInfo name="NIST" value="NIST IR 4461"/>
     <author fullname="Carl Johnson" initials="C." surname="Johnson"/>
     <author fullname="ShuSing Chang" initials="S.S." surname="Chang"/>
     <author fullname="Donald Hunston" initials="D." surname="Hunston"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

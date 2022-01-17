@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8357" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8357.pdf">
+<reference anchor="NIST.IR.8357" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8357.pdf">
   <front>
     <title>Evaluation of Experimental and Predicted Vapor-Liquid Equilibrium Data for Systems Relevant to Biomass Fast Pyrolysis and Catalytic Upgrading</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8357"/>
-    <author fullname="Eugene Paulechka" initials="E." surname="Paulechka"/>
-    <author fullname="Vladimir Diky" initials="V." surname="Diky"/>
-    <author fullname="Abhijit Dutta" initials="A." surname="Dutta"/>
+    <seriesInfo name="NIST" value="NIST IR 8357"/>
+    <author fullname="Eugene Paulechka" initials="E." surname="Paulechka">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Vladimir Diky" initials="V." surname="Diky">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Abhijit Dutta" initials="A." surname="Dutta">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

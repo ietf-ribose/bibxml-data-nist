@@ -1,11 +1,19 @@
 <reference anchor="NIST.SP.260-138" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-138.pdf">
   <front>
-    <title>Standard Reference Materials : Tin freezing-point standard</title>
+    <title>Standard Reference Materials :Tin freezing-point standard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-138"/>
+    <seriesInfo name="NIST" value="NIST SP 260-138"/>
     <author fullname="Natalia Moiseeva" initials="N." surname="Moiseeva"/>
     <author fullname="Gregory Strouse" initials="G." surname="Strouse"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

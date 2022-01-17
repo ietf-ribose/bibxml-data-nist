@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.81-2361" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2361.pdf">
   <front>
-    <title>Crowd ingress to places of assembly : summary and proceedings of an experts' workshop</title>
+    <title>Crowd ingress to places of assembly :summary and proceedings of an experts' workshop</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2361"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2361"/>
     <author fullname="Francis Ventre" initials="F." surname="Ventre"/>
     <author fullname="Fred Stahl" initials="F." surname="Stahl"/>
     <author fullname="George Turner" initials="G." surname="Turner"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

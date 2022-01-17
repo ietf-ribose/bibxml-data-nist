@@ -2,7 +2,10 @@
   <front>
     <title>NIST Cryptographic Standards and Guidelines Development Process</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7977"/>
-    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
+    <seriesInfo name="NIST" value="NIST IR 7977"/>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

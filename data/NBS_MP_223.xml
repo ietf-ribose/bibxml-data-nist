@@ -1,9 +1,17 @@
 <reference anchor="NBS.MP.223" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub223.pdf">
   <front>
-    <title>Annual Report 1957 National Bureau of Standards Issued for Fiscal Year 1957</title>
+    <title>Annual Report 1957 National Bureau of StandardsIssued for Fiscal Year 1957</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MP.223"/>
+    <seriesInfo name="NIST" value="NBS MP 223"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1957"/>
   </front>

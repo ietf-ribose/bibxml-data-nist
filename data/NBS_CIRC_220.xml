@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.220" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular220.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 220: United States government master specification for stomach or lavage tube</title>
+    <title>Circular of the Bureau of Standards no. 220:United States government master specification for stomach or lavage tube</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.220"/>
+    <seriesInfo name="NIST" value="NBS CIRC 220"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

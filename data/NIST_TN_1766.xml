@@ -2,12 +2,28 @@
   <front>
     <title>Workshop Report for Ambulance Patient Compartment Design</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1766"/>
-    <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney"/>
-    <author fullname="Deogratias Kibira" initials="D." surname="Kibira"/>
-    <author fullname="Yung-Tsun Lee" initials="Y." surname="Lee"/>
-    <author fullname="Jennifer Marshall" initials="J." surname="Marshall"/>
+    <seriesInfo name="NIST" value="NIST TN 1766"/>
+    <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney">
+      <organization>Systems Integration Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Deogratias Kibira" initials="D." surname="Kibira">
+      <organization>Systems Integration Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Yung-Tsun Lee" initials="Y." surname="Lee">
+      <organization>Systems Integration Division, Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jennifer Marshall" initials="J." surname="Marshall">
+      <organization>Systems Integration Division, Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="November"/>
   </front>

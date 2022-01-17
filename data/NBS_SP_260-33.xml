@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.260-33" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-33.pdf">
   <front>
-    <title>Standard Reference Materials : Comparison of original and supplemental SRM 705, narrow molecular weight distribution polystyrene/</title>
+    <title>Standard Reference Materials :Comparison of original and supplemental SRM 705, narrow molecular weight distribution polystyrene/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-33"/>
+    <seriesInfo name="NIST" value="NBS SP 260-33"/>
     <author fullname="Herman Wagner" initials="H." surname="Wagner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

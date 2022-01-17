@@ -2,10 +2,18 @@
   <front>
     <title>Computer security training guidelines</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-172"/>
+    <seriesInfo name="NIST" value="NIST SP 500-172"/>
     <author fullname="MaryAnne Todd" initials="M.A." surname="Todd"/>
     <author fullname="Constance Guitian" initials="C." surname="Guitian"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

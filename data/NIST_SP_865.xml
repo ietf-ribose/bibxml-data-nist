@@ -2,10 +2,18 @@
   <front>
     <title>NIST workshop on gas sensors</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.865"/>
+    <seriesInfo name="NIST" value="NIST SP 865"/>
     <author fullname="Stephen Semancik" initials="S." surname="Semancik"/>
     <author fullname="Stephen Semancik" initials="S." surname="Semancik"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

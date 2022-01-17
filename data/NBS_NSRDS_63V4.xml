@@ -1,11 +1,19 @@
 <reference anchor="NBS.NSRDS.63v4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds63v4.pdf">
   <front>
-    <title>EPANIH mass spectral data base : volume 4. molecular weights 381-1674</title>
+    <title>EPANIH mass spectral data base :volume 4. molecular weights 381-1674</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.63v4"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 63v4"/>
     <author fullname="Stephen Heller" initials="S." surname="Heller"/>
     <author surname="Milne"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

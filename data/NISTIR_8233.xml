@@ -1,12 +1,26 @@
 <reference anchor="NIST.IR.8233" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8233.pdf">
   <front>
-    <title>Polycyclic aromatic hydrocarbons (PAHs) in marine mammal blubber: results from an interlaboratory study</title>
+    <title>Polycyclic aromatic hydrocarbons (PAHs) in marine mammal blubber:results from an interlaboratory study</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8233"/>
-    <author fullname="Kevin Huncik" initials="K." surname="Huncik"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Jared Ragland" initials="J." surname="Ragland"/>
+    <seriesInfo name="NIST" value="NIST IR 8233"/>
+    <author fullname="Kevin Huncik" initials="K." surname="Huncik">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="John Kucklick" initials="J." surname="Kucklick">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jared Ragland" initials="J." surname="Ragland">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

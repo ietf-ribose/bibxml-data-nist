@@ -2,10 +2,18 @@
   <front>
     <title>Survey of remote terminal emulators</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-4"/>
+    <seriesInfo name="NIST" value="NBS SP 500-4"/>
     <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins"/>
     <author fullname="Marshall Abrams" initials="M." surname="Abrams"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

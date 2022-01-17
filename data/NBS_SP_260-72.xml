@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.260-72" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-72.pdf">
   <front>
-    <title>Standard Reference Materials SRM 900, antiepilepsy drug level assay standard</title>
+    <title>Standard Reference MaterialsSRM 900, antiepilepsy drug level assay standard</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-72"/>
+    <seriesInfo name="NIST" value="NBS SP 260-72"/>
     <author fullname="Richard Christensen" initials="R." surname="Christensen"/>
     <author fullname="Bruce Coxon" initials="B." surname="Coxon"/>
     <author fullname="Barbara Howell" initials="B." surname="Howell"/>
@@ -11,6 +12,13 @@
     <author fullname="Robert Schaffer" initials="R." surname="Schaffer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.960-14e2005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-14e2005.pdf">
   <front>
-    <title>WWVB radio controlled clocks : recommended practices for manufacturers and consumers</title>
+    <title>WWVB radio controlled clocks :recommended practices for manufacturers and consumers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.960-14e2005"/>
+    <seriesInfo name="NIST" value="NIST SP 960-14e2005"/>
     <author fullname="Michael Lombardi" initials="M." surname="Lombardi"/>
     <author fullname="Andrew Novick" initials="A." surname="Novick"/>
     <author fullname="John Lowe" initials="J." surname="Lowe"/>
@@ -11,6 +12,13 @@
     <author fullname="William Yates" initials="W." surname="Yates"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

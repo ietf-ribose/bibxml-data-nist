@@ -2,12 +2,28 @@
   <front>
     <title>Interference tests at room temperature applied to deployed low-noise receivers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1971"/>
-    <author fullname="Daniel Kuester" initials="D." surname="Kuester"/>
-    <author fullname="Duncan McGillivray" initials="D." surname="McGillivray"/>
-    <author fullname="Adam Wunderlich" initials="A." surname="Wunderlich"/>
-    <author fullname="William Young" initials="W." surname="Young"/>
+    <seriesInfo name="NIST" value="NIST TN 1971"/>
+    <author fullname="Daniel Kuester" initials="D." surname="Kuester">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Duncan McGillivray" initials="D." surname="McGillivray">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Adam Wunderlich" initials="A." surname="Wunderlich">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="William Young" initials="W." surname="Young">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="October" day="18"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4467" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4467.pdf">
   <front>
-    <title>SNMPLIB: a Simple Network Management Protocol function library for IBM PC compatible computers</title>
+    <title>SNMPLIB:a Simple Network Management Protocol function library for IBM PC compatible computers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4467"/>
+    <seriesInfo name="NIST" value="NIST IR 4467"/>
     <author fullname="Robert Crosson" initials="R." surname="Crosson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

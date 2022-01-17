@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.79-1738" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1738.pdf">
   <front>
-    <title>EVACNET : prototype network optimization models for building evacuation</title>
+    <title>EVACNET :prototype network optimization models for building evacuation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1738"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1738"/>
     <author fullname="Richard Francis" initials="R." surname="Francis"/>
     <author fullname="Patsy Saunders" initials="P." surname="Saunders"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>The transactive energy abstract component model</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-750"/>
-    <author fullname="Martin Burns" initials="M." surname="Burns"/>
-    <author fullname="Eugene Song" initials="E." surname="Song"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-750"/>
+    <author fullname="Martin Burns" initials="M." surname="Burns">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Eugene Song" initials="E." surname="Song">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Holmberg" initials="D." surname="Holmberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

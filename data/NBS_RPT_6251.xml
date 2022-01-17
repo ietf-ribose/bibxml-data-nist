@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.6251" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6251.pdf">
   <front>
-    <title>Performance tests of two cleanable impingement air filters Vortox types VN1 and VN2 : manufactured by Vortox Company Claremont, California</title>
+    <title>Performance tests of two cleanable impingement air filters Vortox types VN1 and VN2 :manufactured by Vortox Company Claremont, California</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6251"/>
+    <seriesInfo name="NIST" value="NBS RPT 6251"/>
     <author fullname="Carl Coblentz" initials="C." surname="Coblentz"/>
     <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958"/>
   </front>

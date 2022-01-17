@@ -2,6 +2,7 @@
   <front>
     <title>A zoning primer by the advisory committee on zoning appointed by Secretary Hoover (Revised)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.3a"/>
+    <seriesInfo name="NIST" value="NBS BH 3a"/>
     <author fullname="Charles Ball" initials="C." surname="Ball"/>
     <author fullname="Edward Bassett" initials="E." surname="Bassett"/>
     <author fullname="Alfred Bettman" initials="A." surname="Bettman"/>
@@ -14,6 +15,13 @@
     <author fullname="John Gries" initials="J." surname="Gries"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1926"/>
   </front>

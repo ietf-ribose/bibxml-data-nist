@@ -1,8 +1,11 @@
-<reference anchor="NISTIR.8346-04" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8346-04.pdf">
+<reference anchor="NIST.IR.8346-04" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8346-04.pdf">
   <front>
     <title>NIST Time and Frequency Bulletin: April</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8346-04"/>
-    <author fullname="Kelsey Rodriguez" initials="K." surname="Rodriguez"/>
+    <seriesInfo name="NIST" value="NIST IR 8346-04"/>
+    <author fullname="Kelsey Rodriguez" initials="K." surname="Rodriguez">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

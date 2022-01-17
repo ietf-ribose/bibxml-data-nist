@@ -1,9 +1,17 @@
 <reference anchor="NBS.SP.260e1969" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260e1969.pdf">
   <front>
-    <title>Standard Reference Materials Catalog and price list of standard materials issued by the National Bureau of Standards</title>
+    <title>Standard Reference MaterialsCatalog and price list of standard materials issued by the National Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260e1969"/>
+    <seriesInfo name="NIST" value="NBS SP 260e1969"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

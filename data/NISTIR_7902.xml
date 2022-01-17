@@ -2,11 +2,25 @@
   <front>
     <title>Fatigue Flaw NDE Reference Standard Development Phase I— Feasibility Study</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7902"/>
-    <author fullname="Mark Richards" initials="M." surname="Richards"/>
-    <author fullname="David McColskey" initials="D." surname="McColskey"/>
-    <author fullname="Timothy Weeks" initials="T." surname="Weeks"/>
+    <seriesInfo name="NIST" value="NIST IR 7902"/>
+    <author fullname="Mark Richards" initials="M." surname="Richards">
+      <organization>Applied Chemicals and Materials Division, Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="David McColskey" initials="D." surname="McColskey">
+      <organization>Applied Chemicals and Materials Division, Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Timothy Weeks" initials="T." surname="Weeks">
+      <organization>Applied Chemicals and Materials Division, Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="November"/>
   </front>

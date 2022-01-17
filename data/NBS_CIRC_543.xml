@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.543" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular543.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 543: reference data for orienting quartz plates by x-ray diffraction</title>
+    <title>Circular of the Bureau of Standards no. 543:reference data for orienting quartz plates by x-ray diffraction</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.543"/>
+    <seriesInfo name="NIST" value="NBS CIRC 543"/>
     <author fullname="Catherine Barclay" initials="C." surname="Barclay"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1953"/>
   </front>

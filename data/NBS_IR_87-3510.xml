@@ -2,6 +2,7 @@
   <front>
     <title>Fire toxicity scaling</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3510"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3510"/>
     <author fullname="Emil Braun" initials="E." surname="Braun"/>
     <author fullname="Barbara Levin" initials="B." surname="Levin"/>
     <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
@@ -10,6 +11,13 @@
     <author fullname="Samuel Steel" initials="S." surname="Steel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

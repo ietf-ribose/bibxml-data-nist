@@ -1,12 +1,20 @@
 <reference anchor="NBS.NSRDS.73p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds73p2.pdf">
   <front>
-    <title>Compilation of chemical kinetic data for combustion chemistry : part 2. non-aromatic C, H, O, N, and S containing compounds (1983)</title>
+    <title>Compilation of chemical kinetic data for combustion chemistry :part 2. non-aromatic C, H, O, N, and S containing compounds (1983)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.73p2"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 73p2"/>
     <author fullname="Francis Westley" initials="F." surname="Westley"/>
     <author fullname="John Herron" initials="J." surname="Herron"/>
     <author surname="Cvetanovic"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

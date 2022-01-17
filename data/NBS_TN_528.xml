@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.528" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote528.pdf">
   <front>
-    <title>Tire use survey: the physical condition, use, and performance of passenger car tires in the United States of America</title>
+    <title>Tire use survey:the physical condition, use, and performance of passenger car tires in the United States of America</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.528"/>
+    <seriesInfo name="NIST" value="NBS TN 528"/>
     <author fullname="Jack Harvey" initials="J." surname="Harvey"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

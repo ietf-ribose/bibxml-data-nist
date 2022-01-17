@@ -2,8 +2,13 @@
   <front>
     <title>Simulated Sinewave Testing of Data Acquisition Systems using Sine Fitting and Discrete Fourier Transform Methods Part 1: Frequency Offset, Random, Quantization, and Jitter Noise</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8073"/>
-    <author fullname="Jon Geist" initials="J." surname="Geist"/>
-    <author fullname="Yaqub Afridi" initials="Y." surname="Afridi"/>
+    <seriesInfo name="NIST" value="NIST IR 8073"/>
+    <author fullname="Jon Geist" initials="J." surname="Geist">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Yaqub Afridi" initials="Y." surname="Afridi">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

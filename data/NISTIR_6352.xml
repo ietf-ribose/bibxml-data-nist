@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6352" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6352.pdf">
   <front>
-    <title>Report from the 2nd workshop on: characterization and modeling of the interfaceinterphase of polymeric materials and systems, December 7 and 8, 1998</title>
+    <title>Report from the 2nd workshop on:characterization and modeling of the interfaceinterphase of polymeric materials and systems, December 7 and 8, 1998</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6352"/>
+    <seriesInfo name="NIST" value="NIST IR 6352"/>
     <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
     <author fullname="Charles Han" initials="C." surname="Han"/>
     <author fullname="Richard Cavanagh" initials="R." surname="Cavanagh"/>
     <author fullname="Rose Ryntz" initials="R." surname="Ryntz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

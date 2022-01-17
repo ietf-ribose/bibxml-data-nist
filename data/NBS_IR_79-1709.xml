@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.79-1709" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1709.pdf">
   <front>
-    <title>HUD utilities demonstration series : description of the data acquisition and instrumentation systems</title>
+    <title>HUD utilities demonstration series :description of the data acquisition and instrumentation systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1709"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1709"/>
     <author fullname="Charles Bulik" initials="C." surname="Bulik"/>
     <author fullname="William Rippey" initials="W." surname="Rippey"/>
     <author fullname="Warren Hurley" initials="W." surname="Hurley"/>
     <author fullname="Daniel Rorrer" initials="D." surname="Rorrer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

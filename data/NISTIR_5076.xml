@@ -2,8 +2,16 @@
   <front>
     <title>A bibliography of publications of the NIST Electromagnetic Technology Division</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5076"/>
+    <seriesInfo name="NIST" value="NIST IR 5076"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

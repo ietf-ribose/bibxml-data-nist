@@ -2,6 +2,7 @@
   <front>
     <title>Test methods for quantifying the propensity of cigarettes to ignite soft furnishings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.851-2"/>
+    <seriesInfo name="NIST" value="NIST SP 851-2"/>
     <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
     <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
     <author fullname="Kay Villa" initials="K." surname="Villa"/>
@@ -12,6 +13,13 @@
     <author fullname="Richard Gann" initials="R." surname="Gann"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

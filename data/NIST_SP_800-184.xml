@@ -2,14 +2,34 @@
   <front>
     <title>Guide for cybersecurity event recovery</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-184"/>
-    <author fullname="Michael Bartock" initials="M." surname="Bartock"/>
-    <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski"/>
-    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya"/>
-    <author fullname="Matthew Smith" initials="M." surname="Smith"/>
-    <author fullname="Greg Witte" initials="G." surname="Witte"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
+    <seriesInfo name="NIST" value="NIST SP 800-184"/>
+    <author fullname="Michael Bartock" initials="M." surname="Bartock">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Smith" initials="M." surname="Smith">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Greg Witte" initials="G." surname="Witte">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

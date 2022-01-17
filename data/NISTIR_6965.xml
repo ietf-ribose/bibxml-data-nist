@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6965" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6965.pdf">
   <front>
-    <title>Face recognition vendor test 2002 : evaluation report</title>
+    <title>Face recognition vendor test 2002 :evaluation report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6965"/>
+    <seriesInfo name="NIST" value="NIST IR 6965"/>
     <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
     <author fullname="Patrick Grother" initials="P." surname="Grother"/>
     <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
@@ -10,6 +11,13 @@
     <author fullname="Mike Bone" initials="M." surname="Bone"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

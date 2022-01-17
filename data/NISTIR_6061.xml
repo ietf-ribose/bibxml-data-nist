@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6061" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6061.pdf">
   <front>
-    <title>Laser trackers: traceability, uncertainty, and standardization</title>
+    <title>Laser trackers:traceability, uncertainty, and standardization</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6061"/>
+    <seriesInfo name="NIST" value="NIST IR 6061"/>
     <author surname="Caskey"/>
     <author fullname="Jr Fronczek" initials="J." surname="Fronczek"/>
     <author surname="Phillips"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.6326" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6326.pdf">
   <front>
-    <title>Evaluation of dental cutting procedure: method and apparatus, progress report</title>
+    <title>Evaluation of dental cutting procedure:method and apparatus, progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6326"/>
+    <seriesInfo name="NIST" value="NBS RPT 6326"/>
     <author fullname="Robert Perkins" initials="R." surname="Perkins"/>
     <author fullname="John Kumpula" initials="J." surname="Kumpula"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958"/>
   </front>

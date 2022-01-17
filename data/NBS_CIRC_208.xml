@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.208" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular208.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 208: United States government master specification for wire rope</title>
+    <title>Circular of the Bureau of Standards no. 208:United States government master specification for wire rope</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.208"/>
+    <seriesInfo name="NIST" value="NBS CIRC 208"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

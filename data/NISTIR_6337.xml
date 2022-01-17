@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6337" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6337.pdf">
   <front>
-    <title>International workshop on green chemistry and engineering: global collaborations</title>
+    <title>International workshop on green chemistry and engineering:global collaborations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6337"/>
+    <seriesInfo name="NIST" value="NIST IR 6337"/>
     <author fullname="Ellyn Beary" initials="E." surname="Beary"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

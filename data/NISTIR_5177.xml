@@ -2,6 +2,7 @@
   <front>
     <title>The ENDFB-VI neutron cross section measurement standards</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5177"/>
+    <seriesInfo name="NIST" value="NIST IR 5177"/>
     <author surname="Hale"/>
     <author surname="Peelle"/>
     <author surname="Dodder"/>
@@ -9,6 +10,13 @@
     <author surname="Mannhart"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

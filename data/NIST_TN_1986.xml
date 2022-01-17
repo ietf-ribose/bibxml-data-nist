@@ -2,11 +2,25 @@
   <front>
     <title>Investigation of residential cooktop ignition prevention technologies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1986"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="SungChan Kim" initials="S.C." surname="Kim"/>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy"/>
+    <seriesInfo name="NIST" value="NIST TN 1986"/>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="SungChan Kim" initials="S.C." surname="Kim">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="May"/>
   </front>

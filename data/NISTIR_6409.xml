@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6409" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6409.pdf">
   <front>
-    <title>Standards road map project: standards classification strategy and methodology, a test of the Manufacturing-Enterprise-Integration Project</title>
+    <title>Standards road map project:standards classification strategy and methodology, a test of the Manufacturing-Enterprise-Integration Project</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6409"/>
+    <seriesInfo name="NIST" value="NIST IR 6409"/>
     <author fullname="James Nell" initials="J." surname="Nell"/>
     <author fullname="Neil Christopher" initials="N." surname="Christopher"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

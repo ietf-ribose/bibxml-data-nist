@@ -1,9 +1,14 @@
-<reference anchor="NISTIR.8378" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8378.pdf">
+<reference anchor="NIST.IR.8378" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8378.pdf">
   <front>
     <title>Model of Operational Control of Discrete Event Logistics Systems (DELS)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8378"/>
-    <author fullname="Timothy Sprock" initials="T." surname="Sprock"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
+    <seriesInfo name="NIST" value="NIST IR 8378"/>
+    <author fullname="Timothy Sprock" initials="T." surname="Sprock">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

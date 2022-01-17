@@ -2,9 +2,17 @@
   <front>
     <title>A key notarization system for computer networks</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-54"/>
+    <seriesInfo name="NIST" value="NBS SP 500-54"/>
     <author fullname="Miles Smid" initials="M." surname="Smid"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.293" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular293.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 293: United States government general specification for textile materials (methods of physical and chemical tests)</title>
+    <title>Circular of the Bureau of Standards no. 293:United States government general specification for textile materials (methods of physical and chemical tests)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.293"/>
+    <seriesInfo name="NIST" value="NBS CIRC 293"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

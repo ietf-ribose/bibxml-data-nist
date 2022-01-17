@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.260-147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-147.pdf">
   <front>
-    <title>Standard reference materials : certification of the rheological behavior of SRM 2491, polydimethylsiloxane</title>
+    <title>Standard reference materials :certification of the rheological behavior of SRM 2491, polydimethylsiloxane</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-147"/>
+    <seriesInfo name="NIST" value="NIST SP 260-147"/>
     <author fullname="Carl Schultheisz" initials="C." surname="Schultheisz"/>
     <author fullname="Kathleen Flynn" initials="K." surname="Flynn"/>
     <author fullname="Stefan Leigh" initials="S." surname="Leigh"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

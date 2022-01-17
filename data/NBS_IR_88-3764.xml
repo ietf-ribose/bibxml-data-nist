@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.88-3764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3764.pdf">
   <front>
-    <title>Large-scale compartment fire toxicity study : comparison with small-scale toxicity test results</title>
+    <title>Large-scale compartment fire toxicity study :comparison with small-scale toxicity test results</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3764"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3764"/>
     <author fullname="Emil Braun" initials="E." surname="Braun"/>
     <author fullname="Barbara Levin" initials="B." surname="Levin"/>
     <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
@@ -10,6 +11,13 @@
     <author fullname="Margaret Yoklavich" initials="M." surname="Yoklavich"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

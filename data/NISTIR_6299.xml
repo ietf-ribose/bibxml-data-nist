@@ -2,10 +2,18 @@
   <front>
     <title>A heat transfer model for fire fighter's protective clothing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6299"/>
+    <seriesInfo name="NIST" value="NIST IR 6299"/>
     <author fullname="William Mell" initials="W." surname="Mell"/>
     <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

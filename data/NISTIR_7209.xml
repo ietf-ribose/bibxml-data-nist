@@ -2,6 +2,7 @@
   <front>
     <title>Slap fingerprint segmentation evaluation 2004 analysis report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7209"/>
+    <seriesInfo name="NIST" value="NIST IR 7209"/>
     <author fullname="Bradford Ulery" initials="B." surname="Ulery"/>
     <author fullname="Austin Hicklin" initials="A." surname="Hicklin"/>
     <author fullname="Craig Watson" initials="C." surname="Watson"/>
@@ -9,6 +10,13 @@
     <author fullname="Kayee Kwong" initials="K." surname="Kwong"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

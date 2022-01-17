@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.260-47" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-47.pdf">
   <front>
-    <title>Standard Reference Materials : Electrical resistivity of electrolytic iron, SRM 797, and austenitic stainless steel, SRM 798, from 5 to 280 K/</title>
+    <title>Standard Reference Materials :Electrical resistivity of electrolytic iron, SRM 797, and austenitic stainless steel, SRM 798, from 5 to 280 K/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-47"/>
+    <seriesInfo name="NIST" value="NBS SP 260-47"/>
     <author surname="Hust"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

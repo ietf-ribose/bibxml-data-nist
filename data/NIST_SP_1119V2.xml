@@ -2,12 +2,20 @@
   <front>
     <title>Technical study of the sofa super store fire</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1119v2"/>
+    <seriesInfo name="NIST" value="NIST SP 1119v2"/>
     <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
     <author fullname="Stephen Fuss" initials="S." surname="Fuss"/>
     <author fullname="Bryan Klein" initials="B." surname="Klein"/>
     <author fullname="Anthony Putorti" initials="A." surname="Putorti"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

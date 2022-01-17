@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.5901" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5901.pdf">
   <front>
-    <title>Proposed performance criteria for encapsulant coatings for lead-based paint: I. abrasion resistance</title>
+    <title>Proposed performance criteria for encapsulant coatings for lead-based paint:I. abrasion resistance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5901"/>
+    <seriesInfo name="NIST" value="NIST IR 5901"/>
     <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
     <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
     <author fullname="Willard Roberts" initials="W." surname="Roberts"/>
     <author fullname="Kevin Kraft" initials="K." surname="Kraft"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4401" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4401.pdf">
   <front>
-    <title>Fire Risk Assessment Method: guide to the risk methodology software</title>
+    <title>Fire Risk Assessment Method:guide to the risk methodology software</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4401"/>
+    <seriesInfo name="NIST" value="NIST IR 4401"/>
     <author fullname="Lynn Forney" initials="L." surname="Forney"/>
     <author fullname="Walter Jones" initials="W." surname="Jones"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

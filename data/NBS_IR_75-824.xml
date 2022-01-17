@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.75-824" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-824.pdf">
   <front>
-    <title>Plane-wave scattering-matrix theory of antennas and antenna-antenna interactions : formulation and applications</title>
+    <title>Plane-wave scattering-matrix theory of antennas and antenna-antenna interactions :formulation and applications</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-824"/>
+    <seriesInfo name="NIST" value="NBS IR 75-824"/>
     <author fullname="David Kerns" initials="D." surname="Kerns"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6366" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6366.pdf">
   <front>
-    <title>Next generation fire suppression technology program (NGP): 1998 technical highlights</title>
+    <title>Next generation fire suppression technology program (NGP):1998 technical highlights</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6366"/>
+    <seriesInfo name="NIST" value="NIST IR 6366"/>
     <author fullname="Richard Gann" initials="R." surname="Gann"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

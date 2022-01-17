@@ -2,11 +2,19 @@
   <front>
     <title>A catalog of data compilations on photochemical and photophysical processes in solution</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.578"/>
+    <seriesInfo name="NIST" value="NBS SP 578"/>
     <author fullname="James Brummer" initials="J." surname="Brummer"/>
     <author fullname="Phillip Helman" initials="P." surname="Helman"/>
     <author fullname="Alberta Ross" initials="A." surname="Ross"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

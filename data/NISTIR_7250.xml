@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7250" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7250.pdf">
   <front>
-    <title>Cell phone forensic tools : an overview and analysis</title>
+    <title>Cell phone forensic tools :an overview and analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7250"/>
+    <seriesInfo name="NIST" value="NIST IR 7250"/>
     <author fullname="Rick Ayers" initials="R." surname="Ayers"/>
     <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
     <author fullname="Nicolas Cilleros" initials="N." surname="Cilleros"/>
     <author fullname="Ronan Daniellou" initials="R." surname="Daniellou"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

@@ -2,7 +2,10 @@
   <front>
     <title>2014 NIST Assessment of Phasor Measurement Unit Performance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8106"/>
-    <author fullname="Allen Goldstein" initials="A." surname="Goldstein"/>
+    <seriesInfo name="NIST" value="NIST IR 8106"/>
+    <author fullname="Allen Goldstein" initials="A." surname="Goldstein">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,6 +2,7 @@
   <front>
     <title>Analytical standards for trace elements in petroleum products</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.54"/>
+    <seriesInfo name="NIST" value="NBS MONO 54"/>
     <author surname="Isbell"/>
     <author fullname="Stuart Tipson" initials="S." surname="Tipson"/>
     <author surname="Hague"/>
@@ -11,6 +12,13 @@
     <author fullname="Alex Cohen" initials="A." surname="Cohen"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

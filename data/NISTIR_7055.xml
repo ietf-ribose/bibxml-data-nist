@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7055" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7055.pdf">
   <front>
-    <title>Advanced engineering environments for small manufacturing enterprises : volume I</title>
+    <title>Advanced engineering environments for small manufacturing enterprises :volume I</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7055"/>
+    <seriesInfo name="NIST" value="NIST IR 7055"/>
     <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
     <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
     <author fullname="Young Choi" initials="Y." surname="Choi"/>
@@ -9,6 +10,13 @@
     <author fullname="John Robert" initials="J." surname="Robert"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

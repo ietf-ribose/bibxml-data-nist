@@ -2,9 +2,19 @@
   <front>
     <title>The ionosphere as a measure of solar activity</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IRPL.26"/>
-    <author surname="Phillips"/>
+    <seriesInfo name="NIST" value="NBS IRPL 26"/>
+    <author surname="Phillips">
+      <organization>Interservice Radio Propagation Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1945"/>
   </front>

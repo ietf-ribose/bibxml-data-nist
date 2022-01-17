@@ -2,12 +2,28 @@
   <front>
     <title>Measurement of the flow resistance of vegetation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2039"/>
-    <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Blaza Toman" initials="B." surname="Toman"/>
-    <author fullname="Marco Fernandez" initials="M." surname="Fernandez"/>
+    <seriesInfo name="NIST" value="NIST TN 2039"/>
+    <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Blaza Toman" initials="B." surname="Toman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Marco Fernandez" initials="M." surname="Fernandez">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

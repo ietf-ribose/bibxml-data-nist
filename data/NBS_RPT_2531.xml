@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.2531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2531.pdf">
   <front>
-    <title>Grease filter test methods : progress report for December 1, 1952 to April 30, 1953</title>
+    <title>Grease filter test methods :progress report for December 1, 1952 to April 30, 1953</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.2531"/>
+    <seriesInfo name="NIST" value="NBS RPT 2531"/>
     <author fullname="Carl Coblentz" initials="C." surname="Coblentz"/>
     <author fullname="PR Achenbach" initials="P." surname="Achenbach"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1953"/>
   </front>

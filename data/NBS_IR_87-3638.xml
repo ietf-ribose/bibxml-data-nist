@@ -2,10 +2,18 @@
   <front>
     <title>Some performance comparisons for a fluid dynamics code</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3638"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3638"/>
     <author fullname="Daniel Lozier" initials="D." surname="Lozier"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.4656" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4656.pdf">
   <front>
-    <title>Proceedings of the forum on standards for high integrity software (DOD, government, industry); Gaithersburg, MD: June 28, 1991</title>
+    <title>Proceedings of the forum on standards for high integrity software (DOD, government, industry); Gaithersburg, MD:June 28, 1991</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4656"/>
+    <seriesInfo name="NIST" value="NIST IR 4656"/>
     <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
     <author fullname="Michael Brown" initials="M." surname="Brown"/>
     <author fullname="ArchibaldMcKinlay, VI" initials="A.M." surname="VI"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

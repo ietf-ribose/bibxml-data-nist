@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.4930" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4930.pdf">
   <front>
-    <title>DARPA TIMIT: acoustic-phonetic continuous speech corpus CD-ROM, NIST speech disc 1-1.1</title>
+    <title>DARPA TIMIT:acoustic-phonetic continuous speech corpus CD-ROM, NIST speech disc 1-1.1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4930"/>
+    <seriesInfo name="NIST" value="NIST IR 4930"/>
     <author fullname="John Garofolo" initials="J." surname="Garofolo"/>
     <author fullname="Lori Lamel" initials="L." surname="Lamel"/>
     <author fullname="William Fisher" initials="W." surname="Fisher"/>
@@ -10,6 +11,13 @@
     <author fullname="Nancy Dahlgren" initials="N." surname="Dahlgren"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

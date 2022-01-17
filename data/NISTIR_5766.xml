@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5766" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5766.pdf">
   <front>
-    <title>Solid propellant gas generators: proceedings of the 1995 workshop</title>
+    <title>Solid propellant gas generators:proceedings of the 1995 workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5766"/>
+    <seriesInfo name="NIST" value="NIST IR 5766"/>
     <author fullname="Jiann Yang" initials="J." surname="Yang"/>
     <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

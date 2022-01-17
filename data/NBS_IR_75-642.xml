@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.75-642" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-642.pdf">
   <front>
-    <title>Project summaries of the Center for Building Technology : National Bureau of Standards 1974-75</title>
+    <title>Project summaries of the Center for Building Technology :National Bureau of Standards 1974-75</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-642"/>
+    <seriesInfo name="NIST" value="NBS IR 75-642"/>
     <author fullname="Lillian Slovic" initials="L." surname="Slovic"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

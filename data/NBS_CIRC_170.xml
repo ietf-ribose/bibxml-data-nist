@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.170" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular170.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 170: United States government master specification for the construction of built-up roofing, type 4AWS</title>
+    <title>Circular of the Bureau of Standards no. 170:United States government master specification for the construction of built-up roofing, type 4AWS</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.170"/>
+    <seriesInfo name="NIST" value="NBS CIRC 170"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1924"/>
   </front>

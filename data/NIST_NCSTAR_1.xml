@@ -1,7 +1,8 @@
 <reference anchor="NIST.NCSTAR.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1.pdf">
   <front>
-    <title>Final report on the collapse of the World Trade Center towers : federal building and fire safety investigation of the World Trade Center disaster</title>
+    <title>Final report on the collapse of the World Trade Center towers :federal building and fire safety investigation of the World Trade Center disaster</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1"/>
     <author fullname="Shyam Sunder" initials="S." surname="Sunder"/>
     <author fullname="Richard Gann" initials="R." surname="Gann"/>
     <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
@@ -17,6 +18,13 @@
     <author fullname="Stephen Cauffman" initials="S." surname="Cauffman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

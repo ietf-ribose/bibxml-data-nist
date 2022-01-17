@@ -2,6 +2,7 @@
   <front>
     <title>Operational and technical requirements of the laboratory accreditation program for bulk asbestos analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3879"/>
+    <seriesInfo name="NIST" value="NIST IR 88-3879"/>
     <author fullname="Harvey Berger" initials="H." surname="Berger"/>
     <author fullname="Lawrence Galowin" initials="L." surname="Galowin"/>
     <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
@@ -9,6 +10,13 @@
     <author fullname="Jennifer Verkouteren" initials="J." surname="Verkouteren"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>Source code security analysis tool test plan version 1.1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-270v1.1"/>
+    <seriesInfo name="NIST" value="NIST SP 500-270v1 1"/>
     <author fullname="Michael Koo" initials="M." surname="Koo"/>
     <author fullname="Romain Gaucher" initials="R." surname="Gaucher"/>
     <author fullname="Charline Cleraux" initials="C." surname="Cleraux"/>
     <author fullname="JeniseReyes Rodriguez" initials="J.R." surname="Rodriguez"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

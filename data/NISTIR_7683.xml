@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7683" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7683.pdf">
   <front>
-    <title>Sustainable manufacturing program workshop report : metrics, standards, and infrastructure-NIST workshop report</title>
+    <title>Sustainable manufacturing program workshop report :metrics, standards, and infrastructure-NIST workshop report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7683"/>
+    <seriesInfo name="NIST" value="NIST IR 7683"/>
     <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
     <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
     <author fullname="Anantha Narayanan" initials="A." surname="Narayanan"/>
@@ -11,6 +12,13 @@
     <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

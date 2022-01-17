@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-64.pdf">
   <front>
-    <title>Standard Reference Materials : A fluorescence standard reference material /</title>
+    <title>Standard Reference Materials :A fluorescence standard reference material /</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-64"/>
+    <seriesInfo name="NIST" value="NBS SP 260-64"/>
     <author surname="Mielenz"/>
     <author surname="Velapoldi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

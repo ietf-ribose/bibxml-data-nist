@@ -2,8 +2,16 @@
   <front>
     <title>Federal Information Processing Standards Publication: secure hash standard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.FIPS.180-1"/>
+    <seriesInfo name="NIST" value="NIST FIPS 180-1"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

@@ -2,14 +2,34 @@
   <front>
     <title>Identity and access management for electric utilities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-2"/>
-    <author fullname="Jim McCarthy" initials="J." surname="McCarthy"/>
-    <author fullname="Don Faatz" initials="D." surname="Faatz"/>
-    <author fullname="Harry Perper" initials="H." surname="Perper"/>
-    <author fullname="Chris Peloquin" initials="C." surname="Peloquin"/>
-    <author fullname="John Wiltberger" initials="J." surname="Wiltberger"/>
-    <author fullname="Leah Kauffman" initials="L." surname="Kauffman"/>
+    <seriesInfo name="NIST" value="NIST SP 1800-2"/>
+    <author fullname="Jim McCarthy" initials="J." surname="McCarthy">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Don Faatz" initials="D." surname="Faatz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Harry Perper" initials="H." surname="Perper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Chris Peloquin" initials="C." surname="Peloquin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Wiltberger" initials="J." surname="Wiltberger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Leah Kauffman" initials="L." surname="Kauffman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July"/>
   </front>

@@ -2,8 +2,13 @@
   <front>
     <title>Indoor Environmental Resilience</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1882"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
+    <seriesInfo name="NIST" value="NIST TN 1882"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

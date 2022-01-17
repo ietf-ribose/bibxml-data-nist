@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.6826" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6826.pdf">
   <front>
-    <title>A procedure for the determination of the noble metal content of dental gold alloys: progress report</title>
+    <title>A procedure for the determination of the noble metal content of dental gold alloys:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6826"/>
+    <seriesInfo name="NIST" value="NBS RPT 6826"/>
     <author fullname="Harold Caul" initials="H." surname="Caul"/>
     <author fullname="Martin Susa" initials="M." surname="Susa"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1960"/>
   </front>

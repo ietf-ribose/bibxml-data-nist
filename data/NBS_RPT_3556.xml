@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.3556" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3556.pdf">
   <front>
-    <title>Propagation aspects of TACAN system coverage : for a NDB symposium on TACAN at Washington, D.C. November 3-4, 1955</title>
+    <title>Propagation aspects of TACAN system coverage :for a NDB symposium on TACAN at Washington, D.C. November 3-4, 1955</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.3556"/>
+    <seriesInfo name="NIST" value="NBS RPT 3556"/>
     <author fullname="Martin Decker" initials="M." surname="Decker"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1955" month="October"/>
   </front>

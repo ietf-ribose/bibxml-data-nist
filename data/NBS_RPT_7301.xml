@@ -1,13 +1,21 @@
 <reference anchor="NBS.RPT.7301" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7301.pdf">
   <front>
-    <title>Tests of civil defense materials after storage: I. plaster of Paris impregnated cotton bandages</title>
+    <title>Tests of civil defense materials after storage:I. plaster of Paris impregnated cotton bandages</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.7301"/>
+    <seriesInfo name="NIST" value="NBS RPT 7301"/>
     <author fullname="JamesF,Jr Hoag" initials="J.F.J." surname="Hoag"/>
     <author fullname="Emanuel Horowitz" initials="E." surname="Horowitz"/>
     <author fullname="Russell Capott" initials="R." surname="Capott"/>
     <author fullname="Mary Steel" initials="M." surname="Steel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1961"/>
   </front>

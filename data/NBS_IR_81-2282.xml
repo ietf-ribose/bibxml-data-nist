@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.81-2282" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2282.pdf">
   <front>
-    <title>Technical training for measurement practitioners : conference report January 12 and 13, 1981</title>
+    <title>Technical training for measurement practitioners :conference report January 12 and 13, 1981</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2282"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2282"/>
     <author fullname="Lee Phillips" initials="L." surname="Phillips"/>
     <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

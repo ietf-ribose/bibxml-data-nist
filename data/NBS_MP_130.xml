@@ -2,10 +2,18 @@
   <front>
     <title>National directory of commodity specifications 1932/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MP.130"/>
+    <seriesInfo name="NIST" value="NBS MP 130"/>
     <author surname="McAllister"/>
     <author fullname="Clarence Ingels" initials="C." surname="Ingels"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1932"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.3929" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3929.pdf">
   <front>
-    <title>Refrigeration and field equipment : progress report August 1, 1954 to December 31, 1954</title>
+    <title>Refrigeration and field equipment :progress report August 1, 1954 to December 31, 1954</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.3929"/>
+    <seriesInfo name="NIST" value="NBS RPT 3929"/>
     <author fullname="Carl Phillips" initials="C." surname="Phillips"/>
     <author surname="Achenbach"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1955"/>
   </front>

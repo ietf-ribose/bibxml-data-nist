@@ -2,11 +2,19 @@
   <front>
     <title>Radio noise data for the International Geophysical Year, July 1, 1957</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.18"/>
+    <seriesInfo name="NIST" value="NBS TN 18"/>
     <author surname="Crichlow"/>
     <author surname="Disney"/>
     <author surname="Jenkins"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

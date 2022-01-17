@@ -2,10 +2,22 @@
   <front>
     <title>Pool boiling of HFO-1336mzz(Z) on a reentrant cavity surface; extensive measurement and analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2022"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski"/>
-    <author fullname="Lingnan Lin" initials="L." surname="Lin"/>
+    <seriesInfo name="NIST" value="NIST TN 2022"/>
+    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Lingnan Lin" initials="L." surname="Lin">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October"/>
   </front>

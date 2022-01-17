@@ -1,12 +1,26 @@
 <reference anchor="NIST.DCI.001" target="https://nvlpubs.nist.gov/nistpubs/dci/NIST.DCI.001.pdf">
   <front>
-    <title>NIST-NOAA survey instrument for business disruption and recovery associated with extreme events: general instrument applied to the greater Charleston, SC small- and medium-sized business community post-hurricane Irma</title>
+    <title>NIST-NOAA survey instrument for business disruption and recovery associated with extreme events:general instrument applied to the greater Charleston, SC small- and medium-sized business community post-hurricane Irma</title>
     <seriesInfo name="DOI" value="10.6028/NIST.DCI.001"/>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson"/>
-    <author fullname="Eleanor Pierel" initials="E." surname="Pierel"/>
-    <author fullname="Kirstin Dow" initials="K." surname="Dow"/>
+    <seriesInfo name="NIST" value="NIST DCI 001"/>
+    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Eleanor Pierel" initials="E." surname="Pierel">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kirstin Dow" initials="K." surname="Dow">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="September"/>
   </front>

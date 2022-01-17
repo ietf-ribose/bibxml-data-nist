@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.9589" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9589.pdf">
   <front>
-    <title>Full-scale climatic exposure building facility: interim report</title>
+    <title>Full-scale climatic exposure building facility:interim report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9589"/>
+    <seriesInfo name="NIST" value="NBS RPT 9589"/>
     <author fullname="Frank Powell" initials="F." surname="Powell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.5947" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5947.pdf">
   <front>
-    <title>Computerized integrated knowledge based system for high-performance concrete: an overview</title>
+    <title>Computerized integrated knowledge based system for high-performance concrete:an overview</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5947"/>
+    <seriesInfo name="NIST" value="NIST IR 5947"/>
     <author fullname="James Clifton" initials="J." surname="Clifton"/>
     <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
     <author fullname="Lawrence Kaetzel" initials="L." surname="Kaetzel"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

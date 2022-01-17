@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.571" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote571.pdf">
   <front>
-    <title>Methods of measurement for semiconductor materials, process control, and devices : quarterly report July 1 to September 30, 1970</title>
+    <title>Methods of measurement for semiconductor materials, process control, and devices :quarterly report July 1 to September 30, 1970</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.571"/>
+    <seriesInfo name="NIST" value="NBS TN 571"/>
     <author fullname="Murray Bullis" initials="M." surname="Bullis"/>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

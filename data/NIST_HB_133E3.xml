@@ -2,11 +2,19 @@
   <front>
     <title>Checking the net contents of packaged goods</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.133e3"/>
+    <seriesInfo name="NIST" value="NIST HB 133e3"/>
     <author surname="Brickenkamp"/>
     <author surname="Hasko"/>
     <author surname="Natrella"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

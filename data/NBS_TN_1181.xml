@@ -2,9 +2,17 @@
   <front>
     <title>A high-speed data acquisition system for fluid mechanics measurements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1181"/>
+    <seriesInfo name="NIST" value="NBS TN 1181"/>
     <author surname="Purtell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Community-scale fire spread</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6891"/>
+    <seriesInfo name="NIST" value="NIST IR 6891"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
     <author fullname="Howard Baum" initials="H." surname="Baum"/>
@@ -9,6 +10,13 @@
     <author fullname="David Evans" initials="D." surname="Evans"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

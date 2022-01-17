@@ -2,12 +2,28 @@
   <front>
     <title>The economics of firefighter injuries in the United States</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2078"/>
-    <author fullname="David Butry" initials="D." surname="Butry"/>
-    <author fullname="David Webb" initials="D." surname="Webb"/>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert"/>
-    <author fullname="Jennifer Taylor" initials="J." surname="Taylor"/>
+    <seriesInfo name="NIST" value="NIST TN 2078"/>
+    <author fullname="David Butry" initials="D." surname="Butry">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Webb" initials="D." surname="Webb">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jennifer Taylor" initials="J." surname="Taylor">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December"/>
   </front>

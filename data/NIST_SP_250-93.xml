@@ -2,8 +2,13 @@
   <front>
     <title>NIST Calibration Services for Spinning Rotor Gauge Calibrations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-93"/>
-    <author fullname="Robert Berg" initials="R." surname="Berg"/>
-    <author fullname="James Fedchak" initials="J." surname="Fedchak"/>
+    <seriesInfo name="NIST" value="NIST SP 250-93"/>
+    <author fullname="Robert Berg" initials="R." surname="Berg">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="James Fedchak" initials="J." surname="Fedchak">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

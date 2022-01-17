@@ -2,9 +2,19 @@
   <front>
     <title>Multifactor authentication for e-commerce</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-17"/>
-    <author fullname="William Newhouse" initials="W." surname="Newhouse"/>
+    <seriesInfo name="NIST" value="NIST SP 1800-17"/>
+    <author fullname="William Newhouse" initials="W." surname="Newhouse">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.9570" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9570.pdf">
   <front>
-    <title>Capacity tests of four remote forced circulation refrigeration evaporators: manufactured by Kramer Trenton Company</title>
+    <title>Capacity tests of four remote forced circulation refrigeration evaporators:manufactured by Kramer Trenton Company</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9570"/>
+    <seriesInfo name="NIST" value="NBS RPT 9570"/>
     <author fullname="Carl Phillips" initials="C." surname="Phillips"/>
     <author surname="Grimes"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

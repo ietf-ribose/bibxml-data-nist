@@ -1,10 +1,18 @@
 <reference anchor="NBS.NSRDS.40" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds40.pdf">
   <front>
-    <title>A multiplet table of astrophysical interest, revised edition : part I</title>
+    <title>A multiplet table of astrophysical interest, revised edition :part I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.40"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 40"/>
     <author fullname="Charlotte Moore" initials="C." surname="Moore"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

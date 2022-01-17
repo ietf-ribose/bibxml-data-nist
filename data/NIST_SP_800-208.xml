@@ -2,12 +2,25 @@
   <front>
     <title>Recommendation for Stateful Hash-Based Signature Schemes</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-208"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper"/>
-    <author fullname="Daniel Apon" initials="D." surname="Apon"/>
-    <author fullname="Quynh Dang" initials="Q." surname="Dang"/>
-    <author fullname="Michael Davidson" initials="M." surname="Davidson"/>
-    <author fullname="Morris Dworkin" initials="M." surname="Dworkin"/>
-    <author fullname="Carl Miller" initials="C." surname="Miller"/>
+    <seriesInfo name="NIST" value="NIST SP 800-208"/>
+    <author fullname="David Cooper" initials="D." surname="Cooper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Daniel Apon" initials="D." surname="Apon">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Quynh Dang" initials="Q." surname="Dang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Davidson" initials="M." surname="Davidson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Morris Dworkin" initials="M." surname="Dworkin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Carl Miller" initials="C." surname="Miller">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

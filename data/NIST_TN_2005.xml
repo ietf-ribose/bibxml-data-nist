@@ -2,11 +2,25 @@
   <front>
     <title>Thermal energy storage for the NIST net-zero house heat pump</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2005"/>
-    <author surname="Kedzierski"/>
-    <author surname="Payne"/>
-    <author surname="Skye"/>
+    <seriesInfo name="NIST" value="NIST TN 2005"/>
+    <author surname="Kedzierski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author surname="Payne">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author surname="Skye">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

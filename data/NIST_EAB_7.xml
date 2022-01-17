@@ -2,7 +2,10 @@
   <front>
     <title>Impact of NIST Laboratory Outputs on Innovation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.EAB.7"/>
-    <author fullname="Gary Anderson" initials="G." surname="Anderson"/>
+    <seriesInfo name="NIST" value="NIST EAB 7"/>
+    <author fullname="Gary Anderson" initials="G." surname="Anderson">
+      <organization>Technology Partnerships Office</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

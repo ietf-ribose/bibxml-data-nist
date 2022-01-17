@@ -2,6 +2,7 @@
   <front>
     <title>Reference model for DBMS user facility</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3709"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3709"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author fullname="John Gersting" initials="J." surname="Gersting"/>
     <author fullname="Kate Kinsley" initials="K." surname="Kinsley"/>
@@ -11,6 +12,13 @@
     <author fullname="Edward Stull" initials="E." surname="Stull"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

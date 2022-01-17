@@ -2,11 +2,19 @@
   <front>
     <title>Report on the third static analysis tool exposition (SATE 2010)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-283"/>
+    <seriesInfo name="NIST" value="NIST SP 500-283"/>
     <author fullname="vadim Okun" initials="v." surname="Okun"/>
     <author fullname="Aurelien Delaitre" initials="A." surname="Delaitre"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NBS.TN.887" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote887.pdf">
   <front>
-    <title>Six data base management systems : feature analysis and user experiences</title>
+    <title>Six data base management systems :feature analysis and user experiences</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.887"/>
+    <seriesInfo name="NIST" value="NBS TN 887"/>
     <author fullname="Joseph Collica" initials="J." surname="Collica"/>
     <author fullname="Beatrice Marron" initials="B." surname="Marron"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

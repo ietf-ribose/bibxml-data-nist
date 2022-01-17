@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.691" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote691.pdf">
   <front>
-    <title>Clock synchronization and comparison: problem, techniques and hardware</title>
+    <title>Clock synchronization and comparison:problem, techniques and hardware</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.691"/>
+    <seriesInfo name="NIST" value="NBS TN 691"/>
     <author fullname="James Gray" initials="J." surname="Gray"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

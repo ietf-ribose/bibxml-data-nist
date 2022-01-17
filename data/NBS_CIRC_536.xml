@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.536" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular536.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 536: radio frequency power measurements</title>
+    <title>Circular of the Bureau of Standards no. 536:radio frequency power measurements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.536"/>
+    <seriesInfo name="NIST" value="NBS CIRC 536"/>
     <author fullname="Roald Schrack" initials="R." surname="Schrack"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1953"/>
   </front>

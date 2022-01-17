@@ -2,11 +2,19 @@
   <front>
     <title>Source code security analysis tool functional specification version 1.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-268"/>
+    <seriesInfo name="NIST" value="NIST SP 500-268"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author fullname="Michael Kass" initials="M." surname="Kass"/>
     <author fullname="Michael Koo" initials="M." surname="Koo"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

@@ -2,13 +2,31 @@
   <front>
     <title>The structure of medium-scale pool fires</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2082"/>
-    <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith"/>
-    <author fullname="Kunhyuk Sung" initials="K." surname="Sung"/>
-    <author fullname="Jian Chen" initials="J." surname="Chen"/>
-    <author fullname="Kimberly Harris" initials="K." surname="Harris"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
+    <seriesInfo name="NIST" value="NIST TN 2082"/>
+    <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kunhyuk Sung" initials="K." surname="Sung">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jian Chen" initials="J." surname="Chen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kimberly Harris" initials="K." surname="Harris">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February"/>
   </front>

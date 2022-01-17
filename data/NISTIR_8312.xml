@@ -1,14 +1,29 @@
-<reference anchor="NISTIR.8312" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf">
+<reference anchor="NIST.IR.8312" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf">
   <front>
     <title>Four Principles of Explainable Artificial Intelligence</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8312"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
-    <author fullname="Carina Hahn" initials="C." surname="Hahn"/>
-    <author fullname="Peter Fontana" initials="P." surname="Fontana"/>
-    <author fullname="Amy Yates" initials="A." surname="Yates"/>
-    <author fullname="Kristen Greene" initials="K." surname="Greene"/>
-    <author fullname="David Broniatowski" initials="D." surname="Broniatowski"/>
-    <author fullname="Mark Przybocki" initials="M." surname="Przybocki"/>
+    <seriesInfo name="NIST" value="NIST IR 8312"/>
+    <author fullname="Jonathon Phillips" initials="J." surname="Phillips">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Carina Hahn" initials="C." surname="Hahn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Peter Fontana" initials="P." surname="Fontana">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Amy Yates" initials="A." surname="Yates">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kristen Greene" initials="K." surname="Greene">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Broniatowski" initials="D." surname="Broniatowski">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mark Przybocki" initials="M." surname="Przybocki">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

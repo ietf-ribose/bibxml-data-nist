@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6837" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6837.pdf">
   <front>
-    <title>NIST intercomparison exercise program for organic contaminants in the marine environment: description and results of the 2000 organic intercomparison exercises</title>
+    <title>NIST intercomparison exercise program for organic contaminants in the marine environment:description and results of the 2000 organic intercomparison exercises</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6837"/>
+    <seriesInfo name="NIST" value="NIST IR 6837"/>
     <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
     <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
     <author fullname="Reenie Parris" initials="R." surname="Parris"/>
     <author fullname="Stephen Wise" initials="S." surname="Wise"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

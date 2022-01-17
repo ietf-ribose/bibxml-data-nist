@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.5964" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5964.pdf">
   <front>
-    <title>Analysis of the leach products of silicate cements and studies to reduce their solubility: progress report</title>
+    <title>Analysis of the leach products of silicate cements and studies to reduce their solubility:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.5964"/>
+    <seriesInfo name="NIST" value="NBS RPT 5964"/>
     <author fullname="Frank Brauer" initials="F." surname="Brauer"/>
     <author fullname="Gerhard Brauer" initials="G." surname="Brauer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958"/>
   </front>

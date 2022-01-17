@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.7232" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7232.pdf">
   <front>
-    <title>CEMHYD3D: a three-dimensional cement hydration and microstructure development modeling package. Version 3.0</title>
+    <title>CEMHYD3D:a three-dimensional cement hydration and microstructure development modeling package. Version 3.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7232"/>
+    <seriesInfo name="NIST" value="NIST IR 7232"/>
     <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

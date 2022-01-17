@@ -2,12 +2,28 @@
   <front>
     <title>Carbon monoxide concentrations and carboxyhemoglobin profiles from portable generators with a CO safety shutoff operating in a test house</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2049"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Stephen Zimmerman" initials="S." surname="Zimmerman"/>
-    <author fullname="Steven Nabinger" initials="S." surname="Nabinger"/>
-    <author fullname="Matthew Brookman" initials="M." surname="Brookman"/>
+    <seriesInfo name="NIST" value="NIST TN 2049"/>
+    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Stephen Zimmerman" initials="S." surname="Zimmerman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven Nabinger" initials="S." surname="Nabinger">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Matthew Brookman" initials="M." surname="Brookman">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June"/>
   </front>

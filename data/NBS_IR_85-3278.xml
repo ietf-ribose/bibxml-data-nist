@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.85-3278" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3278.pdf">
   <front>
-    <title>A self-evaluative laboratory quality system : an NBS research associate's report</title>
+    <title>A self-evaluative laboratory quality system :an NBS research associate's report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3278"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3278"/>
     <author fullname="Carol Kelly" initials="C." surname="Kelly"/>
     <author fullname="Kim Bruley" initials="K." surname="Bruley"/>
     <author fullname="David Craig" initials="D." surname="Craig"/>
@@ -9,6 +10,13 @@
     <author fullname="John Locke" initials="J." surname="Locke"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

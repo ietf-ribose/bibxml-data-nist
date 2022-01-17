@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.88-3824-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3824-2.pdf">
   <front>
-    <title>Ongoing implementation agreements for open systems interconnection protocols : continuing agreements</title>
+    <title>Ongoing implementation agreements for open systems interconnection protocols :continuing agreements</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3824-2"/>
+    <seriesInfo name="NIST" value="NIST IR 88-3824-2"/>
     <author fullname="Tim Boland" initials="T." surname="Boland"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

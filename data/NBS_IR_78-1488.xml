@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.78-1488" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1488.pdf">
   <front>
-    <title>Measurement techniques for solar cells, quarterly report : September 15 to December 31, 1977</title>
+    <title>Measurement techniques for solar cells, quarterly report :September 15 to December 31, 1977</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1488"/>
+    <seriesInfo name="NIST" value="NBS IR 78-1488"/>
     <author surname="Sawyer"/>
     <author surname="Kessler"/>
     <author surname="Schafft"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

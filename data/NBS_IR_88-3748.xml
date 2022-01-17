@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.88-3748" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3748.pdf">
   <front>
-    <title>Center for Electronics and Electrical Engineering : technical publication announcements covering center programs, July to September 1987, with 1988 CEEE events calendar</title>
+    <title>Center for Electronics and Electrical Engineering :technical publication announcements covering center programs, July to September 1987, with 1988 CEEE events calendar</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3748"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3748"/>
     <author fullname="Jane Walters" initials="J." surname="Walters"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

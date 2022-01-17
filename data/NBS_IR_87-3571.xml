@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.87-3571" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3571.pdf">
   <front>
-    <title>Technical Activities 1987 : Center for Radiation Research</title>
+    <title>Technical Activities 1987 :Center for Radiation Research</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3571"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3571"/>
     <author fullname="Chris Kuyatt" initials="C." surname="Kuyatt"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

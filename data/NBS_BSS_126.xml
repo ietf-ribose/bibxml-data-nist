@@ -2,12 +2,20 @@
   <front>
     <title>Geographical extrapolation of typical hourly weather data for energy calculation in buildings</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.126"/>
+    <seriesInfo name="NIST" value="NBS BSS 126"/>
     <author fullname="Edward Arens" initials="E." surname="Arens"/>
     <author fullname="Larry Flynn" initials="L." surname="Flynn"/>
     <author fullname="Daniel Nall" initials="D." surname="Nall"/>
     <author fullname="Kalev Ruberg" initials="K." surname="Ruberg"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

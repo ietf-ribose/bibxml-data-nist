@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5851r1998" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5851r1998.pdf">
   <front>
-    <title>National Semiconductor Metrology Program: project portfolio, FY 1998</title>
+    <title>National Semiconductor Metrology Program:project portfolio, FY 1998</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5851r1998"/>
+    <seriesInfo name="NIST" value="NIST IR 5851r1998"/>
     <author fullname="Stephen Knight" initials="S." surname="Knight"/>
     <author fullname="Alice Settle-Raskin" initials="A." surname="Settle-Raskin"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

@@ -2,11 +2,19 @@
   <front>
     <title>The NIST-traceable reference-material program for wavelength-reference absorption cells</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-151"/>
+    <seriesInfo name="NIST" value="NIST SP 260-151"/>
     <author fullname="Sarah Gilbert" initials="S." surname="Gilbert"/>
     <author fullname="Chih-Ming Wang" initials="C." surname="Wang"/>
     <author fullname="Timothy Drapela" initials="T." surname="Drapela"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

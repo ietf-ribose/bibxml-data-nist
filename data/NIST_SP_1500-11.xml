@@ -2,9 +2,19 @@
   <front>
     <title>Advanced electrical power system sensors workshop report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-11"/>
-    <author fullname="Allen Goldstein" initials="A." surname="Goldstein"/>
+    <seriesInfo name="NIST" value="NIST SP 1500-11"/>
+    <author fullname="Allen Goldstein" initials="A." surname="Goldstein">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="November" day="13"/>
   </front>

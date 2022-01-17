@@ -2,10 +2,18 @@
   <front>
     <title>Parcel post and you</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.74-616"/>
+    <seriesInfo name="NIST" value="NBS IR 74-616"/>
     <author fullname="Joel Kramer" initials="J." surname="Kramer"/>
     <author fullname="Clare Goodman" initials="C." surname="Goodman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

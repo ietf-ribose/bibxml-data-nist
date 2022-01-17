@@ -2,11 +2,19 @@
   <front>
     <title>A glossary of terms for robotics</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2340"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2340"/>
     <author fullname="Bradford Smith" initials="B." surname="Smith"/>
     <author fullname="James Albus" initials="J." surname="Albus"/>
     <author fullname="Anthony Barbara" initials="A." surname="Barbara"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

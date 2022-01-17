@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-75" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-75.pdf">
   <front>
-    <title>Standard Reference Materials : Preparation and calibration of first-surface aluminum mirror specular reflectance standards/</title>
+    <title>Standard Reference Materials :Preparation and calibration of first-surface aluminum mirror specular reflectance standards/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-75"/>
+    <seriesInfo name="NIST" value="NBS SP 260-75"/>
     <author fullname="Jack Hsia" initials="J." surname="Hsia"/>
     <author fullname="Victor Weidner" initials="V." surname="Weidner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

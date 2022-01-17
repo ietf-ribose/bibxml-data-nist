@@ -2,10 +2,22 @@
   <front>
     <title>Interagency report on the status of international cybersecurity standardization for the internet of things (IoT)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8200"/>
-    <author fullname="Mike Hogan" initials="M." surname="Hogan"/>
-    <author fullname="Ben Piccarreta" initials="B." surname="Piccarreta"/>
+    <seriesInfo name="NIST" value="NIST IR 8200"/>
+    <author fullname="Mike Hogan" initials="M." surname="Hogan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ben Piccarreta" initials="B." surname="Piccarreta">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

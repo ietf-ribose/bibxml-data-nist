@@ -2,11 +2,19 @@
   <front>
     <title>Guidelines for the evaluation of message handling systems implementations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-182"/>
+    <seriesInfo name="NIST" value="NIST SP 500-182"/>
     <author fullname="Steve Trus" initials="S." surname="Trus"/>
     <author fullname="Curtis Royster" initials="C." surname="Royster"/>
     <author fullname="Paul Markovitz" initials="P." surname="Markovitz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.87-3506" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3506.pdf">
   <front>
-    <title>Reference standard polyethylene resins and piping materials : final report (October 1, 1985</title>
+    <title>Reference standard polyethylene resins and piping materials :final report (October 1, 1985</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3506"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3506"/>
     <author surname="Crissman"/>
     <author surname="Wang"/>
     <author surname="Guttman"/>
@@ -11,6 +12,13 @@
     <author surname="VanderHart"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

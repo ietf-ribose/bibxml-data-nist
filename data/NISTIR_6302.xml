@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6302" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6302.pdf">
   <front>
-    <title>The optimal pricing of publicly supplied private goods: a case study of NIST standard reference materials</title>
+    <title>The optimal pricing of publicly supplied private goods:a case study of NIST standard reference materials</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6302"/>
+    <seriesInfo name="NIST" value="NIST IR 6302"/>
     <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

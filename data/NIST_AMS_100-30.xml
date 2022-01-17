@@ -1,12 +1,26 @@
 <reference anchor="NIST.AMS.100-30" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-30.pdf">
   <front>
-    <title>Summary report: standards requirements gathering workshop for natural language analysis</title>
+    <title>Summary report:standards requirements gathering workshop for natural language analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-30"/>
-    <author fullname="Michael Brundage" initials="M." surname="Brundage"/>
-    <author fullname="Brian Weiss" initials="B." surname="Weiss"/>
-    <author fullname="Joan Pellegrino" initials="J." surname="Pellegrino"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-30"/>
+    <author fullname="Michael Brundage" initials="M." surname="Brundage">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Brian Weiss" initials="B." surname="Weiss">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Joan Pellegrino" initials="J." surname="Pellegrino">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

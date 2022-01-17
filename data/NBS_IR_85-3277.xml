@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.85-3277" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3277.pdf">
   <front>
-    <title>Polystyrenes : a review of the literature on the products of thermal decomposition and toxicity</title>
+    <title>Polystyrenes :a review of the literature on the products of thermal decomposition and toxicity</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3277"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3277"/>
     <author fullname="Joshua Gurman" initials="J." surname="Gurman"/>
     <author fullname="Laura Baier" initials="L." surname="Baier"/>
     <author fullname="Barbara Levin" initials="B." surname="Levin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

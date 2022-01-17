@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.5910" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5910.pdf">
   <front>
-    <title>Unified process specification language: requirements for modeling process</title>
+    <title>Unified process specification language:requirements for modeling process</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5910"/>
+    <seriesInfo name="NIST" value="NIST IR 5910"/>
     <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
     <author fullname="Amy Knutilla" initials="A." surname="Knutilla"/>
     <author fullname="Steven Ray" initials="S." surname="Ray"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.84-2857-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2857-3.pdf">
   <front>
-    <title>Center for electronics and electrical engineering : technical progress bulletin covering center programs, July</title>
+    <title>Center for electronics and electrical engineering :technical progress bulletin covering center programs, July</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2857-3"/>
+    <seriesInfo name="NIST" value="NBS IR 84-2857-3"/>
     <author fullname="Franklin Mayo-Wells" initials="F." surname="Mayo-Wells"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

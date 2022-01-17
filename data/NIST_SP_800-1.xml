@@ -1,10 +1,20 @@
 <reference anchor="NIST.SP.800-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-1.pdf">
   <front>
-    <title>Bibliography of selected computer security publications : January 1980-October 1989</title>
+    <title>Bibliography of selected computer security publications :January 1980-October 1989</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-1"/>
-    <author fullname="LawrenceE,III Bassham" initials="L.E.I." surname="Bassham"/>
+    <seriesInfo name="NIST" value="NIST SP 800-1"/>
+    <author fullname="LawrenceE,III Bassham" initials="L.E.I." surname="Bassham">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

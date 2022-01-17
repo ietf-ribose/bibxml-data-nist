@@ -2,10 +2,18 @@
   <front>
     <title>NIST guide to the processes approach for improving the usability of electronic health records</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7741"/>
+    <seriesInfo name="NIST" value="NIST IR 7741"/>
     <author fullname="Robert Schumacher" initials="R." surname="Schumacher"/>
     <author fullname="Svetlana Lowry" initials="S." surname="Lowry"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

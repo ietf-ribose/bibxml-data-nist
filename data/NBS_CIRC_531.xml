@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.531" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular531.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 531: extension and dissemination of the electrical and magnetic units by the National Bureau of Standards</title>
+    <title>Circular of the Bureau of Standards no. 531:extension and dissemination of the electrical and magnetic units by the National Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.531"/>
+    <seriesInfo name="NIST" value="NBS CIRC 531"/>
     <author fullname="Francis Silsbee" initials="F." surname="Silsbee"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1952"/>
   </front>

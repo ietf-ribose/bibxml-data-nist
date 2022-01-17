@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.6408" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6408.pdf">
   <front>
-    <title>Performance tests of two throw-away type "Dustgard" air filters : manufactured by American Rock Wool Corporation Wabash, Indiana</title>
+    <title>Performance tests of two throw-away type "Dustgard" air filters :manufactured by American Rock Wool Corporation Wabash, Indiana</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6408"/>
+    <seriesInfo name="NIST" value="NBS RPT 6408"/>
     <author fullname="Carl Coblentz" initials="C." surname="Coblentz"/>
     <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

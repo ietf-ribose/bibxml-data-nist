@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.9083" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9083.pdf">
   <front>
-    <title>Application of diffraction gratings to measurement of strain of dental materials: progress report</title>
+    <title>Application of diffraction gratings to measurement of strain of dental materials:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9083"/>
+    <seriesInfo name="NIST" value="NBS RPT 9083"/>
     <author fullname="ThomasV,Jr Gardner" initials="T.V.J." surname="Gardner"/>
     <author fullname="John Kumpula" initials="J." surname="Kumpula"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

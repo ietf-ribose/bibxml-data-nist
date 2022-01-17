@@ -2,13 +2,31 @@
   <front>
     <title>Security metrics guide for information technology systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-55"/>
-    <author surname="Swanson"/>
-    <author surname="Bartol"/>
-    <author surname="Sabato"/>
-    <author surname="Hash"/>
-    <author surname="Graffo"/>
+    <seriesInfo name="NIST" value="NIST SP 800-55"/>
+    <author surname="Swanson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Bartol">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Sabato">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Hash">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Graffo">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

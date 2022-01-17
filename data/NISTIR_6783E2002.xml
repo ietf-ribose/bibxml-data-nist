@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6783e2002" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6783e2002.pdf">
   <front>
-    <title>Fire dynamics simulator (version 2) : technical reference guide</title>
+    <title>Fire dynamics simulator (version 2) :technical reference guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6783e2002"/>
+    <seriesInfo name="NIST" value="NIST IR 6783e2002"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
     <author fullname="Howard Baum" initials="H." surname="Baum"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
@@ -12,6 +13,13 @@
     <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

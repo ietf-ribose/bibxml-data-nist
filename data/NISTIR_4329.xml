@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4329" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4329.pdf">
   <front>
-    <title>Graphics Standards in the Computer-aided Acquisition and Logistic Support (CALS) Program, fiscal year 1989 volume 1: test requirements document, extended CGM (CGEM)</title>
+    <title>Graphics Standards in the Computer-aided Acquisition and Logistic Support (CALS) Program, fiscal year 1989 volume 1:test requirements document, extended CGM (CGEM)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4329"/>
+    <seriesInfo name="NIST" value="NIST IR 4329"/>
     <author fullname="Daniel Benigni" initials="D." surname="Benigni"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

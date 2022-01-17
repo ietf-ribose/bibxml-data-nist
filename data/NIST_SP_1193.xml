@@ -2,6 +2,7 @@
   <front>
     <title>Report of the 99th National Conference on Weights and Measures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1193"/>
+    <seriesInfo name="NIST" value="NIST SP 1193"/>
     <author fullname="Tina Butcher" initials="T." surname="Butcher"/>
     <author fullname="Linda Crown" initials="L." surname="Crown"/>
     <author fullname="Richard Harshman" initials="R." surname="Harshman"/>
@@ -10,6 +11,13 @@
     <author fullname="Carol Hockert" initials="C." surname="Hockert"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014"/>
   </front>

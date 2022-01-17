@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.552e3" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular552e3.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 552 3rd edition: standard materials issued by the National Bureau of Standards</title>
+    <title>Circular of the Bureau of Standards no. 552 3rd edition:standard materials issued by the National Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.552e3"/>
+    <seriesInfo name="NIST" value="NBS CIRC 552e3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

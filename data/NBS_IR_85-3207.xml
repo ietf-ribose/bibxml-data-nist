@@ -2,6 +2,7 @@
   <front>
     <title>User's manual for Division 746's image processing system</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3207"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3207"/>
     <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
     <author fullname="Jonathan Martin" initials="J." surname="Martin"/>
     <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
@@ -9,6 +10,13 @@
     <author fullname="Martin Batts" initials="M." surname="Batts"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

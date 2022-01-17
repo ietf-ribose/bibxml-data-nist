@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.18" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular18.pdf">
   <front>
-    <title>Bureau circular no. 18: United States standard sheet-metal gauge</title>
+    <title>Bureau circular no. 18:United States standard sheet-metal gauge</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.18"/>
+    <seriesInfo name="NIST" value="NBS CIRC 18"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1909"/>
   </front>

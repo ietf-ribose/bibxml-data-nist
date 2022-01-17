@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7726" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7726.pdf">
   <front>
-    <title>Graphical User Interface (GUI) for project 25 : inter-RF subsystem iterface (ISSU) GUI version 0.9.6</title>
+    <title>Graphical User Interface (GUI) for project 25 :inter-RF subsystem iterface (ISSU) GUI version 0.9.6</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7726"/>
+    <seriesInfo name="NIST" value="NIST IR 7726"/>
     <author fullname="Alan Vinh" initials="A." surname="Vinh"/>
     <author fullname="Richard Rouil" initials="R." surname="Rouil"/>
     <author fullname="AntonioIzquierdo Manzanares" initials="A.I." surname="Manzanares"/>
     <author fullname="Alexandre Delye" initials="A." surname="Delye"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

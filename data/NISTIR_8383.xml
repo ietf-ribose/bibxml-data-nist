@@ -1,9 +1,14 @@
-<reference anchor="NISTIR.8383" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8383.pdf">
+<reference anchor="NIST.IR.8383" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8383.pdf">
   <front>
     <title>Standard Errors and Significance Testing in Data Analysis for Testing Classifiers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8383"/>
-    <author fullname="JinChu Wu" initials="J.C." surname="Wu"/>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker"/>
+    <seriesInfo name="NIST" value="NIST IR 8383"/>
+    <author fullname="JinChu Wu" initials="J.C." surname="Wu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Raghu Kacker" initials="R." surname="Kacker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,11 +2,19 @@
   <front>
     <title>Constrain generator user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7728"/>
+    <seriesInfo name="NIST" value="NIST IR 7728"/>
     <author fullname="SalifouSidi Malick" initials="S.S." surname="Malick"/>
     <author fullname="Matthew Molek" initials="M." surname="Molek"/>
     <author fullname="KC Morris" initials="K." surname="Morris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.73-113" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-113.pdf">
   <front>
-    <title>City IV : director's manual</title>
+    <title>City IV :director's manual</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-113"/>
+    <seriesInfo name="NIST" value="NBS IR 73-113"/>
     <author fullname="John Moriarty" initials="J." surname="Moriarty"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

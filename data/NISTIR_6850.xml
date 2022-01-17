@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6850" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6850.pdf">
   <front>
-    <title>Nanomanufacturing of atom-based dimensional standards : a final project report of the national advanced manufacturing testbed</title>
+    <title>Nanomanufacturing of atom-based dimensional standards :a final project report of the national advanced manufacturing testbed</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6850"/>
+    <seriesInfo name="NIST" value="NIST IR 6850"/>
     <author surname="Vorburger"/>
     <author surname="Allen"/>
     <author surname="Damazo"/>
@@ -20,6 +21,13 @@
     <author surname="Wilmering"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

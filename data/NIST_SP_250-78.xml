@@ -2,11 +2,19 @@
   <front>
     <title>NIST calibration services for hydrometers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-78"/>
+    <seriesInfo name="NIST" value="NIST SP 250-78"/>
     <author fullname="John Wright" initials="J." surname="Wright"/>
     <author fullname="Vern Bean" initials="V." surname="Bean"/>
     <author fullname="Jesus Aguilera" initials="J." surname="Aguilera"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

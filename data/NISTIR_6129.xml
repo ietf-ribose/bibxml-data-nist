@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6129" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6129.pdf">
   <front>
-    <title>Software testing by statistical methods: preliminary success estimates for approaches based on binomial models, coverage designs, mutation testing, and usage models</title>
+    <title>Software testing by statistical methods:preliminary success estimates for approaches based on binomial models, coverage designs, mutation testing, and usage models</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6129"/>
+    <seriesInfo name="NIST" value="NIST IR 6129"/>
     <author fullname="David Banks" initials="D." surname="Banks"/>
     <author fullname="William Dashiell" initials="W." surname="Dashiell"/>
     <author fullname="Leonard Gallagher" initials="L." surname="Gallagher"/>
@@ -10,6 +11,13 @@
     <author fullname="Lynne Rosenthal" initials="L." surname="Rosenthal"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

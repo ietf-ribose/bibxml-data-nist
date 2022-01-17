@@ -2,11 +2,19 @@
   <front>
     <title>The NIST SIMA interactive management workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5717"/>
+    <seriesInfo name="NIST" value="NIST IR 5717"/>
     <author fullname="Clarence Johnson" initials="C." surname="Johnson"/>
     <author fullname="Simon Frechette" initials="S." surname="Frechette"/>
     <author fullname="Mark Luce" initials="M." surname="Luce"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

@@ -2,9 +2,19 @@
   <front>
     <title>Description of field intensity recording equipment, its installation, adjustment and calibration</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.7-2"/>
-    <author fullname="Glenn Jean" initials="G." surname="Jean"/>
+    <seriesInfo name="NIST" value="NBS CRPL 7-2"/>
+    <author fullname="Glenn Jean" initials="G." surname="Jean">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1950"/>
   </front>

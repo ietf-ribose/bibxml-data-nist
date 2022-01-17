@@ -2,9 +2,19 @@
   <front>
     <title>Estimating smoke alarm effectiveness and spatial distribution in homes</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2020"/>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert"/>
+    <seriesInfo name="NIST" value="NIST TN 2020"/>
+    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

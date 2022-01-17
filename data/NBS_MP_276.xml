@@ -1,12 +1,20 @@
 <reference anchor="NBS.MP.276" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub276.pdf">
   <front>
-    <title>Cooperation, convertibility, and compatibility among information systems A literature review</title>
+    <title>Cooperation, convertibility, and compatibility among information systemsA literature review</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MP.276"/>
+    <seriesInfo name="NIST" value="NBS MP 276"/>
     <author fullname="John Moats" initials="J." surname="Moats"/>
     <author fullname="Simon Newman" initials="S." surname="Newman"/>
     <author fullname="Madeline Henderson" initials="M." surname="Henderson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

@@ -1,13 +1,29 @@
 <reference anchor="NIST.NSRDS.73-2020" target="https://nvlpubs.nist.gov/nistpubs/NSRDS/NIST.NSRDS.73-2020.pdf">
   <front>
-    <title>REFLEAK: NIST Leak Recharge Simulation Model for Refrigerant Blends, version 6.0 user's guide</title>
+    <title>REFLEAK:NIST Leak Recharge Simulation Model for Refrigerant Blends, version 6.0 user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.73-2020"/>
-    <author fullname="Steven Brown" initials="S." surname="Brown"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
-    <author fullname="Riccardo Brignoli" initials="R." surname="Brignoli"/>
-    <author fullname="YoungJin Yoon" initials="Y.J." surname="Yoon"/>
+    <seriesInfo name="NIST" value="NIST NSRDS 73-2020"/>
+    <author fullname="Steven Brown" initials="S." surname="Brown">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Piotr Domanski" initials="P." surname="Domanski">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Riccardo Brignoli" initials="R." surname="Brignoli">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="YoungJin Yoon" initials="Y.J." surname="Yoon">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May"/>
   </front>

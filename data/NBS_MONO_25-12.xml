@@ -1,7 +1,8 @@
 <reference anchor="NBS.MONO.25-12" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph25-12.pdf">
   <front>
-    <title>Standard x-ray diffraction powder patterns : section 12- data for 57 substances</title>
+    <title>Standard x-ray diffraction powder patterns :section 12- data for 57 substances</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.25-12"/>
+    <seriesInfo name="NIST" value="NBS MONO 25-12"/>
     <author fullname="Howard McMurdie" initials="H." surname="McMurdie"/>
     <author fullname="Marlene Morris" initials="M." surname="Morris"/>
     <author fullname="Eloise Evans" initials="E." surname="Evans"/>
@@ -11,6 +12,13 @@
     <author fullname="Simon Carmel" initials="S." surname="Carmel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

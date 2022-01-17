@@ -2,10 +2,19 @@
   <front>
     <title>Integrating Cybersecurity and Enterprise Risk Management (ERM)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8286"/>
-    <author fullname="Kevin Stine" initials="K." surname="Stine"/>
-    <author fullname="Stephen Quinn" initials="S." surname="Quinn"/>
-    <author fullname="Greg Witte" initials="G." surname="Witte"/>
-    <author surname="Gardner"/>
+    <seriesInfo name="NIST" value="NIST IR 8286"/>
+    <author fullname="Kevin Stine" initials="K." surname="Stine">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephen Quinn" initials="S." surname="Quinn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Greg Witte" initials="G." surname="Witte">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author surname="Gardner">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

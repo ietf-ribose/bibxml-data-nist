@@ -2,15 +2,37 @@
   <front>
     <title>2018 National Institute of Standards and Technology environmental scan</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8244"/>
-    <author fullname="Jason Boehm" initials="J." surname="Boehm"/>
-    <author fullname="Heather Evans" initials="H." surname="Evans"/>
-    <author fullname="Ajit Jillavenkatesa" initials="A." surname="Jillavenkatesa"/>
-    <author fullname="Maria Nadal" initials="M." surname="Nadal"/>
-    <author fullname="Mark Przybocki" initials="M." surname="Przybocki"/>
-    <author fullname="Paul Witherell" initials="P." surname="Witherell"/>
-    <author fullname="Rebecca Zangmeister" initials="R." surname="Zangmeister"/>
+    <seriesInfo name="NIST" value="NIST IR 8244"/>
+    <author fullname="Jason Boehm" initials="J." surname="Boehm">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Heather Evans" initials="H." surname="Evans">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Ajit Jillavenkatesa" initials="A." surname="Jillavenkatesa">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Maria Nadal" initials="M." surname="Nadal">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Mark Przybocki" initials="M." surname="Przybocki">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Paul Witherell" initials="P." surname="Witherell">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Rebecca Zangmeister" initials="R." surname="Zangmeister">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

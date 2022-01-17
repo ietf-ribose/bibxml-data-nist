@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.73-218" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-218.pdf">
   <front>
-    <title>NEPA and the environmental movement : a brief history</title>
+    <title>NEPA and the environmental movement :a brief history</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-218"/>
+    <seriesInfo name="NIST" value="NBS IR 73-218"/>
     <author fullname="Lynn Llewellyn" initials="L." surname="Llewellyn"/>
     <author fullname="Clare Peiser" initials="C." surname="Peiser"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

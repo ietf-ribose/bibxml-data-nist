@@ -1,9 +1,17 @@
 <reference anchor="NBS.RPT.6505" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6505.pdf">
   <front>
-    <title>Report on dental research at the National Bureau of Standards: progress report January 1 to June 30, 1959</title>
+    <title>Report on dental research at the National Bureau of Standards:progress report January 1 to June 30, 1959</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6505"/>
+    <seriesInfo name="NIST" value="NBS RPT 6505"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

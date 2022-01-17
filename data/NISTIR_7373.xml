@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7373" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7373.pdf">
   <front>
-    <title>Chemical and physical characterization of poly(p-phenylene-2, 6-benzobisoxazole) fibers used in body armor: temperature and humidity aging</title>
+    <title>Chemical and physical characterization of poly(p-phenylene-2, 6-benzobisoxazole) fibers used in body armor:temperature and humidity aging</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7373"/>
+    <seriesInfo name="NIST" value="NIST IR 7373"/>
     <author fullname="Joannie Chin" initials="J." surname="Chin"/>
     <author fullname="Eric Byrd" initials="E." surname="Byrd"/>
     <author fullname="Cyril Clerici" initials="C." surname="Clerici"/>
@@ -10,6 +11,13 @@
     <author fullname="Kirk Rice" initials="K." surname="Rice"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Volume visualization of Bose-Einstein condensates</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6739"/>
+    <seriesInfo name="NIST" value="NIST IR 6739"/>
     <author fullname="Peter Ketcham" initials="P." surname="Ketcham"/>
     <author fullname="David Feder" initials="D." surname="Feder"/>
     <author fullname="Charles Clark" initials="C." surname="Clark"/>
@@ -12,6 +13,13 @@
     <author fullname="William Reinhardt" initials="W." surname="Reinhardt"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

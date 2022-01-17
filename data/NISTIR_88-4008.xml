@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.88-4008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4008.pdf">
   <front>
-    <title>Corrosion of metallic fasteners in low-sloped roofs: a review of available information and identification of research needs</title>
+    <title>Corrosion of metallic fasteners in low-sloped roofs:a review of available information and identification of research needs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4008"/>
+    <seriesInfo name="NIST" value="NIST IR 88-4008"/>
     <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

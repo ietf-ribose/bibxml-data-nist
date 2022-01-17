@@ -2,9 +2,19 @@
   <front>
     <title>Economics of interoperability in the context of smart grid architectures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-604"/>
-    <author fullname="Cheyney O'Fallon" initials="C." surname="O'Fallon"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-604"/>
+    <author fullname="Cheyney O'Fallon" initials="C." surname="O'Fallon">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December"/>
   </front>

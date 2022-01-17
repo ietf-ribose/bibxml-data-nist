@@ -2,10 +2,18 @@
   <front>
     <title>System and network security acronyms and abbreviations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7581"/>
+    <seriesInfo name="NIST" value="NIST IR 7581"/>
     <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
     <author fullname="Victoria Thompson" initials="V." surname="Thompson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.457" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote457.pdf">
   <front>
-    <title>Organic chemistry section: summary of activities July 1967 to June 1968. Edited by Robert Schaffer.</title>
+    <title>Organic chemistry section:summary of activities July 1967 to June 1968. Edited by Robert Schaffer.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.457"/>
+    <seriesInfo name="NIST" value="NBS TN 457"/>
     <author fullname="Robert Schaffer" initials="R." surname="Schaffer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

@@ -1,10 +1,20 @@
 <reference anchor="NIST.SP.800-60ver2v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60ver2v1.pdf">
   <front>
-    <title>Volume I : guide for mapping types of information and information systems to security categories</title>
+    <title>Volume I :guide for mapping types of information and information systems to security categories</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-60ver2v1"/>
-    <author fullname="William Barker" initials="W." surname="Barker"/>
+    <seriesInfo name="NIST" value="NIST SP 800-60ver2v1"/>
+    <author fullname="William Barker" initials="W." surname="Barker">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

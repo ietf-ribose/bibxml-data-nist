@@ -2,14 +2,34 @@
   <front>
     <title>Global City Teams Challenge Public Safety SuperCluster progress report 2018-2019</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-203"/>
-    <author fullname="Brenda Bannan" initials="B." surname="Bannan"/>
-    <author fullname="Samantha Dubrow" initials="S." surname="Dubrow"/>
-    <author fullname="Michael Dunaway" initials="M." surname="Dunaway"/>
-    <author fullname="Sokwoo Rhee" initials="S." surname="Rhee"/>
-    <author fullname="Dean Skidmore" initials="D." surname="Skidmore"/>
-    <author fullname="Elisa Torres" initials="E." surname="Torres"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-203"/>
+    <author fullname="Brenda Bannan" initials="B." surname="Bannan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Samantha Dubrow" initials="S." surname="Dubrow">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Michael Dunaway" initials="M." surname="Dunaway">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sokwoo Rhee" initials="S." surname="Rhee">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Dean Skidmore" initials="D." surname="Skidmore">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Elisa Torres" initials="E." surname="Torres">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

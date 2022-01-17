@@ -2,10 +2,18 @@
   <front>
     <title>NIST standard reference data products catalog 1995-96</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.782-1995-96"/>
+    <seriesInfo name="NIST" value="NIST SP 782-1995-96"/>
     <author fullname="Joan Sauerwein" initials="J." surname="Sauerwein"/>
     <author fullname="Joan Sauerwein" initials="J." surname="Sauerwein"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

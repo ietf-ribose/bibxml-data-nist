@@ -2,15 +2,37 @@
   <front>
     <title>Measurements and modeling of spherical CH2F2-Air flames</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2100"/>
-    <author fullname="Michael Hegetschweiler" initials="M." surname="Hegetschweiler"/>
-    <author fullname="John Pagliaro" initials="J." surname="Pagliaro"/>
-    <author fullname="Lukas Berger" initials="L." surname="Berger"/>
-    <author fullname="Raik Hesse" initials="R." surname="Hesse"/>
-    <author fullname="Joachim Beeckmann" initials="J." surname="Beeckmann"/>
-    <author fullname="Heinz Pitsch" initials="H." surname="Pitsch"/>
-    <author fullname="Gregory Linteris" initials="G." surname="Linteris"/>
+    <seriesInfo name="NIST" value="NIST TN 2100"/>
+    <author fullname="Michael Hegetschweiler" initials="M." surname="Hegetschweiler">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="John Pagliaro" initials="J." surname="Pagliaro">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Lukas Berger" initials="L." surname="Berger">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Raik Hesse" initials="R." surname="Hesse">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joachim Beeckmann" initials="J." surname="Beeckmann">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Heinz Pitsch" initials="H." surname="Pitsch">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Gregory Linteris" initials="G." surname="Linteris">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

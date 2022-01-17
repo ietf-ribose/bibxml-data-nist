@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.234" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular234.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 234: United States government master specification for wire insertion rubber packing</title>
+    <title>Circular of the Bureau of Standards no. 234:United States government master specification for wire insertion rubber packing</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.234"/>
+    <seriesInfo name="NIST" value="NBS CIRC 234"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

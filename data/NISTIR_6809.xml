@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6809" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6809.pdf">
   <front>
-    <title>A manufacturing collaboratory case study : companion document</title>
+    <title>A manufacturing collaboratory case study :companion document</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6809"/>
+    <seriesInfo name="NIST" value="NIST IR 6809"/>
     <author fullname="Michelle Steves" initials="M." surname="Steves"/>
     <author fullname="Amy Knutilla" initials="A." surname="Knutilla"/>
     <author fullname="Elizabeth Wierba" initials="E." surname="Wierba"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

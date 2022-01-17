@@ -2,15 +2,37 @@
   <front>
     <title>Approaches for federal agencies to use the cybersecurity framework</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8170"/>
-    <author fullname="Matt Barrett" initials="M." surname="Barrett"/>
-    <author fullname="Jeff Marron" initials="J." surname="Marron"/>
-    <author fullname="VictoriaYan Pillitteri" initials="V.Y." surname="Pillitteri"/>
-    <author fullname="Jon Boyens" initials="J." surname="Boyens"/>
-    <author fullname="Stephen Quinn" initials="S." surname="Quinn"/>
-    <author fullname="Greg Witte" initials="G." surname="Witte"/>
-    <author fullname="Larry Feldman" initials="L." surname="Feldman"/>
+    <seriesInfo name="NIST" value="NIST IR 8170"/>
+    <author fullname="Matt Barrett" initials="M." surname="Barrett">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jeff Marron" initials="J." surname="Marron">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="VictoriaYan Pillitteri" initials="V.Y." surname="Pillitteri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jon Boyens" initials="J." surname="Boyens">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephen Quinn" initials="S." surname="Quinn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Greg Witte" initials="G." surname="Witte">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Larry Feldman" initials="L." surname="Feldman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

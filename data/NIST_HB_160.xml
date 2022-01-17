@@ -2,36 +2,97 @@
   <front>
     <title>Nanolithography Toolbox</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.160"/>
-    <author fullname="Robert Ilic" initials="R." surname="Ilic"/>
-    <author fullname="Krishna Coimbatore Balram" initials="K." surname="Coimbatore Balram"/>
-    <author fullname="Daron Westly" initials="D." surname="Westly"/>
-    <author fullname="Marcelo Davanco" initials="M." surname="Davanco"/>
-    <author fullname="Karen Grutter" initials="K." surname="Grutter"/>
-    <author fullname="Qing Li" initials="Q." surname="Li"/>
-    <author fullname="Thomas Michels" initials="T." surname="Michels"/>
-    <author fullname="Christopher Ray" initials="C." surname="Ray"/>
-    <author fullname="Liya Yu" initials="L." surname="Yu"/>
-    <author fullname="Neal Bertrand" initials="N." surname="Bertrand"/>
-    <author fullname="Samuel Stavis" initials="S." surname="Stavis"/>
-    <author fullname="Vladimir Aksyuk" initials="V." surname="Aksyuk"/>
-    <author fullname="JamesAlexander Liddle" initials="J.A." surname="Liddle"/>
-    <author fullname="Brian Bryce" initials="B." surname="Bryce"/>
-    <author fullname="Nicolae Lobontiu" initials="N." surname="Lobontiu"/>
-    <author fullname="Yuxiang Liu" initials="Y." surname="Liu"/>
-    <author fullname="Meredith Metzler" initials="M." surname="Metzler"/>
-    <author fullname="Gerald Lopez" initials="G." surname="Lopez"/>
-    <author fullname="David Czaplewski" initials="D." surname="Czaplewski"/>
-    <author fullname="Leonidas Ocola" initials="L." surname="Ocola"/>
-    <author fullname="Pavel Neuzil" initials="P." surname="Neuzil"/>
-    <author fullname="Vojtech Svatos" initials="V." surname="Svatos"/>
-    <author fullname="Slava Krylov" initials="S." surname="Krylov"/>
-    <author fullname="Christopher Wallin" initials="C." surname="Wallin"/>
-    <author fullname="Ian Gilbert" initials="I." surname="Gilbert"/>
-    <author fullname="Kristen Dill" initials="K." surname="Dill"/>
-    <author fullname="Richard Kasica" initials="R." surname="Kasica"/>
-    <author fullname="Kartik Srinivasan" initials="K." surname="Srinivasan"/>
-    <author fullname="Gregory Simelgor" initials="G." surname="Simelgor"/>
-    <author fullname="Juraj Topolancik" initials="J." surname="Topolancik"/>
+    <seriesInfo name="NIST" value="NIST HB 160"/>
+    <author fullname="Robert Ilic" initials="R." surname="Ilic">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Krishna Coimbatore Balram" initials="K." surname="Coimbatore Balram">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Daron Westly" initials="D." surname="Westly">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Marcelo Davanco" initials="M." surname="Davanco">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Karen Grutter" initials="K." surname="Grutter">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Qing Li" initials="Q." surname="Li">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Thomas Michels" initials="T." surname="Michels">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Christopher Ray" initials="C." surname="Ray">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Liya Yu" initials="L." surname="Yu">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Neal Bertrand" initials="N." surname="Bertrand">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Samuel Stavis" initials="S." surname="Stavis">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Vladimir Aksyuk" initials="V." surname="Aksyuk">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="JamesAlexander Liddle" initials="J.A." surname="Liddle">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Brian Bryce" initials="B." surname="Bryce">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Nicolae Lobontiu" initials="N." surname="Lobontiu">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Yuxiang Liu" initials="Y." surname="Liu">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Meredith Metzler" initials="M." surname="Metzler">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Gerald Lopez" initials="G." surname="Lopez">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="David Czaplewski" initials="D." surname="Czaplewski">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Leonidas Ocola" initials="L." surname="Ocola">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Pavel Neuzil" initials="P." surname="Neuzil">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Vojtech Svatos" initials="V." surname="Svatos">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Slava Krylov" initials="S." surname="Krylov">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Christopher Wallin" initials="C." surname="Wallin">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Ian Gilbert" initials="I." surname="Gilbert">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Kristen Dill" initials="K." surname="Dill">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Richard Kasica" initials="R." surname="Kasica">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Kartik Srinivasan" initials="K." surname="Srinivasan">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Gregory Simelgor" initials="G." surname="Simelgor">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
+    <author fullname="Juraj Topolancik" initials="J." surname="Topolancik">
+      <organization>Center for Nanoscale Science and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

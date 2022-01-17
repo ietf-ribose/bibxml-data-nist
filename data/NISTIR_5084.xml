@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5084" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5084.pdf">
   <front>
-    <title>Metrology for radio-frequency technology: a bibliography of NIST publications</title>
+    <title>Metrology for radio-frequency technology:a bibliography of NIST publications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5084"/>
+    <seriesInfo name="NIST" value="NIST IR 5084"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

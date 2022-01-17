@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.89-4159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4159.pdf">
   <front>
-    <title>FACTUNC: a user-friendly system for unconstrained optimization</title>
+    <title>FACTUNC:a user-friendly system for unconstrained optimization</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4159"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4159"/>
     <author fullname="Richard Jackson" initials="R." surname="Jackson"/>
     <author fullname="Garth McCormick" initials="G." surname="McCormick"/>
     <author fullname="Arlela Sofer" initials="A." surname="Sofer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

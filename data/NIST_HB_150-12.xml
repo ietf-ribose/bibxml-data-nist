@@ -2,11 +2,19 @@
   <front>
     <title>National voluntary laboratory accreditation program: GOSIP: Government Open Systems Interconnection Profile</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.150-12"/>
+    <seriesInfo name="NIST" value="NIST HB 150-12"/>
     <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
     <author fullname="Stephen Nightingale" initials="S." surname="Nightingale"/>
     <author surname="Favreau"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

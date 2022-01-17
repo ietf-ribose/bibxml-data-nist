@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.92" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular92.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 92: operation and care of vehicle-type batteries</title>
+    <title>Circular of the Bureau of Standards no. 92:operation and care of vehicle-type batteries</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.92"/>
+    <seriesInfo name="NIST" value="NBS CIRC 92"/>
     <author fullname="GeorgeWood Vinal" initials="G.W." surname="Vinal"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1920"/>
   </front>

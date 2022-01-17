@@ -1,10 +1,18 @@
 <reference anchor="NBS.BSS.100-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience100-4.pdf">
   <front>
-    <title>Building to resist the effect of wind in five volumes volume 4. forecasting the economics of housing needs : a methodological guide</title>
+    <title>Building to resist the effect of wind in five volumes volume 4. forecasting the economics of housing needs :a methodological guide</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.100-4"/>
+    <seriesInfo name="NIST" value="NBS BSS 100-4"/>
     <author fullname="Joseph Kowalski" initials="J." surname="Kowalski"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Thermocouple reference tables based on the IPTS-68</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.125"/>
+    <seriesInfo name="NIST" value="NBS MONO 125"/>
     <author fullname="Robert Powell" initials="R." surname="Powell"/>
     <author fullname="William Hall" initials="W." surname="Hall"/>
     <author fullname="ClydeH,Jr Hyink" initials="C.H.J." surname="Hyink"/>
@@ -11,6 +12,13 @@
     <author fullname="Harmon Plumb" initials="H." surname="Plumb"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

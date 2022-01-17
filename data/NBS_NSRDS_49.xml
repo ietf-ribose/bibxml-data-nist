@@ -1,11 +1,19 @@
 <reference anchor="NBS.NSRDS.49" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds49.pdf">
   <front>
-    <title>Transition metal oxides : crystal chemistry, phase transition, and related aspects</title>
+    <title>Transition metal oxides :crystal chemistry, phase transition, and related aspects</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.49"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 49"/>
     <author surname="Rao"/>
     <author fullname="Subba Rao" initials="S." surname="Rao"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

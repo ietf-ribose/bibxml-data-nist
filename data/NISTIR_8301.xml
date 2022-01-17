@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8301" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8301.pdf">
+<reference anchor="NIST.IR.8301" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8301.pdf">
   <front>
     <title>Blockchain Networks: Token Design and Management Overview</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8301"/>
-    <author fullname="Loïc Lesavre" initials="L." surname="Lesavre"/>
-    <author fullname="Priam Varin" initials="P." surname="Varin"/>
-    <author fullname="Dylan Yaga" initials="D." surname="Yaga"/>
+    <seriesInfo name="NIST" value="NIST IR 8301"/>
+    <author fullname="Loïc Lesavre" initials="L." surname="Lesavre">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Priam Varin" initials="P." surname="Varin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Dylan Yaga" initials="D." surname="Yaga">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

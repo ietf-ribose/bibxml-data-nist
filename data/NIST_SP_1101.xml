@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.1101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1101.pdf">
   <front>
-    <title>Metrics and tools for measuring construction productivity : technical and empirical considerations</title>
+    <title>Metrics and tools for measuring construction productivity :technical and empirical considerations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1101"/>
+    <seriesInfo name="NIST" value="NIST SP 1101"/>
     <author fullname="Allison Huang" initials="A." surname="Huang"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author fullname="David Butry" initials="D." surname="Butry"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

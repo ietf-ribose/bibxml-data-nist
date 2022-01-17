@@ -2,6 +2,7 @@
   <front>
     <title>Round robin study of total heat flux gauge calibration at fire laboratories</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1013"/>
+    <seriesInfo name="NIST" value="NIST SP 1013"/>
     <author fullname="William Pitts" initials="W." surname="Pitts"/>
     <author fullname="Annageri Murthy" initials="A." surname="Murthy"/>
     <author fullname="John de Ris" initials="J." surname="de Ris"/>
@@ -11,6 +12,13 @@
     <author fullname="Ingrid Wetterlund" initials="I." surname="Wetterlund"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

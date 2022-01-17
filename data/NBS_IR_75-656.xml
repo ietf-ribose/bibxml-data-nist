@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.75-656" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-656.pdf">
   <front>
-    <title>Report No. 6 : Impact properties of steels taken from four failed tank cars</title>
+    <title>Report No. 6 :Impact properties of steels taken from four failed tank cars</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-656"/>
+    <seriesInfo name="NIST" value="NBS IR 75-656"/>
     <author surname="Interrante"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

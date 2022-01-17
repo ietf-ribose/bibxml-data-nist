@@ -2,10 +2,18 @@
   <front>
     <title>A bibliography of the Russian reference data holdings of the library of the Office of Standard Reference Data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.848"/>
+    <seriesInfo name="NIST" value="NBS TN 848"/>
     <author fullname="Howard White" initials="H." surname="White"/>
     <author fullname="Gertrude Sherwood" initials="G." surname="Sherwood"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

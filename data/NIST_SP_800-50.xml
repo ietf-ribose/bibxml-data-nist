@@ -2,10 +2,22 @@
   <front>
     <title>Building an Information Technology Security Awareness and Training Program</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-50"/>
-    <author surname="Wilson"/>
-    <author surname="Hash"/>
+    <seriesInfo name="NIST" value="NIST SP 800-50"/>
+    <author surname="Wilson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Hash">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.TN.594-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote594-14.pdf">
   <front>
-    <title>Optical radiation measurements : high pressure sodium discharge lamp characterization for use as standards of geometrically total luminous flux</title>
+    <title>Optical radiation measurements :high pressure sodium discharge lamp characterization for use as standards of geometrically total luminous flux</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.594-14"/>
+    <seriesInfo name="NIST" value="NBS TN 594-14"/>
     <author fullname="Robert Bruening" initials="R." surname="Bruening"/>
     <author fullname="Minggao He" initials="M." surname="He"/>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

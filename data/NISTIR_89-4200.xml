@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.89-4200" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4200.pdf">
   <front>
-    <title>Quick response sprinklers in Chemical laboratories: fire test results</title>
+    <title>Quick response sprinklers in Chemical laboratories:fire test results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4200"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4200"/>
     <author surname="Walton"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

@@ -2,9 +2,19 @@
   <front>
     <title>SI measurement system chart</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.304a-2017"/>
-    <author fullname="Elizabeth Gentry" initials="E." surname="Gentry"/>
+    <seriesInfo name="NIST" value="NIST SP 304a-2017"/>
+    <author fullname="Elizabeth Gentry" initials="E." surname="Gentry">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="August" day="24"/>
   </front>

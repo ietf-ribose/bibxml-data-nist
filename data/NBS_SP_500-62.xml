@@ -2,11 +2,19 @@
   <front>
     <title>Conversion of federal ADP systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-62"/>
+    <seriesInfo name="NIST" value="NBS SP 500-62"/>
     <author fullname="Joseph Collica" initials="J." surname="Collica"/>
     <author fullname="Mark Skall" initials="M." surname="Skall"/>
     <author fullname="Gloria Bolotsky" initials="G." surname="Bolotsky"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

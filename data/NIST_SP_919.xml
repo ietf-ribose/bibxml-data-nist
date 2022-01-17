@@ -2,6 +2,7 @@
   <front>
     <title>International Workshop on Fire Performance of High-Strength Concrete, NIST, Gaithersburg, MD, February 13-14, 1997</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.919"/>
+    <seriesInfo name="NIST" value="NIST SP 919"/>
     <author fullname="Long Phan" initials="L." surname="Phan"/>
     <author fullname="Long Phan" initials="L." surname="Phan"/>
     <author fullname="Nicholas Cariono" initials="N." surname="Cariono"/>
@@ -9,6 +10,13 @@
     <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

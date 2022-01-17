@@ -2,12 +2,28 @@
   <front>
     <title>Characterization of residential air distribution system performance for thermal comfort</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.19-021"/>
-    <author fullname="Hyojin Kim" initials="H." surname="Kim"/>
-    <author fullname="Khiem Nguyen" initials="K." surname="Nguyen"/>
-    <author fullname="Anne McGuinness" initials="A." surname="McGuinness"/>
-    <author fullname="ToanVo Dai" initials="T.V." surname="Dai"/>
+    <seriesInfo name="NIST" value="NIST GCR 19-021"/>
+    <author fullname="Hyojin Kim" initials="H." surname="Kim">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Khiem Nguyen" initials="K." surname="Nguyen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Anne McGuinness" initials="A." surname="McGuinness">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="ToanVo Dai" initials="T.V." surname="Dai">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December"/>
   </front>

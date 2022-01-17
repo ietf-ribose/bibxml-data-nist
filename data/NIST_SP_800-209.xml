@@ -2,8 +2,13 @@
   <front>
     <title>Security Guidelines for Storage Infrastructure</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-209"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
-    <author fullname="Doron Pinhas" initials="D." surname="Pinhas"/>
+    <seriesInfo name="NIST" value="NIST SP 800-209"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Doron Pinhas" initials="D." surname="Pinhas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

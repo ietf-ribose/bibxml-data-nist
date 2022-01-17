@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.80-2054v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2054v1.pdf">
   <front>
-    <title>The burning of wood and plastic cribs in an enclosure : volume I</title>
+    <title>The burning of wood and plastic cribs in an enclosure :volume I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2054v1"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2054v1"/>
     <author fullname="James Quintere" initials="J." surname="Quintere"/>
     <author fullname="Bernard McCaffrey" initials="B." surname="McCaffrey"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

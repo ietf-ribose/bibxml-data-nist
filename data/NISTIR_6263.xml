@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6263.pdf">
   <front>
-    <title>Program handbook: quality assurance system registration requirements for facilities under provisions of the Fastener Quality Act</title>
+    <title>Program handbook:quality assurance system registration requirements for facilities under provisions of the Fastener Quality Act</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6263"/>
+    <seriesInfo name="NIST" value="NIST IR 6263"/>
     <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
     <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

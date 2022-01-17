@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.76-1154" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1154.pdf">
   <front>
-    <title>Consideration of fracture mechanics analysis and defect dimension measurement assessment for the trans-Alaska oil pipeline girth welds : Volume I</title>
+    <title>Consideration of fracture mechanics analysis and defect dimension measurement assessment for the trans-Alaska oil pipeline girth welds :Volume I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1154"/>
+    <seriesInfo name="NIST" value="NBS IR 76-1154"/>
     <author fullname="Robert Berger" initials="R." surname="Berger"/>
     <author fullname="John Smith" initials="J." surname="Smith"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

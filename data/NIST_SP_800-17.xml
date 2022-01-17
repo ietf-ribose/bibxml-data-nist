@@ -1,11 +1,23 @@
 <reference anchor="NIST.SP.800-17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-17.pdf">
   <front>
-    <title>Modes of Operation Validation System (MOVS) : requirements and procedures</title>
+    <title>Modes of Operation Validation System (MOVS) :requirements and procedures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-17"/>
-    <author fullname="Sharon Keller" initials="S." surname="Keller"/>
-    <author fullname="Miles Smid" initials="M." surname="Smid"/>
+    <seriesInfo name="NIST" value="NIST SP 800-17"/>
+    <author fullname="Sharon Keller" initials="S." surname="Keller">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Miles Smid" initials="M." surname="Smid">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

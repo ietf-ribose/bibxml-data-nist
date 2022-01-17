@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.377" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular377.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 377: some properties of sponge rubber</title>
+    <title>Circular of the Bureau of Standards no. 377:some properties of sponge rubber</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.377"/>
+    <seriesInfo name="NIST" value="NBS CIRC 377"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1929"/>
   </front>

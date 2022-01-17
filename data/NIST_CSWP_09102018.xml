@@ -2,10 +2,22 @@
   <front>
     <title>Transitioning to the Security Content Automation Protocol (SCAP) Version 2</title>
     <seriesInfo name="DOI" value="10.6028/NIST.CSWP.09102018"/>
-    <author fullname="David Waltermire" initials="D." surname="Waltermire"/>
-    <author fullname="Jessica Fitzgerald-McKay" initials="J." surname="Fitzgerald-McKay"/>
+    <seriesInfo name="NIST" value="NIST CSWP 09102018"/>
+    <author fullname="David Waltermire" initials="D." surname="Waltermire">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jessica Fitzgerald-McKay" initials="J." surname="Fitzgerald-McKay">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

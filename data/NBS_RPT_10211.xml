@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.10211" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10211.pdf">
   <front>
-    <title>Existing building and developmental regulations in Seattle, Washington: Operation Breakthrough preliminary report</title>
+    <title>Existing building and developmental regulations in Seattle, Washington:Operation Breakthrough preliminary report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10211"/>
+    <seriesInfo name="NIST" value="NBS RPT 10211"/>
     <author surname="Pfrang"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

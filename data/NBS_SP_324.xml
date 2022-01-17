@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.324" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication324.pdf">
   <front>
-    <title>The NBS alloy data center : permuted materials index</title>
+    <title>The NBS alloy data center :permuted materials index</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.324"/>
+    <seriesInfo name="NIST" value="NBS SP 324"/>
     <author surname="Carter"/>
     <author surname="Kahan"/>
     <author surname="Bennett"/>
@@ -9,6 +10,13 @@
     <author surname="Dobbyn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

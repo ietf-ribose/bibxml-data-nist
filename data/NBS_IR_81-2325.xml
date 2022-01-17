@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.81-2325" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2325.pdf">
   <front>
-    <title>Measurement techniques for high power semiconductor materials and devices : annual report, October 1, 1979 to September 30, 1980</title>
+    <title>Measurement techniques for high power semiconductor materials and devices :annual report, October 1, 1979 to September 30, 1980</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2325"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2325"/>
     <author surname="Larrabee"/>
     <author surname="Phillips"/>
     <author surname="Thurber"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

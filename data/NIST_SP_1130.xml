@@ -1,7 +1,8 @@
 <reference anchor="NIST.SP.1130" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1130.pdf">
   <front>
-    <title>Reducing the risk of fire in buildings and communities : a strategic roadmap to guide and prioritize research</title>
+    <title>Reducing the risk of fire in buildings and communities :a strategic roadmap to guide and prioritize research</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1130"/>
+    <seriesInfo name="NIST" value="NIST SP 1130"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
     <author fullname="Jason Averill" initials="J." surname="Averill"/>
     <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
@@ -18,6 +19,13 @@
     <author fullname="Matthew Bundy" initials="M." surname="Bundy"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2012"/>
   </front>

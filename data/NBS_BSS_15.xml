@@ -1,12 +1,20 @@
 <reference anchor="NBS.BSS.15" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience15.pdf">
   <front>
-    <title>Interrelations between cement and concrete properties, part 4 : shrinkage of neat Portland cement pastes and concretes</title>
+    <title>Interrelations between cement and concrete properties, part 4 :shrinkage of neat Portland cement pastes and concretes</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.15"/>
+    <seriesInfo name="NIST" value="NBS BSS 15"/>
     <author surname="Blaine"/>
     <author surname="Arni"/>
     <author surname="Evans"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.500-275" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-275.pdf">
   <front>
-    <title>Information systems-data format for the interchange of fingerprint, facial, &amp; other biometric information- part 2 : XML version</title>
+    <title>Information systems-data format for the interchange of fingerprint, facial, &amp; other biometric information- part 2 :XML version</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-275"/>
+    <seriesInfo name="NIST" value="NIST SP 500-275"/>
     <author fullname="Elaine Newton" initials="E." surname="Newton"/>
     <author fullname="Gerry Coleman" initials="G." surname="Coleman"/>
     <author fullname="Patrice Yuh" initials="P." surname="Yuh"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

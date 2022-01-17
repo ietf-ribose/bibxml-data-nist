@@ -2,12 +2,28 @@
   <front>
     <title>Guide to securing legacy IEEE 802.11 wireless networks</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-48r1"/>
-    <author surname="Scarfone"/>
-    <author surname="Dicoi"/>
-    <author surname="Sexton"/>
-    <author surname="Tibbs"/>
+    <seriesInfo name="NIST" value="NIST SP 800-48r1"/>
+    <author surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Dicoi">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Sexton">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Tibbs">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

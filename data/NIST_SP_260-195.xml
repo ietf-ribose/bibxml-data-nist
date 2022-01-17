@@ -2,10 +2,22 @@
   <front>
     <title>Certification of standard reference material SRM2687a, Portland cement clinker</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-195"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert"/>
+    <seriesInfo name="NIST" value="NIST SP 260-195"/>
+    <author fullname="Paul Stutzman" initials="P." surname="Stutzman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March"/>
   </front>

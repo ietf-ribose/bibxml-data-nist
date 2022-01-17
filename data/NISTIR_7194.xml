@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7194" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7194.pdf">
   <front>
-    <title>NIST response to the 7th CORM report: pressing problems and projected national needs in optical radiation measurement</title>
+    <title>NIST response to the 7th CORM report:pressing problems and projected national needs in optical radiation measurement</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7194"/>
+    <seriesInfo name="NIST" value="NIST IR 7194"/>
     <author fullname="Albert Parr" initials="A." surname="Parr"/>
     <author fullname="Gerald Fraser" initials="G." surname="Fraser"/>
     <author fullname="Yoshi Ohno" initials="Y." surname="Ohno"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

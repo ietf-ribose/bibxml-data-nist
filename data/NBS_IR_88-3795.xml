@@ -2,6 +2,7 @@
   <front>
     <title>Benchmarks to supplant export "FPDR" calculations</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3795"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3795"/>
     <author fullname="David Bailey" initials="D." surname="Bailey"/>
     <author fullname="Eugene Brooks" initials="E." surname="Brooks"/>
     <author fullname="Jack Dongarra" initials="J." surname="Dongarra"/>
@@ -10,6 +11,13 @@
     <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

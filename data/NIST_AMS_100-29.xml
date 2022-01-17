@@ -2,10 +2,22 @@
   <front>
     <title>Proceedings of the 11th Model-Based Enterprise Summit (MBE 2020)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-29"/>
-    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg"/>
-    <author fullname="Mark Carlisle" initials="M." surname="Carlisle"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-29"/>
+    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mark Carlisle" initials="M." surname="Carlisle">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April"/>
   </front>

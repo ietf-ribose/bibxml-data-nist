@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.83-2729" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2729.pdf">
   <front>
-    <title>National needs in welding technology : proceedings of a conference April 28, 1983 Philadelphia, Pennsylvania</title>
+    <title>National needs in welding technology :proceedings of a conference April 28, 1983 Philadelphia, Pennsylvania</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2729"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2729"/>
     <author fullname="Robert Mehrabian" initials="R." surname="Mehrabian"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

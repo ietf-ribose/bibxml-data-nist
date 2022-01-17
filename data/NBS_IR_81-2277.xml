@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.81-2277" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2277.pdf">
   <front>
-    <title>Control strategies for energy conservation : a case study of the materials building, Bureau of Standards</title>
+    <title>Control strategies for energy conservation :a case study of the materials building, Bureau of Standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2277"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2277"/>
     <author fullname="James Kao" initials="J." surname="Kao"/>
     <author fullname="Thomas Pierce" initials="T." surname="Pierce"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

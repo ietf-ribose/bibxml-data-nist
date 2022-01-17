@@ -2,11 +2,19 @@
   <front>
     <title>Heat treatment and properties of iron and steel</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.88"/>
+    <seriesInfo name="NIST" value="NBS MONO 88"/>
     <author fullname="Thomas Digges" initials="T." surname="Digges"/>
     <author fullname="Samuel Rosenberg" initials="S." surname="Rosenberg"/>
     <author fullname="Glenn Geil" initials="G." surname="Geil"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

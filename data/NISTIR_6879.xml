@@ -2,6 +2,7 @@
   <front>
     <title>Initial model for fires in the World Trade Center towers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6879"/>
+    <seriesInfo name="NIST" value="NIST IR 6879"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author fullname="William Pitts" initials="W." surname="Pitts"/>
     <author fullname="Howard Baum" initials="H." surname="Baum"/>
@@ -11,6 +12,13 @@
     <author fullname="Glenn Forney" initials="G." surname="Forney"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

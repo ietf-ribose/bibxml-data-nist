@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.7580" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7580.pdf">
   <front>
-    <title>On the trace-class of operators I.: seminar lectures</title>
+    <title>On the trace-class of operators I.:seminar lectures</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.7580"/>
+    <seriesInfo name="NIST" value="NBS RPT 7580"/>
     <author fullname="Robert Schatten" initials="R." surname="Schatten"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

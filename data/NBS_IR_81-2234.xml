@@ -2,11 +2,19 @@
   <front>
     <title>Microelectronic test patterns NBS-12 and NBS-24</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2234"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2234"/>
     <author surname="Carver"/>
     <author surname="Mattis"/>
     <author surname="Buehler"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

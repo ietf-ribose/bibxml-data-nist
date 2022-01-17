@@ -2,10 +2,18 @@
   <front>
     <title>Example cases for the HAZARD I fire hazard assessment method</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.146v3"/>
+    <seriesInfo name="NIST" value="NIST HB 146v3"/>
     <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
     <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

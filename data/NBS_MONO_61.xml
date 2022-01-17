@@ -1,12 +1,20 @@
 <reference anchor="NBS.MONO.61" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph61.pdf">
   <front>
-    <title>The Solar spectrum 2935Å to 8770Å : second revision of Rowland's preliminary table of solar spectrum wavelengths</title>
+    <title>The Solar spectrum 2935Å to 8770Å :second revision of Rowland's preliminary table of solar spectrum wavelengths</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.61"/>
+    <seriesInfo name="NIST" value="NBS MONO 61"/>
     <author fullname="Charlotte Moore" initials="C." surname="Moore"/>
     <author surname="Minnaert"/>
     <author surname="Houtgast"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-95" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-95.pdf">
   <front>
-    <title>Standard Reference Materials Development of a one-micrometer-diameter particle size standard, SRM 1690</title>
+    <title>Standard Reference MaterialsDevelopment of a one-micrometer-diameter particle size standard, SRM 1690</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-95"/>
+    <seriesInfo name="NIST" value="NBS SP 260-95"/>
     <author surname="Hartman"/>
     <author surname="Lettieri"/>
     <author fullname="Egon Marx" initials="E." surname="Marx"/>
     <author surname="Mulholland"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

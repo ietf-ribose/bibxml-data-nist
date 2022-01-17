@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.86-3333" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3333.pdf">
   <front>
-    <title>Release notes for STAT2 version 1.7 : an addendum to NBS Special Publication 400-75</title>
+    <title>Release notes for STAT2 version 1.7 :an addendum to NBS Special Publication 400-75</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3333"/>
+    <seriesInfo name="NIST" value="NBS IR 86-3333"/>
     <author surname="Mattis"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

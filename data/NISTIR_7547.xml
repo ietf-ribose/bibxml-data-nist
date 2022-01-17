@@ -2,12 +2,20 @@
   <front>
     <title>NDRprofile schema version 1.0 user guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7547"/>
+    <seriesInfo name="NIST" value="NIST IR 7547"/>
     <author fullname="Betty Harvey" initials="B." surname="Harvey"/>
     <author fullname="Joshua Lubell" initials="J." surname="Lubell"/>
     <author fullname="Puja Goyal" initials="P." surname="Goyal"/>
     <author fullname="KC Morris" initials="K." surname="Morris"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

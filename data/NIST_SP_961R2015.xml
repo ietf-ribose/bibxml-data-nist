@@ -2,11 +2,19 @@
   <front>
     <title>CODATA recommended values of the fundamental physical constants: 2014</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.961r2015"/>
+    <seriesInfo name="NIST" value="NIST SP 961r2015"/>
     <author surname="Mohr"/>
     <author surname="Newell"/>
     <author surname="Taylor"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2015"/>
   </front>

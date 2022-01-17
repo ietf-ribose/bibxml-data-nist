@@ -2,12 +2,20 @@
   <front>
     <title>A taxonomy of definitions for usability studies in biometrics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7378"/>
+    <seriesInfo name="NIST" value="NIST IR 7378"/>
     <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
     <author fullname="Brian Stanton" initials="B." surname="Stanton"/>
     <author fullname="MaryFrances Theofanos" initials="M.F." surname="Theofanos"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.6464" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6464.pdf">
   <front>
-    <title>Quantitative analysis of acrylic copolymers by gas chromatography: progress report</title>
+    <title>Quantitative analysis of acrylic copolymers by gas chromatography:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6464"/>
+    <seriesInfo name="NIST" value="NBS RPT 6464"/>
     <author fullname="John Strassburger" initials="J." surname="Strassburger"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

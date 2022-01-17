@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4572" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4572.pdf">
   <front>
-    <title>First meeting of the Standards Working Group of the Joint U.S.-U.S.S.R Commercial Commission: March 11-13, 1991</title>
+    <title>First meeting of the Standards Working Group of the Joint U.S.-U.S.S.R Commercial Commission:March 11-13, 1991</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4572"/>
+    <seriesInfo name="NIST" value="NIST IR 4572"/>
     <author fullname="Bert Simson" initials="B." surname="Simson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

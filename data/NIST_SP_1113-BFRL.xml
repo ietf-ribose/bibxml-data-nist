@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.1113-BFRL" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1113-BFRL.pdf">
   <front>
-    <title>Real-time monitoring of total inward leakage of respiratory equipment used by emergency responders : workshop proceedings</title>
+    <title>Real-time monitoring of total inward leakage of respiratory equipment used by emergency responders :workshop proceedings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1113-BFRL"/>
+    <seriesInfo name="NIST" value="NIST SP 1113-BFRL"/>
     <author fullname="Kathryn Butler" initials="K." surname="Butler"/>
     <author fullname="Marc Nyden" initials="M." surname="Nyden"/>
     <author fullname="Rodney Bryant" initials="R." surname="Bryant"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

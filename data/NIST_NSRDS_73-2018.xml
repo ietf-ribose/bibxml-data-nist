@@ -1,11 +1,23 @@
 <reference anchor="NIST.NSRDS.73-2018" target="https://nvlpubs.nist.gov/nistpubs/NSRDS/NIST.NSRDS.73-2018.pdf">
   <front>
-    <title>REFLEAK: NIST leakrecharge simulation model for refrigerant blends: version 5.1 user's guide</title>
+    <title>REFLEAK: NIST leakrecharge simulation model for refrigerant blends:version 5.1 user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.73-2018"/>
-    <author fullname="Steven Brown" initials="S." surname="Brown"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
+    <seriesInfo name="NIST" value="NIST NSRDS 73-2018"/>
+    <author fullname="Steven Brown" initials="S." surname="Brown">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Piotr Domanski" initials="P." surname="Domanski">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

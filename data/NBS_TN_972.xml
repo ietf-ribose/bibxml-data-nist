@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.972" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote972.pdf">
   <front>
-    <title>Elastomeric roofing : a survey</title>
+    <title>Elastomeric roofing :a survey</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.972"/>
+    <seriesInfo name="NIST" value="NBS TN 972"/>
     <author fullname="Walter Rossiter" initials="W." surname="Rossiter"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Air quality criteria for storage of paper-based archival records</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2795"/>
+    <seriesInfo name="NIST" value="NBS IR 83-2795"/>
     <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
     <author fullname="Samuel Silberstein" initials="S." surname="Silberstein"/>
     <author fullname="James Woods" initials="J." surname="Woods"/>
@@ -13,6 +14,13 @@
     <author fullname="Paul Banks" initials="P." surname="Banks"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

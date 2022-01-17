@@ -2,11 +2,19 @@
   <front>
     <title>Standards setting in the European Union</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.891"/>
+    <seriesInfo name="NIST" value="NIST SP 891"/>
     <author fullname="Roger Rensberger" initials="R." surname="Rensberger"/>
     <author fullname="Roger Rensberger" initials="R." surname="Rensberger"/>
     <author fullname="Rene van de Zande" initials="R." surname="van de Zande"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

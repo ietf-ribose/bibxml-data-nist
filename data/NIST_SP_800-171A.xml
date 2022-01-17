@@ -2,11 +2,25 @@
   <front>
     <title>Assessing security requirements for controlled unclassified information</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-171A"/>
-    <author fullname="Ross Ron" initials="R." surname="Ron"/>
-    <author fullname="Demspey Kelley" initials="D." surname="Kelley"/>
-    <author fullname="Pilliterri Victoria" initials="P." surname="Victoria"/>
+    <seriesInfo name="NIST" value="NIST SP 800-171A"/>
+    <author fullname="Ross Ron" initials="R." surname="Ron">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Demspey Kelley" initials="D." surname="Kelley">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Pilliterri Victoria" initials="P." surname="Victoria">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June"/>
   </front>

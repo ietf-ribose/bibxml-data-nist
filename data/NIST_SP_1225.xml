@@ -2,18 +2,46 @@
   <front>
     <title>Standard reference data workshop report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1225"/>
-    <author fullname="Debra Kaiser" initials="D." surname="Kaiser"/>
-    <author fullname="Neil Alderoty" initials="N." surname="Alderoty"/>
-    <author fullname="Richard Cavanagh" initials="R." surname="Cavanagh"/>
-    <author fullname="Barbara Guttman" initials="B." surname="Guttman"/>
-    <author fullname="Robert Hanisch" initials="R." surname="Hanisch"/>
-    <author fullname="Adam Morey" initials="A." surname="Morey"/>
-    <author fullname="Jeanita Pritchett" initials="J." surname="Pritchett"/>
-    <author fullname="Yuri Ralchenko" initials="Y." surname="Ralchenko"/>
-    <author fullname="Stacy Schuur" initials="S." surname="Schuur"/>
-    <author fullname="William Wallace" initials="W." surname="Wallace"/>
+    <seriesInfo name="NIST" value="NIST SP 1225"/>
+    <author fullname="Debra Kaiser" initials="D." surname="Kaiser">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Neil Alderoty" initials="N." surname="Alderoty">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Richard Cavanagh" initials="R." surname="Cavanagh">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Barbara Guttman" initials="B." surname="Guttman">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Robert Hanisch" initials="R." surname="Hanisch">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Adam Morey" initials="A." surname="Morey">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jeanita Pritchett" initials="J." surname="Pritchett">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Yuri Ralchenko" initials="Y." surname="Ralchenko">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Stacy Schuur" initials="S." surname="Schuur">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="William Wallace" initials="W." surname="Wallace">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June"/>
   </front>

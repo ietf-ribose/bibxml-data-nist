@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.457-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication457-3.pdf">
   <front>
-    <title>Building technology publications, supplement 3 : 1978</title>
+    <title>Building technology publications, supplement 3 :1978</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.457-3"/>
+    <seriesInfo name="NIST" value="NBS SP 457-3"/>
     <author fullname="JoAnne Debelius" initials="J." surname="Debelius"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

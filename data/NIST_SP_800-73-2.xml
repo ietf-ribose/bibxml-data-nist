@@ -2,14 +2,34 @@
   <front>
     <title>Interfaces for personal identity verification</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-2"/>
-    <author surname="Chandramouli"/>
-    <author surname="Dray"/>
-    <author surname="Ferraiolo"/>
-    <author surname="Guthery"/>
-    <author surname="MacGregor"/>
-    <author surname="Mehta"/>
+    <seriesInfo name="NIST" value="NIST SP 800-73-2"/>
+    <author surname="Chandramouli">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Dray">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Ferraiolo">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Guthery">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="MacGregor">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Mehta">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

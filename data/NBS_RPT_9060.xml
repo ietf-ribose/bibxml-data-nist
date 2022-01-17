@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.9060" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9060.pdf">
   <front>
-    <title>Some flow characteristics at 37 degrees C of ternary wax mixtures that may have possible dental uses: progress report</title>
+    <title>Some flow characteristics at 37 degrees C of ternary wax mixtures that may have possible dental uses:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9060"/>
+    <seriesInfo name="NIST" value="NBS RPT 9060"/>
     <author fullname="Masoyoshi Ohashi" initials="M." surname="Ohashi"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

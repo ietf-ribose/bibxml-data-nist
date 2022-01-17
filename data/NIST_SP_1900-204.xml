@@ -1,10 +1,20 @@
 <reference anchor="NIST.SP.1900-204" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-204.pdf">
   <front>
-    <title>2019 Global City Teams Challenge: smart and secure cities and communities challenge expo</title>
+    <title>2019 Global City Teams Challenge:smart and secure cities and communities challenge expo</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-204"/>
-    <author fullname="Sokwoo Rhee" initials="S." surname="Rhee"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-204"/>
+    <author fullname="Sokwoo Rhee" initials="S." surname="Rhee">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="January"/>
   </front>

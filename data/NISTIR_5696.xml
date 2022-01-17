@@ -2,11 +2,19 @@
   <front>
     <title>The effect of training dynamics on neural network performance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5696"/>
+    <seriesInfo name="NIST" value="NIST IR 5696"/>
     <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
     <author fullname="James Blue" initials="J." surname="Blue"/>
     <author fullname="Omid Omidvar" initials="O." surname="Omidvar"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

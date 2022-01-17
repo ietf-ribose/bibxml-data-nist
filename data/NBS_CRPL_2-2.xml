@@ -2,9 +2,19 @@
   <front>
     <title>Average radio ray refraction in the lower atmosphere</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.2-2"/>
-    <author surname="Schulkin"/>
+    <seriesInfo name="NIST" value="NBS CRPL 2-2"/>
+    <author surname="Schulkin">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1947"/>
   </front>

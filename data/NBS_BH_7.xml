@@ -1,7 +1,8 @@
 <reference anchor="NBS.BH.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing7.pdf">
   <front>
-    <title>Minimum live loads allowable for use in design of buildings : report of building code committee November 1, 1925</title>
+    <title>Minimum live loads allowable for use in design of buildings :report of building code committee November 1, 1925</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.7"/>
+    <seriesInfo name="NIST" value="NBS BH 7"/>
     <author fullname="Ira Woolson" initials="I." surname="Woolson"/>
     <author fullname="Edwin Brown" initials="E." surname="Brown"/>
     <author fullname="Rudolph Miller" initials="R." surname="Miller"/>
@@ -13,6 +14,13 @@
     <author fullname="John Gries" initials="J." surname="Gries"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

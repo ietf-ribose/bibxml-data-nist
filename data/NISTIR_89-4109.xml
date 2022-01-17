@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.89-4109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4109.pdf">
   <front>
-    <title>Weights and Measures Week guide and year round public relations: 1989 third edition</title>
+    <title>Weights and Measures Week guide and year round public relations:1989 third edition</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4109"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4109"/>
     <author fullname="Peggy Adams" initials="P." surname="Adams"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

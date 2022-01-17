@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7679" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7679.pdf">
   <front>
-    <title>NIST special database 32 multiple encounter dataset I (MEDS-I) : data description document</title>
+    <title>NIST special database 32 multiple encounter dataset I (MEDS-I) :data description document</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7679"/>
+    <seriesInfo name="NIST" value="NIST IR 7679"/>
     <author fullname="Steven Curry" initials="S." surname="Curry"/>
     <author fullname="Drew Founds" initials="D." surname="Founds"/>
     <author fullname="Joe Marques" initials="J." surname="Marques"/>
@@ -9,6 +10,13 @@
     <author fullname="Craig Watson" initials="C." surname="Watson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

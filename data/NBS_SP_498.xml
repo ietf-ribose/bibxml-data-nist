@@ -2,10 +2,18 @@
   <front>
     <title>Science on its way to work</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.498"/>
+    <seriesInfo name="NIST" value="NBS SP 498"/>
     <author fullname="Michael Baum" initials="M." surname="Baum"/>
     <author fullname="Sharon Washburn" initials="S." surname="Washburn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

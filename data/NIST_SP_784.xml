@@ -2,10 +2,18 @@
   <front>
     <title>DOENIST Workshop on Common Architectures for Robotic Systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.784"/>
+    <seriesInfo name="NIST" value="NIST SP 784"/>
     <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
     <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

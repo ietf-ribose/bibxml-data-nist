@@ -2,12 +2,28 @@
   <front>
     <title>Technical guide to information security testing and assessment.</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-115"/>
-    <author surname="Scarfone"/>
-    <author surname="Souppaya"/>
-    <author surname="Cody"/>
-    <author surname="Orebaugh"/>
+    <seriesInfo name="NIST" value="NIST SP 800-115"/>
+    <author surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Souppaya">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Cody">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Orebaugh">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>SI base units relationship poster</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1247"/>
-    <author fullname="Eite Tiesinga" initials="E." surname="Tiesinga"/>
-    <author fullname="Kristen Dill" initials="K." surname="Dill"/>
-    <author fullname="David Newell" initials="D." surname="Newell"/>
+    <seriesInfo name="NIST" value="NIST SP 1247"/>
+    <author fullname="Eite Tiesinga" initials="E." surname="Tiesinga">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author fullname="Kristen Dill" initials="K." surname="Dill">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
+    <author fullname="David Newell" initials="D." surname="Newell">
+      <organization>Physical Measurement Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

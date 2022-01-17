@@ -2,6 +2,7 @@
   <front>
     <title>Thermodynamic, transport, and chemical properties of reference JP-8</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6659"/>
+    <seriesInfo name="NIST" value="NIST IR 6659"/>
     <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
     <author fullname="Marcia Huber" initials="M." surname="Huber"/>
     <author fullname="Arno Laesecke" initials="A." surname="Laesecke"/>
@@ -13,6 +14,13 @@
     <author fullname="Jason Widegren" initials="J." surname="Widegren"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

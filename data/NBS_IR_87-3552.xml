@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.87-3552" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3552.pdf">
   <front>
-    <title>NDE publications : 1984</title>
+    <title>NDE publications :1984</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3552"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3552"/>
     <author fullname="Leonard Mordfin" initials="L." surname="Mordfin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

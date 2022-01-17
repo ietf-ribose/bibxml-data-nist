@@ -2,12 +2,28 @@
   <front>
     <title>Certification of standard reference material 3389 ginsenoside calibration solution</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-196"/>
-    <author fullname="Walter Wilson" initials="W." surname="Wilson"/>
-    <author fullname="Lane Sander" initials="L." surname="Sander"/>
-    <author fullname="Benjamin Place" initials="B." surname="Place"/>
-    <author fullname="James Yen" initials="J." surname="Yen"/>
+    <seriesInfo name="NIST" value="NIST SP 260-196"/>
+    <author fullname="Walter Wilson" initials="W." surname="Wilson">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Lane Sander" initials="L." surname="Sander">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Benjamin Place" initials="B." surname="Place">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="James Yen" initials="J." surname="Yen">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May"/>
   </front>

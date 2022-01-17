@@ -2,6 +2,7 @@
   <front>
     <title>XML schema validation process for CORE.GOV</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7187"/>
+    <seriesInfo name="NIST" value="NIST IR 7187"/>
     <author fullname="KC Morris" initials="K." surname="Morris"/>
     <author fullname="Serm Kulvatunyou" initials="S." surname="Kulvatunyou"/>
     <author fullname="Simon Frechette" initials="S." surname="Frechette"/>
@@ -9,6 +10,13 @@
     <author fullname="Puja Goyal" initials="P." surname="Goyal"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

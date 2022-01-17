@@ -2,9 +2,17 @@
   <front>
     <title>A FORTRAN code for calculation of eigenvalues and eigenfunctions in real potential wells</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.159"/>
+    <seriesInfo name="NIST" value="NBS TN 159"/>
     <author fullname="RandallSmith Caswell" initials="R.S." surname="Caswell"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1962"/>
   </front>

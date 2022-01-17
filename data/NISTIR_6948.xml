@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6948" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6948.pdf">
   <front>
-    <title>Factors affecting ultrasonic extraction of lead from household paint films: further investigations</title>
+    <title>Factors affecting ultrasonic extraction of lead from household paint films:further investigations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6948"/>
+    <seriesInfo name="NIST" value="NIST IR 6948"/>
     <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
     <author fullname="Blaza Toman" initials="B." surname="Toman"/>
     <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
@@ -9,6 +10,13 @@
     <author fullname="ManaBaghai Anaraki" initials="M.B." surname="Anaraki"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

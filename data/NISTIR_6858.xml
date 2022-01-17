@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6858" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6858.pdf">
   <front>
-    <title>Agent technology: feasibility for business and manufacturing application</title>
+    <title>Agent technology:feasibility for business and manufacturing application</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6858"/>
+    <seriesInfo name="NIST" value="NIST IR 6858"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author fullname="Nenad Ivezic" initials="N." surname="Ivezic"/>
     <author fullname="Rick Korchak" initials="R." surname="Korchak"/>
@@ -9,6 +10,13 @@
     <author fullname="Thomas Rhodes" initials="T." surname="Rhodes"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

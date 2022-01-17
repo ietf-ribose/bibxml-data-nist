@@ -2,10 +2,22 @@
   <front>
     <title>Method to improve point-based registration by restoring rigid-body condition</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8180"/>
-    <author fullname="Marek Franaszek" initials="M." surname="Franaszek"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
+    <seriesInfo name="NIST" value="NIST IR 8180"/>
+    <author fullname="Marek Franaszek" initials="M." surname="Franaszek">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Geraldine Cheok" initials="G." surname="Cheok">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="June" day="26"/>
   </front>

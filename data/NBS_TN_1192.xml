@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.1192" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1192.pdf">
   <front>
-    <title>Offshore concrete structures in the Arctic : research needs</title>
+    <title>Offshore concrete structures in the Arctic :research needs</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1192"/>
+    <seriesInfo name="NIST" value="NBS TN 1192"/>
     <author fullname="Nicholas Carino" initials="N." surname="Carino"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

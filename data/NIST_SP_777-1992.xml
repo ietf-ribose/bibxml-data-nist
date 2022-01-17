@@ -2,10 +2,18 @@
   <front>
     <title>NIST serial holdings</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.777-1992"/>
+    <seriesInfo name="NIST" value="NIST SP 777-1992"/>
     <author fullname="Susan Sanders" initials="S." surname="Sanders"/>
     <author fullname="Susan Sanders" initials="S." surname="Sanders"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

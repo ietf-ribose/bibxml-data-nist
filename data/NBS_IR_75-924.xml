@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.75-924" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-924.pdf">
   <front>
-    <title>Evaluation, revision and application of the NBS styluscomputer system for surface roughness measurement : minicomputer software</title>
+    <title>Evaluation, revision and application of the NBS styluscomputer system for surface roughness measurement :minicomputer software</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-924"/>
+    <seriesInfo name="NIST" value="NBS IR 75-924"/>
     <author fullname="Clayton Teague" initials="C." surname="Teague"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>Proceedings of the International Symposium on Correlation and Polarization in electronic and atomic collisions</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.789"/>
+    <seriesInfo name="NIST" value="NIST SP 789"/>
     <author fullname="Paul Neill" initials="P." surname="Neill"/>
     <author fullname="Paul Neill" initials="P." surname="Neill"/>
     <author fullname="Kurt Becker" initials="K." surname="Becker"/>
     <author fullname="Michael Kelley" initials="M." surname="Kelley"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

@@ -2,17 +2,43 @@
   <front>
     <title>Situational awareness for electric utilities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-7"/>
-    <author fullname="Jim McCarthy" initials="J." surname="McCarthy"/>
-    <author fullname="Otis Alexander" initials="O." surname="Alexander"/>
-    <author fullname="Sallie Edwards" initials="S." surname="Edwards"/>
-    <author fullname="Don Faatz" initials="D." surname="Faatz"/>
-    <author fullname="Chris Peloquin" initials="C." surname="Peloquin"/>
-    <author fullname="Susan Symington" initials="S." surname="Symington"/>
-    <author fullname="Andre Thibault" initials="A." surname="Thibault"/>
-    <author fullname="John Wiltberger" initials="J." surname="Wiltberger"/>
-    <author fullname="Karen Viani" initials="K." surname="Viani"/>
+    <seriesInfo name="NIST" value="NIST SP 1800-7"/>
+    <author fullname="Jim McCarthy" initials="J." surname="McCarthy">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Otis Alexander" initials="O." surname="Alexander">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Sallie Edwards" initials="S." surname="Edwards">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Don Faatz" initials="D." surname="Faatz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Chris Peloquin" initials="C." surname="Peloquin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Susan Symington" initials="S." surname="Symington">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Andre Thibault" initials="A." surname="Thibault">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Wiltberger" initials="J." surname="Wiltberger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Viani" initials="K." surname="Viani">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Report on approaches to database translation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-115"/>
+    <seriesInfo name="NIST" value="NBS SP 500-115"/>
     <author fullname="Leonard Gallagher" initials="L." surname="Gallagher"/>
     <author fullname="Sandra Salazar" initials="S." surname="Salazar"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1984"/>
   </front>

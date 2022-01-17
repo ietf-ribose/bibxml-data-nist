@@ -2,9 +2,17 @@
   <front>
     <title>A standard for accurate phase-angle measurements at audio frequencies.</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.347"/>
+    <seriesInfo name="NIST" value="NBS TN 347"/>
     <author fullname="Winston Scott" initials="W." surname="Scott"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

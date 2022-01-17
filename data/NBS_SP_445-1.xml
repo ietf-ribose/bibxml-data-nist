@@ -2,9 +2,17 @@
   <front>
     <title>The National Measurement system for time and frequency</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.445-1"/>
+    <seriesInfo name="NIST" value="NBS SP 445-1"/>
     <author fullname="Allan Risley" initials="A." surname="Risley"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

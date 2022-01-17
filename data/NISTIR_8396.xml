@@ -1,16 +1,35 @@
-<reference anchor="NISTIR.8396" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8396.pdf">
+<reference anchor="NIST.IR.8396" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8396.pdf">
   <front>
     <title>Open Media Forensics Challenge (OpenMFC) 2020-2021: Past, Present, and Future</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8396"/>
-    <author fullname="Haiying Guan" initials="H." surname="Guan"/>
-    <author fullname="Yooyoung Lee" initials="Y." surname="Lee"/>
-    <author fullname="Lukas Diduch" initials="L." surname="Diduch"/>
-    <author fullname="Jesse Zhang" initials="J." surname="Zhang"/>
-    <author fullname="Ilia Ghorbanian" initials="I." surname="Ghorbanian"/>
-    <author fullname="Timothee Kheyrkhah" initials="T." surname="Kheyrkhah"/>
-    <author fullname="Peter Fontana" initials="P." surname="Fontana"/>
-    <author fullname="Jon Fiscus" initials="J." surname="Fiscus"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
+    <seriesInfo name="NIST" value="NIST IR 8396"/>
+    <author fullname="Haiying Guan" initials="H." surname="Guan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Yooyoung Lee" initials="Y." surname="Lee">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lukas Diduch" initials="L." surname="Diduch">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jesse Zhang" initials="J." surname="Zhang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ilia Ghorbanian" initials="I." surname="Ghorbanian">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Timothee Kheyrkhah" initials="T." surname="Kheyrkhah">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Peter Fontana" initials="P." surname="Fontana">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jon Fiscus" initials="J." surname="Fiscus">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Filliben" initials="J." surname="Filliben">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

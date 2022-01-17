@@ -1,19 +1,47 @@
 <reference anchor="NIST.NCSTAR.1-9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-9.pdf">
   <front>
-    <title>Structural fire response and probable collapse sequence of World Trade Center Building 7: federal building and fire safety investigation of the World Trade Center disaster</title>
+    <title>Structural fire response and probable collapse sequence of World Trade Center Building 7:federal building and fire safety investigation of the World Trade Center disaster</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-9"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
-    <author fullname="Jason Averill" initials="J." surname="Averill"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-9"/>
+    <author fullname="Therese McAllister" initials="T." surname="McAllister">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Richard Gann" initials="R." surname="Gann">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Jason Averill" initials="J." surname="Averill">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="John Gross" initials="J." surname="Gross">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Grosshandler" initials="W." surname="Grosshandler">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Randall Lawson" initials="R." surname="Lawson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Pitts" initials="W." surname="Pitts">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008" month="November"/>
   </front>

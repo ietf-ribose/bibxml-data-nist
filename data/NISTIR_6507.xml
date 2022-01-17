@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6507" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6507.pdf">
   <front>
-    <title>The NIST Electronics and Electrical Engineering Laboratory and the development of its semiconductor program: a presentation to the Standards Alumni Association</title>
+    <title>The NIST Electronics and Electrical Engineering Laboratory and the development of its semiconductor program:a presentation to the Standards Alumni Association</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6507"/>
+    <seriesInfo name="NIST" value="NIST IR 6507"/>
     <author fullname="Judson French" initials="J." surname="French"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

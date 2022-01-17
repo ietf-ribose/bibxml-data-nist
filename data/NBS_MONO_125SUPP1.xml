@@ -1,11 +1,19 @@
 <reference anchor="NBS.MONO.125supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph125supp1.pdf">
   <front>
-    <title>Thermocouple reference tables based on the IPTS-68 : reference tables in degrees Fahrenheit for thermoelements versus platinum (Pt-67)</title>
+    <title>Thermocouple reference tables based on the IPTS-68 :reference tables in degrees Fahrenheit for thermoelements versus platinum (Pt-67)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.125supp1"/>
+    <seriesInfo name="NIST" value="NBS MONO 125supp1"/>
     <author fullname="Robert Powell" initials="R." surname="Powell"/>
     <author fullname="George Burns" initials="G." surname="Burns"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

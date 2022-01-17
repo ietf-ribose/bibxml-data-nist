@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.465" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote465.pdf">
   <front>
-    <title>Measurement of carrier lifetime in semiconductors: an annotated bibliography covering the period 1949-1967</title>
+    <title>Measurement of carrier lifetime in semiconductors:an annotated bibliography covering the period 1949-1967</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.465"/>
+    <seriesInfo name="NIST" value="NBS TN 465"/>
     <author fullname="Murray Bullis" initials="M." surname="Bullis"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

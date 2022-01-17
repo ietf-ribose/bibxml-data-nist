@@ -1,11 +1,19 @@
 <reference anchor="NBS.TN.509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote509.pdf">
   <front>
-    <title>Separation and Purification Section : summary of activities July 1968 to June 1969</title>
+    <title>Separation and Purification Section :summary of activities July 1968 to June 1969</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.509"/>
+    <seriesInfo name="NIST" value="NBS TN 509"/>
     <author fullname="Walter Zielinski" initials="W." surname="Zielinski"/>
     <author fullname="David Freeman" initials="D." surname="Freeman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

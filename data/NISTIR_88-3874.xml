@@ -2,11 +2,19 @@
   <front>
     <title>Implementation of the Coordinate Measuring Machine Controller</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3874"/>
+    <seriesInfo name="NIST" value="NIST IR 88-3874"/>
     <author fullname="Howard Moncarz" initials="H." surname="Moncarz"/>
     <author fullname="Theodore Hopp" initials="T." surname="Hopp"/>
     <author fullname="Patrick Lezark" initials="P." surname="Lezark"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

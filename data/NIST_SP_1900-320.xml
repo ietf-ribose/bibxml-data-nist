@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.1900-320" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-320.pdf">
   <front>
-    <title>Workshop report : consensus safety measurement methodologies for automated driving system-equipped vehicles</title>
+    <title>Workshop report :consensus safety measurement methodologies for automated driving system-equipped vehicles</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-320"/>
-    <author fullname="Christopher Greer" initials="C." surname="Greer"/>
-    <author fullname="Edward Griffor" initials="E." surname="Griffor"/>
-    <author fullname="David Wollman" initials="D." surname="Wollman"/>
+    <seriesInfo name="NIST" value="NIST SP 1900-320"/>
+    <author fullname="Christopher Greer" initials="C." surname="Greer">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Edward Griffor" initials="E." surname="Griffor">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="David Wollman" initials="D." surname="Wollman">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September"/>
   </front>

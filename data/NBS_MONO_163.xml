@@ -2,12 +2,20 @@
   <front>
     <title>Measurement assurance for gage blocks</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.163"/>
+    <seriesInfo name="NIST" value="NBS MONO 163"/>
     <author fullname="Carroll Croarkin" initials="C." surname="Croarkin"/>
     <author fullname="John Beers" initials="J." surname="Beers"/>
     <author fullname="Clyde Tucker" initials="C." surname="Tucker"/>
     <author surname="Cameron"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

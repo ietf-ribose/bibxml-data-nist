@@ -2,10 +2,18 @@
   <front>
     <title>Procedure for product data exchange using STEP developed in the autoSTEP pilot</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5833"/>
+    <seriesInfo name="NIST" value="NIST IR 5833"/>
     <author fullname="David Rosenfeld" initials="D." surname="Rosenfeld"/>
     <author fullname="Shantanu Dhar" initials="S." surname="Dhar"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

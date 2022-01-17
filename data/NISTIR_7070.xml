@@ -2,9 +2,17 @@
   <front>
     <title>Workshop on IEEE-1588, standard for a precision clock synchronization protocol for networked measurement and control systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7070"/>
+    <seriesInfo name="NIST" value="NIST IR 7070"/>
     <author surname="Lee"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

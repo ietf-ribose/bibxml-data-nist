@@ -2,10 +2,22 @@
   <front>
     <title>A study of methods for the efficient allocation of radio frequencies to broadcasting services operating in the range above 50 MC</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.4-5"/>
-    <author fullname="Kenneth Norton" initials="K." surname="Norton"/>
-    <author fullname="Harry Fine" initials="H." surname="Fine"/>
+    <seriesInfo name="NIST" value="NBS CRPL 4-5"/>
+    <author fullname="Kenneth Norton" initials="K." surname="Norton">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author fullname="Harry Fine" initials="H." surname="Fine">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1949"/>
   </front>

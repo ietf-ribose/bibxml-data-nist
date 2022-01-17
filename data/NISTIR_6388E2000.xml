@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6388e2000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6388e2000.pdf">
   <front>
-    <title>Celebrating one hundred years of chemistry at the National Institute of Standards and Technology: Chemical Science and Technology Laboratory</title>
+    <title>Celebrating one hundred years of chemistry at the National Institute of Standards and Technology:Chemical Science and Technology Laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6388e2000"/>
+    <seriesInfo name="NIST" value="NIST IR 6388e2000"/>
     <author fullname="Ellyn Beary" initials="E." surname="Beary"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>Space groups and lattice complexes</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.134"/>
+    <seriesInfo name="NIST" value="NBS MONO 134"/>
     <author fullname="Werner Fisher" initials="W." surname="Fisher"/>
     <author fullname="Hans Burzlaff" initials="H." surname="Burzlaff"/>
     <author fullname="Erwin Hellner" initials="E." surname="Hellner"/>
     <author surname="Donnay"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

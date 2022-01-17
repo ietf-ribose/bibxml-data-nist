@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6427" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6427.pdf">
   <front>
-    <title>The fluid dynamics of fire whirls: an inviscid model Francine Battaglia; Ronald G. Rehm; Howard R. Baum.</title>
+    <title>The fluid dynamics of fire whirls:an inviscid model Francine Battaglia; Ronald G. Rehm; Howard R. Baum.</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6427"/>
+    <seriesInfo name="NIST" value="NIST IR 6427"/>
     <author fullname="Francine Battaglia" initials="F." surname="Battaglia"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author fullname="Howard Baum" initials="H." surname="Baum"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

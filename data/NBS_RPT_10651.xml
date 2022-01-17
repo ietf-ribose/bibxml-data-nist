@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.10651" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10651.pdf">
   <front>
-    <title>National estimates of lead based paint poisoning of children (estimated by Standard Metropolitan Statistical Area): milestone 6</title>
+    <title>National estimates of lead based paint poisoning of children (estimated by Standard Metropolitan Statistical Area):milestone 6</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10651"/>
+    <seriesInfo name="NIST" value="NBS RPT 10651"/>
     <author fullname="Judith Gilsinn" initials="J." surname="Gilsinn"/>
     <author fullname="Michael Thomas" initials="M." surname="Thomas"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

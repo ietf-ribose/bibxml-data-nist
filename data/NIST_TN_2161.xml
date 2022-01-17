@@ -2,23 +2,58 @@
   <front>
     <title>Structure Separation Experiments Phase 1 Preliminary Test Plan</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2161"/>
-    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
-    <author fullname="Shonali Nazare" initials="S." surname="Nazare"/>
-    <author fullname="Eric Link" initials="E." surname="Link"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
-    <author fullname="Matthew Hoehler" initials="M." surname="Hoehler"/>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy"/>
-    <author fullname="Steven Hawks" initials="S." surname="Hawks"/>
-    <author fullname="Frank Bigelow" initials="F." surname="Bigelow"/>
-    <author fullname="William(Ruddy) Mell" initials="W.(." surname="Mell"/>
-    <author fullname="Anthony Bova" initials="A." surname="Bova"/>
-    <author fullname="Derek McNamara" initials="D." surname="McNamara"/>
-    <author fullname="Tom Milac" initials="T." surname="Milac"/>
-    <author fullname="Daniel Gorham" initials="D." surname="Gorham"/>
-    <author fullname="Faraz Hedayati" initials="F." surname="Hedayati"/>
-    <author fullname="Bob Raymer" initials="B." surname="Raymer"/>
-    <author fullname="Frank Frievalt" initials="F." surname="Frievalt"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <seriesInfo name="NIST" value="NIST TN 2161"/>
+    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Shonali Nazare" initials="S." surname="Nazare">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Eric Link" initials="E." surname="Link">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Matthew Hoehler" initials="M." surname="Hoehler">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven Hawks" initials="S." surname="Hawks">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Frank Bigelow" initials="F." surname="Bigelow">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William(Ruddy) Mell" initials="W.(." surname="Mell">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Anthony Bova" initials="A." surname="Bova">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Derek McNamara" initials="D." surname="McNamara">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Tom Milac" initials="T." surname="Milac">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Daniel Gorham" initials="D." surname="Gorham">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Faraz Hedayati" initials="F." surname="Hedayati">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Bob Raymer" initials="B." surname="Raymer">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Frank Frievalt" initials="F." surname="Frievalt">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="William Walton" initials="W." surname="Walton">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

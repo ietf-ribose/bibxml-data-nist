@@ -2,7 +2,10 @@
   <front>
     <title>STEP File Analyzer User's Guide (Version 3)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8122"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman"/>
+    <seriesInfo name="NIST" value="NIST IR 8122"/>
+    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

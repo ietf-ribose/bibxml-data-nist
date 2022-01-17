@@ -2,12 +2,28 @@
   <front>
     <title>Methodology for enabling forensic analysis using hypervisor vulnerabilities data</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8221"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
-    <author fullname="Anoop Singhal" initials="A." surname="Singhal"/>
-    <author fullname="Duminda Wijesekera" initials="D." surname="Wijesekera"/>
-    <author fullname="Changwei Liu" initials="C." surname="Liu"/>
+    <seriesInfo name="NIST" value="NIST IR 8221"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Anoop Singhal" initials="A." surname="Singhal">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Duminda Wijesekera" initials="D." surname="Wijesekera">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Changwei Liu" initials="C." surname="Liu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June"/>
   </front>

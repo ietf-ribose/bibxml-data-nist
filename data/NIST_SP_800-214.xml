@@ -2,10 +2,19 @@
   <front>
     <title>2020 Cybersecurity and Privacy Annual Report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-214"/>
-    <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly"/>
-    <author fullname="Kristina Rigopoulos" initials="K." surname="Rigopoulos"/>
-    <author fullname="Larry Feldman" initials="L." surname="Feldman"/>
-    <author fullname="Greg Witte" initials="G." surname="Witte"/>
+    <seriesInfo name="NIST" value="NIST SP 800-214"/>
+    <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kristina Rigopoulos" initials="K." surname="Rigopoulos">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Larry Feldman" initials="L." surname="Feldman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Greg Witte" initials="G." surname="Witte">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

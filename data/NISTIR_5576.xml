@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5576" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5576.pdf">
   <front>
-    <title>Computer Systems Laboratory: annual report 1994</title>
+    <title>Computer Systems Laboratory:annual report 1994</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5576"/>
+    <seriesInfo name="NIST" value="NIST IR 5576"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

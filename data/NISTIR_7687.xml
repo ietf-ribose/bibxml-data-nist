@@ -2,11 +2,19 @@
   <front>
     <title>Test suite for building energy analysis of conceptual spatial layout</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7687"/>
+    <seriesInfo name="NIST" value="NIST IR 7687"/>
     <author fullname="Kenway Chen" initials="K." surname="Chen"/>
     <author fullname="Robert Lipman" initials="R." surname="Lipman"/>
     <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

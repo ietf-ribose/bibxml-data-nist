@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.5754" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5754.pdf">
   <front>
-    <title>Proposed specification for impression material: synthetic rubber base, dental</title>
+    <title>Proposed specification for impression material:synthetic rubber base, dental</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.5754"/>
+    <seriesInfo name="NIST" value="NBS RPT 5754"/>
     <author fullname="C,Jr Miller" initials="C.J." surname="Miller"/>
     <author fullname="George Dickson" initials="G." surname="Dickson"/>
     <author surname="Sweeney"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1957"/>
   </front>

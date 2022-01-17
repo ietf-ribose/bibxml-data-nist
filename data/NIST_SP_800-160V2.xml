@@ -1,14 +1,32 @@
 <reference anchor="NIST.SP.800-160v2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2.pdf">
   <front>
-    <title>Developing cyber resilient systems: a systems security engineering approach</title>
+    <title>Developing cyber resilient systems:a systems security engineering approach</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-160v2"/>
-    <author fullname="Ron Ross" initials="R." surname="Ross"/>
-    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri"/>
-    <author fullname="Richard Graubart" initials="R." surname="Graubart"/>
-    <author fullname="Deborah Bodeau" initials="D." surname="Bodeau"/>
-    <author fullname="Rosalie McQuaid" initials="R." surname="McQuaid"/>
+    <seriesInfo name="NIST" value="NIST SP 800-160v2"/>
+    <author fullname="Ron Ross" initials="R." surname="Ross">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Richard Graubart" initials="R." surname="Graubart">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Deborah Bodeau" initials="D." surname="Bodeau">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rosalie McQuaid" initials="R." surname="McQuaid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November"/>
   </front>

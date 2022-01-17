@@ -2,11 +2,19 @@
   <front>
     <title>NIST Standard Reference Materials catalog February 2003</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260e2003"/>
+    <seriesInfo name="NIST" value="NIST SP 260e2003"/>
     <author fullname="Joylene Thomas" initials="J." surname="Thomas"/>
     <author fullname="Yvonne Branden" initials="Y." surname="Branden"/>
     <author fullname="Robbin Howard" initials="R." surname="Howard"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

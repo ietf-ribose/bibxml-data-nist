@@ -2,11 +2,19 @@
   <front>
     <title>Fricke dosimetry in high-energy election beams</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.250-4"/>
+    <seriesInfo name="NIST" value="NBS SP 250-4"/>
     <author fullname="Christopher Soares" initials="C." surname="Soares"/>
     <author fullname="Eric Bright" initials="E." surname="Bright"/>
     <author fullname="Margarete Ehrlich" initials="M." surname="Ehrlich"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

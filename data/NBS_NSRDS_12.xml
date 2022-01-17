@@ -1,10 +1,18 @@
 <reference anchor="NBS.NSRDS.12" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds12.pdf">
   <front>
-    <title>Tables for the rigid asymmetric rotor : transformation coefficients from symmetric to asymmetric bases and expectation values of P^2&lt;-z, P4&lt;-z, and P2&lt;-z,</title>
+    <title>Tables for the rigid asymmetric rotor :transformation coefficients from symmetric to asymmetric bases and expectation values of P^2&lt;-z, P4&lt;-z, and P2&lt;-z,</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.12"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 12"/>
     <author fullname="Richard Schwendeman" initials="R." surname="Schwendeman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

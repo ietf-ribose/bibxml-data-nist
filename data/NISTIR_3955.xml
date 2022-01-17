@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.3955" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3955.pdf">
   <front>
-    <title>Spherical near-field scanning : experimental and theoretical studies</title>
+    <title>Spherical near-field scanning :experimental and theoretical studies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.3955"/>
+    <seriesInfo name="NIST" value="NIST IR 3955"/>
     <author fullname="Ronald Wittman" initials="R." surname="Wittman"/>
     <author fullname="Carl Stubenrauch" initials="C." surname="Stubenrauch"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

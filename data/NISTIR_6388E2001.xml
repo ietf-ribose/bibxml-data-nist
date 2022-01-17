@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6388e2001" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6388e2001.pdf">
   <front>
-    <title>Celebrating one hundred years of chemistry at the National Institute of Standards and Technology: Chemical Science and Technology Laboratory</title>
+    <title>Celebrating one hundred years of chemistry at the National Institute of Standards and Technology:Chemical Science and Technology Laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6388e2001"/>
+    <seriesInfo name="NIST" value="NIST IR 6388e2001"/>
     <author fullname="Hratch Semerjian" initials="H." surname="Semerjian"/>
     <author fullname="William Koch" initials="W." surname="Koch"/>
     <author fullname="Ellyn Beary" initials="E." surname="Beary"/>
@@ -9,6 +10,13 @@
     <author fullname="Gregory Vasquez" initials="G." surname="Vasquez"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

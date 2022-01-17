@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.260-83" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-83.pdf">
   <front>
-    <title>Standard Reference Materials The measurement of the catalytic (activity) concentration of seven enzymes in NBS human serum SRM 909</title>
+    <title>Standard Reference MaterialsThe measurement of the catalytic (activity) concentration of seven enzymes in NBS human serum SRM 909</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-83"/>
+    <seriesInfo name="NIST" value="NBS SP 260-83"/>
     <author fullname="Robert Alvarez" initials="R." surname="Alvarez"/>
     <author fullname="Keith Eberhardt" initials="K." surname="Eberhardt"/>
     <author fullname="Robert Elser" initials="R." surname="Elser"/>
@@ -15,6 +16,13 @@
     <author fullname="Robert Schaffer" initials="R." surname="Schaffer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

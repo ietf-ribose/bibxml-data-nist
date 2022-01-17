@@ -2,6 +2,7 @@
   <front>
     <title>Low-voltage room thermostat</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.150"/>
+    <seriesInfo name="NIST" value="NBS BSS 150"/>
     <author fullname="James Kao" initials="J." surname="Kao"/>
     <author fullname="George Sushinsky" initials="G." surname="Sushinsky"/>
     <author fullname="David Didion" initials="D." surname="Didion"/>
@@ -9,6 +10,13 @@
     <author fullname="Joseph Chi" initials="J." surname="Chi"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

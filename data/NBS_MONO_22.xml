@@ -2,11 +2,19 @@
   <front>
     <title>Climatic charts and data of the radio refractive index for the United States and the world</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.22"/>
+    <seriesInfo name="NIST" value="NBS MONO 22"/>
     <author surname="Bean"/>
     <author surname="Horn"/>
     <author fullname="M,Jr Ozanich" initials="M.J." surname="Ozanich"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1960"/>
   </front>

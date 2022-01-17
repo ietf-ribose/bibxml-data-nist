@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.85-3029" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3029.pdf">
   <front>
-    <title>metrology for electromagnetic technology : a bibliography of NBS publications</title>
+    <title>metrology for electromagnetic technology :a bibliography of NBS publications</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3029"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3029"/>
     <author fullname="Kathryn Kline" initials="K." surname="Kline"/>
     <author fullname="Mary DeWeese" initials="M." surname="DeWeese"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

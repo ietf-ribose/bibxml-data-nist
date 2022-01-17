@@ -2,12 +2,28 @@
   <front>
     <title>Assessment of closed circuit television digital video recording and export technologies</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8172"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris"/>
-    <author fullname="Mary Laamanen" initials="M." surname="Laamanen"/>
-    <author fullname="Craig Russell" initials="C." surname="Russell"/>
-    <author fullname="Lawrence Nadel" initials="L." surname="Nadel"/>
+    <seriesInfo name="NIST" value="NIST IR 8172"/>
+    <author fullname="Michael Garris" initials="M." surname="Garris">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary Laamanen" initials="M." surname="Laamanen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Craig Russell" initials="C." surname="Russell">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lawrence Nadel" initials="L." surname="Nadel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="March"/>
   </front>

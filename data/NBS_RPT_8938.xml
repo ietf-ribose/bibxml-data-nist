@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.8938" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8938.pdf">
   <front>
-    <title>Report on Latin America travel: Part I</title>
+    <title>Report on Latin America travel:Part I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.8938"/>
+    <seriesInfo name="NIST" value="NBS RPT 8938"/>
     <author fullname="LeRoy Wyman" initials="L." surname="Wyman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

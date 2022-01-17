@@ -2,10 +2,18 @@
   <front>
     <title>A user's guide for CFAST version 1.6</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4985"/>
+    <seriesInfo name="NIST" value="NIST IR 4985"/>
     <author fullname="Walter Jones" initials="W." surname="Jones"/>
     <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

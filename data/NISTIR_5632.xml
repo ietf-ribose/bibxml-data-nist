@@ -2,10 +2,18 @@
   <front>
     <title>Tables of x-ray mass attenuation coefficients and mass energy-absorption coefficients 1 keV to 20 MeV for elements Z = 1 to 92 and 48 additional substances of dosimetry interest</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5632"/>
+    <seriesInfo name="NIST" value="NIST IR 5632"/>
     <author surname="Hubbell"/>
     <author surname="Seltzer"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

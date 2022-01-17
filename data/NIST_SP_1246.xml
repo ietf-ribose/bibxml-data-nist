@@ -1,16 +1,38 @@
 <reference anchor="NIST.SP.1246" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1246.pdf">
   <front>
-    <title>Assessing the predictive capability for real-scale residential upholstered furniture mock-up fires using cone calorimeter measurements: part 1, real-scale experiments</title>
+    <title>Assessing the predictive capability for real-scale residential upholstered furniture mock-up fires using cone calorimeter measurements:part 1, real-scale experiments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1246"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Martin Werrel" initials="M." surname="Werrel"/>
-    <author fullname="Marco Fernandez" initials="M." surname="Fernandez"/>
-    <author fullname="Mary Long" initials="M." surname="Long"/>
-    <author fullname="Evan Eisenberg" initials="E." surname="Eisenberg"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
-    <author fullname="Cory Runyon" initials="C." surname="Runyon"/>
+    <seriesInfo name="NIST" value="NIST SP 1246"/>
+    <author fullname="William Pitts" initials="W." surname="Pitts">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Martin Werrel" initials="M." surname="Werrel">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Marco Fernandez" initials="M." surname="Fernandez">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mary Long" initials="M." surname="Long">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Evan Eisenberg" initials="E." surname="Eisenberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="James Filliben" initials="J." surname="Filliben">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Cory Runyon" initials="C." surname="Runyon">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February"/>
   </front>

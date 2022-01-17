@@ -2,6 +2,7 @@
   <front>
     <title>NISTLBIR facility five year plan (FY05-FY09)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7199"/>
+    <seriesInfo name="NIST" value="NIST IR 7199"/>
     <author fullname="Adrian Carter" initials="A." surname="Carter"/>
     <author fullname="Eric Shirley" initials="E." surname="Shirley"/>
     <author fullname="Raju Dalta" initials="R." surname="Dalta"/>
@@ -14,6 +15,13 @@
     <author fullname="Dale Sears" initials="D." surname="Sears"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

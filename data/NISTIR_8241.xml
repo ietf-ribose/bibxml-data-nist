@@ -2,12 +2,28 @@
   <front>
     <title>Organizational views of NIST cryptographic standards and testing and validation programs</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8241"/>
-    <author fullname="Julie Haney" initials="J." surname="Haney"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
-    <author fullname="Yasemin Acar" initials="Y." surname="Acar"/>
-    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman"/>
+    <seriesInfo name="NIST" value="NIST IR 8241"/>
+    <author fullname="Julie Haney" initials="J." surname="Haney">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Yasemin Acar" initials="Y." surname="Acar">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December"/>
   </front>

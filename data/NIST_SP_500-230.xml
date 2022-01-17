@@ -2,8 +2,16 @@
   <front>
     <title>Application portability profile (APP) the U.s. government's open system environment profile version 3.0.</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-230"/>
+    <seriesInfo name="NIST" value="NIST SP 500-230"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

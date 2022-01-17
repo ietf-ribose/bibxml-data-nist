@@ -2,10 +2,22 @@
   <front>
     <title>NIST interlaboratory study of aerosol absorption measurements using photoacoustic spectroscopy</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1989"/>
-    <author fullname="Christopher Zangmeister" initials="C." surname="Zangmeister"/>
-    <author fullname="James Radney" initials="J." surname="Radney"/>
+    <seriesInfo name="NIST" value="NIST TN 1989"/>
+    <author fullname="Christopher Zangmeister" initials="C." surname="Zangmeister">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="James Radney" initials="J." surname="Radney">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="April"/>
   </front>

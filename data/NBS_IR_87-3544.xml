@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.87-3544" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3544.pdf">
   <front>
-    <title>A national forum on the future of automated materials processing in U.S. industry : the role of process models, artificial intelligence and computer integration</title>
+    <title>A national forum on the future of automated materials processing in U.S. industry :the role of process models, artificial intelligence and computer integration</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3544"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3544"/>
     <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
     <author fullname="Norman Kuchar" initials="N." surname="Kuchar"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

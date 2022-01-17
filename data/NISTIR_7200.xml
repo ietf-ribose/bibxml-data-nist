@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7200" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7200.pdf">
   <front>
-    <title>Proximity beacons and mobile device authentication : an overview and implementation</title>
+    <title>Proximity beacons and mobile device authentication :an overview and implementation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7200"/>
+    <seriesInfo name="NIST" value="NIST IR 7200"/>
     <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
     <author fullname="Serban Gavrila" initials="S." surname="Gavrila"/>
     <author fullname="Vlad Korolev" initials="V." surname="Korolev"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

@@ -2,7 +2,10 @@
   <front>
     <title>National Voluntary Laboratory Accreditation Program (NVLAP) Common Criteria Testing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.150-20"/>
-    <author fullname="Dana Leaman" initials="D." surname="Leaman"/>
+    <seriesInfo name="NIST" value="NIST HB 150-20"/>
+    <author fullname="Dana Leaman" initials="D." surname="Leaman">
+      <organization>Laboratory Programs</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

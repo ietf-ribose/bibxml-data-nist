@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.359" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication359.pdf">
   <front>
-    <title>Metrology and standardization in less-developed countries : the role of national capability for industrializing economics</title>
+    <title>Metrology and standardization in less-developed countries :the role of national capability for industrializing economics</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.359"/>
+    <seriesInfo name="NIST" value="NBS SP 359"/>
     <author surname="Mason"/>
     <author surname="Peiser"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

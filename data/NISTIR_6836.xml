@@ -2,6 +2,7 @@
   <front>
     <title>Tolerance synthesis scheme</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6836"/>
+    <seriesInfo name="NIST" value="NIST IR 6836"/>
     <author surname="Roy"/>
     <author surname="Pramanik"/>
     <author surname="Wang"/>
@@ -10,6 +11,13 @@
     <author surname="Lyons"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

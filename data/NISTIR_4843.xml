@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.4843" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4843.pdf">
   <front>
-    <title>Managing data: from vision to reality proceedings of the fourth annual DAMA symposium</title>
+    <title>Managing data:from vision to reality proceedings of the fourth annual DAMA symposium</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4843"/>
+    <seriesInfo name="NIST" value="NIST IR 4843"/>
     <author fullname="Judith Newton" initials="J." surname="Newton"/>
     <author fullname="MaryLou Melley" initials="M.L." surname="Melley"/>
     <author fullname="Holly Higgins" initials="H." surname="Higgins"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

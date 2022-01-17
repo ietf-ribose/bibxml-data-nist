@@ -2,11 +2,19 @@
   <front>
     <title>Reference tables for low-temperature thermocouples</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.124"/>
+    <seriesInfo name="NIST" value="NBS MONO 124"/>
     <author fullname="Larry Sparks" initials="L." surname="Sparks"/>
     <author fullname="Robert Powell" initials="R." surname="Powell"/>
     <author fullname="William Hall" initials="W." surname="Hall"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

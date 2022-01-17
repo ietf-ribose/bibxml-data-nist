@@ -2,9 +2,17 @@
   <front>
     <title>Real-time acquisition and processing of fluorimetry data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.857"/>
+    <seriesInfo name="NIST" value="NBS TN 857"/>
     <author fullname="Peter Shoenfeld" initials="P." surname="Shoenfeld"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

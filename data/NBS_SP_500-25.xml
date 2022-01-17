@@ -2,11 +2,19 @@
   <front>
     <title>An analysis of computer security safeguards for detecting and preventing intentional computer misuse</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-25"/>
+    <seriesInfo name="NIST" value="NBS SP 500-25"/>
     <author fullname="Brian Ruder" initials="B." surname="Ruder"/>
     <author surname="Madden"/>
     <author fullname="Robert Blanc" initials="R." surname="Blanc"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

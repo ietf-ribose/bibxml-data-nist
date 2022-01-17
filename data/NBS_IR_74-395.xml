@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.74-395" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-395.pdf">
   <front>
-    <title>Bibliography of the electromagnetics division : June 30, 1973 to June 30, 1974</title>
+    <title>Bibliography of the electromagnetics division :June 30, 1973 to June 30, 1974</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.74-395"/>
+    <seriesInfo name="NIST" value="NBS IR 74-395"/>
     <author fullname="Margaret Woolley" initials="M." surname="Woolley"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

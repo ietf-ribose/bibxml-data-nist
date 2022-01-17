@@ -1,12 +1,26 @@
 <reference anchor="NIST.SP.800-68r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-68r1.pdf">
   <front>
-    <title>Guide to securing Microsoft Windows XP Systems for IT Professionals : a NIST security configuration checklist</title>
+    <title>Guide to securing Microsoft Windows XP Systems for IT Professionals :a NIST security configuration checklist</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-68r1"/>
-    <author surname="Scarfone"/>
-    <author surname="Souppaya"/>
-    <author surname="Johnson"/>
+    <seriesInfo name="NIST" value="NIST SP 800-68r1"/>
+    <author surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Souppaya">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author surname="Johnson">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008"/>
   </front>

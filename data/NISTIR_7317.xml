@@ -2,6 +2,7 @@
   <front>
     <title>Free space optics communication system testing in smoke and fire environments</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7317"/>
+    <seriesInfo name="NIST" value="NIST IR 7317"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
     <author fullname="William Mell" initials="W." surname="Mell"/>
     <author fullname="William Walton" initials="W." surname="Walton"/>
@@ -9,6 +10,13 @@
     <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

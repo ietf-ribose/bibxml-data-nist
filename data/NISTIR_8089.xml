@@ -2,9 +2,16 @@
   <front>
     <title>An Industrial Control System Cybersecurity Performance Testbed</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8089"/>
-    <author fullname="Richard Candell Jr." initials="R." surname="Candell Jr."/>
-    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
+    <seriesInfo name="NIST" value="NIST IR 8089"/>
+    <author fullname="Richard Candell Jr." initials="R." surname="Candell Jr.">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

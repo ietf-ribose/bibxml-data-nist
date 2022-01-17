@@ -2,9 +2,17 @@
   <front>
     <title>A neutron moments computer code, moment I</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.725"/>
+    <seriesInfo name="NIST" value="NBS TN 725"/>
     <author fullname="Charles Eisenhauer" initials="C." surname="Eisenhauer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

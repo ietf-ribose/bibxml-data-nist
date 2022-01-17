@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.250-69" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-69.pdf">
   <front>
-    <title>NIST measurement services : regular spectral transmittance</title>
+    <title>NIST measurement services :regular spectral transmittance</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-69"/>
+    <seriesInfo name="NIST" value="NIST SP 250-69"/>
     <author fullname="David Allen" initials="D." surname="Allen"/>
     <author fullname="Edward Early" initials="E." surname="Early"/>
     <author fullname="Benjamin Tsai" initials="B." surname="Tsai"/>
     <author fullname="Catherine Cooksey" initials="C." surname="Cooksey"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

@@ -2,9 +2,19 @@
   <front>
     <title>Federal office of research and technology applications survey results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TTB.1"/>
-    <author fullname="Nicole Gingrich" initials="N." surname="Gingrich"/>
+    <seriesInfo name="NIST" value="NIST TTB 1"/>
+    <author fullname="Nicole Gingrich" initials="N." surname="Gingrich">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August"/>
   </front>

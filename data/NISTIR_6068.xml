@@ -2,6 +2,7 @@
   <front>
     <title>Report on the TMACH experiment</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6068"/>
+    <seriesInfo name="NIST" value="NIST IR 6068"/>
     <author fullname="Ellen Flahavin" initials="E." surname="Flahavin"/>
     <author fullname="Goswin Eisen" initials="G." surname="Eisen"/>
     <author fullname="Steve Hill" initials="S." surname="Hill"/>
@@ -10,6 +11,13 @@
     <author fullname="Andy Webber" initials="A." surname="Webber"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

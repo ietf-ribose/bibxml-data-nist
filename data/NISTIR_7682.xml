@@ -2,6 +2,7 @@
   <front>
     <title>Information system security best practices for UOCAVA-supporting systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7682"/>
+    <seriesInfo name="NIST" value="NIST IR 7682"/>
     <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
     <author fullname="Geoff Beier" initials="G." surname="Beier"/>
     <author fullname="Santosh Chokhani" initials="S." surname="Chokhani"/>
@@ -10,6 +11,13 @@
     <author fullname="Scott Shorter" initials="S." surname="Shorter"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

@@ -1,12 +1,26 @@
 <reference anchor="NIST.TN.2056" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2056.pdf">
   <front>
-    <title>LTE handset emissions: radiation pattern measurements final test report</title>
+    <title>LTE handset emissions:radiation pattern measurements final test report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2056"/>
-    <author fullname="Robert Horansky" initials="R." surname="Horansky"/>
-    <author fullname="Jason Coder" initials="J." surname="Coder"/>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury"/>
+    <seriesInfo name="NIST" value="NIST TN 2056"/>
+    <author fullname="Robert Horansky" initials="R." surname="Horansky">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Jason Coder" initials="J." surname="Coder">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="John Ladbury" initials="J." surname="Ladbury">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August"/>
   </front>

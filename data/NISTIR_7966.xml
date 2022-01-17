@@ -2,10 +2,19 @@
   <front>
     <title>Security of Interactive and Automated Access Management Using Secure Shell (SSH)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7966"/>
-    <author fullname="Tatu Ylonen" initials="T." surname="Ylonen"/>
-    <author fullname="Paul Turner" initials="P." surname="Turner"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
-    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya"/>
+    <seriesInfo name="NIST" value="NIST IR 7966"/>
+    <author fullname="Tatu Ylonen" initials="T." surname="Ylonen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Paul Turner" initials="P." surname="Turner">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

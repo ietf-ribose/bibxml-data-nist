@@ -2,11 +2,19 @@
   <front>
     <title>ARPANBS Workshop V</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.400-69"/>
+    <seriesInfo name="NIST" value="NBS SP 400-69"/>
     <author fullname="Harry Schafft" initials="H." surname="Schafft"/>
     <author fullname="Stanley Ruthberg" initials="S." surname="Ruthberg"/>
     <author fullname="Elaine Cohen" initials="E." surname="Cohen"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

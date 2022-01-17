@@ -2,12 +2,20 @@
   <front>
     <title>Security architecture design process for health information exchanges (HIEs)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7497"/>
+    <seriesInfo name="NIST" value="NIST IR 7497"/>
     <author fullname="Matthew Scholl" initials="M." surname="Scholl"/>
     <author fullname="Kevin Stine" initials="K." surname="Stine"/>
     <author fullname="Kenneth Lin" initials="K." surname="Lin"/>
     <author fullname="Daniel Steinberg" initials="D." surname="Steinberg"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

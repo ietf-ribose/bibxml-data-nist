@@ -2,6 +2,7 @@
   <front>
     <title>Surface topography analysis for a feasibility assessment of a national ballistics imaging database</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7362"/>
+    <seriesInfo name="NIST" value="NIST IR 7362"/>
     <author surname="Vorburger"/>
     <author surname="Yen"/>
     <author surname="Bachrach"/>
@@ -16,6 +17,13 @@
     <author surname="Ballou"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

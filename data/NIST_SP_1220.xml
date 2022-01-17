@@ -2,14 +2,34 @@
   <front>
     <title>Workshop report: research roadmap for reducing the fire hazard of materials in the future</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1220"/>
-    <author fullname="Rick Davis" initials="R." surname="Davis"/>
-    <author fullname="Mauro Zammarano" initials="M." surname="Zammarano"/>
-    <author fullname="Nathan Marsh" initials="N." surname="Marsh"/>
-    <author fullname="Paget Donnelly" initials="P." surname="Donnelly"/>
-    <author fullname="Shawna McQueen" initials="S." surname="McQueen"/>
-    <author fullname="Anand Raghunathan" initials="A." surname="Raghunathan"/>
+    <seriesInfo name="NIST" value="NIST SP 1220"/>
+    <author fullname="Rick Davis" initials="R." surname="Davis">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mauro Zammarano" initials="M." surname="Zammarano">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Nathan Marsh" initials="N." surname="Marsh">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Paget Donnelly" initials="P." surname="Donnelly">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Shawna McQueen" initials="S." surname="McQueen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Anand Raghunathan" initials="A." surname="Raghunathan">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March"/>
   </front>

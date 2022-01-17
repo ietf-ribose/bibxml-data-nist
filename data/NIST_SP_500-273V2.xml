@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.500-273v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-273v2.pdf">
   <front>
-    <title>USGv6 test methods : general description and validation-version 2.0</title>
+    <title>USGv6 test methods :general description and validation-version 2.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-273v2"/>
+    <seriesInfo name="NIST" value="NIST SP 500-273v2"/>
     <author fullname="Stephen Nightingale" initials="S." surname="Nightingale"/>
     <author fullname="Erica Johnson" initials="E." surname="Johnson"/>
     <author fullname="Timothy Winters" initials="T." surname="Winters"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.260-150" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-150.pdf">
   <front>
-    <title>Standard Reference Materials : the first century/</title>
+    <title>Standard Reference Materials :the first century/</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-150"/>
+    <seriesInfo name="NIST" value="NIST SP 260-150"/>
     <author fullname="Stanley Rasberry" initials="S." surname="Rasberry"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

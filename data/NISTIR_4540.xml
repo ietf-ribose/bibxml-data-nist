@@ -2,6 +2,7 @@
   <front>
     <title>A Boussinesq algorithm for enclosed buoyant convection in two dimensions</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4540"/>
+    <seriesInfo name="NIST" value="NIST IR 4540"/>
     <author surname="Rehm"/>
     <author surname="Tang"/>
     <author surname="Sims"/>
@@ -9,6 +10,13 @@
     <author surname="Corley"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.83-1690" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-1690.pdf">
   <front>
-    <title>Technical reports : materials studies for magnetic fusion energy applications at low temperatures</title>
+    <title>Technical reports :materials studies for magnetic fusion energy applications at low temperatures</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1690"/>
+    <seriesInfo name="NIST" value="NBS IR 83-1690"/>
     <author surname="Reed"/>
     <author surname="Simon"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1983"/>
   </front>

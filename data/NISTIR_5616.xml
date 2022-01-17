@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5616" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5616.pdf">
   <front>
-    <title>Electronic access: blueprint for the National Archives and Records Administration</title>
+    <title>Electronic access:blueprint for the National Archives and Records Administration</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5616"/>
+    <seriesInfo name="NIST" value="NIST IR 5616"/>
     <author fullname="Judi Moline" initials="J." surname="Moline"/>
     <author fullname="Steve Otto" initials="S." surname="Otto"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

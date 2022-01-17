@@ -1,8 +1,11 @@
-<reference anchor="NISTIR.8341" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8341.pdf">
+<reference anchor="NIST.IR.8341" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8341.pdf">
   <front>
     <title>A Self-Audit of the NIST Public Data Repository Using the CoreTrustSeal Trustworthy Data Repositories Requirements</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8341"/>
-    <author fullname="Andrea Medina-Smith" initials="A." surname="Medina-Smith"/>
+    <seriesInfo name="NIST" value="NIST IR 8341"/>
+    <author fullname="Andrea Medina-Smith" initials="A." surname="Medina-Smith">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

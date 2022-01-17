@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.76-1065" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1065.pdf">
   <front>
-    <title>Truck Noise 1-D : empirical model for predicting in-service truck tire noise levels</title>
+    <title>Truck Noise 1-D :empirical model for predicting in-service truck tire noise levels</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1065"/>
+    <seriesInfo name="NIST" value="NBS IR 76-1065"/>
     <author surname="Kilmer"/>
     <author surname="Leasure"/>
     <author surname="Corley"/>
@@ -9,6 +10,13 @@
     <author surname="Shoemaker"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

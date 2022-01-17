@@ -2,12 +2,20 @@
   <front>
     <title>Paint solubility testing</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.480-40"/>
+    <seriesInfo name="NIST" value="NBS SP 480-40"/>
     <author fullname="John Thornton" initials="J." surname="Thornton"/>
     <author fullname="Shmuel Kraus" initials="S." surname="Kraus"/>
     <author fullname="Bruce Lerner" initials="B." surname="Lerner"/>
     <author fullname="Beth Hendrickson" initials="B." surname="Hendrickson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

@@ -2,6 +2,7 @@
   <front>
     <title>Laser induced damage in opticla materials 1986</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.752"/>
+    <seriesInfo name="NIST" value="NIST SP 752"/>
     <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
     <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
     <author fullname="Arthur Guenther" initials="A." surname="Guenther"/>
@@ -9,6 +10,13 @@
     <author fullname="Brian Newnam" initials="B." surname="Newnam"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

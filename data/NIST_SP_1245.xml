@@ -2,11 +2,25 @@
   <front>
     <title>Large Outdoor Fire Modeling (LOFM) workshop summary report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1245"/>
-    <author fullname="Randall McDermott" initials="R." surname="McDermott"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="Jon Heintz" initials="J." surname="Heintz"/>
+    <seriesInfo name="NIST" value="NIST SP 1245"/>
+    <author fullname="Randall McDermott" initials="R." surname="McDermott">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Nelson Bryner" initials="N." surname="Bryner">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Jon Heintz" initials="J." surname="Heintz">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="October"/>
   </front>

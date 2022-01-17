@@ -2,12 +2,20 @@
   <front>
     <title>Ceramic tribology</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.758"/>
+    <seriesInfo name="NIST" value="NIST SP 758"/>
     <author fullname="RichardStephen Gates" initials="R.S." surname="Gates"/>
     <author fullname="RichardStephen Gates" initials="R.S." surname="Gates"/>
     <author fullname="Stephen Hsu" initials="S." surname="Hsu"/>
     <author fullname="Erwin Klaus" initials="E." surname="Klaus"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

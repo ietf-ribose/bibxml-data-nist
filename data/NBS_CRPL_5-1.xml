@@ -2,10 +2,22 @@
   <front>
     <title>Interim report on the measurement of atmospheric noise level</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.5-1"/>
-    <author surname="Thomas"/>
-    <author surname="Cottony"/>
+    <seriesInfo name="NIST" value="NBS CRPL 5-1"/>
+    <author surname="Thomas">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Cottony">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1947"/>
   </front>

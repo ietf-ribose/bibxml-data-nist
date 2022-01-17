@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8375" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8375.pdf">
+<reference anchor="NIST.IR.8375" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8375.pdf">
   <front>
     <title>Mapping employee networks through the NIST Interactions Survey</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8375"/>
-    <author fullname="Laura Espinal" initials="L." surname="Espinal"/>
-    <author fullname="Camila Young" initials="C." surname="Young"/>
-    <author fullname="Justyna Zwolak" initials="J." surname="Zwolak"/>
+    <seriesInfo name="NIST" value="NIST IR 8375"/>
+    <author fullname="Laura Espinal" initials="L." surname="Espinal">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Camila Young" initials="C." surname="Young">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Justyna Zwolak" initials="J." surname="Zwolak">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

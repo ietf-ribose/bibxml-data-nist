@@ -2,10 +2,22 @@
   <front>
     <title>Specifications and tolerances for liquefied petroleum gas and anhydrous ammonia liquid volumetric provers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.105-4-2016"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris"/>
-    <author fullname="Val Miller" initials="V." surname="Miller"/>
+    <seriesInfo name="NIST" value="NIST HB 105-4-2016"/>
+    <author fullname="Georgia Harris" initials="G." surname="Harris">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Val Miller" initials="V." surname="Miller">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

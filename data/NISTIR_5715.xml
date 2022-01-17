@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.5715" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5715.pdf">
   <front>
-    <title>Optoelectronics and optomechanics manufacturing: an ATP focused program development workshop proceedings, February 15, 1995</title>
+    <title>Optoelectronics and optomechanics manufacturing:an ATP focused program development workshop proceedings, February 15, 1995</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5715"/>
+    <seriesInfo name="NIST" value="NIST IR 5715"/>
     <author fullname="Thomas Lettieri" initials="T." surname="Lettieri"/>
     <author fullname="Victor McCrary" initials="V." surname="McCrary"/>
     <author fullname="Jack Bourdreaux" initials="J." surname="Bourdreaux"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

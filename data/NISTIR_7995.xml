@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.7995" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7995.pdf">
   <front>
-    <title>Face Recognition Vendor Test (FRVT) : performance of automated age estimation algorithms</title>
+    <title>Face Recognition Vendor Test (FRVT) :performance of automated age estimation algorithms</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7995"/>
+    <seriesInfo name="NIST" value="NIST IR 7995"/>
     <author surname="Ngan"/>
     <author surname="Grother"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014"/>
   </front>

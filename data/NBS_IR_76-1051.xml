@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.76-1051" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1051.pdf">
   <front>
-    <title>A prototype automated test system for J52 engine fuel controls : Part 1. Hardware systems summary</title>
+    <title>A prototype automated test system for J52 engine fuel controls :Part 1. Hardware systems summary</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1051"/>
+    <seriesInfo name="NIST" value="NBS IR 76-1051"/>
     <author fullname="David Baker" initials="D." surname="Baker"/>
     <author fullname="Alfred Koenig" initials="A." surname="Koenig"/>
     <author fullname="Victor Brame" initials="V." surname="Brame"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

@@ -2,7 +2,10 @@
   <front>
     <title>2015 NCNR Annual Report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1202"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline"/>
+    <seriesInfo name="NIST" value="NIST SP 1202"/>
+    <author fullname="Steven Kline" initials="S." surname="Kline">
+      <organization>NIST Center for Neutron Research</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

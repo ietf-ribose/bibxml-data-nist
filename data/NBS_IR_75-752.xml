@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.75-752" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-752.pdf">
   <front>
-    <title>Automobile tire noise : results of a pilot study and review of the open literature</title>
+    <title>Automobile tire noise :results of a pilot study and review of the open literature</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-752"/>
+    <seriesInfo name="NIST" value="NBS IR 75-752"/>
     <author surname="Leasure"/>
     <author surname="Mathews"/>
     <author surname="Cadoff"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

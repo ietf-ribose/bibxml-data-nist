@@ -2,11 +2,19 @@
   <front>
     <title>Guide to securing WiMAX wireless communications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-127"/>
+    <seriesInfo name="NIST" value="NIST SP 800-127"/>
     <author surname="Scarfone"/>
     <author surname="Tibbs"/>
     <author surname="Sexton"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

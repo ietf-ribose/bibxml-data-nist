@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.444" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular444.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 444: Maintenance of elevator hoisting machines and brakes</title>
+    <title>Circular of the Bureau of Standards no. 444:Maintenance of elevator hoisting machines and brakes</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.444"/>
+    <seriesInfo name="NIST" value="NBS CIRC 444"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1943"/>
   </front>

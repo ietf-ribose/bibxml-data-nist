@@ -2,6 +2,7 @@
   <front>
     <title>Emerging network storage management standards for intelligent data storage subsystems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6179"/>
+    <seriesInfo name="NIST" value="NIST IR 6179"/>
     <author fullname="Fernando Podio" initials="F." surname="Podio"/>
     <author fullname="William Vollrath" initials="W." surname="Vollrath"/>
     <author fullname="Joel Williams" initials="J." surname="Williams"/>
@@ -9,6 +10,13 @@
     <author fullname="Don Crouse" initials="D." surname="Crouse"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

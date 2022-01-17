@@ -2,9 +2,19 @@
   <front>
     <title>On the cooling of a 360� video camera to observe fire dynamics in situ</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2080"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
+    <seriesInfo name="NIST" value="NIST TN 2080"/>
+    <author fullname="Jiann Yang" initials="J." surname="Yang">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.7185" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7185.pdf">
   <front>
-    <title>CPM 2: a revised core product model for representing design information</title>
+    <title>CPM 2:a revised core product model for representing design information</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7185"/>
+    <seriesInfo name="NIST" value="NIST IR 7185"/>
     <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
     <author fullname="Sebti Foufou" initials="S." surname="Foufou"/>
     <author fullname="Conrad Bock" initials="C." surname="Bock"/>
@@ -10,6 +11,13 @@
     <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

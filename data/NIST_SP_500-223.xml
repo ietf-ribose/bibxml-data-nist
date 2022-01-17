@@ -2,10 +2,18 @@
   <front>
     <title>A framework for the development and assurance of high integrity software</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-223"/>
+    <seriesInfo name="NIST" value="NIST SP 500-223"/>
     <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
     <author fullname="Laura Ippolito" initials="L." surname="Ippolito"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

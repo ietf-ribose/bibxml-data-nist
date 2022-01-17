@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6262" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6262.pdf">
   <front>
-    <title>Program handbook: accreditation requirements for quality system registrars under provisions of the Fastener Quality Act</title>
+    <title>Program handbook:accreditation requirements for quality system registrars under provisions of the Fastener Quality Act</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6262"/>
+    <seriesInfo name="NIST" value="NIST IR 6262"/>
     <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
     <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>A survey of OSI network management standards activities</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3593"/>
+    <seriesInfo name="NIST" value="NBS IR 87-3593"/>
     <author fullname="Michael Chernick" initials="M." surname="Chernick"/>
     <author fullname="Kevin Mills" initials="K." surname="Mills"/>
     <author fullname="Robert Aronoff" initials="R." surname="Aronoff"/>
     <author fullname="John Strauch" initials="J." surname="Strauch"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

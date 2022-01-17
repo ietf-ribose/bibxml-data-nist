@@ -2,10 +2,19 @@
   <front>
     <title>Trustworthy Email</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-177"/>
-    <author fullname="Scott Rose" initials="S." surname="Rose"/>
-    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale"/>
-    <author fullname="Simson Garfinkel" initials="S." surname="Garfinkel"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
+    <seriesInfo name="NIST" value="NIST SP 800-177"/>
+    <author fullname="Scott Rose" initials="S." surname="Rose">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Simson Garfinkel" initials="S." surname="Garfinkel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

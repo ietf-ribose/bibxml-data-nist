@@ -1,12 +1,20 @@
 <reference anchor="NBS.CIRC.498" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular498.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 498: bibliography of recent research in the field of high polymers</title>
+    <title>Circular of the Bureau of Standards no. 498:bibliography of recent research in the field of high polymers</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.498"/>
+    <seriesInfo name="NIST" value="NBS CIRC 498"/>
     <author fullname="Robert Simha" initials="R." surname="Simha"/>
     <author fullname="MaryBudge Gaughan" initials="M.B." surname="Gaughan"/>
     <author fullname="Helen Jeppson" initials="H." surname="Jeppson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1950"/>
   </front>

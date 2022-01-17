@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5095" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5095.pdf">
   <front>
-    <title>SQUIDs past, present, and future: a symposium in honor of James E. Zimmerman</title>
+    <title>SQUIDs past, present, and future:a symposium in honor of James E. Zimmerman</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5095"/>
+    <seriesInfo name="NIST" value="NIST IR 5095"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

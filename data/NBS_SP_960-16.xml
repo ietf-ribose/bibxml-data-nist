@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.960-16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-16.pdf">
   <front>
-    <title>NIST recommended practice guide : fractography of ceramics and glasses/</title>
+    <title>NIST recommended practice guide :fractography of ceramics and glasses/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-16"/>
+    <seriesInfo name="NIST" value="NBS SP 960-16"/>
     <author fullname="George Quinn" initials="G." surname="Quinn"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2007"/>
   </front>

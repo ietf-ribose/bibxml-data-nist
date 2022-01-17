@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8400" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8400.pdf">
+<reference anchor="NIST.IR.8400" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8400.pdf">
   <front>
     <title>Voices of First Responders—Nationwide Public Safety Communication Survey Findings: Day to Day Technology, Phase 2, Volume 3</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8400"/>
-    <author fullname="Shanée Dawkins" initials="S." surname="Dawkins"/>
-    <author fullname="Kerrianne Buchanan" initials="K." surname="Buchanan"/>
-    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman"/>
+    <seriesInfo name="NIST" value="NIST IR 8400"/>
+    <author fullname="Shanée Dawkins" initials="S." surname="Dawkins">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kerrianne Buchanan" initials="K." surname="Buchanan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

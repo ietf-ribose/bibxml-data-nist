@@ -2,6 +2,7 @@
   <front>
     <title>Status report on the first round of the SHA-3 cryptographic hash algorithm competition</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7620"/>
+    <seriesInfo name="NIST" value="NIST IR 7620"/>
     <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
     <author fullname="Ray Perlner" initials="R." surname="Perlner"/>
     <author fullname="Shu-jen Chang" initials="S." surname="Chang"/>
@@ -10,6 +11,13 @@
     <author fullname="Souradyuti Paul" initials="S." surname="Paul"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

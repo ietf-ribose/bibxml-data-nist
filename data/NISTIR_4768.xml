@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.4768" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4768.pdf">
   <front>
-    <title>Finite-rate diffusion-controlled reaction in a vortex: a report</title>
+    <title>Finite-rate diffusion-controlled reaction in a vortex:a report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4768"/>
+    <seriesInfo name="NIST" value="NIST IR 4768"/>
     <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
     <author fullname="Howard Baum" initials="H." surname="Baum"/>
     <author fullname="Hai Tang" initials="H." surname="Tang"/>
     <author fullname="Daniel Lozier" initials="D." surname="Lozier"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

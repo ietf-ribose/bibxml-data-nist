@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6123.pdf">
   <front>
-    <title>Production Management Standards: requirements analysis for shop floor status</title>
+    <title>Production Management Standards:requirements analysis for shop floor status</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6123"/>
+    <seriesInfo name="NIST" value="NIST IR 6123"/>
     <author fullname="Christophe LeCapitaine" initials="C." surname="LeCapitaine"/>
     <author fullname="Frank Riddick" initials="F." surname="Riddick"/>
     <author fullname="Albert Jones" initials="A." surname="Jones"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

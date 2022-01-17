@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.6144" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6144.pdf">
   <front>
-    <title>Properties of dental gold alloy casting investments: progress report</title>
+    <title>Properties of dental gold alloy casting investments:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6144"/>
+    <seriesInfo name="NIST" value="NBS RPT 6144"/>
     <author fullname="Joseph Barone" initials="J." surname="Barone"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1958"/>
   </front>

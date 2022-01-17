@@ -2,16 +2,40 @@
   <front>
     <title>NIST channel sounder overview and channel measurements in manufacturing facilities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1979"/>
-    <author fullname="Jeanne Quimby" initials="J." surname="Quimby"/>
-    <author fullname="Richard Candell" initials="R." surname="Candell"/>
-    <author fullname="Kate Remley" initials="K." surname="Remley"/>
-    <author fullname="David Novotny" initials="D." surname="Novotny"/>
-    <author fullname="Joseph Diener" initials="J." surname="Diener"/>
-    <author fullname="Peter Papazian" initials="P." surname="Papazian"/>
-    <author fullname="Alexandra Curtin" initials="A." surname="Curtin"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
+    <seriesInfo name="NIST" value="NIST TN 1979"/>
+    <author fullname="Jeanne Quimby" initials="J." surname="Quimby">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Richard Candell" initials="R." surname="Candell">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Kate Remley" initials="K." surname="Remley">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="David Novotny" initials="D." surname="Novotny">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Joseph Diener" initials="J." surname="Diener">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Peter Papazian" initials="P." surname="Papazian">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Alexandra Curtin" initials="A." surname="Curtin">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Galen Koepke" initials="G." surname="Koepke">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="November" day="8"/>
   </front>

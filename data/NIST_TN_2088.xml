@@ -2,13 +2,31 @@
   <front>
     <title>Measurement science research needs for premise plumbing systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2088"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="David Yashar" initials="D." surname="Yashar"/>
-    <author fullname="Natascha Milesi Ferretti" initials="N." surname="Milesi Ferretti"/>
-    <author fullname="Tania Ullah" initials="T." surname="Ullah"/>
-    <author fullname="William Healy" initials="W." surname="Healy"/>
+    <seriesInfo name="NIST" value="NIST TN 2088"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="David Yashar" initials="D." surname="Yashar">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Natascha Milesi Ferretti" initials="N." surname="Milesi Ferretti">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Tania Ullah" initials="T." surname="Ullah">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="William Healy" initials="W." surname="Healy">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May"/>
   </front>

@@ -1,15 +1,35 @@
-<reference anchor="NIST.SP.800-90b" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90B.pdf">
+<reference anchor="NIST.SP.800-90B" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90B.pdf">
   <front>
     <title>Recommendation for the entropy sources used for random bit generation</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-90B"/>
-    <author fullname="MeltemSönmez Turan" initials="M.S." surname="Turan"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker"/>
-    <author fullname="John Kelsey" initials="J." surname="Kelsey"/>
-    <author fullname="Kerry McKay" initials="K." surname="McKay"/>
-    <author fullname="Mary Baish" initials="M." surname="Baish"/>
-    <author fullname="Mike Boyle" initials="M." surname="Boyle"/>
+    <seriesInfo name="NIST" value="NIST SP 800-90B"/>
+    <author fullname="MeltemSönmez Turan" initials="M.S." surname="Turan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Elaine Barker" initials="E." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Kelsey" initials="J." surname="Kelsey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kerry McKay" initials="K." surname="McKay">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary Baish" initials="M." surname="Baish">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mike Boyle" initials="M." surname="Boyle">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January"/>
   </front>

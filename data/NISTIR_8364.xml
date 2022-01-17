@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8364" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8364.pdf">
+<reference anchor="NIST.IR.8364" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8364.pdf">
   <front>
     <title>Materials Data: A Landscape Analysis and Potential Roadmap for the NIST Material Measurement Laboratory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8364"/>
-    <author fullname="Debra Kaiser" initials="D." surname="Kaiser"/>
-    <author fullname="Robert Hanisch" initials="R." surname="Hanisch"/>
-    <author fullname="James Warren" initials="J." surname="Warren"/>
-    <author fullname="Zachary Trautt" initials="Z." surname="Trautt"/>
+    <seriesInfo name="NIST" value="NIST IR 8364"/>
+    <author fullname="Debra Kaiser" initials="D." surname="Kaiser">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Robert Hanisch" initials="R." surname="Hanisch">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="James Warren" initials="J." surname="Warren">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Zachary Trautt" initials="Z." surname="Trautt">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

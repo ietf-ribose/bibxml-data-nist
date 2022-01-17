@@ -2,11 +2,19 @@
   <front>
     <title>Thermodynamic properties of argon from the triple point to 300 K at pressures to 1000 atmospheres</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.27"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 27"/>
     <author surname="Gosman"/>
     <author surname="McCarty"/>
     <author surname="Hust"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.NSRDS.68" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds68.pdf">
   <front>
-    <title>Wavelengths and transition probabilities for atoms and atomic ions : part I. wavelengths</title>
+    <title>Wavelengths and transition probabilities for atoms and atomic ions :part I. wavelengths</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.68"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 68"/>
     <author fullname="Joseph Reader" initials="J." surname="Reader"/>
     <author fullname="Charles Corliss" initials="C." surname="Corliss"/>
     <author surname="Wiese"/>
     <author surname="Martin"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

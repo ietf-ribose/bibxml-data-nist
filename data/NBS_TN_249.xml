@@ -2,9 +2,17 @@
   <front>
     <title>A program for plotting circles of constant overpressure around targeted points</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.249"/>
+    <seriesInfo name="NIST" value="NBS TN 249"/>
     <author fullname="MaiLiis Joel" initials="M.L." surname="Joel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

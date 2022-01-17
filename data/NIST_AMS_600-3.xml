@@ -2,9 +2,19 @@
   <front>
     <title>Manufacturing USA 2017 annual report: program report and summary of institute activities</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-3"/>
-    <author fullname="Michael Molnar" initials="M." surname="Molnar"/>
+    <seriesInfo name="NIST" value="NIST AMS 600-3"/>
+    <author fullname="Michael Molnar" initials="M." surname="Molnar">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August"/>
   </front>

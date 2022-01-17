@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-16.pdf">
   <front>
-    <title>Standard Reference Materials : Homogeneity characterization of NBS spectrometric standards IV /</title>
+    <title>Standard Reference Materials :Homogeneity characterization of NBS spectrometric standards IV /</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-16"/>
+    <seriesInfo name="NIST" value="NBS SP 260-16"/>
     <author surname="Michaelis"/>
     <author surname="Yakowitz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

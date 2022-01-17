@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.7697" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7697.pdf">
   <front>
-    <title>Common platform enumeration : dictionary specification version 2.3</title>
+    <title>Common platform enumeration :dictionary specification version 2.3</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7697"/>
+    <seriesInfo name="NIST" value="NIST IR 7697"/>
     <author fullname="Paul Cichonski" initials="P." surname="Cichonski"/>
     <author fullname="David Waltermire" initials="D." surname="Waltermire"/>
     <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.41e3" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular41e3.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 41 (3rd edition): testing of textile materials</title>
+    <title>Circular of the Bureau of Standards no. 41 (3rd edition):testing of textile materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.41e3"/>
+    <seriesInfo name="NIST" value="NBS CIRC 41e3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1918"/>
   </front>

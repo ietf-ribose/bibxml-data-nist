@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.420" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular420.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 420: propane, butane, and related fuels</title>
+    <title>Circular of the Bureau of Standards no. 420:propane, butane, and related fuels</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.420"/>
+    <seriesInfo name="NIST" value="NBS CIRC 420"/>
     <author surname="Weaver"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1938"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Review of smart grid standards for testing and certification landscape analysis</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2042"/>
-    <author fullname="Eugene Song" initials="E." surname="Song"/>
-    <author fullname="Cuong Nguyen" initials="C." surname="Nguyen"/>
-    <author fullname="Avi Gopstein" initials="A." surname="Gopstein"/>
+    <seriesInfo name="NIST" value="NIST TN 2042"/>
+    <author fullname="Eugene Song" initials="E." surname="Song">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Cuong Nguyen" initials="C." surname="Nguyen">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Avi Gopstein" initials="A." surname="Gopstein">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April"/>
   </front>

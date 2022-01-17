@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.80-2170" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2170.pdf">
   <front>
-    <title>Fire protection systems for rail transportation of Class A explosives : interim report</title>
+    <title>Fire protection systems for rail transportation of Class A explosives :interim report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2170"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2170"/>
     <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

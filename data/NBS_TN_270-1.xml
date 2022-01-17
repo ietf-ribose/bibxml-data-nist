@@ -2,10 +2,18 @@
   <front>
     <title>Selected values of chemical thermodynamic properties. Part 1. Tables for the first 23 elements in the standard order of arrangement</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.270-1"/>
+    <seriesInfo name="NIST" value="NBS TN 270-1"/>
     <author fullname="Frederick Rossini" initials="F." surname="Rossini"/>
     <author fullname="Donald Wagman" initials="D." surname="Wagman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

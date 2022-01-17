@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.75-664" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-664.pdf">
   <front>
-    <title>Strength degradation of brittle surfaces : blunt indenters</title>
+    <title>Strength degradation of brittle surfaces :blunt indenters</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-664"/>
+    <seriesInfo name="NIST" value="NBS IR 75-664"/>
     <author surname="Lawn"/>
     <author surname="Wiederhorn"/>
     <author surname="Johnson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

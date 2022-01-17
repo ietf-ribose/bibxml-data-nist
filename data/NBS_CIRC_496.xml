@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.496" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular496.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 496: standard time throughout the world</title>
+    <title>Circular of the Bureau of Standards no. 496:standard time throughout the world</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.496"/>
+    <seriesInfo name="NIST" value="NBS CIRC 496"/>
     <author surname="Gould"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1950"/>
   </front>

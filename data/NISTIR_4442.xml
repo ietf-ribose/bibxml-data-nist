@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.4442" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4442.pdf">
   <front>
-    <title>User's guide to CMMAP: Cement Microstructure Modelling and Analysis Package</title>
+    <title>User's guide to CMMAP:Cement Microstructure Modelling and Analysis Package</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4442"/>
+    <seriesInfo name="NIST" value="NIST IR 4442"/>
     <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
     <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1990"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5520v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5520v1.pdf">
   <front>
-    <title>Metrology and data for microelectronic packaging and interconnection: results of a joint workshop on materials metrology and data for commercial electrical and optical packaging and interconnection technologies, May 5-6, 1994, Gaithersburg, MD</title>
+    <title>Metrology and data for microelectronic packaging and interconnection:results of a joint workshop on materials metrology and data for commercial electrical and optical packaging and interconnection technologies, May 5-6, 1994, Gaithersburg, MD</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5520v1"/>
+    <seriesInfo name="NIST" value="NIST IR 5520v1"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

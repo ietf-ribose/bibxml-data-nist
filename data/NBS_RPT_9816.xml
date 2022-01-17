@@ -2,12 +2,20 @@
   <front>
     <title>A strain standard for use to 3000 �F (1650 �C)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9816"/>
+    <seriesInfo name="NIST" value="NBS RPT 9816"/>
     <author surname="Bloss"/>
     <author surname="Trumbo"/>
     <author surname="Melton"/>
     <author surname="Steel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968" month="June"/>
   </front>

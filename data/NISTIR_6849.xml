@@ -2,6 +2,7 @@
   <front>
     <title>Description and results of the 2000 NISTNOAA interlaboratory comparison exercise program for organic contaminants and trace elements in marine mammal tissue</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6849"/>
+    <seriesInfo name="NIST" value="NIST IR 6849"/>
     <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
     <author fullname="Steven Christopher" initials="S." surname="Christopher"/>
     <author fullname="Paul Becker" initials="P." surname="Becker"/>
@@ -13,6 +14,13 @@
     <author fullname="Teresa Rowels" initials="T." surname="Rowels"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -2,10 +2,18 @@
   <front>
     <title>Computer viruses and related threats</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-166"/>
+    <seriesInfo name="NIST" value="NIST SP 500-166"/>
     <author fullname="John Wack" initials="J." surname="Wack"/>
     <author fullname="Lisa Carnahan" initials="L." surname="Carnahan"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

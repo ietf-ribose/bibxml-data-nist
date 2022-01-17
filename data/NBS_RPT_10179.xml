@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.10179" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10179.pdf">
   <front>
-    <title>Outdoor performance of plastics: V. surface roughness</title>
+    <title>Outdoor performance of plastics:V. surface roughness</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10179"/>
+    <seriesInfo name="NIST" value="NBS RPT 10179"/>
     <author fullname="Joseph Clark" initials="J." surname="Clark"/>
     <author fullname="Henry Gunst" initials="H." surname="Gunst"/>
     <author fullname="John Dagon" initials="J." surname="Dagon"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

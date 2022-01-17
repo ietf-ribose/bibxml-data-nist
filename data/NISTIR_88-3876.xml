@@ -2,10 +2,18 @@
   <front>
     <title>An investigation of a user-operated mass calibration package</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3876"/>
+    <seriesInfo name="NIST" value="NIST IR 88-3876"/>
     <author fullname="Randall Schoonover" initials="R." surname="Schoonover"/>
     <author fullname="James Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

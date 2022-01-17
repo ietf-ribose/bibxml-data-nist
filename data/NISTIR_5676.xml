@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.5676" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5676.pdf">
   <front>
-    <title>Submarine automation: demonstration #5</title>
+    <title>Submarine automation:demonstration #5</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5676"/>
+    <seriesInfo name="NIST" value="NIST IR 5676"/>
     <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
     <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
     <author fullname="Keith Young" initials="K." surname="Young"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

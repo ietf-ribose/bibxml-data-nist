@@ -2,11 +2,19 @@
   <front>
     <title>Considerations in the selection of security measures for automatic data processing systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.500-33"/>
+    <seriesInfo name="NIST" value="NBS SP 500-33"/>
     <author fullname="Michel Orceyre" initials="M." surname="Orceyre"/>
     <author fullname="Robert Courtney" initials="R." surname="Courtney"/>
     <author fullname="Gloria Bolotsky" initials="G." surname="Bolotsky"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1978"/>
   </front>

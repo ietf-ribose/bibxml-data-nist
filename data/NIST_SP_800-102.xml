@@ -2,9 +2,19 @@
   <front>
     <title>Recommendation for digital signature timeliness</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-102"/>
-    <author surname="Barker"/>
+    <seriesInfo name="NIST" value="NIST SP 800-102"/>
+    <author surname="Barker">
+      <organization>Computer Security Division.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

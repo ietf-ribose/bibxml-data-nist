@@ -1,18 +1,41 @@
-<reference anchor="NISTIR.8382" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8382.pdf">
+<reference anchor="NIST.IR.8382" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8382.pdf">
   <front>
     <title>NFIQ 2 NIST Fingerprint Image Quality</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8382"/>
-    <author fullname="Elham Tabassi" initials="E." surname="Tabassi"/>
-    <author fullname="Martin Olsen" initials="M." surname="Olsen"/>
-    <author fullname="Oliver Bausinger" initials="O." surname="Bausinger"/>
-    <author fullname="Christoph Busch" initials="C." surname="Busch"/>
-    <author fullname="Andrew Figlarz" initials="A." surname="Figlarz"/>
-    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara"/>
-    <author fullname="Olaf Henniger" initials="O." surname="Henniger"/>
-    <author fullname="Johannes Merkle" initials="J." surname="Merkle"/>
-    <author fullname="Timo Ruhland" initials="T." surname="Ruhland"/>
-    <author fullname="Christopher Schiel" initials="C." surname="Schiel"/>
-    <author fullname="Michael Schwaiger" initials="M." surname="Schwaiger"/>
+    <seriesInfo name="NIST" value="NIST IR 8382"/>
+    <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Martin Olsen" initials="M." surname="Olsen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Oliver Bausinger" initials="O." surname="Bausinger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christoph Busch" initials="C." surname="Busch">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Andrew Figlarz" initials="A." surname="Figlarz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Olaf Henniger" initials="O." surname="Henniger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Johannes Merkle" initials="J." surname="Merkle">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Timo Ruhland" initials="T." surname="Ruhland">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christopher Schiel" initials="C." surname="Schiel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Schwaiger" initials="M." surname="Schwaiger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,7 +2,10 @@
   <front>
     <title>Stable Explicit Time Marching in Well-Posed or Ill-Posed Nonlinear Parabolic Equations</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8027"/>
-    <author fullname="Alfred Carasso" initials="A." surname="Carasso"/>
+    <seriesInfo name="NIST" value="NIST IR 8027"/>
+    <author fullname="Alfred Carasso" initials="A." surname="Carasso">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

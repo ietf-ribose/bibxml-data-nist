@@ -2,10 +2,22 @@
   <front>
     <title>Analysis of a slug calorimeter with a Curie point</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2090"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
+    <seriesInfo name="NIST" value="NIST TN 2090"/>
+    <author fullname="Jiann Yang" initials="J." surname="Yang">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April"/>
   </front>

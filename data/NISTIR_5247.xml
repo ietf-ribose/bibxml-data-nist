@@ -1,9 +1,17 @@
 <reference anchor="NIST.IR.5247" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5247.pdf">
   <front>
-    <title>Workshop on Security Procedures for the Interchange of Electronic Documents: selected papers and results</title>
+    <title>Workshop on Security Procedures for the Interchange of Electronic Documents:selected papers and results</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5247"/>
+    <seriesInfo name="NIST" value="NIST IR 5247"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

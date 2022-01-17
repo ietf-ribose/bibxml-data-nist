@@ -2,6 +2,7 @@
   <front>
     <title>Experimental thermal conductivity values for the IUPAC round-robin sample of 1,1,1,2-tetrafluoroethane (R134a)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6605"/>
+    <seriesInfo name="NIST" value="NIST IR 6605"/>
     <author surname="Perkins"/>
     <author surname="Laesecke"/>
     <author surname="Howley"/>
@@ -10,6 +11,13 @@
     <author surname="Cusco"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

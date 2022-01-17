@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.81-2262" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2262.pdf">
   <front>
-    <title>Tagged photons : an analysis ofthe bremsstranlung differential cross section inthe range of interest fora tagged photon system</title>
+    <title>Tagged photons :an analysis ofthe bremsstranlung differential cross section inthe range of interest fora tagged photon system</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2262"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2262"/>
     <author fullname="Leonard Maximon" initials="L." surname="Maximon"/>
     <author fullname="Arlette de Miniac" initials="A." surname="de Miniac"/>
     <author fullname="Thierry Aniel" initials="T." surname="Aniel"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.MONO.149" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph149.pdf">
   <front>
-    <title>Measurement assurance program- a case study : lengths measurements. Part 1. long gage blocks (5 in to 20 in)</title>
+    <title>Measurement assurance program- a case study :lengths measurements. Part 1. long gage blocks (5 in to 20 in)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.149"/>
+    <seriesInfo name="NIST" value="NBS MONO 149"/>
     <author fullname="Paul Pontius" initials="P." surname="Pontius"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

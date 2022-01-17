@@ -2,9 +2,17 @@
   <front>
     <title>A precision programmable step generator for use in automated test systems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1230"/>
+    <seriesInfo name="NIST" value="NBS TN 1230"/>
     <author fullname="Howard Schoenwetter" initials="H." surname="Schoenwetter"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

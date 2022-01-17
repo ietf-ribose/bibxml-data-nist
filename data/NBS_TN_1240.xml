@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.1240" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1240.pdf">
   <front>
-    <title>NBS reactor : summary of activities July 1986 through June 1987</title>
+    <title>NBS reactor :summary of activities July 1986 through June 1987</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1240"/>
+    <seriesInfo name="NIST" value="NBS TN 1240"/>
     <author fullname="Frederick Shorten" initials="F." surname="Shorten"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987"/>
   </front>

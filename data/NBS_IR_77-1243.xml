@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.77-1243" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1243.pdf">
   <front>
-    <title>Performance analysis of the Jersey City total energy site : interim report</title>
+    <title>Performance analysis of the Jersey City total energy site :interim report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1243"/>
+    <seriesInfo name="NIST" value="NBS IR 77-1243"/>
     <author fullname="John Hebrank" initials="J." surname="Hebrank"/>
     <author fullname="Charles Hurley" initials="C." surname="Hurley"/>
     <author fullname="John Ryan" initials="J." surname="Ryan"/>
@@ -9,6 +10,13 @@
     <author fullname="William Rippey" initials="W." surname="Rippey"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

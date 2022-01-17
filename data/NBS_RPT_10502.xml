@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.10502" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10502.pdf">
   <front>
-    <title>Progress report of research activity truck tire noise investigation: September 1, 1970</title>
+    <title>Progress report of research activity truck tire noise investigation:September 1, 1970</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.10502"/>
+    <seriesInfo name="NIST" value="NBS RPT 10502"/>
     <author fullname="WilliamA,Jr Leasure" initials="W.A.J." surname="Leasure"/>
     <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1970"/>
   </front>

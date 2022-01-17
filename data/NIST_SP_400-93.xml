@@ -2,10 +2,18 @@
   <front>
     <title>Design and testing guides for the CMOS and lateral bipolar-on-SOI test library</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.400-93"/>
+    <seriesInfo name="NIST" value="NIST SP 400-93"/>
     <author fullname="Janet Marshall" initials="J." surname="Marshall"/>
     <author fullname="Mona Zaghloul" initials="M." surname="Zaghloul"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

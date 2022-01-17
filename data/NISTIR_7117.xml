@@ -2,6 +2,7 @@
   <front>
     <title>Performance analysis of next-generation LADAR for manufacturing, construction, and mobility</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7117"/>
+    <seriesInfo name="NIST" value="NIST IR 7117"/>
     <author fullname="William Stone" initials="W." surname="Stone"/>
     <author fullname="Maris Juberts" initials="M." surname="Juberts"/>
     <author fullname="Nick Dagalakis" initials="N." surname="Dagalakis"/>
@@ -9,6 +10,13 @@
     <author fullname="Jason Gorman" initials="J." surname="Gorman"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

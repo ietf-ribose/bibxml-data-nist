@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.5878" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5878.pdf">
   <front>
-    <title>Fire safety engineering in the pursuit of performance-based codes: collected papers</title>
+    <title>Fire safety engineering in the pursuit of performance-based codes:collected papers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5878"/>
+    <seriesInfo name="NIST" value="NIST IR 5878"/>
     <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

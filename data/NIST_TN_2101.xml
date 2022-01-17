@@ -2,10 +2,22 @@
   <front>
     <title>A side-by-side energy use comparison of a variable-speed small duct high velocity and two-stage conventional ducted heat pump in a net-zero energy home</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2101"/>
-    <author fullname="Vance Payne" initials="V." surname="Payne"/>
-    <author fullname="Brian Dougherty" initials="B." surname="Dougherty"/>
+    <seriesInfo name="NIST" value="NIST TN 2101"/>
+    <author fullname="Vance Payne" initials="V." surname="Payne">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Brian Dougherty" initials="B." surname="Dougherty">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

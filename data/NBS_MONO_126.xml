@@ -2,11 +2,19 @@
   <front>
     <title>Platinum resistance thermometry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.MONO.126"/>
+    <seriesInfo name="NIST" value="NBS MONO 126"/>
     <author fullname="John Riddle" initials="J." surname="Riddle"/>
     <author fullname="George Furukawa" initials="G." surname="Furukawa"/>
     <author fullname="Harmon Plumb" initials="H." surname="Plumb"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

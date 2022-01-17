@@ -1,10 +1,18 @@
 <reference anchor="NBS.RPT.7413" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7413.pdf">
   <front>
-    <title>An improved zinc oxide-eugenol o-ethoxybenzoic acid cement: progress report</title>
+    <title>An improved zinc oxide-eugenol o-ethoxybenzoic acid cement:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.7413"/>
+    <seriesInfo name="NIST" value="NBS RPT 7413"/>
     <author fullname="Gerhard Brauer" initials="G." surname="Brauer"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1961"/>
   </front>

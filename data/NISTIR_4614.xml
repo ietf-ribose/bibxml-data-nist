@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4614" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4614.pdf">
   <front>
-    <title>Standard security label for GOSIP: an invitational workshop</title>
+    <title>Standard security label for GOSIP:an invitational workshop</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4614"/>
+    <seriesInfo name="NIST" value="NIST IR 4614"/>
     <author fullname="Noel Nazario" initials="N." surname="Nazario"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

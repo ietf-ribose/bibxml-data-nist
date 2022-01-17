@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4488" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4488.pdf">
   <front>
-    <title>Proceedings of the Object-Oriented Database Task Group workshop: Tuesday, October 23, 1990 Chateau Laurier Hotel, Ottawa, Canada</title>
+    <title>Proceedings of the Object-Oriented Database Task Group workshop:Tuesday, October 23, 1990 Chateau Laurier Hotel, Ottawa, Canada</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4488"/>
+    <seriesInfo name="NIST" value="NIST IR 4488"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

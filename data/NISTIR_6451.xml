@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.6451" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6451.pdf">
   <front>
-    <title>NIST Standard Reference Materials program: FY 2000 SRM project plans</title>
+    <title>NIST Standard Reference Materials program:FY 2000 SRM project plans</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6451"/>
+    <seriesInfo name="NIST" value="NIST IR 6451"/>
     <author surname="Gettings"/>
     <author surname="Trahey"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

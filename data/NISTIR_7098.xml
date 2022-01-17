@@ -2,6 +2,7 @@
   <front>
     <title>Feature-based inspection and control system</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7098"/>
+    <seriesInfo name="NIST" value="NIST IR 7098"/>
     <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
     <author fullname="John Horst" initials="J." surname="Horst"/>
     <author fullname="Hui Huang" initials="H." surname="Huang"/>
@@ -10,6 +11,13 @@
     <author fullname="Harry Scott" initials="H." surname="Scott"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

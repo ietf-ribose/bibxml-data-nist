@@ -2,12 +2,20 @@
   <front>
     <title>Required properties of high-performance steels</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6004"/>
+    <seriesInfo name="NIST" value="NIST IR 6004"/>
     <author fullname="Theodore Galambos" initials="T." surname="Galambos"/>
     <author fullname="Jerome Hajjar" initials="J." surname="Hajjar"/>
     <author fullname="Christpher Earls" initials="C." surname="Earls"/>
     <author fullname="John Gross" initials="J." surname="Gross"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

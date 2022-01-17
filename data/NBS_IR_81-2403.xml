@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.81-2403" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2403.pdf">
   <front>
-    <title>Gallium arsenide materials characterization : annual report, October 12, 1978 to October 12, 1979</title>
+    <title>Gallium arsenide materials characterization :annual report, October 12, 1978 to October 12, 1979</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2403"/>
+    <seriesInfo name="NIST" value="NBS IR 81-2403"/>
     <author surname="Ehrstein"/>
     <author surname="Seabaugh"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1981"/>
   </front>

@@ -2,14 +2,34 @@
   <front>
     <title>Rheological measurement of suspensions without slippage: experimental and model</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1946"/>
-    <author fullname="Alex Olivas" initials="A." surname="Olivas"/>
-    <author fullname="Michelle Helsel" initials="M." surname="Helsel"/>
-    <author fullname="Nicos Martys" initials="N." surname="Martys"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="William George" initials="W." surname="George"/>
-    <author fullname="Raissa Ferron" initials="R." surname="Ferron"/>
+    <seriesInfo name="NIST" value="NIST TN 1946"/>
+    <author fullname="Alex Olivas" initials="A." surname="Olivas">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Michelle Helsel" initials="M." surname="Helsel">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Nicos Martys" initials="N." surname="Martys">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="William George" initials="W." surname="George">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Raissa Ferron" initials="R." surname="Ferron">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December"/>
   </front>

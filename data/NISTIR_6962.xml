@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6962" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6962.pdf">
   <front>
-    <title>The virtual cement and concrete testing laboratory consortium: annual report 2002</title>
+    <title>The virtual cement and concrete testing laboratory consortium:annual report 2002</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6962"/>
+    <seriesInfo name="NIST" value="NIST IR 6962"/>
     <author fullname="Jeffrey Bullard" initials="J." surname="Bullard"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2003"/>
   </front>

@@ -2,12 +2,20 @@
   <front>
     <title>Z39.50 implementation experiences</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-229"/>
+    <seriesInfo name="NIST" value="NIST SP 500-229"/>
     <author fullname="Paul Over" initials="P." surname="Over"/>
     <author fullname="William Moen" initials="W." surname="Moen"/>
     <author fullname="Ray Denenberg" initials="R." surname="Denenberg"/>
     <author fullname="Lennie Stovel" initials="L." surname="Stovel"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

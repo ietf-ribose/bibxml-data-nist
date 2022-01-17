@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.393" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication393.pdf">
   <front>
-    <title>Colorimetry and spectrophotometry : a bibliography of NBS publications January 1906 through January 1973</title>
+    <title>Colorimetry and spectrophotometry :a bibliography of NBS publications January 1906 through January 1973</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.393"/>
+    <seriesInfo name="NIST" value="NBS SP 393"/>
     <author fullname="Kenneth Kelly" initials="K." surname="Kelly"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1974"/>
   </front>

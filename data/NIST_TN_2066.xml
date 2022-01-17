@@ -2,10 +2,22 @@
   <front>
     <title>OpenFMB proof of concept implementation research</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2066"/>
-    <author fullname="Michael Bartock" initials="M." surname="Bartock"/>
-    <author fullname="Rebecca Herold" initials="R." surname="Herold"/>
+    <seriesInfo name="NIST" value="NIST TN 2066"/>
+    <author fullname="Michael Bartock" initials="M." surname="Bartock">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rebecca Herold" initials="R." surname="Herold">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

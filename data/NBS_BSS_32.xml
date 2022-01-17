@@ -1,10 +1,18 @@
 <reference anchor="NBS.BSS.32" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience32.pdf">
   <front>
-    <title>Precoordination : basis for industrialized building</title>
+    <title>Precoordination :basis for industrialized building</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.32"/>
+    <seriesInfo name="NIST" value="NBS BSS 32"/>
     <author fullname="RussellW,Jr Smith" initials="R.W.J." surname="Smith"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NBS.CIRC.564" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular564.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 564: tables of thermal properties of gases comprising tables of thermodynamic and transport properties of air, argon, carbon dioxide, carbon monoxide hydrogen, nitrogen, oxygen, and steam</title>
+    <title>Circular of the Bureau of Standards no. 564:tables of thermal properties of gases comprising tables of thermodynamic and transport properties of air, argon, carbon dioxide, carbon monoxide hydrogen, nitrogen, oxygen, and steam</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.564"/>
+    <seriesInfo name="NIST" value="NBS CIRC 564"/>
     <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath"/>
     <author fullname="William Benedict" initials="W." surname="Benedict"/>
     <author fullname="Lilla Fano" initials="L." surname="Fano"/>
@@ -12,6 +13,13 @@
     <author fullname="Harold Woolley" initials="H." surname="Woolley"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1955"/>
   </front>

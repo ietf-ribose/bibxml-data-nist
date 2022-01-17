@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.80-2108" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2108.pdf">
   <front>
-    <title>Technical activities 1980 : Center for Materials Science</title>
+    <title>Technical activities 1980 :Center for Materials Science</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2108"/>
+    <seriesInfo name="NIST" value="NBS IR 80-2108"/>
     <author fullname="John Wachtman" initials="J." surname="Wachtman"/>
     <author fullname="Darrell Reneker" initials="D." surname="Reneker"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1980"/>
   </front>

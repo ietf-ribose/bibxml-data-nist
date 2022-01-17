@@ -2,12 +2,28 @@
   <front>
     <title>Impact of ground motion selection methods on the seismic assessment of steel special moment frames</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1992"/>
-    <author fullname="Raul Uribe" initials="R." surname="Uribe"/>
-    <author fullname="Siamak Sattar" initials="S." surname="Sattar"/>
-    <author fullname="Matthew Speicher" initials="M." surname="Speicher"/>
-    <author fullname="Luis Ibarra" initials="L." surname="Ibarra"/>
+    <seriesInfo name="NIST" value="NIST TN 1992"/>
+    <author fullname="Raul Uribe" initials="R." surname="Uribe">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Siamak Sattar" initials="S." surname="Sattar">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Matthew Speicher" initials="M." surname="Speicher">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Luis Ibarra" initials="L." surname="Ibarra">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

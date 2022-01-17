@@ -2,10 +2,18 @@
   <front>
     <title>The Gage block handbook</title>
     <seriesInfo name="DOI" value="10.6028/NIST.MONO.180"/>
+    <seriesInfo name="NIST" value="NIST MONO 180"/>
     <author fullname="Ted Doiron" initials="T." surname="Doiron"/>
     <author fullname="John Beers" initials="J." surname="Beers"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

@@ -1,9 +1,17 @@
 <reference anchor="NBS.IR.79-1918" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1918.pdf">
   <front>
-    <title>NBSEPA Energy Environment Project : semi-annual report to Environmental Protection Agency, Office of Energy, Minerals, and Industry</title>
+    <title>NBSEPA Energy Environment Project :semi-annual report to Environmental Protection Agency, Office of Energy, Minerals, and Industry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1918"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1918"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.882" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote882.pdf">
   <front>
-    <title>Criteria for the performance evaluation of data communications services for computer networks : prepared December 1974</title>
+    <title>Criteria for the performance evaluation of data communications services for computer networks :prepared December 1974</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.882"/>
+    <seriesInfo name="NIST" value="NBS TN 882"/>
     <author fullname="Dana Grubb" initials="D." surname="Grubb"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

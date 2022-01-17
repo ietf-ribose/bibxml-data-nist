@@ -2,12 +2,28 @@
   <front>
     <title>Dramatically reducing software vulnerabilities: Report to the White House Office of Science and Technology Policy</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8151"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Lee Badger" initials="L." surname="Badger"/>
-    <author fullname="Barbara Guttman" initials="B." surname="Guttman"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <seriesInfo name="NIST" value="NIST IR 8151"/>
+    <author fullname="Paul Black" initials="P." surname="Black">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lee Badger" initials="L." surname="Badger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Barbara Guttman" initials="B." surname="Guttman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November"/>
   </front>

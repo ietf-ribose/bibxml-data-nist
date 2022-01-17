@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.85-3106" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3106.pdf">
   <front>
-    <title>Center for electronics and electrical engineering : techni cal publication announcements covering center programs, July- September 1984 with 1985 CEEE events calendar</title>
+    <title>Center for electronics and electrical engineering :techni cal publication announcements covering center programs, July- September 1984 with 1985 CEEE events calendar</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3106"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3106"/>
     <author fullname="Franklin Mayo-Wells" initials="F." surname="Mayo-Wells"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

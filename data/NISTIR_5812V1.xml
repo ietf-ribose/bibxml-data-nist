@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.5812v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5812v1.pdf">
   <front>
-    <title>Plant spatial configuration application protocol version 1.0: volume 1</title>
+    <title>Plant spatial configuration application protocol version 1.0:volume 1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5812v1"/>
+    <seriesInfo name="NIST" value="NIST IR 5812v1"/>
     <author fullname="Steven Kline" initials="S." surname="Kline"/>
     <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
     <author fullname="William Burkett" initials="W." surname="Burkett"/>
@@ -9,6 +10,13 @@
     <author fullname="Jack Skeels" initials="J." surname="Skeels"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1995"/>
   </front>

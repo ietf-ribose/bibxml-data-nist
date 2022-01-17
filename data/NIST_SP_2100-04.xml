@@ -1,19 +1,47 @@
 <reference anchor="NIST.SP.2100-04" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2100-04.pdf">
   <front>
-    <title>Summary: workshop on machine learning for optical communication systems</title>
+    <title>Summary:workshop on machine learning for optical communication systems</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.2100-04"/>
-    <author fullname="Josh Gordon" initials="J." surname="Gordon"/>
-    <author fullname="Abdella Battou" initials="A." surname="Battou"/>
-    <author fullname="Michael Majurski" initials="M." surname="Majurski"/>
-    <author fullname="Dan Kilper" initials="D." surname="Kilper"/>
-    <author fullname="Uiara Celine" initials="U." surname="Celine"/>
-    <author fullname="Darko Zibar" initials="D." surname="Zibar"/>
-    <author fullname="Massimo Tornatore" initials="M." surname="Tornatore"/>
-    <author fullname="Joao Pedro" initials="J." surname="Pedro"/>
-    <author fullname="Jesse Simsarian" initials="J." surname="Simsarian"/>
-    <author fullname="Jim Westdorp" initials="J." surname="Westdorp"/>
+    <seriesInfo name="NIST" value="NIST SP 2100-04"/>
+    <author fullname="Josh Gordon" initials="J." surname="Gordon">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Abdella Battou" initials="A." surname="Battou">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Majurski" initials="M." surname="Majurski">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Dan Kilper" initials="D." surname="Kilper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Uiara Celine" initials="U." surname="Celine">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Darko Zibar" initials="D." surname="Zibar">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Massimo Tornatore" initials="M." surname="Tornatore">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Joao Pedro" initials="J." surname="Pedro">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jesse Simsarian" initials="J." surname="Simsarian">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jim Westdorp" initials="J." surname="Westdorp">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March"/>
   </front>

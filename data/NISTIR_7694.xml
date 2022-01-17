@@ -2,11 +2,19 @@
   <front>
     <title>Specification for the asset reporting format 1.1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7694"/>
+    <seriesInfo name="NIST" value="NIST IR 7694"/>
     <author fullname="Adam Halbardier" initials="A." surname="Halbardier"/>
     <author fullname="David Waltermire" initials="D." surname="Waltermire"/>
     <author fullname="Mark Johnson" initials="M." surname="Johnson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2011"/>
   </front>

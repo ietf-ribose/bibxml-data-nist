@@ -2,10 +2,19 @@
   <front>
     <title>Conformance Test Architecture and Test Suite for ANSI/NIST-ITL 1-2011 NIEM XML Encoded Transactions</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7957"/>
-    <author fullname="Amanda Forster" initials="A." surname="Forster"/>
-    <author fullname="Fernando Podio" initials="F." surname="Podio"/>
-    <author fullname="Dylan Yaga" initials="D." surname="Yaga"/>
-    <author fullname="Christofer McGinnis" initials="C." surname="McGinnis"/>
+    <seriesInfo name="NIST" value="NIST IR 7957"/>
+    <author fullname="Amanda Forster" initials="A." surname="Forster">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Fernando Podio" initials="F." surname="Podio">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Dylan Yaga" initials="D." surname="Yaga">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christofer McGinnis" initials="C." surname="McGinnis">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

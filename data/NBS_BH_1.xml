@@ -1,7 +1,8 @@
 <reference anchor="NBS.BH.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing1.pdf">
   <front>
-    <title>Recommended minimum requirements for small dwelling construction : report of Building Code Committee July 20, 1922</title>
+    <title>Recommended minimum requirements for small dwelling construction :report of Building Code Committee July 20, 1922</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.1"/>
+    <seriesInfo name="NIST" value="NBS BH 1"/>
     <author fullname="Ira Woolson" initials="I." surname="Woolson"/>
     <author fullname="Edwin Brown" initials="E." surname="Brown"/>
     <author fullname="John Newlin" initials="J." surname="Newlin"/>
@@ -12,6 +13,13 @@
     <author fullname="Frank Cartwright" initials="F." surname="Cartwright"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1923"/>
   </front>

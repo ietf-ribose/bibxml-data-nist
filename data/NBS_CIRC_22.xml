@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.22" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular22.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 22: standard specifications for transformers, oil-immersed, self-cooled, 60-cycle, 2200 volts</title>
+    <title>Circular of the Bureau of Standards no. 22:standard specifications for transformers, oil-immersed, self-cooled, 60-cycle, 2200 volts</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.22"/>
+    <seriesInfo name="NIST" value="NBS CIRC 22"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1910"/>
   </front>

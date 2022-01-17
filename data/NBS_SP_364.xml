@@ -2,10 +2,18 @@
   <front>
     <title>Solid state chemistry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.364"/>
+    <seriesInfo name="NIST" value="NBS SP 364"/>
     <author fullname="Robert Roth" initials="R." surname="Roth"/>
     <author fullname="Samuel Schneider" initials="S." surname="Schneider"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

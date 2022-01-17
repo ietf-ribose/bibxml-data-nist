@@ -2,10 +2,18 @@
   <front>
     <title>A sensor-driven fire model, version 1.1</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6705"/>
+    <seriesInfo name="NIST" value="NIST IR 6705"/>
     <author fullname="William Davis" initials="W." surname="Davis"/>
     <author fullname="Glenn Forney" initials="G." surname="Forney"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

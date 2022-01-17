@@ -2,9 +2,17 @@
   <front>
     <title>Efficiency testing of ANSI C implementations of round 1 candidate algorithms for the advanced encryption standard</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6391"/>
+    <seriesInfo name="NIST" value="NIST IR 6391"/>
     <author fullname="LawrenceIII Basshamm" initials="L.I." surname="Basshamm"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

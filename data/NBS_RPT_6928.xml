@@ -1,9 +1,17 @@
 <reference anchor="NBS.RPT.6928" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6928.pdf">
   <front>
-    <title>Preliminary report on the thermodynamic properties of selected light-element compounds: supplement to NBS Reports 6297, 6484, 6645</title>
+    <title>Preliminary report on the thermodynamic properties of selected light-element compounds:supplement to NBS Reports 6297, 6484, 6645</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6928"/>
+    <seriesInfo name="NIST" value="NBS RPT 6928"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1960"/>
   </front>

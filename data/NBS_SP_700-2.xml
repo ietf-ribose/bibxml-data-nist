@@ -2,10 +2,18 @@
   <front>
     <title>Measurement evaluation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.700-2"/>
+    <seriesInfo name="NIST" value="NBS SP 700-2"/>
     <author surname="Mandel"/>
     <author surname="Nanni"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1986"/>
   </front>

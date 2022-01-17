@@ -1,7 +1,8 @@
 <reference anchor="NBS.SP.960-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-14.pdf">
   <front>
-    <title>NIST recommended practice guide WWVB radio controlled clocks</title>
+    <title>NIST recommended practice guideWWVB radio controlled clocks</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-14"/>
+    <seriesInfo name="NIST" value="NBS SP 960-14"/>
     <author fullname="Matthew Deutsch" initials="M." surname="Deutsch"/>
     <author fullname="Glenn Nelson" initials="G." surname="Nelson"/>
     <author fullname="Andrew Novick" initials="A." surname="Novick"/>
@@ -11,6 +12,13 @@
     <author fullname="William Yates" initials="W." surname="Yates"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

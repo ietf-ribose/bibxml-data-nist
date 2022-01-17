@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.73-340" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-340.pdf">
   <front>
-    <title>VOR aircraft navigation system measurements : final report, task 1</title>
+    <title>VOR aircraft navigation system measurements :final report, task 1</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-340"/>
+    <seriesInfo name="NIST" value="NBS IR 73-340"/>
     <author surname="Arthur"/>
     <author fullname="Donald Halford" initials="D." surname="Halford"/>
     <author surname="Manney"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

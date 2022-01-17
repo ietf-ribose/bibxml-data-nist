@@ -2,8 +2,13 @@
   <front>
     <title>Secure Domain Name System (DNS) Deployment Guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.800-81-2"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
-    <author fullname="Scott Rose" initials="S." surname="Rose"/>
+    <seriesInfo name="NIST" value="NIST SP 800-81-2"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Scott Rose" initials="S." surname="Rose">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

@@ -2,6 +2,7 @@
   <front>
     <title>The turning workstation in the AMRF</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3749"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3749"/>
     <author fullname="Alkan Donmez" initials="A." surname="Donmez"/>
     <author fullname="Robert Gavin" initials="R." surname="Gavin"/>
     <author fullname="Lew Greenspan" initials="L." surname="Greenspan"/>
@@ -13,6 +14,13 @@
     <author fullname="Charles Yang" initials="C." surname="Yang"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

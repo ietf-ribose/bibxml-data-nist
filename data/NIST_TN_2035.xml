@@ -2,12 +2,28 @@
   <front>
     <title>A general methodology for deriving network propagation models of computer worms</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2035"/>
-    <author fullname="Shuvo Bardhan" initials="S." surname="Bardhan"/>
-    <author fullname="Douglas Montgomery" initials="D." surname="Montgomery"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert"/>
+    <seriesInfo name="NIST" value="NIST TN 2035"/>
+    <author fullname="Shuvo Bardhan" initials="S." surname="Bardhan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Douglas Montgomery" initials="D." surname="Montgomery">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Filliben" initials="J." surname="Filliben">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February"/>
   </front>

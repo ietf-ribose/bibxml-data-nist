@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.79-1757" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1757.pdf">
   <front>
-    <title>HUD utilities demonstration series : data reduction processes for the Jersey City total energy project</title>
+    <title>HUD utilities demonstration series :data reduction processes for the Jersey City total energy project</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1757"/>
+    <seriesInfo name="NIST" value="NBS IR 79-1757"/>
     <author fullname="Daniel Rorrer" initials="D." surname="Rorrer"/>
     <author fullname="William Rippey" initials="W." surname="Rippey"/>
     <author fullname="Yui-May Chang" initials="Y." surname="Chang"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

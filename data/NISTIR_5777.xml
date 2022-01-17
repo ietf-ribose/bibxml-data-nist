@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.5777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5777.pdf">
   <front>
-    <title>Beyond the technology roadmaps: an assessment of electronic materials research and development</title>
+    <title>Beyond the technology roadmaps:an assessment of electronic materials research and development</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5777"/>
+    <seriesInfo name="NIST" value="NIST IR 5777"/>
     <author fullname="Michael Schen" initials="M." surname="Schen"/>
     <author fullname="Thomas Russell" initials="T." surname="Russell"/>
     <author fullname="Robert Leheny" initials="R." surname="Leheny"/>
@@ -10,6 +11,13 @@
     <author fullname="Gerald Borsuk" initials="G." surname="Borsuk"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

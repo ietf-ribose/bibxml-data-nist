@@ -2,9 +2,16 @@
   <front>
     <title>CFAST – Consolidated Model of Fire Growth and Smoke Transport (Version 7) Volume 4: Configuration Management</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1889v4"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
+    <seriesInfo name="NIST" value="NIST TN 1889v4"/>
+    <author fullname="Richard Peacock" initials="R." surname="Peacock">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Glenn Forney" initials="G." surname="Forney">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

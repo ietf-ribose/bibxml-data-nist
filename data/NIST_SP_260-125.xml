@@ -1,10 +1,18 @@
 <reference anchor="NIST.SP.260-125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-125.pdf">
   <front>
-    <title>Standard Reference Materials : Statistical aspects of the certification of chemical batch SRMs/</title>
+    <title>Standard Reference Materials :Statistical aspects of the certification of chemical batch SRMs/</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-125"/>
+    <seriesInfo name="NIST" value="NIST SP 260-125"/>
     <author fullname="Susannah Schiller" initials="S." surname="Schiller"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

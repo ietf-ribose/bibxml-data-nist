@@ -2,9 +2,19 @@
   <front>
     <title>NVLAP acoustical testing services</title>
     <seriesInfo name="DOI" value="10.6028/NIST.HB.150-8-2018"/>
-    <author fullname="Kari Harper" initials="K." surname="Harper"/>
+    <seriesInfo name="NIST" value="NIST HB 150-8-2018"/>
+    <author fullname="Kari Harper" initials="K." surname="Harper">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

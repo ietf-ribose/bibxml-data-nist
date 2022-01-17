@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.9654" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9654.pdf">
   <front>
-    <title>Calculations of diffusion coefficients in ternary systems from diaphragm cell experiments: progress report</title>
+    <title>Calculations of diffusion coefficients in ternary systems from diaphragm cell experiments:progress report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9654"/>
+    <seriesInfo name="NIST" value="NBS RPT 9654"/>
     <author surname="Patel"/>
     <author surname="Gregory"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

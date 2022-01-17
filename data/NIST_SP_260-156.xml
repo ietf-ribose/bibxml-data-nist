@@ -2,6 +2,7 @@
   <front>
     <title>Certification of NIST Standard Reference Material 1575a pine needles and results of an international laboratory comparison</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-156"/>
+    <seriesInfo name="NIST" value="NIST SP 260-156"/>
     <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
     <author fullname="Donala Becker" initials="D." surname="Becker"/>
     <author fullname="Rabia Oflaz" initials="R." surname="Oflaz"/>
@@ -15,6 +16,13 @@
     <author fullname="Jacqueline Mann" initials="J." surname="Mann"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

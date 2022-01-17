@@ -2,7 +2,10 @@
   <front>
     <title>Towards Smart Fire Panels</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1780"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
+    <seriesInfo name="NIST" value="NIST TN 1780"/>
+    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

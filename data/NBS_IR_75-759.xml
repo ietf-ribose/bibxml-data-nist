@@ -2,6 +2,7 @@
   <front>
     <title>Standard reference materials and data for Raman spectroscopy, electron paramagnetic resonance, and magnetic moment measurements</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.75-759"/>
+    <seriesInfo name="NIST" value="NBS IR 75-759"/>
     <author surname="Bennett"/>
     <author surname="Candela"/>
     <author surname="Chang"/>
@@ -9,6 +10,13 @@
     <author surname="Rosasco"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

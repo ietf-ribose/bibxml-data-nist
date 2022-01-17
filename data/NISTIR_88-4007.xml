@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.88-4007" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4007.pdf">
   <front>
-    <title>Punching shear resistance of lightweight concrete offshore structures for the Arctic: results of experimental study</title>
+    <title>Punching shear resistance of lightweight concrete offshore structures for the Arctic:results of experimental study</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4007"/>
+    <seriesInfo name="NIST" value="NIST IR 88-4007"/>
     <author fullname="Long Phan" initials="L." surname="Phan"/>
     <author surname="Lew"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

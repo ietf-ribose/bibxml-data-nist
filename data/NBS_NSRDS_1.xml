@@ -2,10 +2,18 @@
   <front>
     <title>National Standard Reference Data System</title>
     <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.1"/>
+    <seriesInfo name="NIST" value="NBS NSRDS 1"/>
     <author fullname="Edward Brady" initials="E." surname="Brady"/>
     <author fullname="Merrill Wallenstein" initials="M." surname="Wallenstein"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1964"/>
   </front>

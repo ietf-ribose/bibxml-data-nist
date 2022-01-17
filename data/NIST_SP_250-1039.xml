@@ -2,11 +2,19 @@
   <front>
     <title>Hydrocarbon liquid flow calibration service</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-1039"/>
+    <seriesInfo name="NIST" value="NIST SP 250-1039"/>
     <author surname="Yeh"/>
     <author fullname="Jes�s Aguilera" initials="J." surname="Aguilera"/>
     <author fullname="John Wright" initials="J." surname="Wright"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

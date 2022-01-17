@@ -2,10 +2,22 @@
   <front>
     <title>Analysis of needs and existing capabilities for full-scale fire resistance testing</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.02-843-1"/>
-    <author fullname="Jesse Beitel" initials="J." surname="Beitel"/>
-    <author fullname="Nestor Iwankiw" initials="N." surname="Iwankiw"/>
+    <seriesInfo name="NIST" value="NIST GCR 02-843-1"/>
+    <author fullname="Jesse Beitel" initials="J." surname="Beitel">
+      <organization>Building and Fire Research Laboratory</organization>
+    </author>
+    <author fullname="Nestor Iwankiw" initials="N." surname="Iwankiw">
+      <organization>Building and Fire Research Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2008" month="September"/>
   </front>

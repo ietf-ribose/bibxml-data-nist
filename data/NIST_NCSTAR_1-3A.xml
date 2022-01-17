@@ -2,11 +2,19 @@
   <front>
     <title>Contemporaneous structural steel specifications</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-3a"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-3a"/>
     <author fullname="William Luecke" initials="W." surname="Luecke"/>
     <author fullname="Thomas Siewert" initials="T." surname="Siewert"/>
     <author fullname="Frank Gayle" initials="F." surname="Gayle"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

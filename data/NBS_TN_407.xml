@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.407" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote407.pdf">
   <front>
-    <title>Applications of a time-sharing computer in a spectrochemistry laboratory : optical emission and X-ray fluorescence</title>
+    <title>Applications of a time-sharing computer in a spectrochemistry laboratory :optical emission and X-ray fluorescence</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.407"/>
+    <seriesInfo name="NIST" value="NBS TN 407"/>
     <author surname="Rasberry"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1968"/>
   </front>

@@ -1,16 +1,38 @@
 <reference anchor="NIST.SP.260-193" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-193.pdf">
   <front>
-    <title>Reference Material 8634: ethylene tetrafluoroethylene for particle size distribution and morphology</title>
+    <title>Reference Material 8634:ethylene tetrafluoroethylene for particle size distribution and morphology</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.260-193"/>
-    <author fullname="Dean Ripple" initials="D." surname="Ripple"/>
-    <author fullname="Srivalli Telikepalli" initials="S." surname="Telikepalli"/>
-    <author fullname="Kristen Steffens" initials="K." surname="Steffens"/>
-    <author fullname="Michael Carrier" initials="M." surname="Carrier"/>
-    <author fullname="Christopher Montgomery" initials="C." surname="Montgomery"/>
-    <author fullname="Nicholas Ritchie" initials="N." surname="Ritchie"/>
-    <author fullname="John Lu" initials="J." surname="Lu"/>
+    <seriesInfo name="NIST" value="NIST SP 260-193"/>
+    <author fullname="Dean Ripple" initials="D." surname="Ripple">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Srivalli Telikepalli" initials="S." surname="Telikepalli">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Kristen Steffens" initials="K." surname="Steffens">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Michael Carrier" initials="M." surname="Carrier">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Christopher Montgomery" initials="C." surname="Montgomery">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Ritchie" initials="N." surname="Ritchie">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="John Lu" initials="J." surname="Lu">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May"/>
   </front>

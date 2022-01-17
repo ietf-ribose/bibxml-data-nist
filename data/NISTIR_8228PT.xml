@@ -1,16 +1,35 @@
-<reference anchor="NISTIR.8228pt" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8228pt.pdf">
+<reference anchor="NIST.IR.8228pt" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8228pt.pdf">
   <front>
     <title>Considerações para Gerenciar Riscos de Privacidade e Segurança Cibernética na Internet das Coisas (IoT)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8228pt"/>
-    <author fullname="Katie Boeckl" initials="K." surname="Boeckl"/>
-    <author fullname="Michael Fagan" initials="M." surname="Fagan"/>
-    <author fullname="William Fisher" initials="W." surname="Fisher"/>
-    <author fullname="Naomi Lefkovitz" initials="N." surname="Lefkovitz"/>
-    <author fullname="Katerina Megas" initials="K." surname="Megas"/>
-    <author fullname="Ellen Nadeau" initials="E." surname="Nadeau"/>
-    <author fullname="DannaGabel O’Rourke" initials="D.G." surname="O’Rourke"/>
-    <author fullname="Ben Piccarreta" initials="B." surname="Piccarreta"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
+    <seriesInfo name="NIST" value="NIST IR 8228pt"/>
+    <author fullname="Katie Boeckl" initials="K." surname="Boeckl">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Fagan" initials="M." surname="Fagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William Fisher" initials="W." surname="Fisher">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Naomi Lefkovitz" initials="N." surname="Lefkovitz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Katerina Megas" initials="K." surname="Megas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ellen Nadeau" initials="E." surname="Nadeau">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="DannaGabel O’Rourke" initials="D.G." surname="O’Rourke">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ben Piccarreta" initials="B." surname="Piccarreta">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

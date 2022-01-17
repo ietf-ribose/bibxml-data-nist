@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.4817" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4817.pdf">
   <front>
-    <title>National Voluntary Laboratory Accreditation Program: workshop on fastener test methods part I</title>
+    <title>National Voluntary Laboratory Accreditation Program:workshop on fastener test methods part I</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4817"/>
+    <seriesInfo name="NIST" value="NIST IR 4817"/>
     <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1992"/>
   </front>

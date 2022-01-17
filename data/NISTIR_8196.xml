@@ -2,12 +2,28 @@
   <front>
     <title>Security analysis of first responder mobile and wearable devices</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8196"/>
-    <author fullname="Joshua Franklin" initials="J." surname="Franklin"/>
-    <author fullname="Gema Howell" initials="G." surname="Howell"/>
-    <author fullname="Scott Ledgerwood" initials="S." surname="Ledgerwood"/>
-    <author fullname="Jaydee Griffith" initials="J." surname="Griffith"/>
+    <seriesInfo name="NIST" value="NIST IR 8196"/>
+    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gema Howell" initials="G." surname="Howell">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Scott Ledgerwood" initials="S." surname="Ledgerwood">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jaydee Griffith" initials="J." surname="Griffith">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NBS.CIRC.499sup1" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular499sup1.pdf">
   <front>
-    <title>Supplement 1 to NBS Circular 499: nuclear data- a collection of experimental values of half-lives, radiation energies, relative isotopic abundances, nuclear moments, and cross sections</title>
+    <title>Supplement 1 to NBS Circular 499:nuclear data- a collection of experimental values of half-lives, radiation energies, relative isotopic abundances, nuclear moments, and cross sections</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.499sup1"/>
+    <seriesInfo name="NIST" value="NBS CIRC 499sup1"/>
     <author fullname="Katharine Way" initials="K." surname="Way"/>
     <author fullname="Marion Wood" initials="M." surname="Wood"/>
     <author fullname="Karin Thew" initials="K." surname="Thew"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1951"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.77-853" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-853.pdf">
   <front>
-    <title>Helium research in support of superconducting power transmission : annual report (July 1975-September 1976</title>
+    <title>Helium research in support of superconducting power transmission :annual report (July 1975-September 1976</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.77-853"/>
+    <seriesInfo name="NIST" value="NBS IR 77-853"/>
     <author surname="Jones"/>
     <author surname="Arp"/>
     <author surname="Parrish"/>
@@ -11,6 +12,13 @@
     <author surname="Hands"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

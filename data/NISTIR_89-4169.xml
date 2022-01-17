@@ -2,10 +2,18 @@
   <front>
     <title>Use of the IRDS standard in CALS</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4169"/>
+    <seriesInfo name="NIST" value="NIST IR 89-4169"/>
     <author fullname="David Jefferson" initials="D." surname="Jefferson"/>
     <author fullname="Cita Furlani" initials="C." surname="Furlani"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

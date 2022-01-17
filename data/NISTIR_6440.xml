@@ -1,10 +1,18 @@
 <reference anchor="NIST.IR.6440" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6440.pdf">
   <front>
-    <title>NVCASE program handbook: procedures for obtaining NIST recognition as an accreditor</title>
+    <title>NVCASE program handbook:procedures for obtaining NIST recognition as an accreditor</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6440"/>
+    <seriesInfo name="NIST" value="NIST IR 6440"/>
     <author surname="Gladhill"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1999"/>
   </front>

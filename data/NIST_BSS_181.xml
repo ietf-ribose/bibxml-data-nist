@@ -1,10 +1,18 @@
 <reference anchor="NIST.BSS.181" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nistbuildingscience181.pdf">
   <front>
-    <title>High-rise database-assisted design 1.1 (HR_DAD_1.1) : concepts, software, and examples</title>
+    <title>High-rise database-assisted design 1.1 (HR_DAD_1.1) :concepts, software, and examples</title>
     <seriesInfo name="DOI" value="10.6028/NIST.BSS.181"/>
+    <seriesInfo name="NIST" value="NIST BSS 181"/>
     <author fullname="Seymour Spence" initials="S." surname="Spence"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2009"/>
   </front>

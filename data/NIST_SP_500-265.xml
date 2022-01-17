@@ -2,11 +2,19 @@
   <front>
     <title>Proceedings of workshop on software security assurance tools, techniques, and metrics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-265"/>
+    <seriesInfo name="NIST" value="NIST SP 500-265"/>
     <author fullname="Paul Black" initials="P." surname="Black"/>
     <author fullname="Michael Kass" initials="M." surname="Kass"/>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

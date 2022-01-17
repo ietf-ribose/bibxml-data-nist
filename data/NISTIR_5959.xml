@@ -2,6 +2,7 @@
   <front>
     <title>NIST form-based handprint recognition system (release 2.0)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5959"/>
+    <seriesInfo name="NIST" value="NIST IR 5959"/>
     <author fullname="Micheal Garris" initials="M." surname="Garris"/>
     <author fullname="James Blue" initials="J." surname="Blue"/>
     <author fullname="Gerald Candela" initials="G." surname="Candela"/>
@@ -10,6 +11,13 @@
     <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1997"/>
   </front>

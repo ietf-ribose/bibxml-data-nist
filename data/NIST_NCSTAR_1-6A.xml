@@ -2,6 +2,7 @@
   <front>
     <title>Passive fire protection</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6a"/>
+    <seriesInfo name="NIST" value="NIST NCSTAR 1-6a"/>
     <author fullname="NicholasJ, Carino" initials="N.J." surname="Carino"/>
     <author fullname="Monica Starnes" initials="M." surname="Starnes"/>
     <author fullname="John Gross" initials="J." surname="Gross"/>
@@ -11,6 +12,13 @@
     <author fullname="Richard Bokowski" initials="R." surname="Bokowski"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2005"/>
   </front>

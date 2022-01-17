@@ -1,13 +1,21 @@
 <reference anchor="NBS.TN.467p1adde1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote467p1adde1.pdf">
   <front>
-    <title>Activation analysis : a bibliography (part 1, addendum 1-issued December 1969)</title>
+    <title>Activation analysis :a bibliography (part 1, addendum 1-issued December 1969)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.467p1adde1"/>
+    <seriesInfo name="NIST" value="NBS TN 467p1adde1"/>
     <author surname="Lutz"/>
     <author surname="Boreni"/>
     <author surname="Maddock"/>
     <author surname="Meinke"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1969"/>
   </front>

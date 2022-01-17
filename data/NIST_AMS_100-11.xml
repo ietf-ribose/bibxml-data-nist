@@ -2,10 +2,22 @@
   <front>
     <title>Proceedings of the 2017 model-based enterprise (MBE) summit</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-11"/>
-    <author fullname="Thomas Hedberg Jr." initials="T." surname="Hedberg Jr."/>
-    <author fullname="Mark Carlisle" initials="M." surname="Carlisle"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-11"/>
+    <author fullname="Thomas Hedberg Jr." initials="T." surname="Hedberg Jr.">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mark Carlisle" initials="M." surname="Carlisle">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="October" day="12"/>
   </front>

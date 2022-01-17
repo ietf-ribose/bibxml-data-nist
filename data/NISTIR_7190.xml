@@ -2,11 +2,19 @@
   <front>
     <title>Distributed biometric access control testbed</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7190"/>
+    <seriesInfo name="NIST" value="NIST IR 7190"/>
     <author fullname="Stephen Treado" initials="S." surname="Treado"/>
     <author fullname="Steven Cook" initials="S." surname="Cook"/>
     <author fullname="Michael Galler" initials="M." surname="Galler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

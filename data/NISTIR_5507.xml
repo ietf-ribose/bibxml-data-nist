@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5507" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5507.pdf">
   <front>
-    <title>Portsmouth fastener manufacturing workstation: P.N.S. user's manual</title>
+    <title>Portsmouth fastener manufacturing workstation:P.N.S. user's manual</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5507"/>
+    <seriesInfo name="NIST" value="NIST IR 5507"/>
     <author fullname="Robert Gavin" initials="R." surname="Gavin"/>
     <author fullname="Kang Lee" initials="K." surname="Lee"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1993"/>
   </front>

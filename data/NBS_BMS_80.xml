@@ -1,11 +1,19 @@
 <reference anchor="NBS.BMS.80" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures80.pdf">
   <front>
-    <title>Performance test of floor coverings for use in low-cost housing : part 4</title>
+    <title>Performance test of floor coverings for use in low-cost housing :part 4</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BMS.80"/>
+    <seriesInfo name="NIST" value="NBS BMS 80"/>
     <author fullname="Percy Sigler" initials="P." surname="Sigler"/>
     <author fullname="Elmer Koerner" initials="E." surname="Koerner"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1942"/>
   </front>

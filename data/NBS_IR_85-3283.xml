@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.85-3283" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3283.pdf">
   <front>
-    <title>Technical activities 1985 : Office of Standard Data</title>
+    <title>Technical activities 1985 :Office of Standard Data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3283"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3283"/>
     <author fullname="Sherman Fivozinsky" initials="S." surname="Fivozinsky"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

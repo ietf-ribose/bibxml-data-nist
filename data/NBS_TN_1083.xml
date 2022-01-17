@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.1083" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1083.pdf">
   <front>
-    <title>A radio-frequency power delivery system : procedures for error analysis and self-calibration</title>
+    <title>A radio-frequency power delivery system :procedures for error analysis and self-calibration</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.1083"/>
+    <seriesInfo name="NIST" value="NBS TN 1083"/>
     <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

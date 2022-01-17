@@ -2,11 +2,19 @@
   <front>
     <title>User guide to CADMUS, a simplified parallel code for Laplacian-fractal growth</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6180"/>
+    <seriesInfo name="NIST" value="NIST IR 6180"/>
     <author fullname="Howland Fowler" initials="H." surname="Fowler"/>
     <author fullname="Judith Devaney" initials="J." surname="Devaney"/>
     <author fullname="John Hagedorn" initials="J." surname="Hagedorn"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

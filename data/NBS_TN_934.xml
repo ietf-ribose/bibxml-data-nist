@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.934" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote934.pdf">
   <front>
-    <title>Preservation of historic adobe structures : a status report</title>
+    <title>Preservation of historic adobe structures :a status report</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.934"/>
+    <seriesInfo name="NIST" value="NBS TN 934"/>
     <author fullname="James Clifton" initials="J." surname="Clifton"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

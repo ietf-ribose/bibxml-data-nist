@@ -1,12 +1,23 @@
-<reference anchor="NISTIR.8328" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8328.pdf">
+<reference anchor="NIST.IR.8328" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8328.pdf">
   <front>
     <title>Mission Critical Voice Quality of Experience Access Time Measurement Method Addendum</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8328"/>
-    <author fullname="Chelsea Greene" initials="C." surname="Greene"/>
-    <author fullname="Jesse Frey" initials="J." surname="Frey"/>
-    <author fullname="Zainab Soetan" initials="Z." surname="Soetan"/>
-    <author fullname="Jaden Pieper" initials="J." surname="Pieper"/>
-    <author fullname="Tim Thompson" initials="T." surname="Thompson"/>
+    <seriesInfo name="NIST" value="NIST IR 8328"/>
+    <author fullname="Chelsea Greene" initials="C." surname="Greene">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Jesse Frey" initials="J." surname="Frey">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Zainab Soetan" initials="Z." surname="Soetan">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Jaden Pieper" initials="J." surname="Pieper">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Tim Thompson" initials="T." surname="Thompson">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

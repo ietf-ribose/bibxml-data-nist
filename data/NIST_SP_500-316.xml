@@ -2,9 +2,16 @@
   <front>
     <title>Framework for Cloud Usability</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.500-316"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
-    <author fullname="Karun Joshi" initials="K." surname="Joshi"/>
+    <seriesInfo name="NIST" value="NIST SP 500-316"/>
+    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karun Joshi" initials="K." surname="Joshi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

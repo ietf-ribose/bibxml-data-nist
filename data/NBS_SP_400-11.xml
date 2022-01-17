@@ -2,10 +2,18 @@
   <front>
     <title>A BASIC program for calculating dopant density profiles from capaciyance-voltage</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.400-11"/>
+    <seriesInfo name="NIST" value="NBS SP 400-11"/>
     <author fullname="Richard Mattis" initials="R." surname="Mattis"/>
     <author fullname="Martin Buehler" initials="M." surname="Buehler"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1975"/>
   </front>

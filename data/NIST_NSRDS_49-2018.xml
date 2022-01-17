@@ -1,12 +1,26 @@
 <reference anchor="NIST.NSRDS.49-2018" target="https://nvlpubs.nist.gov/nistpubs/NSRDS/NIST.NSRDS.49-2018.pdf">
   <front>
-    <title>CYCLE_D: NIST vapor compression cycle design program: version 6.0 user's guide</title>
+    <title>CYCLE_D: NIST vapor compression cycle design program:version 6.0 user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.49-2018"/>
-    <author surname="Brown"/>
-    <author surname="Domanski"/>
-    <author surname="Lemmon"/>
+    <seriesInfo name="NIST" value="NIST NSRDS 49-2018"/>
+    <author surname="Brown">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author surname="Domanski">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author surname="Lemmon">
+      <organization>Engineering Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November"/>
   </front>

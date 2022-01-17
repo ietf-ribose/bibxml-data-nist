@@ -2,10 +2,19 @@
   <front>
     <title>A Sensor Ontology Literature Review</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7908"/>
-    <author fullname="Roger Eastman" initials="R." surname="Eastman"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
-    <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky"/>
-    <author fullname="Tsai Hong" initials="T." surname="Hong"/>
+    <seriesInfo name="NIST" value="NIST IR 7908"/>
+    <author fullname="Roger Eastman" initials="R." surname="Eastman">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Tsai Hong" initials="T." surname="Hong">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

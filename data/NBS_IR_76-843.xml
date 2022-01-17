@@ -1,10 +1,18 @@
 <reference anchor="NBS.IR.76-843" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-843.pdf">
   <front>
-    <title>Liquefied natural gas research at the National Bureau of Standards : Progress report for the period 1 January- 30 June, 1976</title>
+    <title>Liquefied natural gas research at the National Bureau of Standards :Progress report for the period 1 January- 30 June, 1976</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.76-843"/>
+    <seriesInfo name="NIST" value="NBS IR 76-843"/>
     <author surname="Diller"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.960-6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-6.pdf">
   <front>
-    <title>NIST recommended practice guide : surges happen! how to protect the applicances in your home/</title>
+    <title>NIST recommended practice guide :surges happen! how to protect the applicances in your home/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.960-6"/>
+    <seriesInfo name="NIST" value="NBS SP 960-6"/>
     <author fullname="Francois Martzloff" initials="F." surname="Martzloff"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2001"/>
   </front>

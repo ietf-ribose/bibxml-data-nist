@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.98e2" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular98e2.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 98 2nd edition: United States government specification for volatile mineral spirits for thinning paints</title>
+    <title>Circular of the Bureau of Standards no. 98 2nd edition:United States government specification for volatile mineral spirits for thinning paints</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.98e2"/>
+    <seriesInfo name="NIST" value="NBS CIRC 98e2"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1923"/>
   </front>

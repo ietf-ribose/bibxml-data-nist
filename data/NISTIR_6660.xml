@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6660" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6660.pdf">
   <front>
-    <title>Workshop on quantitative tools for condition assessment of aging infrastructure : May 4-5, 2010, Boulder, Colorado</title>
+    <title>Workshop on quantitative tools for condition assessment of aging infrastructure :May 4-5, 2010, Boulder, Colorado</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6660"/>
+    <seriesInfo name="NIST" value="NIST IR 6660"/>
     <author fullname="Jessica Terry" initials="J." surname="Terry"/>
     <author fullname="Tom Siewert" initials="T." surname="Siewert"/>
     <author fullname="David McColskey" initials="D." surname="McColskey"/>
@@ -11,6 +12,13 @@
     <author fullname="Dat Duthinh" initials="D." surname="Duthinh"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2010"/>
   </front>

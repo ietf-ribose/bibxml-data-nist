@@ -2,6 +2,7 @@
   <front>
     <title>The national marine mammal tissue bank specimen inventory</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7372"/>
+    <seriesInfo name="NIST" value="NIST IR 7372"/>
     <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
     <author fullname="Michael Ellisor" initials="M." surname="Ellisor"/>
     <author fullname="Amanda Moors" initials="A." surname="Moors"/>
@@ -13,6 +14,13 @@
     <author fullname="Stephen Wise" initials="S." surname="Wise"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2006"/>
   </front>

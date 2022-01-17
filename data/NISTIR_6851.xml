@@ -2,6 +2,7 @@
   <front>
     <title>Distributed testing of a device-level interface specification for a metrology system</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6851"/>
+    <seriesInfo name="NIST" value="NIST IR 6851"/>
     <author fullname="John Horst" initials="J." surname="Horst"/>
     <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
     <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
@@ -11,6 +12,13 @@
     <author fullname="Albert Wavering" initials="A." surname="Wavering"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8358" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8358.pdf">
+<reference anchor="NIST.IR.8358" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8358.pdf">
   <front>
     <title>Deconstructing UML, Part 1: Modeling Classes with Categories</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8358"/>
-    <author fullname="Spencer Breiner" initials="S." surname="Breiner"/>
-    <author fullname="Sarala Padi" initials="S." surname="Padi"/>
-    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <seriesInfo name="NIST" value="NIST IR 8358"/>
+    <author fullname="Spencer Breiner" initials="S." surname="Breiner">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Sarala Padi" initials="S." surname="Padi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ram Sriram" initials="R." surname="Sriram">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

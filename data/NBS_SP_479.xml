@@ -2,6 +2,7 @@
   <front>
     <title>Corrosion and metal artifacts</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.479"/>
+    <seriesInfo name="NIST" value="NBS SP 479"/>
     <author fullname="Floyd Brown" initials="F." surname="Brown"/>
     <author fullname="Harry Burnett" initials="H." surname="Burnett"/>
     <author fullname="Thomas Chase" initials="T." surname="Chase"/>
@@ -10,6 +11,13 @@
     <author fullname="Marce Pourbaix" initials="M." surname="Pourbaix"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1977"/>
   </front>

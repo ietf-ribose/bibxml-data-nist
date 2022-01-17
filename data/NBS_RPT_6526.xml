@@ -1,12 +1,20 @@
 <reference anchor="NBS.RPT.6526" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6526.pdf">
   <front>
-    <title>Evaluation of resistance strain gages at elevated temperatures : progress report no. 8</title>
+    <title>Evaluation of resistance strain gages at elevated temperatures :progress report no. 8</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6526"/>
+    <seriesInfo name="NIST" value="NBS RPT 6526"/>
     <author surname="Bloss"/>
     <author surname="Melton"/>
     <author surname="Trumbo"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959" month="August"/>
   </front>

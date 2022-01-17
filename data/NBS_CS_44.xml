@@ -2,6 +2,7 @@
   <front>
     <title>Monthly news bulletin of Commercial Standards Group, Bureau of Standards November 15, 1928</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CS.44"/>
+    <seriesInfo name="NIST" value="NBS CS 44"/>
     <author surname="Tillman"/>
     <author surname="Hudson"/>
     <author surname="Ely"/>
@@ -10,6 +11,13 @@
     <author surname="Bouillon"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1928"/>
   </front>

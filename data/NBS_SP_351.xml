@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.351" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication351.pdf">
   <front>
-    <title>Analytical chemistry : key to progress on national problems</title>
+    <title>Analytical chemistry :key to progress on national problems</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.351"/>
+    <seriesInfo name="NIST" value="NBS SP 351"/>
     <author fullname="Wayne Meinke" initials="W." surname="Meinke"/>
     <author fullname="John Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1972"/>
   </front>

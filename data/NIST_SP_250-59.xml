@@ -1,12 +1,20 @@
 <reference anchor="NIST.SP.250-59" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-59.pdf">
   <front>
-    <title>NIST computer time services : Internet Time Service (ITS), Automated Computer Time Service (ACTS), and time.gov web sites</title>
+    <title>NIST computer time services :Internet Time Service (ITS), Automated Computer Time Service (ACTS), and time.gov web sites</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.250-59"/>
+    <seriesInfo name="NIST" value="NIST SP 250-59"/>
     <author fullname="Judah Levine" initials="J." surname="Levine"/>
     <author fullname="Michael Lombardi" initials="M." surname="Lombardi"/>
     <author fullname="Andrew Novick" initials="A." surname="Novick"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2002"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Terminal report of microwave measurement standards section on very high frequency field intensity standards</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.9-1"/>
-    <author surname="Sorrows"/>
-    <author surname="Ellenwood"/>
-    <author surname="Ryan"/>
+    <seriesInfo name="NIST" value="NBS CRPL 9-1"/>
+    <author surname="Sorrows">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Ellenwood">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Ryan">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1946"/>
   </front>

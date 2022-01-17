@@ -2,14 +2,34 @@
   <front>
     <title>NIST special database 300: uncompressed plain and rolled images from fingerprint cards</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.1993"/>
-    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara"/>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan"/>
-    <author fullname="John Grantham" initials="J." surname="Grantham"/>
-    <author fullname="Bruce Bandini" initials="B." surname="Bandini"/>
-    <author fullname="Kenneth Ko" initials="K." surname="Ko"/>
-    <author fullname="John Libert" initials="J." surname="Libert"/>
+    <seriesInfo name="NIST" value="NIST TN 1993"/>
+    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Grantham" initials="J." surname="Grantham">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Bruce Bandini" initials="B." surname="Bandini">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kenneth Ko" initials="K." surname="Ko">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Libert" initials="J." surname="Libert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June"/>
   </front>

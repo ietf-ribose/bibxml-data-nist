@@ -2,10 +2,22 @@
   <front>
     <title>CELL-FREE (comparable engineered living lysates for research education and entrepreneurship) workshop report</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-13"/>
-    <author fullname="Eugenia Romantseva" initials="E." surname="Romantseva"/>
-    <author fullname="Elizabeth Strychalski" initials="E." surname="Strychalski"/>
+    <seriesInfo name="NIST" value="NIST SP 1500-13"/>
+    <author fullname="Eugenia Romantseva" initials="E." surname="Romantseva">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Elizabeth Strychalski" initials="E." surname="Strychalski">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February"/>
   </front>

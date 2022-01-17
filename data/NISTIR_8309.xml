@@ -2,21 +2,55 @@
   <front>
     <title>Status report on the second round of the NIST post-quantum cryptography standardization process</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8309"/>
-    <author fullname="Dustin Moody" initials="D." surname="Moody"/>
-    <author fullname="Gorjan Alagic" initials="G." surname="Alagic"/>
-    <author fullname="Daniel Apon" initials="D." surname="Apon"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper"/>
-    <author fullname="Quynh Dang" initials="Q." surname="Dang"/>
-    <author fullname="John Kelsey" initials="J." surname="Kelsey"/>
-    <author fullname="Yi-Kai Liu" initials="Y." surname="Liu"/>
-    <author fullname="Carl Miller" initials="C." surname="Miller"/>
-    <author fullname="Rene Peralta" initials="R." surname="Peralta"/>
-    <author fullname="Ray Perlner" initials="R." surname="Perlner"/>
-    <author fullname="Angela Robinson" initials="A." surname="Robinson"/>
-    <author fullname="Daniel Smith-Tone" initials="D." surname="Smith-Tone"/>
-    <author fullname="Jacob Alperin-Sheriff" initials="J." surname="Alperin-Sheriff"/>
+    <seriesInfo name="NIST" value="NIST IR 8309"/>
+    <author fullname="Dustin Moody" initials="D." surname="Moody">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gorjan Alagic" initials="G." surname="Alagic">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Daniel Apon" initials="D." surname="Apon">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Cooper" initials="D." surname="Cooper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Quynh Dang" initials="Q." surname="Dang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Kelsey" initials="J." surname="Kelsey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Yi-Kai Liu" initials="Y." surname="Liu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Carl Miller" initials="C." surname="Miller">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rene Peralta" initials="R." surname="Peralta">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ray Perlner" initials="R." surname="Perlner">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Angela Robinson" initials="A." surname="Robinson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Daniel Smith-Tone" initials="D." surname="Smith-Tone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jacob Alperin-Sheriff" initials="J." surname="Alperin-Sheriff">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

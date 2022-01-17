@@ -1,11 +1,19 @@
 <reference anchor="NBS.BH.4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing4.pdf">
   <front>
-    <title>How to own your home : a handbook for prospective home owners</title>
+    <title>How to own your home :a handbook for prospective home owners</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BH.4"/>
+    <seriesInfo name="NIST" value="NBS BH 4"/>
     <author fullname="John Gries" initials="J." surname="Gries"/>
     <author fullname="James Taylor" initials="J." surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1923"/>
   </front>

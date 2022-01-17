@@ -1,11 +1,19 @@
 <reference anchor="NBS.SP.260-27" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-27.pdf">
   <front>
-    <title>Standard Reference Materials : Uranium isotopic standard reference materials (certification of uranium isotopic standard reference materials)/</title>
+    <title>Standard Reference Materials :Uranium isotopic standard reference materials (certification of uranium isotopic standard reference materials)/</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-27"/>
+    <seriesInfo name="NIST" value="NBS SP 260-27"/>
     <author surname="Machlan"/>
     <author surname="Garner"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1971"/>
   </front>

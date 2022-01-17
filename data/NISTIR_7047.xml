@@ -2,6 +2,7 @@
   <front>
     <title>Satellite instrument calibration for measuring global climate change</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.7047"/>
+    <seriesInfo name="NIST" value="NIST IR 7047"/>
     <author fullname="George Ohring" initials="G." surname="Ohring"/>
     <author fullname="Bruce Wielicki" initials="B." surname="Wielicki"/>
     <author fullname="Roy Spencer" initials="R." surname="Spencer"/>
@@ -9,6 +10,13 @@
     <author fullname="Raju Datla" initials="R." surname="Datla"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

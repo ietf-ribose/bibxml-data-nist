@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6568" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6568.pdf">
   <front>
-    <title>A phase-field model with convection: sharp-interface asymptotics</title>
+    <title>A phase-field model with convection:sharp-interface asymptotics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6568"/>
+    <seriesInfo name="NIST" value="NIST IR 6568"/>
     <author surname="Anderson"/>
     <author surname="McFadden"/>
     <author surname="Wheeler"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2000"/>
   </front>

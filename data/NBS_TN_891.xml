@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.891" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote891.pdf">
   <front>
-    <title>Issues in fire vehicle replacement : user's views and synthesis</title>
+    <title>Issues in fire vehicle replacement :user's views and synthesis</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.891"/>
+    <seriesInfo name="NIST" value="NBS TN 891"/>
     <author fullname="Patsy Saunders" initials="P." surname="Saunders"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

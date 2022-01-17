@@ -1,12 +1,26 @@
 <reference anchor="NIST.AMS.300-6" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-6.pdf">
   <front>
-    <title>Securing the digital threat for smart manufacturing: a reference model for blockchain-based product data traceability</title>
+    <title>Securing the digital threat for smart manufacturing:a reference model for blockchain-based product data traceability</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-6"/>
-    <author fullname="Sylvere Krima" initials="S." surname="Krima"/>
-    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg"/>
-    <author fullname="Allison Barnard-Feeney" initials="A." surname="Barnard-Feeney"/>
+    <seriesInfo name="NIST" value="NIST AMS 300-6"/>
+    <author fullname="Sylvere Krima" initials="S." surname="Krima">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Allison Barnard-Feeney" initials="A." surname="Barnard-Feeney">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February"/>
   </front>

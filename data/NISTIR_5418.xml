@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.5418" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5418.pdf">
   <front>
-    <title>Workshop on characterizing diamond films III: February 23-24, 1994, Gaithersburg, MD</title>
+    <title>Workshop on characterizing diamond films III:February 23-24, 1994, Gaithersburg, MD</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5418"/>
+    <seriesInfo name="NIST" value="NIST IR 5418"/>
     <author fullname="Claude Klein" initials="C." surname="Klein"/>
     <author fullname="Grant Lu" initials="G." surname="Lu"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1994"/>
   </front>

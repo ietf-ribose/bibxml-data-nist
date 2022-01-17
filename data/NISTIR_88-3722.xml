@@ -1,11 +1,19 @@
 <reference anchor="NIST.IR.88-3722" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3722.pdf">
   <front>
-    <title>Advanced ceramics : a critical assessment of wear and lubrication</title>
+    <title>Advanced ceramics :a critical assessment of wear and lubrication</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3722"/>
+    <seriesInfo name="NIST" value="NIST IR 88-3722"/>
     <author surname="Munro"/>
     <author surname="Hsu"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1989"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.422v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication422v2.pdf">
   <front>
-    <title>Accuracy in trace analysis : sampling, sample handling, analysis Volume II</title>
+    <title>Accuracy in trace analysis :sampling, sample handling, analysis Volume II</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.422v2"/>
+    <seriesInfo name="NIST" value="NBS SP 422v2"/>
     <author fullname="Philip LaFleur" initials="P." surname="LaFleur"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1976"/>
   </front>

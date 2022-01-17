@@ -1,11 +1,19 @@
 <reference anchor="NBS.RPT.9572" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9572.pdf">
   <front>
-    <title>Capacity tests of four remote forced circulation refrigeration evaporators: manufactured by Thermo King Corporation</title>
+    <title>Capacity tests of four remote forced circulation refrigeration evaporators:manufactured by Thermo King Corporation</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.9572"/>
+    <seriesInfo name="NIST" value="NBS RPT 9572"/>
     <author fullname="Carl Phillips" initials="C." surname="Phillips"/>
     <author surname="Grimes"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1967"/>
   </front>

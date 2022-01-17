@@ -1,12 +1,20 @@
 <reference anchor="NBS.BSS.5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience5.pdf">
   <front>
-    <title>Interrelations between cement and concrete properties, part 2 : surfate expansion, heat of hydration, and autoclave expansion</title>
+    <title>Interrelations between cement and concrete properties, part 2 :surfate expansion, heat of hydration, and autoclave expansion</title>
     <seriesInfo name="DOI" value="10.6028/NBS.BSS.5"/>
+    <seriesInfo name="NIST" value="NBS BSS 5"/>
     <author surname="Blaine"/>
     <author surname="Arni"/>
     <author surname="Evans"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

@@ -1,12 +1,20 @@
 <reference anchor="NBS.IR.85-3272" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3272.pdf">
   <front>
-    <title>Technical activities 1985 : Center for Analytical Chemistry</title>
+    <title>Technical activities 1985 :Center for Analytical Chemistry</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3272"/>
+    <seriesInfo name="NIST" value="NBS IR 85-3272"/>
     <author surname="Durst"/>
     <author surname="Hertz"/>
     <author surname="Taylor"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

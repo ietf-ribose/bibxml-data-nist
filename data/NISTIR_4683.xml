@@ -2,11 +2,19 @@
   <front>
     <title>The validation testing laboratory user's guide</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.4683"/>
+    <seriesInfo name="NIST" value="NIST IR 4683"/>
     <author fullname="Newton Breese" initials="N." surname="Breese"/>
     <author fullname="Michael McLay" initials="M." surname="McLay"/>
     <author fullname="Gerard Silvernale" initials="G." surname="Silvernale"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1991"/>
   </front>

@@ -2,11 +2,25 @@
   <front>
     <title>Seismic design of steel buckling-restrained braced frames: a guide for practicing engineers</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-917-34"/>
-    <author fullname="Ryan Kersting" initials="R." surname="Kersting"/>
-    <author fullname="Larry Fahnestock" initials="L." surname="Fahnestock"/>
-    <author fullname="Walterio Lopez" initials="W." surname="Lopez"/>
+    <seriesInfo name="NIST" value="NIST GCR 15-917-34"/>
+    <author fullname="Ryan Kersting" initials="R." surname="Kersting">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Larry Fahnestock" initials="L." surname="Fahnestock">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Walterio Lopez" initials="W." surname="Lopez">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="September"/>
   </front>

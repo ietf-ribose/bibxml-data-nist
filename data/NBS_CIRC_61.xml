@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.61" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular61.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 61: specifications and tolerances for weights and measures and weighing and measuring devices</title>
+    <title>Circular of the Bureau of Standards no. 61:specifications and tolerances for weights and measures and weighing and measuring devices</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.61"/>
+    <seriesInfo name="NIST" value="NBS CIRC 61"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1916"/>
   </front>

@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.979" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote979.pdf">
   <front>
-    <title>Lead paint abatement costs : Some technical and theoretical considerations</title>
+    <title>Lead paint abatement costs :Some technical and theoretical considerations</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.979"/>
+    <seriesInfo name="NIST" value="NBS TN 979"/>
     <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1979"/>
   </front>

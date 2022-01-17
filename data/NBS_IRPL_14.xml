@@ -2,9 +2,19 @@
   <front>
     <title>A graphical method for calculating ground reflection coefficients</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IRPL.14"/>
-    <author fullname="Newbern Smith" initials="N." surname="Smith"/>
+    <seriesInfo name="NIST" value="NBS IRPL 14"/>
+    <author fullname="Newbern Smith" initials="N." surname="Smith">
+      <organization>Interservice Radio Propagation Laboratory.</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1945"/>
   </front>

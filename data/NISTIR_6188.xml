@@ -2,11 +2,19 @@
   <front>
     <title>A hybrid manufacturing system modeling environment using VRML</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6188"/>
+    <seriesInfo name="NIST" value="NIST IR 6188"/>
     <author fullname="Rangan Krishnamurthy" initials="R." surname="Krishnamurthy"/>
     <author surname="Shewchuk"/>
     <author fullname="Charles McLean" initials="C." surname="McLean"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

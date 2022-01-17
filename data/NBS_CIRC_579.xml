@@ -1,10 +1,18 @@
 <reference anchor="NBS.CIRC.579" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular579.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 579: underground corrosion</title>
+    <title>Circular of the Bureau of Standards no. 579:underground corrosion</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.579"/>
+    <seriesInfo name="NIST" value="NBS CIRC 579"/>
     <author fullname="Melvin Romanoff" initials="M." surname="Romanoff"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1957"/>
   </front>

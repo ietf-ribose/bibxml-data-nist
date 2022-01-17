@@ -2,8 +2,16 @@
   <front>
     <title>Ionospheric data</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL-F-A.246"/>
+    <seriesInfo name="NIST" value="NBS CRPL-F-A 246"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1965"/>
   </front>

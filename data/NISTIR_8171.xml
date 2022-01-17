@@ -2,13 +2,31 @@
   <front>
     <title>Contactless fingerprint devices usability test</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8171"/>
-    <author fullname="Susanne Furman" initials="S." surname="Furman"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton"/>
-    <author fullname="MaryFrances Theofanos" initials="M.F." surname="Theofanos"/>
-    <author fullname="John Libert" initials="J." surname="Libert"/>
-    <author fullname="John Grantham" initials="J." surname="Grantham"/>
+    <seriesInfo name="NIST" value="NIST IR 8171"/>
+    <author fullname="Susanne Furman" initials="S." surname="Furman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="MaryFrances Theofanos" initials="M.F." surname="Theofanos">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Libert" initials="J." surname="Libert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Grantham" initials="J." surname="Grantham">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="March"/>
   </front>

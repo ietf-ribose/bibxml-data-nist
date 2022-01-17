@@ -2,12 +2,20 @@
   <front>
     <title>User's guide for the SQL Test suite, version 6.0</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.5998"/>
+    <seriesInfo name="NIST" value="NIST IR 5998"/>
     <author fullname="David Flater" initials="D." surname="Flater"/>
     <author fullname="Leonard Gallagher" initials="L." surname="Gallagher"/>
     <author fullname="Shirley Hurwitz" initials="S." surname="Hurwitz"/>
     <author fullname="Joan Sullivan" initials="J." surname="Sullivan"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1996"/>
   </front>

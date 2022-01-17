@@ -2,12 +2,28 @@
   <front>
     <title>Thermal calibration of commercial melt pool monitoring sensors on a laser powder bed fusion system</title>
     <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-35"/>
-    <author fullname="Brandon Lane" initials="B." surname="Lane"/>
-    <author fullname="Lars Jacquemetton" initials="L." surname="Jacquemetton"/>
-    <author fullname="Martin Piltch" initials="M." surname="Piltch"/>
-    <author fullname="Darren Beckett" initials="D." surname="Beckett"/>
+    <seriesInfo name="NIST" value="NIST AMS 100-35"/>
+    <author fullname="Brandon Lane" initials="B." surname="Lane">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Lars Jacquemetton" initials="L." surname="Jacquemetton">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Martin Piltch" initials="M." surname="Piltch">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Darren Beckett" initials="D." surname="Beckett">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July"/>
   </front>

@@ -2,11 +2,19 @@
   <front>
     <title>Proceedings of the third cryocooler conference</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.698"/>
+    <seriesInfo name="NIST" value="NBS SP 698"/>
     <author fullname="Ray Radebaugh" initials="R." surname="Radebaugh"/>
     <author fullname="Beverly Louie" initials="B." surname="Louie"/>
     <author surname="McCarthy"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1985"/>
   </front>

@@ -1,7 +1,8 @@
 <reference anchor="NBS.IR.88-3090" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3090.pdf">
   <front>
-    <title>Break junctions I : interim report October 1, 1986 to September 31, 1987</title>
+    <title>Break junctions I :interim report October 1, 1986 to September 31, 1987</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3090"/>
+    <seriesInfo name="NIST" value="NBS IR 88-3090"/>
     <author fullname="John Moreland" initials="J." surname="Moreland"/>
     <author surname="Goodrich"/>
     <author surname="Elkin"/>
@@ -9,6 +10,13 @@
     <author surname="Clark"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>

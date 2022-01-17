@@ -2,12 +2,20 @@
   <front>
     <title>Compilation of elemental concentration data for NBS clinical, biological, geological, and environmental Standard Reference Materials</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-111"/>
+    <seriesInfo name="NIST" value="NBS SP 260-111"/>
     <author surname="Gladney"/>
     <author surname="O'Malley"/>
     <author surname="Roelandts"/>
     <author surname="Gills"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1987" month="November"/>
   </front>

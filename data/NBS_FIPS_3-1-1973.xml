@@ -2,8 +2,16 @@
   <front>
     <title>Federal Information Processing Standards Publication: recorded magnetic tape for information interchange (800 CPI, NRZI)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.FIPS.3-1-1973"/>
+    <seriesInfo name="NIST" value="NBS FIPS 3-1-1973"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

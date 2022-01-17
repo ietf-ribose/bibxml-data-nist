@@ -2,10 +2,18 @@
   <front>
     <title>NBS FORTRAN test programs version 1 and version 3</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-250"/>
+    <seriesInfo name="NIST" value="NBS IR 73-250"/>
     <author fullname="Frances Holberton" initials="F." surname="Holberton"/>
     <author fullname="Elizabeth Parker" initials="E." surname="Parker"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

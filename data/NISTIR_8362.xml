@@ -1,11 +1,20 @@
-<reference anchor="NISTIR.8362" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8362.pdf">
+<reference anchor="NIST.IR.8362" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8362.pdf">
   <front>
     <title>Survey on Gender, Equity and Inclusion</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8362"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
-    <author fullname="Jasmine Evans" initials="J." surname="Evans"/>
-    <author fullname="Justyna Zwolak" initials="J." surname="Zwolak"/>
-    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman"/>
+    <seriesInfo name="NIST" value="NIST IR 8362"/>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jasmine Evans" initials="J." surname="Evans">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Justyna Zwolak" initials="J." surname="Zwolak">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="SandraSpickard Prettyman" initials="S.S." surname="Prettyman">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

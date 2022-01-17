@@ -1,9 +1,17 @@
 <reference anchor="NBS.CIRC.199" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular199.pdf">
   <front>
-    <title>Circular of the Bureau of Standards no. 199: specification for hand-operated grain hopper scales</title>
+    <title>Circular of the Bureau of Standards no. 199:specification for hand-operated grain hopper scales</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CIRC.199"/>
+    <seriesInfo name="NIST" value="NBS CIRC 199"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1925"/>
   </front>

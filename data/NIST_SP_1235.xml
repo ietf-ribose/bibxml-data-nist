@@ -2,9 +2,19 @@
   <front>
     <title>Summary of workshop on global overview of large outdoor fire standards</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1235"/>
-    <author fullname="Samuel Manzello" initials="S." surname="Manzello"/>
+    <seriesInfo name="NIST" value="NIST SP 1235"/>
+    <author fullname="Samuel Manzello" initials="S." surname="Manzello">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February"/>
   </front>

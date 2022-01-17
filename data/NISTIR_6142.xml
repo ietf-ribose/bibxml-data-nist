@@ -1,12 +1,20 @@
 <reference anchor="NIST.IR.6142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6142.pdf">
   <front>
-    <title>NIST Manufacturing Process Planning and CAME Workshop: workshop proceedings, Marriott Hotel, Gaithersburg, MD, June 10-11, 1996</title>
+    <title>NIST Manufacturing Process Planning and CAME Workshop:workshop proceedings, Marriott Hotel, Gaithersburg, MD, June 10-11, 1996</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6142"/>
+    <seriesInfo name="NIST" value="NIST IR 6142"/>
     <author fullname="Mike Smith" initials="M." surname="Smith"/>
     <author fullname="Swee Leong" initials="S." surname="Leong"/>
     <author fullname="William Regli" initials="W." surname="Regli"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1998"/>
   </front>

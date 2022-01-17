@@ -1,11 +1,19 @@
 <reference anchor="NBS.IR.73-212" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-212.pdf">
   <front>
-    <title>LEAA police equipment survey of 1972 volume III : sirens and emergency warning lights</title>
+    <title>LEAA police equipment survey of 1972 volume III :sirens and emergency warning lights</title>
     <seriesInfo name="DOI" value="10.6028/NBS.IR.73-212"/>
+    <seriesInfo name="NIST" value="NBS IR 73-212"/>
     <author surname="Klaus"/>
     <author surname="Bunten"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1973"/>
   </front>

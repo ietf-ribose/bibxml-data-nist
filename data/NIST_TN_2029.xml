@@ -2,13 +2,31 @@
   <front>
     <title>A computable general equilibrium model of cedar rapids</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2029"/>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson"/>
-    <author fullname="Juan Fung" initials="J." surname="Fung"/>
-    <author fullname="Cheyney O'Fallon" initials="C." surname="O'Fallon"/>
-    <author fullname="David Webb" initials="D." surname="Webb"/>
-    <author fullname="Harvey Cutler" initials="H." surname="Cutler"/>
+    <seriesInfo name="NIST" value="NIST TN 2029"/>
+    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Juan Fung" initials="J." surname="Fung">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Cheyney O'Fallon" initials="C." surname="O'Fallon">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="David Webb" initials="D." surname="Webb">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Harvey Cutler" initials="H." surname="Cutler">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September"/>
   </front>

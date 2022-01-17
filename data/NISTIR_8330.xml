@@ -1,10 +1,17 @@
-<reference anchor="NISTIR.8330" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8330.pdf">
+<reference anchor="NIST.IR.8330" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8330.pdf">
   <front>
     <title>Research Report: User Perceptions of Smart Home Privacy and Security</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8330"/>
-    <author fullname="Julie Haney" initials="J." surname="Haney"/>
-    <author fullname="Susanne Furman" initials="S." surname="Furman"/>
-    <author fullname="Yasemin Acar" initials="Y." surname="Acar"/>
+    <seriesInfo name="NIST" value="NIST IR 8330"/>
+    <author fullname="Julie Haney" initials="J." surname="Haney">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Susanne Furman" initials="S." surname="Furman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Yasemin Acar" initials="Y." surname="Acar">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

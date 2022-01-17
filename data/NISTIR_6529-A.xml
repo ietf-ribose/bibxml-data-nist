@@ -2,6 +2,7 @@
   <front>
     <title>Common biometric exchange formats framework (CBEFF)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6529-a"/>
+    <seriesInfo name="NIST" value="NIST IR 6529-a"/>
     <author fullname="Fernando Podio" initials="F." surname="Podio"/>
     <author fullname="Jeffrey Dunn" initials="J." surname="Dunn"/>
     <author fullname="Lawrence Reinert" initials="L." surname="Reinert"/>
@@ -15,6 +16,13 @@
     <author fullname="Brigitte Wirtz" initials="B." surname="Wirtz"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

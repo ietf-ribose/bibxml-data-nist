@@ -1,7 +1,8 @@
 <reference anchor="NIST.IR.6563" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6563.pdf">
   <front>
-    <title>Fire safety of passenger trains; phase III : evaluation of fire hazard analysis using full-scale passenger rail car tests</title>
+    <title>Fire safety of passenger trains; phase III :evaluation of fire hazard analysis using full-scale passenger rail car tests</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.6563"/>
+    <seriesInfo name="NIST" value="NIST IR 6563"/>
     <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
     <author fullname="Jason Averill" initials="J." surname="Averill"/>
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
@@ -10,6 +11,13 @@
     <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2004"/>
   </front>

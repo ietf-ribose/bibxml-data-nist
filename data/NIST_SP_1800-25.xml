@@ -2,11 +2,22 @@
   <front>
     <title>Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events</title>
     <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-25"/>
-    <author fullname="Jennifer Cawthra" initials="J." surname="Cawthra"/>
-    <author fullname="Michael Ekstrom" initials="M." surname="Ekstrom"/>
-    <author fullname="Lauren Lusty" initials="L." surname="Lusty"/>
-    <author fullname="Julian Sexton" initials="J." surname="Sexton"/>
-    <author fullname="John Sweetnam" initials="J." surname="Sweetnam"/>
+    <seriesInfo name="NIST" value="NIST SP 1800-25"/>
+    <author fullname="Jennifer Cawthra" initials="J." surname="Cawthra">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Ekstrom" initials="M." surname="Ekstrom">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lauren Lusty" initials="L." surname="Lusty">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Julian Sexton" initials="J." surname="Sexton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Sweetnam" initials="J." surname="Sweetnam">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

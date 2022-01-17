@@ -1,9 +1,17 @@
 <reference anchor="NBS.RPT.6263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6263.pdf">
   <front>
-    <title>Manual on experimental statistics for ordnance engineers: draft of part IV (miscellaneous topics)</title>
+    <title>Manual on experimental statistics for ordnance engineers:draft of part IV (miscellaneous topics)</title>
     <seriesInfo name="DOI" value="10.6028/NBS.RPT.6263"/>
+    <seriesInfo name="NIST" value="NBS RPT 6263"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1959"/>
   </front>

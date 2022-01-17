@@ -2,10 +2,22 @@
   <front>
     <title>Cathode heater compensation as applied to degenerative DC power supply</title>
     <seriesInfo name="DOI" value="10.6028/NBS.CRPL.9-9"/>
-    <author surname="Ellenwood"/>
-    <author surname="Sorrows"/>
+    <seriesInfo name="NIST" value="NBS CRPL 9-9"/>
+    <author surname="Ellenwood">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
+    <author surname="Sorrows">
+      <organization>Central Radio Propogation Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1949"/>
   </front>

@@ -2,12 +2,28 @@
   <front>
     <title>White paper on fire behavior of steel structures</title>
     <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-984"/>
-    <author fullname="Maria Garlock" initials="M." surname="Garlock"/>
-    <author fullname="Joel Kruppa" initials="J." surname="Kruppa"/>
-    <author fullname="Guo-Qiang Li" initials="G." surname="Li"/>
-    <author fullname="Bin Zhao" initials="B." surname="Zhao"/>
+    <seriesInfo name="NIST" value="NIST GCR 15-984"/>
+    <author fullname="Maria Garlock" initials="M." surname="Garlock">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joel Kruppa" initials="J." surname="Kruppa">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Guo-Qiang Li" initials="G." surname="Li">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Bin Zhao" initials="B." surname="Zhao">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="September"/>
   </front>

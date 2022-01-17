@@ -1,10 +1,18 @@
 <reference anchor="NBS.SP.260-74" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-74.pdf">
   <front>
-    <title>Standard Reference Materials : Preparation and characterization of K-411 and K-412 mineral glasses for microanalysis /</title>
+    <title>Standard Reference Materials :Preparation and characterization of K-411 and K-412 mineral glasses for microanalysis /</title>
     <seriesInfo name="DOI" value="10.6028/NBS.SP.260-74"/>
+    <seriesInfo name="NIST" value="NBS SP 260-74"/>
     <author surname="Marinenko"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1982"/>
   </front>

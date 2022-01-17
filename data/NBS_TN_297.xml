@@ -1,10 +1,18 @@
 <reference anchor="NBS.TN.297" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote297.pdf">
   <front>
-    <title>Evaluation of information systems : a selected bibliography with informative abstracts</title>
+    <title>Evaluation of information systems :a selected bibliography with informative abstracts</title>
     <seriesInfo name="DOI" value="10.6028/NBS.TN.297"/>
+    <seriesInfo name="NIST" value="NBS TN 297"/>
     <author fullname="Madeline Henderson" initials="M." surname="Henderson"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1966"/>
   </front>

@@ -2,12 +2,28 @@
   <front>
     <title>A tool to model the Fate and Transport of Indoor Microbiological Aerosols (FaTIMA)</title>
     <seriesInfo name="DOI" value="10.6028/NIST.TN.2095"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
-    <author fullname="Brian Polidoro" initials="B." surname="Polidoro"/>
-    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
+    <seriesInfo name="NIST" value="NIST TN 2095"/>
+    <author fullname="Stuart Dols" initials="S." surname="Dols">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Brian Polidoro" initials="B." surname="Polidoro">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="June"/>
   </front>

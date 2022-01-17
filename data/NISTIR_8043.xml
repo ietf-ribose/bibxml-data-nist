@@ -2,7 +2,10 @@
   <front>
     <title>Determination of the Compliance of NIST Charpy Impact Machines</title>
     <seriesInfo name="DOI" value="10.6028/NIST.IR.8043"/>
-    <author fullname="Enrico Lucon" initials="E." surname="Lucon"/>
+    <seriesInfo name="NIST" value="NIST IR 8043"/>
+    <author fullname="Enrico Lucon" initials="E." surname="Lucon">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>

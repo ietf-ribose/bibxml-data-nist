@@ -2,8 +2,16 @@
   <front>
     <title>Federal Information Processing Standards Publication: X window system version 11 release 5 (X window system protocol; Xlib-C langauge X interface; X toolkit intrinsics</title>
     <seriesInfo name="DOI" value="10.6028/NIST.FIPS.158-1"/>
+    <seriesInfo name="NIST" value="NIST FIPS 158-1"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="1988"/>
   </front>
