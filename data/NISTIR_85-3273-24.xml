@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.85-3273-24" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir85-3273-24.pdf">
   <front>
     <title>Energy price indices and discount factors for life-cycle cost analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-24"/>
-    <seriesInfo name="NIST" value="NIST IR 85-3273-24"/>
-    <author fullname="Amy Rushing" initials="A." surname="Rushing"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
+    <author fullname="Amy Rushing" initials="S" surname="Rushing">
+      <organization/>
+    </author>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-24"/>
+  <seriesInfo name="NIST" value="NIST IR 85-3273-24"/>
 </reference>

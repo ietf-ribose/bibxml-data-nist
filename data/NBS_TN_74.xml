@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.74" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote74.pdf">
   <front>
     <title>Scattering of cobalt-60 gamma radiation in air ducts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.74"/>
-    <seriesInfo name="NIST" value="NBS TN 74"/>
-    <author fullname="WJ Anson" initials="W." surname="Anson"/>
-    <author fullname="Charles Eisenhauer" initials="C." surname="Eisenhauer"/>
+    <author fullname="WJ Anson" initials="W." surname="Anson">
+      <organization/>
+    </author>
+    <author fullname="Charles Eisenhauer" initials="C." surname="Eisenhauer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.74"/>
+  <seriesInfo name="NIST" value="NBS TN 74"/>
 </reference>

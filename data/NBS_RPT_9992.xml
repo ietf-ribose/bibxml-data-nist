@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9992" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9992.pdf">
   <front>
     <title>Report on the performance of asbestos fiber-base built-up roofs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9992"/>
-    <seriesInfo name="NIST" value="NBS RPT 9992"/>
-    <author fullname="Thomas Boone" initials="T." surname="Boone"/>
+    <author fullname="Thomas Boone" initials="H" surname="Boone">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9992"/>
+  <seriesInfo name="NIST" value="NBS RPT 9992"/>
 </reference>

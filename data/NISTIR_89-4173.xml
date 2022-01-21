@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4173" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4173.pdf">
   <front>
     <title>Corrosion behavior of mild steel in high pH aqueous media</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4173"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4173"/>
-    <author fullname="Anna Fraker" initials="A." surname="Fraker"/>
-    <author fullname="Jonice Harris" initials="J." surname="Harris"/>
+    <author fullname="Anna Fraker" initials="C" surname="Fraker">
+      <organization/>
+    </author>
+    <author fullname="Jonice Harris" initials="S" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4173"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4173"/>
 </reference>

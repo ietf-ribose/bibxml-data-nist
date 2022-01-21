@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-24" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-24.pdf">
   <front>
     <title>Performance assurance and data integrity practices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-24"/>
-    <seriesInfo name="NIST" value="NBS SP 500-24"/>
-    <author fullname="Robert Patrick" initials="R." surname="Patrick"/>
-    <author fullname="Robert Blanc" initials="R." surname="Blanc"/>
+    <author fullname="Robert Patrick" initials="L" surname="Patrick">
+      <organization/>
+    </author>
+    <author fullname="Robert Blanc" initials="P" surname="Blanc">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-24"/>
+  <seriesInfo name="NIST" value="NBS SP 500-24"/>
 </reference>

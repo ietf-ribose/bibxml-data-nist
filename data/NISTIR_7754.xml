@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7754" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7754.pdf">
   <front>
     <title>Experiments in parallel fingerprint matching</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7754"/>
-    <seriesInfo name="NIST" value="NIST IR 7754"/>
-    <author fullname="Antoine Fillinger" initials="A." surname="Fillinger"/>
-    <author fullname="Lukas Diduch" initials="L." surname="Diduch"/>
-    <author fullname="Imad Hamchi" initials="I." surname="Hamchi"/>
-    <author fullname="Vincent Stanford" initials="V." surname="Stanford"/>
+    <author fullname="Antoine Fillinger" initials="A." surname="Fillinger">
+      <organization/>
+    </author>
+    <author fullname="Lukas Diduch" initials="L." surname="Diduch">
+      <organization/>
+    </author>
+    <author fullname="Imad Hamchi" initials="I." surname="Hamchi">
+      <organization/>
+    </author>
+    <author fullname="Vincent Stanford" initials="V." surname="Stanford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7754"/>
+  <seriesInfo name="NIST" value="NIST IR 7754"/>
 </reference>

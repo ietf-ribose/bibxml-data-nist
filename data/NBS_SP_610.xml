@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.610" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication610.pdf">
   <front>
     <title>Telecommunication technologies, networking and libraries</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.610"/>
-    <seriesInfo name="NIST" value="NBS SP 610"/>
-    <author fullname="Nancy Knight" initials="N." surname="Knight"/>
+    <author fullname="Nancy Knight" initials="H" surname="Knight">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.610"/>
+  <seriesInfo name="NIST" value="NBS SP 610"/>
 </reference>

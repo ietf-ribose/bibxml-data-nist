@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1923" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1923.pdf">
   <front>
     <title>Residential Solar Data Center grant reports</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1923"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1923"/>
-    <author fullname="Patricia Christopher" initials="P." surname="Christopher"/>
-    <author fullname="Martin Aronoff" initials="M." surname="Aronoff"/>
+    <author fullname="Patricia Christopher" initials="M" surname="Christopher">
+      <organization/>
+    </author>
+    <author fullname="Martin Aronoff" initials="J" surname="Aronoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1923"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1923"/>
 </reference>

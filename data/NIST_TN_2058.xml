@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2058" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2058.pdf">
   <front>
     <title>IREX validation dataset 2019</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2058"/>
-    <seriesInfo name="NIST" value="NIST TN 2058"/>
-    <author fullname="James Matey" initials="J." surname="Matey">
+    <author fullname="James Matey" initials="R" surname="Matey">
       <organization>Information Technology Laboratory.</organization>
     </author>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory.</organization>
     </author>
-    <author fullname="Patrick Grother" initials="P." surname="Grother">
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2058"/>
+  <seriesInfo name="NIST" value="NIST TN 2058"/>
 </reference>

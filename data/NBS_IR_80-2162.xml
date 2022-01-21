@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2162.pdf">
   <front>
     <title>Technical activities 1980 :Office of Nondestructive Evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2162"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2162"/>
-    <author fullname="Harold Berger" initials="H." surname="Berger"/>
-    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin"/>
+    <author fullname="Harold Berger" initials="H." surname="Berger">
+      <organization/>
+    </author>
+    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2162"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2162"/>
 </reference>

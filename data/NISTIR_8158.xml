@@ -1,24 +1,22 @@
 <reference anchor="NIST.IR.8158" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8158.pdf">
   <front>
     <title>Usability testing of a contactless fingerprint device: part 1</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8158"/>
-    <seriesInfo name="NIST" value="NIST IR 8158"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+    <author fullname="Brian Stanton" initials="C" surname="Stanton">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="MaryFrances Theofanos" initials="M.F." surname="Theofanos">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Susanne Furman" initials="S." surname="Furman">
+    <author fullname="Susanne Furman" initials="M" surname="Furman">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Libert" initials="J." surname="Libert">
+    <author fullname="John Libert" initials="M" surname="Libert">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Grantham" initials="J." surname="Grantham">
+    <author fullname="John Grantham" initials="D" surname="Grantham">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8158"/>
+  <seriesInfo name="NIST" value="NIST IR 8158"/>
 </reference>

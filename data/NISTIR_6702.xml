@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.6702" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6702.pdf">
   <front>
     <title>Persistent chlorinated compounds and elements in tissues of Cook Inlet Beluga Whales, Delphinapterus leucas, banked by the Alaska Marine Mammal Tissue Archival Project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6702"/>
-    <seriesInfo name="NIST" value="NIST IR 6702"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
-    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp"/>
-    <author fullname="Michael Epstein" initials="M." surname="Epstein"/>
-    <author fullname="MaryKate Donais" initials="M.K." surname="Donais"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
-    <author fullname="Barbara Mahoney" initials="B." surname="Mahoney"/>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Mackey" initials="A" surname="Mackey">
+      <organization/>
+    </author>
+    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp">
+      <organization/>
+    </author>
+    <author fullname="Michael Epstein" initials="S" surname="Epstein">
+      <organization/>
+    </author>
+    <author fullname="MaryKate Donais" initials="M.K." surname="Donais">
+      <organization/>
+    </author>
+    <author fullname="Barbara Porter" initials="J" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
+    <author fullname="Barbara Mahoney" initials="A" surname="Mahoney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6702"/>
+  <seriesInfo name="NIST" value="NIST IR 6702"/>
 </reference>

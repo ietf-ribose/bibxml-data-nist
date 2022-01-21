@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9909" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9909.pdf">
   <front>
     <title>Impact properties of aluminum alloy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9909"/>
-    <seriesInfo name="NIST" value="NBS RPT 9909"/>
-    <author surname="Feinberg"/>
+    <author initials="IJ" surname="Feinberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9909"/>
+  <seriesInfo name="NIST" value="NBS RPT 9909"/>
 </reference>

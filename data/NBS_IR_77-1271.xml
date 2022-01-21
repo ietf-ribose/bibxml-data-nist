@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1271" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1271.pdf">
   <front>
     <title>Method of testing, rating and estimating the seasonal performance of central air-conditioners and heat pumps operating in the cooling mode</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1271"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1271"/>
-    <author surname="Kelly"/>
-    <author surname="Parken"/>
+    <author initials="GE" surname="Kelly">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Parken">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1271"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1271"/>
 </reference>

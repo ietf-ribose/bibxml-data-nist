@@ -1,9 +1,7 @@
 <reference anchor="NBS.CRPL.4-m-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-m-5.pdf">
   <front>
     <title>The effect of fading on the desired-to-undesired signal ratio required to provide a specified grade of service for a given percentage of a specified period of time</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.4-m-5"/>
-    <seriesInfo name="NIST" value="NBS CRPL 4-m-5"/>
-    <author fullname="Kenneth Norton" initials="K." surname="Norton">
+    <author fullname="Kenneth Norton" initials="A" surname="Norton">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.4-m-5"/>
+  <seriesInfo name="NIST" value="NBS CRPL 4-m-5"/>
 </reference>

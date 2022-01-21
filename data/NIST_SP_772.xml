@@ -1,16 +1,30 @@
 <reference anchor="NIST.SP.772" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication772.pdf">
   <front>
     <title>Intelligent processing for primary metals</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.772"/>
-    <seriesInfo name="NIST" value="NIST SP 772"/>
-    <author surname="Cramb"/>
-    <author surname="Cramb"/>
-    <author fullname="WE,Jr Eckhart" initials="W.J." surname="Eckhart"/>
-    <author surname="Watanapongse"/>
-    <author surname="Early"/>
-    <author surname="Kor"/>
-    <author surname="Sussman"/>
-    <author fullname="V,Jr Clark" initials="V.J." surname="Clark"/>
+    <author initials="A" surname="Cramb">
+      <organization/>
+    </author>
+    <author initials="A" surname="Cramb">
+      <organization/>
+    </author>
+    <author fullname="WE,Jr Eckhart" initials="W.J." surname="Eckhart">
+      <organization/>
+    </author>
+    <author initials="D" surname="Watanapongse">
+      <organization/>
+    </author>
+    <author initials="J" surname="Early">
+      <organization/>
+    </author>
+    <author initials="J" surname="Kor">
+      <organization/>
+    </author>
+    <author initials="R" surname="Sussman">
+      <organization/>
+    </author>
+    <author fullname="V,Jr Clark" initials="A" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.772"/>
+  <seriesInfo name="NIST" value="NIST SP 772"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-2158" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2158.pdf">
   <front>
     <title>Some considerations regarding film thickness standards for the semiconductor industry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2158"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2158"/>
-    <author fullname="James Ehrstein" initials="J." surname="Ehrstein"/>
+    <author fullname="James Ehrstein" initials="R" surname="Ehrstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2158"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2158"/>
 </reference>

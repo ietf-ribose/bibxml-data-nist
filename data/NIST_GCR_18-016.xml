@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.18-016" target="https://nvlpubs.nist.gov/nistpubs/gcr/2018/NIST.GCR.18-016.pdf">
   <front>
     <title>User instructions and technical details for 500 mm GHP simulation programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-016"/>
-    <seriesInfo name="NIST" value="NIST GCR 18-016"/>
-    <author fullname="William Thomas" initials="W." surname="Thomas">
+    <author fullname="William Thomas" initials="C" surname="Thomas">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-016"/>
+  <seriesInfo name="NIST" value="NIST GCR 18-016"/>
 </reference>

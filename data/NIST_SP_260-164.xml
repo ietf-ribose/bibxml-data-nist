@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-164" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-164.pdf">
   <front>
     <title>Evaluation specimens for Izod impact machines (SRM 2115) :report of analysis/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-164"/>
-    <seriesInfo name="NIST" value="NIST SP 260-164"/>
-    <author fullname="Jolene Splett" initials="J." surname="Splett"/>
-    <author fullname="Tom Siewert" initials="T." surname="Siewert"/>
+    <author fullname="Jolene Splett" initials="J." surname="Splett">
+      <organization/>
+    </author>
+    <author fullname="Tom Siewert" initials="T." surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-164"/>
+  <seriesInfo name="NIST" value="NIST SP 260-164"/>
 </reference>

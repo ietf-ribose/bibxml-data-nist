@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub1.pdf">
   <front>
     <title>Manual of inspection and information for weights and measures officials/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.1"/>
-    <seriesInfo name="NIST" value="NBS MP 1"/>
-    <author surname="Holbrook"/>
+    <author initials="FS" surname="Holbrook">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1918"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.1"/>
+  <seriesInfo name="NIST" value="NBS MP 1"/>
 </reference>

@@ -1,21 +1,19 @@
 <reference anchor="NIST.TN.2057" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2057.pdf">
   <front>
     <title>Effect of strain rate on glass fiber failure process in a glass fiberepoxy model composite</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2057"/>
-    <seriesInfo name="NIST" value="NIST TN 2057"/>
     <author fullname="JaeHyun Kim" initials="J.H." surname="Kim">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Steven Mates" initials="S." surname="Mates">
+    <author fullname="Steven Mates" initials="P" surname="Mates">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+    <author fullname="Alan Heckert" initials="N" surname="Heckert">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Jeremiah Woodcock" initials="J." surname="Woodcock">
+    <author fullname="Jeremiah Woodcock" initials="W" surname="Woodcock">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Gale Holmes" initials="G." surname="Holmes">
+    <author fullname="Gale Holmes" initials="A" surname="Holmes">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2057"/>
+  <seriesInfo name="NIST" value="NIST TN 2057"/>
 </reference>

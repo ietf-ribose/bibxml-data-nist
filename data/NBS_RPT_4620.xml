@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.4620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4620.pdf">
   <front>
     <title>Performance of a Donaldson oil bath air cleaner Model A 10574</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4620"/>
-    <seriesInfo name="NIST" value="NBS RPT 4620"/>
-    <author fullname="Carl Coblentz" initials="C." surname="Coblentz"/>
+    <author fullname="Carl Coblentz" initials="W" surname="Coblentz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4620"/>
+  <seriesInfo name="NIST" value="NBS RPT 4620"/>
 </reference>

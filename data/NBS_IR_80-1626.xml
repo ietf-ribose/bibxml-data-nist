@@ -1,8 +1,6 @@
 <reference anchor="NBS.IR.80-1626" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1626.pdf">
   <front>
     <title>Liquefied natural gas research at the National Bureau of Standards :Progress report for the period 1 July</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1626"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1626"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1626"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1626"/>
 </reference>

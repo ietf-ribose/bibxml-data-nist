@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience42.pdf">
   <front>
     <title>Design loads for inserts embedded in concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.42"/>
-    <seriesInfo name="NIST" value="NBS BSS 42"/>
-    <author surname="Reichard"/>
-    <author surname="Carpenter"/>
-    <author surname="Leyendecker"/>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
+    <author initials="EF" surname="Carpenter">
+      <organization/>
+    </author>
+    <author initials="EV" surname="Leyendecker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.42"/>
+  <seriesInfo name="NIST" value="NBS BSS 42"/>
 </reference>

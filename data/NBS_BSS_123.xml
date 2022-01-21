@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience123.pdf">
   <front>
     <title>The Effect of moisture on the thermal conductance of roofing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.123"/>
-    <seriesInfo name="NIST" value="NBS BSS 123"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
-    <author fullname="David Jenkins" initials="D." surname="Jenkins"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
+    <author fullname="Lawrence Knab" initials="I" surname="Knab">
+      <organization/>
+    </author>
+    <author fullname="David Jenkins" initials="R" surname="Jenkins">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.123"/>
+  <seriesInfo name="NIST" value="NBS BSS 123"/>
 </reference>

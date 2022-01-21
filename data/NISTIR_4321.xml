@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4321" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4321.pdf">
   <front>
     <title>On the expected complexity of the 3-dimensional Voronoi diagram</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4321"/>
-    <seriesInfo name="NIST" value="NIST IR 4321"/>
-    <author surname="Bernal"/>
+    <author initials="J" surname="Bernal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4321"/>
+  <seriesInfo name="NIST" value="NIST IR 4321"/>
 </reference>

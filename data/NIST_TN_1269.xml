@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1269" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1269.pdf">
   <front>
     <title>Manual for the cement hydration simulation model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1269"/>
-    <seriesInfo name="NIST" value="NIST TN 1269"/>
-    <author fullname="Leslie Struble" initials="L." surname="Struble"/>
+    <author fullname="Leslie Struble" initials="J" surname="Struble">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1269"/>
+  <seriesInfo name="NIST" value="NIST TN 1269"/>
 </reference>

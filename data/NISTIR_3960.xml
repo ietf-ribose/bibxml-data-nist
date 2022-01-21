@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3960" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3960.pdf">
   <front>
     <title>Microstructure, composition, and hardness of Rockwell C Hardness blocks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3960"/>
-    <seriesInfo name="NIST" value="NIST IR 3960"/>
-    <author surname="Siewert"/>
-    <author surname="Tomer"/>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="A" surname="Tomer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3960"/>
+  <seriesInfo name="NIST" value="NIST IR 3960"/>
 </reference>

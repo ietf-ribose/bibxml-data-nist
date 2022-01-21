@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.863" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication863.pdf">
   <front>
     <title>U.S. Green Building Conference-1994</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.863"/>
-    <seriesInfo name="NIST" value="NIST SP 863"/>
-    <author surname="Fanney"/>
-    <author surname="Fanney"/>
-    <author surname="Whitter"/>
-    <author surname="Traugott"/>
-    <author surname="Simon"/>
+    <author initials="AH" surname="Fanney">
+      <organization/>
+    </author>
+    <author initials="AH" surname="Fanney">
+      <organization/>
+    </author>
+    <author initials="KM" surname="Whitter">
+      <organization/>
+    </author>
+    <author initials="AE" surname="Traugott">
+      <organization/>
+    </author>
+    <author initials="LN" surname="Simon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.863"/>
+  <seriesInfo name="NIST" value="NIST SP 863"/>
 </reference>

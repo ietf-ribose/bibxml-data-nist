@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.6524" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6524.pdf">
   <front>
     <title>Information models for design tolerancing:from conceptual to the detail design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6524"/>
-    <seriesInfo name="NIST" value="NIST IR 6524"/>
-    <author surname="Sudarsan"/>
-    <author surname="Roy"/>
-    <author surname="Narahari"/>
-    <author fullname="RD Sriram" initials="R." surname="Sriram"/>
-    <author surname="Lyons"/>
-    <author surname="Pramanik"/>
+    <author initials="R" surname="Sudarsan">
+      <organization/>
+    </author>
+    <author initials="U" surname="Roy">
+      <organization/>
+    </author>
+    <author initials="Y" surname="Narahari">
+      <organization/>
+    </author>
+    <author fullname="RD Sriram" initials="R." surname="Sriram">
+      <organization/>
+    </author>
+    <author initials="KW" surname="Lyons">
+      <organization/>
+    </author>
+    <author initials="N" surname="Pramanik">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6524"/>
+  <seriesInfo name="NIST" value="NIST IR 6524"/>
 </reference>

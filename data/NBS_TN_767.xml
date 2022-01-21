@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.767" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote767.pdf">
   <front>
     <title>Microelectronic interconnection bonding with ribbon wire</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.767"/>
-    <seriesInfo name="NIST" value="NBS TN 767"/>
-    <author surname="Kessler"/>
+    <author initials="HK" surname="Kessler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.767"/>
+  <seriesInfo name="NIST" value="NBS TN 767"/>
 </reference>

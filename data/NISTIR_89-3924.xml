@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-3924" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3924.pdf">
   <front>
     <title>Near-field gain of pyramidal horns from 18 to 40 GHz</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3924"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3924"/>
-    <author fullname="David Hill" initials="D." surname="Hill"/>
-    <author fullname="Richard Ehret" initials="R." surname="Ehret"/>
+    <author fullname="David Hill" initials="A" surname="Hill">
+      <organization/>
+    </author>
+    <author fullname="Richard Ehret" initials="L" surname="Ehret">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3924"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3924"/>
 </reference>

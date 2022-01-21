@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.7263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7263.pdf">
   <front>
     <title>Healthcare strategic focus area :clinical informatics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7263"/>
-    <seriesInfo name="NIST" value="NIST IR 7263"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="Lisa Carnahan" initials="L." surname="Carnahan"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Michael Gruninger" initials="M." surname="Gruninger"/>
-    <author fullname="Vipul Kashyap" initials="V." surname="Kashyap"/>
-    <author fullname="Bettijoyce Lide" initials="B." surname="Lide"/>
-    <author fullname="James Nell" initials="J." surname="Nell"/>
-    <author fullname="Ravi Raman" initials="R." surname="Raman"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="Lisa Carnahan" initials="L." surname="Carnahan">
+      <organization/>
+    </author>
+    <author fullname="Steven Fenves" initials="S." surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Michael Gruninger" initials="M." surname="Gruninger">
+      <organization/>
+    </author>
+    <author fullname="Vipul Kashyap" initials="V." surname="Kashyap">
+      <organization/>
+    </author>
+    <author fullname="Bettijoyce Lide" initials="B." surname="Lide">
+      <organization/>
+    </author>
+    <author fullname="James Nell" initials="J." surname="Nell">
+      <organization/>
+    </author>
+    <author fullname="Ravi Raman" initials="R." surname="Raman">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7263"/>
+  <seriesInfo name="NIST" value="NIST IR 7263"/>
 </reference>

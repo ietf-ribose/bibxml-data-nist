@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.422" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote422.pdf">
   <front>
     <title>Activities of the NBS spectrochemical analysis section, July 1966 to June 1967.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.422"/>
-    <seriesInfo name="NIST" value="NBS TN 422"/>
-    <author fullname="Bourdon Scribner" initials="B." surname="Scribner"/>
+    <author fullname="Bourdon Scribner" initials="F" surname="Scribner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.422"/>
+  <seriesInfo name="NIST" value="NBS TN 422"/>
 </reference>

@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.7880-36" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7880-36.pdf">
   <front>
     <title>NIST Micronutrients Measurement Quality Assurance Program Winter, Spring, and Fall 1988 Comparability Studies: Results for Round Robins XII, XIII, and XIV Fat-Soluble Vitamins and Carotenoids in Human Serum</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7880-36"/>
-    <seriesInfo name="NIST" value="NIST IR 7880-36"/>
-    <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas">
+    <author fullname="Jeanice Brown Thomas" initials="M" surname="Brown Thomas">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="David Duewer" initials="D." surname="Duewer">
+    <author fullname="David Duewer" initials="L" surname="Duewer">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Margaret Kline" initials="M." surname="Kline">
+    <author fullname="Margaret Kline" initials="C" surname="Kline">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Willie May" initials="W." surname="May">
+    <author fullname="Willie May" initials="E" surname="May">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7880-36"/>
+  <seriesInfo name="NIST" value="NIST IR 7880-36"/>
 </reference>

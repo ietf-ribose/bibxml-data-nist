@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6245" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6245.pdf">
   <front>
     <title>Federal Register document image database:NIST Special Database 25</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6245"/>
-    <seriesInfo name="NIST" value="NIST IR 6245"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris"/>
-    <author fullname="Stanley Janet" initials="S." surname="Janet"/>
-    <author fullname="William Klein" initials="W." surname="Klein"/>
+    <author fullname="Michael Garris" initials="D" surname="Garris">
+      <organization/>
+    </author>
+    <author fullname="Stanley Janet" initials="A" surname="Janet">
+      <organization/>
+    </author>
+    <author fullname="William Klein" initials="W" surname="Klein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6245"/>
+  <seriesInfo name="NIST" value="NIST IR 6245"/>
 </reference>

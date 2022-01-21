@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-42.pdf">
   <front>
     <title>Spectroradiometric detector measurements :part III- infrared detectors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-42"/>
-    <seriesInfo name="NIST" value="NIST SP 250-42"/>
-    <author fullname="Alan Migdall" initials="A." surname="Migdall"/>
-    <author fullname="George Eppedauer" initials="G." surname="Eppedauer"/>
+    <author fullname="Alan Migdall" initials="L" surname="Migdall">
+      <organization/>
+    </author>
+    <author fullname="George Eppedauer" initials="P" surname="Eppedauer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-42"/>
+  <seriesInfo name="NIST" value="NIST SP 250-42"/>
 </reference>

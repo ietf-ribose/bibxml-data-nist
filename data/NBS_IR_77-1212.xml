@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1212" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1212.pdf">
   <front>
     <title>Life Cycle costing :an assessment of practicability for consumer products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1212"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1212"/>
-    <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
-    <author fullname="Justin Kim" initials="J." surname="Kim"/>
-    <author fullname="Howard Hung" initials="H." surname="Hung"/>
+    <author fullname="Wayne Stiefel" initials="S" surname="Stiefel">
+      <organization/>
+    </author>
+    <author fullname="Justin Kim" initials="S" surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="Howard Hung" initials="H." surname="Hung">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1212"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1212"/>
 </reference>

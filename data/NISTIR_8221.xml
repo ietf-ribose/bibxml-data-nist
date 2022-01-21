@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8221" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8221.pdf">
   <front>
     <title>Methodology for enabling forensic analysis using hypervisor vulnerabilities data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8221"/>
-    <seriesInfo name="NIST" value="NIST IR 8221"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8221"/>
+  <seriesInfo name="NIST" value="NIST IR 8221"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5944" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5944.pdf">
   <front>
     <title>Failure analysis of welded steel moment frames damaged in the Northridge Earthquake</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5944"/>
-    <seriesInfo name="NIST" value="NIST IR 5944"/>
-    <author fullname="Eric Kaufmann" initials="E." surname="Kaufmann"/>
-    <author fullname="John Fisher" initials="J." surname="Fisher"/>
-    <author fullname="RogerDiJr Julio" initials="R.D.J." surname="Julio"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
+    <author fullname="Eric Kaufmann" initials="J" surname="Kaufmann">
+      <organization/>
+    </author>
+    <author fullname="John Fisher" initials="W" surname="Fisher">
+      <organization/>
+    </author>
+    <author fullname="RogerDiJr Julio" initials="M" surname="Julio">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5944"/>
+  <seriesInfo name="NIST" value="NIST IR 5944"/>
 </reference>

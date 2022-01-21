@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4688" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4688.pdf">
   <front>
     <title>Prototyping the IRDS:an airport application</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4688"/>
-    <seriesInfo name="NIST" value="NIST IR 4688"/>
-    <author fullname="Anthony Sani" initials="A." surname="Sani"/>
+    <author fullname="Anthony Sani" initials="P" surname="Sani">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4688"/>
+  <seriesInfo name="NIST" value="NIST IR 4688"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6177" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6177.pdf">
   <front>
     <title>A viscoelastic constitutive model for creep response of polyurethane rubber</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6177"/>
-    <seriesInfo name="NIST" value="NIST IR 6177"/>
-    <author fullname="Vincent Rouiller" initials="V." surname="Rouiller"/>
-    <author fullname="Gregory McKenna" initials="G." surname="McKenna"/>
+    <author fullname="Vincent Rouiller" initials="V." surname="Rouiller">
+      <organization/>
+    </author>
+    <author fullname="Gregory McKenna" initials="B" surname="McKenna">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6177"/>
+  <seriesInfo name="NIST" value="NIST IR 6177"/>
 </reference>

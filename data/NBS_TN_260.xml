@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.260" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote260.pdf">
   <front>
     <title>Research on crystal growth and characterization at the National Bureau of Standards July to December 1964</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.260"/>
-    <seriesInfo name="NIST" value="NBS TN 260"/>
-    <author fullname="Howard McMurdie" initials="H." surname="McMurdie"/>
+    <author fullname="Howard McMurdie" initials="F" surname="McMurdie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.260"/>
+  <seriesInfo name="NIST" value="NBS TN 260"/>
 </reference>

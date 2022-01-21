@@ -1,11 +1,15 @@
 <reference anchor="NBS.TN.498-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote498-2.pdf">
   <front>
     <title>Bibliographies on fabric flammability, Part 5. Testing and test methods.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.498-2"/>
-    <seriesInfo name="NIST" value="NBS TN 498-2"/>
-    <author fullname="Sidney Greenfeld" initials="S." surname="Greenfeld"/>
-    <author fullname="Elizabeth Warner" initials="E." surname="Warner"/>
-    <author fullname="Hilda, Reinhart" initials="H." surname="Reinhart"/>
+    <author fullname="Sidney Greenfeld" initials="H" surname="Greenfeld">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Warner" initials="R" surname="Warner">
+      <organization/>
+    </author>
+    <author fullname="Hilda, Reinhart" initials="W" surname="Reinhart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.498-2"/>
+  <seriesInfo name="NIST" value="NBS TN 498-2"/>
 </reference>

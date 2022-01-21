@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1230" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1230.pdf">
   <front>
     <title>Community resilience-focused technical investigation of the 2016 Lumberton, North Carolina flood:multi-disciplinary approach</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1230"/>
-    <seriesInfo name="NIST" value="NIST SP 1230"/>
-    <author fullname="John van de Lindt" initials="J." surname="van de Lindt">
+    <author fullname="John van de Lindt" initials="W" surname="van de Lindt">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Walter Gillis Peacock" initials="W." surname="Gillis Peacock">
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1230"/>
+  <seriesInfo name="NIST" value="NIST SP 1230"/>
 </reference>

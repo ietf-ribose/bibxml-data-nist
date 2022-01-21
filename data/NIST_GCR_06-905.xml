@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.06-905" target="https://nvlpubs.nist.gov/nistpubs/gcr/2006/gcr06_905.pdf">
   <front>
     <title>A model for directional hurricane wind speeds</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.06-905"/>
-    <seriesInfo name="NIST" value="NIST GCR 06-905"/>
     <author fullname="Mircea Grigoriu" initials="M." surname="Grigoriu">
       <organization>Building and Fire Research Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.06-905"/>
+  <seriesInfo name="NIST" value="NIST GCR 06-905"/>
 </reference>

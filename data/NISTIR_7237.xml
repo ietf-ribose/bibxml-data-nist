@@ -1,19 +1,39 @@
 <reference anchor="NIST.IR.7237" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7237.pdf">
   <front>
     <title>Chemical and physical characterization of poly(p-phenylene-2, 6-benzobisoxazole) fibers used in body armor</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7237"/>
-    <seriesInfo name="NIST" value="NIST IR 7237"/>
-    <author fullname="Joannie Chin" initials="J." surname="Chin"/>
-    <author fullname="Eric Byrd" initials="E." surname="Byrd"/>
-    <author fullname="Amanda Forster" initials="A." surname="Forster"/>
-    <author fullname="Xiaohong Gu" initials="X." surname="Gu"/>
-    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
-    <author fullname="Walter Rossiter" initials="W." surname="Rossiter"/>
-    <author fullname="Stephanie Scierka" initials="S." surname="Scierka"/>
-    <author fullname="Lipiin Sung" initials="L." surname="Sung"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
-    <author fullname="John Sieber" initials="J." surname="Sieber"/>
-    <author fullname="Kirk Rice" initials="K." surname="Rice"/>
+    <author fullname="Joannie Chin" initials="J." surname="Chin">
+      <organization/>
+    </author>
+    <author fullname="Eric Byrd" initials="E." surname="Byrd">
+      <organization/>
+    </author>
+    <author fullname="Amanda Forster" initials="A." surname="Forster">
+      <organization/>
+    </author>
+    <author fullname="Xiaohong Gu" initials="X." surname="Gu">
+      <organization/>
+    </author>
+    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
+      <organization/>
+    </author>
+    <author fullname="Walter Rossiter" initials="W." surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Scierka" initials="S." surname="Scierka">
+      <organization/>
+    </author>
+    <author fullname="Lipiin Sung" initials="L." surname="Sung">
+      <organization/>
+    </author>
+    <author fullname="Paul Stutzman" initials="P." surname="Stutzman">
+      <organization/>
+    </author>
+    <author fullname="John Sieber" initials="J." surname="Sieber">
+      <organization/>
+    </author>
+    <author fullname="Kirk Rice" initials="K." surname="Rice">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7237"/>
+  <seriesInfo name="NIST" value="NIST IR 7237"/>
 </reference>

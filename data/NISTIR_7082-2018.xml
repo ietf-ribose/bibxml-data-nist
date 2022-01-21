@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.7082-2018" target="http://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.7082-2018.pdf">
   <front>
     <title>Proficiency test policy and plan for state weights &amp; measures laboratories (2018 ed)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7082-2018"/>
-    <seriesInfo name="NIST" value="NIST IR 7082-2018"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris">
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Eason">
+    <author initials="LF" surname="Eason">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Ken Fraley" initials="K." surname="Fraley">
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="February" day="21"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7082-2018"/>
+  <seriesInfo name="NIST" value="NIST IR 7082-2018"/>
 </reference>

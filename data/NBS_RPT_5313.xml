@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.5313" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5313.pdf">
   <front>
     <title>Strength and rigidity of lap welded splices in precast reinforced concrete framing members</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5313"/>
-    <seriesInfo name="NIST" value="NBS RPT 5313"/>
-    <author surname="Skoda"/>
-    <author surname="Kirstein"/>
-    <author surname="Watstein"/>
+    <author initials="LF" surname="Skoda">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Kirstein">
+      <organization/>
+    </author>
+    <author initials="D" surname="Watstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5313"/>
+  <seriesInfo name="NIST" value="NBS RPT 5313"/>
 </reference>

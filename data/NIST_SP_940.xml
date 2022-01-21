@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.940" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication940.pdf">
   <front>
     <title>NIST international and academic activities for FY 19971998</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.940"/>
-    <seriesInfo name="NIST" value="NIST SP 940"/>
-    <author fullname="Marian McCurley" initials="M." surname="McCurley"/>
-    <author fullname="Marian McCurley" initials="M." surname="McCurley"/>
+    <author fullname="Marian McCurley" initials="F" surname="McCurley">
+      <organization/>
+    </author>
+    <author fullname="Marian McCurley" initials="F" surname="McCurley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.940"/>
+  <seriesInfo name="NIST" value="NIST SP 940"/>
 </reference>

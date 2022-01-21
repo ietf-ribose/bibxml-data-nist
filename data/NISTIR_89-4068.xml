@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4068" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4068.pdf">
   <front>
     <title>Building technology project summaries 1989</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4068"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4068"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4068"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4068"/>
 </reference>

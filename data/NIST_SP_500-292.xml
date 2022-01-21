@@ -1,15 +1,27 @@
 <reference anchor="NIST.SP.500-292" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-292.pdf">
   <front>
     <title>NIST cloud computing reference architecture</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-292"/>
-    <seriesInfo name="NIST" value="NIST SP 500-292"/>
-    <author fullname="Fang Liu" initials="F." surname="Liu"/>
-    <author fullname="Jin Tong" initials="J." surname="Tong"/>
-    <author fullname="Jian Mao" initials="J." surname="Mao"/>
-    <author fullname="Robert Bohn" initials="R." surname="Bohn"/>
-    <author fullname="John Messina" initials="J." surname="Messina"/>
-    <author fullname="Lee Badger" initials="L." surname="Badger"/>
-    <author fullname="Dawn Leaf" initials="D." surname="Leaf"/>
+    <author fullname="Fang Liu" initials="F." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="Jin Tong" initials="J." surname="Tong">
+      <organization/>
+    </author>
+    <author fullname="Jian Mao" initials="J." surname="Mao">
+      <organization/>
+    </author>
+    <author fullname="Robert Bohn" initials="R." surname="Bohn">
+      <organization/>
+    </author>
+    <author fullname="John Messina" initials="J." surname="Messina">
+      <organization/>
+    </author>
+    <author fullname="Lee Badger" initials="L." surname="Badger">
+      <organization/>
+    </author>
+    <author fullname="Dawn Leaf" initials="D." surname="Leaf">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-292"/>
+  <seriesInfo name="NIST" value="NIST SP 500-292"/>
 </reference>

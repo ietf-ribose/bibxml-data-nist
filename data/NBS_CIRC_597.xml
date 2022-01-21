@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.597" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular597.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 597:energy spectrum resulting from electron slowing down</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.597"/>
-    <seriesInfo name="NIST" value="NBS CIRC 597"/>
-    <author fullname="Rosemary McGinnies" initials="R." surname="McGinnies"/>
+    <author fullname="Rosemary McGinnies" initials="T" surname="McGinnies">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.597"/>
+  <seriesInfo name="NIST" value="NBS CIRC 597"/>
 </reference>

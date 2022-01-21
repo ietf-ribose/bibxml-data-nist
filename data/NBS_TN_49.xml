@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.49" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote49.pdf">
   <front>
     <title>Dynamic measurements of the magnetoelastic properties of ferrites</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.49"/>
-    <seriesInfo name="NIST" value="NBS TN 49"/>
-    <author fullname="Virgil Bottom" initials="V." surname="Bottom"/>
+    <author fullname="Virgil Bottom" initials="E" surname="Bottom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.49"/>
+  <seriesInfo name="NIST" value="NBS TN 49"/>
 </reference>

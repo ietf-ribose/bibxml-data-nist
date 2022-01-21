@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.75-958" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-958.pdf">
   <front>
     <title>Simulated precipitation reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-958"/>
-    <seriesInfo name="NIST" value="NBS IR 75-958"/>
-    <author surname="Taylor"/>
-    <author surname="Deardorff"/>
-    <author surname="Durst"/>
-    <author surname="Maienthal"/>
-    <author surname="Rains"/>
-    <author surname="Scheide"/>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Deardorff">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Durst">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Maienthal">
+      <organization/>
+    </author>
+    <author initials="TC" surname="Rains">
+      <organization/>
+    </author>
+    <author initials="EP" surname="Scheide">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-958"/>
+  <seriesInfo name="NIST" value="NBS IR 75-958"/>
 </reference>

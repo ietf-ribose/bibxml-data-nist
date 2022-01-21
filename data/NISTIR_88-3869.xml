@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3869" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3869.pdf">
   <front>
     <title>Center for Radiation Research :1986 technical activities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3869"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3869"/>
-    <author fullname="Chris Kuyatt" initials="C." surname="Kuyatt"/>
+    <author fullname="Chris Kuyatt" initials="E" surname="Kuyatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3869"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3869"/>
 </reference>

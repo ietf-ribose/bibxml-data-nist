@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-140A" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140A.pdf">
   <front>
     <title>CMVP documentation requirements:CMVP validation authority updates to ISOIEC 24759</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140A"/>
-    <seriesInfo name="NIST" value="NIST SP 800-140A"/>
     <author fullname="Kim Schaffer" initials="K." surname="Schaffer">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140A"/>
+  <seriesInfo name="NIST" value="NIST SP 800-140A"/>
 </reference>

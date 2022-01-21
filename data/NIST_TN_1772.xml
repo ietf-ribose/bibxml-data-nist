@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1772" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1772.pdf">
   <front>
     <title>Survey Report for Ambulance Patient Compartment Design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1772"/>
-    <seriesInfo name="NIST" value="NIST TN 1772"/>
     <author fullname="Jennifer Marshall" initials="J." surname="Marshall">
       <organization>Law Enforcement Standards Office, Special Programs Office</organization>
     </author>
-    <author fullname="Tina Lee" initials="T." surname="Lee">
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
       <organization>Law Enforcement Standards Office, Special Programs Office</organization>
     </author>
     <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney">
@@ -27,4 +25,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1772"/>
+  <seriesInfo name="NIST" value="NIST TN 1772"/>
 </reference>

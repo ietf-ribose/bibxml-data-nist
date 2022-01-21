@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1070" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1070.pdf">
   <front>
     <title>Report of the 92nd National Conference on Weights and Measures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1070"/>
-    <seriesInfo name="NIST" value="NIST SP 1070"/>
-    <author fullname="Linda Crown" initials="L." surname="Crown"/>
-    <author fullname="Lynn Sebring" initials="L." surname="Sebring"/>
+    <author fullname="Linda Crown" initials="L." surname="Crown">
+      <organization/>
+    </author>
+    <author fullname="Lynn Sebring" initials="L." surname="Sebring">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1070"/>
+  <seriesInfo name="NIST" value="NIST SP 1070"/>
 </reference>

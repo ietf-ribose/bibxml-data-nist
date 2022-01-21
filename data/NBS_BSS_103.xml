@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.103" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience103.pdf">
   <front>
     <title>Exploratory study of glowing electrical connections</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.103"/>
-    <seriesInfo name="NIST" value="NBS BSS 103"/>
-    <author fullname="William Meese" initials="W." surname="Meese"/>
-    <author fullname="RobertW Beausoliel" initials="R." surname="Beausoliel"/>
+    <author fullname="William Meese" initials="J" surname="Meese">
+      <organization/>
+    </author>
+    <author fullname="RobertW Beausoliel" initials="R." surname="Beausoliel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.103"/>
+  <seriesInfo name="NIST" value="NBS BSS 103"/>
 </reference>

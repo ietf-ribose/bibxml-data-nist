@@ -1,13 +1,21 @@
 <reference anchor="NIST.NCSTAR.1-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-4.pdf">
   <front>
     <title>Active fire protection systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-4"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-4"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+      <organization/>
+    </author>
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
+      <organization/>
+    </author>
+    <author fullname="William Grosshandler" initials="L" surname="Grosshandler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-4"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-4"/>
 </reference>

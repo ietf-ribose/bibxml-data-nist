@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-22" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-22.pdf">
   <front>
     <title>Guide to computer program directories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-22"/>
-    <seriesInfo name="NIST" value="NBS SP 500-22"/>
-    <author fullname="Addie Chattie" initials="A." surname="Chattie"/>
+    <author fullname="Addie Chattie" initials="G" surname="Chattie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-22"/>
+  <seriesInfo name="NIST" value="NBS SP 500-22"/>
 </reference>

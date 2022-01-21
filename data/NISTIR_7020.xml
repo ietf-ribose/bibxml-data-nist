@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7020" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7020.pdf">
   <front>
     <title>Studies of fingerprint matching using the NIST verification test bed (VTB)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7020"/>
-    <seriesInfo name="NIST" value="NIST IR 7020"/>
-    <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris"/>
-    <author fullname="Austin Hicklin" initials="A." surname="Hicklin"/>
+    <author fullname="Charles Wilson" initials="L" surname="Wilson">
+      <organization/>
+    </author>
+    <author fullname="Craig Watson" initials="I" surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Michael Garris" initials="D" surname="Garris">
+      <organization/>
+    </author>
+    <author fullname="Austin Hicklin" initials="A." surname="Hicklin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7020"/>
+  <seriesInfo name="NIST" value="NIST IR 7020"/>
 </reference>

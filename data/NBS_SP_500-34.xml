@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-34" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-34.pdf">
   <front>
     <title>UNIVAC 1108 exec level 32R2 performance handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-34"/>
-    <seriesInfo name="NIST" value="NBS SP 500-34"/>
-    <author fullname="John Kelly" initials="J." surname="Kelly"/>
-    <author fullname="Gary Route" initials="G." surname="Route"/>
+    <author fullname="John Kelly" initials="C" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Gary Route" initials="P" surname="Route">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-34"/>
+  <seriesInfo name="NIST" value="NBS SP 500-34"/>
 </reference>

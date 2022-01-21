@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4232" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4232.pdf">
   <front>
     <title>Packet-oriented communication using a stream protocol or making TCPIP on Berkley UNIX a little more pleasant to use</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4232"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4232"/>
-    <author fullname="Don Libes" initials="D." surname="Libes"/>
+    <author fullname="Don Libes" initials="D." surname="Libes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4232"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4232"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4175" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4175.pdf">
   <front>
     <title>Post-occupancy evaluation of several U.S. government buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4175"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4175"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="Mubarek Dahir" initials="M." surname="Dahir"/>
-    <author fullname="Peter Goodin" initials="P." surname="Goodin"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="Mubarek Dahir" initials="S" surname="Dahir">
+      <organization/>
+    </author>
+    <author fullname="Peter Goodin" initials="J" surname="Goodin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4175"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4175"/>
 </reference>

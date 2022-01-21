@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6000.pdf">
   <front>
     <title>NIST reactor:summary of activities, October 1995 through September 1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6000"/>
-    <seriesInfo name="NIST" value="NIST IR 6000"/>
-    <author fullname="Linda Clutter" initials="L." surname="Clutter"/>
+    <author fullname="Linda Clutter" initials="K" surname="Clutter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6000"/>
+  <seriesInfo name="NIST" value="NIST IR 6000"/>
 </reference>

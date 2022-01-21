@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.494" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular494.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 494:plastics research and technology at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.494"/>
-    <seriesInfo name="NIST" value="NBS CIRC 494"/>
-    <author fullname="Gordon Kline" initials="G." surname="Kline"/>
+    <author fullname="Gordon Kline" initials="M" surname="Kline">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.494"/>
+  <seriesInfo name="NIST" value="NBS CIRC 494"/>
 </reference>

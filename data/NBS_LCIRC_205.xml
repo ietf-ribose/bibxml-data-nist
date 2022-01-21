@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.205" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular205.pdf">
   <front>
     <title>Letter Circular 205:sound proof partitions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.205"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 205"/>
-    <author fullname="PR Heyl" initials="P." surname="Heyl"/>
+    <author fullname="PR Heyl" initials="P." surname="Heyl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.205"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 205"/>
 </reference>

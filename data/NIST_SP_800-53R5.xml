@@ -1,11 +1,11 @@
 <reference anchor="NIST.SP.800-53r5" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf">
   <front>
     <title>Security and Privacy Controls for Information Systems and Organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53r5"/>
-    <seriesInfo name="NIST" value="NIST SP 800-53r5"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="2020" month="September" day="23"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53r5"/>
+  <seriesInfo name="NIST" value="NIST SP 800-53r5"/>
 </reference>

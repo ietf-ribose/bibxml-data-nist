@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-502" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-502.pdf">
   <front>
     <title>The determination of iodine-129 at natural levels using neutron activation and isotopic separation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-502"/>
-    <seriesInfo name="NIST" value="NBS IR 74-502"/>
-    <author fullname="Harry Rook" initials="H." surname="Rook"/>
-    <author fullname="James Suddueth" initials="J." surname="Suddueth"/>
-    <author fullname="Donald Becker" initials="D." surname="Becker"/>
+    <author fullname="Harry Rook" initials="L" surname="Rook">
+      <organization/>
+    </author>
+    <author fullname="James Suddueth" initials="E" surname="Suddueth">
+      <organization/>
+    </author>
+    <author fullname="Donald Becker" initials="A" surname="Becker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-502"/>
+  <seriesInfo name="NIST" value="NBS IR 74-502"/>
 </reference>

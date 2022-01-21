@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.76-982" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-982.pdf">
   <front>
     <title>Data processing and data analysis procedures for fire load and live load survey program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-982"/>
-    <seriesInfo name="NIST" value="NBS IR 76-982"/>
-    <author fullname="Robert McCabe" initials="R." surname="McCabe"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
-    <author fullname="Larry Lee" initials="L." surname="Lee"/>
-    <author fullname="Joseph Hirschberg" initials="J." surname="Hirschberg"/>
+    <author fullname="Robert McCabe" initials="M" surname="McCabe">
+      <organization/>
+    </author>
+    <author fullname="Charles Culver" initials="C." surname="Culver">
+      <organization/>
+    </author>
+    <author fullname="Larry Lee" initials="T" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Joseph Hirschberg" initials="G" surname="Hirschberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-982"/>
+  <seriesInfo name="NIST" value="NBS IR 76-982"/>
 </reference>

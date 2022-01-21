@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1766" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1766.pdf">
   <front>
     <title>Workshop Report for Ambulance Patient Compartment Design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1766"/>
-    <seriesInfo name="NIST" value="NIST TN 1766"/>
     <author fullname="Allison Barnard Feeney" initials="A." surname="Barnard Feeney">
       <organization>Systems Integration Division, Engineering Laboratory</organization>
     </author>
     <author fullname="Deogratias Kibira" initials="D." surname="Kibira">
       <organization>Systems Integration Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="Yung-Tsun Lee" initials="Y." surname="Lee">
+    <author fullname="Yung-Tsun Lee" initials="T" surname="Lee">
       <organization>Systems Integration Division, Engineering Laboratory</organization>
     </author>
     <author fullname="Jennifer Marshall" initials="J." surname="Marshall">
@@ -27,4 +25,6 @@
     </author>
     <date year="2012" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1766"/>
+  <seriesInfo name="NIST" value="NIST TN 1766"/>
 </reference>

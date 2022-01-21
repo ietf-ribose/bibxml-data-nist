@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.205" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote205.pdf">
   <front>
     <title>Numerical calculations for reflection of electromagnetic waves from a lossy magnetoplasma</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.205"/>
-    <seriesInfo name="NIST" value="NBS TN 205"/>
-    <author fullname="Lillie Walters" initials="L." surname="Walters"/>
+    <author fullname="Lillie Walters" initials="C" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.205"/>
+  <seriesInfo name="NIST" value="NBS TN 205"/>
 </reference>

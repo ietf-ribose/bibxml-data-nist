@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1238" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1238.pdf">
   <front>
     <title>Report of the 103rd national conference on weights and measures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1238"/>
-    <seriesInfo name="NIST" value="NIST SP 1238"/>
     <author fullname="Breyanna Blackwell" initials="B." surname="Blackwell">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2019" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1238"/>
+  <seriesInfo name="NIST" value="NIST SP 1238"/>
 </reference>

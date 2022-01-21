@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5415" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5415.pdf">
   <front>
     <title>A user profile for researchers studying objects:implications for computer systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5415"/>
-    <seriesInfo name="NIST" value="NIST IR 5415"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5415"/>
+  <seriesInfo name="NIST" value="NIST IR 5415"/>
 </reference>

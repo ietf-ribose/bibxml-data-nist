@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6517" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6517.pdf">
   <front>
     <title>A spline algorithm for modeling cutting errors on turning centers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6517"/>
-    <seriesInfo name="NIST" value="NIST IR 6517"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Herbert Brandy" initials="H." surname="Brandy"/>
-    <author fullname="Alice Ling" initials="A." surname="Ling"/>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Herbert Brandy" initials="T" surname="Brandy">
+      <organization/>
+    </author>
+    <author fullname="Alice Ling" initials="V" surname="Ling">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6517"/>
+  <seriesInfo name="NIST" value="NIST IR 6517"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.827" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular827.pdf">
   <front>
     <title>Letter Circular 827:sunlamps, therapeutic lamps; ultraviolet and infrared lamps (supersedes Letter Circular 631)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.827"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 827"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.827"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 827"/>
 </reference>

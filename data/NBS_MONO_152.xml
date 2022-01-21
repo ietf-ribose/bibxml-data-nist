@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.152" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph152.pdf">
   <front>
     <title>A Gage block measurement process using single wavelength interferometry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.152"/>
-    <seriesInfo name="NIST" value="NBS MONO 152"/>
-    <author fullname="John Beers" initials="J." surname="Beers"/>
+    <author fullname="John Beers" initials="S" surname="Beers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.152"/>
+  <seriesInfo name="NIST" value="NBS MONO 152"/>
 </reference>

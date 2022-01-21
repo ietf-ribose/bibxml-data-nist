@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.19" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote19.pdf">
   <front>
     <title>Analysis of ionospheric vertical soundings for electron density profile data. II, Extrapolation of observed electron density profiles above hmax F2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.19"/>
-    <seriesInfo name="NIST" value="NBS TN 19"/>
-    <author surname="Wright"/>
+    <author initials="JW" surname="Wright">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.19"/>
+  <seriesInfo name="NIST" value="NBS TN 19"/>
 </reference>

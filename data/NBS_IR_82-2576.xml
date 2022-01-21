@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2576" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2576.pdf">
   <front>
     <title>A semiautomatic ACDC thermal voltage converter calibration system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2576"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2576"/>
-    <author surname="Lentner"/>
-    <author surname="Tremaine"/>
+    <author initials="KJ" surname="Lentner">
+      <organization/>
+    </author>
+    <author initials="SG" surname="Tremaine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2576"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2576"/>
 </reference>

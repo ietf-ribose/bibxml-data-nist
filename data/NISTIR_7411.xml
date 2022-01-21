@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7411" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7411.pdf">
   <front>
     <title>The architecture development facilitator (ADF) first year report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7411"/>
-    <seriesInfo name="NIST" value="NIST IR 7411"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
-    <author fullname="Puja Goyal" initials="P." surname="Goyal"/>
-    <author fullname="Jean-Cyrus Angbo" initials="J." surname="Angbo"/>
-    <author fullname="Faouzi Daoud" initials="F." surname="Daoud"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization/>
+    </author>
+    <author fullname="Puja Goyal" initials="P." surname="Goyal">
+      <organization/>
+    </author>
+    <author fullname="Jean-Cyrus Angbo" initials="J." surname="Angbo">
+      <organization/>
+    </author>
+    <author fullname="Faouzi Daoud" initials="F." surname="Daoud">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7411"/>
+  <seriesInfo name="NIST" value="NIST IR 7411"/>
 </reference>

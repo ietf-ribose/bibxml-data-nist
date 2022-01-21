@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.1052" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1052.pdf">
   <front>
     <title>Accomplishments in nanotechnology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1052"/>
-    <seriesInfo name="NIST" value="NIST SP 1052"/>
-    <author fullname="Michael Postek" initials="M." surname="Postek"/>
-    <author fullname="Michael Postek" initials="M." surname="Postek"/>
-    <author fullname="Joseph Kopanski" initials="J." surname="Kopanski"/>
-    <author fullname="David Wollman" initials="D." surname="Wollman"/>
+    <author fullname="Michael Postek" initials="T" surname="Postek">
+      <organization/>
+    </author>
+    <author fullname="Michael Postek" initials="T" surname="Postek">
+      <organization/>
+    </author>
+    <author fullname="Joseph Kopanski" initials="J." surname="Kopanski">
+      <organization/>
+    </author>
+    <author fullname="David Wollman" initials="D." surname="Wollman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1052"/>
+  <seriesInfo name="NIST" value="NIST SP 1052"/>
 </reference>

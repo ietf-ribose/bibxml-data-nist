@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-702" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-702.pdf">
   <front>
     <title>Design criteria for firefighters' turnout coats</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-702"/>
-    <seriesInfo name="NIST" value="NBS IR 75-702"/>
-    <author surname="Eisele"/>
+    <author initials="JW" surname="Eisele">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-702"/>
+  <seriesInfo name="NIST" value="NBS IR 75-702"/>
 </reference>

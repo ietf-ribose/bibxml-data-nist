@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-114.pdf">
   <front>
     <title>User's guide to securing external devices for telework and remote access</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-114"/>
-    <seriesInfo name="NIST" value="NIST SP 800-114"/>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Souppaya">
+    <author initials="MP" surname="Souppaya">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-114"/>
+  <seriesInfo name="NIST" value="NIST SP 800-114"/>
 </reference>

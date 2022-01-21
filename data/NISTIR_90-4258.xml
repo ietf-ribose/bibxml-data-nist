@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.90-4258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4258.pdf">
   <front>
     <title>The evaluation of thermal bridges using a mobile test facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4258"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4258"/>
-    <author fullname="Jin Fang" initials="J." surname="Fang"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
+    <author fullname="Jin Fang" initials="B" surname="Fang">
+      <organization/>
+    </author>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4258"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4258"/>
 </reference>

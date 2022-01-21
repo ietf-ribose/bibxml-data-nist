@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1135.pdf">
   <front>
     <title>Radiation-hardness testing of electronic devices :a survey of facility dosimetry practices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1135"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1135"/>
-    <author surname="Humphreys"/>
-    <author surname="Chappell"/>
+    <author initials="JC" surname="Humphreys">
+      <organization/>
+    </author>
+    <author initials="SE" surname="Chappell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1135"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1135"/>
 </reference>

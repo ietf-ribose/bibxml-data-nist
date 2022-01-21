@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4318" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4318.pdf">
   <front>
     <title>Exhaust gas analysis for harmful species:19F1A fire fighting trainer at Mayport, Florida</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4318"/>
-    <seriesInfo name="NIST" value="NIST IR 4318"/>
-    <author fullname="Robert Levine" initials="R." surname="Levine"/>
-    <author fullname="Kevin Greenaugh" initials="K." surname="Greenaugh"/>
+    <author fullname="Robert Levine" initials="S" surname="Levine">
+      <organization/>
+    </author>
+    <author fullname="Kevin Greenaugh" initials="K." surname="Greenaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4318"/>
+  <seriesInfo name="NIST" value="NIST IR 4318"/>
 </reference>

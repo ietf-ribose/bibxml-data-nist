@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.260-185" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-185.pdf">
   <front>
     <title>Method for measuring the diameter of polystyrene latex reference spheres by atomic force microscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-185"/>
-    <seriesInfo name="NIST" value="NIST SP 260-185"/>
     <author fullname="John Dagata" initials="J." surname="Dagata">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-185"/>
+  <seriesInfo name="NIST" value="NIST SP 260-185"/>
 </reference>

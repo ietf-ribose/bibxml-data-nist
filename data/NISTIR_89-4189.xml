@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4189" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4189.pdf">
   <front>
     <title>AMRF part model extensions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4189"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4189"/>
-    <author fullname="Allison Barnard" initials="A." surname="Barnard"/>
+    <author fullname="Allison Barnard" initials="A." surname="Barnard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4189"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4189"/>
 </reference>

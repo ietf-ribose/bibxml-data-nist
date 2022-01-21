@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-103" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-103.pdf">
   <front>
     <title>Future information processing technology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-103"/>
-    <seriesInfo name="NIST" value="NBS SP 500-103"/>
-    <author fullname="Peg Kay" initials="P." surname="Kay"/>
-    <author fullname="Patricia Powell" initials="P." surname="Powell"/>
+    <author fullname="Peg Kay" initials="P." surname="Kay">
+      <organization/>
+    </author>
+    <author fullname="Patricia Powell" initials="P." surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-103"/>
+  <seriesInfo name="NIST" value="NBS SP 500-103"/>
 </reference>

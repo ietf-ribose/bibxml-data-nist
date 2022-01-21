@@ -1,11 +1,15 @@
 <reference anchor="NBS.TN.1113-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1113-2.pdf">
   <front>
     <title>Highway noise criteria study :outdoor/indoor noise isolation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1113-2"/>
-    <seriesInfo name="NIST" value="NBS TN 1113-2"/>
-    <author fullname="Paul Donavan" initials="P." surname="Donavan"/>
-    <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
-    <author fullname="Simone Yaniv" initials="S." surname="Yaniv"/>
+    <author fullname="Paul Donavan" initials="R" surname="Donavan">
+      <organization/>
+    </author>
+    <author fullname="Daniel Flynn" initials="R" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="Simone Yaniv" initials="L" surname="Yaniv">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1113-2"/>
+  <seriesInfo name="NIST" value="NBS TN 1113-2"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.799" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular799.pdf">
   <front>
     <title>Letter Circular 799:export trade expansion and retention through certification of quality (supersedes Letter Circular 618)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.799"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 799"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.799"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 799"/>
 </reference>

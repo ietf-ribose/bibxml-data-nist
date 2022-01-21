@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8196" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8196.pdf">
   <front>
     <title>Security analysis of first responder mobile and wearable devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8196"/>
-    <seriesInfo name="NIST" value="NIST IR 8196"/>
-    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+    <author fullname="Joshua Franklin" initials="M" surname="Franklin">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Gema Howell" initials="G." surname="Howell">
@@ -12,7 +10,7 @@
     <author fullname="Scott Ledgerwood" initials="S." surname="Ledgerwood">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jaydee Griffith" initials="J." surname="Griffith">
+    <author fullname="Jaydee Griffith" initials="L" surname="Griffith">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2020" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8196"/>
+  <seriesInfo name="NIST" value="NIST IR 8196"/>
 </reference>

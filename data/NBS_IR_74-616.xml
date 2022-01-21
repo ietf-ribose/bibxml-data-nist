@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-616" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-616.pdf">
   <front>
     <title>Parcel post and you</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-616"/>
-    <seriesInfo name="NIST" value="NBS IR 74-616"/>
-    <author fullname="Joel Kramer" initials="J." surname="Kramer"/>
-    <author fullname="Clare Goodman" initials="C." surname="Goodman"/>
+    <author fullname="Joel Kramer" initials="J" surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Clare Goodman" initials="P" surname="Goodman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-616"/>
+  <seriesInfo name="NIST" value="NBS IR 74-616"/>
 </reference>

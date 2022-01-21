@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-4228" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4228.pdf">
   <front>
     <title>Prototyping SP4 a secure data network system transport protocol interoperability demonstration project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4228"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4228"/>
-    <author fullname="Charles Dinkel" initials="C." surname="Dinkel"/>
-    <author fullname="Noel Nazario" initials="N." surname="Nazario"/>
-    <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal"/>
+    <author fullname="Charles Dinkel" initials="C." surname="Dinkel">
+      <organization/>
+    </author>
+    <author fullname="Noel Nazario" initials="N." surname="Nazario">
+      <organization/>
+    </author>
+    <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4228"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4228"/>
 </reference>

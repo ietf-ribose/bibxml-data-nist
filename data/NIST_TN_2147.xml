@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2147" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2147.pdf">
   <front>
     <title>Characterizing LTE User Equipment Emissions Under Closed-Loop Power Control</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2147"/>
-    <seriesInfo name="NIST" value="NIST TN 2147"/>
     <author fullname="Jason Coder" initials="J." surname="Coder">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -38,4 +36,6 @@
     </author>
     <date year="2021" month="April" day="6"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2147"/>
+  <seriesInfo name="NIST" value="NIST TN 2147"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5631" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5631.pdf">
   <front>
     <title>An analysis of ANSI ASC X12 and UNEDIFACT Electronic Data Interchange (EDI) standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5631"/>
-    <seriesInfo name="NIST" value="NIST IR 5631"/>
-    <author fullname="Robert Aronoff" initials="R." surname="Aronoff"/>
-    <author fullname="Karen Hsing" initials="K." surname="Hsing"/>
+    <author fullname="Robert Aronoff" initials="R." surname="Aronoff">
+      <organization/>
+    </author>
+    <author fullname="Karen Hsing" initials="K." surname="Hsing">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5631"/>
+  <seriesInfo name="NIST" value="NIST IR 5631"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6265" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6265.pdf">
   <front>
     <title>A hard coresoft shell microstructural model for studying percolation and transport in three-dimensional composite media</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6265"/>
-    <seriesInfo name="NIST" value="NIST IR 6265"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
-    <author fullname="Kenneth Snyder" initials="K." surname="Snyder"/>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Snyder" initials="A" surname="Snyder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6265"/>
+  <seriesInfo name="NIST" value="NIST IR 6265"/>
 </reference>

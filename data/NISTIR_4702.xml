@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4702" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4702.pdf">
   <front>
     <title>A merit function for inequality constrained nonlinear programming problems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4702"/>
-    <seriesInfo name="NIST" value="NIST IR 4702"/>
-    <author surname="Boggs"/>
-    <author surname="Tolle"/>
-    <author surname="Kearsley"/>
+    <author initials="PT" surname="Boggs">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Tolle">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="Kearsley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4702"/>
+  <seriesInfo name="NIST" value="NIST IR 4702"/>
 </reference>

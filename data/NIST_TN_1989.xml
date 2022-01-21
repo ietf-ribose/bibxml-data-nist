@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1989" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1989.pdf">
   <front>
     <title>NIST interlaboratory study of aerosol absorption measurements using photoacoustic spectroscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1989"/>
-    <seriesInfo name="NIST" value="NIST TN 1989"/>
-    <author fullname="Christopher Zangmeister" initials="C." surname="Zangmeister">
+    <author fullname="Christopher Zangmeister" initials="D" surname="Zangmeister">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="James Radney" initials="J." surname="Radney">
+    <author fullname="James Radney" initials="G" surname="Radney">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1989"/>
+  <seriesInfo name="NIST" value="NIST TN 1989"/>
 </reference>

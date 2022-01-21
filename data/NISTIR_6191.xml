@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6191" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6191.pdf">
   <front>
     <title>Demonstration of biodegradable, environmentally safe, non-toxic fire suppression liquids</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6191"/>
-    <seriesInfo name="NIST" value="NIST IR 6191"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6191"/>
+  <seriesInfo name="NIST" value="NIST IR 6191"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7652" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7652.pdf">
   <front>
     <title>Interim Report on the Examination of Corrosion Damage in Homes Constructed with Imported WallboardI. Examination of Samples Received September 28, 2009</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7652"/>
-    <seriesInfo name="NIST" value="NIST IR 7652"/>
     <author fullname="D.J. Pitchure" initials="D." surname="Pitchure">
       <organization>Metallurgy Division, Materials Science and Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2009" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7652"/>
+  <seriesInfo name="NIST" value="NIST IR 7652"/>
 </reference>

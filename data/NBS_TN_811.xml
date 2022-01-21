@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.811" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote811.pdf">
   <front>
     <title>Evaluation of the column connections used in a precast concrete modular housing system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.811"/>
-    <seriesInfo name="NIST" value="NBS TN 811"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.811"/>
+  <seriesInfo name="NIST" value="NBS TN 811"/>
 </reference>

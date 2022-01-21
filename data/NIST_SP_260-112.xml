@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-112" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-112.pdf">
   <front>
     <title>Standard Reference Materials :Glasses for microanalysis /</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-112"/>
-    <seriesInfo name="NIST" value="NIST SP 260-112"/>
-    <author surname="Blackburn"/>
-    <author surname="Marinenko"/>
+    <author initials="DH" surname="Blackburn">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Marinenko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-112"/>
+  <seriesInfo name="NIST" value="NIST SP 260-112"/>
 </reference>

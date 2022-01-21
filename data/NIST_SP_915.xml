@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.915" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication915.pdf">
   <front>
     <title>NIST international activities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.915"/>
-    <seriesInfo name="NIST" value="NIST SP 915"/>
-    <author fullname="Peter Heydemann" initials="P." surname="Heydemann"/>
-    <author fullname="Peter Heydemann" initials="P." surname="Heydemann"/>
+    <author fullname="Peter Heydemann" initials="LM" surname="Heydemann">
+      <organization/>
+    </author>
+    <author fullname="Peter Heydemann" initials="LM" surname="Heydemann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.915"/>
+  <seriesInfo name="NIST" value="NIST SP 915"/>
 </reference>

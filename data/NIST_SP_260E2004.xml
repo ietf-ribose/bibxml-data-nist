@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.260e2004" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260e2004.pdf">
   <front>
     <title>NIST Standard Reference Materials catalog January 2004</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260e2004"/>
-    <seriesInfo name="NIST" value="NIST SP 260e2004"/>
-    <author fullname="Joylene Thomas" initials="J." surname="Thomas"/>
-    <author fullname="Yvonne Branden" initials="Y." surname="Branden"/>
-    <author fullname="Robbin Howard" initials="R." surname="Howard"/>
+    <author fullname="Joylene Thomas" initials="WL" surname="Thomas">
+      <organization/>
+    </author>
+    <author fullname="Yvonne Branden" initials="A" surname="Branden">
+      <organization/>
+    </author>
+    <author fullname="Robbin Howard" initials="D" surname="Howard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260e2004"/>
+  <seriesInfo name="NIST" value="NIST SP 260e2004"/>
 </reference>

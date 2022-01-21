@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1931" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1931.pdf">
   <front>
     <title>Novel Method and Apparatus Design for Testing Small Magnetocaloric Samples</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1931"/>
-    <seriesInfo name="NIST" value="NIST TN 1931"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski">
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Vance Payne" initials="V." surname="Payne">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Harrison Skye" initials="H." surname="Skye">
+    <author fullname="Harrison Skye" initials="M" surname="Skye">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1931"/>
+  <seriesInfo name="NIST" value="NIST TN 1931"/>
 </reference>

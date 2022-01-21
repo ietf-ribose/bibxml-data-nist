@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.1896" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport1896.pdf">
   <front>
     <title>The complete solutions of the balanced incomplete block designs with ten or fewer replications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.1896"/>
-    <seriesInfo name="NIST" value="NBS RPT 1896"/>
-    <author fullname="Melicent Rupp" initials="M." surname="Rupp"/>
+    <author fullname="Melicent Rupp" initials="K" surname="Rupp">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.1896"/>
+  <seriesInfo name="NIST" value="NBS RPT 1896"/>
 </reference>

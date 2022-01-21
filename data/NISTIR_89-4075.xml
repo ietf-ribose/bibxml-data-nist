@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4075" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4075.pdf">
   <front>
     <title>Metallurgical evaluation of 17-4 PH stainless steel castings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4075"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4075"/>
-    <author fullname="George Hicho" initials="G." surname="Hicho"/>
-    <author fullname="John Smith" initials="J." surname="Smith"/>
+    <author fullname="George Hicho" initials="E" surname="Hicho">
+      <organization/>
+    </author>
+    <author fullname="John Smith" initials="H" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4075"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4075"/>
 </reference>

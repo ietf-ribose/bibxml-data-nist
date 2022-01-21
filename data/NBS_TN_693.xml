@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.693" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote693.pdf">
   <front>
     <title>Predicted values of the viscosity and thermal conductivity coefficients of nitrous oxide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.693"/>
-    <seriesInfo name="NIST" value="NBS TN 693"/>
-    <author surname="Hanley"/>
+    <author initials="HJM" surname="Hanley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.693"/>
+  <seriesInfo name="NIST" value="NBS TN 693"/>
 </reference>

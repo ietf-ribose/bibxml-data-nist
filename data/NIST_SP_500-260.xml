@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.500-260" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-260.pdf">
   <front>
     <title>A model-based analysis of first-generation service discovery systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-260"/>
-    <seriesInfo name="NIST" value="NIST SP 500-260"/>
-    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski"/>
-    <author fullname="Kevin Mills" initials="K." surname="Mills"/>
-    <author fullname="Stephen Quirolgico" initials="S." surname="Quirolgico"/>
+    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski">
+      <organization/>
+    </author>
+    <author fullname="Kevin Mills" initials="L" surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="Stephen Quirolgico" initials="S." surname="Quirolgico">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-260"/>
+  <seriesInfo name="NIST" value="NIST SP 500-260"/>
 </reference>

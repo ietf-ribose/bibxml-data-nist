@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1395" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1395.pdf">
   <front>
     <title>Performance guidelines for a modular integrated utility system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1395"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1395"/>
-    <author fullname="David Mitchell" initials="D." surname="Mitchell"/>
+    <author fullname="David Mitchell" initials="J" surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1395"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1395"/>
 </reference>

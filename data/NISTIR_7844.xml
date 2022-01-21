@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7844" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7844.pdf">
   <front>
     <title>Survey of industrial manipulation technologies for autonomous assembly applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7844"/>
-    <seriesInfo name="NIST" value="NIST IR 7844"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
-    <author fullname="Joe Falco" initials="J." surname="Falco"/>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
+    <author fullname="Joe Falco" initials="J." surname="Falco">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7844"/>
+  <seriesInfo name="NIST" value="NIST IR 7844"/>
 </reference>

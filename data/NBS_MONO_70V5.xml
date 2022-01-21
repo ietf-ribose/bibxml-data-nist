@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.70v5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph70v5.pdf">
   <front>
     <title>Microwave spectral tables :volume V. spectral line listing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v5"/>
-    <seriesInfo name="NIST" value="NBS MONO 70v5"/>
-    <author fullname="Marian Cord" initials="M." surname="Cord"/>
-    <author fullname="Matthew Lojko" initials="M." surname="Lojko"/>
-    <author fullname="Jean Petersen" initials="J." surname="Petersen"/>
+    <author fullname="Marian Cord" initials="S" surname="Cord">
+      <organization/>
+    </author>
+    <author fullname="Matthew Lojko" initials="S" surname="Lojko">
+      <organization/>
+    </author>
+    <author fullname="Jean Petersen" initials="D" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v5"/>
+  <seriesInfo name="NIST" value="NBS MONO 70v5"/>
 </reference>

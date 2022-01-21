@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph117.pdf">
   <front>
     <title>Hearing aids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.117"/>
-    <seriesInfo name="NIST" value="NBS MONO 117"/>
-    <author fullname="Edith Corliss" initials="E." surname="Corliss"/>
+    <author fullname="Edith Corliss" initials="LR" surname="Corliss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.117"/>
+  <seriesInfo name="NIST" value="NBS MONO 117"/>
 </reference>

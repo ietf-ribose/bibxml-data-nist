@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.10063" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10063.pdf">
   <front>
     <title>Clinical investigation of a radiopaque composite restorative material :progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10063"/>
-    <seriesInfo name="NIST" value="NBS RPT 10063"/>
-    <author surname="Chandler"/>
-    <author surname="Bowen"/>
-    <author surname="Paffenbarger"/>
-    <author surname="Mullineaux"/>
+    <author initials="HH" surname="Chandler">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Bowen">
+      <organization/>
+    </author>
+    <author initials="GC" surname="Paffenbarger">
+      <organization/>
+    </author>
+    <author initials="AL" surname="Mullineaux">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10063"/>
+  <seriesInfo name="NIST" value="NBS RPT 10063"/>
 </reference>

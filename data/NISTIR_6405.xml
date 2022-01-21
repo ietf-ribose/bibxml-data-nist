@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6405" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6405.pdf">
   <front>
     <title>Abstracting formal specifications to generate software tests via model checking</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6405"/>
-    <seriesInfo name="NIST" value="NIST IR 6405"/>
-    <author fullname="Paul Ammann" initials="P." surname="Ammann"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
+    <author fullname="Paul Ammann" initials="E" surname="Ammann">
+      <organization/>
+    </author>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6405"/>
+  <seriesInfo name="NIST" value="NIST IR 6405"/>
 </reference>

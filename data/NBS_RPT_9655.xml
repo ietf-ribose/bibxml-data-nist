@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9655" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9655.pdf">
   <front>
     <title>Calculation of the thermal conductivity of an invar sample from electrical resistivity data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9655"/>
-    <seriesInfo name="NIST" value="NBS RPT 9655"/>
-    <author surname="Flynn"/>
+    <author initials="DR" surname="Flynn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9655"/>
+  <seriesInfo name="NIST" value="NBS RPT 9655"/>
 </reference>

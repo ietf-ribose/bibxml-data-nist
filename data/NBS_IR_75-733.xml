@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-733" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-733.pdf">
   <front>
     <title>An evaluation of proposed safety requirements for infants' pacifiers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-733"/>
-    <seriesInfo name="NIST" value="NBS IR 75-733"/>
-    <author fullname="Samuel Toner" initials="S." surname="Toner"/>
-    <author fullname="Harriet Baker" initials="H." surname="Baker"/>
+    <author fullname="Samuel Toner" initials="D" surname="Toner">
+      <organization/>
+    </author>
+    <author fullname="Harriet Baker" initials="A" surname="Baker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-733"/>
+  <seriesInfo name="NIST" value="NBS IR 75-733"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.618" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication618.pdf">
   <front>
     <title>Environmental speciation and monitoring needs for trace metal-containing substances from energy-related processes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.618"/>
-    <seriesInfo name="NIST" value="NBS SP 618"/>
-    <author fullname="Frederick Brinckman" initials="F." surname="Brinckman"/>
-    <author fullname="Richard Fish" initials="R." surname="Fish"/>
+    <author fullname="Frederick Brinckman" initials="E" surname="Brinckman">
+      <organization/>
+    </author>
+    <author fullname="Richard Fish" initials="H" surname="Fish">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.618"/>
+  <seriesInfo name="NIST" value="NBS SP 618"/>
 </reference>

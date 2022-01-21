@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.7992" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7992.pdf">
   <front>
     <title>Exploring the Methodology and Utility of Standardized Latent Fingerprint Matcher Scoring</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7992"/>
-    <seriesInfo name="NIST" value="NIST IR 7992"/>
-    <author surname="Dvornychenko">
+    <author initials="VN" surname="Dvornychenko">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Quinn">
+    <author initials="GW" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2014" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7992"/>
+  <seriesInfo name="NIST" value="NIST IR 7992"/>
 </reference>

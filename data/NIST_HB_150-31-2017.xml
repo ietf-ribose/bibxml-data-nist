@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.150-31-2017" target="https://nvlpubs.nist.gov/nistpubs/hb/2017/NIST.HB.150-31-2017.pdf">
   <front>
     <title>National Voluntary Laboratory Accreditation Program (NVLAP) health information technology testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-31-2017"/>
-    <seriesInfo name="NIST" value="NIST HB 150-31-2017"/>
     <author fullname="Dana Leaman" initials="D." surname="Leaman">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-31-2017"/>
+  <seriesInfo name="NIST" value="NIST HB 150-31-2017"/>
 </reference>

@@ -1,16 +1,30 @@
 <reference anchor="NBS.IR.75-697" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-697.pdf">
   <front>
     <title>Considerations in the use of sampling plans for effecting compliance with mandatory safety standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-697"/>
-    <seriesInfo name="NIST" value="NBS IR 75-697"/>
-    <author surname="Broussalian"/>
-    <author surname="Farrar"/>
-    <author surname="Lyons"/>
-    <author surname="Muehlhause"/>
-    <author surname="Natrella"/>
-    <author surname="Rosenblatt"/>
-    <author surname="Stiehler"/>
-    <author surname="Winger"/>
+    <author initials="VL" surname="Broussalian">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="Farrar">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Lyons">
+      <organization/>
+    </author>
+    <author initials="CO" surname="Muehlhause">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Natrella">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Rosenblatt">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Stiehler">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Winger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-697"/>
+  <seriesInfo name="NIST" value="NBS IR 75-697"/>
 </reference>

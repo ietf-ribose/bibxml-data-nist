@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1798" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1798.pdf">
   <front>
     <title>Final report :FDA contract no. 74-58(0) : October 1978 to March 1979</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1798"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1798"/>
-    <author surname="Schaffer"/>
-    <author surname="Velapoldi"/>
-    <author surname="Reeder"/>
+    <author initials="R" surname="Schaffer">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Velapoldi">
+      <organization/>
+    </author>
+    <author initials="DJ" surname="Reeder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1798"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1798"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5043" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5043.pdf">
   <front>
     <title>Report no. 30:</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5043"/>
-    <seriesInfo name="NIST" value="NIST IR 5043"/>
-    <author fullname="AlfredV,Jr Clark" initials="A.V.J." surname="Clark"/>
+    <author fullname="AlfredV,Jr Clark" initials="A.V.J." surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5043"/>
+  <seriesInfo name="NIST" value="NIST IR 5043"/>
 </reference>

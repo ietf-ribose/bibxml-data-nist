@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1321" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1321.pdf">
   <front>
     <title>[12C16O] laser frequency tables for the 34.2 to 62.3 THz (1139 to 2079 cm-1) region</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1321"/>
-    <seriesInfo name="NIST" value="NBS TN 1321"/>
-    <author surname="Schneider"/>
+    <author initials="M" surname="Schneider">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1321"/>
+  <seriesInfo name="NIST" value="NBS TN 1321"/>
 </reference>

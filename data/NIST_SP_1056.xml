@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.1056" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1056.pdf">
   <front>
     <title>Bibliography of NIST nanotechnology publications 2000-2004</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1056"/>
-    <seriesInfo name="NIST" value="NIST SP 1056"/>
-    <author fullname="Nancy Allmang" initials="N." surname="Allmang"/>
-    <author fullname="Nancy Allmang" initials="N." surname="Allmang"/>
-    <author fullname="Mylene Ouimette" initials="M." surname="Ouimette"/>
+    <author fullname="Nancy Allmang" initials="A" surname="Allmang">
+      <organization/>
+    </author>
+    <author fullname="Nancy Allmang" initials="A" surname="Allmang">
+      <organization/>
+    </author>
+    <author fullname="Mylene Ouimette" initials="S" surname="Ouimette">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1056"/>
+  <seriesInfo name="NIST" value="NIST SP 1056"/>
 </reference>

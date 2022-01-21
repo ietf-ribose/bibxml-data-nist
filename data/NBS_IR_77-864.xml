@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-864" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-864.pdf">
   <front>
     <title>Liquefied natural gas research at the National Bureau of Standards; progress report for the period 1 January</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-864"/>
-    <seriesInfo name="NIST" value="NBS IR 77-864"/>
-    <author surname="Diller"/>
+    <author initials="DE" surname="Diller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-864"/>
+  <seriesInfo name="NIST" value="NBS IR 77-864"/>
 </reference>

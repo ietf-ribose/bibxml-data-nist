@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.500-256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-256.pdf">
   <front>
     <title>Improving the usability and accessibility of voting systems and products</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-256"/>
-    <seriesInfo name="NIST" value="NIST SP 500-256"/>
-    <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
-    <author fullname="Marguerite Autry" initials="M." surname="Autry"/>
-    <author fullname="John Cugini" initials="J." surname="Cugini"/>
-    <author fullname="William Killam" initials="W." surname="Killam"/>
-    <author fullname="James Yen" initials="J." surname="Yen"/>
+    <author fullname="Sharon Laskowski" initials="J" surname="Laskowski">
+      <organization/>
+    </author>
+    <author fullname="Marguerite Autry" initials="M." surname="Autry">
+      <organization/>
+    </author>
+    <author fullname="John Cugini" initials="J." surname="Cugini">
+      <organization/>
+    </author>
+    <author fullname="William Killam" initials="W." surname="Killam">
+      <organization/>
+    </author>
+    <author fullname="James Yen" initials="J." surname="Yen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-256"/>
+  <seriesInfo name="NIST" value="NIST SP 500-256"/>
 </reference>

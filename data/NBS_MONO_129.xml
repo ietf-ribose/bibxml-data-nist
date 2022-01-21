@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.129" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph129.pdf">
   <front>
     <title>The Development of Loran-C navigation and timing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.129"/>
-    <seriesInfo name="NIST" value="NBS MONO 129"/>
-    <author fullname="Gifford Hefley" initials="G." surname="Hefley"/>
+    <author fullname="Gifford Hefley" initials="G." surname="Hefley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.129"/>
+  <seriesInfo name="NIST" value="NBS MONO 129"/>
 </reference>

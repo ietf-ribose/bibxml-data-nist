@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.269" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub269.pdf">
   <front>
     <title>Statistical association methods for mechanized documentation :symposium proceedings Washington 1964/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.269"/>
-    <seriesInfo name="NIST" value="NBS MP 269"/>
-    <author fullname="Vincent Giuliano" initials="V." surname="Giuliano"/>
-    <author fullname="MaryElizabeth Stevens" initials="M.E." surname="Stevens"/>
+    <author fullname="Vincent Giuliano" initials="E" surname="Giuliano">
+      <organization/>
+    </author>
+    <author fullname="MaryElizabeth Stevens" initials="M.E." surname="Stevens">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.269"/>
+  <seriesInfo name="NIST" value="NBS MP 269"/>
 </reference>

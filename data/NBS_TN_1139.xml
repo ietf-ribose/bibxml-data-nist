@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1139" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1139.pdf">
   <front>
     <title>Radon transport through and exhalation from building materials :a review and assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1139"/>
-    <seriesInfo name="NIST" value="NBS TN 1139"/>
-    <author surname="Coll*e"/>
+    <author initials="R" surname="Coll*e">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1139"/>
+  <seriesInfo name="NIST" value="NBS TN 1139"/>
 </reference>

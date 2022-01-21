@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3108" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3108.pdf">
   <front>
     <title>A preliminary study of the vertical stack to horizontal drain entry condition as an extension to the modeling of unsteady partially filled pipe flow</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3108"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3108"/>
-    <author surname="Swaffield"/>
-    <author fullname="Lawrence Galowin" initials="L." surname="Galowin"/>
+    <author initials="JA" surname="Swaffield">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Galowin" initials="S" surname="Galowin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3108"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3108"/>
 </reference>

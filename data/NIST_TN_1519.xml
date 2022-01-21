@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1519" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1519.pdf">
   <front>
     <title>Predicted and measured field strengths in the Boulder, Colorado, area from two proposed terrestrial digital television tower sites</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1519"/>
-    <seriesInfo name="NIST" value="NIST TN 1519"/>
-    <author fullname="Christopher Holloway" initials="C." surname="Holloway"/>
+    <author fullname="Christopher Holloway" initials="L" surname="Holloway">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1519"/>
+  <seriesInfo name="NIST" value="NIST TN 1519"/>
 </reference>

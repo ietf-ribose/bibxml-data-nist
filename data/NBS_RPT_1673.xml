@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.1673" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport1673.pdf">
   <front>
     <title>The scattering of light by a conical surface</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.1673"/>
-    <seriesInfo name="NIST" value="NBS RPT 1673"/>
-    <author surname="Page"/>
+    <author initials="CH" surname="Page">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.1673"/>
+  <seriesInfo name="NIST" value="NBS RPT 1673"/>
 </reference>

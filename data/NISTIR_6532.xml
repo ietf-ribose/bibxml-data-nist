@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6532" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6532.pdf">
   <front>
     <title>Connections of fiber-reinforced polymer (FRP) structural members:a review of the state of the art</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6532"/>
-    <seriesInfo name="NIST" value="NIST IR 6532"/>
-    <author fullname="Dat Duthinh" initials="D." surname="Duthinh"/>
+    <author fullname="Dat Duthinh" initials="D." surname="Duthinh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6532"/>
+  <seriesInfo name="NIST" value="NIST IR 6532"/>
 </reference>

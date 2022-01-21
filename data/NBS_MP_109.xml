@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub109.pdf">
   <front>
     <title>Chart for determining the helix angles of screw threads</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.109"/>
-    <seriesInfo name="NIST" value="NBS MP 109"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1930"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.109"/>
+  <seriesInfo name="NIST" value="NBS MP 109"/>
 </reference>

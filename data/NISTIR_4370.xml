@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4370" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4370.pdf">
   <front>
     <title>A mathematical treatment of the spherical stereology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4370"/>
-    <seriesInfo name="NIST" value="NIST IR 4370"/>
-    <author fullname="Charles Hagwood" initials="C." surname="Hagwood"/>
+    <author fullname="Charles Hagwood" initials="C." surname="Hagwood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4370"/>
+  <seriesInfo name="NIST" value="NIST IR 4370"/>
 </reference>

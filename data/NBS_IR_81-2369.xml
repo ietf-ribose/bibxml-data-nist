@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2369" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2369.pdf">
   <front>
     <title>Residential solar data center :data resources and reports</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2369"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2369"/>
-    <author fullname="Patricia Christopher" initials="P." surname="Christopher"/>
-    <author fullname="Audrey Houser" initials="A." surname="Houser"/>
+    <author fullname="Patricia Christopher" initials="M" surname="Christopher">
+      <organization/>
+    </author>
+    <author fullname="Audrey Houser" initials="O" surname="Houser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2369"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2369"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.96" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph96.pdf">
   <front>
     <title>Electrical parameters of precision, coaxial, air-dielectric transmission lines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.96"/>
-    <seriesInfo name="NIST" value="NBS MONO 96"/>
-    <author fullname="Robert Nelson" initials="R." surname="Nelson"/>
-    <author fullname="Marlene Coryell" initials="M." surname="Coryell"/>
+    <author fullname="Robert Nelson" initials="E" surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="Marlene Coryell" initials="R" surname="Coryell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.96"/>
+  <seriesInfo name="NIST" value="NBS MONO 96"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.NSRDS.28" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds28.pdf">
   <front>
     <title>Molten salts :volume 2. section 1. electrochemistry of molten salts, gibbs free energies and excess free energies from equilibrium-type cells, section 2. surface tension data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.28"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 28"/>
-    <author fullname="George Janz" initials="G." surname="Janz"/>
-    <author surname="Dijkhuis"/>
-    <author surname="Lakshminarayanan"/>
-    <author surname="Tomkins"/>
-    <author surname="Wong"/>
+    <author fullname="George Janz" initials="J" surname="Janz">
+      <organization/>
+    </author>
+    <author initials="GM" surname="Dijkhuis">
+      <organization/>
+    </author>
+    <author initials="GR" surname="Lakshminarayanan">
+      <organization/>
+    </author>
+    <author initials="RPT" surname="Tomkins">
+      <organization/>
+    </author>
+    <author initials="J" surname="Wong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.28"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 28"/>
 </reference>

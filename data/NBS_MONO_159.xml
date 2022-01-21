@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph159.pdf">
   <front>
     <title>Visual range :concepts, instrumental determination, and aviation applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.159"/>
-    <seriesInfo name="NIST" value="NBS MONO 159"/>
-    <author surname="Douglas"/>
-    <author surname="Booker"/>
+    <author initials="CA" surname="Douglas">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Booker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.159"/>
+  <seriesInfo name="NIST" value="NBS MONO 159"/>
 </reference>

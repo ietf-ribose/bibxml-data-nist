@@ -1,16 +1,30 @@
 <reference anchor="NBS.IR.79-1777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1777.pdf">
   <front>
     <title>A compendium of gas phase basicity and proton affinity measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1777"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1777"/>
-    <author surname="Hartman"/>
-    <author surname="Lias"/>
-    <author surname="Ausloos"/>
-    <author surname="Rosenstock"/>
-    <author surname="Schroyer"/>
-    <author surname="Schmidt"/>
-    <author surname="Martinsen"/>
-    <author surname="Milne"/>
+    <author initials="KN" surname="Hartman">
+      <organization/>
+    </author>
+    <author initials="S" surname="Lias">
+      <organization/>
+    </author>
+    <author initials="P" surname="Ausloos">
+      <organization/>
+    </author>
+    <author initials="HM" surname="Rosenstock">
+      <organization/>
+    </author>
+    <author initials="SS" surname="Schroyer">
+      <organization/>
+    </author>
+    <author initials="C" surname="Schmidt">
+      <organization/>
+    </author>
+    <author initials="D" surname="Martinsen">
+      <organization/>
+    </author>
+    <author initials="GWA" surname="Milne">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1777"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1777"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.692" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication692.pdf">
   <front>
     <title>Transmittance MAP service</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.692"/>
-    <seriesInfo name="NIST" value="NBS SP 692"/>
-    <author fullname="Kenneth Eckerle" initials="K." surname="Eckerle"/>
-    <author surname="Hsia"/>
-    <author fullname="Victor Weidner" initials="V." surname="Weidner"/>
+    <author fullname="Kenneth Eckerle" initials="L" surname="Eckerle">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Hsia">
+      <organization/>
+    </author>
+    <author fullname="Victor Weidner" initials="R" surname="Weidner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.692"/>
+  <seriesInfo name="NIST" value="NBS SP 692"/>
 </reference>

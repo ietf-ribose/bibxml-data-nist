@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6629-03" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6629-03.pdf">
   <front>
     <title>NIST time and frequency bulletin, no. 543</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6629-03"/>
-    <seriesInfo name="NIST" value="NIST IR 6629-03"/>
-    <author fullname="Eyvon Petty" initials="E." surname="Petty"/>
+    <author fullname="Eyvon Petty" initials="M" surname="Petty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6629-03"/>
+  <seriesInfo name="NIST" value="NIST IR 6629-03"/>
 </reference>

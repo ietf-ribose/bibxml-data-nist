@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7408" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7408.pdf">
   <front>
     <title>FRVT 2006 and ICE 2006 large-scale results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7408"/>
-    <seriesInfo name="NIST" value="NIST IR 7408"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
-    <author fullname="Todd Scruggs" initials="T." surname="Scruggs"/>
-    <author fullname="Alice O'Toole" initials="A." surname="O'Toole"/>
-    <author fullname="Patrick Flynn" initials="P." surname="Flynn"/>
-    <author fullname="Kevin Boyer" initials="K." surname="Boyer"/>
-    <author fullname="Cathy Schott" initials="C." surname="Schott"/>
-    <author fullname="Matthew Sharpe" initials="M." surname="Sharpe"/>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Todd Scruggs" initials="W" surname="Scruggs">
+      <organization/>
+    </author>
+    <author fullname="Alice O'Toole" initials="J" surname="O'Toole">
+      <organization/>
+    </author>
+    <author fullname="Patrick Flynn" initials="J" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="Kevin Boyer" initials="W" surname="Boyer">
+      <organization/>
+    </author>
+    <author fullname="Cathy Schott" initials="L" surname="Schott">
+      <organization/>
+    </author>
+    <author fullname="Matthew Sharpe" initials="M." surname="Sharpe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7408"/>
+  <seriesInfo name="NIST" value="NIST IR 7408"/>
 </reference>

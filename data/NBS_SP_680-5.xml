@@ -1,8 +1,6 @@
 <reference anchor="NBS.SP.680-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication680-5.pdf">
   <front>
     <title>NBS research reports</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.680-5"/>
-    <seriesInfo name="NIST" value="NBS SP 680-5"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.680-5"/>
+  <seriesInfo name="NIST" value="NBS SP 680-5"/>
 </reference>

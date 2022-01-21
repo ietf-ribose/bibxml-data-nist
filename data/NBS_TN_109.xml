@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote109.pdf">
   <front>
     <title>A compilation of the physical equilibria and related properties of the hydrogen-helium system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.109"/>
-    <seriesInfo name="NIST" value="NBS TN 109"/>
-    <author fullname="Dennis Drayer" initials="D." surname="Drayer"/>
+    <author fullname="Dennis Drayer" initials="E" surname="Drayer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.109"/>
+  <seriesInfo name="NIST" value="NBS TN 109"/>
 </reference>

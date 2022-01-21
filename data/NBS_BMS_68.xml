@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.68" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures68.pdf">
   <front>
     <title>Performance test of floor coverings for use in low-cost housing :part 3</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.68"/>
-    <seriesInfo name="NIST" value="NBS BMS 68"/>
-    <author fullname="Percy Sigler" initials="P." surname="Sigler"/>
-    <author fullname="Elmer Koerner" initials="E." surname="Koerner"/>
+    <author fullname="Percy Sigler" initials="A" surname="Sigler">
+      <organization/>
+    </author>
+    <author fullname="Elmer Koerner" initials="A" surname="Koerner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1941"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.68"/>
+  <seriesInfo name="NIST" value="NBS BMS 68"/>
 </reference>

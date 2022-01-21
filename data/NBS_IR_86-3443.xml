@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.86-3443" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3443.pdf">
   <front>
     <title>Rail straightness metrology at the David W. Taylor model basin</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3443"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3443"/>
-    <author fullname="Tyler Estler" initials="T." surname="Estler"/>
-    <author fullname="Bruce Borchardt" initials="B." surname="Borchardt"/>
-    <author fullname="Charles Fronczek" initials="C." surname="Fronczek"/>
-    <author fullname="Ralph Veale" initials="R." surname="Veale"/>
+    <author fullname="Tyler Estler" initials="W" surname="Estler">
+      <organization/>
+    </author>
+    <author fullname="Bruce Borchardt" initials="R" surname="Borchardt">
+      <organization/>
+    </author>
+    <author fullname="Charles Fronczek" initials="J" surname="Fronczek">
+      <organization/>
+    </author>
+    <author fullname="Ralph Veale" initials="C" surname="Veale">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3443"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3443"/>
 </reference>

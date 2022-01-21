@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-166" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-166.pdf">
   <front>
     <title>Derived PIV Application and Data Model Test Guidelines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-166"/>
-    <seriesInfo name="NIST" value="NIST SP 800-166"/>
     <author fullname="David Cooper" initials="D." surname="Cooper">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2016" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-166"/>
+  <seriesInfo name="NIST" value="NIST SP 800-166"/>
 </reference>

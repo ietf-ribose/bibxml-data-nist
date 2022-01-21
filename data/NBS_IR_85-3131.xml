@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3131.pdf">
   <front>
     <title>Laboratory design and test procedures for quantitative evaluation of infrared sensors to assess thermal anomalies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3131"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3131"/>
-    <author fullname="May Chang" initials="M." surname="Chang"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
-    <author fullname="James Wood" initials="J." surname="Wood"/>
+    <author fullname="May Chang" initials="Y" surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
+    <author fullname="James Wood" initials="T" surname="Wood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3131"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3131"/>
 </reference>

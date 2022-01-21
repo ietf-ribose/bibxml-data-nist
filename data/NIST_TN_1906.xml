@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1906" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1906.pdf">
   <front>
     <title>Minimizing Paste Content in Concrete Using Limestone Powders</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1906"/>
-    <seriesInfo name="NIST" value="NIST TN 1906"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz">
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Scott Jones" initials="S." surname="Jones">
+    <author fullname="Scott Jones" initials="Z" surname="Jones">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Didier Lootens" initials="D." surname="Lootens">
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1906"/>
+  <seriesInfo name="NIST" value="NIST TN 1906"/>
 </reference>

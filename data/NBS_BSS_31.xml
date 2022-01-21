@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.31" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience31.pdf">
   <front>
     <title>Flexural behavior of prestressed concrete composite tee-beams</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.31"/>
-    <seriesInfo name="NIST" value="NBS BSS 31"/>
-    <author surname="Bryson"/>
-    <author surname="Carpenter"/>
+    <author initials="JO" surname="Bryson">
+      <organization/>
+    </author>
+    <author initials="EF" surname="Carpenter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.31"/>
+  <seriesInfo name="NIST" value="NBS BSS 31"/>
 </reference>

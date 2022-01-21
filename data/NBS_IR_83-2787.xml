@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-2787" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2787.pdf">
   <front>
     <title>Fire performance of furnishings as measured in the NBS furniture calorimeter. Part I</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2787"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2787"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2787"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2787"/>
 </reference>

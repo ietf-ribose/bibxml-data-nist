@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7459" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7459.pdf">
   <front>
     <title>Design of the HLPR chair :home lift position and rehabilitation chair</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7459"/>
-    <seriesInfo name="NIST" value="NIST IR 7459"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
+    <author fullname="James Albus" initials="J." surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7459"/>
+  <seriesInfo name="NIST" value="NIST IR 7459"/>
 </reference>

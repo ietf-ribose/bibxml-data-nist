@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8014" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8014.pdf">
   <front>
     <title>Consideration for Identity Management in Public Safety Mobile Networks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8014"/>
-    <seriesInfo name="NIST" value="NIST IR 8014"/>
     <author fullname="Nelson Hastings" initials="N." surname="Hastings">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8014"/>
+  <seriesInfo name="NIST" value="NIST IR 8014"/>
 </reference>

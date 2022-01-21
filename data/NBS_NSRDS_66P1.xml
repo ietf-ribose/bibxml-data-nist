@@ -1,12 +1,18 @@
 <reference anchor="NBS.NSRDS.66p1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds66p1.pdf">
   <front>
     <title>Ion energetics measurements :part I. 1971-1973</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.66p1"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 66p1"/>
-    <author surname="Rosenstock"/>
-    <author surname="Sims"/>
-    <author surname="Schroyer"/>
-    <author surname="Webb"/>
+    <author initials="HM" surname="Rosenstock">
+      <organization/>
+    </author>
+    <author initials="D" surname="Sims">
+      <organization/>
+    </author>
+    <author initials="SS" surname="Schroyer">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Webb">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.66p1"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 66p1"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7177" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7177.pdf">
   <front>
     <title>Limits to the effectiveness of metal-containing fire suppressants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7177"/>
-    <seriesInfo name="NIST" value="NIST IR 7177"/>
-    <author fullname="Gregory Linteris" initials="G." surname="Linteris"/>
+    <author fullname="Gregory Linteris" initials="T" surname="Linteris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7177"/>
+  <seriesInfo name="NIST" value="NIST IR 7177"/>
 </reference>

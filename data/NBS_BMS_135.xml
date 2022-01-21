@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures135.pdf">
   <front>
     <title>Fire tests of steel columns encased with gypsum lath and plaster</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.135"/>
-    <seriesInfo name="NIST" value="NBS BMS 135"/>
-    <author fullname="Nolan Mitchell" initials="N." surname="Mitchell"/>
-    <author fullname="Jame Ryan" initials="J." surname="Ryan"/>
+    <author fullname="Nolan Mitchell" initials="D" surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Jame Ryan" initials="V" surname="Ryan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.135"/>
+  <seriesInfo name="NIST" value="NBS BMS 135"/>
 </reference>

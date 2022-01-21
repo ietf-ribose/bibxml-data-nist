@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.3977" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3977.pdf">
   <front>
     <title>Alternating-field susceptometry and magnetic susceptibility of superconductors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3977"/>
-    <seriesInfo name="NIST" value="NIST IR 3977"/>
-    <author surname="Goldfard"/>
-    <author surname="Lelental"/>
-    <author surname="Thompson"/>
+    <author initials="RB" surname="Goldfard">
+      <organization/>
+    </author>
+    <author initials="M" surname="Lelental">
+      <organization/>
+    </author>
+    <author initials="CA" surname="Thompson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3977"/>
+  <seriesInfo name="NIST" value="NIST IR 3977"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1385" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1385.pdf">
   <front>
     <title>Global position system receivers and relativity</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1385"/>
-    <seriesInfo name="NIST" value="NIST TN 1385"/>
-    <author fullname="Neil Ashby" initials="N." surname="Ashby"/>
+    <author fullname="Neil Ashby" initials="N." surname="Ashby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1385"/>
+  <seriesInfo name="NIST" value="NIST TN 1385"/>
 </reference>

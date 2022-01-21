@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.154" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph154.pdf">
   <front>
     <title>The Dynamics of fields of higher spin</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.154"/>
-    <seriesInfo name="NIST" value="NBS MONO 154"/>
-    <author fullname="Raymond Hayward" initials="R." surname="Hayward"/>
+    <author fullname="Raymond Hayward" initials="W" surname="Hayward">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.154"/>
+  <seriesInfo name="NIST" value="NBS MONO 154"/>
 </reference>

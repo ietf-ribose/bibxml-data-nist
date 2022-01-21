@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2619" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2619.pdf">
   <front>
     <title>Functional specifications for a Federal Information Processing Standard Data Dictionary System</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2619"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2619"/>
-    <author fullname="Patricia Konig" initials="P." surname="Konig"/>
-    <author fullname="Alan Goldfine" initials="A." surname="Goldfine"/>
-    <author fullname="Judith Newton" initials="J." surname="Newton"/>
+    <author fullname="Patricia Konig" initials="A" surname="Konig">
+      <organization/>
+    </author>
+    <author fullname="Alan Goldfine" initials="A." surname="Goldfine">
+      <organization/>
+    </author>
+    <author fullname="Judith Newton" initials="J" surname="Newton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2619"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2619"/>
 </reference>

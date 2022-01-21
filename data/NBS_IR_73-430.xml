@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-430" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-430.pdf">
   <front>
     <title>Chemical kinetics data survey vii. tables of rate and photochemical data for modelling of the stratosphere (revised)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-430"/>
-    <seriesInfo name="NIST" value="NBS IR 73-430"/>
-    <author fullname="David Garvin" initials="D." surname="Garvin"/>
-    <author surname="Hampson"/>
+    <author fullname="David Garvin" initials="D." surname="Garvin">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Hampson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-430"/>
+  <seriesInfo name="NIST" value="NBS IR 73-430"/>
 </reference>

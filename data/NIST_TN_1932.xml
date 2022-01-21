@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1932" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1932.pdf">
   <front>
     <title>A Literature Review of Disaster-Induced Business Interruption and an Exploratory Analysis of the Effects of the 2004 Atlantic Hurricane Season on Florida Establishments at the Zip Code Level</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1932"/>
-    <seriesInfo name="NIST" value="NIST TN 1932"/>
-    <author fullname="David Webb" initials="D." surname="Webb">
+    <author fullname="David Webb" initials="H" surname="Webb">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+    <author fullname="Stanley Gilbert" initials="W" surname="Gilbert">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1932"/>
+  <seriesInfo name="NIST" value="NIST TN 1932"/>
 </reference>

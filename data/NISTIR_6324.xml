@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6324" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6324.pdf">
   <front>
     <title>The zone fire model jet:a model for the prediction of detector activation and gas temperature in the presence of a smoke layer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6324"/>
-    <seriesInfo name="NIST" value="NIST IR 6324"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6324"/>
+  <seriesInfo name="NIST" value="NIST IR 6324"/>
 </reference>

@@ -1,24 +1,54 @@
 <reference anchor="NIST.IR.6850" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6850.pdf">
   <front>
     <title>Nanomanufacturing of atom-based dimensional standards :a final project report of the national advanced manufacturing testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6850"/>
-    <seriesInfo name="NIST" value="NIST IR 6850"/>
-    <author surname="Vorburger"/>
-    <author surname="Allen"/>
-    <author surname="Damazo"/>
-    <author surname="Fu"/>
-    <author surname="Monk"/>
-    <author surname="Osti"/>
-    <author surname="Pellegrino"/>
-    <author surname="Rhorer"/>
-    <author surname="Russell"/>
-    <author surname="Silver"/>
-    <author surname="Sriram"/>
-    <author surname="Stouffer"/>
-    <author surname="Swyt"/>
-    <author surname="Teague"/>
-    <author surname="Wheatley"/>
-    <author surname="Wilmering"/>
+    <author initials="TV" surname="Vorburger">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Allen">
+      <organization/>
+    </author>
+    <author initials="B" surname="Damazo">
+      <organization/>
+    </author>
+    <author initials="J" surname="Fu">
+      <organization/>
+    </author>
+    <author initials="D" surname="Monk">
+      <organization/>
+    </author>
+    <author initials="M" surname="Osti">
+      <organization/>
+    </author>
+    <author initials="J" surname="Pellegrino">
+      <organization/>
+    </author>
+    <author initials="R" surname="Rhorer">
+      <organization/>
+    </author>
+    <author initials="R" surname="Russell">
+      <organization/>
+    </author>
+    <author initials="R" surname="Silver">
+      <organization/>
+    </author>
+    <author initials="R" surname="Sriram">
+      <organization/>
+    </author>
+    <author initials="K" surname="Stouffer">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Swyt">
+      <organization/>
+    </author>
+    <author initials="EC" surname="Teague">
+      <organization/>
+    </author>
+    <author initials="T" surname="Wheatley">
+      <organization/>
+    </author>
+    <author initials="D" surname="Wilmering">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -31,4 +61,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6850"/>
+  <seriesInfo name="NIST" value="NIST IR 6850"/>
 </reference>

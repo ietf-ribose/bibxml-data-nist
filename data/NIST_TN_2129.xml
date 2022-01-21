@@ -1,27 +1,25 @@
 <reference anchor="NIST.TN.2129" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2129.pdf">
   <front>
     <title>Full-Scale Experiments to Demonstrate Flammability Risk of Residential Upholstered Furniture and Mitigation Using Barrier Fabric</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2129"/>
-    <seriesInfo name="NIST" value="NIST TN 2129"/>
     <author fullname="Mauro Zammarano" initials="M." surname="Zammarano">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Hoehler" initials="M." surname="Hoehler">
+    <author fullname="Matthew Hoehler" initials="S" surname="Hoehler">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="JohnRandy Shields" initials="J.R." surname="Shields">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Andre Thompson" initials="A." surname="Thompson">
+    <author fullname="Andre Thompson" initials="L" surname="Thompson">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Ickchan Kim" initials="I." surname="Kim">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Isaac Leventon" initials="I." surname="Leventon">
+    <author fullname="Isaac Leventon" initials="T" surname="Leventon">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+    <author fullname="Matthew Bundy" initials="F" surname="Bundy">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2020" month="December" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2129"/>
+  <seriesInfo name="NIST" value="NIST TN 2129"/>
 </reference>

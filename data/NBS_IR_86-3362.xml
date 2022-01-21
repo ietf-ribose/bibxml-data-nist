@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3362" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3362.pdf">
   <front>
     <title>SCAT :a vector program to solve a transient MFIE</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3362"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3362"/>
-    <author fullname="Egon Marx" initials="E." surname="Marx"/>
+    <author fullname="Egon Marx" initials="E." surname="Marx">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3362"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3362"/>
 </reference>

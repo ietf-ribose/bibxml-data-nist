@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6446" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6446.pdf">
   <front>
     <title>A comparison of CFAST predictions to USCG real-scale fire tests</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6446"/>
-    <seriesInfo name="NIST" value="NIST IR 6446"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Michelle Peatross" initials="M." surname="Peatross"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
-    <author fullname="Craig Beyler" initials="C." surname="Beyler"/>
-    <author fullname="Rob Richards" initials="R." surname="Richards"/>
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
+      <organization/>
+    </author>
+    <author fullname="Michelle Peatross" initials="J" surname="Peatross">
+      <organization/>
+    </author>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Craig Beyler" initials="L" surname="Beyler">
+      <organization/>
+    </author>
+    <author fullname="Rob Richards" initials="R." surname="Richards">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6446"/>
+  <seriesInfo name="NIST" value="NIST IR 6446"/>
 </reference>

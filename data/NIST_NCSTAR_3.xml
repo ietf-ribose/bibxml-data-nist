@@ -1,21 +1,19 @@
 <reference anchor="NIST.NCSTAR.3" target="https://nvlpubs.nist.gov/nistpubs/NCSTAR/NIST.NCSTAR.3.pdf">
   <front>
     <title>Draft final report, National Institute of Standards and Technology (NIST) Technical investigation of the May 22, 2011 tornado in Joplin, Missouri</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.3"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 3"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Franklin Lombardo" initials="F." surname="Lombardo">
+    <author fullname="Franklin Lombardo" initials="T" surname="Lombardo">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Long Phan" initials="L." surname="Phan">
+    <author fullname="Long Phan" initials="T" surname="Phan">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Marc Levitan" initials="M." surname="Levitan">
+    <author fullname="Marc Levitan" initials="L" surname="Levitan">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Jorgensen" initials="D." surname="Jorgensen">
+    <author fullname="David Jorgensen" initials="P" surname="Jorgensen">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.3"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 3"/>
 </reference>

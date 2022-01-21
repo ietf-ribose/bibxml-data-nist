@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6530" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6530.pdf">
   <front>
     <title>A measurement system for characterizing the detection performance of metal detectors:design and operation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6530"/>
-    <seriesInfo name="NIST" value="NIST IR 6530"/>
-    <author fullname="NicholasJr Pauiter" initials="N.J." surname="Pauiter"/>
-    <author fullname="Donald Larson" initials="D." surname="Larson"/>
-    <author fullname="RobertJr Palm" initials="R.J." surname="Palm"/>
+    <author fullname="NicholasJr Pauiter" initials="G" surname="Pauiter">
+      <organization/>
+    </author>
+    <author fullname="Donald Larson" initials="R" surname="Larson">
+      <organization/>
+    </author>
+    <author fullname="RobertJr Palm" initials="H" surname="Palm">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6530"/>
+  <seriesInfo name="NIST" value="NIST IR 6530"/>
 </reference>

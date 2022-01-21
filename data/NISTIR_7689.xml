@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7689" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7689.pdf">
   <front>
     <title>Introduction of wave set-up effects and mass flux to the sea, lake, and overland surges from hurricanes (slosh) model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7689"/>
-    <seriesInfo name="NIST" value="NIST IR 7689"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
-    <author fullname="Donald Slinn" initials="D." surname="Slinn"/>
-    <author fullname="Shaun Kline" initials="S." surname="Kline"/>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
+    <author fullname="Donald Slinn" initials="N" surname="Slinn">
+      <organization/>
+    </author>
+    <author fullname="Shaun Kline" initials="W" surname="Kline">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7689"/>
+  <seriesInfo name="NIST" value="NIST IR 7689"/>
 </reference>

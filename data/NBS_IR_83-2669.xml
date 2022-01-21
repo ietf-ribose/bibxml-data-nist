@@ -1,17 +1,33 @@
 <reference anchor="NBS.IR.83-2669" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2669.pdf">
   <front>
     <title>NBS :processingmicrostructureproperty relationships in 2024 aluminum alloy plates</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2669"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2669"/>
-    <author surname="Ives"/>
-    <author surname="Swartzendruber"/>
-    <author surname="Boettinger"/>
-    <author surname="Rosen"/>
-    <author surname="Ridder"/>
-    <author surname="Biancaniello"/>
-    <author surname="Reno"/>
-    <author surname="Ballard"/>
-    <author surname="Mehrabian"/>
+    <author initials="LK" surname="Ives">
+      <organization/>
+    </author>
+    <author initials="LJ" surname="Swartzendruber">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Boettinger">
+      <organization/>
+    </author>
+    <author initials="M" surname="Rosen">
+      <organization/>
+    </author>
+    <author initials="SD" surname="Ridder">
+      <organization/>
+    </author>
+    <author initials="FS" surname="Biancaniello">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Reno">
+      <organization/>
+    </author>
+    <author initials="DB" surname="Ballard">
+      <organization/>
+    </author>
+    <author initials="R" surname="Mehrabian">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2669"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2669"/>
 </reference>

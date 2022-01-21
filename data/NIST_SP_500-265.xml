@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.500-265" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-265.pdf">
   <front>
     <title>Proceedings of workshop on software security assurance tools, techniques, and metrics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-265"/>
-    <seriesInfo name="NIST" value="NIST SP 500-265"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Michael Kass" initials="M." surname="Kass"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
+    <author fullname="Michael Kass" initials="M." surname="Kass">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-265"/>
+  <seriesInfo name="NIST" value="NIST SP 500-265"/>
 </reference>

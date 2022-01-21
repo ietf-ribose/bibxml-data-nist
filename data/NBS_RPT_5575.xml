@@ -1,13 +1,21 @@
 <reference anchor="NBS.RPT.5575" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5575.pdf">
   <front>
     <title>Measurements of the power spectrum of fading in tropospheric scatter propagation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5575"/>
-    <seriesInfo name="NIST" value="NBS RPT 5575"/>
-    <author surname="Barghausen"/>
-    <author surname="Janes"/>
-    <author surname="Guiraud"/>
-    <author surname="Murahata"/>
-    <author surname="Peterson"/>
+    <author initials="AF" surname="Barghausen">
+      <organization/>
+    </author>
+    <author initials="HB" surname="Janes">
+      <organization/>
+    </author>
+    <author initials="FO" surname="Guiraud">
+      <organization/>
+    </author>
+    <author initials="S" surname="Murahata">
+      <organization/>
+    </author>
+    <author initials="CF" surname="Peterson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1958" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5575"/>
+  <seriesInfo name="NIST" value="NBS RPT 5575"/>
 </reference>

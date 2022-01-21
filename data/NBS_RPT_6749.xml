@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.6749" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6749.pdf">
   <front>
     <title>Elastomeric seals and materials at cryogenic temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6749"/>
-    <seriesInfo name="NIST" value="NBS RPT 6749"/>
-    <author surname="Weitzel"/>
-    <author surname="Robbins"/>
-    <author surname="Herring"/>
+    <author initials="DH" surname="Weitzel">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Robbins">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Herring">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6749"/>
+  <seriesInfo name="NIST" value="NBS RPT 6749"/>
 </reference>

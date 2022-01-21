@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.626" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote626.pdf">
   <front>
     <title>The generation of an accurate and uniform time scale with calibrations and prediction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.626"/>
-    <seriesInfo name="NIST" value="NBS TN 626"/>
-    <author fullname="Kazuyuki Yoshimura" initials="K." surname="Yoshimura"/>
+    <author fullname="Kazuyuki Yoshimura" initials="K." surname="Yoshimura">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.626"/>
+  <seriesInfo name="NIST" value="NBS TN 626"/>
 </reference>

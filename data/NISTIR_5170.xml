@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5170" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5170.pdf">
   <front>
     <title>Measurement uncertainty considerations for coordinate measuring machines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5170"/>
-    <seriesInfo name="NIST" value="NIST IR 5170"/>
-    <author surname="Caskey"/>
+    <author initials="G" surname="Caskey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5170"/>
+  <seriesInfo name="NIST" value="NIST IR 5170"/>
 </reference>

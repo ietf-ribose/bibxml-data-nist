@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-906" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-906.pdf">
   <front>
     <title>Deflection performance criteria for floors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-906"/>
-    <seriesInfo name="NIST" value="NBS IR 75-906"/>
-    <author fullname="Robert Crist" initials="R." surname="Crist"/>
-    <author fullname="James Shaver" initials="J." surname="Shaver"/>
+    <author fullname="Robert Crist" initials="A" surname="Crist">
+      <organization/>
+    </author>
+    <author fullname="James Shaver" initials="R" surname="Shaver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-906"/>
+  <seriesInfo name="NIST" value="NBS IR 75-906"/>
 </reference>

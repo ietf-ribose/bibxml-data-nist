@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.250-23" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-23.pdf">
   <front>
     <title>Liquid-in-glass thermometer calibration service</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-23"/>
-    <seriesInfo name="NIST" value="NIST SP 250-23"/>
-    <author fullname="Jacquelyn Wise" initials="J." surname="Wise"/>
+    <author fullname="Jacquelyn Wise" initials="J." surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-23"/>
+  <seriesInfo name="NIST" value="NIST SP 250-23"/>
 </reference>

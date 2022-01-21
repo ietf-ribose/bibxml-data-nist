@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.935" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote935.pdf">
   <front>
     <title>Measurement of energy irradiance from single pulse sources</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.935"/>
-    <seriesInfo name="NIST" value="NBS TN 935"/>
-    <author surname="Schaefer"/>
+    <author initials="AR" surname="Schaefer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.935"/>
+  <seriesInfo name="NIST" value="NBS TN 935"/>
 </reference>

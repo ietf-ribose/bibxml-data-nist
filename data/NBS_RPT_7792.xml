@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.7792" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7792.pdf">
   <front>
     <title>Heats of formation of metallic borides by fluorine bomb calorimetry:progress report for the period 1 October 1962 to 31 January 1963</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7792"/>
-    <seriesInfo name="NIST" value="NBS RPT 7792"/>
-    <author fullname="Eugene Domalski" initials="E." surname="Domalski"/>
+    <author fullname="Eugene Domalski" initials="S" surname="Domalski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7792"/>
+  <seriesInfo name="NIST" value="NBS RPT 7792"/>
 </reference>

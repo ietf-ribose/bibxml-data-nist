@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.3427" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3427.pdf">
   <front>
     <title>Principles of fire detection in aircraft engine spaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3427"/>
-    <seriesInfo name="NIST" value="NBS RPT 3427"/>
-    <author surname="Roeser"/>
-    <author surname="McCamy"/>
+    <author initials="WF" surname="Roeser">
+      <organization/>
+    </author>
+    <author initials="CS" surname="McCamy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3427"/>
+  <seriesInfo name="NIST" value="NBS RPT 3427"/>
 </reference>

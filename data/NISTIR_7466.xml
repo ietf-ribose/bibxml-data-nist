@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7466" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7466.pdf">
   <front>
     <title>Building information services and control system (BISACS) :technical documentation, revision 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7466"/>
-    <seriesInfo name="NIST" value="NIST IR 7466"/>
-    <author fullname="Alan Vinh" initials="A." surname="Vinh"/>
+    <author fullname="Alan Vinh" initials="A." surname="Vinh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7466"/>
+  <seriesInfo name="NIST" value="NIST IR 7466"/>
 </reference>

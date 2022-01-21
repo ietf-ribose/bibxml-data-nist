@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8046" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8046.pdf">
   <front>
     <title>Calibration of Thin-Film Platinum Sensors for Use in the JILA Sr II Clock</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8046"/>
-    <seriesInfo name="NIST" value="NIST IR 8046"/>
-    <author fullname="Weston Tew" initials="W." surname="Tew">
+    <author fullname="Weston Tew" initials="L" surname="Tew">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Travis Nicholson" initials="T." surname="Nicholson">
+    <author fullname="Travis Nicholson" initials="L" surname="Nicholson">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Ross Huston" initials="R." surname="Huston">
+    <author fullname="Ross Huston" initials="B" surname="Huston">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8046"/>
+  <seriesInfo name="NIST" value="NIST IR 8046"/>
 </reference>

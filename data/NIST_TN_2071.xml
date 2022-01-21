@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2071" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2071.pdf">
   <front>
     <title>IREX 10 :ongoing evaluation of iris recognition concept, evaluation plan, and API overview</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2071"/>
-    <seriesInfo name="NIST" value="NIST TN 2071"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory.</organization>
     </author>
-    <author fullname="James Matey" initials="J." surname="Matey">
+    <author fullname="James Matey" initials="R" surname="Matey">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2071"/>
+  <seriesInfo name="NIST" value="NIST TN 2071"/>
 </reference>

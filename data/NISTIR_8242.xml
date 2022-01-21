@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8242" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf">
   <front>
     <title>2017 pilot open speech analytic technologies evaluation (2017 NIST pilot OpenSAT):post evaluation summary</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8242"/>
-    <seriesInfo name="NIST" value="NIST IR 8242"/>
     <author fullname="Fred Byers" initials="F." surname="Byers">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8242"/>
+  <seriesInfo name="NIST" value="NIST IR 8242"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.887" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular887.pdf">
   <front>
     <title>Letter Circular 887:European footware sizes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.887"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 887"/>
-    <author fullname="Robert Hobbs" initials="R." surname="Hobbs"/>
+    <author fullname="Robert Hobbs" initials="B" surname="Hobbs">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.887"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 887"/>
 </reference>

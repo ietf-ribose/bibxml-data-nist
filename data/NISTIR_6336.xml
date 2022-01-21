@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6336" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6336.pdf">
   <front>
     <title>Simple test procedure for image-based biometric verification systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6336"/>
-    <seriesInfo name="NIST" value="NIST IR 6336"/>
-    <author surname="Wilson"/>
-    <author surname="McCabe"/>
+    <author initials="CL" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="RM" surname="McCabe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6336"/>
+  <seriesInfo name="NIST" value="NIST IR 6336"/>
 </reference>

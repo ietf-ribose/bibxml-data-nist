@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6359" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6359.pdf">
   <front>
     <title>Flame inhibition by ferrocene, carbon dioxide, and trifluoromethane blends:synergistic and antagonistic effects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6359"/>
-    <seriesInfo name="NIST" value="NIST IR 6359"/>
-    <author fullname="Gregory Linteris" initials="G." surname="Linteris"/>
-    <author fullname="Marc Rumminger" initials="M." surname="Rumminger"/>
+    <author fullname="Gregory Linteris" initials="T" surname="Linteris">
+      <organization/>
+    </author>
+    <author fullname="Marc Rumminger" initials="D" surname="Rumminger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6359"/>
+  <seriesInfo name="NIST" value="NIST IR 6359"/>
 </reference>

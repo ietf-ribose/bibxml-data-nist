@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.500-297" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-297.pdf">
   <front>
     <title>Report on the Static Analysis Tool Exposition (SATE) IV</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-297"/>
-    <seriesInfo name="NIST" value="NIST SP 500-297"/>
     <author fullname="Vadim Okun" initials="V." surname="Okun">
       <organization>Software and Systems Division, Information Technology Laboratory</organization>
     </author>
     <author fullname="Aurelien Delaitre" initials="A." surname="Delaitre">
       <organization>Software and Systems Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Black" initials="P." surname="Black">
+    <author fullname="Paul Black" initials="E" surname="Black">
       <organization>Software and Systems Division, Information Technology Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-297"/>
+  <seriesInfo name="NIST" value="NIST SP 500-297"/>
 </reference>

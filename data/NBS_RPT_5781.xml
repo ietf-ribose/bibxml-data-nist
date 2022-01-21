@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.5781" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5781.pdf">
   <front>
     <title>A redesign of the switching mechanism of the type FMF-6B channel marker light</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5781"/>
-    <seriesInfo name="NIST" value="NBS RPT 5781"/>
-    <author surname="Vaughan"/>
+    <author initials="RT" surname="Vaughan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5781"/>
+  <seriesInfo name="NIST" value="NBS RPT 5781"/>
 </reference>

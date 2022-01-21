@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6981" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6981.pdf">
   <front>
     <title>Policy expression and enforcement for handheld devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6981"/>
-    <seriesInfo name="NIST" value="NIST IR 6981"/>
-    <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
-    <author fullname="Tom Karygiannis" initials="T." surname="Karygiannis"/>
-    <author fullname="Vlad Korolev" initials="V." surname="Korolev"/>
-    <author fullname="Serban Gavrila" initials="S." surname="Gavrila"/>
-    <author fullname="Michaela Iorga" initials="M." surname="Iorga"/>
+    <author fullname="Wayne Jansen" initials="W." surname="Jansen">
+      <organization/>
+    </author>
+    <author fullname="Tom Karygiannis" initials="T." surname="Karygiannis">
+      <organization/>
+    </author>
+    <author fullname="Vlad Korolev" initials="V." surname="Korolev">
+      <organization/>
+    </author>
+    <author fullname="Serban Gavrila" initials="S." surname="Gavrila">
+      <organization/>
+    </author>
+    <author fullname="Michaela Iorga" initials="M." surname="Iorga">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6981"/>
+  <seriesInfo name="NIST" value="NIST IR 6981"/>
 </reference>

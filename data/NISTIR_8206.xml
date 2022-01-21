@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8206" target="http://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8206.pdf">
   <front>
     <title>Mission critical voice QoE mouth-to-ear latency measurement methods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8206"/>
-    <seriesInfo name="NIST" value="NIST IR 8206"/>
     <author fullname="Jesse Frey" initials="J." surname="Frey">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8206"/>
+  <seriesInfo name="NIST" value="NIST IR 8206"/>
 </reference>

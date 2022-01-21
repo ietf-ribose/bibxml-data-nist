@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2000.pdf">
   <front>
     <title>Development of test structures for characterization of the fabrication and performance of radiation-hardened charge-coupled device (CCD) imagers :annual report, December 1, 1978 to November 30, 1979</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2000"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2000"/>
-    <author surname="Carver"/>
-    <author surname="Rubin"/>
+    <author initials="GP" surname="Carver">
+      <organization/>
+    </author>
+    <author initials="S" surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2000"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2000"/>
 </reference>

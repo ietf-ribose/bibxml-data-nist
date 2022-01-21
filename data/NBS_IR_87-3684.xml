@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.87-3684" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3684.pdf">
   <front>
     <title>The NBS Vision System in the AMRF</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3684"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3684"/>
-    <author fullname="Marilyn Nashman" initials="M." surname="Nashman"/>
-    <author fullname="KarenJ, Chaconas" initials="K.J." surname="Chaconas"/>
+    <author fullname="Marilyn Nashman" initials="M." surname="Nashman">
+      <organization/>
+    </author>
+    <author fullname="KarenJ, Chaconas" initials="K.J." surname="Chaconas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3684"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3684"/>
 </reference>

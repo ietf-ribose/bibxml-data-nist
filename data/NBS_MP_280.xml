@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.280" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub280.pdf">
   <front>
     <title>Hydraulic research in the United States 1966/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.280"/>
-    <seriesInfo name="NIST" value="NBS MP 280"/>
-    <author fullname="Gershon Kulin" initials="G." surname="Kulin"/>
-    <author fullname="Helen Middleton" initials="H." surname="Middleton"/>
+    <author fullname="Gershon Kulin" initials="G." surname="Kulin">
+      <organization/>
+    </author>
+    <author fullname="Helen Middleton" initials="K" surname="Middleton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.280"/>
+  <seriesInfo name="NIST" value="NBS MP 280"/>
 </reference>

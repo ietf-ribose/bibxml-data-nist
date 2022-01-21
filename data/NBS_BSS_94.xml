@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.94" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience94.pdf">
   <front>
     <title>Investigation of the Skyline Plaza collapse in Fairfax County, Virginia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.94"/>
-    <seriesInfo name="NIST" value="NBS BSS 94"/>
-    <author fullname="Edgar Leyendecker" initials="E." surname="Leyendecker"/>
-    <author surname="Fattal"/>
+    <author fullname="Edgar Leyendecker" initials="V" surname="Leyendecker">
+      <organization/>
+    </author>
+    <author initials="SG" surname="Fattal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.94"/>
+  <seriesInfo name="NIST" value="NBS BSS 94"/>
 </reference>

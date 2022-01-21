@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-57" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-57.pdf">
   <front>
     <title>Measurement assurance program for the spectral density of relative intensity noise of optical fiber sources near 1550 nm</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-57"/>
-    <seriesInfo name="NIST" value="NIST SP 250-57"/>
-    <author fullname="Gregory Obarski" initials="G." surname="Obarski"/>
-    <author fullname="Jolene Splett" initials="J." surname="Splett"/>
+    <author fullname="Gregory Obarski" initials="E" surname="Obarski">
+      <organization/>
+    </author>
+    <author fullname="Jolene Splett" initials="D" surname="Splett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-57"/>
+  <seriesInfo name="NIST" value="NIST SP 250-57"/>
 </reference>

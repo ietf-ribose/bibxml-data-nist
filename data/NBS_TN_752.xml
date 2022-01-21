@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.752" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote752.pdf">
   <front>
     <title>Directory of law enforcement and criminal justice associations and research centers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.752"/>
-    <seriesInfo name="NIST" value="NBS TN 752"/>
-    <author surname="Latka"/>
+    <author initials="BJ" surname="Latka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.752"/>
+  <seriesInfo name="NIST" value="NBS TN 752"/>
 </reference>

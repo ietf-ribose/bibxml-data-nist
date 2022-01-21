@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4573" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4573.pdf">
   <front>
     <title>Concurrent engineering through product data standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4573"/>
-    <seriesInfo name="NIST" value="NIST IR 4573"/>
-    <author fullname="Gary Carver" initials="G." surname="Carver"/>
-    <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
+    <author fullname="Gary Carver" initials="P" surname="Carver">
+      <organization/>
+    </author>
+    <author fullname="Howard Bloom" initials="M" surname="Bloom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4573"/>
+  <seriesInfo name="NIST" value="NIST IR 4573"/>
 </reference>

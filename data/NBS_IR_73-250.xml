@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-250" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-250.pdf">
   <front>
     <title>NBS FORTRAN test programs version 1 and version 3</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-250"/>
-    <seriesInfo name="NIST" value="NBS IR 73-250"/>
-    <author fullname="Frances Holberton" initials="F." surname="Holberton"/>
-    <author fullname="Elizabeth Parker" initials="E." surname="Parker"/>
+    <author fullname="Frances Holberton" initials="E" surname="Holberton">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Parker" initials="G" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-250"/>
+  <seriesInfo name="NIST" value="NBS IR 73-250"/>
 </reference>

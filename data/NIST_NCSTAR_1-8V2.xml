@@ -1,10 +1,12 @@
 <reference anchor="NIST.NCSTAR.1-8v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-8v2.pdf">
   <front>
     <title>The Emergency response operations (Appendices A-I)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-8v2"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-8v2"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="Robert Vettori" initials="R." surname="Vettori"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="Robert Vettori" initials="L" surname="Vettori">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-8v2"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-8v2"/>
 </reference>

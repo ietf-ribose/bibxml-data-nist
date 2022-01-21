@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.404" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication404.pdf">
   <front>
     <title>Approaches to privacy and security in computer systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.404"/>
-    <seriesInfo name="NIST" value="NBS SP 404"/>
-    <author fullname="Clark Renninger" initials="C." surname="Renninger"/>
+    <author fullname="Clark Renninger" initials="R" surname="Renninger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.404"/>
+  <seriesInfo name="NIST" value="NBS SP 404"/>
 </reference>

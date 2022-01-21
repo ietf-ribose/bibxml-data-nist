@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1484" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1484.pdf">
   <front>
     <title>Arousal from sleep by emergency alarms :implications from the scientific literature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1484"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1484"/>
-    <author surname="Pezoldt"/>
-    <author fullname="Harold Van Cott" initials="H." surname="Van Cott"/>
+    <author initials="VJ" surname="Pezoldt">
+      <organization/>
+    </author>
+    <author fullname="Harold Van Cott" initials="P" surname="Van Cott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1484"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1484"/>
 </reference>

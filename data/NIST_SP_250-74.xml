@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.250-74" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-74.pdf">
   <front>
     <title>Absorbed dose to water calibration of ionization chambers in a ⁶⁰Co gamma-ray beam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-74"/>
-    <seriesInfo name="NIST" value="NIST SP 250-74"/>
-    <author fullname="Ronaldo Minniti" initials="R." surname="Minniti"/>
-    <author fullname="Jileen Shobe" initials="J." surname="Shobe"/>
-    <author fullname="Stephen Seltzer" initials="S." surname="Seltzer"/>
-    <author fullname="Heather Chen-Mayer" initials="H." surname="Chen-Mayer"/>
-    <author fullname="Steve Domen" initials="S." surname="Domen"/>
+    <author fullname="Ronaldo Minniti" initials="R." surname="Minniti">
+      <organization/>
+    </author>
+    <author fullname="Jileen Shobe" initials="J." surname="Shobe">
+      <organization/>
+    </author>
+    <author fullname="Stephen Seltzer" initials="M" surname="Seltzer">
+      <organization/>
+    </author>
+    <author fullname="Heather Chen-Mayer" initials="H." surname="Chen-Mayer">
+      <organization/>
+    </author>
+    <author fullname="Steve Domen" initials="R" surname="Domen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-74"/>
+  <seriesInfo name="NIST" value="NIST SP 250-74"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.606" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication606.pdf">
   <front>
     <title>Criteria for the installation of energy conservation measures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.606"/>
-    <seriesInfo name="NIST" value="NBS SP 606"/>
-    <author fullname="Heinz Trechsel" initials="H." surname="Trechsel"/>
-    <author fullname="Heinz Trechsel" initials="H." surname="Trechsel"/>
+    <author fullname="Heinz Trechsel" initials="R" surname="Trechsel">
+      <organization/>
+    </author>
+    <author fullname="Heinz Trechsel" initials="R" surname="Trechsel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.606"/>
+  <seriesInfo name="NIST" value="NBS SP 606"/>
 </reference>

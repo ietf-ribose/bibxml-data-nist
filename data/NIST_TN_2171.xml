@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2171" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2171.pdf">
   <front>
     <title>Optimal Transmit Volume Conditions for Mission Critical Voice Quality of Experience Measurement Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2171"/>
-    <seriesInfo name="NIST" value="NIST TN 2171"/>
     <author fullname="Chelsea Greene" initials="C." surname="Greene">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="September" day="22"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2171"/>
+  <seriesInfo name="NIST" value="NIST TN 2171"/>
 </reference>

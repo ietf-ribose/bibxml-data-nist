@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-23" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-23.pdf">
   <front>
     <title>Energy Sector Asset Management For Electric Utilities, Oil &amp; Gas Industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-23"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-23"/>
     <author fullname="James McCarthy" initials="J." surname="McCarthy">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -32,4 +30,6 @@
     </author>
     <date year="2020" month="May" day="19"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-23"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-23"/>
 </reference>

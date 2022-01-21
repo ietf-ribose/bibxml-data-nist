@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.3476" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3476.pdf">
   <front>
     <title>Color characteristics of a green plastic developed by the Rohm and Haas Company for beacon covers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3476"/>
-    <seriesInfo name="NIST" value="NBS RPT 3476"/>
-    <author surname="Breckenridge"/>
+    <author initials="FC" surname="Breckenridge">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3476"/>
+  <seriesInfo name="NIST" value="NBS RPT 3476"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3842" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3842.pdf">
   <front>
     <title>Polymers -- technical activities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3842"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3842"/>
-    <author surname="Smith"/>
-    <author surname="Fanconi"/>
+    <author initials="LE" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Fanconi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3842"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3842"/>
 </reference>

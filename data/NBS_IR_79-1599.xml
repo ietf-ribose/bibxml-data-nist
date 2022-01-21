@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1599" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1599.pdf">
   <front>
     <title>Microphone windscreen performance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1599"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1599"/>
-    <author fullname="Robert Hosier" initials="R." surname="Hosier"/>
-    <author fullname="Paul Donavan" initials="P." surname="Donavan"/>
+    <author fullname="Robert Hosier" initials="N" surname="Hosier">
+      <organization/>
+    </author>
+    <author fullname="Paul Donavan" initials="R" surname="Donavan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1599"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1599"/>
 </reference>

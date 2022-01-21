@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-1640" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-1640.pdf">
   <front>
     <title>Effective thermal conductivity of a glass fiberblanket standard reference material</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1640"/>
-    <seriesInfo name="NIST" value="NBS IR 81-1640"/>
-    <author fullname="David Smith" initials="D." surname="Smith"/>
-    <author fullname="Jerome Hust" initials="J." surname="Hust"/>
-    <author fullname="Lambert Van Poolen" initials="L." surname="Van Poolen"/>
+    <author fullname="David Smith" initials="R" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Jerome Hust" initials="G" surname="Hust">
+      <organization/>
+    </author>
+    <author fullname="Lambert Van Poolen" initials="J" surname="Van Poolen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1640"/>
+  <seriesInfo name="NIST" value="NBS IR 81-1640"/>
 </reference>

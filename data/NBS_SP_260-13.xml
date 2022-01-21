@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-13.pdf">
   <front>
     <title>Standard Reference MaterialsMossbauer spectroscopy standard for the chemical shift of iron compounds</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-13"/>
-    <seriesInfo name="NIST" value="NBS SP 260-13"/>
-    <author fullname="James DeVoe" initials="J." surname="DeVoe"/>
-    <author fullname="David Snediker" initials="D." surname="Snediker"/>
-    <author fullname="Jon Spijkerman" initials="J." surname="Spijkerman"/>
+    <author fullname="James DeVoe" initials="R" surname="DeVoe">
+      <organization/>
+    </author>
+    <author fullname="David Snediker" initials="K" surname="Snediker">
+      <organization/>
+    </author>
+    <author fullname="Jon Spijkerman" initials="J" surname="Spijkerman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-13"/>
+  <seriesInfo name="NIST" value="NBS SP 260-13"/>
 </reference>

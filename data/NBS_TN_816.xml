@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.816" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote816.pdf">
   <front>
     <title>Engineering and construction manual for an instrument to make burn hazard measurements in consumer products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.816"/>
-    <seriesInfo name="NIST" value="NBS TN 816"/>
-    <author fullname="Louis Marzetta" initials="L." surname="Marzetta"/>
+    <author fullname="Louis Marzetta" initials="A" surname="Marzetta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.816"/>
+  <seriesInfo name="NIST" value="NBS TN 816"/>
 </reference>

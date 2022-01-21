@@ -1,18 +1,36 @@
 <reference anchor="NBS.SP.260-96" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-96.pdf">
   <front>
     <title>Standard Reference MaterialsUranium-235 isotope abundance standard reference materials for gamma spectrometry measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-96"/>
-    <seriesInfo name="NIST" value="NBS SP 260-96"/>
-    <author surname="Connolly"/>
-    <author surname="DeBievre"/>
-    <author surname="Eschbach"/>
-    <author surname="Gramlich"/>
-    <author surname="Machlan"/>
-    <author surname="Meyer"/>
-    <author surname="Trahey"/>
-    <author surname="Van Audenhove"/>
-    <author surname="Zook"/>
-    <author surname="Carpenter"/>
+    <author initials="VE" surname="Connolly">
+      <organization/>
+    </author>
+    <author initials="P" surname="DeBievre">
+      <organization/>
+    </author>
+    <author initials="HL" surname="Eschbach">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Gramlich">
+      <organization/>
+    </author>
+    <author initials="LA" surname="Machlan">
+      <organization/>
+    </author>
+    <author initials="H" surname="Meyer">
+      <organization/>
+    </author>
+    <author initials="NM" surname="Trahey">
+      <organization/>
+    </author>
+    <author initials="J" surname="Van Audenhove">
+      <organization/>
+    </author>
+    <author initials="AC" surname="Zook">
+      <organization/>
+    </author>
+    <author initials="BS" surname="Carpenter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-96"/>
+  <seriesInfo name="NIST" value="NBS SP 260-96"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5018" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5018.pdf">
   <front>
     <title>Optical fiber sensors:accelerating applications in Navy ships</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5018"/>
-    <seriesInfo name="NIST" value="NIST IR 5018"/>
-    <author fullname="Henry Whitesel" initials="H." surname="Whitesel"/>
-    <author fullname="Robert Hickernell" initials="R." surname="Hickernell"/>
+    <author fullname="Henry Whitesel" initials="K" surname="Whitesel">
+      <organization/>
+    </author>
+    <author fullname="Robert Hickernell" initials="K" surname="Hickernell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5018"/>
+  <seriesInfo name="NIST" value="NIST IR 5018"/>
 </reference>

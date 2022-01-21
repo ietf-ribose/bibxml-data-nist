@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6092" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6092.pdf">
   <front>
     <title>Analysis of proposals for compliance and enforcement testing under the new part 431:Title 10, Code of Federal Regulations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6092"/>
-    <seriesInfo name="NIST" value="NIST IR 6092"/>
-    <author surname="Stricklett"/>
-    <author surname="Vangel"/>
+    <author initials="KL" surname="Stricklett">
+      <organization/>
+    </author>
+    <author initials="M" surname="Vangel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6092"/>
+  <seriesInfo name="NIST" value="NIST IR 6092"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.398sup1951" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular398sup1951.pdf">
   <front>
     <title>Supplement to National Bureau of Standards Circular no. 398:standard samples and reference standards issued by the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.398sup1951"/>
-    <seriesInfo name="NIST" value="NBS CIRC 398sup1951"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.398sup1951"/>
+  <seriesInfo name="NIST" value="NBS CIRC 398sup1951"/>
 </reference>

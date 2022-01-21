@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-12" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-12.pdf">
   <front>
     <title>An introduction to computer security :the NIST handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-12"/>
-    <seriesInfo name="NIST" value="NIST SP 800-12"/>
     <author fullname="Barbara Guttman" initials="B." surname="Guttman">
       <organization>Computer Security Division.</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-12"/>
+  <seriesInfo name="NIST" value="NIST SP 800-12"/>
 </reference>

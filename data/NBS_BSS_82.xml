@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.82" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience82.pdf">
   <front>
     <title>A New look at the research basis for lighting level recommendations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.82"/>
-    <seriesInfo name="NIST" value="NBS BSS 82"/>
-    <author fullname="Gary Yonemura" initials="G." surname="Yonemura"/>
-    <author fullname="Yoshimi Kohayakawa" initials="Y." surname="Kohayakawa"/>
+    <author fullname="Gary Yonemura" initials="T" surname="Yonemura">
+      <organization/>
+    </author>
+    <author fullname="Yoshimi Kohayakawa" initials="Y." surname="Kohayakawa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.82"/>
+  <seriesInfo name="NIST" value="NBS BSS 82"/>
 </reference>

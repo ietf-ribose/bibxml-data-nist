@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.74-531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-531.pdf">
   <front>
     <title>Review of performance characteristics, standards and regulatory restrictions relating to the use of thermoplastic piping in residential plumbing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-531"/>
-    <seriesInfo name="NIST" value="NBS IR 74-531"/>
-    <author surname="Wyly"/>
-    <author surname="Parker"/>
-    <author surname="Rorrer"/>
-    <author surname="Shaver"/>
-    <author surname="Sherline"/>
-    <author fullname="Max Tryon" initials="M." surname="Tryon"/>
+    <author initials="RS" surname="Wyly">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Parker">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Rorrer">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Shaver">
+      <organization/>
+    </author>
+    <author initials="GC" surname="Sherline">
+      <organization/>
+    </author>
+    <author fullname="Max Tryon" initials="M." surname="Tryon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-531"/>
+  <seriesInfo name="NIST" value="NBS IR 74-531"/>
 </reference>

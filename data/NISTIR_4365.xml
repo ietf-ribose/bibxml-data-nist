@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4365" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4365.pdf">
   <front>
     <title>Thermal analysis of directly buried conduit heat distribution systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4365"/>
-    <seriesInfo name="NIST" value="NIST IR 4365"/>
-    <author fullname="Jin Fang" initials="J." surname="Fang"/>
+    <author fullname="Jin Fang" initials="B" surname="Fang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4365"/>
+  <seriesInfo name="NIST" value="NIST IR 4365"/>
 </reference>

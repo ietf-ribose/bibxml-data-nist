@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-198" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-198.pdf">
   <front>
     <title>Monitoring and reporting techniques for error rate and error distribution in optical disk systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-198"/>
-    <seriesInfo name="NIST" value="NIST SP 500-198"/>
-    <author fullname="Fernando Podio" initials="F." surname="Podio"/>
+    <author fullname="Fernando Podio" initials="L" surname="Podio">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-198"/>
+  <seriesInfo name="NIST" value="NIST SP 500-198"/>
 </reference>

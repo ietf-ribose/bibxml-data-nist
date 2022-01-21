@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.959e2008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication959e2008.pdf">
   <front>
     <title>CODATA recommended values of the fundamental constants of physics and chemistry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.959e2008"/>
-    <seriesInfo name="NIST" value="NIST SP 959e2008"/>
-    <author surname="Mohr"/>
-    <author surname="Mohr"/>
-    <author surname="Taylor"/>
-    <author surname="Newell"/>
+    <author initials="PJ" surname="Mohr">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Mohr">
+      <organization/>
+    </author>
+    <author initials="BN" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="DB" surname="Newell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.959e2008"/>
+  <seriesInfo name="NIST" value="NIST SP 959e2008"/>
 </reference>

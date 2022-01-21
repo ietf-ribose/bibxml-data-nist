@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2862" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2862.pdf">
   <front>
     <title>Development of a polymer pressure gage with temperature compensation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2862"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2862"/>
-    <author fullname="Anthony Bur" initials="A." surname="Bur"/>
-    <author fullname="Steven Roth" initials="S." surname="Roth"/>
+    <author fullname="Anthony Bur" initials="J" surname="Bur">
+      <organization/>
+    </author>
+    <author fullname="Steven Roth" initials="C" surname="Roth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2862"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2862"/>
 </reference>

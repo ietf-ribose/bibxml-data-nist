@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.24sup3" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular24sup3.pdf">
   <front>
     <title>Supplement no. 3 to circular no. 24:publications of the Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.24sup3"/>
-    <seriesInfo name="NIST" value="NBS CIRC 24sup3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1920"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.24sup3"/>
+  <seriesInfo name="NIST" value="NBS CIRC 24sup3"/>
 </reference>

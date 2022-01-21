@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub125.pdf">
   <front>
     <title>Directory of commercial testing and college research laboratories [superseding Bureau of Standards M90]/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.125"/>
-    <seriesInfo name="NIST" value="NBS MP 125"/>
-    <author fullname="Ann Rapuzzi" initials="A." surname="Rapuzzi"/>
+    <author fullname="Ann Rapuzzi" initials="E" surname="Rapuzzi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.125"/>
+  <seriesInfo name="NIST" value="NBS MP 125"/>
 </reference>

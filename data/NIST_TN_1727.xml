@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1727" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1727.pdf">
   <front>
     <title>Annex 47 Report 3: Commissioning Cost-Benefit and Persistence of Savings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1727"/>
-    <seriesInfo name="NIST" value="NIST TN 1727"/>
     <author fullname="Hannah Friedman" initials="H." surname="Friedman">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -42,4 +40,6 @@
     </author>
     <date year="2011" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1727"/>
+  <seriesInfo name="NIST" value="NIST TN 1727"/>
 </reference>

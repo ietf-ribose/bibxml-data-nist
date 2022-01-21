@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3257" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3257.pdf">
   <front>
     <title>Technical Activities 1985 :Center for Chemical Physics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3257"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3257"/>
-    <author fullname="Pierre Ausloos" initials="P." surname="Ausloos"/>
+    <author fullname="Pierre Ausloos" initials="P." surname="Ausloos">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3257"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3257"/>
 </reference>

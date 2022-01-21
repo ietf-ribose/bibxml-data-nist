@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.480-27" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-27.pdf">
   <front>
     <title>Security lighting for nuclear weapons storage sites :a literature review and bibliography</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-27"/>
-    <seriesInfo name="NIST" value="NBS SP 480-27"/>
-    <author fullname="Patrick Maguire" initials="P." surname="Maguire"/>
-    <author fullname="Joel Kramer" initials="J." surname="Kramer"/>
+    <author fullname="Patrick Maguire" initials="G" surname="Maguire">
+      <organization/>
+    </author>
+    <author fullname="Joel Kramer" initials="J" surname="Kramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-27"/>
+  <seriesInfo name="NIST" value="NBS SP 480-27"/>
 </reference>

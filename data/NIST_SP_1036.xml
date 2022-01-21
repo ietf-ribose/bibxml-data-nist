@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1036" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1036.pdf">
   <front>
     <title>An information theoretic evaluation criterion for 3D reconstruction algorithms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1036"/>
-    <seriesInfo name="NIST" value="NIST SP 1036"/>
-    <author fullname="Rama Chellappa" initials="R." surname="Chellappa"/>
-    <author fullname="AmitRoy Chowdhury" initials="A.R." surname="Chowdhury"/>
+    <author fullname="Rama Chellappa" initials="R." surname="Chellappa">
+      <organization/>
+    </author>
+    <author fullname="AmitRoy Chowdhury" initials="K" surname="Chowdhury">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1036"/>
+  <seriesInfo name="NIST" value="NIST SP 1036"/>
 </reference>

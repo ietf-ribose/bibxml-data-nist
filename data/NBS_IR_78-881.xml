@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-881" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-881.pdf">
   <front>
     <title>Applications of the homomorphic transformation to time domain measurement problems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-881"/>
-    <seriesInfo name="NIST" value="NBS IR 78-881"/>
-    <author fullname="Sedki Riad" initials="S." surname="Riad"/>
-    <author fullname="Norris Nahman" initials="N." surname="Nahman"/>
+    <author fullname="Sedki Riad" initials="M" surname="Riad">
+      <organization/>
+    </author>
+    <author fullname="Norris Nahman" initials="S" surname="Nahman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-881"/>
+  <seriesInfo name="NIST" value="NBS IR 78-881"/>
 </reference>

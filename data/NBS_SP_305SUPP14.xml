@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.305supp14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication305supp14.pdf">
   <front>
     <title>Publications of the National Bureau of Standards 1982 Catalog</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.305supp14"/>
-    <seriesInfo name="NIST" value="NBS SP 305supp14"/>
-    <author fullname="Rebecca Morehouse" initials="R." surname="Morehouse"/>
+    <author fullname="Rebecca Morehouse" initials="J" surname="Morehouse">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.305supp14"/>
+  <seriesInfo name="NIST" value="NBS SP 305supp14"/>
 </reference>

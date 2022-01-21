@@ -1,24 +1,54 @@
 <reference anchor="NIST.IR.6759" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6759.pdf">
   <front>
     <title>Final report of the e-SRM committee on the optimal delivery of services to customers for standard reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6759"/>
-    <seriesInfo name="NIST" value="NIST IR 6759"/>
-    <author fullname="Sally Bruce" initials="S." surname="Bruce"/>
-    <author fullname="Donna Clarke" initials="D." surname="Clarke"/>
-    <author fullname="James Ehrstein" initials="J." surname="Ehrstein"/>
-    <author fullname="Michael Epstein" initials="M." surname="Epstein"/>
-    <author fullname="Dale Friend" initials="D." surname="Friend"/>
-    <author fullname="Thomas Gills" initials="T." surname="Gills"/>
-    <author fullname="Kenneth Inn" initials="K." surname="Inn"/>
-    <author fullname="Larry Lucas" initials="L." surname="Lucas"/>
-    <author fullname="James Potzick" initials="J." surname="Potzick"/>
-    <author fullname="Mary Saunders" initials="M." surname="Saunders"/>
-    <author fullname="Nancy Trahey" initials="N." surname="Trahey"/>
-    <author fullname="John Travis" initials="J." surname="Travis"/>
-    <author fullname="Gilbert Ugiansky" initials="G." surname="Ugiansky"/>
-    <author fullname="Michael Verkouteren" initials="M." surname="Verkouteren"/>
-    <author fullname="Daniel Vigliotti" initials="D." surname="Vigliotti"/>
-    <author fullname="RobertJr Watters" initials="R.J." surname="Watters"/>
+    <author fullname="Sally Bruce" initials="S" surname="Bruce">
+      <organization/>
+    </author>
+    <author fullname="Donna Clarke" initials="J" surname="Clarke">
+      <organization/>
+    </author>
+    <author fullname="James Ehrstein" initials="R" surname="Ehrstein">
+      <organization/>
+    </author>
+    <author fullname="Michael Epstein" initials="S" surname="Epstein">
+      <organization/>
+    </author>
+    <author fullname="Dale Friend" initials="G" surname="Friend">
+      <organization/>
+    </author>
+    <author fullname="Thomas Gills" initials="E" surname="Gills">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Inn" initials="GW" surname="Inn">
+      <organization/>
+    </author>
+    <author fullname="Larry Lucas" initials="L" surname="Lucas">
+      <organization/>
+    </author>
+    <author fullname="James Potzick" initials="E" surname="Potzick">
+      <organization/>
+    </author>
+    <author fullname="Mary Saunders" initials="H" surname="Saunders">
+      <organization/>
+    </author>
+    <author fullname="Nancy Trahey" initials="M" surname="Trahey">
+      <organization/>
+    </author>
+    <author fullname="John Travis" initials="C" surname="Travis">
+      <organization/>
+    </author>
+    <author fullname="Gilbert Ugiansky" initials="M" surname="Ugiansky">
+      <organization/>
+    </author>
+    <author fullname="Michael Verkouteren" initials="R" surname="Verkouteren">
+      <organization/>
+    </author>
+    <author fullname="Daniel Vigliotti" initials="P" surname="Vigliotti">
+      <organization/>
+    </author>
+    <author fullname="RobertJr Watters" initials="L" surname="Watters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -31,4 +61,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6759"/>
+  <seriesInfo name="NIST" value="NIST IR 6759"/>
 </reference>

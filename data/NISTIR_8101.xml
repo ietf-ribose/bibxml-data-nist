@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8101" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8101.pdf">
   <front>
     <title>A Rational Foundation for Software Metrology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8101"/>
-    <seriesInfo name="NIST" value="NIST IR 8101"/>
     <author fullname="David Flater" initials="D." surname="Flater">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Black" initials="P." surname="Black">
+    <author fullname="Paul Black" initials="E" surname="Black">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong">
@@ -29,4 +27,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8101"/>
+  <seriesInfo name="NIST" value="NIST IR 8101"/>
 </reference>

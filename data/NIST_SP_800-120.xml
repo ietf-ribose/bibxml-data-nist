@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-120" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-120.pdf">
   <front>
     <title>Recommendation for EAP methods used in wireless network access authentication</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-120"/>
-    <seriesInfo name="NIST" value="NIST SP 800-120"/>
-    <author surname="Hoeper">
+    <author initials="K" surname="Hoeper">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Chen">
+    <author initials="L" surname="Chen">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-120"/>
+  <seriesInfo name="NIST" value="NIST SP 800-120"/>
 </reference>

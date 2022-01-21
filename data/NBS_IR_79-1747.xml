@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1747" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1747.pdf">
   <front>
     <title>Stairwell pressurization systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1747"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1747"/>
-    <author fullname="Irwin Benjamin" initials="I." surname="Benjamin"/>
-    <author fullname="John Klote" initials="J." surname="Klote"/>
+    <author fullname="Irwin Benjamin" initials="A" surname="Benjamin">
+      <organization/>
+    </author>
+    <author fullname="John Klote" initials="H" surname="Klote">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1747"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1747"/>
 </reference>

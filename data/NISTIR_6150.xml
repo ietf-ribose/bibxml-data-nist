@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6150" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6150.pdf">
   <front>
     <title>Molecular dynamics simulation of tethered chains</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6150"/>
-    <seriesInfo name="NIST" value="NIST IR 6150"/>
-    <author fullname="Raymond Mountain" initials="R." surname="Mountain"/>
-    <author fullname="Joseph Hubbard" initials="J." surname="Hubbard"/>
+    <author fullname="Raymond Mountain" initials="D" surname="Mountain">
+      <organization/>
+    </author>
+    <author fullname="Joseph Hubbard" initials="J." surname="Hubbard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6150"/>
+  <seriesInfo name="NIST" value="NIST IR 6150"/>
 </reference>

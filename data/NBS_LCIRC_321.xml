@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.321" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular321.pdf">
   <front>
     <title>Letter Circular 321:rubber latex</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.321"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 321"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.321"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 321"/>
 </reference>

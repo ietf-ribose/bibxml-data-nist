@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.782-1992" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication782-1992.pdf">
   <front>
     <title>NIST standard reference data products catalog 1992</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.782-1992"/>
-    <seriesInfo name="NIST" value="NIST SP 782-1992"/>
-    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase"/>
-    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase"/>
-    <author fullname="Joan Sauerwein" initials="J." surname="Sauerwein"/>
+    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase">
+      <organization/>
+    </author>
+    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase">
+      <organization/>
+    </author>
+    <author fullname="Joan Sauerwein" initials="C" surname="Sauerwein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.782-1992"/>
+  <seriesInfo name="NIST" value="NIST SP 782-1992"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.87-3677" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3677.pdf">
   <front>
     <title>Error prevention and detection in data preparation for the Vertical Workstation milling machine in the Automated Manufacturing Research Facility at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3677"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3677"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
-    <author fullname="Timothy Strayer" initials="T." surname="Strayer"/>
+    <author fullname="Thomas Kramer" initials="R" surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Timothy Strayer" initials="W" surname="Strayer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3677"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3677"/>
 </reference>

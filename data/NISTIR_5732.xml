@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5732" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5732.pdf">
   <front>
     <title>Calorimetric and visual measured of R123 pool boiling on four enhanced surfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5732"/>
-    <seriesInfo name="NIST" value="NIST IR 5732"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski"/>
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5732"/>
+  <seriesInfo name="NIST" value="NIST IR 5732"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8170-upd" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8170-upd.pdf">
   <front>
     <title>Approaches for Federal Agencies to Use the Cybersecurity Framework</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8170-upd"/>
-    <seriesInfo name="NIST" value="NIST IR 8170-upd"/>
     <author fullname="Matt Barrett" initials="M." surname="Barrett">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2021" month="August" day="17"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8170-upd"/>
+  <seriesInfo name="NIST" value="NIST IR 8170-upd"/>
 </reference>

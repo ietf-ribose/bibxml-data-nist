@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-704" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-704.pdf">
   <front>
     <title>Investigation of a 1-ton tank-car tank that leaked phosgene in Easton, Pennsylvania on April 24, 1973</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-704"/>
-    <seriesInfo name="NIST" value="NBS IR 75-704"/>
-    <author surname="Interrante"/>
+    <author initials="CG" surname="Interrante">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-704"/>
+  <seriesInfo name="NIST" value="NBS IR 75-704"/>
 </reference>

@@ -1,24 +1,22 @@
 <reference anchor="NIST.IR.8090" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8090.pdf">
   <front>
     <title>Measuring and Representing the Performance of Manufacturing Assembly Robots</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8090"/>
-    <seriesInfo name="NIST" value="NIST IR 8090"/>
-    <author fullname="Michael Shneier" initials="M." surname="Shneier">
+    <author fullname="Michael Shneier" initials="O" surname="Shneier">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Elena Messina" initials="E." surname="Messina">
+    <author fullname="Elena Messina" initials="R" surname="Messina">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+    <author fullname="Craig Schlenoff" initials="I" surname="Schlenoff">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Frederick Proctor" initials="F." surname="Proctor">
+    <author fullname="Frederick Proctor" initials="M" surname="Proctor">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer">
+    <author fullname="Thomas Kramer" initials="R" surname="Kramer">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Joseph Falco" initials="J." surname="Falco">
+    <author fullname="Joseph Falco" initials="A" surname="Falco">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8090"/>
+  <seriesInfo name="NIST" value="NIST IR 8090"/>
 </reference>

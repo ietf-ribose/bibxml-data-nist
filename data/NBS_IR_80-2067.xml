@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.80-2067" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2067.pdf">
   <front>
     <title>Survey on research needs on personal samplers for toxic organic compounds</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2067"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2067"/>
-    <author fullname="Jimmie Hodgeson" initials="J." surname="Hodgeson"/>
-    <author fullname="Alexander Fatiadi" initials="A." surname="Fatiadi"/>
-    <author fullname="Lance Wallace" initials="L." surname="Wallace"/>
-    <author fullname="Eugene Meier" initials="E." surname="Meier"/>
+    <author fullname="Jimmie Hodgeson" initials="A" surname="Hodgeson">
+      <organization/>
+    </author>
+    <author fullname="Alexander Fatiadi" initials="J" surname="Fatiadi">
+      <organization/>
+    </author>
+    <author fullname="Lance Wallace" initials="L." surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Eugene Meier" initials="P" surname="Meier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2067"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2067"/>
 </reference>

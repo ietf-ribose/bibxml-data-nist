@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-357" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-357.pdf">
   <front>
     <title>A modified Benedict-Webb-Rubin equation of state for parahydrogen</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-357"/>
-    <seriesInfo name="NIST" value="NBS IR 74-357"/>
-    <author surname="McCarty"/>
+    <author initials="RD" surname="McCarty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-357"/>
+  <seriesInfo name="NIST" value="NBS IR 74-357"/>
 </reference>

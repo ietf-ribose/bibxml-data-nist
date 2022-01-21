@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4756" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4756.pdf">
   <front>
     <title>Evaluation of the visibility of buoys and topmarks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4756"/>
-    <seriesInfo name="NIST" value="NIST IR 4756"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="Philip Sanders" initials="P." surname="Sanders"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="Philip Sanders" initials="A" surname="Sanders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4756"/>
+  <seriesInfo name="NIST" value="NIST IR 4756"/>
 </reference>

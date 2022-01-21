@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2125" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2125.pdf">
   <front>
     <title>Pool Boiling of R514A, R1224yd(Z), and R1336mzz(E) on a Reentrant Cavity Surface; Extensive Measurement and Analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2125"/>
-    <seriesInfo name="NIST" value="NIST TN 2125"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski">
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Lingnan Lin" initials="L." surname="Lin">
@@ -14,4 +12,6 @@
     </author>
     <date year="2020" month="December" day="4"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2125"/>
+  <seriesInfo name="NIST" value="NIST TN 2125"/>
 </reference>

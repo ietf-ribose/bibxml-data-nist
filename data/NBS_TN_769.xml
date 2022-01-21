@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.769" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote769.pdf">
   <front>
     <title>A rigorous correction procedure for quantitative electron probe microanalysis (COR 2)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.769"/>
-    <seriesInfo name="NIST" value="NBS TN 769"/>
-    <author fullname="Jean H*enoc" initials="J." surname="H*enoc"/>
+    <author fullname="Jean H*enoc" initials="J." surname="H*enoc">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.769"/>
+  <seriesInfo name="NIST" value="NBS TN 769"/>
 </reference>

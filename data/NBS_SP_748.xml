@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.748" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication748.pdf">
   <front>
     <title>Technical digest Symposium on Optical Fiber Measurements, 1988</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.748"/>
-    <seriesInfo name="NIST" value="NBS SP 748"/>
-    <author surname="Day"/>
-    <author surname="Franzen"/>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Franzen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.748"/>
+  <seriesInfo name="NIST" value="NBS SP 748"/>
 </reference>

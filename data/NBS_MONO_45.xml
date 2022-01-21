@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.45" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph45.pdf">
   <front>
     <title>Fire tests of precast cellular concrete floors and roofs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.45"/>
-    <seriesInfo name="NIST" value="NBS MONO 45"/>
-    <author surname="Ryan"/>
-    <author surname="Bender"/>
+    <author initials="JV" surname="Ryan">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Bender">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.45"/>
+  <seriesInfo name="NIST" value="NBS MONO 45"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4371" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4371.pdf">
   <front>
     <title>Fed-X:the NIST express translator</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4371"/>
-    <seriesInfo name="NIST" value="NIST IR 4371"/>
-    <author fullname="StephenNowland Clark" initials="S.N." surname="Clark"/>
+    <author fullname="StephenNowland Clark" initials="S.N." surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4371"/>
+  <seriesInfo name="NIST" value="NIST IR 4371"/>
 </reference>

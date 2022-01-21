@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.541" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular541.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 541:a spectrophotometric atlas of the ²Σ-²II transition of OH</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.541"/>
-    <seriesInfo name="NIST" value="NBS CIRC 541"/>
-    <author fullname="Arnold Bass" initials="A." surname="Bass"/>
+    <author fullname="Arnold Bass" initials="M" surname="Bass">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.541"/>
+  <seriesInfo name="NIST" value="NBS CIRC 541"/>
 </reference>

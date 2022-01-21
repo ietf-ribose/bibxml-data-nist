@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2020" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2020.pdf">
   <front>
     <title>Estimating smoke alarm effectiveness and spatial distribution in homes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2020"/>
-    <seriesInfo name="NIST" value="NIST TN 2020"/>
     <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2020"/>
+  <seriesInfo name="NIST" value="NIST TN 2020"/>
 </reference>

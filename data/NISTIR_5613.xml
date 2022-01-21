@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5613" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5613.pdf">
   <front>
     <title>Automated manufacturing research facility, 1994 annual report:a joint NISTNavy Manufacturing Technology Program conducted in collaboration with industry and academia</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5613"/>
-    <seriesInfo name="NIST" value="NIST IR 5613"/>
-    <author fullname="David Stieren" initials="D." surname="Stieren"/>
-    <author fullname="Cheryl Albus" initials="C." surname="Albus"/>
+    <author fullname="David Stieren" initials="C" surname="Stieren">
+      <organization/>
+    </author>
+    <author fullname="Cheryl Albus" initials="C." surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5613"/>
+  <seriesInfo name="NIST" value="NIST IR 5613"/>
 </reference>

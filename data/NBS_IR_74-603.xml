@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-603" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-603.pdf">
   <front>
     <title>A standard procedure for setting of photoelectric controls prior to installation on lighted obstructions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-603"/>
-    <seriesInfo name="NIST" value="NBS IR 74-603"/>
-    <author surname="Nimeroff"/>
+    <author initials="I" surname="Nimeroff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-603"/>
+  <seriesInfo name="NIST" value="NBS IR 74-603"/>
 </reference>

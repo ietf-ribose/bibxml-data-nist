@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.507" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication507.pdf">
   <front>
     <title>Standardization in support of development</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.507"/>
-    <seriesInfo name="NIST" value="NBS SP 507"/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
-    <author fullname="John Birch" initials="J." surname="Birch"/>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
+    <author fullname="John Birch" initials="A" surname="Birch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.507"/>
+  <seriesInfo name="NIST" value="NBS SP 507"/>
 </reference>

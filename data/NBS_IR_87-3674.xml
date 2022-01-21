@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3674" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3674.pdf">
   <front>
     <title>Draft stable implementation agreement for open systems interconnection protocols :NBS Workshop for Implementers of Open System Interconnection : version 1 edition 0</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3674"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3674"/>
-    <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal"/>
+    <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3674"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3674"/>
 </reference>

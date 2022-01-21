@@ -1,14 +1,24 @@
 <reference anchor="NBS.CSM.44" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CSM/nbscsm44.pdf">
   <front>
     <title>Monthly news bulletin of Commercial Standards Group, Bureau of Standards November 15, 1928</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CSM.44"/>
-    <seriesInfo name="NIST" value="NBS CSM 44"/>
-    <author surname="Tillman"/>
-    <author surname="Hudson"/>
-    <author surname="Ely"/>
-    <author surname="Fairchild"/>
-    <author surname="McAllister"/>
-    <author surname="Bouillon"/>
+    <author initials="SF" surname="Tillman">
+      <organization/>
+    </author>
+    <author initials="RM" surname="Hudson">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Ely">
+      <organization/>
+    </author>
+    <author initials="IJ" surname="Fairchild">
+      <organization/>
+    </author>
+    <author initials="AS" surname="McAllister">
+      <organization/>
+    </author>
+    <author initials="AV" surname="Bouillon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1928"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CSM.44"/>
+  <seriesInfo name="NIST" value="NBS CSM 44"/>
 </reference>

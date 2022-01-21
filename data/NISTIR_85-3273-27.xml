@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.85-3273-27" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.85-3273-27.pdf">
   <front>
     <title>Energy Price Indices and Discount Factors for Life-Cycle Cost Analysis – 2012Annual Supplement to NIST Handbook 135 and NBS Special Publication 709</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-27"/>
-    <seriesInfo name="NIST" value="NIST IR 85-3273-27"/>
-    <author fullname="Amy Rushing" initials="A." surname="Rushing">
+    <author fullname="Amy Rushing" initials="S" surname="Rushing">
       <organization>Applied Economics Office, Engineering Laboratory</organization>
     </author>
-    <author fullname="Joushua Kneifel" initials="J." surname="Kneifel">
+    <author fullname="Joushua Kneifel" initials="D" surname="Kneifel">
       <organization>Applied Economics Office, Engineering Laboratory</organization>
     </author>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt">
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
       <organization>Applied Economics Office, Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2012" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-27"/>
+  <seriesInfo name="NIST" value="NIST IR 85-3273-27"/>
 </reference>

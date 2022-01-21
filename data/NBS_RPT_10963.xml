@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10963" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10963.pdf">
   <front>
     <title>Guidelines for selection of and use of foam polyurethane roofing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10963"/>
-    <seriesInfo name="NIST" value="NBS RPT 10963"/>
-    <author fullname="William Cullen" initials="W." surname="Cullen"/>
+    <author fullname="William Cullen" initials="C" surname="Cullen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10963"/>
+  <seriesInfo name="NIST" value="NBS RPT 10963"/>
 </reference>

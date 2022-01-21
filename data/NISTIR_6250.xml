@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6250" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6250.pdf">
   <front>
     <title>Metallurgy, 1998 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6250"/>
-    <seriesInfo name="NIST" value="NIST IR 6250"/>
-    <author fullname="Carol Handwerker" initials="C." surname="Handwerker"/>
-    <author fullname="Robert Schaefer" initials="R." surname="Schaefer"/>
+    <author fullname="Carol Handwerker" initials="A" surname="Handwerker">
+      <organization/>
+    </author>
+    <author fullname="Robert Schaefer" initials="J" surname="Schaefer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6250"/>
+  <seriesInfo name="NIST" value="NIST IR 6250"/>
 </reference>

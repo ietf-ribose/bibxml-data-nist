@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.6582" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6582.pdf">
   <front>
     <title>Benefits and Costs of Research: A Case Study of Fire Dynamics Simulation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6582"/>
-    <seriesInfo name="NIST" value="NIST IR 6582"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt">
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
       <organization>Building and Fire Research Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2002" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6582"/>
+  <seriesInfo name="NIST" value="NIST IR 6582"/>
 </reference>

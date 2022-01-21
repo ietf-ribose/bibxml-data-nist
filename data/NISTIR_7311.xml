@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7311" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7311.pdf">
   <front>
     <title>Engineered infills for concrete barriers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7311"/>
-    <seriesInfo name="NIST" value="NIST IR 7311"/>
-    <author surname="Snyder"/>
-    <author fullname="Christine Langton" initials="C." surname="Langton"/>
-    <author fullname="Boyd Clark" initials="B." surname="Clark"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Jana Dawson" initials="J." surname="Dawson"/>
+    <author initials="KA" surname="Snyder">
+      <organization/>
+    </author>
+    <author fullname="Christine Langton" initials="C." surname="Langton">
+      <organization/>
+    </author>
+    <author fullname="Boyd Clark" initials="B." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Jana Dawson" initials="J." surname="Dawson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7311"/>
+  <seriesInfo name="NIST" value="NIST IR 7311"/>
 </reference>

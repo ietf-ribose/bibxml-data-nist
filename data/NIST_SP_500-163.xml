@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-163" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-163.pdf">
   <front>
     <title>Government open systems interconnection profile users' guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-163"/>
-    <seriesInfo name="NIST" value="NIST SP 500-163"/>
-    <author fullname="Tim Boland" initials="T." surname="Boland"/>
+    <author fullname="Tim Boland" initials="T." surname="Boland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-163"/>
+  <seriesInfo name="NIST" value="NIST SP 500-163"/>
 </reference>

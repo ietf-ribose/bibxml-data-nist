@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2122" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2122.pdf">
   <front>
     <title>Development of guide specifications for the 1980 exterior restoration of the White House</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2122"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2122"/>
-    <author fullname="Paul Campbell" initials="P." surname="Campbell"/>
-    <author fullname="Gerald Sleater" initials="G." surname="Sleater"/>
-    <author fullname="Mildred Post" initials="M." surname="Post"/>
+    <author fullname="Paul Campbell" initials="G" surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="Gerald Sleater" initials="A" surname="Sleater">
+      <organization/>
+    </author>
+    <author fullname="Mildred Post" initials="A" surname="Post">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2122"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2122"/>
 </reference>

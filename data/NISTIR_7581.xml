@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7581" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf">
   <front>
     <title>System and network security acronyms and abbreviations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7581"/>
-    <seriesInfo name="NIST" value="NIST IR 7581"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
-    <author fullname="Victoria Thompson" initials="V." surname="Thompson"/>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization/>
+    </author>
+    <author fullname="Victoria Thompson" initials="V." surname="Thompson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7581"/>
+  <seriesInfo name="NIST" value="NIST IR 7581"/>
 </reference>

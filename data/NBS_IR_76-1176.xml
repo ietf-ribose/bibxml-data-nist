@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1176" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1176.pdf">
   <front>
     <title>Regional seminar on OMNITAB II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1176"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1176"/>
-    <author fullname="David Hogben" initials="D." surname="Hogben"/>
-    <author fullname="Sally Peavy" initials="S." surname="Peavy"/>
+    <author fullname="David Hogben" initials="D." surname="Hogben">
+      <organization/>
+    </author>
+    <author fullname="Sally Peavy" initials="T" surname="Peavy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1176"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1176"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.57" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular57.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 57:United States standard tables for petroleum oils</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.57"/>
-    <seriesInfo name="NIST" value="NBS CIRC 57"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1916"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.57"/>
+  <seriesInfo name="NIST" value="NBS CIRC 57"/>
 </reference>

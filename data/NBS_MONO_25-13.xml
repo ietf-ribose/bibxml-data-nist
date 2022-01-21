@@ -1,15 +1,27 @@
 <reference anchor="NBS.MONO.25-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph25-13.pdf">
   <front>
     <title>Standard x-ray diffraction powder patterns :- 13- data for 58 substances</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.25-13"/>
-    <seriesInfo name="NIST" value="NBS MONO 25-13"/>
-    <author fullname="Marlene Morris" initials="M." surname="Morris"/>
-    <author fullname="Howard McMurdie" initials="H." surname="McMurdie"/>
-    <author fullname="Eloise Evans" initials="E." surname="Evans"/>
-    <author fullname="Boris Paretzkin" initials="B." surname="Paretzkin"/>
-    <author fullname="Johan de Groot" initials="J." surname="de Groot"/>
-    <author fullname="Camden Hubbard" initials="C." surname="Hubbard"/>
-    <author fullname="Simon Carmel" initials="S." surname="Carmel"/>
+    <author fullname="Marlene Morris" initials="C" surname="Morris">
+      <organization/>
+    </author>
+    <author fullname="Howard McMurdie" initials="F" surname="McMurdie">
+      <organization/>
+    </author>
+    <author fullname="Eloise Evans" initials="H" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Boris Paretzkin" initials="B." surname="Paretzkin">
+      <organization/>
+    </author>
+    <author fullname="Johan de Groot" initials="H" surname="de Groot">
+      <organization/>
+    </author>
+    <author fullname="Camden Hubbard" initials="R" surname="Hubbard">
+      <organization/>
+    </author>
+    <author fullname="Simon Carmel" initials="J" surname="Carmel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.25-13"/>
+  <seriesInfo name="NIST" value="NBS MONO 25-13"/>
 </reference>

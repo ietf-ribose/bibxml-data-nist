@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1491" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1491.pdf">
   <front>
     <title>Performance of thermal imaging cameras in high temperature environments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1491"/>
-    <seriesInfo name="NIST" value="NIST TN 1491"/>
-    <author fullname="Michelle Donnelly" initials="M." surname="Donnelly"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="Michael Selepak" initials="M." surname="Selepak"/>
+    <author fullname="Michelle Donnelly" initials="K" surname="Donnelly">
+      <organization/>
+    </author>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Michael Selepak" initials="J" surname="Selepak">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1491"/>
+  <seriesInfo name="NIST" value="NIST TN 1491"/>
 </reference>

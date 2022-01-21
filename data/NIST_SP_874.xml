@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.874" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication874.pdf">
   <front>
     <title>Methods for analysis of cancer chemopreventive agents in human serum</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.874"/>
-    <seriesInfo name="NIST" value="NIST SP 874"/>
-    <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas"/>
-    <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas"/>
-    <author fullname="Katherine Sharpless" initials="K." surname="Sharpless"/>
+    <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas">
+      <organization/>
+    </author>
+    <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas">
+      <organization/>
+    </author>
+    <author fullname="Katherine Sharpless" initials="E" surname="Sharpless">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.874"/>
+  <seriesInfo name="NIST" value="NIST SP 874"/>
 </reference>

@@ -1,20 +1,42 @@
 <reference anchor="NIST.IR.4566" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4566.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4566"/>
-    <seriesInfo name="NIST" value="NIST IR 4566"/>
-    <author surname="Tesk"/>
-    <author surname="Antonucci"/>
-    <author surname="Chiang"/>
-    <author surname="de Rijk"/>
-    <author fullname="III Kenney" initials="I." surname="Kenney"/>
-    <author surname="McKinney"/>
-    <author surname="Stansbury"/>
-    <author surname="Asaoka"/>
-    <author surname="Cheng"/>
-    <author surname="Matthews"/>
-    <author surname="Miyazaki"/>
-    <author surname="Tang"/>
+    <author initials="JA" surname="Tesk">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Antonucci">
+      <organization/>
+    </author>
+    <author initials="MYM" surname="Chiang">
+      <organization/>
+    </author>
+    <author initials="WE" surname="de Rijk">
+      <organization/>
+    </author>
+    <author fullname="III Kenney" initials="SM" surname="Kenney">
+      <organization/>
+    </author>
+    <author initials="JE" surname="McKinney">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Stansbury">
+      <organization/>
+    </author>
+    <author initials="K" surname="Asaoka">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Cheng">
+      <organization/>
+    </author>
+    <author initials="T" surname="Matthews">
+      <organization/>
+    </author>
+    <author initials="K" surname="Miyazaki">
+      <organization/>
+    </author>
+    <author initials="J" surname="Tang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -27,4 +49,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4566"/>
+  <seriesInfo name="NIST" value="NIST IR 4566"/>
 </reference>

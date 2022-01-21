@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7681" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7681.pdf">
   <front>
     <title>A semantic product modeling framework and language for behavior evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7681"/>
-    <seriesInfo name="NIST" value="NIST IR 7681"/>
-    <author fullname="JaeHyun Lee" initials="J.H." surname="Lee"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="HyoWon Suh" initials="H.W." surname="Suh"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
-    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="JaeHyun Lee" initials="J.H." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="HyoWon Suh" initials="H.W." surname="Suh">
+      <organization/>
+    </author>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
+    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="R." surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7681"/>
+  <seriesInfo name="NIST" value="NIST IR 7681"/>
 </reference>

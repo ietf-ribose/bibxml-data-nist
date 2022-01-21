@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2796" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2796.pdf">
   <front>
     <title>Proceedings of the fourth LAN-transport workshop :report of the fourth workshop for local area network implementors of the NBS specifications of the international standards organization transport class 4 protocol</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2796"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2796"/>
-    <author fullname="Fran Nielsen" initials="F." surname="Nielsen"/>
+    <author fullname="Fran Nielsen" initials="F." surname="Nielsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2796"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2796"/>
 </reference>

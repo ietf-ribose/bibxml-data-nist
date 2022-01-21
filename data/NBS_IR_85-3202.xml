@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3202" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3202.pdf">
   <front>
     <title>Linear opponent-colors model optimized for brightness prediction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3202"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3202"/>
-    <author fullname="Gerald Howett" initials="G." surname="Howett"/>
+    <author fullname="Gerald Howett" initials="L" surname="Howett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3202"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3202"/>
 </reference>

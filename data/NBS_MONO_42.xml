@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph42.pdf">
   <front>
     <title>Structure shielding against fallout radiation from nuclear weapons</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.42"/>
-    <seriesInfo name="NIST" value="NBS MONO 42"/>
-    <author surname="Spencer"/>
+    <author initials="LV" surname="Spencer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.42"/>
+  <seriesInfo name="NIST" value="NBS MONO 42"/>
 </reference>

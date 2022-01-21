@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.560" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular560.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 560:leather research and technology at the National Bureau of Standards- a review and bibliography</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.560"/>
-    <seriesInfo name="NIST" value="NBS CIRC 560"/>
-    <author fullname="Everett Wallace" initials="E." surname="Wallace"/>
+    <author fullname="Everett Wallace" initials="L" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.560"/>
+  <seriesInfo name="NIST" value="NBS CIRC 560"/>
 </reference>

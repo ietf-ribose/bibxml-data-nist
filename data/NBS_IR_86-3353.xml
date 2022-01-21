@@ -1,17 +1,33 @@
 <reference anchor="NBS.IR.86-3353" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3353.pdf">
   <front>
     <title>A comparative study of the structure and mechanical properties of polyethylene films used in heavy lift balloons</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3353"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3353"/>
-    <author surname="Khoury"/>
-    <author surname="Crissman"/>
-    <author surname="Barnes"/>
-    <author surname="Fanconi"/>
-    <author surname="Wagner"/>
-    <author surname="Guttman"/>
-    <author surname="Maurey"/>
-    <author surname="Harding"/>
-    <author surname="Bolz"/>
+    <author initials="F" surname="Khoury">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Crissman">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Barnes">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Fanconi">
+      <organization/>
+    </author>
+    <author initials="HL" surname="Wagner">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Guttman">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Maurey">
+      <organization/>
+    </author>
+    <author initials="CA" surname="Harding">
+      <organization/>
+    </author>
+    <author initials="LH" surname="Bolz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1986" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3353"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3353"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4165" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4165.pdf">
   <front>
     <title>Product data exchange:the PDES project status and objectives</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4165"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4165"/>
-    <author fullname="Bradford Smith" initials="B." surname="Smith"/>
+    <author fullname="Bradford Smith" initials="M" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4165"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4165"/>
 </reference>

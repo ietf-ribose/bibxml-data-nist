@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1200-25" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-25.pdf">
   <front>
     <title>Protocol for collecting and quantifying release from weathered epoxy-nanosilica coatings: using a simulated rain method and inductively coupled plasma-optical emission spectrometry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-25"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-25"/>
-    <author fullname="Savelas Rabb" initials="S." surname="Rabb">
+    <author fullname="Savelas Rabb" initials="A" surname="Rabb">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Lee Yu" initials="L." surname="Yu">
+    <author fullname="Lee Yu" initials="L" surname="Yu">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Deborah Jacobs" initials="D." surname="Jacobs">
+    <author fullname="Deborah Jacobs" initials="S" surname="Jacobs">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="November" day="30"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-25"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-25"/>
 </reference>

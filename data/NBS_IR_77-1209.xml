@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1209" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1209.pdf">
   <front>
     <title>Control of smoke movement in buildings :a review</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1209"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1209"/>
-    <author surname="Benjamin"/>
-    <author surname="Fung"/>
-    <author surname="Roth"/>
+    <author initials="IA" surname="Benjamin">
+      <organization/>
+    </author>
+    <author initials="F" surname="Fung">
+      <organization/>
+    </author>
+    <author initials="L" surname="Roth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1209"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1209"/>
 </reference>

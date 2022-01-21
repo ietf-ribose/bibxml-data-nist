@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-183" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-183.pdf">
   <front>
     <title>USAC transferability</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-183"/>
-    <seriesInfo name="NIST" value="NBS IR 73-183"/>
-    <author fullname="Donald Quigley" initials="D." surname="Quigley"/>
+    <author fullname="Donald Quigley" initials="F" surname="Quigley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-183"/>
+  <seriesInfo name="NIST" value="NBS IR 73-183"/>
 </reference>

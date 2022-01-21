@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.513" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication513.pdf">
   <front>
     <title>Reaction rate and photochemical data for atmospheric chemistry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.513"/>
-    <seriesInfo name="NIST" value="NBS SP 513"/>
-    <author fullname="Robert Hampson" initials="R." surname="Hampson"/>
-    <author fullname="David Garvin" initials="D." surname="Garvin"/>
+    <author fullname="Robert Hampson" initials="F" surname="Hampson">
+      <organization/>
+    </author>
+    <author fullname="David Garvin" initials="D." surname="Garvin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.513"/>
+  <seriesInfo name="NIST" value="NBS SP 513"/>
 </reference>

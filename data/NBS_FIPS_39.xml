@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.39" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub39.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: glossary for computer systems security</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.39"/>
-    <seriesInfo name="NIST" value="NBS FIPS 39"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.39"/>
+  <seriesInfo name="NIST" value="NBS FIPS 39"/>
 </reference>

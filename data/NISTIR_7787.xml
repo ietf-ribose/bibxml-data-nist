@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7787" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7787.pdf">
   <front>
     <title>Modeling and simulation of incident management for homeland security applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7787"/>
-    <seriesInfo name="NIST" value="NIST IR 7787"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Sanjay Jain" initials="S." surname="Jain"/>
-    <author fullname="Charles Hutchings" initials="C." surname="Hutchings"/>
+    <author fullname="Charles McLean" initials="C." surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Sanjay Jain" initials="S." surname="Jain">
+      <organization/>
+    </author>
+    <author fullname="Charles Hutchings" initials="C." surname="Hutchings">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7787"/>
+  <seriesInfo name="NIST" value="NIST IR 7787"/>
 </reference>

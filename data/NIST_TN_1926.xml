@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1926" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1926.pdf">
   <front>
     <title>Energetics of Small and Moderate-Scale Gaseous Pool Fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1926"/>
-    <seriesInfo name="NIST" value="NIST TN 1926"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+    <author fullname="Anthony Hamins" initials="P" surname="Hamins">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1926"/>
+  <seriesInfo name="NIST" value="NIST TN 1926"/>
 </reference>

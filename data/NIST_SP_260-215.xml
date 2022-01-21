@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.260-215" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-215.pdf">
   <front>
     <title>Certification of Standard Reference Material® 1936 Great Lakes Sediment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-215"/>
-    <seriesInfo name="NIST" value="NIST SP 260-215"/>
-    <author fullname="Jacqueline Bangma" initials="J." surname="Bangma">
+    <author fullname="Jacqueline Bangma" initials="T" surname="Bangma">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Debra Ellisor" initials="D." surname="Ellisor">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Michael Ellisor" initials="M." surname="Ellisor">
+    <author fullname="Michael Ellisor" initials="B" surname="Ellisor">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+    <author fullname="Alan Heckert" initials="N" surname="Heckert">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jennifer Hoguet" initials="J." surname="Hoguet">
@@ -24,7 +22,7 @@
     <author fullname="Jennifer Ness" initials="J." surname="Ness">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Jessica Reiner" initials="J." surname="Reiner">
+    <author fullname="Jessica Reiner" initials="L" surname="Reiner">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -32,4 +30,6 @@
     </author>
     <date year="2021" month="September" day="23"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-215"/>
+  <seriesInfo name="NIST" value="NIST SP 260-215"/>
 </reference>

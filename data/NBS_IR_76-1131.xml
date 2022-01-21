@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.76-1131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1131.pdf">
   <front>
     <title>A model performance standard for guardrails</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1131"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1131"/>
-    <author surname="Fattal"/>
-    <author surname="Cattaneo"/>
-    <author surname="Turner"/>
-    <author surname="Robinson"/>
+    <author initials="SG" surname="Fattal">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Cattaneo">
+      <organization/>
+    </author>
+    <author initials="GE" surname="Turner">
+      <organization/>
+    </author>
+    <author initials="SN" surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1131"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1131"/>
 </reference>

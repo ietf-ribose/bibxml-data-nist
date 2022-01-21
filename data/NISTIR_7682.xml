@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7682" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7682.pdf">
   <front>
     <title>Information system security best practices for UOCAVA-supporting systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7682"/>
-    <seriesInfo name="NIST" value="NIST IR 7682"/>
-    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
-    <author fullname="Geoff Beier" initials="G." surname="Beier"/>
-    <author fullname="Santosh Chokhani" initials="S." surname="Chokhani"/>
-    <author fullname="Paul Hoffman" initials="P." surname="Hoffman"/>
-    <author fullname="Jim Knoke" initials="J." surname="Knoke"/>
-    <author fullname="Scott Shorter" initials="S." surname="Shorter"/>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization/>
+    </author>
+    <author fullname="Geoff Beier" initials="G." surname="Beier">
+      <organization/>
+    </author>
+    <author fullname="Santosh Chokhani" initials="S." surname="Chokhani">
+      <organization/>
+    </author>
+    <author fullname="Paul Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Jim Knoke" initials="J." surname="Knoke">
+      <organization/>
+    </author>
+    <author fullname="Scott Shorter" initials="S." surname="Shorter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7682"/>
+  <seriesInfo name="NIST" value="NIST IR 7682"/>
 </reference>

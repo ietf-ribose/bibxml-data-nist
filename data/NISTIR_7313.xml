@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7313" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7313.pdf">
   <front>
     <title>5th annual PKI R&amp;D workshop "Making PKI easy to use" proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7313"/>
-    <seriesInfo name="NIST" value="NIST IR 7313"/>
-    <author fullname="William Polk" initials="W." surname="Polk"/>
-    <author fullname="Nelson Hastings" initials="N." surname="Hastings"/>
-    <author fullname="Kent Seamons" initials="K." surname="Seamons"/>
+    <author fullname="William Polk" initials="T" surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="Nelson Hastings" initials="E" surname="Hastings">
+      <organization/>
+    </author>
+    <author fullname="Kent Seamons" initials="K." surname="Seamons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7313"/>
+  <seriesInfo name="NIST" value="NIST IR 7313"/>
 </reference>

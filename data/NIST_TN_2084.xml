@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2084" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2084.pdf">
   <front>
     <title>Collapse risk of steel special moment frames per FEMA P695</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2084"/>
-    <seriesInfo name="NIST" value="NIST TN 2084"/>
-    <author fullname="Matthew Speicher" initials="M." surname="Speicher">
+    <author fullname="Matthew Speicher" initials="S" surname="Speicher">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Jazalyn Dukes" initials="J." surname="Dukes">
+    <author fullname="Jazalyn Dukes" initials="D" surname="Dukes">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Kevin Wong" initials="K." surname="Wong">
+    <author fullname="Kevin Wong" initials="K" surname="Wong">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2084"/>
+  <seriesInfo name="NIST" value="NIST TN 2084"/>
 </reference>

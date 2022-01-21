@@ -1,13 +1,21 @@
 <reference anchor="NBS.BSS.47" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience47.pdf">
   <front>
     <title>Structural deflections :a literature and state-of-the-art survey</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.47"/>
-    <seriesInfo name="NIST" value="NBS BSS 47"/>
-    <author surname="Galambos"/>
-    <author surname="Gould"/>
-    <author surname="Ravindra"/>
-    <author surname="Suryoutomo"/>
-    <author surname="Crist"/>
+    <author initials="TV" surname="Galambos">
+      <organization/>
+    </author>
+    <author initials="PL" surname="Gould">
+      <organization/>
+    </author>
+    <author initials="MK" surname="Ravindra">
+      <organization/>
+    </author>
+    <author initials="H" surname="Suryoutomo">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Crist">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.47"/>
+  <seriesInfo name="NIST" value="NBS BSS 47"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.83-2698" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2698.pdf">
   <front>
     <title>The characterization of the Chesapeake Bay :a systematic analysis of toxic trace elements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2698"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2698"/>
-    <author fullname="Howard Kingston" initials="H." surname="Kingston"/>
-    <author fullname="Ellyn Beary" initials="E." surname="Beary"/>
-    <author fullname="Billy Hardas" initials="B." surname="Hardas"/>
-    <author fullname="John Moody" initials="J." surname="Moody"/>
-    <author fullname="Theodore Rains" initials="T." surname="Rains"/>
-    <author fullname="Walter Liggett" initials="W." surname="Liggett"/>
+    <author fullname="Howard Kingston" initials="M" surname="Kingston">
+      <organization/>
+    </author>
+    <author fullname="Ellyn Beary" initials="S" surname="Beary">
+      <organization/>
+    </author>
+    <author fullname="Billy Hardas" initials="R" surname="Hardas">
+      <organization/>
+    </author>
+    <author fullname="John Moody" initials="R" surname="Moody">
+      <organization/>
+    </author>
+    <author fullname="Theodore Rains" initials="C" surname="Rains">
+      <organization/>
+    </author>
+    <author fullname="Walter Liggett" initials="S" surname="Liggett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2698"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2698"/>
 </reference>

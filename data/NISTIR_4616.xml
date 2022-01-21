@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4616" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4616.pdf">
   <front>
     <title>Building technology publications 1986 -1989</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4616"/>
-    <seriesInfo name="NIST" value="NIST IR 4616"/>
-    <author fullname="Thomas Somers" initials="T." surname="Somers"/>
+    <author fullname="Thomas Somers" initials="A" surname="Somers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4616"/>
+  <seriesInfo name="NIST" value="NIST IR 4616"/>
 </reference>

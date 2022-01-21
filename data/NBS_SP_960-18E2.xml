@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.960-18e2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-18e2.pdf">
   <front>
     <title>NIST recommended practice guideComputing uncertainty for charpy impact machine test results (2008 edition)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.960-18e2"/>
-    <seriesInfo name="NIST" value="NBS SP 960-18e2"/>
-    <author surname="McCowan"/>
-    <author fullname="C-M Wang" initials="C." surname="Wang"/>
-    <author surname="Splett"/>
+    <author initials="CN" surname="McCowan">
+      <organization/>
+    </author>
+    <author fullname="C-M Wang" initials="C." surname="Wang">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Splett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.960-18e2"/>
+  <seriesInfo name="NIST" value="NBS SP 960-18e2"/>
 </reference>

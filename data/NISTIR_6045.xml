@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6045" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6045.pdf">
   <front>
     <title>Method for estimating the energy efficiency ratio of mixed system air conditioners and heat pumps</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6045"/>
-    <seriesInfo name="NIST" value="NIST IR 6045"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
-    <author fullname="ByoungSoon Kim" initials="B.S." surname="Kim"/>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
+    <author fullname="ByoungSoon Kim" initials="B.S." surname="Kim">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6045"/>
+  <seriesInfo name="NIST" value="NIST IR 6045"/>
 </reference>

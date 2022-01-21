@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.78-1563" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1563.pdf">
   <front>
     <title>Guidelines for evaluation of a MIUS demonstration</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1563"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1563"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
-    <author fullname="David Mitchell" initials="D." surname="Mitchell"/>
-    <author fullname="John Schaefgen" initials="J." surname="Schaefgen"/>
-    <author fullname="Allen Chao" initials="A." surname="Chao"/>
-    <author fullname="Mark Kuklewicz" initials="M." surname="Kuklewicz"/>
-    <author fullname="Stephen Weber" initials="S." surname="Weber"/>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
+    <author fullname="David Mitchell" initials="J" surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="John Schaefgen" initials="R" surname="Schaefgen">
+      <organization/>
+    </author>
+    <author fullname="Allen Chao" initials="C" surname="Chao">
+      <organization/>
+    </author>
+    <author fullname="Mark Kuklewicz" initials="E" surname="Kuklewicz">
+      <organization/>
+    </author>
+    <author fullname="Stephen Weber" initials="F" surname="Weber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1563"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1563"/>
 </reference>

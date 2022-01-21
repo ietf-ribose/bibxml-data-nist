@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.250-27" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-27.pdf">
   <front>
     <title>AC-DC difference calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-27"/>
-    <seriesInfo name="NIST" value="NIST SP 250-27"/>
-    <author surname="Kinard"/>
-    <author surname="Hastings"/>
-    <author surname="Lipe"/>
-    <author surname="Childers"/>
+    <author initials="JR" surname="Kinard">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Hastings">
+      <organization/>
+    </author>
+    <author initials="TE" surname="Lipe">
+      <organization/>
+    </author>
+    <author initials="CB" surname="Childers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-27"/>
+  <seriesInfo name="NIST" value="NIST SP 250-27"/>
 </reference>

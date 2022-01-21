@@ -1,9 +1,9 @@
 <reference anchor="NIST.HB.143-2003" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook143-2003.pdf">
   <front>
     <title>State weights and measures laboratories: program handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.143-2003"/>
-    <seriesInfo name="NIST" value="NIST HB 143-2003"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris"/>
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.143-2003"/>
+  <seriesInfo name="NIST" value="NIST HB 143-2003"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5015" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5015.pdf">
   <front>
     <title>Crosstalk between microstrip transmission lines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5015"/>
-    <seriesInfo name="NIST" value="NIST IR 5015"/>
-    <author fullname="Robert Johnk" initials="R." surname="Johnk"/>
+    <author fullname="Robert Johnk" initials="T" surname="Johnk">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5015"/>
+  <seriesInfo name="NIST" value="NIST IR 5015"/>
 </reference>

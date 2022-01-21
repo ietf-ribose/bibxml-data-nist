@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1410" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1410.pdf">
   <front>
     <title>Performance of plastic packaging for hazardous materials transportation :Part III. Stress cracking</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1410"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1410"/>
-    <author fullname="John Crissman" initials="J." surname="Crissman"/>
-    <author fullname="Louis Zapas" initials="L." surname="Zapas"/>
+    <author fullname="John Crissman" initials="M" surname="Crissman">
+      <organization/>
+    </author>
+    <author fullname="Louis Zapas" initials="J" surname="Zapas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1410"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1410"/>
 </reference>

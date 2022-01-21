@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.129" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures129.pdf">
   <front>
     <title>Fire resistance of shutters for moving-stairway openings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.129"/>
-    <seriesInfo name="NIST" value="NBS BMS 129"/>
-    <author fullname="Nolan Mitchell" initials="N." surname="Mitchell"/>
-    <author fullname="Edward Bender" initials="E." surname="Bender"/>
-    <author fullname="James Ryan" initials="J." surname="Ryan"/>
+    <author fullname="Nolan Mitchell" initials="D" surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Edward Bender" initials="D" surname="Bender">
+      <organization/>
+    </author>
+    <author fullname="James Ryan" initials="V" surname="Ryan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.129"/>
+  <seriesInfo name="NIST" value="NBS BMS 129"/>
 </reference>

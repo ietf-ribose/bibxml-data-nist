@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.34e3" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular34e3.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 34 3rd edition:the relation of the horsepower to the kilowatt</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.34e3"/>
-    <seriesInfo name="NIST" value="NBS CIRC 34e3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1915"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.34e3"/>
+  <seriesInfo name="NIST" value="NBS CIRC 34e3"/>
 </reference>

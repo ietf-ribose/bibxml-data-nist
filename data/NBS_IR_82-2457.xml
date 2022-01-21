@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.82-2457" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2457.pdf">
   <front>
     <title>25 gram capacity combustion flow calorimeter</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2457"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2457"/>
-    <author surname="Domalski"/>
-    <author surname="Churney"/>
-    <author surname="Reilly"/>
-    <author surname="Kirklin"/>
-    <author surname="Ledford"/>
-    <author surname="Thornton"/>
+    <author initials="ES" surname="Domalski">
+      <organization/>
+    </author>
+    <author initials="KL" surname="Churney">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Reilly">
+      <organization/>
+    </author>
+    <author initials="DR" surname="Kirklin">
+      <organization/>
+    </author>
+    <author initials="AE" surname="Ledford">
+      <organization/>
+    </author>
+    <author initials="DD" surname="Thornton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2457"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2457"/>
 </reference>

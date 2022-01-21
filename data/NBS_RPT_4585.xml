@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.4585" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4585.pdf">
   <front>
     <title>A proposed specification for dental chromium-cobalt casting alloys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4585"/>
-    <seriesInfo name="NIST" value="NBS RPT 4585"/>
-    <author fullname="Duane Taylor" initials="D." surname="Taylor"/>
-    <author surname="Sweeney"/>
+    <author fullname="Duane Taylor" initials="F" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="WT" surname="Sweeney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4585"/>
+  <seriesInfo name="NIST" value="NBS RPT 4585"/>
 </reference>

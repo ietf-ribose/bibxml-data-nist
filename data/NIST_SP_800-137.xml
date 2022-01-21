@@ -1,16 +1,30 @@
 <reference anchor="NIST.SP.800-137" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf">
   <front>
     <title>Information Security Continuous Monitoring (ISCM) for federal information systems and organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-137"/>
-    <seriesInfo name="NIST" value="NIST SP 800-137"/>
-    <author surname="Dempsey"/>
-    <author surname="Chawla"/>
-    <author surname="Johnson"/>
-    <author surname="Johnston"/>
-    <author surname="Jones"/>
-    <author surname="Orebaugh"/>
-    <author surname="Scholl"/>
-    <author surname="Stine"/>
+    <author initials="KL" surname="Dempsey">
+      <organization/>
+    </author>
+    <author initials="NS" surname="Chawla">
+      <organization/>
+    </author>
+    <author initials="LA" surname="Johnson">
+      <organization/>
+    </author>
+    <author initials="R" surname="Johnston">
+      <organization/>
+    </author>
+    <author initials="AC" surname="Jones">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Orebaugh">
+      <organization/>
+    </author>
+    <author initials="MA" surname="Scholl">
+      <organization/>
+    </author>
+    <author initials="KM" surname="Stine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-137"/>
+  <seriesInfo name="NIST" value="NIST SP 800-137"/>
 </reference>

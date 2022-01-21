@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-14.pdf">
   <front>
     <title>Generally accepted principles and practices for securing information technology systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-14"/>
-    <seriesInfo name="NIST" value="NIST SP 800-14"/>
     <author fullname="Marianne Swanson" initials="M." surname="Swanson">
       <organization>Computer Security Division.</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-14"/>
+  <seriesInfo name="NIST" value="NIST SP 800-14"/>
 </reference>

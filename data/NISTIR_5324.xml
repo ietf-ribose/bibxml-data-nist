@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5324" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5324.pdf">
   <front>
     <title>Color supplement to NIST special publication 400-93:</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5324"/>
-    <seriesInfo name="NIST" value="NIST IR 5324"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5324"/>
+  <seriesInfo name="NIST" value="NIST IR 5324"/>
 </reference>

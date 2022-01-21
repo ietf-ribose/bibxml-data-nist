@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7857" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7857.pdf">
   <front>
     <title>Fifteenth annual report on federal agency use of voluntary consensus standards and conformity assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7857"/>
-    <seriesInfo name="NIST" value="NIST IR 7857"/>
-    <author fullname="Mary Donaldson" initials="M." surname="Donaldson"/>
-    <author fullname="Nathalie Rioux" initials="N." surname="Rioux"/>
+    <author fullname="Mary Donaldson" initials="F" surname="Donaldson">
+      <organization/>
+    </author>
+    <author fullname="Nathalie Rioux" initials="N." surname="Rioux">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7857"/>
+  <seriesInfo name="NIST" value="NIST IR 7857"/>
 </reference>

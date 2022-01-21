@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.284" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote284.pdf">
   <front>
     <title>An outline for cooperative action on the determination of x-ray mass attenuation coefficients in the wavelength range from 0.5 to 100 A (25 to 0.12 keV)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.284"/>
-    <seriesInfo name="NIST" value="NBS TN 284"/>
-    <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
+    <author fullname="Kurt Heinrich" initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.284"/>
+  <seriesInfo name="NIST" value="NBS TN 284"/>
 </reference>

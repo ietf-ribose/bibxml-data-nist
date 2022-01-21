@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3514" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3514.pdf">
   <front>
     <title>SASE</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3514"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3514"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="May Slava" initials="M." surname="Slava"/>
-    <author fullname="James Barnett" initials="J." surname="Barnett"/>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="May Slava" initials="T" surname="Slava">
+      <organization/>
+    </author>
+    <author fullname="James Barnett" initials="P" surname="Barnett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3514"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3514"/>
 </reference>

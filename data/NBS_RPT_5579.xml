@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5579" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5579.pdf">
   <front>
     <title>Hourly correlation of radio path lengths and surface refractivity index from Maui, T. H., phase stability program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5579"/>
-    <seriesInfo name="NIST" value="NBS RPT 5579"/>
-    <author fullname="Jr Thompson" initials="J." surname="Thompson"/>
-    <author fullname="Frank Freehey" initials="F." surname="Freehey"/>
+    <author fullname="Jr Thompson" initials="MC" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Frank Freehey" initials="E" surname="Freehey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5579"/>
+  <seriesInfo name="NIST" value="NBS RPT 5579"/>
 </reference>

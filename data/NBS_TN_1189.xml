@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.1189" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1189.pdf">
   <front>
     <title>A thermodynamic surface for the critical region of ethylene</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1189"/>
-    <seriesInfo name="NIST" value="NBS TN 1189"/>
-    <author surname="Kamgar-Parsi"/>
-    <author surname="Levelt Sengers"/>
-    <author surname="Olchowy"/>
-    <author surname="Sengers"/>
+    <author initials="B" surname="Kamgar-Parsi">
+      <organization/>
+    </author>
+    <author initials="JMH" surname="Levelt Sengers">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Olchowy">
+      <organization/>
+    </author>
+    <author initials="JV" surname="Sengers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1189"/>
+  <seriesInfo name="NIST" value="NBS TN 1189"/>
 </reference>

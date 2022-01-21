@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6213" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6213.pdf">
   <front>
     <title>Obstacle detection and mapping system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6213"/>
-    <seriesInfo name="NIST" value="NIST IR 6213"/>
-    <author fullname="Tsai-Hong Hong" initials="T." surname="Hong"/>
-    <author fullname="Steven Legowik" initials="S." surname="Legowik"/>
-    <author fullname="Marilyn Nashman" initials="M." surname="Nashman"/>
+    <author fullname="Tsai-Hong Hong" initials="T." surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="Steven Legowik" initials="S." surname="Legowik">
+      <organization/>
+    </author>
+    <author fullname="Marilyn Nashman" initials="M." surname="Nashman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6213"/>
+  <seriesInfo name="NIST" value="NIST IR 6213"/>
 </reference>

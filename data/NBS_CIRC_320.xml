@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.320" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular320.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 320:puncture-sealing compounds for pneumatic tires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.320"/>
-    <seriesInfo name="NIST" value="NBS CIRC 320"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1927"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.320"/>
+  <seriesInfo name="NIST" value="NBS CIRC 320"/>
 </reference>

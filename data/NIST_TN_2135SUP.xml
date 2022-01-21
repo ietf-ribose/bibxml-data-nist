@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2135sup" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2135sup.pdf">
   <front>
     <title>A Case Study of the Camp Fire – Fire Progression Timeline, Appendix C. Community WUI Fire Hazard Evaluation Framework</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2135sup"/>
-    <seriesInfo name="NIST" value="NIST TN 2135sup"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,7 +25,7 @@
     <author fullname="Bob Vihnaneck" initials="B." surname="Vihnaneck">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="William Walton" initials="W." surname="Walton">
+    <author fullname="William Walton" initials="D" surname="Walton">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -35,4 +33,6 @@
     </author>
     <date year="2021" month="November" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2135sup"/>
+  <seriesInfo name="NIST" value="NIST TN 2135sup"/>
 </reference>

@@ -1,19 +1,39 @@
 <reference anchor="NBS.BH.11" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing11.pdf">
   <front>
     <title>A standard city planning enabling act by the advisory committee on city planning and zoning appointed by secretary Hoover</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BH.11"/>
-    <seriesInfo name="NIST" value="NBS BH 11"/>
-    <author fullname="Charles Ball" initials="C." surname="Ball"/>
-    <author fullname="Edward Bassett" initials="E." surname="Bassett"/>
-    <author fullname="Alfred Bettman" initials="A." surname="Bettman"/>
-    <author fullname="Irving Hiett" initials="I." surname="Hiett"/>
-    <author fullname="John Ihlder" initials="J." surname="Ihlder"/>
-    <author fullname="Morris Knowles" initials="M." surname="Knowles"/>
-    <author fullname="Horace McFarland" initials="H." surname="McFarland"/>
-    <author fullname="FrederickLaw Olmstead" initials="F.L." surname="Olmstead"/>
-    <author fullname="Lawrence Veiller" initials="L." surname="Veiller"/>
-    <author fullname="JamesSpear Taylor" initials="J.S." surname="Taylor"/>
-    <author fullname="John Gries" initials="J." surname="Gries"/>
+    <author fullname="Charles Ball" initials="B" surname="Ball">
+      <organization/>
+    </author>
+    <author fullname="Edward Bassett" initials="M" surname="Bassett">
+      <organization/>
+    </author>
+    <author fullname="Alfred Bettman" initials="A." surname="Bettman">
+      <organization/>
+    </author>
+    <author fullname="Irving Hiett" initials="B" surname="Hiett">
+      <organization/>
+    </author>
+    <author fullname="John Ihlder" initials="J." surname="Ihlder">
+      <organization/>
+    </author>
+    <author fullname="Morris Knowles" initials="M." surname="Knowles">
+      <organization/>
+    </author>
+    <author fullname="Horace McFarland" initials="J" surname="McFarland">
+      <organization/>
+    </author>
+    <author fullname="FrederickLaw Olmstead" initials="F.L." surname="Olmstead">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Veiller" initials="L." surname="Veiller">
+      <organization/>
+    </author>
+    <author fullname="JamesSpear Taylor" initials="J.S." surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="John Gries" initials="M" surname="Gries">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="1928"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BH.11"/>
+  <seriesInfo name="NIST" value="NBS BH 11"/>
 </reference>

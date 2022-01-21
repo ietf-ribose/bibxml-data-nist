@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6941" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6941.pdf">
   <front>
     <title>Review of residential sprinkler systems:research and standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6941"/>
-    <seriesInfo name="NIST" value="NIST IR 6941"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="Russell Fleming" initials="R." surname="Fleming"/>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="Russell Fleming" initials="P" surname="Fleming">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6941"/>
+  <seriesInfo name="NIST" value="NIST IR 6941"/>
 </reference>

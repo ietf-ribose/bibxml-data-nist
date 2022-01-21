@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2148" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2148.pdf">
   <front>
     <title>Data Reduction Tool for Spherical Constant Volume Flame Experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2148"/>
-    <seriesInfo name="NIST" value="NIST TN 2148"/>
-    <author fullname="Michael Hegetschweiler" initials="M." surname="Hegetschweiler">
+    <author fullname="Michael Hegetschweiler" initials="J" surname="Hegetschweiler">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Gregory Linteris" initials="G." surname="Linteris">
+    <author fullname="Gregory Linteris" initials="T" surname="Linteris">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="April" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2148"/>
+  <seriesInfo name="NIST" value="NIST TN 2148"/>
 </reference>

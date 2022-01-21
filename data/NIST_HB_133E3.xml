@@ -1,11 +1,15 @@
 <reference anchor="NIST.HB.133e3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook133e3.pdf">
   <front>
     <title>Checking the net contents of packaged goods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.133e3"/>
-    <seriesInfo name="NIST" value="NIST HB 133e3"/>
-    <author surname="Brickenkamp"/>
-    <author surname="Hasko"/>
-    <author surname="Natrella"/>
+    <author initials="CS" surname="Brickenkamp">
+      <organization/>
+    </author>
+    <author initials="S" surname="Hasko">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Natrella">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.133e3"/>
+  <seriesInfo name="NIST" value="NIST HB 133e3"/>
 </reference>

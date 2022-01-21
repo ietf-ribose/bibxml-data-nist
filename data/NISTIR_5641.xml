@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5641" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5641.pdf">
   <front>
     <title>Anisotropy of interfaces in an ordered alloy:a multiple-order-parameter model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5641"/>
-    <seriesInfo name="NIST" value="NIST IR 5641"/>
-    <author surname="Braun"/>
-    <author surname="Cahn"/>
-    <author surname="McFadden"/>
-    <author surname="Wheeler"/>
+    <author initials="RJ" surname="Braun">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Cahn">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
+    <author initials="AA" surname="Wheeler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5641"/>
+  <seriesInfo name="NIST" value="NIST IR 5641"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.15-982" target="https://nvlpubs.nist.gov/nistpubs/gcr/2015/NIST.GCR.15-982.pdf">
   <front>
     <title>NIST WUI Project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-982"/>
-    <seriesInfo name="NIST" value="NIST GCR 15-982"/>
     <author fullname="Michael Hennig" initials="M." surname="Hennig">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-982"/>
+  <seriesInfo name="NIST" value="NIST GCR 15-982"/>
 </reference>

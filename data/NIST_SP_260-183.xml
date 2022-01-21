@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.260-183" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-183.pdf">
   <front>
     <title>SRM 1967a: High-Purity Platinum Thermoelement</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-183"/>
-    <seriesInfo name="NIST" value="NIST SP 260-183"/>
-    <author surname="Garrity">
+    <author initials="KM" surname="Garrity">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Ripple">
+    <author initials="DC" surname="Ripple">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Tew">
+    <author initials="WL" surname="Tew">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-183"/>
+  <seriesInfo name="NIST" value="NIST SP 260-183"/>
 </reference>

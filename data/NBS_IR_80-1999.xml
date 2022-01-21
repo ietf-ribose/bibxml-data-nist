@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.80-1999" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1999.pdf">
   <front>
     <title>Models for the migration of additives in polyolefins</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1999"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1999"/>
-    <author surname="Smith"/>
-    <author surname="Chang"/>
-    <author surname="McCrackin"/>
-    <author surname="Sanchez"/>
-    <author surname="Senich"/>
+    <author initials="LE" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="SS" surname="Chang">
+      <organization/>
+    </author>
+    <author initials="FL" surname="McCrackin">
+      <organization/>
+    </author>
+    <author initials="IC" surname="Sanchez">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Senich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1999"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1999"/>
 </reference>

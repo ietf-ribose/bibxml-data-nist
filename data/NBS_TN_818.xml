@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.818" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote818.pdf">
   <front>
     <title>Occupant behavior in building fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.818"/>
-    <seriesInfo name="NIST" value="NBS TN 818"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
+    <author fullname="Arthur Rubin" initials="I" surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.818"/>
+  <seriesInfo name="NIST" value="NBS TN 818"/>
 </reference>

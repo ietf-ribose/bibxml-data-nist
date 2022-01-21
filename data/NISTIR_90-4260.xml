@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.90-4260" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4260.pdf">
   <front>
     <title>Emerging technologies in electronics... and their measurement needs:second edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4260"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4260"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4260"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4260"/>
 </reference>

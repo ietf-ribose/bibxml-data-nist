@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4469" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4469.pdf">
   <front>
     <title>Short-duration autoignition temperature measurements for hydrocarbon fuels</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4469"/>
-    <seriesInfo name="NIST" value="NIST IR 4469"/>
-    <author fullname="Kermit Smyth" initials="K." surname="Smyth"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
+    <author fullname="Kermit Smyth" initials="C" surname="Smyth">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4469"/>
+  <seriesInfo name="NIST" value="NIST IR 4469"/>
 </reference>

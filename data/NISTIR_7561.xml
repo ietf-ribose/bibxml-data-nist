@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7561" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7561.pdf">
   <front>
     <title>OntoSTEP :OWL-DL ontology for STEP</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7561"/>
-    <seriesInfo name="NIST" value="NIST IR 7561"/>
-    <author fullname="Sylvere Krima" initials="S." surname="Krima"/>
-    <author fullname="Raphael Barbau" initials="R." surname="Barbau"/>
-    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini"/>
-    <author fullname="Rachuri Sudarsan" initials="R." surname="Sudarsan"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Sylvere Krima" initials="S." surname="Krima">
+      <organization/>
+    </author>
+    <author fullname="Raphael Barbau" initials="R." surname="Barbau">
+      <organization/>
+    </author>
+    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini">
+      <organization/>
+    </author>
+    <author fullname="Rachuri Sudarsan" initials="R." surname="Sudarsan">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7561"/>
+  <seriesInfo name="NIST" value="NIST IR 7561"/>
 </reference>

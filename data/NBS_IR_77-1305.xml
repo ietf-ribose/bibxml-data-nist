@@ -1,22 +1,48 @@
 <reference anchor="NBS.IR.77-1305" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1305.pdf">
   <front>
     <title>Provisional flat plate solar collector testing procedures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1305"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1305"/>
-    <author fullname="David Reese" initials="D." surname="Reese"/>
-    <author fullname="Howard Yen" initials="H." surname="Yen"/>
-    <author fullname="Joe Johnson" initials="J." surname="Johnson"/>
-    <author fullname="Robert Losey" initials="R." surname="Losey"/>
-    <author fullname="Wayne Swanson" initials="W." surname="Swanson"/>
-    <author fullname="Rick Pitman" initials="R." surname="Pitman"/>
-    <author fullname="Janet Kennedy" initials="J." surname="Kennedy"/>
-    <author fullname="David Wakeman" initials="D." surname="Wakeman"/>
-    <author fullname="Elmer Stread" initials="E." surname="Stread"/>
-    <author fullname="Thaomas Reichard" initials="T." surname="Reichard"/>
-    <author fullname="Edgar Leyendecker" initials="E." surname="Leyendecker"/>
-    <author fullname="Louis Cattaneo" initials="L." surname="Cattaneo"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
-    <author fullname="Wi Walton" initials="W." surname="Walton"/>
+    <author fullname="David Reese" initials="R" surname="Reese">
+      <organization/>
+    </author>
+    <author fullname="Howard Yen" initials="H" surname="Yen">
+      <organization/>
+    </author>
+    <author fullname="Joe Johnson" initials="H" surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="Robert Losey" initials="E" surname="Losey">
+      <organization/>
+    </author>
+    <author fullname="Wayne Swanson" initials="L" surname="Swanson">
+      <organization/>
+    </author>
+    <author fullname="Rick Pitman" initials="E" surname="Pitman">
+      <organization/>
+    </author>
+    <author fullname="Janet Kennedy" initials="M" surname="Kennedy">
+      <organization/>
+    </author>
+    <author fullname="David Wakeman" initials="D." surname="Wakeman">
+      <organization/>
+    </author>
+    <author fullname="Elmer Stread" initials="R" surname="Stread">
+      <organization/>
+    </author>
+    <author fullname="Thaomas Reichard" initials="W" surname="Reichard">
+      <organization/>
+    </author>
+    <author fullname="Edgar Leyendecker" initials="V" surname="Leyendecker">
+      <organization/>
+    </author>
+    <author fullname="Louis Cattaneo" initials="E" surname="Cattaneo">
+      <organization/>
+    </author>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
+    <author fullname="Wi Walton" initials="W." surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -29,4 +55,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1305"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1305"/>
 </reference>

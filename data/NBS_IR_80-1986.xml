@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-1986" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1986.pdf">
   <front>
     <title>A summary of oil shale activities at the National Bureau of Standards 1975-1979 :interagency energyenvironment R&amp;D program report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1986"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1986"/>
-    <author fullname="Lottie McClendon" initials="L." surname="McClendon"/>
+    <author fullname="Lottie McClendon" initials="T" surname="McClendon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1986"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1986"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook123.pdf">
   <front>
     <title>American national standard N537; radiological safety standard for the design of radiographic and fluoroscopic industrial x-ray equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.123"/>
-    <seriesInfo name="NIST" value="NBS HB 123"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.123"/>
+  <seriesInfo name="NIST" value="NBS HB 123"/>
 </reference>

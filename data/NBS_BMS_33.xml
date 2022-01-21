@@ -1,13 +1,21 @@
 <reference anchor="NBS.BMS.33" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures33.pdf">
   <front>
     <title>Plastic calking materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.33"/>
-    <seriesInfo name="NIST" value="NBS BMS 33"/>
-    <author surname="Tregoning"/>
-    <author surname="Milliken"/>
-    <author surname="Hockman"/>
-    <author surname="Sligh"/>
-    <author fullname="DW Kessler" initials="D." surname="Kessler"/>
+    <author initials="JJ" surname="Tregoning">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Milliken">
+      <organization/>
+    </author>
+    <author initials="A" surname="Hockman">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Sligh">
+      <organization/>
+    </author>
+    <author fullname="DW Kessler" initials="D." surname="Kessler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.33"/>
+  <seriesInfo name="NIST" value="NBS BMS 33"/>
 </reference>

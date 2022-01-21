@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-96" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-96.pdf">
   <front>
     <title>PIV card to reader interoperability guidelines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-96"/>
-    <seriesInfo name="NIST" value="NIST SP 800-96"/>
-    <author surname="Dray">
+    <author initials="JF" surname="Dray">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Giles">
+    <author initials="A" surname="Giles">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Kelley">
+    <author initials="M" surname="Kelley">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Chandramouli">
+    <author initials="R" surname="Chandramouli">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-96"/>
+  <seriesInfo name="NIST" value="NIST SP 800-96"/>
 </reference>

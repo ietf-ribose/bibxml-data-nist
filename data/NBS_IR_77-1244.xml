@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1244" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1244.pdf">
   <front>
     <title>Survey of uses of waste materials in construction in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1244"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1244"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Paul Brown" initials="P." surname="Brown"/>
-    <author fullname="Geoffrey Frohndorff" initials="G." surname="Frohndorff"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Paul Brown" initials="W" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Geoffrey Frohndorff" initials="G." surname="Frohndorff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1244"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1244"/>
 </reference>

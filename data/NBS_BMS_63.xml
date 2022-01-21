@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.63" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures63.pdf">
   <front>
     <title>Moisture condensation in building walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.63"/>
-    <seriesInfo name="NIST" value="NBS BMS 63"/>
-    <author fullname="Harold Woolley" initials="H." surname="Woolley"/>
+    <author fullname="Harold Woolley" initials="W" surname="Woolley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.63"/>
+  <seriesInfo name="NIST" value="NBS BMS 63"/>
 </reference>

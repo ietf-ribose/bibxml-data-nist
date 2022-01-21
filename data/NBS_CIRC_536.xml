@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.536" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular536.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 536:radio frequency power measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.536"/>
-    <seriesInfo name="NIST" value="NBS CIRC 536"/>
-    <author fullname="Roald Schrack" initials="R." surname="Schrack"/>
+    <author fullname="Roald Schrack" initials="A" surname="Schrack">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.536"/>
+  <seriesInfo name="NIST" value="NBS CIRC 536"/>
 </reference>

@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.250-1039r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-1039r1.pdf">
   <front>
     <title>Liquid Flow Meter Calibrations with the 0.1 L/s and the 2.5 L/s Piston Provers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-1039r1"/>
-    <seriesInfo name="NIST" value="NIST SP 250-1039r1"/>
-    <author fullname="Jodie Pope" initials="J." surname="Pope">
+    <author fullname="Jodie Pope" initials="G" surname="Pope">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="John Wright" initials="J." surname="Wright">
+    <author fullname="John Wright" initials="D" surname="Wright">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Aaron Johnson" initials="A." surname="Johnson">
+    <author fullname="Aaron Johnson" initials="N" surname="Johnson">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Chris Crowley" initials="C." surname="Crowley">
+    <author fullname="Chris Crowley" initials="J" surname="Crowley">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-1039r1"/>
+  <seriesInfo name="NIST" value="NIST SP 250-1039r1"/>
 </reference>

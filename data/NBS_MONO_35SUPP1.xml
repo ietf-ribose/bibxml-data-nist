@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.35supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph35supp1.pdf">
   <front>
     <title>Bibliography and index on vacuum and low pressure measurement :January 1960 to December 1965</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.35supp1"/>
-    <seriesInfo name="NIST" value="NBS MONO 35supp1"/>
-    <author surname="Brombacher"/>
+    <author initials="WG" surname="Brombacher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.35supp1"/>
+  <seriesInfo name="NIST" value="NBS MONO 35supp1"/>
 </reference>

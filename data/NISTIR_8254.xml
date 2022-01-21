@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8254" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8254.pdf">
   <front>
     <title>Ampoules for radioactivity standard reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8254"/>
-    <seriesInfo name="NIST" value="NIST IR 8254"/>
     <author fullname="Ronald Colle" initials="R." surname="Colle">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8254"/>
+  <seriesInfo name="NIST" value="NIST IR 8254"/>
 </reference>

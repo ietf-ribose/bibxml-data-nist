@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.86-3327" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3327.pdf">
   <front>
     <title>Salt water modeling of fire induced flows in multicompartment enclosures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3327"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3327"/>
-    <author surname="Steckler"/>
-    <author surname="Baum"/>
-    <author surname="Quintiere"/>
+    <author initials="KD" surname="Steckler">
+      <organization/>
+    </author>
+    <author initials="HR" surname="Baum">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Quintiere">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3327"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3327"/>
 </reference>

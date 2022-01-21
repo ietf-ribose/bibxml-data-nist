@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8060" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8060.pdf">
   <front>
     <title>Guidelines for the Creation of Interoperable Software Identification (SWID) Tags</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8060"/>
-    <seriesInfo name="NIST" value="NIST IR 8060"/>
     <author fullname="David Waltermire" initials="D." surname="Waltermire">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Brant Cheikes" initials="B." surname="Cheikes">
+    <author fullname="Brant Cheikes" initials="A" surname="Cheikes">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Larry Feldman" initials="L." surname="Feldman">
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8060"/>
+  <seriesInfo name="NIST" value="NIST IR 8060"/>
 </reference>

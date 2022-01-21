@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8207" target="http://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8207.pdf">
   <front>
     <title>IREX IX part one, performance of iris recognition algorithms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8207"/>
-    <seriesInfo name="NIST" value="NIST IR 8207"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Patrick Grother" initials="P." surname="Grother">
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8207"/>
+  <seriesInfo name="NIST" value="NIST IR 8207"/>
 </reference>

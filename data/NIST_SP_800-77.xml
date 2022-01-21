@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-77" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-77.pdf">
   <front>
     <title>Guide to IPsec VPNs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-77"/>
-    <seriesInfo name="NIST" value="NIST SP 800-77"/>
-    <author surname="Frankel">
+    <author initials="SE" surname="Frankel">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Kent">
+    <author initials="K" surname="Kent">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Lewkowski">
+    <author initials="R" surname="Lewkowski">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Orebaugh">
+    <author initials="AD" surname="Orebaugh">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Ritchey">
+    <author initials="RW" surname="Ritchey">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Sharma">
+    <author initials="SR" surname="Sharma">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-77"/>
+  <seriesInfo name="NIST" value="NIST SP 800-77"/>
 </reference>

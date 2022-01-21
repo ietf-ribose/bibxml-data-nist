@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-594" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-594.pdf">
   <front>
     <title>Examination of failed four inch cast iron pipe natural gas main, Philadelphia Gas Works, Philadelphia, Pennsylvania</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-594"/>
-    <seriesInfo name="NIST" value="NBS IR 74-594"/>
-    <author surname="Shives"/>
+    <author initials="TR" surname="Shives">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-594"/>
+  <seriesInfo name="NIST" value="NBS IR 74-594"/>
 </reference>

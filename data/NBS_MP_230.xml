@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.230" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub230.pdf">
   <front>
     <title>Standardization activities in the United States :A descriptive directory/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.230"/>
-    <seriesInfo name="NIST" value="NBS MP 230"/>
-    <author fullname="Shannon Booth" initials="S." surname="Booth"/>
+    <author fullname="Shannon Booth" initials="F" surname="Booth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.230"/>
+  <seriesInfo name="NIST" value="NBS MP 230"/>
 </reference>

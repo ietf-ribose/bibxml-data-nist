@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.313" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication313.pdf">
   <front>
     <title>Making valuable measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.313"/>
-    <seriesInfo name="NIST" value="NBS SP 313"/>
-    <author surname="Mason"/>
+    <author initials="HL" surname="Mason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.313"/>
+  <seriesInfo name="NIST" value="NBS SP 313"/>
 </reference>

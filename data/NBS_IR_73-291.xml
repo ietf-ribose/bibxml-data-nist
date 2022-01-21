@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-291" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-291.pdf">
   <front>
     <title>A systematic study of vibration standards -mounting effects-</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-291"/>
-    <seriesInfo name="NIST" value="NBS IR 73-291"/>
-    <author fullname="Robert Koyanagi" initials="R." surname="Koyanagi"/>
-    <author fullname="James Pollard" initials="J." surname="Pollard"/>
-    <author fullname="John Ramboz" initials="J." surname="Ramboz"/>
+    <author fullname="Robert Koyanagi" initials="S" surname="Koyanagi">
+      <organization/>
+    </author>
+    <author fullname="James Pollard" initials="D" surname="Pollard">
+      <organization/>
+    </author>
+    <author fullname="John Ramboz" initials="D" surname="Ramboz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-291"/>
+  <seriesInfo name="NIST" value="NBS IR 73-291"/>
 </reference>

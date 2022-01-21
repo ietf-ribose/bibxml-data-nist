@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.800-28ver2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-28ver2.pdf">
   <front>
     <title>Guidelines on active content and mobile code</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-28ver2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-28ver2"/>
-    <author surname="Jansen"/>
-    <author surname="Winograd"/>
-    <author surname="Scarfone"/>
+    <author initials="W" surname="Jansen">
+      <organization/>
+    </author>
+    <author initials="T" surname="Winograd">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Scarfone">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-28ver2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-28ver2"/>
 </reference>

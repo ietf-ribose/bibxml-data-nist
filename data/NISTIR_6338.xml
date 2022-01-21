@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6338" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6338.pdf">
   <front>
     <title>Implementing a standards-based distribution measurement and control application on the internet</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6338"/>
-    <seriesInfo name="NIST" value="NIST IR 6338"/>
-    <author fullname="Richard Schneeman" initials="R." surname="Schneeman"/>
+    <author fullname="Richard Schneeman" initials="D" surname="Schneeman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6338"/>
+  <seriesInfo name="NIST" value="NIST IR 6338"/>
 </reference>

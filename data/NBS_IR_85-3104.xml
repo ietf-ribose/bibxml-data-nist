@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3104" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3104.pdf">
   <front>
     <title>Performance measurement of OSI class 4 transport implementations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3104"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3104"/>
-    <author fullname="Kevin Mills" initials="K." surname="Mills"/>
-    <author fullname="Jeff Gura" initials="J." surname="Gura"/>
-    <author fullname="Michael Chernick" initials="M." surname="Chernick"/>
+    <author fullname="Kevin Mills" initials="L" surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="Jeff Gura" initials="W" surname="Gura">
+      <organization/>
+    </author>
+    <author fullname="Michael Chernick" initials="C" surname="Chernick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3104"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3104"/>
 </reference>

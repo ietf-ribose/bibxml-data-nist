@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.614" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote614.pdf">
   <front>
     <title>Longitudinal magnetoresistance in polar semiconductors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.614"/>
-    <seriesInfo name="NIST" value="NBS TN 614"/>
-    <author fullname="Robert Peterson" initials="R." surname="Peterson"/>
+    <author fullname="Robert Peterson" initials="L" surname="Peterson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.614"/>
+  <seriesInfo name="NIST" value="NBS TN 614"/>
 </reference>

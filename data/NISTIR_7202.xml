@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7202" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7202.pdf">
   <front>
     <title>Chemical Science and Technology Laboratory annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7202"/>
-    <seriesInfo name="NIST" value="NIST IR 7202"/>
-    <author fullname="Willie May" initials="W." surname="May"/>
-    <author fullname="William Koch" initials="W." surname="Koch"/>
+    <author fullname="Willie May" initials="E" surname="May">
+      <organization/>
+    </author>
+    <author fullname="William Koch" initials="F" surname="Koch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7202"/>
+  <seriesInfo name="NIST" value="NIST IR 7202"/>
 </reference>

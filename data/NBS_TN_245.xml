@@ -1,8 +1,6 @@
 <reference anchor="NBS.TN.245" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote245.pdf">
   <front>
     <title>Factors influencing the design of original-document scanners for input to computers.:</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.245"/>
-    <seriesInfo name="NIST" value="NBS TN 245"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.245"/>
+  <seriesInfo name="NIST" value="NBS TN 245"/>
 </reference>

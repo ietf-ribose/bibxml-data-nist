@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4193.pdf">
   <front>
     <title>A numerical and analytical study of nonlinear bifurcations associated with the morphological stability of two-dimensional single crystals</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4193"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4193"/>
-    <author surname="Brush"/>
-    <author surname="Sekerka"/>
-    <author surname="McFadden"/>
+    <author initials="LN" surname="Brush">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Sekerka">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4193"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4193"/>
 </reference>

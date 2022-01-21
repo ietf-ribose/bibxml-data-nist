@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4041" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4041.pdf">
   <front>
     <title>International cooperation and competition in materials science and engineering</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4041"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4041"/>
-    <author fullname="Lyle Schwartz" initials="L." surname="Schwartz"/>
-    <author fullname="Samuel Schneider" initials="S." surname="Schneider"/>
+    <author fullname="Lyle Schwartz" initials="H" surname="Schwartz">
+      <organization/>
+    </author>
+    <author fullname="Samuel Schneider" initials="S." surname="Schneider">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4041"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4041"/>
 </reference>

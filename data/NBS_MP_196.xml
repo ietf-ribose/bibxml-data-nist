@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.196" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub196.pdf">
   <front>
     <title>Nomograms for obtaining the compound composition of hydrated limes from the oxide analysis/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.196"/>
-    <seriesInfo name="NIST" value="NBS MP 196"/>
-    <author fullname="Ernest Levin" initials="E." surname="Levin"/>
+    <author fullname="Ernest Levin" initials="M" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.196"/>
+  <seriesInfo name="NIST" value="NBS MP 196"/>
 </reference>

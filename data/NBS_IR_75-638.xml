@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-638" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-638.pdf">
   <front>
     <title>Validation of maximum airport throughput levels estimated by the DELCAP simulation model</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-638"/>
-    <seriesInfo name="NIST" value="NBS IR 75-638"/>
-    <author fullname="Judith Gilsinn" initials="J." surname="Gilsinn"/>
+    <author fullname="Judith Gilsinn" initials="F" surname="Gilsinn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-638"/>
+  <seriesInfo name="NIST" value="NBS IR 75-638"/>
 </reference>

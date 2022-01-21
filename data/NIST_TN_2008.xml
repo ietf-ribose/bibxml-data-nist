@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2008" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2008.pdf">
   <front>
     <title>Alerting under imminent threat: guidance on alerts issued by outdoor siren and short message alerting systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2008"/>
-    <seriesInfo name="NIST" value="NIST TN 2008"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Amanda Kimball" initials="A." surname="Kimball">
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2008"/>
+  <seriesInfo name="NIST" value="NIST TN 2008"/>
 </reference>

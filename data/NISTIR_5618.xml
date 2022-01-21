@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5618" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5618.pdf">
   <front>
     <title>An expression formatter for MACSYMA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5618"/>
-    <seriesInfo name="NIST" value="NIST IR 5618"/>
-    <author fullname="Bruce Miller" initials="B." surname="Miller"/>
+    <author fullname="Bruce Miller" initials="R" surname="Miller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5618"/>
+  <seriesInfo name="NIST" value="NIST IR 5618"/>
 </reference>

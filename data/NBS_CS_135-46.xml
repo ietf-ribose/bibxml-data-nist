@@ -1,8 +1,6 @@
 <reference anchor="NBS.CS.135-46" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cs135-46.pdf">
   <front>
     <title>Men's shirt sizes (exclusive of work shirts)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CS.135-46"/>
-    <seriesInfo name="NIST" value="NBS CS 135-46"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CS.135-46"/>
+  <seriesInfo name="NIST" value="NBS CS 135-46"/>
 </reference>

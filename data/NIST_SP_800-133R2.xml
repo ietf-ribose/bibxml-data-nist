@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-133r2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r2.pdf">
   <front>
     <title>Recommendation for cryptographic key generation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-133r2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-133r2"/>
     <author fullname="Elaine Barker" initials="E." surname="Barker">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="June" day="4"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-133r2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-133r2"/>
 </reference>

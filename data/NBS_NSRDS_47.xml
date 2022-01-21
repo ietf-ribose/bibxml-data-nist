@@ -1,12 +1,18 @@
 <reference anchor="NBS.NSRDS.47" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds47.pdf">
   <front>
     <title>Tables of collision integrals and second virial coefficients for the (m,6,8) intermolecular potential function</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.47"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 47"/>
-    <author fullname="Max Klein" initials="M." surname="Klein"/>
-    <author surname="Hanley"/>
-    <author fullname="Francis Smith" initials="F." surname="Smith"/>
-    <author fullname="Paul Holland" initials="P." surname="Holland"/>
+    <author fullname="Max Klein" initials="M." surname="Klein">
+      <organization/>
+    </author>
+    <author initials="HJM" surname="Hanley">
+      <organization/>
+    </author>
+    <author fullname="Francis Smith" initials="J" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Paul Holland" initials="P." surname="Holland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.47"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 47"/>
 </reference>

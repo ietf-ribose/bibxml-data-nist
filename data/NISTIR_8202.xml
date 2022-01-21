@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8202" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf">
   <front>
     <title>Blockchain technology overview</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8202"/>
-    <seriesInfo name="NIST" value="NIST IR 8202"/>
     <author fullname="Dylan Yaga" initials="D." surname="Yaga">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8202"/>
+  <seriesInfo name="NIST" value="NIST IR 8202"/>
 </reference>

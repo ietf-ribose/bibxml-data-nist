@@ -1,16 +1,30 @@
 <reference anchor="NIST.TN.1603" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1603.pdf">
   <front>
     <title>Experimental study of the effects of fuel type, fuel distribution and vent size on full-scale underventilated compartment fires in an ISO 9705 room</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1603"/>
-    <seriesInfo name="NIST" value="NIST TN 1603"/>
-    <author fullname="Andrew Lock" initials="A." surname="Lock"/>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy"/>
-    <author fullname="Erik Johnsson" initials="E." surname="Johnsson"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="GwonHyun Ko" initials="G.H." surname="Ko"/>
-    <author fullname="Cheolhong Hwang" initials="C." surname="Hwang"/>
-    <author fullname="Paul Fuss" initials="P." surname="Fuss"/>
-    <author fullname="Richard Harris" initials="R." surname="Harris"/>
+    <author fullname="Andrew Lock" initials="A." surname="Lock">
+      <organization/>
+    </author>
+    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+      <organization/>
+    </author>
+    <author fullname="Erik Johnsson" initials="L" surname="Johnsson">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="GwonHyun Ko" initials="G.H." surname="Ko">
+      <organization/>
+    </author>
+    <author fullname="Cheolhong Hwang" initials="C." surname="Hwang">
+      <organization/>
+    </author>
+    <author fullname="Paul Fuss" initials="P." surname="Fuss">
+      <organization/>
+    </author>
+    <author fullname="Richard Harris" initials="H" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1603"/>
+  <seriesInfo name="NIST" value="NIST TN 1603"/>
 </reference>

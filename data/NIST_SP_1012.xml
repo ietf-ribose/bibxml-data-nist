@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.1012" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1012.pdf">
   <front>
     <title>An approach to the metrologically sound traceable assessment of the chemical purity of organic reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1012"/>
-    <seriesInfo name="NIST" value="NIST SP 1012"/>
-    <author fullname="David Duewer" initials="D." surname="Duewer"/>
-    <author fullname="David Duewer" initials="D." surname="Duewer"/>
-    <author fullname="Reenie Parris" initials="R." surname="Parris"/>
-    <author fullname="Edward White" initials="E." surname="White"/>
-    <author fullname="Willie May" initials="W." surname="May"/>
-    <author fullname="Howard Elbaum" initials="H." surname="Elbaum"/>
+    <author fullname="David Duewer" initials="L" surname="Duewer">
+      <organization/>
+    </author>
+    <author fullname="David Duewer" initials="L" surname="Duewer">
+      <organization/>
+    </author>
+    <author fullname="Reenie Parris" initials="M" surname="Parris">
+      <organization/>
+    </author>
+    <author fullname="Edward White" initials="V" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Willie May" initials="E" surname="May">
+      <organization/>
+    </author>
+    <author fullname="Howard Elbaum" initials="H." surname="Elbaum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1012"/>
+  <seriesInfo name="NIST" value="NIST SP 1012"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8154" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8154.pdf">
   <front>
     <title>Dietary Supplement Laboratory Quality Assurance Program: Exercise L Final Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8154"/>
-    <seriesInfo name="NIST" value="NIST IR 8154"/>
-    <author fullname="Laura Wood" initials="L." surname="Wood">
+    <author fullname="Laura Wood" initials="J" surname="Wood">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+    <author fullname="Melissa Phillips" initials="M" surname="Phillips">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+    <author fullname="Catherine Rimmer" initials="A" surname="Rimmer">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8154"/>
+  <seriesInfo name="NIST" value="NIST IR 8154"/>
 </reference>

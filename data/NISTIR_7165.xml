@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7165" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7165.pdf">
   <front>
     <title>Applications of PSL to semantic web services</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7165"/>
-    <seriesInfo name="NIST" value="NIST IR 7165"/>
-    <author fullname="Michael Gruninger" initials="M." surname="Gruninger"/>
+    <author fullname="Michael Gruninger" initials="M." surname="Gruninger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7165"/>
+  <seriesInfo name="NIST" value="NIST IR 7165"/>
 </reference>

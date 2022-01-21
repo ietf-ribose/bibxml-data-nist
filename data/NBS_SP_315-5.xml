@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.315-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication315-5.pdf">
   <front>
     <title>Bibliography on the high temperature chemistry and physics of materials, January, February, March 1970</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.315-5"/>
-    <seriesInfo name="NIST" value="NBS SP 315-5"/>
-    <author surname="Diamond"/>
+    <author initials="JJ" surname="Diamond">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.315-5"/>
+  <seriesInfo name="NIST" value="NBS SP 315-5"/>
 </reference>

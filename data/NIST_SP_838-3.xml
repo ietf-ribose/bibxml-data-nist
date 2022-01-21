@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.838-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication838-3.pdf">
   <front>
     <title>Collaborating with our customers :NIST Building &amp; Fire Research Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.838-3"/>
-    <seriesInfo name="NIST" value="NIST SP 838-3"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.838-3"/>
+  <seriesInfo name="NIST" value="NIST SP 838-3"/>
 </reference>

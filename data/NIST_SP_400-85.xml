@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.400-85" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication400-85.pdf">
   <front>
     <title>EPROP :an interactive FORTRAN program for computing selected electronic properties of gallium arsenide and silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.400-85"/>
-    <seriesInfo name="NIST" value="NIST SP 400-85"/>
-    <author fullname="Alan Seabaugh" initials="A." surname="Seabaugh"/>
-    <author fullname="John Mathias" initials="J." surname="Mathias"/>
-    <author fullname="Michael Bell" initials="M." surname="Bell"/>
+    <author fullname="Alan Seabaugh" initials="C" surname="Seabaugh">
+      <organization/>
+    </author>
+    <author fullname="John Mathias" initials="J" surname="Mathias">
+      <organization/>
+    </author>
+    <author fullname="Michael Bell" initials="I" surname="Bell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.400-85"/>
+  <seriesInfo name="NIST" value="NIST SP 400-85"/>
 </reference>

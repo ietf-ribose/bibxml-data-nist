@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2037" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2037.pdf">
   <front>
     <title>Measurement uncertainty of the air system in the intelligent building agents laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2037"/>
-    <seriesInfo name="NIST" value="NIST TN 2037"/>
-    <author fullname="Amanda Pertzborn" initials="A." surname="Pertzborn">
+    <author fullname="Amanda Pertzborn" initials="J" surname="Pertzborn">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2037"/>
+  <seriesInfo name="NIST" value="NIST TN 2037"/>
 </reference>

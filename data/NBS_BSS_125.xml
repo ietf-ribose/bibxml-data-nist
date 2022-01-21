@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience125.pdf">
   <front>
     <title>An Economic model for passive solar designs in commercial environments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.125"/>
-    <seriesInfo name="NIST" value="NBS BSS 125"/>
-    <author fullname="Jeanne Powell" initials="J." surname="Powell"/>
+    <author fullname="Jeanne Powell" initials="W" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.125"/>
+  <seriesInfo name="NIST" value="NBS BSS 125"/>
 </reference>

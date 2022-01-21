@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-526" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-526.pdf">
   <front>
     <title>Analysis of non-reinforced masonry building response to abnormal loading and resistance to progressive collapse</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-526"/>
-    <seriesInfo name="NIST" value="NBS IR 74-526"/>
-    <author surname="McGuire"/>
-    <author surname="Leyendecker"/>
+    <author initials="W" surname="McGuire">
+      <organization/>
+    </author>
+    <author initials="EV" surname="Leyendecker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-526"/>
+  <seriesInfo name="NIST" value="NBS IR 74-526"/>
 </reference>

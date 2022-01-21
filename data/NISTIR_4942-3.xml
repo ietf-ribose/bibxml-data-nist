@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4942-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4942-3.pdf">
   <front>
     <title>Present worth factors for life-cycle cost studies in the Department of Defense (1996)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4942-3"/>
-    <seriesInfo name="NIST" value="NIST IR 4942-3"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4942-3"/>
+  <seriesInfo name="NIST" value="NIST IR 4942-3"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.583sup" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular583sup.pdf">
   <front>
     <title>Supplement to National Bureau of Standards Circular no. 583:x-ray attenuation coefficients from 10 kev to 100Mev</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.583sup"/>
-    <seriesInfo name="NIST" value="NBS CIRC 583sup"/>
-    <author fullname="Rosemary McGinnies" initials="R." surname="McGinnies"/>
+    <author fullname="Rosemary McGinnies" initials="T" surname="McGinnies">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.583sup"/>
+  <seriesInfo name="NIST" value="NBS CIRC 583sup"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.400-67" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-67.pdf">
   <front>
     <title>The capabilities and limitations of auger sputer profiling for studies of semiconductors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-67"/>
-    <seriesInfo name="NIST" value="NBS SP 400-67"/>
-    <author surname="Schwarz"/>
-    <author surname="Helms"/>
-    <author surname="Spicer"/>
-    <author surname="Taylor"/>
+    <author initials="SA" surname="Schwarz">
+      <organization/>
+    </author>
+    <author initials="CR" surname="Helms">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Spicer">
+      <organization/>
+    </author>
+    <author initials="NJ" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-67"/>
+  <seriesInfo name="NIST" value="NBS SP 400-67"/>
 </reference>

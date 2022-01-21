@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-61" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-61.pdf">
   <front>
     <title>Maintenance testing for the data encryption standard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-61"/>
-    <seriesInfo name="NIST" value="NBS SP 500-61"/>
-    <author fullname="Jason Gait" initials="J." surname="Gait"/>
+    <author fullname="Jason Gait" initials="J." surname="Gait">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-61"/>
+  <seriesInfo name="NIST" value="NBS SP 500-61"/>
 </reference>

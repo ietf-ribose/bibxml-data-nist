@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.500-257" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-257.pdf">
   <front>
     <title>The rich transcription 2004 spring meeting recognition evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-257"/>
-    <seriesInfo name="NIST" value="NIST SP 500-257"/>
-    <author fullname="John Garofolo" initials="J." surname="Garofolo"/>
-    <author fullname="Christophe Laprun" initials="C." surname="Laprun"/>
-    <author fullname="Johathan Fiscus" initials="J." surname="Fiscus"/>
+    <author fullname="John Garofolo" initials="S" surname="Garofolo">
+      <organization/>
+    </author>
+    <author fullname="Christophe Laprun" initials="D" surname="Laprun">
+      <organization/>
+    </author>
+    <author fullname="Johathan Fiscus" initials="G" surname="Fiscus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-257"/>
+  <seriesInfo name="NIST" value="NIST SP 500-257"/>
 </reference>

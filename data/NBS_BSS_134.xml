@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience134.pdf">
   <front>
     <title>Determining cost-effective insulation levels for masonry and wood-frame walls in new single-family housing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.134"/>
-    <seriesInfo name="NIST" value="NBS BSS 134"/>
-    <author fullname="Stephen Peterson" initials="S." surname="Peterson"/>
-    <author fullname="Kimberly Barnes" initials="K." surname="Barnes"/>
-    <author fullname="Bradley Peavy" initials="B." surname="Peavy"/>
+    <author fullname="Stephen Peterson" initials="R" surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="Kimberly Barnes" initials="A" surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="Bradley Peavy" initials="A" surname="Peavy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.134"/>
+  <seriesInfo name="NIST" value="NBS BSS 134"/>
 </reference>

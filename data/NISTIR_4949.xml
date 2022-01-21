@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4949" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4949.pdf">
   <front>
     <title>Chromatographic examination of Intaglio inks, resins and varnishes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4949"/>
-    <seriesInfo name="NIST" value="NIST IR 4949"/>
-    <author fullname="William Blair" initials="W." surname="Blair"/>
+    <author fullname="William Blair" initials="R" surname="Blair">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4949"/>
+  <seriesInfo name="NIST" value="NIST IR 4949"/>
 </reference>

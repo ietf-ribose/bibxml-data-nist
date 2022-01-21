@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.991" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote991.pdf">
   <front>
     <title>COMPF2 :a program for calculating post-flashover fire temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.991"/>
-    <seriesInfo name="NIST" value="NBS TN 991"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.991"/>
+  <seriesInfo name="NIST" value="NBS TN 991"/>
 </reference>

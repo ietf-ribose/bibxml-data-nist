@@ -1,21 +1,19 @@
 <reference anchor="NIST.TN.1872" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1872.pdf">
   <front>
     <title>Investigation of surrogate smoldering ignition sources for testing soft furnishings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1872"/>
-    <seriesInfo name="NIST" value="NIST TN 1872"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann">
+    <author fullname="Richard Gann" initials="G" surname="Gann">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Morgan Bruns" initials="M." surname="Bruns">
+    <author fullname="Morgan Bruns" initials="C" surname="Bruns">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Amanda Robbins" initials="A." surname="Robbins">
+    <author fullname="Amanda Robbins" initials="P" surname="Robbins">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Edward Hnetkovsky" initials="E." surname="Hnetkovsky">
+    <author fullname="Edward Hnetkovsky" initials="J" surname="Hnetkovsky">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Michael Ladas" initials="M." surname="Ladas">
+    <author fullname="Michael Ladas" initials="H" surname="Ladas">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1872"/>
+  <seriesInfo name="NIST" value="NIST TN 1872"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8328" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8328.pdf">
   <front>
     <title>Mission Critical Voice Quality of Experience Access Time Measurement Method Addendum</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8328"/>
-    <seriesInfo name="NIST" value="NIST IR 8328"/>
     <author fullname="Chelsea Greene" initials="C." surname="Greene">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="December" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8328"/>
+  <seriesInfo name="NIST" value="NIST IR 8328"/>
 </reference>

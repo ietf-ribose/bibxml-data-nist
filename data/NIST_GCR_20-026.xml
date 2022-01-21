@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.20-026" target="https://nvlpubs.nist.gov/nistpubs/gcr/2020/NIST.GCR.20-026.pdf">
   <front>
     <title>Integrative Method to Whole-House Energy and Comfort Rating</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.20-026"/>
-    <seriesInfo name="NIST" value="NIST GCR 20-026"/>
     <author fullname="Hyojin Kim" initials="H." surname="Kim">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2020" month="December" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.20-026"/>
+  <seriesInfo name="NIST" value="NIST GCR 20-026"/>
 </reference>

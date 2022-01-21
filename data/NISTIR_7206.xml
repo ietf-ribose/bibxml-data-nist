@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7206" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7206.pdf">
   <front>
     <title>Smart cards and mobile handheld devices :an overview and implementation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7206"/>
-    <seriesInfo name="NIST" value="NIST IR 7206"/>
-    <author fullname="Serban Gavrila" initials="S." surname="Gavrila"/>
-    <author fullname="Clement Seveillac" initials="C." surname="Seveillac"/>
-    <author fullname="Vlad Korolev" initials="V." surname="Korolev"/>
+    <author fullname="Serban Gavrila" initials="S." surname="Gavrila">
+      <organization/>
+    </author>
+    <author fullname="Clement Seveillac" initials="C." surname="Seveillac">
+      <organization/>
+    </author>
+    <author fullname="Vlad Korolev" initials="V." surname="Korolev">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7206"/>
+  <seriesInfo name="NIST" value="NIST IR 7206"/>
 </reference>

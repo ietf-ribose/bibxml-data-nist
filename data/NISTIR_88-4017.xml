@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-4017" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4017.pdf">
   <front>
     <title>Standards for the interchange of large format tiled raster documents</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4017"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4017"/>
-    <author fullname="Frankie Spielman" initials="F." surname="Spielman"/>
+    <author fullname="Frankie Spielman" initials="E" surname="Spielman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4017"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4017"/>
 </reference>

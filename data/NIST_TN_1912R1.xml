@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1912r1" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1912r1.pdf">
   <front>
     <title>CONTAM Results Export Tool</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1912r1"/>
-    <seriesInfo name="NIST" value="NIST TN 1912r1"/>
     <author fullname="Brian Polidoro" initials="B." surname="Polidoro">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Lisa Ng" initials="L." surname="Ng">
+    <author fullname="Lisa Ng" initials="C" surname="Ng">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Stuart Dols" initials="S." surname="Dols">
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="May" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1912r1"/>
+  <seriesInfo name="NIST" value="NIST TN 1912r1"/>
 </reference>

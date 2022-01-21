@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures134.pdf">
   <front>
     <title>Fire resistance of concrete floors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.134"/>
-    <seriesInfo name="NIST" value="NBS BMS 134"/>
-    <author fullname="Daniel Goalwin" initials="D." surname="Goalwin"/>
+    <author fullname="Daniel Goalwin" initials="S" surname="Goalwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.134"/>
+  <seriesInfo name="NIST" value="NBS BMS 134"/>
 </reference>

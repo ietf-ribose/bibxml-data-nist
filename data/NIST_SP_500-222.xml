@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.500-222" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-222.pdf">
   <front>
     <title>Glossary of software reuse terms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-222"/>
-    <seriesInfo name="NIST" value="NIST SP 500-222"/>
-    <author fullname="Susan Katz" initials="S." surname="Katz"/>
-    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski"/>
-    <author fullname="Kathryn Miles" initials="K." surname="Miles"/>
-    <author fullname="Margaret Law" initials="M." surname="Law"/>
+    <author fullname="Susan Katz" initials="S." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski">
+      <organization/>
+    </author>
+    <author fullname="Kathryn Miles" initials="K." surname="Miles">
+      <organization/>
+    </author>
+    <author fullname="Margaret Law" initials="M." surname="Law">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-222"/>
+  <seriesInfo name="NIST" value="NIST SP 500-222"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1806" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1806.pdf">
   <front>
     <title>Improving the Performance of a Roof Top Air-Conditioning Unit by Refrigerant Circuitry Optimization</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1806"/>
-    <seriesInfo name="NIST" value="NIST TN 1806"/>
     <author fullname="David Yashar" initials="D." surname="Yashar">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1806"/>
+  <seriesInfo name="NIST" value="NIST TN 1806"/>
 </reference>

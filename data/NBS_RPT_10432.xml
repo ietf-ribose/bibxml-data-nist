@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.10432" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10432.pdf">
   <front>
     <title>A search and rescue simulation model for the United States Coast Guard :III</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10432"/>
-    <seriesInfo name="NIST" value="NBS RPT 10432"/>
-    <author surname="Karp"/>
-    <author surname="Cummings"/>
-    <author surname="Maltese"/>
-    <author surname="Weber"/>
+    <author initials="SS" surname="Karp">
+      <organization/>
+    </author>
+    <author initials="LK" surname="Cummings">
+      <organization/>
+    </author>
+    <author initials="MD" surname="Maltese">
+      <organization/>
+    </author>
+    <author initials="AL" surname="Weber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10432"/>
+  <seriesInfo name="NIST" value="NBS RPT 10432"/>
 </reference>

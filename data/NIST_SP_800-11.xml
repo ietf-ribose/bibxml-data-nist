@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-11" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-11.pdf">
   <front>
     <title>The impact of the FCC's Open Network Architecture on NSNP telecommunications security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-11"/>
-    <seriesInfo name="NIST" value="NIST SP 800-11"/>
     <author fullname="Karen Olsen" initials="K." surname="Olsen">
       <organization>Computer Security Division.</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-11"/>
+  <seriesInfo name="NIST" value="NIST SP 800-11"/>
 </reference>

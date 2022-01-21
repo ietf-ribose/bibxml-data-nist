@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.300-10" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-10.pdf">
   <front>
     <title>Recommendations on ensuring traceability and trustworthiness of manufacturing-related data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-10"/>
-    <seriesInfo name="NIST" value="NIST AMS 300-10"/>
     <author fullname="Jr,Thomas Hedberg" initials="J.T." surname="Hedberg">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2020" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-10"/>
+  <seriesInfo name="NIST" value="NIST AMS 300-10"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.981" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular981.pdf">
   <front>
     <title>Letter Circular 981:modern books on horology (supersedes Letter Circular 766)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.981"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 981"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.981"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 981"/>
 </reference>

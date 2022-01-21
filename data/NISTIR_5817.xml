@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5817" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5817.pdf">
   <front>
     <title>Electronics packaging, interconnection and assembly at NIST:guide and resources</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5817"/>
-    <seriesInfo name="NIST" value="NIST IR 5817"/>
-    <author fullname="Michael Schen" initials="M." surname="Schen"/>
+    <author fullname="Michael Schen" initials="A" surname="Schen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5817"/>
+  <seriesInfo name="NIST" value="NIST IR 5817"/>
 </reference>

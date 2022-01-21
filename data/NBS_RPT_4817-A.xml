@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.4817-A" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4817-A.pdf">
   <front>
     <title>Manual on experimental statistics for ordnance engineers:second draft of part I, sections 1, 2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4817-A"/>
-    <seriesInfo name="NIST" value="NBS RPT 4817-A"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4817-A"/>
+  <seriesInfo name="NIST" value="NBS RPT 4817-A"/>
 </reference>

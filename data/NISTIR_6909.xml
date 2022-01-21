@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.6909" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6909.pdf">
   <front>
     <title>Information technology laboratory, technical accomplishments 2002</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6909"/>
-    <seriesInfo name="NIST" value="NIST IR 6909"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6909"/>
+  <seriesInfo name="NIST" value="NIST IR 6909"/>
 </reference>

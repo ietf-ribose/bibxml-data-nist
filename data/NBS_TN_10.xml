@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote10.pdf">
   <front>
     <title>Calculated behavior of a fast neutron spectrometer based on the total absorption principle</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.10"/>
-    <seriesInfo name="NIST" value="NBS TN 10"/>
-    <author fullname="JamesElroy Leiss" initials="J.E." surname="Leiss"/>
+    <author fullname="JamesElroy Leiss" initials="J.E." surname="Leiss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.10"/>
+  <seriesInfo name="NIST" value="NBS TN 10"/>
 </reference>

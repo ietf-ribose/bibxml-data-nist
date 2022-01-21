@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-535" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-535.pdf">
   <front>
     <title>A selected and annotated bibliography of compilations of data relevant to biochemical thermodynamics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-535"/>
-    <seriesInfo name="NIST" value="NBS IR 74-535"/>
-    <author surname="Armstrong"/>
-    <author surname="Janes"/>
-    <author surname="Goldberg"/>
+    <author initials="GT" surname="Armstrong">
+      <organization/>
+    </author>
+    <author initials="GR" surname="Janes">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Goldberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-535"/>
+  <seriesInfo name="NIST" value="NBS IR 74-535"/>
 </reference>

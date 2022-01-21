@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7219" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7219.pdf">
   <front>
     <title>Computer security division, 2004 annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7219"/>
-    <seriesInfo name="NIST" value="NIST IR 7219"/>
-    <author fullname="Tanya Brewer" initials="T." surname="Brewer"/>
+    <author fullname="Tanya Brewer" initials="T." surname="Brewer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7219"/>
+  <seriesInfo name="NIST" value="NIST IR 7219"/>
 </reference>

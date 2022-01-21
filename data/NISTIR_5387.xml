@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5387" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5387.pdf">
   <front>
     <title>Graphical analysis of the CCRl Portland cement proficiency sample database (samples 1-72)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5387"/>
-    <seriesInfo name="NIST" value="NIST IR 5387"/>
-    <author fullname="Stefan Leigh" initials="S." surname="Leigh"/>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert"/>
+    <author fullname="Stefan Leigh" initials="S." surname="Leigh">
+      <organization/>
+    </author>
+    <author fullname="Alan Heckert" initials="N" surname="Heckert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5387"/>
+  <seriesInfo name="NIST" value="NIST IR 5387"/>
 </reference>

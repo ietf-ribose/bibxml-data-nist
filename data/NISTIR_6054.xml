@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6054" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6054.pdf">
   <front>
     <title>Recertification of the SRM 1482a:a polyethylene</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6054"/>
-    <seriesInfo name="NIST" value="NIST IR 6054"/>
-    <author surname="Guttman"/>
-    <author surname="Blair"/>
-    <author surname="Maurey"/>
+    <author initials="CM" surname="Guttman">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Blair">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Maurey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6054"/>
+  <seriesInfo name="NIST" value="NIST IR 6054"/>
 </reference>

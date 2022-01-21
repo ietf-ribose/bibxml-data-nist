@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.169" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph169.pdf">
   <front>
     <title>Thermophysical properties of normal butane from 135 to 700 K at pressures to 70 MPa</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.169"/>
-    <seriesInfo name="NIST" value="NBS MONO 169"/>
-    <author fullname="William Haynes" initials="W." surname="Haynes"/>
-    <author fullname="Robert Goodwin" initials="R." surname="Goodwin"/>
+    <author fullname="William Haynes" initials="M" surname="Haynes">
+      <organization/>
+    </author>
+    <author fullname="Robert Goodwin" initials="D" surname="Goodwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.169"/>
+  <seriesInfo name="NIST" value="NBS MONO 169"/>
 </reference>

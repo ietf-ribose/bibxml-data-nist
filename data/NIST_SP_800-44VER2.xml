@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-44ver2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-44ver2.pdf">
   <front>
     <title>Guidelines on securing public web servers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-44ver2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-44ver2"/>
-    <author surname="Tracy">
+    <author initials="MC" surname="Tracy">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Jansen">
+    <author initials="W" surname="Jansen">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Winograd">
+    <author initials="T" surname="Winograd">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-44ver2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-44ver2"/>
 </reference>

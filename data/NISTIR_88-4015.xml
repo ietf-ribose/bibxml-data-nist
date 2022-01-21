@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-4015" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4015.pdf">
   <front>
     <title>Directory of organizations and standards that affect the movement of telecommunications information for ten Pacific Rim countries</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4015"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4015"/>
-    <author fullname="Terrance Troy" initials="T." surname="Troy"/>
+    <author fullname="Terrance Troy" initials="N" surname="Troy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4015"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4015"/>
 </reference>

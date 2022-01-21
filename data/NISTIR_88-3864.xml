@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3864" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3864.pdf">
   <front>
     <title>A parser that converts a boundary representation into a features representation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3864"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3864"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
+    <author fullname="Thomas Kramer" initials="R" surname="Kramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3864"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3864"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.369" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication369.pdf">
   <front>
     <title>Soft x-ray emission spectra of metallic solids :critical review of selected systems and annotated spectral index</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.369"/>
-    <seriesInfo name="NIST" value="NBS SP 369"/>
-    <author surname="McAlister"/>
-    <author surname="Dobbyn"/>
-    <author surname="Cuthill"/>
-    <author surname="Williams"/>
+    <author initials="AJ" surname="McAlister">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Dobbyn">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Cuthill">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.369"/>
+  <seriesInfo name="NIST" value="NBS SP 369"/>
 </reference>

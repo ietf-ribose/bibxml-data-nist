@@ -1,17 +1,33 @@
 <reference anchor="NBS.BH.3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing3.pdf">
   <front>
     <title>A zoning primer by the advisory committee on zoning appointed by Secretary Hoover</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BH.3"/>
-    <seriesInfo name="NIST" value="NBS BH 3"/>
-    <author fullname="Edward Bassett" initials="E." surname="Bassett"/>
-    <author fullname="Irving Hiett" initials="I." surname="Hiett"/>
-    <author fullname="John Ihlder" initials="J." surname="Ihlder"/>
-    <author fullname="Morris Knowles" initials="M." surname="Knowles"/>
-    <author fullname="Nelson Lewis" initials="N." surname="Lewis"/>
-    <author fullname="Horace McFarland" initials="H." surname="McFarland"/>
-    <author fullname="FrederickLaw Olmstead" initials="F.L." surname="Olmstead"/>
-    <author fullname="Lawrence Veiller" initials="L." surname="Veiller"/>
-    <author fullname="John Gries" initials="J." surname="Gries"/>
+    <author fullname="Edward Bassett" initials="M" surname="Bassett">
+      <organization/>
+    </author>
+    <author fullname="Irving Hiett" initials="B" surname="Hiett">
+      <organization/>
+    </author>
+    <author fullname="John Ihlder" initials="J." surname="Ihlder">
+      <organization/>
+    </author>
+    <author fullname="Morris Knowles" initials="M." surname="Knowles">
+      <organization/>
+    </author>
+    <author fullname="Nelson Lewis" initials="P" surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="Horace McFarland" initials="J" surname="McFarland">
+      <organization/>
+    </author>
+    <author fullname="FrederickLaw Olmstead" initials="F.L." surname="Olmstead">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Veiller" initials="L." surname="Veiller">
+      <organization/>
+    </author>
+    <author fullname="John Gries" initials="M" surname="Gries">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BH.3"/>
+  <seriesInfo name="NIST" value="NBS BH 3"/>
 </reference>

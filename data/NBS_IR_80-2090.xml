@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2090" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2090.pdf">
   <front>
     <title>Estimating the heating seasonal operating cost of residential hybrid heat pump systems, including units retrofitted to oil, gas and electric furnaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2090"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2090"/>
-    <author fullname="Peter Domanski" initials="P." surname="Domanski"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
+    <author fullname="Peter Domanski" initials="P." surname="Domanski">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2090"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2090"/>
 </reference>

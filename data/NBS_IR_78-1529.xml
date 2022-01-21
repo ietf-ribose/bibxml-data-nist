@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1529" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1529.pdf">
   <front>
     <title>Bi-annual meeting of CIB Commission W-14 (Fire) May 29</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1529"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1529"/>
-    <author surname="Gross"/>
-    <author surname="Robertson"/>
+    <author initials="D" surname="Gross">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Robertson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1529"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1529"/>
 </reference>

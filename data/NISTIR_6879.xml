@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.6879" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6879.pdf">
   <front>
     <title>Initial model for fires in the World Trade Center towers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6879"/>
-    <seriesInfo name="NIST" value="NIST IR 6879"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6879"/>
+  <seriesInfo name="NIST" value="NIST IR 6879"/>
 </reference>

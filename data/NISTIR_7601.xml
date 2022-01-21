@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7601" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7601.pdf">
   <front>
     <title>Framework for emergency response official (ERO) authentication and authorization infrastructure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7601"/>
-    <seriesInfo name="NIST" value="NIST IR 7601"/>
-    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli"/>
-    <author fullname="Teresa Schwarzhoff" initials="T." surname="Schwarzhoff"/>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization/>
+    </author>
+    <author fullname="Teresa Schwarzhoff" initials="T." surname="Schwarzhoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7601"/>
+  <seriesInfo name="NIST" value="NIST IR 7601"/>
 </reference>

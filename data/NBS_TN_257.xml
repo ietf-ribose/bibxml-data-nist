@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.257" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote257.pdf">
   <front>
     <title>Practical aspects of the use of AC-DC transfer instruments.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.257"/>
-    <seriesInfo name="NIST" value="NBS TN 257"/>
-    <author surname="Williams"/>
+    <author initials="ES" surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.257"/>
+  <seriesInfo name="NIST" value="NBS TN 257"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.BSS.138" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience138.pdf">
   <front>
     <title>Prediction of pore water pressure buildup and liquefaction of sands during earthquakes by the Cyclic Strain Method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.138"/>
-    <seriesInfo name="NIST" value="NBS BSS 138"/>
-    <author surname="Dobry"/>
-    <author surname="Ladd"/>
-    <author surname="Yokel"/>
-    <author surname="Chung"/>
-    <author surname="Powell"/>
+    <author initials="R" surname="Dobry">
+      <organization/>
+    </author>
+    <author initials="RS" surname="Ladd">
+      <organization/>
+    </author>
+    <author initials="FY" surname="Yokel">
+      <organization/>
+    </author>
+    <author initials="RM" surname="Chung">
+      <organization/>
+    </author>
+    <author initials="D" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.138"/>
+  <seriesInfo name="NIST" value="NBS BSS 138"/>
 </reference>

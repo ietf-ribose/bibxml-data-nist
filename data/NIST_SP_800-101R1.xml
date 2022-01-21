@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-101r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-101r1.pdf">
   <front>
     <title>Guidelines on mobile device forensics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-101r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-101r1"/>
     <author fullname="Rick Ayers" initials="R." surname="Ayers">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2014" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-101r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-101r1"/>
 </reference>

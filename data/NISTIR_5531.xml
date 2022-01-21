@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5531.pdf">
   <front>
     <title>Extreme wind estimates by the conditional mean exceedance procedure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5531"/>
-    <seriesInfo name="NIST" value="NIST IR 5531"/>
-    <author surname="Heckert"/>
-    <author surname="Lechner"/>
+    <author initials="NA" surname="Heckert">
+      <organization/>
+    </author>
+    <author initials="JA" surname="Lechner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5531"/>
+  <seriesInfo name="NIST" value="NIST IR 5531"/>
 </reference>

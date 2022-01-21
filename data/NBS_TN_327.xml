@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.327" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote327.pdf">
   <front>
     <title>Significance of dimensionality in the spin wave theory of ferromagnetism</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.327"/>
-    <seriesInfo name="NIST" value="NBS TN 327"/>
-    <author fullname="Henry Unruh" initials="H." surname="Unruh"/>
+    <author fullname="Henry Unruh" initials="H." surname="Unruh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.327"/>
+  <seriesInfo name="NIST" value="NBS TN 327"/>
 </reference>

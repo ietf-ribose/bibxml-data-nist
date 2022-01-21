@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1574" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1574.pdf">
   <front>
     <title>A suggested experimental plan for the determination of the accuracy and reliability of coal mine dust measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1574"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1574"/>
-    <author fullname="Harry Ku" initials="H." surname="Ku"/>
-    <author fullname="Joan Rosenblatt" initials="J." surname="Rosenblatt"/>
+    <author fullname="Harry Ku" initials="H" surname="Ku">
+      <organization/>
+    </author>
+    <author fullname="Joan Rosenblatt" initials="R" surname="Rosenblatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1574"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1574"/>
 </reference>

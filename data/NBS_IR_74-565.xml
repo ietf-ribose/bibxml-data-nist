@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-565" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-565.pdf">
   <front>
     <title>Acoustic emission :some applications of Lamb's problem</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-565"/>
-    <seriesInfo name="NIST" value="NBS IR 74-565"/>
-    <author fullname="Franklin Breckenridge" initials="F." surname="Breckenridge"/>
-    <author fullname="Carl Tschiegg" initials="C." surname="Tschiegg"/>
-    <author fullname="Martin Greenspan" initials="M." surname="Greenspan"/>
+    <author fullname="Franklin Breckenridge" initials="R" surname="Breckenridge">
+      <organization/>
+    </author>
+    <author fullname="Carl Tschiegg" initials="E" surname="Tschiegg">
+      <organization/>
+    </author>
+    <author fullname="Martin Greenspan" initials="M." surname="Greenspan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-565"/>
+  <seriesInfo name="NIST" value="NBS IR 74-565"/>
 </reference>

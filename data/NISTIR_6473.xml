@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6473" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6473.pdf">
   <front>
     <title>An approach for measuring reductions in construction worker illnesses and injuries :baseline measures of construction industry practices for the national construction goals</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6473"/>
-    <seriesInfo name="NIST" value="NIST IR 6473"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6473"/>
+  <seriesInfo name="NIST" value="NIST IR 6473"/>
 </reference>

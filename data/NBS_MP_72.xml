@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.72" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub72.pdf">
   <front>
     <title>Strain lines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.72"/>
-    <seriesInfo name="NIST" value="NBS MP 72"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.72"/>
+  <seriesInfo name="NIST" value="NBS MP 72"/>
 </reference>

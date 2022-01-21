@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7721" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7721.pdf">
   <front>
     <title>Recognizing people from dynamic and static faces and bodies :dissecting identity with a fusion approach</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7721"/>
-    <seriesInfo name="NIST" value="NIST IR 7721"/>
-    <author surname="O'Toole"/>
-    <author surname="Phillips"/>
-    <author surname="Weimer"/>
-    <author surname="Roark"/>
-    <author surname="Ayadd"/>
-    <author surname="Barwick"/>
-    <author surname="Dunlop"/>
+    <author initials="AJ" surname="O'Toole">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="S" surname="Weimer">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Roark">
+      <organization/>
+    </author>
+    <author initials="J" surname="Ayadd">
+      <organization/>
+    </author>
+    <author initials="R" surname="Barwick">
+      <organization/>
+    </author>
+    <author initials="J" surname="Dunlop">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7721"/>
+  <seriesInfo name="NIST" value="NIST IR 7721"/>
 </reference>

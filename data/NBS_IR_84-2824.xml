@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2824" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2824.pdf">
   <front>
     <title>Guide to available mathematical software</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2824"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2824"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert"/>
-    <author fullname="David Kahaner" initials="D." surname="Kahaner"/>
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
+      <organization/>
+    </author>
+    <author fullname="David Kahaner" initials="K" surname="Kahaner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2824"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2824"/>
 </reference>

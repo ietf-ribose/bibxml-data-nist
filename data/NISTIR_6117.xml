@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6117.pdf">
   <front>
     <title>Small angle scattering by dislocations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6117"/>
-    <seriesInfo name="NIST" value="NIST IR 6117"/>
-    <author fullname="RobbEmeritus Thomson" initials="R.E." surname="Thomson"/>
-    <author surname="Levine"/>
-    <author surname="Long"/>
+    <author fullname="RobbEmeritus Thomson" initials="R.E." surname="Thomson">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Levine">
+      <organization/>
+    </author>
+    <author initials="GG" surname="Long">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6117"/>
+  <seriesInfo name="NIST" value="NIST IR 6117"/>
 </reference>

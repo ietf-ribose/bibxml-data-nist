@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.800-67ver1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-67ver1.pdf">
   <front>
     <title>Recommendation for the triple data encryption algorithm (TDEA) block cipher</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-67ver1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-67ver1"/>
-    <author surname="Barker"/>
+    <author initials="WC" surname="Barker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-67ver1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-67ver1"/>
 </reference>

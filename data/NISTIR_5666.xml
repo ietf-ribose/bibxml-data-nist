@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5666" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5666.pdf">
   <front>
     <title>Operating procedures and life cycle documentation for the initial graphics exchange specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5666"/>
-    <seriesInfo name="NIST" value="NIST IR 5666"/>
-    <author fullname="Greg Morea" initials="G." surname="Morea"/>
-    <author fullname="Ed Reid" initials="E." surname="Reid"/>
+    <author fullname="Greg Morea" initials="F" surname="Morea">
+      <organization/>
+    </author>
+    <author fullname="Ed Reid" initials="E." surname="Reid">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5666"/>
+  <seriesInfo name="NIST" value="NIST IR 5666"/>
 </reference>

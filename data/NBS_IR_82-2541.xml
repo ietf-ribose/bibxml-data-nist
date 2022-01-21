@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2541" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2541.pdf">
   <front>
     <title>Normal form and representation theory</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2541"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2541"/>
-    <author fullname="Richard Cushman" initials="R." surname="Cushman"/>
-    <author fullname="Andre Deprit" initials="A." surname="Deprit"/>
-    <author fullname="Richard Mosak" initials="R." surname="Mosak"/>
+    <author fullname="Richard Cushman" initials="R." surname="Cushman">
+      <organization/>
+    </author>
+    <author fullname="Andre Deprit" initials="A." surname="Deprit">
+      <organization/>
+    </author>
+    <author fullname="Richard Mosak" initials="R." surname="Mosak">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2541"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2541"/>
 </reference>

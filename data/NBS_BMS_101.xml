@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures101.pdf">
   <front>
     <title>Strength and resistance to corrosion of ties for cavity walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.101"/>
-    <seriesInfo name="NIST" value="NBS BMS 101"/>
-    <author fullname="Cyrus Fishburn" initials="C." surname="Fishburn"/>
+    <author fullname="Cyrus Fishburn" initials="C" surname="Fishburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1943"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.101"/>
+  <seriesInfo name="NIST" value="NBS BMS 101"/>
 </reference>

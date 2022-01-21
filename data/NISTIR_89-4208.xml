@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4208" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4208.pdf">
   <front>
     <title>Autonomous propulsion system requirements for placement of an STS external tank in low earth orbit</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4208"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4208"/>
-    <author fullname="William Stone" initials="W." surname="Stone"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
+    <author fullname="William Stone" initials="C" surname="Stone">
+      <organization/>
+    </author>
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4208"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4208"/>
 </reference>

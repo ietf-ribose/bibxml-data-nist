@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.250-96" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-96.pdf">
   <front>
     <title>Dimensional measurement of nanostructures with scanning electron microscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-96"/>
-    <seriesInfo name="NIST" value="NIST SP 250-96"/>
     <author fullname="K.A. Bertness" initials="K." surname="Bertness">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="September" day="20"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-96"/>
+  <seriesInfo name="NIST" value="NIST SP 250-96"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1408" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1408.pdf">
   <front>
     <title>Summary report of NIST'S industry-government consortium research program on flowmeter installation effects :the 45 degree elbow</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1408"/>
-    <seriesInfo name="NIST" value="NIST TN 1408"/>
-    <author surname="Mattingly"/>
-    <author surname="Yeh"/>
+    <author initials="GE" surname="Mattingly">
+      <organization/>
+    </author>
+    <author initials="TT" surname="Yeh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1408"/>
+  <seriesInfo name="NIST" value="NIST TN 1408"/>
 </reference>

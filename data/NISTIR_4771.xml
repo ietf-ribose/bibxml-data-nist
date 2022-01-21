@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4771" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4771.pdf">
   <front>
     <title>Conformity assessment workshop on wood products</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4771"/>
-    <seriesInfo name="NIST" value="NIST IR 4771"/>
-    <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
+    <author fullname="Robert Gladhill" initials="L" surname="Gladhill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4771"/>
+  <seriesInfo name="NIST" value="NIST IR 4771"/>
 </reference>

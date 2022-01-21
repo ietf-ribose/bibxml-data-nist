@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8215" target="http://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8215.pdf">
   <front>
     <title>Forensic latent fingerprint preprocessing assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8215"/>
-    <seriesInfo name="NIST" value="NIST IR 8215"/>
     <author fullname="Paul Lee" initials="P." surname="Lee">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,7 +16,7 @@
     <author fullname="Brian Stanton" initials="B." surname="Stanton">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Matthew Schwarz" initials="M." surname="Schwarz">
+    <author fullname="Matthew Schwarz" initials="T" surname="Schwarz">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8215"/>
+  <seriesInfo name="NIST" value="NIST IR 8215"/>
 </reference>

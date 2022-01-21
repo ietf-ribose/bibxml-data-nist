@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4721r1992" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4721r1992.pdf">
   <front>
     <title>Questions and answers on quality, the ISO 9000 standard series, quality system registration, and related issues</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4721r1992"/>
-    <seriesInfo name="NIST" value="NIST IR 4721r1992"/>
-    <author fullname="Marueen Breitenberg" initials="M." surname="Breitenberg"/>
+    <author fullname="Marueen Breitenberg" initials="M." surname="Breitenberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4721r1992"/>
+  <seriesInfo name="NIST" value="NIST IR 4721r1992"/>
 </reference>

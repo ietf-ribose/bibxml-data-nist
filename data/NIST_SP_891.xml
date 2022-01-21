@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.891" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication891.pdf">
   <front>
     <title>Standards setting in the European Union</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.891"/>
-    <seriesInfo name="NIST" value="NIST SP 891"/>
-    <author fullname="Roger Rensberger" initials="R." surname="Rensberger"/>
-    <author fullname="Roger Rensberger" initials="R." surname="Rensberger"/>
-    <author fullname="Rene van de Zande" initials="R." surname="van de Zande"/>
+    <author fullname="Roger Rensberger" initials="A" surname="Rensberger">
+      <organization/>
+    </author>
+    <author fullname="Roger Rensberger" initials="A" surname="Rensberger">
+      <organization/>
+    </author>
+    <author fullname="Rene van de Zande" initials="R." surname="van de Zande">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.891"/>
+  <seriesInfo name="NIST" value="NIST SP 891"/>
 </reference>

@@ -1,14 +1,20 @@
 <reference anchor="NIST.GCR.14-978" target="https://nvlpubs.nist.gov/nistpubs/gcr/2014/NIST.GCR.14-978.pdf">
   <front>
     <title>Electricity storage in buildings for residential sector demand response : control algorithms and economic viability evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.14-978"/>
-    <seriesInfo name="NIST" value="NIST GCR 14-978"/>
-    <author fullname="Menglian Zheng" initials="M." surname="Zheng"/>
-    <author fullname="Christoph Meinrenken" initials="C." surname="Meinrenken"/>
-    <author fullname="Klaus Lackner" initials="K." surname="Lackner"/>
+    <author fullname="Menglian Zheng" initials="M." surname="Zheng">
+      <organization/>
+    </author>
+    <author fullname="Christoph Meinrenken" initials="J" surname="Meinrenken">
+      <organization/>
+    </author>
+    <author fullname="Klaus Lackner" initials="S" surname="Lackner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="2014" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.14-978"/>
+  <seriesInfo name="NIST" value="NIST GCR 14-978"/>
 </reference>

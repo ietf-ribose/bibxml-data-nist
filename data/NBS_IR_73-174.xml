@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-174.pdf">
   <front>
     <title>A study of the feasibility of obtaining a systems calibration of a load cell and indicator from independent calibrations of the components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-174"/>
-    <seriesInfo name="NIST" value="NBS IR 73-174"/>
-    <author surname="Tate"/>
+    <author initials="DR" surname="Tate">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-174"/>
+  <seriesInfo name="NIST" value="NBS IR 73-174"/>
 </reference>

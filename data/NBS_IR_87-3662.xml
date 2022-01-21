@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.87-3662" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3662.pdf">
   <front>
     <title>Effects of varying precipitation hardening temperatures and times on the ability of HSLA-80 to achieve a yield strength of 689.5 MPa and impact properties comparable to HSLA-100</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3662"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3662"/>
-    <author surname="Hicho"/>
-    <author surname="Brady"/>
-    <author surname="Smith"/>
-    <author surname="Fields"/>
+    <author initials="GE" surname="Hicho">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Brady">
+      <organization/>
+    </author>
+    <author initials="LC" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1987" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3662"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3662"/>
 </reference>

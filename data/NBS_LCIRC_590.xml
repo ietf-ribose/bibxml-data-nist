@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.590" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular590.pdf">
   <front>
     <title>Letter Circular 590:simplified practice, its purpose and application (supersedes Letter Circular 456)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.590"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 590"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.590"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 590"/>
 </reference>

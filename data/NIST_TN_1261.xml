@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1261" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1261.pdf">
   <front>
     <title>Mining automation real-time control system architecture standard reference model (MASREM)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1261"/>
-    <seriesInfo name="NIST" value="NIST TN 1261"/>
-    <author fullname="JamesSacra Albus" initials="J.S." surname="Albus"/>
+    <author fullname="JamesSacra Albus" initials="J.S." surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1261"/>
+  <seriesInfo name="NIST" value="NIST TN 1261"/>
 </reference>

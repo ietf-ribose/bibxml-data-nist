@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8255" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8255.pdf">
   <front>
     <title>Interoperability of real-time public safety data:challenges and possible future states</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8255"/>
-    <seriesInfo name="NIST" value="NIST IR 8255"/>
     <author fullname="Britta Voss" initials="B." surname="Voss">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8255"/>
+  <seriesInfo name="NIST" value="NIST IR 8255"/>
 </reference>

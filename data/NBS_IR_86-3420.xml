@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.86-3420" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3420.pdf">
   <front>
     <title>Combustion of oil on water</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3420"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3420"/>
-    <author surname="Evans"/>
-    <author surname="Baum"/>
-    <author surname="McCaffrey"/>
-    <author surname="Mulholland"/>
-    <author surname="Harkleroad"/>
-    <author surname="Menders"/>
+    <author initials="D" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="H" surname="Baum">
+      <organization/>
+    </author>
+    <author initials="B" surname="McCaffrey">
+      <organization/>
+    </author>
+    <author initials="G" surname="Mulholland">
+      <organization/>
+    </author>
+    <author initials="M" surname="Harkleroad">
+      <organization/>
+    </author>
+    <author initials="W" surname="Menders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3420"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3420"/>
 </reference>

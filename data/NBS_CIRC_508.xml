@@ -1,11 +1,15 @@
 <reference anchor="NBS.CIRC.508" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular508.pdf">
   <front>
     <title>Circular of the Bureau of Standards no.508:reference tables for thermocouples</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.508"/>
-    <seriesInfo name="NIST" value="NBS CIRC 508"/>
-    <author fullname="Henry Shenker" initials="H." surname="Shenker"/>
-    <author fullname="JohnJr Lauritzen" initials="J.J." surname="Lauritzen"/>
-    <author fullname="Robert Corruccini" initials="R." surname="Corruccini"/>
+    <author fullname="Henry Shenker" initials="H." surname="Shenker">
+      <organization/>
+    </author>
+    <author fullname="JohnJr Lauritzen" initials="I" surname="Lauritzen">
+      <organization/>
+    </author>
+    <author fullname="Robert Corruccini" initials="J" surname="Corruccini">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.508"/>
+  <seriesInfo name="NIST" value="NBS CIRC 508"/>
 </reference>

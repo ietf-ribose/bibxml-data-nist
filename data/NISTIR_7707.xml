@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7707" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7707.pdf">
   <front>
     <title>Virtual cement and concrete testing laboratory :educational version 2.0 user guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7707"/>
-    <seriesInfo name="NIST" value="NIST IR 7707"/>
-    <author fullname="Jeffrey Bullard" initials="J." surname="Bullard"/>
+    <author fullname="Jeffrey Bullard" initials="W" surname="Bullard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7707"/>
+  <seriesInfo name="NIST" value="NIST IR 7707"/>
 </reference>

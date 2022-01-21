@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.83-2689" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2689.pdf">
   <front>
     <title>Thermal radiative ignition of liquid fuels by a CO? laser</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2689"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2689"/>
-    <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi"/>
-    <author fullname="Takao Kashiwagi" initials="T." surname="Kashiwagi"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
+    <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi">
+      <organization/>
+    </author>
+    <author fullname="Takao Kashiwagi" initials="T." surname="Kashiwagi">
+      <organization/>
+    </author>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2689"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2689"/>
 </reference>

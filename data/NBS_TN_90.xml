@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.90" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote90.pdf">
   <front>
     <title>Flux switching mechanisms in ferrite cores and their dependence on core geometry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.90"/>
-    <seriesInfo name="NIST" value="NBS TN 90"/>
-    <author fullname="George Reimherr" initials="G." surname="Reimherr"/>
+    <author fullname="George Reimherr" initials="W" surname="Reimherr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.90"/>
+  <seriesInfo name="NIST" value="NBS TN 90"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3125.pdf">
   <front>
     <title>Problem and data spcification for linear programs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3125"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3125"/>
-    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
-    <author fullname="Marjorie McClain" initials="M." surname="McClain"/>
+    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall">
+      <organization/>
+    </author>
+    <author fullname="Marjorie McClain" initials="M." surname="McClain">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3125"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3125"/>
 </reference>

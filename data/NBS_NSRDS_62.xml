@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.62" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds62.pdf">
   <front>
     <title>Compilation of rate constants for the reactions of metal ions in unusual valency states</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.62"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 62"/>
-    <author fullname="George Buxton" initials="G." surname="Buxton"/>
-    <author fullname="Robin Sellers" initials="R." surname="Sellers"/>
+    <author fullname="George Buxton" initials="V" surname="Buxton">
+      <organization/>
+    </author>
+    <author fullname="Robin Sellers" initials="M" surname="Sellers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.62"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 62"/>
 </reference>

@@ -1,30 +1,28 @@
 <reference anchor="NIST.IR.7839" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7839.pdf">
   <front>
     <title>Examination of Downsampling Strategies for Converting 1000 ppi Fingerprint Imagery to 500 ppi</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7839"/>
-    <seriesInfo name="NIST" value="NIST IR 7839"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
-    <author fullname="John Libert" initials="J." surname="Libert">
+    <author fullname="John Libert" initials="M" surname="Libert">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
     <author fullname="Kenneth Ko" initials="K." surname="Ko">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
-    <author fullname="Stephen Wood" initials="S." surname="Wood">
+    <author fullname="Stephen Wood" initials="S" surname="Wood">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
-    <author fullname="Stephen Harvey" initials="S." surname="Harvey">
+    <author fullname="Stephen Harvey" initials="G" surname="Harvey">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
-    <author fullname="John Grantham" initials="J." surname="Grantham">
+    <author fullname="John Grantham" initials="D" surname="Grantham">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
     <author fullname="Margaret Lepley" initials="M." surname="Lepley">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
-    <author fullname="Lindsay Petersen" initials="L." surname="Petersen">
+    <author fullname="Lindsay Petersen" initials="M" surname="Petersen">
       <organization>Information Access Division ‐ Image Group, Information Technology Laboratories</organization>
     </author>
     <author fullname="Bruce Bandini" initials="B." surname="Bandini">
@@ -42,4 +40,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7839"/>
+  <seriesInfo name="NIST" value="NIST IR 7839"/>
 </reference>

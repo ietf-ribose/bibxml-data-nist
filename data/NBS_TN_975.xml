@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.975" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote975.pdf">
   <front>
     <title>Results and analysis of a round-robin test program for liquid-heating flat-plate solar collectors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.975"/>
-    <seriesInfo name="NIST" value="NBS TN 975"/>
-    <author surname="Streed"/>
+    <author initials="ER" surname="Streed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.975"/>
+  <seriesInfo name="NIST" value="NBS TN 975"/>
 </reference>

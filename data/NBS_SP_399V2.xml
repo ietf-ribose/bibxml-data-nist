@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.399v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication399v2.pdf">
   <front>
     <title>NBS FORTRAN test programs :volume 2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.399v2"/>
-    <seriesInfo name="NIST" value="NBS SP 399v2"/>
-    <author fullname="Frances Holberton" initials="F." surname="Holberton"/>
-    <author fullname="Elizabeth Parker" initials="E." surname="Parker"/>
+    <author fullname="Frances Holberton" initials="E" surname="Holberton">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Parker" initials="G" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.399v2"/>
+  <seriesInfo name="NIST" value="NBS SP 399v2"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.711" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote711.pdf">
   <front>
     <title>Measures for air quality :annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.711"/>
-    <seriesInfo name="NIST" value="NBS TN 711"/>
-    <author fullname="J.R. McNesby" initials="J." surname="McNesby"/>
+    <author fullname="J.R. McNesby" initials="J." surname="McNesby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.711"/>
+  <seriesInfo name="NIST" value="NBS TN 711"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1308" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1308.pdf">
   <front>
     <title>Annual conference on fire research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1308"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1308"/>
-    <author fullname="Clayton Huggett" initials="C." surname="Huggett"/>
+    <author fullname="Clayton Huggett" initials="C." surname="Huggett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1308"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1308"/>
 </reference>

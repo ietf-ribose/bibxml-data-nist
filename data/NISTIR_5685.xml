@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5685" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5685.pdf">
   <front>
     <title>SF6 insulation:possible greenhouse problems and solutions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5685"/>
-    <seriesInfo name="NIST" value="NIST IR 5685"/>
-    <author fullname="Loucas Christophorou" initials="L." surname="Christophorou"/>
-    <author fullname="RichardVan Brunt" initials="R.V." surname="Brunt"/>
+    <author fullname="Loucas Christophorou" initials="G" surname="Christophorou">
+      <organization/>
+    </author>
+    <author fullname="RichardVan Brunt" initials="J" surname="Brunt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5685"/>
+  <seriesInfo name="NIST" value="NIST IR 5685"/>
 </reference>

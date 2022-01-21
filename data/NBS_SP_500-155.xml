@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-155.pdf">
   <front>
     <title>Management guide for software reuse</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-155"/>
-    <seriesInfo name="NIST" value="NBS SP 500-155"/>
-    <author fullname="William Wong" initials="W." surname="Wong"/>
+    <author fullname="William Wong" initials="W." surname="Wong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-155"/>
+  <seriesInfo name="NIST" value="NBS SP 500-155"/>
 </reference>

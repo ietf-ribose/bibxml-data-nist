@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.68" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote68.pdf">
   <front>
     <title>Transistorized building blocks for data instrumentation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.68"/>
-    <seriesInfo name="NIST" value="NBS TN 68"/>
-    <author surname="Cunningham"/>
+    <author initials="JA" surname="Cunningham">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.68"/>
+  <seriesInfo name="NIST" value="NBS TN 68"/>
 </reference>

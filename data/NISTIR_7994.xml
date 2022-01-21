@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7994" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7994.pdf">
   <front>
     <title>Applied and Computational Mathematics Division : summary of activities for fiscal year 2013</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7994"/>
-    <seriesInfo name="NIST" value="NIST IR 7994"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert">
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7994"/>
+  <seriesInfo name="NIST" value="NIST IR 7994"/>
 </reference>

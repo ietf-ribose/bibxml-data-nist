@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.378b" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular378b.pdf">
   <front>
     <title>Letter Circular 378b:zoned municipalities -- by population groups; municipalities of more than 40,000 and less than 100,000 population</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.378b"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 378b"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.378b"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 378b"/>
 </reference>

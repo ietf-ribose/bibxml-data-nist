@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4896" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4896.pdf">
   <front>
     <title>The NIST impact test facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4896"/>
-    <seriesInfo name="NIST" value="NIST IR 4896"/>
-    <author fullname="HarryIII Shenton" initials="H.I." surname="Shenton"/>
-    <author fullname="Erik Anderson" initials="E." surname="Anderson"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
-    <author fullname="Richard Marshall" initials="R." surname="Marshall"/>
+    <author fullname="HarryIII Shenton" initials="W" surname="Shenton">
+      <organization/>
+    </author>
+    <author fullname="Erik Anderson" initials="D" surname="Anderson">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="Richard Marshall" initials="D" surname="Marshall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4896"/>
+  <seriesInfo name="NIST" value="NIST IR 4896"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.76-1091" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1091.pdf">
   <front>
     <title>Materials for fuel cells</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1091"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1091"/>
-    <author surname="Bennett"/>
-    <author surname="Cohen"/>
-    <author surname="Dragoo"/>
-    <author surname="Franklin"/>
-    <author surname="McAlister"/>
+    <author initials="LH" surname="Bennett">
+      <organization/>
+    </author>
+    <author initials="MI" surname="Cohen">
+      <organization/>
+    </author>
+    <author initials="AL" surname="Dragoo">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Franklin">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="McAlister">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1091"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1091"/>
 </reference>

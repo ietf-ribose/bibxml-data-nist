@@ -1,9 +1,9 @@
 <reference anchor="NIST.MONO.179" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nistmonograph179.pdf">
   <front>
     <title>The Global equivalence ratio concept and the prediction of carbon monoxide formation in enclosure fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.MONO.179"/>
-    <seriesInfo name="NIST" value="NIST MONO 179"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.MONO.179"/>
+  <seriesInfo name="NIST" value="NIST MONO 179"/>
 </reference>

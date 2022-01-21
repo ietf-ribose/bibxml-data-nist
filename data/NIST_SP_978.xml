@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.978" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication978.pdf">
   <front>
     <title>Office of International and Academic Affairs activities report for fy 19992000</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.978"/>
-    <seriesInfo name="NIST" value="NIST SP 978"/>
-    <author surname="Heller-Zeisler"/>
-    <author surname="Heller-Zeisler"/>
+    <author initials="SF" surname="Heller-Zeisler">
+      <organization/>
+    </author>
+    <author initials="SF" surname="Heller-Zeisler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.978"/>
+  <seriesInfo name="NIST" value="NIST SP 978"/>
 </reference>

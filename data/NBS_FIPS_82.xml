@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.82" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub82.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: pracitce for operational practicesinspection and quality control for alphanumeric computer output microfilm</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.82"/>
-    <seriesInfo name="NIST" value="NBS FIPS 82"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.82"/>
+  <seriesInfo name="NIST" value="NBS FIPS 82"/>
 </reference>

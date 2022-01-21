@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1317" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1317.pdf">
   <front>
     <title>Calibration of high-voltage pulse measurement systems based on the Kerr Effect</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1317"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1317"/>
-    <author fullname="Robert Hebner" initials="R." surname="Hebner"/>
-    <author fullname="Martin Misakian" initials="M." surname="Misakian"/>
+    <author fullname="Robert Hebner" initials="E" surname="Hebner">
+      <organization/>
+    </author>
+    <author fullname="Martin Misakian" initials="M." surname="Misakian">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1317"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1317"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5373" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5373.pdf">
   <front>
     <title>Report on the workshop of manufacturing polymer composites by liquid molding, September 20-22, 1993</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5373"/>
-    <seriesInfo name="NIST" value="NIST IR 5373"/>
-    <author fullname="Kenneth Kendall" initials="K." surname="Kendall"/>
-    <author fullname="Michiel Bruschke" initials="M." surname="Bruschke"/>
+    <author fullname="Kenneth Kendall" initials="N" surname="Kendall">
+      <organization/>
+    </author>
+    <author fullname="Michiel Bruschke" initials="V" surname="Bruschke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5373"/>
+  <seriesInfo name="NIST" value="NIST IR 5373"/>
 </reference>

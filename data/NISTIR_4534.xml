@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4534" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4534.pdf">
   <front>
     <title>Energy Related Inventions Program:a joint program of the Department of Energy and the National Institute of Standards and Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4534"/>
-    <seriesInfo name="NIST" value="NIST IR 4534"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4534"/>
+  <seriesInfo name="NIST" value="NIST IR 4534"/>
 </reference>

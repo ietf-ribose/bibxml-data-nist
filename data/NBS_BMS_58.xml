@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.58" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures58.pdf">
   <front>
     <title>Strength of soft-soldered joints in copper tubing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.58"/>
-    <seriesInfo name="NIST" value="NBS BMS 58"/>
-    <author fullname="Arthur Maupin" initials="A." surname="Maupin"/>
-    <author fullname="William Swanger" initials="W." surname="Swanger"/>
+    <author fullname="Arthur Maupin" initials="R" surname="Maupin">
+      <organization/>
+    </author>
+    <author fullname="William Swanger" initials="H" surname="Swanger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.58"/>
+  <seriesInfo name="NIST" value="NBS BMS 58"/>
 </reference>

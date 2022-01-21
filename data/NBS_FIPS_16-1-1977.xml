@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.16-1-1977" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub16-1-1977.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: bit sequencing of the code for information interchange in serial-by-bit data transmission</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.16-1-1977"/>
-    <seriesInfo name="NIST" value="NBS FIPS 16-1-1977"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.16-1-1977"/>
+  <seriesInfo name="NIST" value="NBS FIPS 16-1-1977"/>
 </reference>

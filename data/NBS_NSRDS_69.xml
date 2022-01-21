@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.69" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds69.pdf">
   <front>
     <title>Optical spectra of nonmetallic inorganic transient species in aqueous solution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.69"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 69"/>
-    <author fullname="Gordon Hug" initials="G." surname="Hug"/>
+    <author fullname="Gordon Hug" initials="L" surname="Hug">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.69"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 69"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.4989" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4989.pdf">
   <front>
     <title>Reduction of hydrogen cyanide concentrations and acute inhalation toxicity from flexible polyurethane foam combustion products by the addition of copper compounds:part IV. Effects of combustion conditions and scaling on the generation of hydrogen cyanide and toxicity from flexible polyurethane foam with and without copper compounds</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4989"/>
-    <seriesInfo name="NIST" value="NIST IR 4989"/>
-    <author surname="Levin"/>
-    <author surname="Braun"/>
-    <author surname="Paabo"/>
-    <author surname="Harris"/>
-    <author surname="Navarro"/>
+    <author initials="BC" surname="Levin">
+      <organization/>
+    </author>
+    <author initials="E" surname="Braun">
+      <organization/>
+    </author>
+    <author initials="M" surname="Paabo">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Harris">
+      <organization/>
+    </author>
+    <author initials="M" surname="Navarro">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4989"/>
+  <seriesInfo name="NIST" value="NIST IR 4989"/>
 </reference>

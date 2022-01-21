@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9886" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9886.pdf">
   <front>
     <title>Circuit description of a prototype cable fault locator</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9886"/>
-    <seriesInfo name="NIST" value="NBS RPT 9886"/>
-    <author fullname="David Brenner" initials="D." surname="Brenner"/>
+    <author fullname="David Brenner" initials="D." surname="Brenner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9886"/>
+  <seriesInfo name="NIST" value="NBS RPT 9886"/>
 </reference>

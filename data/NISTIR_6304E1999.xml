@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6304e1999" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6304e1999.pdf">
   <front>
     <title>NIST indices of NTEP device evaluations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6304e1999"/>
-    <seriesInfo name="NIST" value="NIST IR 6304e1999"/>
-    <author fullname="Lynn Sebring" initials="L." surname="Sebring"/>
-    <author fullname="Tina Butcher" initials="T." surname="Butcher"/>
+    <author fullname="Lynn Sebring" initials="L." surname="Sebring">
+      <organization/>
+    </author>
+    <author fullname="Tina Butcher" initials="G" surname="Butcher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6304e1999"/>
+  <seriesInfo name="NIST" value="NIST IR 6304e1999"/>
 </reference>

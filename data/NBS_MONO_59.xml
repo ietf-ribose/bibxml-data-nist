@@ -1,15 +1,27 @@
 <reference anchor="NBS.MONO.59" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph59.pdf">
   <front>
     <title>Mechanical behavior of crystalline solids; proceedings of a symposium April 28-29, 1962</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.59"/>
-    <seriesInfo name="NIST" value="NBS MONO 59"/>
-    <author fullname="Earl Parker" initials="E." surname="Parker"/>
-    <author fullname="Roland de Wit" initials="R." surname="de Wit"/>
-    <author surname="Wilsdorf"/>
-    <author surname="Johnston"/>
-    <author surname="Gilman"/>
-    <author surname="Kingery"/>
-    <author surname="Coble"/>
+    <author fullname="Earl Parker" initials="R" surname="Parker">
+      <organization/>
+    </author>
+    <author fullname="Roland de Wit" initials="R." surname="de Wit">
+      <organization/>
+    </author>
+    <author initials="HGF" surname="Wilsdorf">
+      <organization/>
+    </author>
+    <author initials="TL" surname="Johnston">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Gilman">
+      <organization/>
+    </author>
+    <author initials="WD" surname="Kingery">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Coble">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.59"/>
+  <seriesInfo name="NIST" value="NBS MONO 59"/>
 </reference>

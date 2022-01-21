@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7438" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7438.pdf">
   <front>
     <title>Calibrating image roughness by estimating Lipschitz exponents, with application to image restoration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7438"/>
-    <seriesInfo name="NIST" value="NIST IR 7438"/>
-    <author fullname="Alfred Carasso" initials="A." surname="Carasso"/>
-    <author fullname="András Vladár" initials="A." surname="Vladár"/>
+    <author fullname="Alfred Carasso" initials="S" surname="Carasso">
+      <organization/>
+    </author>
+    <author fullname="András Vladár" initials="E" surname="Vladár">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7438"/>
+  <seriesInfo name="NIST" value="NIST IR 7438"/>
 </reference>

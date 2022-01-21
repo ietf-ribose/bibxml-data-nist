@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6557" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6557.pdf">
   <front>
     <title>Strength evaluation of connectors for intermodal containers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6557"/>
-    <seriesInfo name="NIST" value="NIST IR 6557"/>
-    <author surname="Lew"/>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek"/>
-    <author fullname="Erik Anderson" initials="E." surname="Anderson"/>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+      <organization/>
+    </author>
+    <author fullname="Erik Anderson" initials="D" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6557"/>
+  <seriesInfo name="NIST" value="NIST IR 6557"/>
 </reference>

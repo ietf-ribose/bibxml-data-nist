@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-705" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-705.pdf">
   <front>
     <title>Thermal and flow characteristics of the ASTM E 84 tunnel test method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-705"/>
-    <seriesInfo name="NIST" value="NBS IR 75-705"/>
-    <author fullname="James Quintiere" initials="J." surname="Quintiere"/>
-    <author fullname="James Raines" initials="J." surname="Raines"/>
+    <author fullname="James Quintiere" initials="G" surname="Quintiere">
+      <organization/>
+    </author>
+    <author fullname="James Raines" initials="W" surname="Raines">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-705"/>
+  <seriesInfo name="NIST" value="NBS IR 75-705"/>
 </reference>

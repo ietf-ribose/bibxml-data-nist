@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5808" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5808.pdf">
   <front>
     <title>A machining process planning activity model for systems integration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5808"/>
-    <seriesInfo name="NIST" value="NIST IR 5808"/>
-    <author fullname="Shaw Feng" initials="S." surname="Feng"/>
+    <author fullname="Shaw Feng" initials="C" surname="Feng">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5808"/>
+  <seriesInfo name="NIST" value="NIST IR 5808"/>
 </reference>

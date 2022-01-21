@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6912" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6912.pdf">
   <front>
     <title>Three dimensional data capture in indoor environments for autonomous navigation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6912"/>
-    <seriesInfo name="NIST" value="NIST IR 6912"/>
-    <author surname="Evans"/>
-    <author surname="Chang"/>
-    <author surname="Hong"/>
-    <author surname="Bostelman"/>
-    <author surname="Bunch"/>
+    <author initials="JM" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="T" surname="Chang">
+      <organization/>
+    </author>
+    <author initials="TH" surname="Hong">
+      <organization/>
+    </author>
+    <author initials="R" surname="Bostelman">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Bunch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6912"/>
+  <seriesInfo name="NIST" value="NIST IR 6912"/>
 </reference>

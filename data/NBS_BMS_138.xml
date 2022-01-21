@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.138" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures138.pdf">
   <front>
     <title>Effect of edge insulation upon temperature and condensation on concrete-slab floors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.138"/>
-    <seriesInfo name="NIST" value="NBS BMS 138"/>
-    <author fullname="Harold Martin" initials="H." surname="Martin"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
-    <author fullname="Richard Dill" initials="R." surname="Dill"/>
+    <author fullname="Harold Martin" initials="R" surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
+    <author fullname="Richard Dill" initials="S" surname="Dill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.138"/>
+  <seriesInfo name="NIST" value="NBS BMS 138"/>
 </reference>

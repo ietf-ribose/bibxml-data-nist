@@ -1,16 +1,30 @@
 <reference anchor="NIST.TN.1540" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1540.pdf">
   <front>
     <title>Propagation and detection of radio signals before, during, and after the implosion of a 13-story apartment building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1540"/>
-    <seriesInfo name="NIST" value="NIST TN 1540"/>
-    <author surname="Camell"/>
-    <author fullname="Seturnino Canales" initials="S." surname="Canales"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
-    <author fullname="Kate Remley" initials="K." surname="Remley"/>
-    <author fullname="Susan Schima" initials="S." surname="Schima"/>
-    <author fullname="Douglas Tamaura" initials="D." surname="Tamaura"/>
-    <author fullname="DylanForrest Williams" initials="D.F." surname="Williams"/>
-    <author fullname="Christopher Holloway" initials="C." surname="Holloway"/>
+    <author initials="DG" surname="Camell">
+      <organization/>
+    </author>
+    <author fullname="Seturnino Canales" initials="S." surname="Canales">
+      <organization/>
+    </author>
+    <author fullname="Galen Koepke" initials="H" surname="Koepke">
+      <organization/>
+    </author>
+    <author fullname="Kate Remley" initials="A" surname="Remley">
+      <organization/>
+    </author>
+    <author fullname="Susan Schima" initials="A" surname="Schima">
+      <organization/>
+    </author>
+    <author fullname="Douglas Tamaura" initials="T" surname="Tamaura">
+      <organization/>
+    </author>
+    <author fullname="DylanForrest Williams" initials="D.F." surname="Williams">
+      <organization/>
+    </author>
+    <author fullname="Christopher Holloway" initials="L" surname="Holloway">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1540"/>
+  <seriesInfo name="NIST" value="NIST TN 1540"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9448" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9448.pdf">
   <front>
     <title>Effects of spin relaxation on the EPR spectrum of gaseous N atoms</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9448"/>
-    <seriesInfo name="NIST" value="NBS RPT 9448"/>
-    <author fullname="Robert Brown" initials="R." surname="Brown"/>
+    <author fullname="Robert Brown" initials="L" surname="Brown">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9448"/>
+  <seriesInfo name="NIST" value="NBS RPT 9448"/>
 </reference>

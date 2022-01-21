@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4108" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4108.pdf">
   <front>
     <title>Directory of associate members 1989 NCWM publication 9</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4108"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4108"/>
-    <author surname="Brickenkamp"/>
+    <author initials="CS" surname="Brickenkamp">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4108"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4108"/>
 </reference>

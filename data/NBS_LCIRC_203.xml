@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.203" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular203.pdf">
   <front>
     <title>Letter Circular 203:fees for photometric testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.203"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 203"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.203"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 203"/>
 </reference>

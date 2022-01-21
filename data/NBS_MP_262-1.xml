@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.262-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub262-1.pdf">
   <front>
     <title>Legibility of alphanumeric characters and other symbols I. A permuted title index and bibiography/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.262-1"/>
-    <seriesInfo name="NIST" value="NBS MP 262-1"/>
-    <author surname="Rose"/>
-    <author surname="Cornog"/>
+    <author initials="FC" surname="Rose">
+      <organization/>
+    </author>
+    <author initials="DY" surname="Cornog">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.262-1"/>
+  <seriesInfo name="NIST" value="NBS MP 262-1"/>
 </reference>

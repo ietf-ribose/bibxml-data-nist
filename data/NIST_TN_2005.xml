@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2005" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2005.pdf">
   <front>
     <title>Thermal energy storage for the NIST net-zero house heat pump</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2005"/>
-    <seriesInfo name="NIST" value="NIST TN 2005"/>
-    <author surname="Kedzierski">
+    <author initials="MA" surname="Kedzierski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author surname="Payne">
+    <author initials="WV" surname="Payne">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author surname="Skye">
+    <author initials="HM" surname="Skye">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2005"/>
+  <seriesInfo name="NIST" value="NIST TN 2005"/>
 </reference>

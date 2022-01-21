@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-121" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-121.pdf">
   <front>
     <title>Guidance on planning and implementing computer system reliability</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-121"/>
-    <seriesInfo name="NIST" value="NBS SP 500-121"/>
-    <author fullname="Lynne Rosenthal" initials="L." surname="Rosenthal"/>
+    <author fullname="Lynne Rosenthal" initials="S" surname="Rosenthal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-121"/>
+  <seriesInfo name="NIST" value="NBS SP 500-121"/>
 </reference>

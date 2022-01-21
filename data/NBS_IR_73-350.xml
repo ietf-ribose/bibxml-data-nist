@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-350" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-350.pdf">
   <front>
     <title>Adapter evaluation by automated measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-350"/>
-    <seriesInfo name="NIST" value="NBS IR 73-350"/>
-    <author surname="Jesch"/>
-    <author surname="Engen"/>
-    <author surname="Weidman"/>
+    <author initials="RL" surname="Jesch">
+      <organization/>
+    </author>
+    <author initials="GF" surname="Engen">
+      <organization/>
+    </author>
+    <author initials="MP" surname="Weidman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-350"/>
+  <seriesInfo name="NIST" value="NBS IR 73-350"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.TN.1499" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1499.pdf">
   <front>
     <title>Performance metrics for fire fighting thermal imaging cameras :small- and full-scale experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1499"/>
-    <seriesInfo name="NIST" value="NIST TN 1499"/>
-    <author fullname="Francine Amon" initials="F." surname="Amon"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="Andrew Lock" initials="A." surname="Lock"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
+    <author fullname="Francine Amon" initials="K" surname="Amon">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="Andrew Lock" initials="A." surname="Lock">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1499"/>
+  <seriesInfo name="NIST" value="NIST TN 1499"/>
 </reference>

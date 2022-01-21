@@ -1,11 +1,15 @@
 <reference anchor="NBS.TN.1123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1123.pdf">
   <front>
     <title>A computer data base system for indexing research papers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1123"/>
-    <seriesInfo name="NIST" value="NBS TN 1123"/>
-    <author fullname="Robert Glass" initials="R." surname="Glass"/>
-    <author fullname="Lawrence Kaetzel" initials="L." surname="Kaetzel"/>
-    <author fullname="George Smith" initials="G." surname="Smith"/>
+    <author fullname="Robert Glass" initials="A" surname="Glass">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Kaetzel" initials="J" surname="Kaetzel">
+      <organization/>
+    </author>
+    <author fullname="George Smith" initials="R" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1123"/>
+  <seriesInfo name="NIST" value="NBS TN 1123"/>
 </reference>

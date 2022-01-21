@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.88-3902" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3902.pdf">
   <front>
     <title>Experimental thermal conductivity, thermal diffusivity, and specific heat values of argon and nitrogen</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3902"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3902"/>
-    <author surname="Roder"/>
-    <author surname="Perkins"/>
-    <author surname="Nieto de Castro"/>
+    <author initials="HM" surname="Roder">
+      <organization/>
+    </author>
+    <author initials="HA" surname="Perkins">
+      <organization/>
+    </author>
+    <author initials="CA" surname="Nieto de Castro">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3902"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3902"/>
 </reference>

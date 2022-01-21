@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.4687" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4687.pdf">
   <front>
     <title>HgCdTe detector reliability study for the GOES Program</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4687"/>
-    <seriesInfo name="NIST" value="NIST IR 4687"/>
-    <author fullname="David Seiler" initials="D." surname="Seiler"/>
-    <author fullname="George Harman" initials="G." surname="Harman"/>
-    <author fullname="Jeremiah Lowney" initials="J." surname="Lowney"/>
-    <author fullname="Santos Mayo" initials="S." surname="Mayo"/>
-    <author fullname="WalterJr Liggett" initials="W.J." surname="Liggett"/>
+    <author fullname="David Seiler" initials="G" surname="Seiler">
+      <organization/>
+    </author>
+    <author fullname="George Harman" initials="G" surname="Harman">
+      <organization/>
+    </author>
+    <author fullname="Jeremiah Lowney" initials="R" surname="Lowney">
+      <organization/>
+    </author>
+    <author fullname="Santos Mayo" initials="S." surname="Mayo">
+      <organization/>
+    </author>
+    <author fullname="WalterJr Liggett" initials="S" surname="Liggett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4687"/>
+  <seriesInfo name="NIST" value="NIST IR 4687"/>
 </reference>

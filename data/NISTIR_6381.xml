@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6381" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6381.pdf">
   <front>
     <title>A global model for predicting the burning rates of liquid pool fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6381"/>
-    <seriesInfo name="NIST" value="NIST IR 6381"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
-    <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi"/>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Jiann Yang" initials="C" surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6381"/>
+  <seriesInfo name="NIST" value="NIST IR 6381"/>
 </reference>

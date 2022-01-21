@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.292" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub292.pdf">
   <front>
     <title>Bibliography of Liesegang Rings (second edition)/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.292"/>
-    <seriesInfo name="NIST" value="NBS MP 292"/>
-    <author fullname="Kurt Stern" initials="K." surname="Stern"/>
+    <author fullname="Kurt Stern" initials="H" surname="Stern">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.292"/>
+  <seriesInfo name="NIST" value="NBS MP 292"/>
 </reference>

@@ -1,15 +1,23 @@
 <reference anchor="NIST.SP.1132" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1132.pdf">
   <front>
     <title>Investigation Plan, NIST, Technical Investigation of the Joplin, Missouri, Tornado of May 22, 2011 National Institute of Standards and Technology (NIST), Technical Investigation of the Joplin, Missouri, Tornado of May 22, 2011</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1132"/>
-    <seriesInfo name="NIST" value="NIST SP 1132"/>
-    <author fullname="Marc Levitan" initials="M." surname="Levitan"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
-    <author fullname="Franklin Lombardo" initials="F." surname="Lombardo"/>
+    <author fullname="Marc Levitan" initials="L" surname="Levitan">
+      <organization/>
+    </author>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
+      <organization/>
+    </author>
+    <author fullname="Franklin Lombardo" initials="T" surname="Lombardo">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1132"/>
+  <seriesInfo name="NIST" value="NIST SP 1132"/>
 </reference>

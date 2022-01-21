@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6855" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6855.pdf">
   <front>
     <title>Overview of the recommended guide for determining and reporting uncertainties for balances and scales</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6855"/>
-    <seriesInfo name="NIST" value="NIST IR 6855"/>
-    <author fullname="Val Miller" initials="V." surname="Miller"/>
+    <author fullname="Val Miller" initials="R" surname="Miller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6855"/>
+  <seriesInfo name="NIST" value="NIST IR 6855"/>
 </reference>

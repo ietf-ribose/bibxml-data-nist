@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.80" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook80.pdf">
   <front>
     <title>A manual of radioactivity procedures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.80"/>
-    <seriesInfo name="NIST" value="NBS HB 80"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.80"/>
+  <seriesInfo name="NIST" value="NBS HB 80"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3827" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3827.pdf">
   <front>
     <title>Evaluation of the working environment at selected US Army field stations :suggestions for improvement</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3827"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3827"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
+    <author fullname="Arthur Rubin" initials="I" surname="Rubin">
+      <organization/>
+    </author>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3827"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3827"/>
 </reference>

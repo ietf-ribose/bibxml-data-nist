@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1518" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1518.pdf">
   <front>
     <title>Design and Testing of NFRad- :a new noise measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1518"/>
-    <seriesInfo name="NIST" value="NIST TN 1518"/>
-    <author fullname="Chriss Grosvenor" initials="C." surname="Grosvenor"/>
+    <author fullname="Chriss Grosvenor" initials="A" surname="Grosvenor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1518"/>
+  <seriesInfo name="NIST" value="NIST TN 1518"/>
 </reference>

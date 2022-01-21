@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.28" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote28.pdf">
   <front>
     <title>A history of vertical-incidence ionsphere sounding at the National Bureau of Standards.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.28"/>
-    <seriesInfo name="NIST" value="NBS TN 28"/>
-    <author fullname="SanfordCharles Gladden" initials="S.C." surname="Gladden"/>
+    <author fullname="SanfordCharles Gladden" initials="S.C." surname="Gladden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.28"/>
+  <seriesInfo name="NIST" value="NBS TN 28"/>
 </reference>

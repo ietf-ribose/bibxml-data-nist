@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7132" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7132.pdf">
   <front>
     <title>Effect of refrigerant oil additive on R134a and R123 boiling heat transfer performance and related issues for GSA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7132"/>
-    <seriesInfo name="NIST" value="NIST IR 7132"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski"/>
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7132"/>
+  <seriesInfo name="NIST" value="NIST IR 7132"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-167" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-167.pdf">
   <front>
     <title>Guide to Application Whitelisting</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-167"/>
-    <seriesInfo name="NIST" value="NIST SP 800-167"/>
     <author fullname="Adam Sedgewick" initials="A." surname="Sedgewick">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+    <author fullname="Murugiah Souppaya" initials="P" surname="Souppaya">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+    <author fullname="Karen Scarfone" initials="A" surname="Scarfone">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-167"/>
+  <seriesInfo name="NIST" value="NIST SP 800-167"/>
 </reference>

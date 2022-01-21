@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6459" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6459.pdf">
   <front>
     <title>The Process Specification Language (PSL) overview and version 1.0 specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6459"/>
-    <seriesInfo name="NIST" value="NIST IR 6459"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
-    <author fullname="Michael Gruninger" initials="M." surname="Gruninger"/>
-    <author fullname="Florence Tissot" initials="F." surname="Tissot"/>
-    <author fullname="John Valois" initials="J." surname="Valois"/>
-    <author fullname="Jintae Lee" initials="J." surname="Lee"/>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization/>
+    </author>
+    <author fullname="Michael Gruninger" initials="M." surname="Gruninger">
+      <organization/>
+    </author>
+    <author fullname="Florence Tissot" initials="F." surname="Tissot">
+      <organization/>
+    </author>
+    <author fullname="John Valois" initials="J." surname="Valois">
+      <organization/>
+    </author>
+    <author fullname="Jintae Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6459"/>
+  <seriesInfo name="NIST" value="NIST IR 6459"/>
 </reference>

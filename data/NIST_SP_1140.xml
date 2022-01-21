@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1140" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1140.pdf">
   <front>
     <title>Strategies to Achieve Net-Zero Energy Homes : A Framework for Future Guidelines Workshop Summary Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1140"/>
-    <seriesInfo name="NIST" value="NIST SP 1140"/>
-    <author fullname="Nancy McNabb" initials="N." surname="McNabb">
+    <author fullname="Nancy McNabb" initials="A" surname="McNabb">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1140"/>
+  <seriesInfo name="NIST" value="NIST SP 1140"/>
 </reference>

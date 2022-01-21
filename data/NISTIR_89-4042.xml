@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4042" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4042.pdf">
   <front>
     <title>Internal structure of the guide to available mathematical software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4042"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4042"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert"/>
-    <author fullname="Sally Howe" initials="S." surname="Howe"/>
-    <author fullname="Jeanne Springmann" initials="J." surname="Springmann"/>
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
+      <organization/>
+    </author>
+    <author fullname="Sally Howe" initials="E" surname="Howe">
+      <organization/>
+    </author>
+    <author fullname="Jeanne Springmann" initials="L" surname="Springmann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4042"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4042"/>
 </reference>

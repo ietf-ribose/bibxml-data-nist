@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.633" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication633.pdf">
   <front>
     <title>Procedures for calibrating neutron personnel dosimeters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.633"/>
-    <seriesInfo name="NIST" value="NBS SP 633"/>
-    <author fullname="Robert Schwartz" initials="R." surname="Schwartz"/>
-    <author surname="Eisenhauer"/>
+    <author fullname="Robert Schwartz" initials="B" surname="Schwartz">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Eisenhauer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.633"/>
+  <seriesInfo name="NIST" value="NBS SP 633"/>
 </reference>

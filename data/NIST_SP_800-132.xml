@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.800-132" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf">
   <front>
     <title>Recommendation for password-based key derivation :part 1: storage applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-132"/>
-    <seriesInfo name="NIST" value="NIST SP 800-132"/>
-    <author surname="Turan"/>
-    <author surname="Barker"/>
-    <author surname="Burr"/>
-    <author surname="Chen"/>
+    <author initials="MS" surname="Turan">
+      <organization/>
+    </author>
+    <author initials="EB" surname="Barker">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Burr">
+      <organization/>
+    </author>
+    <author initials="L" surname="Chen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-132"/>
+  <seriesInfo name="NIST" value="NIST SP 800-132"/>
 </reference>

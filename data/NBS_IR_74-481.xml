@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-481" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-481.pdf">
   <front>
     <title>Absolute calibration of vibration standards by the three-mass reciprocity method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-481"/>
-    <seriesInfo name="NIST" value="NBS IR 74-481"/>
-    <author fullname="John Ramboz" initials="J." surname="Ramboz"/>
+    <author fullname="John Ramboz" initials="D" surname="Ramboz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-481"/>
+  <seriesInfo name="NIST" value="NBS IR 74-481"/>
 </reference>

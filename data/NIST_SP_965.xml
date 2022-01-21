@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.965" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication965.pdf">
   <front>
     <title>12th International Conference on Automatic Fire Detection</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.965"/>
-    <seriesInfo name="NIST" value="NIST SP 965"/>
-    <author fullname="Kellie Beall" initials="K." surname="Beall"/>
-    <author fullname="Kellie Beall" initials="K." surname="Beall"/>
-    <author fullname="WilliamLytle Grosshandler" initials="W.L." surname="Grosshandler"/>
-    <author fullname="Heinz Luck" initials="H." surname="Luck"/>
+    <author fullname="Kellie Beall" initials="A" surname="Beall">
+      <organization/>
+    </author>
+    <author fullname="Kellie Beall" initials="A" surname="Beall">
+      <organization/>
+    </author>
+    <author fullname="WilliamLytle Grosshandler" initials="W.L." surname="Grosshandler">
+      <organization/>
+    </author>
+    <author fullname="Heinz Luck" initials="H." surname="Luck">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.965"/>
+  <seriesInfo name="NIST" value="NIST SP 965"/>
 </reference>

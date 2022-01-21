@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-1673" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-1673.pdf">
   <front>
     <title>Bibliography of the NBS electromagnetic fields division publications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1673"/>
-    <seriesInfo name="NIST" value="NBS IR 82-1673"/>
-    <author fullname="Kathryn Gibson" initials="K." surname="Gibson"/>
-    <author fullname="Charles Miller" initials="C." surname="Miller"/>
+    <author fullname="Kathryn Gibson" initials="A" surname="Gibson">
+      <organization/>
+    </author>
+    <author fullname="Charles Miller" initials="KS" surname="Miller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1673"/>
+  <seriesInfo name="NIST" value="NBS IR 82-1673"/>
 </reference>

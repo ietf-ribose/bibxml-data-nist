@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.363supp3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication363supp3.pdf">
   <front>
     <title>Bibliography on atomic energy levels and spectra, July 1979 through December 1983</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.363supp3"/>
-    <seriesInfo name="NIST" value="NBS SP 363supp3"/>
-    <author fullname="Arlene Musgrove" initials="A." surname="Musgrove"/>
-    <author fullname="Romuald Zalubas" initials="R." surname="Zalubas"/>
+    <author fullname="Arlene Musgrove" initials="A." surname="Musgrove">
+      <organization/>
+    </author>
+    <author fullname="Romuald Zalubas" initials="R." surname="Zalubas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.363supp3"/>
+  <seriesInfo name="NIST" value="NBS SP 363supp3"/>
 </reference>

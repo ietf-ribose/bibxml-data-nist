@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.76-1156" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1156.pdf">
   <front>
     <title>Measurements on insulating materials at cryogenic temperatures :annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1156"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1156"/>
-    <author fullname="William Anderson" initials="W." surname="Anderson"/>
-    <author fullname="Richard Davis" initials="R." surname="Davis"/>
-    <author surname="Mopsik"/>
-    <author surname="Kryder"/>
-    <author surname="Khoury"/>
-    <author surname="Colson"/>
-    <author surname="Bolz"/>
+    <author fullname="William Anderson" initials="E" surname="Anderson">
+      <organization/>
+    </author>
+    <author fullname="Richard Davis" initials="S" surname="Davis">
+      <organization/>
+    </author>
+    <author initials="FI" surname="Mopsik">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Kryder">
+      <organization/>
+    </author>
+    <author initials="F" surname="Khoury">
+      <organization/>
+    </author>
+    <author initials="JP" surname="Colson">
+      <organization/>
+    </author>
+    <author initials="LH" surname="Bolz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1156"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1156"/>
 </reference>

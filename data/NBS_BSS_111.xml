@@ -1,15 +1,27 @@
 <reference anchor="NBS.BSS.111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience111.pdf">
   <front>
     <title>Investigation of standards, performance characteristics and evaluation criteria for thermoplastic piping in residential plumbing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.111"/>
-    <seriesInfo name="NIST" value="NBS BSS 111"/>
-    <author surname="Wyly"/>
-    <author surname="Park"/>
-    <author surname="Pierce"/>
-    <author surname="Rorrer"/>
-    <author surname="Shaver"/>
-    <author surname="Sherlin"/>
-    <author surname="Tryon"/>
+    <author initials="RS" surname="Wyly">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Park">
+      <organization/>
+    </author>
+    <author initials="ET" surname="Pierce">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Rorrer">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Shaver">
+      <organization/>
+    </author>
+    <author initials="GC" surname="Sherlin">
+      <organization/>
+    </author>
+    <author initials="M" surname="Tryon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.111"/>
+  <seriesInfo name="NIST" value="NBS BSS 111"/>
 </reference>

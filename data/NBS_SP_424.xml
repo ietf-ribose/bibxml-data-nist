@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.424" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication424.pdf">
   <front>
     <title>A contribution to computer typesetting techniques :tables of coordinates for Hershey's repertory of occidental type fonts and graphic symbols</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.424"/>
-    <seriesInfo name="NIST" value="NBS SP 424"/>
-    <author fullname="Norman Wolcott" initials="N." surname="Wolcott"/>
-    <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath"/>
+    <author fullname="Norman Wolcott" initials="M" surname="Wolcott">
+      <organization/>
+    </author>
+    <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.424"/>
+  <seriesInfo name="NIST" value="NBS SP 424"/>
 </reference>

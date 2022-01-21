@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2510" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2510.pdf">
   <front>
     <title>Quality of inspections utilizing infrared technology on weatherization retrofit installations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2510"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2510"/>
-    <author fullname="Yui-May Chang" initials="Y." surname="Chang"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
+    <author fullname="Yui-May Chang" initials="L" surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2510"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2510"/>
 </reference>

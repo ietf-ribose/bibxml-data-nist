@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-731" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-731.pdf">
   <front>
     <title>A study of air-gap breakdown at 28.5 kilohertz</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-731"/>
-    <seriesInfo name="NIST" value="NBS IR 75-731"/>
-    <author fullname="Ralph Kotter" initials="R." surname="Kotter"/>
+    <author fullname="Ralph Kotter" initials="F" surname="Kotter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-731"/>
+  <seriesInfo name="NIST" value="NBS IR 75-731"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4823" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4823.pdf">
   <front>
     <title>Automation of strain-gauge load-cell force calibration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4823"/>
-    <seriesInfo name="NIST" value="NIST IR 4823"/>
-    <author fullname="Kenneth Yee" initials="K." surname="Yee"/>
+    <author fullname="Kenneth Yee" initials="W" surname="Yee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4823"/>
+  <seriesInfo name="NIST" value="NIST IR 4823"/>
 </reference>

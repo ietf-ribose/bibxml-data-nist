@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7761" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7761.pdf">
   <front>
     <title>NIST Priority Action Plan 2: Guidelines for Assessing Wireless Standards for Smart Grid Applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7761"/>
-    <seriesInfo name="NIST" value="NIST IR 7761"/>
-    <author fullname="David Cypher" initials="D." surname="Cypher"/>
-    <author fullname="Nada Golmie" initials="N." surname="Golmie"/>
+    <author fullname="David Cypher" initials="E" surname="Cypher">
+      <organization/>
+    </author>
+    <author fullname="Nada Golmie" initials="T" surname="Golmie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7761"/>
+  <seriesInfo name="NIST" value="NIST IR 7761"/>
 </reference>

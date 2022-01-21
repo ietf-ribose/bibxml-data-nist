@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.3954" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3954.pdf">
   <front>
     <title>Near-field and far-field excitation of a long conductor in a lossy medium</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3954"/>
-    <seriesInfo name="NIST" value="NIST IR 3954"/>
-    <author fullname="David Hill" initials="D." surname="Hill"/>
+    <author fullname="David Hill" initials="A" surname="Hill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3954"/>
+  <seriesInfo name="NIST" value="NIST IR 3954"/>
 </reference>

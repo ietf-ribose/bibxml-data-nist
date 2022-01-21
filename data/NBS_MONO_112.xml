@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.112" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph112.pdf">
   <front>
     <title>An Introduction to the description and evaluation of microwave systems using terminal invariant parameters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.112"/>
-    <seriesInfo name="NIST" value="NBS MONO 112"/>
-    <author fullname="Gleen Engen" initials="G." surname="Engen"/>
+    <author fullname="Gleen Engen" initials="F" surname="Engen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.112"/>
+  <seriesInfo name="NIST" value="NBS MONO 112"/>
 </reference>

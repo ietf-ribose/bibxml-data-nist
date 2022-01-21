@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2579" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2579.pdf">
   <front>
     <title>Tables of energy deposition distributions in aluminum and copper irradiated by point-monodirectional electron beams with energies from 1 to 60 MeV</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2579"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2579"/>
-    <author surname="Berger"/>
-    <author surname="Seltzer"/>
+    <author initials="MJ" surname="Berger">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Seltzer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2579"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2579"/>
 </reference>

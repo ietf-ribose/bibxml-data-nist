@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph124.pdf">
   <front>
     <title>Reference tables for low-temperature thermocouples</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.124"/>
-    <seriesInfo name="NIST" value="NBS MONO 124"/>
-    <author fullname="Larry Sparks" initials="L." surname="Sparks"/>
-    <author fullname="Robert Powell" initials="R." surname="Powell"/>
-    <author fullname="William Hall" initials="W." surname="Hall"/>
+    <author fullname="Larry Sparks" initials="L" surname="Sparks">
+      <organization/>
+    </author>
+    <author fullname="Robert Powell" initials="L" surname="Powell">
+      <organization/>
+    </author>
+    <author fullname="William Hall" initials="J" surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.124"/>
+  <seriesInfo name="NIST" value="NBS MONO 124"/>
 </reference>

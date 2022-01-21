@@ -1,8 +1,6 @@
 <reference anchor="NIST.CSWP.01262018" target="http://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01262018.pdf">
   <front>
     <title>Security Considerations for Code Signing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.CSWP.01262018"/>
-    <seriesInfo name="NIST" value="NIST CSWP 01262018"/>
     <author fullname="David Cooper" initials="D." surname="Cooper">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2018" month="January" day="26"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.01262018"/>
+  <seriesInfo name="NIST" value="NIST CSWP 01262018"/>
 </reference>

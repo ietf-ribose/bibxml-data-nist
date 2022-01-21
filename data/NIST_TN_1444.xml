@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1444" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1444.pdf">
   <front>
     <title>International comparison of guarded hot plate apparatus using national and regional reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1444"/>
-    <seriesInfo name="NIST" value="NIST TN 1444"/>
-    <author fullname="Robert Zarr" initials="R." surname="Zarr"/>
+    <author fullname="Robert Zarr" initials="R" surname="Zarr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1444"/>
+  <seriesInfo name="NIST" value="NIST TN 1444"/>
 </reference>

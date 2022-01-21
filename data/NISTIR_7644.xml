@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7644" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7644.pdf">
   <front>
     <title>Quick capture platform use cases user interaction specifications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7644"/>
-    <seriesInfo name="NIST" value="NIST IR 7644"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton"/>
-    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
+    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+      <organization/>
+    </author>
+    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong">
+      <organization/>
+    </author>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7644"/>
+  <seriesInfo name="NIST" value="NIST IR 7644"/>
 </reference>

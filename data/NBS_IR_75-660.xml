@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-660" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-660.pdf">
   <front>
     <title>Voluntary labeling program for household appliances and equipment to effect energy conservation :annual report for calendar year 1974</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-660"/>
-    <seriesInfo name="NIST" value="NBS IR 75-660"/>
-    <author surname="McGuire"/>
-    <author surname="Vadelund"/>
+    <author initials="BJ" surname="McGuire">
+      <organization/>
+    </author>
+    <author initials="EA" surname="Vadelund">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-660"/>
+  <seriesInfo name="NIST" value="NBS IR 75-660"/>
 </reference>

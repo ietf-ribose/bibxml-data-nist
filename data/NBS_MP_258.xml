@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub258.pdf">
   <front>
     <title>Foreign-language and English dictionaries in the physical sciences and engineering :A selected bibiography 1952 to 1963/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.258"/>
-    <seriesInfo name="NIST" value="NBS MP 258"/>
-    <author fullname="Tibor Marton" initials="T." surname="Marton"/>
+    <author fullname="Tibor Marton" initials="W" surname="Marton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.258"/>
+  <seriesInfo name="NIST" value="NBS MP 258"/>
 </reference>

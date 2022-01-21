@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2367" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2367.pdf">
   <front>
     <title>Prediction of the hydraulic jump location following a change of slope in a partially filled drainage pipe</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2367"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2367"/>
-    <author surname="Swaffield"/>
+    <author initials="JA" surname="Swaffield">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2367"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2367"/>
 </reference>

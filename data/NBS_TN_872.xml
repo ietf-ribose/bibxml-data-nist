@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.872" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote872.pdf">
   <front>
     <title>Computer program package for metric conversion :reference manual</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.872"/>
-    <seriesInfo name="NIST" value="NBS TN 872"/>
-    <author fullname="Ruth Anderson" initials="R." surname="Anderson"/>
+    <author fullname="Ruth Anderson" initials="K" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.872"/>
+  <seriesInfo name="NIST" value="NBS TN 872"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3099" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3099.pdf">
   <front>
     <title>Fracture behavior of a pressure vessel steel in the ductile-to-brittle transition region</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3099"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3099"/>
-    <author fullname="Jurgen Heerens" initials="J." surname="Heerens"/>
-    <author surname="Reed"/>
+    <author fullname="Jurgen Heerens" initials="J." surname="Heerens">
+      <organization/>
+    </author>
+    <author initials="DT" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3099"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3099"/>
 </reference>

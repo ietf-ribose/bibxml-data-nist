@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.48" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience48.pdf">
   <front>
     <title>Design, siting, and construction of low-cost housing and community buildings to better withstand earthquakes and windstorms</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.48"/>
-    <seriesInfo name="NIST" value="NBS BSS 48"/>
-    <author fullname="William Reps" initials="W." surname="Reps"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
+    <author fullname="William Reps" initials="F" surname="Reps">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.48"/>
+  <seriesInfo name="NIST" value="NBS BSS 48"/>
 </reference>

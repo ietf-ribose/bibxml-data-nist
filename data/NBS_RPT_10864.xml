@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10864" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10864.pdf">
   <front>
     <title>Drapery and curtain case histories data element summary</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10864"/>
-    <seriesInfo name="NIST" value="NBS RPT 10864"/>
-    <author fullname="Allan Vickers" initials="A." surname="Vickers"/>
+    <author fullname="Allan Vickers" initials="K" surname="Vickers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10864"/>
+  <seriesInfo name="NIST" value="NBS RPT 10864"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.TN.1337" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1337.pdf">
   <front>
     <title>Characterization of clocks and oscillators</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1337"/>
-    <seriesInfo name="NIST" value="NIST TN 1337"/>
-    <author surname="Allan"/>
-    <author fullname="David Howe" initials="D." surname="Howe"/>
-    <author surname="Walls"/>
-    <author surname="Sullivan"/>
+    <author initials="DW" surname="Allan">
+      <organization/>
+    </author>
+    <author fullname="David Howe" initials="A" surname="Howe">
+      <organization/>
+    </author>
+    <author initials="FL" surname="Walls">
+      <organization/>
+    </author>
+    <author initials="DB" surname="Sullivan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1337"/>
+  <seriesInfo name="NIST" value="NIST TN 1337"/>
 </reference>

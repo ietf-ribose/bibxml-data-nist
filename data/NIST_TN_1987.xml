@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1987" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1987.pdf">
   <front>
     <title>Reduced-order thermal analysis of fire effects on composite slabs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1987"/>
-    <seriesInfo name="NIST" value="NIST TN 1987"/>
     <author fullname="Jian Jiang" initials="J." surname="Jiang">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Joseph Main" initials="J." surname="Main">
+    <author fullname="Joseph Main" initials="A" surname="Main">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Jonathan Weigand" initials="J." surname="Weigand">
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1987"/>
+  <seriesInfo name="NIST" value="NIST TN 1987"/>
 </reference>

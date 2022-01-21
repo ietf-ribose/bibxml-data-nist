@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.330-2019" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.330-2019.pdf">
   <front>
     <title>The international system of units (SI):2019 edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.330-2019"/>
-    <seriesInfo name="NIST" value="NIST SP 330-2019"/>
-    <author fullname="David Newell" initials="D." surname="Newell">
+    <author fullname="David Newell" initials="B" surname="Newell">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Eite Tiesinga" initials="E." surname="Tiesinga">
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.330-2019"/>
+  <seriesInfo name="NIST" value="NIST SP 330-2019"/>
 </reference>

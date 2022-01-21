@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7630" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7630.pdf">
   <front>
     <title>Empirical evidence for iris match score degradation with time lapse in ICE 2006</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7630"/>
-    <seriesInfo name="NIST" value="NIST IR 7630"/>
-    <author fullname="Sarah Baker" initials="S." surname="Baker"/>
-    <author fullname="Kevin Bowyer" initials="K." surname="Bowyer"/>
-    <author fullname="Patrick Flynn" initials="P." surname="Flynn"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
+    <author fullname="Sarah Baker" initials="E" surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="Kevin Bowyer" initials="W" surname="Bowyer">
+      <organization/>
+    </author>
+    <author fullname="Patrick Flynn" initials="J" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7630"/>
+  <seriesInfo name="NIST" value="NIST IR 7630"/>
 </reference>

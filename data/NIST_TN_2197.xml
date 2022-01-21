@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2197" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2197.pdf">
   <front>
     <title>Report on High Energy Arcing Fault ExperimentsExperimental Results from Low-Voltage Switchgear Enclosures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2197"/>
-    <seriesInfo name="NIST" value="NIST TN 2197"/>
     <author fullname="Anthony Putorti" initials="A." surname="Putorti">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -51,4 +49,6 @@
     </author>
     <date year="2021" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2197"/>
+  <seriesInfo name="NIST" value="NIST TN 2197"/>
 </reference>

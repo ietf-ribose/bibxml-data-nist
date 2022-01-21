@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4441" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4441.pdf">
   <front>
     <title>Reduction of hydrogen cyanide concentrations and acute inhalation toxicity from flexible polyurethane foam combustion products by the addition of copper compounds. Part III:the effect of copper additives on the flammability characteristics of flexible polyurethane foam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4441"/>
-    <seriesInfo name="NIST" value="NIST IR 4441"/>
-    <author surname="Levin"/>
-    <author surname="Braun"/>
-    <author surname="Shields"/>
-    <author surname="Lowe"/>
+    <author initials="BC" surname="Levin">
+      <organization/>
+    </author>
+    <author initials="E" surname="Braun">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Shields">
+      <organization/>
+    </author>
+    <author initials="D" surname="Lowe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4441"/>
+  <seriesInfo name="NIST" value="NIST IR 4441"/>
 </reference>

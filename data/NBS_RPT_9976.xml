@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.9976" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9976.pdf">
   <front>
     <title>Compatibility of protective coatings, materials, and liquid propellants :quarterly progress report no. 12</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9976"/>
-    <seriesInfo name="NIST" value="NBS RPT 9976"/>
-    <author surname="Young"/>
-    <author surname="Reid"/>
-    <author surname="Lamb"/>
+    <author initials="JP" surname="Young">
+      <organization/>
+    </author>
+    <author initials="GI" surname="Reid">
+      <organization/>
+    </author>
+    <author initials="VA" surname="Lamb">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9976"/>
+  <seriesInfo name="NIST" value="NBS RPT 9976"/>
 </reference>

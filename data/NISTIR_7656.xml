@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7656" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7656.pdf">
   <front>
     <title>Thermal analysis of refrigeration systems used for vaccine storage</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7656"/>
-    <seriesInfo name="NIST" value="NIST IR 7656"/>
-    <author fullname="Michal Chojnacky" initials="M." surname="Chojnacky"/>
-    <author fullname="Wyatt Miller" initials="W." surname="Miller"/>
-    <author fullname="Dean Ripple" initials="D." surname="Ripple"/>
-    <author fullname="Gregory Strouse" initials="G." surname="Strouse"/>
+    <author fullname="Michal Chojnacky" initials="M." surname="Chojnacky">
+      <organization/>
+    </author>
+    <author fullname="Wyatt Miller" initials="W." surname="Miller">
+      <organization/>
+    </author>
+    <author fullname="Dean Ripple" initials="D." surname="Ripple">
+      <organization/>
+    </author>
+    <author fullname="Gregory Strouse" initials="G." surname="Strouse">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7656"/>
+  <seriesInfo name="NIST" value="NIST IR 7656"/>
 </reference>

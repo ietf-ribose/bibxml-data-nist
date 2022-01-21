@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.45" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular45.pdf">
   <front>
     <title>Letter Circular 45:construction and operation of a simple radiotelegraphic code practice set</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.45"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 45"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.45"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 45"/>
 </reference>

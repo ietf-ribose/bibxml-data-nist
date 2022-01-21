@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.913" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication913.pdf">
   <front>
     <title>Toward 21st century information-based manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.913"/>
-    <seriesInfo name="NIST" value="NIST SP 913"/>
-    <author fullname="Mark Bello" initials="M." surname="Bello"/>
-    <author fullname="Mark Bello" initials="M." surname="Bello"/>
+    <author fullname="Mark Bello" initials="M." surname="Bello">
+      <organization/>
+    </author>
+    <author fullname="Mark Bello" initials="M." surname="Bello">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.913"/>
+  <seriesInfo name="NIST" value="NIST SP 913"/>
 </reference>

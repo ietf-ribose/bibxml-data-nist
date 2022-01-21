@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1874" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1874.pdf">
   <front>
     <title>Interlaboratory Study of an Alternate Substrate for Use in ASTM E 2187</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1874"/>
-    <seriesInfo name="NIST" value="NIST TN 1874"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann">
+    <author fullname="Richard Gann" initials="G" surname="Gann">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Morgan Bruns" initials="M." surname="Bruns">
+    <author fullname="Morgan Bruns" initials="C" surname="Bruns">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Edward Hnetkovsky" initials="E." surname="Hnetkovsky">
+    <author fullname="Edward Hnetkovsky" initials="J" surname="Hnetkovsky">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="William Guthrie" initials="W." surname="Guthrie">
+    <author fullname="William Guthrie" initials="F" surname="Guthrie">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1874"/>
+  <seriesInfo name="NIST" value="NIST TN 1874"/>
 </reference>

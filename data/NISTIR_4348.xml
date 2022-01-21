@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4348" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4348.pdf">
   <front>
     <title>Furniture flammability:</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4348"/>
-    <seriesInfo name="NIST" value="NIST IR 4348"/>
-    <author surname="Ohlemiller"/>
-    <author surname="Villa"/>
+    <author initials="TJ" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author initials="K" surname="Villa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4348"/>
+  <seriesInfo name="NIST" value="NIST IR 4348"/>
 </reference>

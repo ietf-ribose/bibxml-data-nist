@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5795" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5795.pdf">
   <front>
     <title>Minimum mass flux requirements to suppress burning surfaces with water sprays</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5795"/>
-    <seriesInfo name="NIST" value="NIST IR 5795"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
-    <author fullname="Charles Boyer" initials="C." surname="Boyer"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
+    <author fullname="Jiann Yang" initials="C" surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Charles Boyer" initials="I" surname="Boyer">
+      <organization/>
+    </author>
+    <author fullname="William Grosshandler" initials="L" surname="Grosshandler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5795"/>
+  <seriesInfo name="NIST" value="NIST IR 5795"/>
 </reference>

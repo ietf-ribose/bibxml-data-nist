@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.87-3585" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3585.pdf">
   <front>
     <title>Hardware-assisted multiprocessor performance measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3585"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3585"/>
-    <author fullname="Alan Mink" initials="A." surname="Mink"/>
-    <author fullname="Jesse Draper" initials="J." surname="Draper"/>
-    <author fullname="John Roberts" initials="J." surname="Roberts"/>
-    <author fullname="Robert Carpenter" initials="R." surname="Carpenter"/>
+    <author fullname="Alan Mink" initials="A." surname="Mink">
+      <organization/>
+    </author>
+    <author fullname="Jesse Draper" initials="M" surname="Draper">
+      <organization/>
+    </author>
+    <author fullname="John Roberts" initials="W" surname="Roberts">
+      <organization/>
+    </author>
+    <author fullname="Robert Carpenter" initials="J" surname="Carpenter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3585"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3585"/>
 </reference>

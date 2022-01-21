@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7127.pdf">
   <front>
     <title>Metallurgy division, FY 2004 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7127"/>
-    <seriesInfo name="NIST" value="NIST IR 7127"/>
-    <author fullname="Carol Handwerker" initials="C." surname="Handwerker"/>
-    <author fullname="Frank Gayle" initials="F." surname="Gayle"/>
+    <author fullname="Carol Handwerker" initials="A" surname="Handwerker">
+      <organization/>
+    </author>
+    <author fullname="Frank Gayle" initials="W" surname="Gayle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7127"/>
+  <seriesInfo name="NIST" value="NIST IR 7127"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.996" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication996.pdf">
   <front>
     <title>On the fractographic analysis of machining cracks in ground ceramics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.996"/>
-    <seriesInfo name="NIST" value="NIST SP 996"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn"/>
-    <author fullname="Lewis Ives" initials="L." surname="Ives"/>
-    <author fullname="Said Jahanmir" initials="S." surname="Jahanmir"/>
+    <author fullname="George Quinn" initials="D" surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="George Quinn" initials="D" surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="Lewis Ives" initials="K" surname="Ives">
+      <organization/>
+    </author>
+    <author fullname="Said Jahanmir" initials="S." surname="Jahanmir">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.996"/>
+  <seriesInfo name="NIST" value="NIST SP 996"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1917" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1917.pdf">
   <front>
     <title>Public Safety Analytics R [and] D Roadmap</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1917"/>
-    <seriesInfo name="NIST" value="NIST TN 1917"/>
     <author fullname="Ryan Felts" initials="R." surname="Felts">
       <organization>Advanced Communications Research Group</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1917"/>
+  <seriesInfo name="NIST" value="NIST TN 1917"/>
 </reference>

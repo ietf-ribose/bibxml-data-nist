@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.456" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular456.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 456:magnetic testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.456"/>
-    <seriesInfo name="NIST" value="NBS CIRC 456"/>
-    <author fullname="Raymond Sanford" initials="R." surname="Sanford"/>
+    <author fullname="Raymond Sanford" initials="L" surname="Sanford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.456"/>
+  <seriesInfo name="NIST" value="NBS CIRC 456"/>
 </reference>

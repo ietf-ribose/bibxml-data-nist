@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8096" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8096.pdf">
   <front>
     <title>A metamodel for optimization problems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8096"/>
-    <seriesInfo name="NIST" value="NIST IR 8096"/>
     <author fullname="Ibrahim Assouroko" initials="I." surname="Assouroko">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Peter Denno" initials="P." surname="Denno">
+    <author fullname="Peter Denno" initials="O" surname="Denno">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8096"/>
+  <seriesInfo name="NIST" value="NIST IR 8096"/>
 </reference>

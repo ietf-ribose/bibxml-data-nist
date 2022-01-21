@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1500-6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1500-6.pdf">
   <front>
     <title>Constitutive behavior modeling of steels under hot-rolling conditions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1500-6"/>
-    <seriesInfo name="NIST" value="NIST TN 1500-6"/>
-    <author fullname="Yi-Wen Cheng" initials="Y." surname="Cheng"/>
+    <author fullname="Yi-Wen Cheng" initials="Y." surname="Cheng">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1500-6"/>
+  <seriesInfo name="NIST" value="NIST TN 1500-6"/>
 </reference>

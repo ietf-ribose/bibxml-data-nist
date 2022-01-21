@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.502H" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular502H.pdf">
   <front>
     <title>Letter Circular 502H:surface treatment for corrosion protection of steel members for low-cost housing construction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.502H"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 502H"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1937"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.502H"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 502H"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2811" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2811.pdf">
   <front>
     <title>Definition of recommended values of certain thermodynamic properties for the ketones</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2811"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2811"/>
-    <author fullname="Buford Smith" initials="B." surname="Smith"/>
+    <author fullname="Buford Smith" initials="D" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2811"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2811"/>
 </reference>

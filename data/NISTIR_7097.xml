@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7097" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7097.pdf">
   <front>
     <title>Particle size analysis by laser diffraction spectrometry:application to cementitious powders</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7097"/>
-    <seriesInfo name="NIST" value="NIST IR 7097"/>
-    <author fullname="Vincent Hackley" initials="V." surname="Hackley"/>
-    <author fullname="Lin-Sien Lum" initials="L." surname="Lum"/>
-    <author fullname="Vadas Gintautas" initials="V." surname="Gintautas"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
+    <author fullname="Vincent Hackley" initials="A" surname="Hackley">
+      <organization/>
+    </author>
+    <author fullname="Lin-Sien Lum" initials="L." surname="Lum">
+      <organization/>
+    </author>
+    <author fullname="Vadas Gintautas" initials="V." surname="Gintautas">
+      <organization/>
+    </author>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7097"/>
+  <seriesInfo name="NIST" value="NIST IR 7097"/>
 </reference>

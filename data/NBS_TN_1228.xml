@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1228" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1228.pdf">
   <front>
     <title>A water bath blackbody for the 5 to 60 degree] temperature range:performance goal, design concept, and test results</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1228"/>
-    <seriesInfo name="NIST" value="NBS TN 1228"/>
-    <author fullname="Jon Geist" initials="J." surname="Geist"/>
+    <author fullname="Jon Geist" initials="J." surname="Geist">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1228"/>
+  <seriesInfo name="NIST" value="NBS TN 1228"/>
 </reference>

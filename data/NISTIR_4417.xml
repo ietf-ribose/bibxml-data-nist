@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4417" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4417.pdf">
   <front>
     <title>Development plan:validation testing system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4417"/>
-    <seriesInfo name="NIST" value="NIST IR 4417"/>
-    <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
+    <author fullname="Mary Mitchell" initials="M." surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4417"/>
+  <seriesInfo name="NIST" value="NIST IR 4417"/>
 </reference>

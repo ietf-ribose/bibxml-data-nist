@@ -1,11 +1,15 @@
 <reference anchor="NBS.BH.17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing17.pdf">
   <front>
     <title>How to own your home :a handbook for prospective home owners (2d edition, August 1931)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BH.17"/>
-    <seriesInfo name="NIST" value="NBS BH 17"/>
-    <author fullname="John Gries" initials="J." surname="Gries"/>
-    <author fullname="James Taylor" initials="J." surname="Taylor"/>
-    <author fullname="Herbert Hoover" initials="H." surname="Hoover"/>
+    <author fullname="John Gries" initials="M" surname="Gries">
+      <organization/>
+    </author>
+    <author fullname="James Taylor" initials="S" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Herbert Hoover" initials="H." surname="Hoover">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1931"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BH.17"/>
+  <seriesInfo name="NIST" value="NBS BH 17"/>
 </reference>

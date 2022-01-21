@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8228" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8228.pdf">
   <front>
     <title>Considerations for managing Internet of Things (IoT) cybersecurity and privacy risks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8228"/>
-    <seriesInfo name="NIST" value="NIST IR 8228"/>
     <author fullname="Katie Boeckl" initials="K." surname="Boeckl">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -15,7 +13,7 @@
     <author fullname="Naomi Lefkovitz" initials="N." surname="Lefkovitz">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Katerina Megas" initials="K." surname="Megas">
+    <author fullname="Katerina Megas" initials="N" surname="Megas">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Ellen Nadeau" initials="E." surname="Nadeau">
@@ -42,4 +40,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8228"/>
+  <seriesInfo name="NIST" value="NIST IR 8228"/>
 </reference>

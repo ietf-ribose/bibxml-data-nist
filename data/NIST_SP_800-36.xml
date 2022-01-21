@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.800-36" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-36.pdf">
   <front>
     <title>Guide to selecting information technology security products</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-36"/>
-    <seriesInfo name="NIST" value="NIST SP 800-36"/>
-    <author surname="Grance"/>
-    <author surname="Stevens"/>
-    <author surname="Myers"/>
+    <author initials="T" surname="Grance">
+      <organization/>
+    </author>
+    <author initials="M" surname="Stevens">
+      <organization/>
+    </author>
+    <author initials="M" surname="Myers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-36"/>
+  <seriesInfo name="NIST" value="NIST SP 800-36"/>
 </reference>

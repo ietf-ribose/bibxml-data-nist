@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6620.pdf">
   <front>
     <title>Halogenated hydrocarbons and their mixtures:a decade of progress in calorimetry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6620"/>
-    <seriesInfo name="NIST" value="NIST IR 6620"/>
-    <author fullname="Joseph Magee" initials="J." surname="Magee"/>
+    <author fullname="Joseph Magee" initials="W" surname="Magee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6620"/>
+  <seriesInfo name="NIST" value="NIST IR 6620"/>
 </reference>

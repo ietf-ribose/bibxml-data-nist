@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7146.pdf">
   <front>
     <title>Integrated supply chain simulation system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7146"/>
-    <seriesInfo name="NIST" value="NIST IR 7146"/>
-    <author fullname="Shigeki Umeda" initials="S." surname="Umeda"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
+    <author fullname="Shigeki Umeda" initials="S." surname="Umeda">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7146"/>
+  <seriesInfo name="NIST" value="NIST IR 7146"/>
 </reference>

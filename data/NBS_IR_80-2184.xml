@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-2184" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2184.pdf">
   <front>
     <title>Energy analysis of a prototype single-family detached residence :the effects of climate, house size, orientation, internal heat release, and natural cooling</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2184"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2184"/>
-    <author fullname="James Barnett" initials="J." surname="Barnett"/>
+    <author fullname="James Barnett" initials="P" surname="Barnett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2184"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2184"/>
 </reference>

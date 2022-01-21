@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2026" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2026.pdf">
   <front>
     <title>A framework for measuring the impact of wildland-urban interface fires on a regional economy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2026"/>
-    <seriesInfo name="NIST" value="NIST TN 2026"/>
-    <author fullname="David Butry" initials="D." surname="Butry">
+    <author fullname="David Butry" initials="T" surname="Butry">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Webb" initials="D." surname="Webb">
+    <author fullname="David Webb" initials="H" surname="Webb">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Cheyney O'Fallon" initials="C." surname="O'Fallon">
+    <author fullname="Cheyney O'Fallon" initials="M" surname="O'Fallon">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Harvey Cutler" initials="H." surname="Cutler">
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2026"/>
+  <seriesInfo name="NIST" value="NIST TN 2026"/>
 </reference>

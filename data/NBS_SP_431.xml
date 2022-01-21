@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.431" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication431.pdf">
   <front>
     <title>Proceedings of the fourth international congress for stereology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.431"/>
-    <seriesInfo name="NIST" value="NBS SP 431"/>
-    <author fullname="Erwin Underwood" initials="E." surname="Underwood"/>
-    <author surname="De Wit"/>
-    <author fullname="George Moore" initials="G." surname="Moore"/>
+    <author fullname="Erwin Underwood" initials="E" surname="Underwood">
+      <organization/>
+    </author>
+    <author initials="R" surname="De Wit">
+      <organization/>
+    </author>
+    <author fullname="George Moore" initials="A" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.431"/>
+  <seriesInfo name="NIST" value="NBS SP 431"/>
 </reference>

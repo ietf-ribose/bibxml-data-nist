@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10349" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10349.pdf">
   <front>
     <title>Alternative plans for a center for law-enforcement equipment user standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10349"/>
-    <seriesInfo name="NIST" value="NBS RPT 10349"/>
-    <author surname="Levin"/>
+    <author initials="BM" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10349"/>
+  <seriesInfo name="NIST" value="NBS RPT 10349"/>
 </reference>

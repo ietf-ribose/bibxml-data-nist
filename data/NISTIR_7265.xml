@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7265" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7265.pdf">
   <front>
     <title>Effect of continued hydration on the transport properties of cracks through portland cemect pastes in a saturated environment :a microstructural model study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7265"/>
-    <seriesInfo name="NIST" value="NIST IR 7265"/>
-    <author surname="Snyder"/>
-    <author fullname="Jeffrey Bullard" initials="J." surname="Bullard"/>
+    <author initials="KA" surname="Snyder">
+      <organization/>
+    </author>
+    <author fullname="Jeffrey Bullard" initials="W" surname="Bullard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7265"/>
+  <seriesInfo name="NIST" value="NIST IR 7265"/>
 </reference>

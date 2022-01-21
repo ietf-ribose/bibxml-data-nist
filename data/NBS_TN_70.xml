@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.70" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote70.pdf">
   <front>
     <title>Vapor pressures of organic compounds in the range below one millimeter of mercury</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.70"/>
-    <seriesInfo name="NIST" value="NBS TN 70"/>
-    <author fullname="ErnestEarl Hughes" initials="E.E." surname="Hughes"/>
+    <author fullname="ErnestEarl Hughes" initials="E.E." surname="Hughes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.70"/>
+  <seriesInfo name="NIST" value="NBS TN 70"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-240" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-240.pdf">
   <front>
     <title>Effects of electroless nickel process variables on quality requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-240"/>
-    <seriesInfo name="NIST" value="NBS IR 73-240"/>
-    <author fullname="Fielding Ogburn" initials="F." surname="Ogburn"/>
-    <author fullname="Christian Johnson" initials="C." surname="Johnson"/>
+    <author fullname="Fielding Ogburn" initials="F." surname="Ogburn">
+      <organization/>
+    </author>
+    <author fullname="Christian Johnson" initials="E" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-240"/>
+  <seriesInfo name="NIST" value="NBS IR 73-240"/>
 </reference>

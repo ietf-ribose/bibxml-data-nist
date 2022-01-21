@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2108" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2108.pdf">
   <front>
     <title>Towards Measurement of Advanced Mobile Manipulator Performance for Assembly Applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2108"/>
-    <seriesInfo name="NIST" value="NIST TN 2108"/>
     <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="August" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2108"/>
+  <seriesInfo name="NIST" value="NIST TN 2108"/>
 </reference>

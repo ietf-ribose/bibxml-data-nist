@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-995" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-995.pdf">
   <front>
     <title>Guidelines for the design and procurement of low cost mobile robot</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-995"/>
-    <seriesInfo name="NIST" value="NBS IR 76-995"/>
-    <author fullname="John Evans" initials="J." surname="Evans"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
+    <author fullname="John Evans" initials="M" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="James Albus" initials="S" surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-995"/>
+  <seriesInfo name="NIST" value="NBS IR 76-995"/>
 </reference>

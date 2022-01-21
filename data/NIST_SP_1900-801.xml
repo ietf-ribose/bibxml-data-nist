@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1900-801" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-801.pdf">
   <front>
     <title>NIST smart grid interoperability test tools</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-801"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-801"/>
     <author fullname="Dhananjay Anand" initials="D." surname="Anand">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Kevin Brady Jr." initials="K." surname="Brady Jr.">
+    <author fullname="Kevin Brady Jr." initials="G" surname="Brady Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Eugene Song" initials="E." surname="Song">
@@ -39,4 +37,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-801"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-801"/>
 </reference>

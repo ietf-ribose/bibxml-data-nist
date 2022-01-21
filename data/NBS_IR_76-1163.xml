@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1163" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1163.pdf">
   <front>
     <title>Performance of plastic packaging for hazardous materials transportation Part II. Permeation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1163"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1163"/>
-    <author fullname="John Barnes" initials="J." surname="Barnes"/>
-    <author fullname="Gordon Martin" initials="G." surname="Martin"/>
+    <author fullname="John Barnes" initials="D" surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="Gordon Martin" initials="M" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1163"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1163"/>
 </reference>

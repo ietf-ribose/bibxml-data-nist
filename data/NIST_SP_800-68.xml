@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-68" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-68.pdf">
   <front>
     <title>Guidance for securing Microsoft Windows XP for IT Professionals :a NIST security configuration checklist : recommendations of the National Institute of Standards and Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-68"/>
-    <seriesInfo name="NIST" value="NIST SP 800-68"/>
     <author fullname="Murugia Souppaya" initials="M." surname="Souppaya">
       <organization>Computer Security Division.</organization>
     </author>
     <author fullname="Karen Kent" initials="K." surname="Kent">
       <organization>Computer Security Division.</organization>
     </author>
-    <author fullname="Paul Johnson" initials="P." surname="Johnson">
+    <author fullname="Paul Johnson" initials="M" surname="Johnson">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-68"/>
+  <seriesInfo name="NIST" value="NIST SP 800-68"/>
 </reference>

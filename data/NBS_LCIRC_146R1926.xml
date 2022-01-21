@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.146r1926" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular146r1926.pdf">
   <front>
     <title>Letter Circular 146:publications relating to sand-lime brick</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.146r1926"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 146r1926"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.146r1926"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 146r1926"/>
 </reference>

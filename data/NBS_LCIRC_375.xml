@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.375" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular375.pdf">
   <front>
     <title>Letter Circular 375:survey of zoning laws and ordinances adopted during 1932</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.375"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 375"/>
-    <author fullname="Normal Knauss" initials="N." surname="Knauss"/>
+    <author fullname="Normal Knauss" initials="L" surname="Knauss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.375"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 375"/>
 </reference>

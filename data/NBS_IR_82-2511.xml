@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.82-2511" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2511.pdf">
   <front>
     <title>Review of material provided by EPA on the analysis for organic chemicals in the EPA Love Canal monitoring study</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2511"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2511"/>
-    <author surname="Hertz"/>
-    <author surname="Ku"/>
-    <author surname="Liggett"/>
-    <author surname="McClendon"/>
-    <author surname="Taylor"/>
-    <author fullname="E, White" initials="E." surname="White"/>
-    <author surname="Kirchhoff"/>
+    <author initials="HS" surname="Hertz">
+      <organization/>
+    </author>
+    <author initials="HH" surname="Ku">
+      <organization/>
+    </author>
+    <author initials="WS" surname="Liggett">
+      <organization/>
+    </author>
+    <author initials="LT" surname="McClendon">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="E, White" initials="V" surname="White">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Kirchhoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2511"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2511"/>
 </reference>

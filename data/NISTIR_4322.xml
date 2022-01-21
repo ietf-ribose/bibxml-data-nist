@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4322" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4322.pdf">
   <front>
     <title>Progress report of the Quality in Automation project for FY89</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4322"/>
-    <seriesInfo name="NIST" value="NIST IR 4322"/>
-    <author surname="Vorburger"/>
-    <author surname="Scace"/>
+    <author initials="TV" surname="Vorburger">
+      <organization/>
+    </author>
+    <author initials="BR" surname="Scace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4322"/>
+  <seriesInfo name="NIST" value="NIST IR 4322"/>
 </reference>

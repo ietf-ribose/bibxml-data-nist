@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7432" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7432.pdf">
   <front>
     <title>Common industry specification for usability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7432"/>
-    <seriesInfo name="NIST" value="NIST IR 7432"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7432"/>
+  <seriesInfo name="NIST" value="NIST IR 7432"/>
 </reference>

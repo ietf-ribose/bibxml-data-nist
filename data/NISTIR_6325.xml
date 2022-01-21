@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6325" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6325.pdf">
   <front>
     <title>An overview of the development of technical infrastructure in the Asia-Pacific region:the work of the Asia-Pacific Economic Cooperation (APEC), Sub-Committee on Standards and Conformance (SCSC) and the Specialist Regional Bodies (SRBs)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6325"/>
-    <seriesInfo name="NIST" value="NIST IR 6325"/>
-    <author fullname="Christine DeVaux" initials="C." surname="DeVaux"/>
+    <author fullname="Christine DeVaux" initials="R" surname="DeVaux">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6325"/>
+  <seriesInfo name="NIST" value="NIST IR 6325"/>
 </reference>

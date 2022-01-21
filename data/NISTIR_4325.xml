@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4325" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4325.pdf">
   <front>
     <title>U.S. Department of Energy risk assessment methodology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4325"/>
-    <seriesInfo name="NIST" value="NIST IR 4325"/>
-    <author fullname="Edward Roback" initials="E." surname="Roback"/>
+    <author fullname="Edward Roback" initials="E." surname="Roback">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4325"/>
+  <seriesInfo name="NIST" value="NIST IR 4325"/>
 </reference>

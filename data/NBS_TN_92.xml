@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.92" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote92.pdf">
   <front>
     <title>Research program of the Radiation Physics Division, National Bureeau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.92"/>
-    <seriesInfo name="NIST" value="NBS TN 92"/>
-    <author fullname="Wilbert Ney" initials="W." surname="Ney"/>
+    <author fullname="Wilbert Ney" initials="R" surname="Ney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.92"/>
+  <seriesInfo name="NIST" value="NBS TN 92"/>
 </reference>

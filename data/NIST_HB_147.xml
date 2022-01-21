@@ -1,12 +1,18 @@
 <reference anchor="NIST.HB.147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook147.pdf">
   <front>
     <title>LBIR facility: user handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.147"/>
-    <seriesInfo name="NIST" value="NIST HB 147"/>
-    <author surname="Datla"/>
-    <author fullname="Ebner, C" initials="E." surname="C"/>
-    <author surname="Proctor"/>
-    <author surname="Parr"/>
+    <author initials="RU" surname="Datla">
+      <organization/>
+    </author>
+    <author fullname="Ebner, C" initials="S" surname="C">
+      <organization/>
+    </author>
+    <author initials="J" surname="Proctor">
+      <organization/>
+    </author>
+    <author initials="AC" surname="Parr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.147"/>
+  <seriesInfo name="NIST" value="NIST HB 147"/>
 </reference>

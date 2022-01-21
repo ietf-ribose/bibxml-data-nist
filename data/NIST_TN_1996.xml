@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1996" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1996.pdf">
   <front>
     <title>Estimating structural seismic retrofit costs for federal buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1996"/>
-    <seriesInfo name="NIST" value="NIST TN 1996"/>
-    <author fullname="Juan Fung" initials="J." surname="Fung">
+    <author fullname="Juan Fung" initials="F" surname="Fung">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="David Butry" initials="D." surname="Butry">
+    <author fullname="David Butry" initials="T" surname="Butry">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Siamak Sattar" initials="S." surname="Sattar">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Steven McCabe" initials="S." surname="McCabe">
+    <author fullname="Steven McCabe" initials="L" surname="McCabe">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1996"/>
+  <seriesInfo name="NIST" value="NIST TN 1996"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-285p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-285p2.pdf">
   <front>
     <title>Structure analysis and program planning study of the Army Nurse Corps (ANC) :part 2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-285p2"/>
-    <seriesInfo name="NIST" value="NBS IR 73-285p2"/>
-    <author fullname="John Rowen" initials="J." surname="Rowen"/>
-    <author fullname="Ralph Swisher" initials="R." surname="Swisher"/>
-    <author fullname="Patsy Saunders" initials="P." surname="Saunders"/>
+    <author fullname="John Rowen" initials="W" surname="Rowen">
+      <organization/>
+    </author>
+    <author fullname="Ralph Swisher" initials="B" surname="Swisher">
+      <organization/>
+    </author>
+    <author fullname="Patsy Saunders" initials="B" surname="Saunders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-285p2"/>
+  <seriesInfo name="NIST" value="NBS IR 73-285p2"/>
 </reference>

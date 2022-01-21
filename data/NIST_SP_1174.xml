@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1174" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1174.pdf">
   <front>
     <title>Smart Firefighting Workshop Summary Report March 24-25, 2014 Arlington, Virginia</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1174"/>
-    <seriesInfo name="NIST" value="NIST SP 1174"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2014" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1174"/>
+  <seriesInfo name="NIST" value="NIST SP 1174"/>
 </reference>

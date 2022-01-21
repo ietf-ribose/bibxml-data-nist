@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7590" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7590.pdf">
   <front>
     <title>A model of joint congestion control and routing through random assignment of paths</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7590"/>
-    <seriesInfo name="NIST" value="NIST IR 7590"/>
-    <author fullname="Fern Hunt" initials="F." surname="Hunt"/>
-    <author fullname="Vladimir Marbukh" initials="V." surname="Marbukh"/>
+    <author fullname="Fern Hunt" initials="Y" surname="Hunt">
+      <organization/>
+    </author>
+    <author fullname="Vladimir Marbukh" initials="V." surname="Marbukh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7590"/>
+  <seriesInfo name="NIST" value="NIST IR 7590"/>
 </reference>

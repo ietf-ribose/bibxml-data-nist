@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.5177" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5177.pdf">
   <front>
     <title>The ENDFB-VI neutron cross section measurement standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5177"/>
-    <seriesInfo name="NIST" value="NIST IR 5177"/>
-    <author surname="Hale"/>
-    <author surname="Peelle"/>
-    <author surname="Dodder"/>
-    <author surname="Fu"/>
-    <author surname="Mannhart"/>
+    <author initials="GM" surname="Hale">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Peelle">
+      <organization/>
+    </author>
+    <author initials="DC" surname="Dodder">
+      <organization/>
+    </author>
+    <author initials="CY" surname="Fu">
+      <organization/>
+    </author>
+    <author initials="W" surname="Mannhart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5177"/>
+  <seriesInfo name="NIST" value="NIST IR 5177"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7821" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7821.pdf">
   <front>
     <title>PFTII report plain and rolled fingerprint matching with proprietary templates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7821"/>
-    <seriesInfo name="NIST" value="NIST IR 7821"/>
-    <author fullname="SuLan Cheng" initials="S.L." surname="Cheng"/>
-    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
+    <author fullname="SuLan Cheng" initials="S.L." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
+      <organization/>
+    </author>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7821"/>
+  <seriesInfo name="NIST" value="NIST IR 7821"/>
 </reference>

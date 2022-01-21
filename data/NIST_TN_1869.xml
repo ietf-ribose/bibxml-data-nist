@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1869" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1869.pdf">
   <front>
     <title>Research and Development Opportunities for the NIST Net Zero Energy Residential Test Facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1869"/>
-    <seriesInfo name="NIST" value="NIST TN 1869"/>
-    <author fullname="William Healy" initials="W." surname="Healy">
+    <author fullname="William Healy" initials="M" surname="Healy">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Paul Domich" initials="P." surname="Domich">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Hunter Fanney" initials="H." surname="Fanney">
+    <author fullname="Hunter Fanney" initials="A" surname="Fanney">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Betsy Pettit" initials="B." surname="Pettit">
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1869"/>
+  <seriesInfo name="NIST" value="NIST TN 1869"/>
 </reference>

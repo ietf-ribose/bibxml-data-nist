@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.250-31" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-31.pdf">
   <front>
     <title>Mass calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-31"/>
-    <seriesInfo name="NIST" value="NIST SP 250-31"/>
-    <author surname="Davis"/>
+    <author initials="RS" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-31"/>
+  <seriesInfo name="NIST" value="NIST SP 250-31"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.115supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook115supp1.pdf">
   <front>
     <title>Energy conservation program guide for industry and commerce (EPIC): supplement 1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.115supp1"/>
-    <seriesInfo name="NIST" value="NBS HB 115supp1"/>
-    <author fullname="Robert Massey" initials="R." surname="Massey"/>
+    <author fullname="Robert Massey" initials="G" surname="Massey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.115supp1"/>
+  <seriesInfo name="NIST" value="NBS HB 115supp1"/>
 </reference>

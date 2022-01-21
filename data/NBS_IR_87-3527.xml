@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3527" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3527.pdf">
   <front>
     <title>Collection and analysis of organic compounds in air :an annotated bibliography [1976</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3527"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3527"/>
-    <author fullname="Frank Jones" initials="F." surname="Jones"/>
+    <author fullname="Frank Jones" initials="E" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3527"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3527"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7242" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7242.pdf">
   <front>
     <title>Summary of April 2005 ANSINIST fingerprint standard update workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7242"/>
-    <seriesInfo name="NIST" value="NIST IR 7242"/>
-    <author fullname="Michael McCabe" initials="M." surname="McCabe"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris"/>
+    <author fullname="Michael McCabe" initials="R" surname="McCabe">
+      <organization/>
+    </author>
+    <author fullname="Michael Garris" initials="D" surname="Garris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7242"/>
+  <seriesInfo name="NIST" value="NIST IR 7242"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.49" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience49.pdf">
   <front>
     <title>Laboratory studies of the hydraulic performance of one-story and split-level residential plumbing systems with reduced-size vents</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.49"/>
-    <seriesInfo name="NIST" value="NBS BSS 49"/>
-    <author fullname="Robert Wyly" initials="R." surname="Wyly"/>
-    <author fullname="Grover Sherlin" initials="G." surname="Sherlin"/>
-    <author fullname="Robert Beausoliel" initials="R." surname="Beausoliel"/>
+    <author fullname="Robert Wyly" initials="S" surname="Wyly">
+      <organization/>
+    </author>
+    <author fullname="Grover Sherlin" initials="C" surname="Sherlin">
+      <organization/>
+    </author>
+    <author fullname="Robert Beausoliel" initials="W" surname="Beausoliel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.49"/>
+  <seriesInfo name="NIST" value="NBS BSS 49"/>
 </reference>

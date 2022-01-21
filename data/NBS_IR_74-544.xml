@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-544" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-544.pdf">
   <front>
     <title>Kerr coefficients of nitrobenzene and water</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-544"/>
-    <seriesInfo name="NIST" value="NBS IR 74-544"/>
-    <author fullname="Robert Hebner" initials="R." surname="Hebner"/>
-    <author fullname="Richard Sojka" initials="R." surname="Sojka"/>
-    <author fullname="Esther Cassidy" initials="E." surname="Cassidy"/>
+    <author fullname="Robert Hebner" initials="E" surname="Hebner">
+      <organization/>
+    </author>
+    <author fullname="Richard Sojka" initials="J" surname="Sojka">
+      <organization/>
+    </author>
+    <author fullname="Esther Cassidy" initials="C" surname="Cassidy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-544"/>
+  <seriesInfo name="NIST" value="NBS IR 74-544"/>
 </reference>

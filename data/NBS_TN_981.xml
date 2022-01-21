@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.981" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote981.pdf">
   <front>
     <title>The calibration of a burn room for fire tests on furnishings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.981"/>
-    <seriesInfo name="NIST" value="NBS TN 981"/>
-    <author fullname="King-Mon Tu" initials="K." surname="Tu"/>
+    <author fullname="King-Mon Tu" initials="K." surname="Tu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.981"/>
+  <seriesInfo name="NIST" value="NBS TN 981"/>
 </reference>

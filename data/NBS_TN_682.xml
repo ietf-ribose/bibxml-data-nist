@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.682" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote682.pdf">
   <front>
     <title>Implementation of the notch technique as an RF peak pulse power standard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.682"/>
-    <seriesInfo name="NIST" value="NBS TN 682"/>
-    <author fullname="Philip Simpson" initials="P." surname="Simpson"/>
+    <author fullname="Philip Simpson" initials="A" surname="Simpson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.682"/>
+  <seriesInfo name="NIST" value="NBS TN 682"/>
 </reference>

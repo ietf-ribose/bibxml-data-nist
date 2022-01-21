@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4542" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4542.pdf">
   <front>
     <title>Conformity assessment workshop on pressure vessels</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4542"/>
-    <seriesInfo name="NIST" value="NIST IR 4542"/>
-    <author fullname="Bert Simson" initials="B." surname="Simson"/>
+    <author fullname="Bert Simson" initials="G" surname="Simson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4542"/>
+  <seriesInfo name="NIST" value="NIST IR 4542"/>
 </reference>

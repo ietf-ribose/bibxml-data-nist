@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1297-1993" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1297-1993.pdf">
   <front>
     <title>Guidelines for evaluating and expressing the uncertainty of NIST measurement results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1297-1993"/>
-    <seriesInfo name="NIST" value="NIST TN 1297-1993"/>
-    <author fullname="Barry Taylor" initials="B." surname="Taylor">
+    <author fullname="Barry Taylor" initials="N" surname="Taylor">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
-    <author fullname="Chris Kuyatt" initials="C." surname="Kuyatt">
+    <author fullname="Chris Kuyatt" initials="E" surname="Kuyatt">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1297-1993"/>
+  <seriesInfo name="NIST" value="NIST TN 1297-1993"/>
 </reference>

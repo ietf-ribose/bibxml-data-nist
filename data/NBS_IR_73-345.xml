@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-345" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-345.pdf">
   <front>
     <title>Combustion of metals in oxygen :phase II : bulk burning experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-345"/>
-    <seriesInfo name="NIST" value="NBS IR 73-345"/>
-    <author fullname="Alan Tench" initials="A." surname="Tench"/>
-    <author fullname="Hans Roder" initials="H." surname="Roder"/>
-    <author fullname="Alan Clark" initials="A." surname="Clark"/>
+    <author fullname="Alan Tench" initials="H" surname="Tench">
+      <organization/>
+    </author>
+    <author fullname="Hans Roder" initials="M" surname="Roder">
+      <organization/>
+    </author>
+    <author fullname="Alan Clark" initials="F" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-345"/>
+  <seriesInfo name="NIST" value="NBS IR 73-345"/>
 </reference>

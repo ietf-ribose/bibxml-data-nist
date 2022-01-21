@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6971" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6971.pdf">
   <front>
     <title>Micro- &amp; optoelectronics, annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6971"/>
-    <seriesInfo name="NIST" value="NIST IR 6971"/>
-    <author fullname="Frank Gayle" initials="F." surname="Gayle"/>
+    <author fullname="Frank Gayle" initials="W" surname="Gayle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6971"/>
+  <seriesInfo name="NIST" value="NIST IR 6971"/>
 </reference>

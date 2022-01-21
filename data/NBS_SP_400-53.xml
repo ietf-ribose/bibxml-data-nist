@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.400-53" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-53.pdf">
   <front>
     <title>Microelectronic Processing Laboratory at NBS</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-53"/>
-    <seriesInfo name="NIST" value="NBS SP 400-53"/>
-    <author surname="Leedy"/>
-    <author surname="Liu"/>
+    <author initials="TF" surname="Leedy">
+      <organization/>
+    </author>
+    <author initials="YM" surname="Liu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-53"/>
+  <seriesInfo name="NIST" value="NBS SP 400-53"/>
 </reference>

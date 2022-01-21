@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.43" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds43.pdf">
   <front>
     <title>Selected specific rates of reactions of transients from water in aqueous solution. 1. hydrated electron</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.43"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 43"/>
-    <author fullname="Michael Anbar" initials="M." surname="Anbar"/>
-    <author fullname="Mark Bambenek" initials="M." surname="Bambenek"/>
-    <author fullname="Alberta Ross" initials="A." surname="Ross"/>
+    <author fullname="Michael Anbar" initials="M." surname="Anbar">
+      <organization/>
+    </author>
+    <author fullname="Mark Bambenek" initials="M." surname="Bambenek">
+      <organization/>
+    </author>
+    <author fullname="Alberta Ross" initials="B" surname="Ross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.43"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 43"/>
 </reference>

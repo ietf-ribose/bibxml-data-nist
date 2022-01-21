@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-217" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-217.pdf">
   <front>
     <title>IGOSS-industrygovernment open systems specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-217"/>
-    <seriesInfo name="NIST" value="NIST SP 500-217"/>
-    <author fullname="Gerard Mulvenna" initials="G." surname="Mulvenna"/>
+    <author fullname="Gerard Mulvenna" initials="G." surname="Mulvenna">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-217"/>
+  <seriesInfo name="NIST" value="NIST SP 500-217"/>
 </reference>

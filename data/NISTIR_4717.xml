@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4717" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4717.pdf">
   <front>
     <title>Testing and rating of an atmospheric, gas-fired furnace equipped with a burner air inlet damper</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4717"/>
-    <seriesInfo name="NIST" value="NIST IR 4717"/>
-    <author fullname="Stanley Liu" initials="S." surname="Liu"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
-    <author fullname="Charles Terlizzi" initials="C." surname="Terlizzi"/>
+    <author fullname="Stanley Liu" initials="T" surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Charles Terlizzi" initials="P" surname="Terlizzi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4717"/>
+  <seriesInfo name="NIST" value="NIST IR 4717"/>
 </reference>

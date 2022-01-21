@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-2005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2005.pdf">
   <front>
     <title>Computer science &amp; technology :investigation of technology-based improvement of the Eric system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2005"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2005"/>
-    <author fullname="Siegfried Treu" initials="S." surname="Treu"/>
+    <author fullname="Siegfried Treu" initials="S." surname="Treu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2005"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2005"/>
 </reference>

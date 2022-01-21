@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8104-11" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8104-11.pdf">
   <front>
     <title>NIST Time and Frequency Bulletin: November</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8104-11"/>
-    <seriesInfo name="NIST" value="NIST IR 8104-11"/>
     <author fullname="KarenHansen Lichtfuss" initials="K.H." surname="Lichtfuss">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8104-11"/>
+  <seriesInfo name="NIST" value="NIST IR 8104-11"/>
 </reference>

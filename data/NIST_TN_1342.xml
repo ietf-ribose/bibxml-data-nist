@@ -1,12 +1,18 @@
 <reference anchor="NIST.TN.1342" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1342.pdf">
   <front>
     <title>Measurement and evaluation of a TEM</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1342"/>
-    <seriesInfo name="NIST" value="NIST TN 1342"/>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury"/>
-    <author fullname="Mark Ma" initials="M." surname="Ma"/>
-    <author fullname="Bill Riddle" initials="B." surname="Riddle"/>
-    <author surname="Crawford"/>
+    <author fullname="John Ladbury" initials="M" surname="Ladbury">
+      <organization/>
+    </author>
+    <author fullname="Mark Ma" initials="T" surname="Ma">
+      <organization/>
+    </author>
+    <author fullname="Bill Riddle" initials="F" surname="Riddle">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Crawford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1342"/>
+  <seriesInfo name="NIST" value="NIST TN 1342"/>
 </reference>

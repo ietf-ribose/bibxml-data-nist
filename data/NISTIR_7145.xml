@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7145.pdf">
   <front>
     <title>Analysis of ventilation data from the U.S. Environmental Protection Agency building assessment survey and evaluation (BASE) study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7145"/>
-    <seriesInfo name="NIST" value="NIST IR 7145"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Josh Gorfain" initials="J." surname="Gorfain"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Josh Gorfain" initials="J." surname="Gorfain">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7145"/>
+  <seriesInfo name="NIST" value="NIST IR 7145"/>
 </reference>

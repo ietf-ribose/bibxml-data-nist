@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7302" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7302.pdf">
   <front>
     <title>Proceeding of the 2005 conference on IEEE 1588 standard for a precision clock synchronization protocol for networked measurement and control systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7302"/>
-    <seriesInfo name="NIST" value="NIST IR 7302"/>
-    <author fullname="Kang Lee" initials="K." surname="Lee"/>
-    <author fullname="john Eidson" initials="j." surname="Eidson"/>
-    <author fullname="Hans Weibel" initials="H." surname="Weibel"/>
-    <author fullname="Dirk Mohl" initials="D." surname="Mohl"/>
+    <author fullname="Kang Lee" initials="B" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="john Eidson" initials="C" surname="Eidson">
+      <organization/>
+    </author>
+    <author fullname="Hans Weibel" initials="H." surname="Weibel">
+      <organization/>
+    </author>
+    <author fullname="Dirk Mohl" initials="D." surname="Mohl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7302"/>
+  <seriesInfo name="NIST" value="NIST IR 7302"/>
 </reference>

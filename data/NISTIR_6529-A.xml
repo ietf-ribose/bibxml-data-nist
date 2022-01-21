@@ -1,19 +1,39 @@
 <reference anchor="NIST.IR.6529-a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6529-a.pdf">
   <front>
     <title>Common biometric exchange formats framework (CBEFF)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6529-a"/>
-    <seriesInfo name="NIST" value="NIST IR 6529-a"/>
-    <author fullname="Fernando Podio" initials="F." surname="Podio"/>
-    <author fullname="Jeffrey Dunn" initials="J." surname="Dunn"/>
-    <author fullname="Lawrence Reinert" initials="L." surname="Reinert"/>
-    <author fullname="Catherine Tilton" initials="C." surname="Tilton"/>
-    <author fullname="Bruno Struif" initials="B." surname="Struif"/>
-    <author fullname="Fred Herr" initials="F." surname="Herr"/>
-    <author fullname="Jim Russell" initials="J." surname="Russell"/>
-    <author fullname="Paul Collier" initials="P." surname="Collier"/>
-    <author fullname="Mark Jerde" initials="M." surname="Jerde"/>
-    <author fullname="Lawrence O'Gorman" initials="L." surname="O'Gorman"/>
-    <author fullname="Brigitte Wirtz" initials="B." surname="Wirtz"/>
+    <author fullname="Fernando Podio" initials="L" surname="Podio">
+      <organization/>
+    </author>
+    <author fullname="Jeffrey Dunn" initials="S" surname="Dunn">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Reinert" initials="L." surname="Reinert">
+      <organization/>
+    </author>
+    <author fullname="Catherine Tilton" initials="J" surname="Tilton">
+      <organization/>
+    </author>
+    <author fullname="Bruno Struif" initials="B." surname="Struif">
+      <organization/>
+    </author>
+    <author fullname="Fred Herr" initials="F." surname="Herr">
+      <organization/>
+    </author>
+    <author fullname="Jim Russell" initials="J." surname="Russell">
+      <organization/>
+    </author>
+    <author fullname="Paul Collier" initials="M" surname="Collier">
+      <organization/>
+    </author>
+    <author fullname="Mark Jerde" initials="M." surname="Jerde">
+      <organization/>
+    </author>
+    <author fullname="Lawrence O'Gorman" initials="L." surname="O'Gorman">
+      <organization/>
+    </author>
+    <author fullname="Brigitte Wirtz" initials="B." surname="Wirtz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6529-a"/>
+  <seriesInfo name="NIST" value="NIST IR 6529-a"/>
 </reference>

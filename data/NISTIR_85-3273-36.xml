@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.85-3273-36" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.85-3273-36.pdf">
   <front>
     <title>Energy Price Indices and Discount Factors for Life-Cycle Cost Analysis – 2021 Annual Supplement to NIST Handbook 135</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-36"/>
-    <seriesInfo name="NIST" value="NIST IR 85-3273-36"/>
-    <author fullname="Priya Lavappa" initials="P." surname="Lavappa">
+    <author fullname="Priya Lavappa" initials="D" surname="Lavappa">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
+    <author fullname="Joshua Kneifel" initials="D" surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="April" day="12"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-36"/>
+  <seriesInfo name="NIST" value="NIST IR 85-3273-36"/>
 </reference>

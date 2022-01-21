@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1800-14" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-14.pdf">
   <front>
     <title>Protecting the integrity of internet routing:border gateway protocol (BGP) route origin validation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-14"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-14"/>
     <author fullname="William Haag" initials="W." surname="Haag">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Doug Montgomery" initials="D." surname="Montgomery">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="William Barker" initials="W." surname="Barker">
+    <author fullname="William Barker" initials="C" surname="Barker">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Allen Tan" initials="A." surname="Tan">
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-14"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-14"/>
 </reference>

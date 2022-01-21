@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7482" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7482.pdf">
   <front>
     <title>Thermal performance of fire resistive materials II. A multi-layer one-dimensional heat transfer model for fire resistive materials protecting a substrate</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7482"/>
-    <seriesInfo name="NIST" value="NIST IR 7482"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
+    <author fullname="Kuldeep Prasad" initials="R" surname="Prasad">
+      <organization/>
+    </author>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7482"/>
+  <seriesInfo name="NIST" value="NIST IR 7482"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.MONO.23" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph23.pdf">
   <front>
     <title>Amplitude-probability distributions for atmospheric radio noise</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.23"/>
-    <seriesInfo name="NIST" value="NBS MONO 23"/>
-    <author surname="Crichlow"/>
-    <author surname="Spaulding"/>
-    <author surname="Roubique"/>
-    <author surname="Disney"/>
+    <author initials="WQ" surname="Crichlow">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Spaulding">
+      <organization/>
+    </author>
+    <author initials="CJ" surname="Roubique">
+      <organization/>
+    </author>
+    <author initials="RT" surname="Disney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.23"/>
+  <seriesInfo name="NIST" value="NBS MONO 23"/>
 </reference>

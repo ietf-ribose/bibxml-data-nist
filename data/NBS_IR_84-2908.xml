@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2908" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2908.pdf">
   <front>
     <title>Interim design guidelines for automated offices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2908"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2908"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
+    <author fullname="Arthur Rubin" initials="A." surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2908"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2908"/>
 </reference>

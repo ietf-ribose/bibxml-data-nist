@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1770" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1770.pdf">
   <front>
     <title>The potential for energy savings with water conservation devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1770"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1770"/>
-    <author fullname="Robert Palla" initials="R." surname="Palla"/>
+    <author fullname="Robert Palla" initials="L" surname="Palla">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1770"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1770"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-193" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-193.pdf">
   <front>
     <title>Platform firmware resiliency guidelines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-193"/>
-    <seriesInfo name="NIST" value="NIST SP 800-193"/>
     <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-193"/>
+  <seriesInfo name="NIST" value="NIST SP 800-193"/>
 </reference>

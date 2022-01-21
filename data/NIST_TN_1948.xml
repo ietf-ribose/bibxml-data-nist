@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1948" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1948.pdf">
   <front>
     <title>What's in a butt? environmental contamination from airborne cigarette butt emissions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1948"/>
-    <seriesInfo name="NIST" value="NIST TN 1948"/>
     <author fullname="Mengyan Gong" initials="M." surname="Gong">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Shahana Khurshid" initials="S." surname="Khurshid">
+    <author fullname="Shahana Khurshid" initials="S" surname="Khurshid">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
+    <author fullname="Dustin Poppendieck" initials="G" surname="Poppendieck">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1948"/>
+  <seriesInfo name="NIST" value="NIST TN 1948"/>
 </reference>

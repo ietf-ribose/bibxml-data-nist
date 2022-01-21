@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1928" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1928.pdf">
   <front>
     <title>The Structure of a Moderate-Scale Methanol Pool Fire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1928"/>
-    <seriesInfo name="NIST" value="NIST TN 1928"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+    <author fullname="Anthony Hamins" initials="P" surname="Hamins">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Andrew Lock" initials="A." surname="Lock">
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1928"/>
+  <seriesInfo name="NIST" value="NIST TN 1928"/>
 </reference>

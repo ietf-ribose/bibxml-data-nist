@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8089" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8089.pdf">
   <front>
     <title>An Industrial Control System Cybersecurity Performance Testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8089"/>
-    <seriesInfo name="NIST" value="NIST IR 8089"/>
     <author fullname="Richard Candell Jr." initials="R." surname="Candell Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+    <author fullname="Timothy Zimmerman" initials="A" surname="Zimmerman">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+    <author fullname="Keith Stouffer" initials="A" surname="Stouffer">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8089"/>
+  <seriesInfo name="NIST" value="NIST IR 8089"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3992" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3992.pdf">
   <front>
     <title>Structure-property relationships in microalloyed ferrite-earlite steels- phase 1 :literature review, research plan, and initial results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3992"/>
-    <seriesInfo name="NIST" value="NIST IR 3992"/>
-    <author surname="Purtscher"/>
-    <author fullname="Yi-Wen Cheng" initials="Y." surname="Cheng"/>
+    <author initials="PT" surname="Purtscher">
+      <organization/>
+    </author>
+    <author fullname="Yi-Wen Cheng" initials="Y." surname="Cheng">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3992"/>
+  <seriesInfo name="NIST" value="NIST IR 3992"/>
 </reference>

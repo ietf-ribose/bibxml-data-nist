@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10521" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10521.pdf">
   <front>
     <title>Influence of alloy particle size and shape :progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10521"/>
-    <seriesInfo name="NIST" value="NBS RPT 10521"/>
-    <author surname="Waterstrat"/>
+    <author initials="RM" surname="Waterstrat">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10521"/>
+  <seriesInfo name="NIST" value="NBS RPT 10521"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph10.pdf">
   <front>
     <title>The "1958 He scale of temperatures" :part 1. introduction part 2. tables for the 1958 temperature scale</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.10"/>
-    <seriesInfo name="NIST" value="NBS MONO 10"/>
-    <author surname="Brickwedde"/>
-    <author surname="van Dijk"/>
-    <author surname="Durieux"/>
-    <author surname="Clement"/>
-    <author surname="Logan"/>
+    <author initials="FG" surname="Brickwedde">
+      <organization/>
+    </author>
+    <author initials="H" surname="van Dijk">
+      <organization/>
+    </author>
+    <author initials="M" surname="Durieux">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Clement">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Logan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.10"/>
+  <seriesInfo name="NIST" value="NBS MONO 10"/>
 </reference>

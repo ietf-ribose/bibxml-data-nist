@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-3932" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3932.pdf">
   <front>
     <title>Nontoxic heat transport fluids for spacecraft two-phase thermal control systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3932"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3932"/>
-    <author fullname="Patricia Giarratano" initials="P." surname="Giarratano"/>
-    <author fullname="James Welch" initials="J." surname="Welch"/>
+    <author fullname="Patricia Giarratano" initials="J" surname="Giarratano">
+      <organization/>
+    </author>
+    <author fullname="James Welch" initials="F" surname="Welch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3932"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3932"/>
 </reference>

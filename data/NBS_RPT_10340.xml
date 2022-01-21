@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10340" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10340.pdf">
   <front>
     <title>Simulated solar heat test of MUST ward containers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10340"/>
-    <seriesInfo name="NIST" value="NBS RPT 10340"/>
-    <author surname="Grimes"/>
-    <author surname="Reichard"/>
+    <author initials="JW" surname="Grimes">
+      <organization/>
+    </author>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10340"/>
+  <seriesInfo name="NIST" value="NBS RPT 10340"/>
 </reference>

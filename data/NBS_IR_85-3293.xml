@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3293" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3293.pdf">
   <front>
     <title>Non-electrical measurement techniques for assessing the state of coating systems deterioration</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3293"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3293"/>
-    <author fullname="Mary McNight" initials="M." surname="McNight"/>
-    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
-    <author fullname="Jonathan Martin" initials="J." surname="Martin"/>
+    <author fullname="Mary McNight" initials="E" surname="McNight">
+      <organization/>
+    </author>
+    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
+      <organization/>
+    </author>
+    <author fullname="Jonathan Martin" initials="W" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3293"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3293"/>
 </reference>

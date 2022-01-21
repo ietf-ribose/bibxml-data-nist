@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.5952" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5952.pdf">
   <front>
     <title>Report of Workshop on Advanced Methods and Models for Appearance of Coatings and Coated Objects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5952"/>
-    <seriesInfo name="NIST" value="NIST IR 5952"/>
-    <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
-    <author fullname="Jonathan Martin" initials="J." surname="Martin"/>
-    <author fullname="Michael Galler" initials="M." surname="Galler"/>
-    <author fullname="Fern Hunt" initials="F." surname="Hunt"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman"/>
-    <author fullname="Theodore Vorburger" initials="T." surname="Vorburger"/>
-    <author fullname="Ambler Thompson" initials="A." surname="Thompson"/>
+    <author fullname="Mary McKnight" initials="E" surname="McKnight">
+      <organization/>
+    </author>
+    <author fullname="Jonathan Martin" initials="W" surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="Michael Galler" initials="A" surname="Galler">
+      <organization/>
+    </author>
+    <author fullname="Fern Hunt" initials="Y" surname="Hunt">
+      <organization/>
+    </author>
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
+      <organization/>
+    </author>
+    <author fullname="Theodore Vorburger" initials="V" surname="Vorburger">
+      <organization/>
+    </author>
+    <author fullname="Ambler Thompson" initials="E" surname="Thompson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5952"/>
+  <seriesInfo name="NIST" value="NIST IR 5952"/>
 </reference>

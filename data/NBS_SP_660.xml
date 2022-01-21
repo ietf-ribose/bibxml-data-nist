@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.660" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication660.pdf">
   <front>
     <title>Measurement &amp; analysis of productivity growth</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.660"/>
-    <seriesInfo name="NIST" value="NBS SP 660"/>
-    <author fullname="Albert Link" initials="A." surname="Link"/>
+    <author fullname="Albert Link" initials="N" surname="Link">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.660"/>
+  <seriesInfo name="NIST" value="NBS SP 660"/>
 </reference>

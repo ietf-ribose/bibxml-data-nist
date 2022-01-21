@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures55.pdf">
   <front>
     <title>Effects of wetting and drying on the permeability of masonry walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.55"/>
-    <seriesInfo name="NIST" value="NBS BMS 55"/>
-    <author fullname="Cyrus Fishburn" initials="C." surname="Fishburn"/>
+    <author fullname="Cyrus Fishburn" initials="C" surname="Fishburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.55"/>
+  <seriesInfo name="NIST" value="NBS BMS 55"/>
 </reference>

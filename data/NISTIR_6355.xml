@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6355" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6355.pdf">
   <front>
     <title>Visualization of Bose-Einstein condensates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6355"/>
-    <seriesInfo name="NIST" value="NIST IR 6355"/>
-    <author fullname="Peter Ketcham" initials="P." surname="Ketcham"/>
-    <author fullname="David Feder" initials="D." surname="Feder"/>
-    <author fullname="William Reinhardt" initials="W." surname="Reinhardt"/>
-    <author fullname="Charles Clark" initials="C." surname="Clark"/>
-    <author fullname="William George" initials="W." surname="George"/>
+    <author fullname="Peter Ketcham" initials="P." surname="Ketcham">
+      <organization/>
+    </author>
+    <author fullname="David Feder" initials="D." surname="Feder">
+      <organization/>
+    </author>
+    <author fullname="William Reinhardt" initials="W." surname="Reinhardt">
+      <organization/>
+    </author>
+    <author fullname="Charles Clark" initials="C." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="William George" initials="W." surname="George">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6355"/>
+  <seriesInfo name="NIST" value="NIST IR 6355"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.500-216" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-216.pdf">
   <front>
     <title>Proceedings of the digital systems reliability and nuclear safety workshop September 13-14, 1993</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-216"/>
-    <seriesInfo name="NIST" value="NIST SP 500-216"/>
-    <author surname="Wallace"/>
-    <author surname="Cuthill"/>
-    <author surname="Ippolito"/>
-    <author surname="Beltracchi"/>
+    <author initials="DR" surname="Wallace">
+      <organization/>
+    </author>
+    <author initials="BB" surname="Cuthill">
+      <organization/>
+    </author>
+    <author initials="LM" surname="Ippolito">
+      <organization/>
+    </author>
+    <author initials="L" surname="Beltracchi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-216"/>
+  <seriesInfo name="NIST" value="NIST SP 500-216"/>
 </reference>

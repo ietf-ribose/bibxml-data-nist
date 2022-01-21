@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1811" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1811.pdf">
   <front>
     <title>Applying the Hedonic Method</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1811"/>
-    <seriesInfo name="NIST" value="NIST TN 1811"/>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+    <author fullname="Stanley Gilbert" initials="W" surname="Gilbert">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1811"/>
+  <seriesInfo name="NIST" value="NIST TN 1811"/>
 </reference>

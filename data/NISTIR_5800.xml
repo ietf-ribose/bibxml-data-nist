@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5800" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5800.pdf">
   <front>
     <title>Guidelines for pre-qualification, prototype and quality control testing of seismic isolation systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5800"/>
-    <seriesInfo name="NIST" value="NIST IR 5800"/>
-    <author fullname="HarryIII Shenton" initials="H.I." surname="Shenton"/>
+    <author fullname="HarryIII Shenton" initials="W" surname="Shenton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5800"/>
+  <seriesInfo name="NIST" value="NIST IR 5800"/>
 </reference>

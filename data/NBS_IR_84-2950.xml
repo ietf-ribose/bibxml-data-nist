@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.84-2950" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2950.pdf">
   <front>
     <title>Innovative office building structures and enclosures :a survey of experts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2950"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2950"/>
-    <author fullname="George Turner" initials="G." surname="Turner"/>
-    <author fullname="Stephen Margulis" initials="S." surname="Margulis"/>
-    <author fullname="Michael Brill" initials="M." surname="Brill"/>
-    <author fullname="Catherine Coburn" initials="C." surname="Coburn"/>
+    <author fullname="George Turner" initials="G." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="Stephen Margulis" initials="T" surname="Margulis">
+      <organization/>
+    </author>
+    <author fullname="Michael Brill" initials="M." surname="Brill">
+      <organization/>
+    </author>
+    <author fullname="Catherine Coburn" initials="C." surname="Coburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2950"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2950"/>
 </reference>

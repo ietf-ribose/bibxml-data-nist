@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.260-151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-151.pdf">
   <front>
     <title>The NIST-traceable reference-material program for wavelength-reference absorption cells</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-151"/>
-    <seriesInfo name="NIST" value="NIST SP 260-151"/>
-    <author fullname="Sarah Gilbert" initials="S." surname="Gilbert"/>
-    <author fullname="Chih-Ming Wang" initials="C." surname="Wang"/>
-    <author fullname="Timothy Drapela" initials="T." surname="Drapela"/>
+    <author fullname="Sarah Gilbert" initials="L" surname="Gilbert">
+      <organization/>
+    </author>
+    <author fullname="Chih-Ming Wang" initials="C." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Timothy Drapela" initials="J" surname="Drapela">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-151"/>
+  <seriesInfo name="NIST" value="NIST SP 260-151"/>
 </reference>

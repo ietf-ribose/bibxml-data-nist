@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1068-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1068-2.pdf">
   <front>
     <title>Nonlinear least squares regression using STARPAC :the standards times series and regression package</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1068-2"/>
-    <seriesInfo name="NIST" value="NBS TN 1068-2"/>
-    <author fullname="Janet Donaldson" initials="J." surname="Donaldson"/>
+    <author fullname="Janet Donaldson" initials="R" surname="Donaldson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1068-2"/>
+  <seriesInfo name="NIST" value="NBS TN 1068-2"/>
 </reference>

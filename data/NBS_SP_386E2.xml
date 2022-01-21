@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.386e2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication386e2.pdf">
   <front>
     <title>Standards on noise measurements, rating schemes, and definitions :a compilation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.386e2"/>
-    <seriesInfo name="NIST" value="NBS SP 386e2"/>
-    <author fullname="Thomas Quindry" initials="T." surname="Quindry"/>
+    <author fullname="Thomas Quindry" initials="L" surname="Quindry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.386e2"/>
+  <seriesInfo name="NIST" value="NBS SP 386e2"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.598" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication598.pdf">
   <front>
     <title>Metric conversion in the construction industries--technical issues and status</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.598"/>
-    <seriesInfo name="NIST" value="NBS SP 598"/>
-    <author fullname="Hans Milton" initials="H." surname="Milton"/>
-    <author fullname="Sandra Berry" initials="S." surname="Berry"/>
+    <author fullname="Hans Milton" initials="J" surname="Milton">
+      <organization/>
+    </author>
+    <author fullname="Sandra Berry" initials="A" surname="Berry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.598"/>
+  <seriesInfo name="NIST" value="NBS SP 598"/>
 </reference>

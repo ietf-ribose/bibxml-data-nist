@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.960" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote960.pdf">
   <front>
     <title>A survey of the National Metric Speakers Bureau</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.960"/>
-    <seriesInfo name="NIST" value="NBS TN 960"/>
-    <author fullname="John Tascher" initials="J." surname="Tascher"/>
+    <author fullname="John Tascher" initials="M" surname="Tascher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.960"/>
+  <seriesInfo name="NIST" value="NBS TN 960"/>
 </reference>

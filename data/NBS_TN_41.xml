@@ -1,11 +1,15 @@
 <reference anchor="NBS.TN.41" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote41.pdf">
   <front>
     <title>Expendable modules as bases for disposal-at-failure maintenance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.41"/>
-    <seriesInfo name="NIST" value="NBS TN 41"/>
-    <author fullname="DJ Brown" initials="D." surname="Brown"/>
-    <author fullname="LR Wescott" initials="L." surname="Wescott"/>
-    <author fullname="Robert Stone" initials="R." surname="Stone"/>
+    <author fullname="DJ Brown" initials="D." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="LR Wescott" initials="L." surname="Wescott">
+      <organization/>
+    </author>
+    <author fullname="Robert Stone" initials="O" surname="Stone">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.41"/>
+  <seriesInfo name="NIST" value="NBS TN 41"/>
 </reference>

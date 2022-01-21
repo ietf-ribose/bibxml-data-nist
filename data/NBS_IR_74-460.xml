@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-460" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-460.pdf">
   <front>
     <title>Comparison of power output and exhaust pollutants of two postal service vehicles operated on three hydrocarbon fuels</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-460"/>
-    <seriesInfo name="NIST" value="NBS IR 74-460"/>
-    <author surname="Hill"/>
-    <author surname="Didion"/>
+    <author initials="JE" surname="Hill">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-460"/>
+  <seriesInfo name="NIST" value="NBS IR 74-460"/>
 </reference>

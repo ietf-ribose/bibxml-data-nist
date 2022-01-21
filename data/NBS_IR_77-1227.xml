@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1227" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1227.pdf">
   <front>
     <title>thermometry in the control of water quality</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1227"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1227"/>
-    <author fullname="Sharrill Wood" initials="S." surname="Wood"/>
+    <author fullname="Sharrill Wood" initials="D" surname="Wood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1227"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1227"/>
 </reference>

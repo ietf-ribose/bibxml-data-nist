@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6465" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6465.pdf">
   <front>
     <title>New approaches to the development of fire-safe materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6465"/>
-    <seriesInfo name="NIST" value="NIST IR 6465"/>
-    <author fullname="Alexander Morgan" initials="A." surname="Morgan"/>
-    <author fullname="Jeffrey Gilman" initials="J." surname="Gilman"/>
-    <author fullname="Marc Nyden" initials="M." surname="Nyden"/>
-    <author fullname="Cahteryn Jackson" initials="C." surname="Jackson"/>
+    <author fullname="Alexander Morgan" initials="B" surname="Morgan">
+      <organization/>
+    </author>
+    <author fullname="Jeffrey Gilman" initials="W" surname="Gilman">
+      <organization/>
+    </author>
+    <author fullname="Marc Nyden" initials="M." surname="Nyden">
+      <organization/>
+    </author>
+    <author fullname="Cahteryn Jackson" initials="L" surname="Jackson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6465"/>
+  <seriesInfo name="NIST" value="NIST IR 6465"/>
 </reference>

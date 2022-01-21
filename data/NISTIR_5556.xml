@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.5556" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5556.pdf">
   <front>
     <title>From superconductivity to supernovae- the Ginzburg Symposium</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5556"/>
-    <seriesInfo name="NIST" value="NIST IR 5556"/>
-    <author surname="Gor'kov"/>
-    <author surname="Little"/>
-    <author surname="Kellermann"/>
-    <author surname="Kresin"/>
-    <author surname="Kurfess"/>
-    <author surname="Ramaty"/>
+    <author initials="LP" surname="Gor'kov">
+      <organization/>
+    </author>
+    <author initials="WA" surname="Little">
+      <organization/>
+    </author>
+    <author initials="K" surname="Kellermann">
+      <organization/>
+    </author>
+    <author initials="VZ" surname="Kresin">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Kurfess">
+      <organization/>
+    </author>
+    <author initials="R" surname="Ramaty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5556"/>
+  <seriesInfo name="NIST" value="NIST IR 5556"/>
 </reference>

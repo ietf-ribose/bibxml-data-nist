@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.65" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular65.pdf">
   <front>
     <title>Letter Circular 65:electron tube amplifier using 60 cycle alternating current to supply power for the filaments and plates</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.65"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 65"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.65"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 65"/>
 </reference>

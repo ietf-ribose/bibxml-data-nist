@@ -1,12 +1,18 @@
 <reference anchor="NIST.TN.1263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1263.pdf">
   <front>
     <title>Guidelines for implementing the new representations of the volt and ohm effective January 1, 1990</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1263"/>
-    <seriesInfo name="NIST" value="NIST TN 1263"/>
-    <author surname="Dziuba"/>
-    <author fullname="Bruce Field" initials="B." surname="Field"/>
-    <author surname="Taylor"/>
-    <author fullname="Norman Belecki" initials="N." surname="Belecki"/>
+    <author initials="RF" surname="Dziuba">
+      <organization/>
+    </author>
+    <author fullname="Bruce Field" initials="F" surname="Field">
+      <organization/>
+    </author>
+    <author initials="BN" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Norman Belecki" initials="B" surname="Belecki">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1263"/>
+  <seriesInfo name="NIST" value="NIST TN 1263"/>
 </reference>

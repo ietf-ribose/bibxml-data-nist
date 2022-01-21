@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.58" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds58.pdf">
   <front>
     <title>Drift mobilities and conduction band energies of excess electrons in dielectric liquids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.58"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 58"/>
-    <author surname="Allen"/>
+    <author initials="AO" surname="Allen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.58"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 58"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7490" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7490.pdf">
   <front>
     <title>Digital forensics at the National Institute of Standards and Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7490"/>
-    <seriesInfo name="NIST" value="NIST IR 7490"/>
-    <author fullname="Jame Lyle" initials="J." surname="Lyle"/>
-    <author fullname="Douglas White" initials="D." surname="White"/>
-    <author fullname="Richard Ayers" initials="R." surname="Ayers"/>
+    <author fullname="Jame Lyle" initials="R" surname="Lyle">
+      <organization/>
+    </author>
+    <author fullname="Douglas White" initials="R" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Richard Ayers" initials="P" surname="Ayers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7490"/>
+  <seriesInfo name="NIST" value="NIST IR 7490"/>
 </reference>

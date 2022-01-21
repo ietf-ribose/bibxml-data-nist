@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3906" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3906.pdf">
   <front>
     <title>Report No. 18 :ultrasonic railroad wheel inspection using EMATS</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3906"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3906"/>
-    <author fullname="Raymond Schramm" initials="R." surname="Schramm"/>
-    <author surname="Van Clark"/>
+    <author fullname="Raymond Schramm" initials="E" surname="Schramm">
+      <organization/>
+    </author>
+    <author initials="A" surname="Van Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3906"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3906"/>
 </reference>

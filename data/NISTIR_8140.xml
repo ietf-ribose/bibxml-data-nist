@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8140" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8140.pdf">
   <front>
     <title>Review of Research for Docking Automatic Guided Vehicles and Mobile Robots</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8140"/>
-    <seriesInfo name="NIST" value="NIST IR 8140"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+    <author fullname="Roger Bostelman" initials="V" surname="Bostelman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="TsaiHong Hong" initials="T.H." surname="Hong">
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8140"/>
+  <seriesInfo name="NIST" value="NIST IR 8140"/>
 </reference>

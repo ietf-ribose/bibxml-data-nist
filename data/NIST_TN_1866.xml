@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1866" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1866.pdf">
   <front>
     <title>Research Needs to Advance Concrete Pumping Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1866"/>
-    <seriesInfo name="NIST" value="NIST TN 1866"/>
     <author fullname="Myoungsung Choi" initials="M." surname="Choi">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris">
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Nicos Martys" initials="N." surname="Martys">
+    <author fullname="Nicos Martys" initials="S" surname="Martys">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Van Bui" initials="V." surname="Bui">
+    <author fullname="Van Bui" initials="K" surname="Bui">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="H.R.Trey Hamilton" initials="H.T." surname="Hamilton">
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1866"/>
+  <seriesInfo name="NIST" value="NIST TN 1866"/>
 </reference>

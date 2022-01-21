@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures151.pdf">
   <front>
     <title>Thermal resistance of airspaces and fibrous insulations bounded by reflective surfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.151"/>
-    <seriesInfo name="NIST" value="NBS BMS 151"/>
-    <author surname="Robinson"/>
-    <author surname="Cosgrove"/>
-    <author surname="Powell"/>
+    <author initials="HE" surname="Robinson">
+      <organization/>
+    </author>
+    <author initials="LA" surname="Cosgrove">
+      <organization/>
+    </author>
+    <author initials="FJ" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.151"/>
+  <seriesInfo name="NIST" value="NBS BMS 151"/>
 </reference>

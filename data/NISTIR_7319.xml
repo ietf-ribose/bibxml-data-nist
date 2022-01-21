@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7319" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7319.pdf">
   <front>
     <title>Toward a standard benefit-cost methodology for publicly funded science and technology programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7319"/>
-    <seriesInfo name="NIST" value="NIST IR 7319"/>
-    <author fullname="Jeanne Powell" initials="J." surname="Powell"/>
+    <author fullname="Jeanne Powell" initials="J." surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7319"/>
+  <seriesInfo name="NIST" value="NIST IR 7319"/>
 </reference>

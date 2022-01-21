@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-114.pdf">
   <front>
     <title>Standard Reference Materials :Bright-chromium linewidth standard, SRM 476, for calibration of optical microscope linewidth measuring systems/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-114"/>
-    <seriesInfo name="NIST" value="NIST SP 260-114"/>
-    <author fullname="Ruth Varner" initials="R." surname="Varner"/>
-    <author fullname="Carol Vezzetti" initials="C." surname="Vezzetti"/>
+    <author fullname="Ruth Varner" initials="N" surname="Varner">
+      <organization/>
+    </author>
+    <author fullname="Carol Vezzetti" initials="F" surname="Vezzetti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-114"/>
+  <seriesInfo name="NIST" value="NIST SP 260-114"/>
 </reference>

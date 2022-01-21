@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6461" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6461.pdf">
   <front>
     <title>Measurement and simulation of the IAQ impact of particle air cleaners in a single-zone building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6461"/>
-    <seriesInfo name="NIST" value="NIST IR 6461"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Steven Nabinger" initials="S." surname="Nabinger"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Steven Nabinger" initials="J" surname="Nabinger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6461"/>
+  <seriesInfo name="NIST" value="NIST IR 6461"/>
 </reference>

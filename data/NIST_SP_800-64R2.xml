@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-64r2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-64r2.pdf">
   <front>
     <title>Security considerations in the system development life cycle</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-64r2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-64r2"/>
-    <author surname="Kissel">
+    <author initials="R" surname="Kissel">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Stine">
+    <author initials="KM" surname="Stine">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scholl">
+    <author initials="MA" surname="Scholl">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Rossman">
+    <author initials="H" surname="Rossman">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Fahlsing">
+    <author initials="J" surname="Fahlsing">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Gulick">
+    <author initials="J" surname="Gulick">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-64r2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-64r2"/>
 </reference>

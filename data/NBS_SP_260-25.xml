@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-25" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-25.pdf">
   <front>
     <title>Standard Reference MaterialsA standard reference material containing nominally four percent austenite</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-25"/>
-    <seriesInfo name="NIST" value="NBS SP 260-25"/>
-    <author surname="Michaelis"/>
-    <author surname="Yakowitz"/>
-    <author surname="Hicho"/>
+    <author initials="RE" surname="Michaelis">
+      <organization/>
+    </author>
+    <author initials="H" surname="Yakowitz">
+      <organization/>
+    </author>
+    <author initials="GE" surname="Hicho">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-25"/>
+  <seriesInfo name="NIST" value="NBS SP 260-25"/>
 </reference>

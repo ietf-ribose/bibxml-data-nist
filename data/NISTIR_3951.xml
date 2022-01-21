@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3951" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3951.pdf">
   <front>
     <title>Transient hydrogen heat transfer- final report for April 1986-April 1989</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3951"/>
-    <seriesInfo name="NIST" value="NIST IR 3951"/>
-    <author surname="Louie"/>
-    <author surname="Steward"/>
+    <author initials="B" surname="Louie">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Steward">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3951"/>
+  <seriesInfo name="NIST" value="NIST IR 3951"/>
 </reference>

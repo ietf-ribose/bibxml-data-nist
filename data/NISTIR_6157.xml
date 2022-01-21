@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6157" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6157.pdf">
   <front>
     <title>Evaluation of intumescent body panel coatings in simulated post-accident vehicle fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6157"/>
-    <seriesInfo name="NIST" value="NIST IR 6157"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6157"/>
+  <seriesInfo name="NIST" value="NIST IR 6157"/>
 </reference>

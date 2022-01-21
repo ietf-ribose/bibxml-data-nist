@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.38" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds38.pdf">
   <front>
     <title>Critical review of ultraviolet photoabsorption cross sections for molecules of astrophysical and aeronomic interest</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.38"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 38"/>
-    <author surname="Hudson"/>
+    <author initials="RD" surname="Hudson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.38"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 38"/>
 </reference>

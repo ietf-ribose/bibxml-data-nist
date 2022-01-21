@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.88-3816" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3816.pdf">
   <front>
     <title>AMRF network communications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3816"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3816"/>
-    <author surname="Rybczynski"/>
-    <author surname="Barkmeyer"/>
-    <author surname="Wallace"/>
-    <author surname="Strawbridge"/>
-    <author surname="Libes"/>
-    <author surname="Young"/>
+    <author initials="S" surname="Rybczynski">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Barkmeyer">
+      <organization/>
+    </author>
+    <author initials="EK" surname="Wallace">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Strawbridge">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Libes">
+      <organization/>
+    </author>
+    <author initials="CV" surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3816"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3816"/>
 </reference>

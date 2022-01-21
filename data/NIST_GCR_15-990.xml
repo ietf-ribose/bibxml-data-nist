@@ -1,12 +1,10 @@
 <reference anchor="NIST.GCR.15-990" target="https://nvlpubs.nist.gov/nistpubs/gcr/2015/NIST.GCR.15-990.pdf">
   <front>
     <title>Proposed recommended practice for the representation of schematic symbols in STEP AP 210 (ISO 10303-210)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-990"/>
-    <seriesInfo name="NIST" value="NIST GCR 15-990"/>
     <author fullname="James Stori" initials="J." surname="Stori">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Tom Thurman" initials="T." surname="Thurman">
+    <author fullname="Tom Thurman" initials="R" surname="Thurman">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Craig Lanning" initials="C." surname="Lanning">
@@ -27,4 +25,6 @@
     </author>
     <date year="2015" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-990"/>
+  <seriesInfo name="NIST" value="NIST GCR 15-990"/>
 </reference>

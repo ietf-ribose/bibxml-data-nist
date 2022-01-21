@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1759" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1759.pdf">
   <front>
     <title>Development of a Method to Measure the Energy Consumption of Automatic Icemakers in Domestic Refrigerators with Single Speed Compressors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1759"/>
-    <seriesInfo name="NIST" value="NIST TN 1759"/>
-    <author fullname="David Yashar" initials="D." surname="Yashar">
+    <author fullname="David Yashar" initials="A" surname="Yashar">
       <organization>Energy and Environment Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1759"/>
+  <seriesInfo name="NIST" value="NIST TN 1759"/>
 </reference>

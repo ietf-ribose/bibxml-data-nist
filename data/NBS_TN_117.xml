@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote117.pdf">
   <front>
     <title>Variations in frequency of occurrence of sporadic E, 1949-1959</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.117"/>
-    <seriesInfo name="NIST" value="NBS TN 117"/>
-    <author surname="Chadwick"/>
+    <author initials="WB" surname="Chadwick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.117"/>
+  <seriesInfo name="NIST" value="NBS TN 117"/>
 </reference>

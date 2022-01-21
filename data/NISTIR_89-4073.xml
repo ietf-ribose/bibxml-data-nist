@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.89-4073" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4073.pdf">
   <front>
     <title>Mechanical property enhancement in ceramic matrix composites</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4073"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4073"/>
-    <author surname="Freiman"/>
-    <author surname="Cranmer"/>
-    <author fullname="Jr Fuller" initials="J." surname="Fuller"/>
-    <author surname="Haller"/>
-    <author surname="Koczak"/>
-    <author surname="Barsoum"/>
-    <author surname="Palamides"/>
-    <author surname="Deshmukh"/>
+    <author initials="SW" surname="Freiman">
+      <organization/>
+    </author>
+    <author initials="DC" surname="Cranmer">
+      <organization/>
+    </author>
+    <author fullname="Jr Fuller" initials="ER" surname="Fuller">
+      <organization/>
+    </author>
+    <author initials="W" surname="Haller">
+      <organization/>
+    </author>
+    <author initials="MJ" surname="Koczak">
+      <organization/>
+    </author>
+    <author initials="M" surname="Barsoum">
+      <organization/>
+    </author>
+    <author initials="T" surname="Palamides">
+      <organization/>
+    </author>
+    <author initials="UV" surname="Deshmukh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4073"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4073"/>
 </reference>

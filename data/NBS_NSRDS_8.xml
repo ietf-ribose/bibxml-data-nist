@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.8" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds8.pdf">
   <front>
     <title>Thermal conductivity of selected materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.8"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 8"/>
-    <author surname="Powell"/>
-    <author surname="Ho"/>
-    <author surname="Liley"/>
+    <author initials="RW" surname="Powell">
+      <organization/>
+    </author>
+    <author initials="CY" surname="Ho">
+      <organization/>
+    </author>
+    <author initials="PE" surname="Liley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.8"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 8"/>
 </reference>

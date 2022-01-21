@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.88-3892" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3892.pdf">
   <front>
     <title>In SITU fluorescence monitoring of the viscosities of particle-filled polymers in flow</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3892"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3892"/>
-    <author surname="Bur"/>
-    <author surname="Wang"/>
-    <author surname="Lee"/>
-    <author surname="Lowry"/>
-    <author surname="Roth"/>
-    <author surname="Trout"/>
+    <author initials="AJ" surname="Bur">
+      <organization/>
+    </author>
+    <author initials="FW" surname="Wang">
+      <organization/>
+    </author>
+    <author initials="A" surname="Lee">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Lowry">
+      <organization/>
+    </author>
+    <author initials="SC" surname="Roth">
+      <organization/>
+    </author>
+    <author initials="TK" surname="Trout">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3892"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3892"/>
 </reference>

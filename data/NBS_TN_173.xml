@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.173" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote173.pdf">
   <front>
     <title>Tables to facilitate the determination of the ferrimagnetic resonance linewidth of nonmetallic magnetic materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.173"/>
-    <seriesInfo name="NIST" value="NBS TN 173"/>
-    <author fullname="Constance Preston" initials="C." surname="Preston"/>
+    <author fullname="Constance Preston" initials="C" surname="Preston">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.173"/>
+  <seriesInfo name="NIST" value="NBS TN 173"/>
 </reference>

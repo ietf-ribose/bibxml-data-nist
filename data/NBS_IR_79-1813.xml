@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1813" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1813.pdf">
   <front>
     <title>Container board :report no. 119</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1813"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1813"/>
-    <author surname="Cummings"/>
-    <author surname="Horlick"/>
+    <author initials="TL" surname="Cummings">
+      <organization/>
+    </author>
+    <author initials="J" surname="Horlick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1813"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1813"/>
 </reference>

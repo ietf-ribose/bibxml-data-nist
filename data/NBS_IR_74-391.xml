@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.74-391" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-391.pdf">
   <front>
     <title>Electromagnetic noise in Lucky Friday Mine</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-391"/>
-    <seriesInfo name="NIST" value="NBS IR 74-391"/>
-    <author surname="Scott"/>
-    <author surname="Adams"/>
-    <author surname="Bensema"/>
-    <author surname="Dobroski"/>
+    <author initials="WW" surname="Scott">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Adams">
+      <organization/>
+    </author>
+    <author initials="WD" surname="Bensema">
+      <organization/>
+    </author>
+    <author initials="H" surname="Dobroski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-391"/>
+  <seriesInfo name="NIST" value="NBS IR 74-391"/>
 </reference>

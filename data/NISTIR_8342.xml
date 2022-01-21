@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.8342" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8342.pdf">
   <front>
     <title>A Comparison of Measurement Methods for Alcohol-Based Hand Sanitizers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8342"/>
-    <seriesInfo name="NIST" value="NIST IR 8342"/>
     <author fullname="Mary Bedner" initials="M." surname="Bedner">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Jacolin Murray" initials="J." surname="Murray">
+    <author fullname="Jacolin Murray" initials="A" surname="Murray">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Aaron Urbas" initials="A." surname="Urbas">
+    <author fullname="Aaron Urbas" initials="A" surname="Urbas">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="William MacCrehan" initials="W." surname="MacCrehan">
+    <author fullname="William MacCrehan" initials="A" surname="MacCrehan">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Walter Wilson" initials="W." surname="Wilson">
+    <author fullname="Walter Wilson" initials="B" surname="Wilson">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="February" day="26"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8342"/>
+  <seriesInfo name="NIST" value="NIST IR 8342"/>
 </reference>

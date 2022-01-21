@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.76-847" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-847.pdf">
   <front>
     <title>Electrocaloric refrigeration for superconductors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-847"/>
-    <seriesInfo name="NIST" value="NBS IR 76-847"/>
-    <author fullname="Ray Radebaugh" initials="R." surname="Radebaugh"/>
-    <author surname="Siegwarth"/>
-    <author surname="Lawless"/>
-    <author surname="Morrow"/>
+    <author fullname="Ray Radebaugh" initials="R." surname="Radebaugh">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Siegwarth">
+      <organization/>
+    </author>
+    <author initials="WN" surname="Lawless">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="Morrow">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-847"/>
+  <seriesInfo name="NIST" value="NBS IR 76-847"/>
 </reference>

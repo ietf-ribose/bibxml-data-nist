@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.105" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph105.pdf">
   <front>
     <title>Acid-base behavior in aprotic organic solvents</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.105"/>
-    <seriesInfo name="NIST" value="NBS MONO 105"/>
-    <author fullname="MarionMaclean Davis" initials="M.M." surname="Davis"/>
+    <author fullname="MarionMaclean Davis" initials="M.M." surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.105"/>
+  <seriesInfo name="NIST" value="NBS MONO 105"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.283" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote283.pdf">
   <front>
     <title>Nuclear and radiation standards of importance to the national atomic energy program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.283"/>
-    <seriesInfo name="NIST" value="NBS TN 283"/>
-    <author fullname="HermanWilliam Koch" initials="H.W." surname="Koch"/>
+    <author fullname="HermanWilliam Koch" initials="H.W." surname="Koch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.283"/>
+  <seriesInfo name="NIST" value="NBS TN 283"/>
 </reference>

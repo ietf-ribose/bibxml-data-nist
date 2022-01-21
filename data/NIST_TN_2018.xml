@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2018" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2018.pdf">
   <front>
     <title>Iris cameras: standards relevant for camera selection</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2018"/>
-    <seriesInfo name="NIST" value="NIST TN 2018"/>
-    <author fullname="James Matey" initials="J." surname="Matey">
+    <author fullname="James Matey" initials="R" surname="Matey">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Patrick Grother" initials="P." surname="Grother">
@@ -30,4 +28,6 @@
     </author>
     <date year="2018" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2018"/>
+  <seriesInfo name="NIST" value="NIST TN 2018"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1842" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1842.pdf">
   <front>
     <title>Structural Design for Fire: A Survey of Building Codes and Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1842"/>
-    <seriesInfo name="NIST" value="NIST TN 1842"/>
     <author fullname="Dat Duthinh" initials="D." surname="Duthinh">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1842"/>
+  <seriesInfo name="NIST" value="NIST TN 1842"/>
 </reference>

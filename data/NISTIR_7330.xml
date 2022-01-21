@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7330" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7330.pdf">
   <front>
     <title>A collection of homes to represent the U.S. housing stock</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7330"/>
-    <seriesInfo name="NIST" value="NIST IR 7330"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Amy Musser" initials="A." surname="Musser"/>
-    <author fullname="Dennis Leber" initials="D." surname="Leber"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Amy Musser" initials="A." surname="Musser">
+      <organization/>
+    </author>
+    <author fullname="Dennis Leber" initials="D." surname="Leber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7330"/>
+  <seriesInfo name="NIST" value="NIST IR 7330"/>
 </reference>

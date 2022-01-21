@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-89" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-89.pdf">
   <front>
     <title>NIST measurement services :spectral irradiance calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-89"/>
-    <seriesInfo name="NIST" value="NIST SP 250-89"/>
-    <author fullname="Howard Yoon" initials="H." surname="Yoon"/>
-    <author fullname="Charles Gibson" initials="C." surname="Gibson"/>
+    <author fullname="Howard Yoon" initials="W" surname="Yoon">
+      <organization/>
+    </author>
+    <author fullname="Charles Gibson" initials="E" surname="Gibson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-89"/>
+  <seriesInfo name="NIST" value="NIST SP 250-89"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-891" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-891.pdf">
   <front>
     <title>Guidelines for specification and procurement of measurement instrumentation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-891"/>
-    <seriesInfo name="NIST" value="NBS IR 78-891"/>
-    <author fullname="Jeannette King" initials="J." surname="King"/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
-    <author fullname="Raymond Sangster" initials="R." surname="Sangster"/>
+    <author fullname="Jeannette King" initials="J." surname="King">
+      <organization/>
+    </author>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
+    <author fullname="Raymond Sangster" initials="C" surname="Sangster">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-891"/>
+  <seriesInfo name="NIST" value="NBS IR 78-891"/>
 </reference>

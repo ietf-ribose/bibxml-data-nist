@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-23" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-23.pdf">
   <front>
     <title>Guidelines to federal organizations on security assurance and acquisitionuse of testedevaluated products</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-23"/>
-    <seriesInfo name="NIST" value="NIST SP 800-23"/>
-    <author fullname="Edward Roback" initials="E." surname="Roback">
+    <author fullname="Edward Roback" initials="A" surname="Roback">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-23"/>
+  <seriesInfo name="NIST" value="NIST SP 800-23"/>
 </reference>

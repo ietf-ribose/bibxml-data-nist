@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1038" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1038.pdf">
   <front>
     <title>NBS interagency transducer project :Progress report no. 3</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1038"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1038"/>
-    <author surname="Lederer"/>
-    <author surname="Hilten"/>
+    <author initials="PS" surname="Lederer">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Hilten">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1038"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1038"/>
 </reference>

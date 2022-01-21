@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.6742" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6742.pdf">
   <front>
     <title>Proceedings of the workshop on measurement traceability for clinical laboratory testing and in vitro diagnostic test systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6742"/>
-    <seriesInfo name="NIST" value="NIST IR 6742"/>
-    <author fullname="Ellyn Beary" initials="E." surname="Beary">
+    <author fullname="Ellyn Beary" initials="S" surname="Beary">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2001" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6742"/>
+  <seriesInfo name="NIST" value="NIST IR 6742"/>
 </reference>

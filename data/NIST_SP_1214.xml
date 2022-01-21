@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.1214" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1214.pdf">
   <front>
     <title>The Economic Decision Guide Software (EDGeS) Tool: User Guidance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1214"/>
-    <seriesInfo name="NIST" value="NIST SP 1214"/>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson"/>
+    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1214"/>
+  <seriesInfo name="NIST" value="NIST SP 1214"/>
 </reference>

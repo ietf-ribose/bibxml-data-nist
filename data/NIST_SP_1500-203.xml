@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1500-203" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-203.pdf">
   <front>
     <title>Framework for cyber-physical systems: volume 3, timing annex</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-203"/>
-    <seriesInfo name="NIST" value="NIST SP 1500-203"/>
-    <author fullname="David Wollman" initials="D." surname="Wollman">
+    <author fullname="David Wollman" initials="A" surname="Wollman">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Marc Weiss" initials="M." surname="Weiss">
+    <author fullname="Marc Weiss" initials="A" surname="Weiss">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Ya-Shian Li-Baboud" initials="Y." surname="Li-Baboud">
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-203"/>
+  <seriesInfo name="NIST" value="NIST SP 1500-203"/>
 </reference>

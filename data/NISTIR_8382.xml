@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8382" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8382.pdf">
   <front>
     <title>NFIQ 2 NIST Fingerprint Image Quality</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8382"/>
-    <seriesInfo name="NIST" value="NIST IR 8382"/>
     <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -41,4 +39,6 @@
     </author>
     <date year="2021" month="July" day="13"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8382"/>
+  <seriesInfo name="NIST" value="NIST IR 8382"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3857" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3857.pdf">
   <front>
     <title>On the performance evaluation and analytic modeling of shared-memory computers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3857"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3857"/>
-    <author fullname="James Nechvatal" initials="J." surname="Nechvatal"/>
+    <author fullname="James Nechvatal" initials="J." surname="Nechvatal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3857"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3857"/>
 </reference>

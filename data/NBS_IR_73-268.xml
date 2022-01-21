@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-268" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-268.pdf">
   <front>
     <title>Laser damage in materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-268"/>
-    <seriesInfo name="NIST" value="NBS IR 73-268"/>
-    <author fullname="Albert Feldman" initials="A." surname="Feldman"/>
-    <author fullname="Deane Horowitz" initials="D." surname="Horowitz"/>
-    <author fullname="Roy Waxler" initials="R." surname="Waxler"/>
+    <author fullname="Albert Feldman" initials="A." surname="Feldman">
+      <organization/>
+    </author>
+    <author fullname="Deane Horowitz" initials="D." surname="Horowitz">
+      <organization/>
+    </author>
+    <author fullname="Roy Waxler" initials="M" surname="Waxler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-268"/>
+  <seriesInfo name="NIST" value="NBS IR 73-268"/>
 </reference>

@@ -1,16 +1,30 @@
 <reference anchor="NIST.TN.1455-1r2007" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1455-1r2007.pdf">
   <front>
     <title>Performance of home smoke alarms analysis of the response of several available technologies in residential fire settings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1455-1r2007"/>
-    <seriesInfo name="NIST" value="NIST TN 1455-1r2007"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Jason Averill" initials="J." surname="Averill"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Jason Averill" initials="D" surname="Averill">
+      <organization/>
+    </author>
+    <author fullname="Thomas Cleary" initials="G" surname="Cleary">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
+      <organization/>
+    </author>
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1455-1r2007"/>
+  <seriesInfo name="NIST" value="NIST TN 1455-1r2007"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5001" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5001.pdf">
   <front>
     <title>Shielded open-circuited sample holders for dielectric and magnetic measurements of liquids and powders</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5001"/>
-    <seriesInfo name="NIST" value="NIST IR 5001"/>
-    <author fullname="Robert Stafford" initials="R." surname="Stafford"/>
+    <author fullname="Robert Stafford" initials="B" surname="Stafford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5001"/>
+  <seriesInfo name="NIST" value="NIST IR 5001"/>
 </reference>

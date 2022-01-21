@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2776.pdf">
   <front>
     <title>Determination of the viscoelastic shear modulus using forced torsional vibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2776"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2776"/>
-    <author fullname="Edward Magrab" initials="E." surname="Magrab"/>
+    <author fullname="Edward Magrab" initials="B" surname="Magrab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2776"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2776"/>
 </reference>

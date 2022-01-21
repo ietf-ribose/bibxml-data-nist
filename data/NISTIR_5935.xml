@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5935" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5935.pdf">
   <front>
     <title>The matrix market exchange formats:initial design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5935"/>
-    <seriesInfo name="NIST" value="NIST IR 5935"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert"/>
-    <author fullname="Roldan Pozo" initials="R." surname="Pozo"/>
-    <author fullname="Karin Remington" initials="K." surname="Remington"/>
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
+      <organization/>
+    </author>
+    <author fullname="Roldan Pozo" initials="R." surname="Pozo">
+      <organization/>
+    </author>
+    <author fullname="Karin Remington" initials="A" surname="Remington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5935"/>
+  <seriesInfo name="NIST" value="NIST IR 5935"/>
 </reference>

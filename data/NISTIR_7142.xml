@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7142.pdf">
   <front>
     <title>Triangular meshing and volume determination</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7142"/>
-    <seriesInfo name="NIST" value="NIST IR 7142"/>
-    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
+    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall">
+      <organization/>
+    </author>
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7142"/>
+  <seriesInfo name="NIST" value="NIST IR 7142"/>
 </reference>

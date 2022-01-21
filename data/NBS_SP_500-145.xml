@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-145.pdf">
   <front>
     <title>Programming languages for knowledge-based systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-145"/>
-    <seriesInfo name="NIST" value="NBS SP 500-145"/>
-    <author fullname="John Cuginia" initials="J." surname="Cuginia"/>
+    <author fullname="John Cuginia" initials="V" surname="Cuginia">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-145"/>
+  <seriesInfo name="NIST" value="NBS SP 500-145"/>
 </reference>

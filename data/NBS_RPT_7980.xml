@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.7980" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7980.pdf">
   <front>
     <title>Quarterly report for July 30, 1963 to September 30, 1963 on elastomeric seals and materials at cryogenic temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7980"/>
-    <seriesInfo name="NIST" value="NBS RPT 7980"/>
-    <author surname="Ludtke"/>
-    <author surname="Weitzel"/>
-    <author surname="Robbins"/>
+    <author initials="PR" surname="Ludtke">
+      <organization/>
+    </author>
+    <author initials="DH" surname="Weitzel">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Robbins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7980"/>
+  <seriesInfo name="NIST" value="NBS RPT 7980"/>
 </reference>

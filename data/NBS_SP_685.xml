@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.685" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication685.pdf">
   <front>
     <title>Compiled thermodynamic data sources for aqueous and biochemical systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.685"/>
-    <seriesInfo name="NIST" value="NBS SP 685"/>
-    <author fullname="Robert Goldberg" initials="R." surname="Goldberg"/>
-    <author fullname="GeorgeThomson Armstrong" initials="G.T." surname="Armstrong"/>
+    <author fullname="Robert Goldberg" initials="N" surname="Goldberg">
+      <organization/>
+    </author>
+    <author fullname="GeorgeThomson Armstrong" initials="G.T." surname="Armstrong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.685"/>
+  <seriesInfo name="NIST" value="NBS SP 685"/>
 </reference>

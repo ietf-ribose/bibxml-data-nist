@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6545" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6545.pdf">
   <front>
     <title>Analysis of CCRL proficiency cements 135 and 136 using CEMHYD3D</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6545"/>
-    <seriesInfo name="NIST" value="NIST IR 6545"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
-    <author fullname="Xiuping Feng" initials="X." surname="Feng"/>
-    <author fullname="Claus-Jochen Haecker" initials="C." surname="Haecker"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
+    <author fullname="Xiuping Feng" initials="X." surname="Feng">
+      <organization/>
+    </author>
+    <author fullname="Claus-Jochen Haecker" initials="C." surname="Haecker">
+      <organization/>
+    </author>
+    <author fullname="Paul Stutzman" initials="E" surname="Stutzman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6545"/>
+  <seriesInfo name="NIST" value="NIST IR 6545"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4958" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4958.pdf">
   <front>
     <title>Quality control tests for adhesion of paint on the panels of tactical rigid wall shelters, phase II</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4958"/>
-    <seriesInfo name="NIST" value="NIST IR 4958"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4958"/>
+  <seriesInfo name="NIST" value="NIST IR 4958"/>
 </reference>

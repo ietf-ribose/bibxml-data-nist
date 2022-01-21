@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1792" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1792.pdf">
   <front>
     <title>International activities :the fiscal year 1978 survey of international programs at NEL</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1792"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1792"/>
-    <author fullname="Samuel Kramer" initials="S." surname="Kramer"/>
-    <author fullname="Michael Olmert" initials="M." surname="Olmert"/>
+    <author fullname="Samuel Kramer" initials="S." surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Michael Olmert" initials="M." surname="Olmert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1792"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1792"/>
 </reference>

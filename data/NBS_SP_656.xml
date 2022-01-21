@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.656" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication656.pdf">
   <front>
     <title>The pilot national environmental specimen bank</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.656"/>
-    <seriesInfo name="NIST" value="NBS SP 656"/>
-    <author fullname="Rolf Zeisler" initials="R." surname="Zeisler"/>
-    <author fullname="Sally Harrison" initials="S." surname="Harrison"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Rolf Zeisler" initials="R." surname="Zeisler">
+      <organization/>
+    </author>
+    <author fullname="Sally Harrison" initials="H" surname="Harrison">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.656"/>
+  <seriesInfo name="NIST" value="NBS SP 656"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6132" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6132.pdf">
   <front>
     <title>Fire safety of passenger trains, phase I:material evaluation (cone calorimeter)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6132"/>
-    <seriesInfo name="NIST" value="NIST IR 6132"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6132"/>
+  <seriesInfo name="NIST" value="NIST IR 6132"/>
 </reference>

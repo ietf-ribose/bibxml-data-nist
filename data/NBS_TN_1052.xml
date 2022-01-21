@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1052" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1052.pdf">
   <front>
     <title>An accuracy statement for a facility used to calibrate static pressure transducers and differential pressure transducers at high base pressure</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1052"/>
-    <seriesInfo name="NIST" value="NBS TN 1052"/>
-    <author fullname="Charles Sindt" initials="C." surname="Sindt"/>
+    <author fullname="Charles Sindt" initials="F" surname="Sindt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1052"/>
+  <seriesInfo name="NIST" value="NBS TN 1052"/>
 </reference>

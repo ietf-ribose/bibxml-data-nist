@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.6659" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6659.pdf">
   <front>
     <title>Thermodynamic, transport, and chemical properties of reference JP-8</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6659"/>
-    <seriesInfo name="NIST" value="NIST IR 6659"/>
-    <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
-    <author fullname="Arno Laesecke" initials="A." surname="Laesecke"/>
-    <author fullname="Eric Lemmon" initials="E." surname="Lemmon"/>
-    <author fullname="Mark McLinden" initials="M." surname="McLinden"/>
-    <author fullname="Stephanie Outcalt" initials="S." surname="Outcalt"/>
-    <author fullname="Richard Perkins" initials="R." surname="Perkins"/>
-    <author fullname="Beverly Smith" initials="B." surname="Smith"/>
-    <author fullname="Jason Widegren" initials="J." surname="Widegren"/>
+    <author fullname="Thomas Bruno" initials="J" surname="Bruno">
+      <organization/>
+    </author>
+    <author fullname="Marcia Huber" initials="M." surname="Huber">
+      <organization/>
+    </author>
+    <author fullname="Arno Laesecke" initials="A." surname="Laesecke">
+      <organization/>
+    </author>
+    <author fullname="Eric Lemmon" initials="E." surname="Lemmon">
+      <organization/>
+    </author>
+    <author fullname="Mark McLinden" initials="M." surname="McLinden">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Outcalt" initials="L" surname="Outcalt">
+      <organization/>
+    </author>
+    <author fullname="Richard Perkins" initials="R." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="Beverly Smith" initials="L" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Jason Widegren" initials="A" surname="Widegren">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6659"/>
+  <seriesInfo name="NIST" value="NIST IR 6659"/>
 </reference>

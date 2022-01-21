@@ -1,8 +1,6 @@
 <reference anchor="NIST.CSWP.06032014" target="http://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.06032014.pdf">
   <front>
     <title>Supplemental Guidance on Ongoing Authorization: Transitioning to Near Real-Time Risk Management</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.CSWP.06032014"/>
-    <seriesInfo name="NIST" value="NIST CSWP 06032014"/>
     <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2014" month="June" day="3"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.06032014"/>
+  <seriesInfo name="NIST" value="NIST CSWP 06032014"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.AMS.100-10" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-10.pdf">
   <front>
     <title>Guide to the NIST PMI CAD models and CAD system PMI modeling capability verification testing results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-10"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-10"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="James Filliben" initials="J." surname="Filliben">
+    <author fullname="James Filliben" initials="J" surname="Filliben">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="October" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-10"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-10"/>
 </reference>

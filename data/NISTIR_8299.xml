@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8299" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8299.pdf">
   <front>
     <title>Strategic roadmap for interoperable public safety video analytics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8299"/>
-    <seriesInfo name="NIST" value="NIST IR 8299"/>
     <author fullname="Diane Simpson" initials="D." surname="Simpson">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8299"/>
+  <seriesInfo name="NIST" value="NIST IR 8299"/>
 </reference>

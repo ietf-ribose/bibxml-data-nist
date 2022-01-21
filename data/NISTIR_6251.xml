@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6251" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6251.pdf">
   <front>
     <title>NIST Center for Neutron Research, 1998 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6251"/>
-    <seriesInfo name="NIST" value="NIST IR 6251"/>
-    <author fullname="Michael Rowel" initials="M." surname="Rowel"/>
-    <author fullname="Tawfik Raby" initials="T." surname="Raby"/>
+    <author fullname="Michael Rowel" initials="J" surname="Rowel">
+      <organization/>
+    </author>
+    <author fullname="Tawfik Raby" initials="M" surname="Raby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6251"/>
+  <seriesInfo name="NIST" value="NIST IR 6251"/>
 </reference>

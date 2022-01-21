@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3811" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3811.pdf">
   <front>
     <title>Recommended technical specifications for procurement of equipment for a Turning Workstation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3811"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3811"/>
-    <author fullname="Kang Lee" initials="K." surname="Lee"/>
+    <author fullname="Kang Lee" initials="K." surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3811"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3811"/>
 </reference>

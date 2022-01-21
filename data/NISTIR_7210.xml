@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7210" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7210.pdf">
   <front>
     <title>Conformance testing of the government smart card</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7210"/>
-    <seriesInfo name="NIST" value="NIST IR 7210"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7210"/>
+  <seriesInfo name="NIST" value="NIST IR 7210"/>
 </reference>

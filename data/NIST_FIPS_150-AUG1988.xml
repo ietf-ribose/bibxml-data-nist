@@ -1,8 +1,6 @@
 <reference anchor="NIST.FIPS.150-Aug1988" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub150-Aug1988.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: facsimile coding schemes and coding control functions for group 4 facsimile equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.FIPS.150-Aug1988"/>
-    <seriesInfo name="NIST" value="NIST FIPS 150-Aug1988"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.FIPS.150-Aug1988"/>
+  <seriesInfo name="NIST" value="NIST FIPS 150-Aug1988"/>
 </reference>

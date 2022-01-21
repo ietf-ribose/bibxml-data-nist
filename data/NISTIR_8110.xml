@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8110" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8110.pdf">
   <front>
     <title>The New Frontiers in Computational Modeling of Material Structures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8110"/>
-    <seriesInfo name="NIST" value="NIST IR 8110"/>
     <author fullname="William Regli" initials="W." surname="Regli">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8110"/>
+  <seriesInfo name="NIST" value="NIST IR 8110"/>
 </reference>

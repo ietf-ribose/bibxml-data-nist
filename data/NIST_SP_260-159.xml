@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.260-159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-159.pdf">
   <front>
     <title>Relative permittivity and loss tangent measurement using the NIST 60 mm cylindrical cavity</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-159"/>
-    <seriesInfo name="NIST" value="NIST SP 260-159"/>
-    <author fullname="John Grosvenor" initials="J." surname="Grosvenor"/>
-    <author fullname="Raian Kaiser" initials="R." surname="Kaiser"/>
-    <author fullname="Jolene Splett" initials="J." surname="Splett"/>
-    <author fullname="Michael Janezic" initials="M." surname="Janezic"/>
+    <author fullname="John Grosvenor" initials="H" surname="Grosvenor">
+      <organization/>
+    </author>
+    <author fullname="Raian Kaiser" initials="F" surname="Kaiser">
+      <organization/>
+    </author>
+    <author fullname="Jolene Splett" initials="D" surname="Splett">
+      <organization/>
+    </author>
+    <author fullname="Michael Janezic" initials="D" surname="Janezic">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-159"/>
+  <seriesInfo name="NIST" value="NIST SP 260-159"/>
 </reference>

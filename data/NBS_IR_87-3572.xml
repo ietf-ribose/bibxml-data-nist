@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3572" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3572.pdf">
   <front>
     <title>Diffusion-controlled reaction in a vortex field</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3572"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3572"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="Daniel Lozier" initials="D." surname="Lozier"/>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="Daniel Lozier" initials="W" surname="Lozier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3572"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3572"/>
 </reference>

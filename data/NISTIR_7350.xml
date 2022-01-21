@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7350" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7350.pdf">
   <front>
     <title>Performance of a residential heat pump operating in the cooling mode with single faults imposed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7350"/>
-    <seriesInfo name="NIST" value="NIST IR 7350"/>
-    <author fullname="Minsung Kim" initials="M." surname="Kim"/>
-    <author fullname="Vance Payne" initials="V." surname="Payne"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
-    <author fullname="Christian Hermes" initials="C." surname="Hermes"/>
+    <author fullname="Minsung Kim" initials="M." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="Vance Payne" initials="W" surname="Payne">
+      <organization/>
+    </author>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
+    <author fullname="Christian Hermes" initials="JL" surname="Hermes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7350"/>
+  <seriesInfo name="NIST" value="NIST IR 7350"/>
 </reference>

@@ -1,15 +1,27 @@
 <reference anchor="NBS.MONO.148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph148.pdf">
   <front>
     <title>The Role of standard reference materials in measurement systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.148"/>
-    <seriesInfo name="NIST" value="NBS MONO 148"/>
-    <author surname="Cali"/>
-    <author surname="Mears"/>
-    <author surname="Michaelis"/>
-    <author surname="Reed"/>
-    <author surname="Seward"/>
-    <author surname="Stanley"/>
-    <author surname="Yolken"/>
+    <author initials="JP" surname="Cali">
+      <organization/>
+    </author>
+    <author initials="TW" surname="Mears">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Michaelis">
+      <organization/>
+    </author>
+    <author initials="WP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Seward">
+      <organization/>
+    </author>
+    <author initials="CL" surname="Stanley">
+      <organization/>
+    </author>
+    <author initials="HT" surname="Yolken">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.148"/>
+  <seriesInfo name="NIST" value="NBS MONO 148"/>
 </reference>

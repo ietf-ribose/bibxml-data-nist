@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.369" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular369.pdf">
   <front>
     <title>Letter Circular 369:survey of city planning and related laws in 1932</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.369"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 369"/>
-    <author fullname="Lester Chase" initials="L." surname="Chase"/>
+    <author fullname="Lester Chase" initials="G" surname="Chase">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.369"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 369"/>
 </reference>

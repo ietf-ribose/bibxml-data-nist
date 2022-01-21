@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.77-1236" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1236.pdf">
   <front>
     <title>The Measurement of fabric flammability parameters in experiments simulating human movement in burn accidents</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1236"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1236"/>
-    <author surname="Zawistowski"/>
-    <author surname="Krasny"/>
-    <author surname="Braun"/>
-    <author surname="Peacock"/>
-    <author surname="Williams"/>
+    <author initials="EA" surname="Zawistowski">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Krasny">
+      <organization/>
+    </author>
+    <author initials="E" surname="Braun">
+      <organization/>
+    </author>
+    <author initials="R" surname="Peacock">
+      <organization/>
+    </author>
+    <author initials="N" surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1236"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1236"/>
 </reference>

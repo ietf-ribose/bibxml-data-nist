@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-805" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-805.pdf">
   <front>
     <title>Calibration techniques for electromagnetic hazard meters :500 MHz to 20 GHz</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-805"/>
-    <seriesInfo name="NIST" value="NBS IR 75-805"/>
-    <author fullname="Ronald Bowman" initials="R." surname="Bowman"/>
+    <author fullname="Ronald Bowman" initials="R" surname="Bowman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-805"/>
+  <seriesInfo name="NIST" value="NBS IR 75-805"/>
 </reference>

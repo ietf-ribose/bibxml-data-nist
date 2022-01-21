@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-523" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-523.pdf">
   <front>
     <title>Preparations for gage block comparison measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-523"/>
-    <seriesInfo name="NIST" value="NBS IR 74-523"/>
-    <author surname="Tucker"/>
+    <author initials="CD" surname="Tucker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-523"/>
+  <seriesInfo name="NIST" value="NBS IR 74-523"/>
 </reference>

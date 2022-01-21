@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.76-1152" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1152.pdf">
   <front>
     <title>Report to AID on an NBSAID workshop on standardization and measurement services</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1152"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1152"/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
-    <author fullname="Joan Cornish" initials="J." surname="Cornish"/>
-    <author fullname="Charles Raley" initials="C." surname="Raley"/>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
+    <author fullname="Joan Cornish" initials="J." surname="Cornish">
+      <organization/>
+    </author>
+    <author fullname="Charles Raley" initials="C" surname="Raley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1152"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1152"/>
 </reference>

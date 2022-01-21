@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3532" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3532.pdf">
   <front>
     <title>Model for the nuclear effects of the dt[mu] fusing state</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3532"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3532"/>
-    <author fullname="Michael Danos" initials="M." surname="Danos"/>
-    <author surname="Biedenharn"/>
-    <author fullname="Alfons Stahihofen" initials="A." surname="Stahihofen"/>
+    <author fullname="Michael Danos" initials="M." surname="Danos">
+      <organization/>
+    </author>
+    <author initials="LC" surname="Biedenharn">
+      <organization/>
+    </author>
+    <author fullname="Alfons Stahihofen" initials="A" surname="Stahihofen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3532"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3532"/>
 </reference>

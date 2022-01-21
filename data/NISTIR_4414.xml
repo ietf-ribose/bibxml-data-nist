@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4414" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4414.pdf">
   <front>
     <title>Semiconductor technology for the non-technologist, second edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4414"/>
-    <seriesInfo name="NIST" value="NIST IR 4414"/>
-    <author fullname="Robert Scace" initials="R." surname="Scace"/>
+    <author fullname="Robert Scace" initials="I" surname="Scace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4414"/>
+  <seriesInfo name="NIST" value="NIST IR 4414"/>
 </reference>

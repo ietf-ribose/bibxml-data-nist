@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.5989" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5989.pdf">
   <front>
     <title>Findings and recommendations for a software development process</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5989"/>
-    <seriesInfo name="NIST" value="NIST IR 5989"/>
-    <author fullname="Elena Messina" initials="E." surname="Messina"/>
-    <author fullname="David Coombs" initials="D." surname="Coombs"/>
-    <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
-    <author fullname="Frederick Proctor" initials="F." surname="Proctor"/>
-    <author fullname="William Shackleford" initials="W." surname="Shackleford"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="Tsung-Ming Tsai" initials="T." surname="Tsai"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
+    <author fullname="Elena Messina" initials="E." surname="Messina">
+      <organization/>
+    </author>
+    <author fullname="David Coombs" initials="D." surname="Coombs">
+      <organization/>
+    </author>
+    <author fullname="John Michaloski" initials="J." surname="Michaloski">
+      <organization/>
+    </author>
+    <author fullname="Frederick Proctor" initials="F." surname="Proctor">
+      <organization/>
+    </author>
+    <author fullname="William Shackleford" initials="W." surname="Shackleford">
+      <organization/>
+    </author>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization/>
+    </author>
+    <author fullname="Tsung-Ming Tsai" initials="T." surname="Tsai">
+      <organization/>
+    </author>
+    <author fullname="Thomas Kramer" initials="R" surname="Kramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5989"/>
+  <seriesInfo name="NIST" value="NIST IR 5989"/>
 </reference>

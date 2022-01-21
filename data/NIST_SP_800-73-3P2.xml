@@ -1,27 +1,25 @@
 <reference anchor="NIST.SP.800-73-3p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-73-3p2.pdf">
   <front>
     <title>Interfaces for personal identity verification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-3p2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-73-3p2"/>
-    <author surname="Chandramouli">
+    <author initials="R" surname="Chandramouli">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Cooper">
+    <author initials="DA" surname="Cooper">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Dray">
+    <author initials="JF" surname="Dray">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Ferraiolo">
+    <author initials="H" surname="Ferraiolo">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Guthery">
+    <author initials="SB" surname="Guthery">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="MacGregor">
+    <author initials="WI" surname="MacGregor">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Mehta">
+    <author initials="K" surname="Mehta">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-3p2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-73-3p2"/>
 </reference>

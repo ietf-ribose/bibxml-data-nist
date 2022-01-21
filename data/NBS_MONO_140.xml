@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.140" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph140.pdf">
   <front>
     <title>Time and frequency :theory and fundamentals</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.140"/>
-    <seriesInfo name="NIST" value="NBS MONO 140"/>
-    <author fullname="Byron Blair" initials="B." surname="Blair"/>
+    <author fullname="Byron Blair" initials="E" surname="Blair">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.140"/>
+  <seriesInfo name="NIST" value="NBS MONO 140"/>
 </reference>

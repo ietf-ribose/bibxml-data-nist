@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4993" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4993.pdf">
   <front>
     <title>Workshop on elevator use during fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4993"/>
-    <seriesInfo name="NIST" value="NIST IR 4993"/>
-    <author fullname="Bernard Levin" initials="B." surname="Levin"/>
-    <author fullname="Norman Groner" initials="N." surname="Groner"/>
-    <author fullname="Edward Donoghue" initials="E." surname="Donoghue"/>
+    <author fullname="Bernard Levin" initials="M" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Norman Groner" initials="E" surname="Groner">
+      <organization/>
+    </author>
+    <author fullname="Edward Donoghue" initials="A" surname="Donoghue">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4993"/>
+  <seriesInfo name="NIST" value="NIST IR 4993"/>
 </reference>

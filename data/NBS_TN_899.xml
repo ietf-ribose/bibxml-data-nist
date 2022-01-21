@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.899" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote899.pdf">
   <front>
     <title>Development of proposed standards for testing solar collectors and thermal storage devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.899"/>
-    <seriesInfo name="NIST" value="NBS TN 899"/>
-    <author fullname="JamesEdward Hill" initials="J.E." surname="Hill"/>
+    <author fullname="JamesEdward Hill" initials="J.E." surname="Hill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.899"/>
+  <seriesInfo name="NIST" value="NBS TN 899"/>
 </reference>

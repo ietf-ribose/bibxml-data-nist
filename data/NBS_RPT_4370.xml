@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.4370" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4370.pdf">
   <front>
     <title>Spectrophotometric and colorimetric study of foliage stored in covered metal containers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4370"/>
-    <seriesInfo name="NIST" value="NBS RPT 4370"/>
-    <author fullname="Harry Keegan" initials="H." surname="Keegan"/>
-    <author fullname="John Schleter" initials="J." surname="Schleter"/>
-    <author fullname="Wiley Hall" initials="W." surname="Hall"/>
+    <author fullname="Harry Keegan" initials="J" surname="Keegan">
+      <organization/>
+    </author>
+    <author fullname="John Schleter" initials="C" surname="Schleter">
+      <organization/>
+    </author>
+    <author fullname="Wiley Hall" initials="A" surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4370"/>
+  <seriesInfo name="NIST" value="NBS RPT 4370"/>
 </reference>

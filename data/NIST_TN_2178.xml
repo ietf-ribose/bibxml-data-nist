@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2178" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2178.pdf">
   <front>
     <title>Baseline Control Systems in the Intelligent Building Agents Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2178"/>
-    <seriesInfo name="NIST" value="NIST TN 2178"/>
-    <author fullname="Amanda Pertzborn" initials="A." surname="Pertzborn">
+    <author fullname="Amanda Pertzborn" initials="J" surname="Pertzborn">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Daniel Veronica" initials="D." surname="Veronica">
+    <author fullname="Daniel Veronica" initials="A" surname="Veronica">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2022" month="September" day="22"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2178"/>
+  <seriesInfo name="NIST" value="NIST TN 2178"/>
 </reference>

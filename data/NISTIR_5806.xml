@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5806" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5806.pdf">
   <front>
     <title>A method of estimating the parameters of tuned mass dampers for seismic application</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5806"/>
-    <seriesInfo name="NIST" value="NIST IR 5806"/>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek"/>
-    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz"/>
-    <author fullname="Andrew Taylor" initials="A." surname="Taylor"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
+    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+      <organization/>
+    </author>
+    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz">
+      <organization/>
+    </author>
+    <author fullname="Andrew Taylor" initials="W" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5806"/>
+  <seriesInfo name="NIST" value="NIST IR 5806"/>
 </reference>

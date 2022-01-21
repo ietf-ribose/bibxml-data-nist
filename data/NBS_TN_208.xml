@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.208" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote208.pdf">
   <front>
     <title>Calculated diffraction effects at VLF from a localized ionospheric depression.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.208"/>
-    <seriesInfo name="NIST" value="NBS TN 208"/>
-    <author fullname="James Wait" initials="J." surname="Wait"/>
+    <author fullname="James Wait" initials="R" surname="Wait">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.208"/>
+  <seriesInfo name="NIST" value="NBS TN 208"/>
 </reference>

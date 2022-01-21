@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4833" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4833.pdf">
   <front>
     <title>A sprinkler fire suppression algorithm for the GSA engineering fire assessment system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4833"/>
-    <seriesInfo name="NIST" value="NIST IR 4833"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="Robert Vettori" initials="R." surname="Vettori"/>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="Robert Vettori" initials="L" surname="Vettori">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4833"/>
+  <seriesInfo name="NIST" value="NIST IR 4833"/>
 </reference>

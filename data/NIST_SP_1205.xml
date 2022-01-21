@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1205" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1205.pdf">
   <front>
     <title>Evaluating the Sustainability Performance of Alternative Residential Building Designs using the BIRDS Low-Energy Residential Database</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1205"/>
-    <seriesInfo name="NIST" value="NIST SP 1205"/>
-    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
+    <author fullname="Joshua Kneifel" initials="D" surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Eric O'Rear" initials="E." surname="O'Rear">
+    <author fullname="Eric O'Rear" initials="G" surname="O'Rear">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Webb" initials="D." surname="Webb">
+    <author fullname="David Webb" initials="H" surname="Webb">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1205"/>
+  <seriesInfo name="NIST" value="NIST SP 1205"/>
 </reference>

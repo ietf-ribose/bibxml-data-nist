@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7467" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7467.pdf">
   <front>
     <title>Full ensemble and bench scale testing of fire fighter protective clothing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7467"/>
-    <seriesInfo name="NIST" value="NIST IR 7467"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
-    <author fullname="Roy McLane" initials="R." surname="McLane"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
+    <author fullname="Roy McLane" initials="A" surname="McLane">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7467"/>
+  <seriesInfo name="NIST" value="NIST IR 7467"/>
 </reference>

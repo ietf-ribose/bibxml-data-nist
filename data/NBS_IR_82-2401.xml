@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2401" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2401.pdf">
   <front>
     <title>Heating values of natural gas and its components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2401"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2401"/>
-    <author fullname="George Armstrong" initials="G." surname="Armstrong"/>
-    <author fullname="Thomas Jobe" initials="T." surname="Jobe"/>
+    <author fullname="George Armstrong" initials="T" surname="Armstrong">
+      <organization/>
+    </author>
+    <author fullname="Thomas Jobe" initials="L" surname="Jobe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2401"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2401"/>
 </reference>

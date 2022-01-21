@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIS.6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CIS/nbscis6.pdf">
   <front>
     <title>Consumer Information Series 6: color in our daily lives</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIS.6"/>
-    <seriesInfo name="NIST" value="NBS CIS 6"/>
-    <author fullname="Deane Judd" initials="D." surname="Judd"/>
+    <author fullname="Deane Judd" initials="B" surname="Judd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIS.6"/>
+  <seriesInfo name="NIST" value="NBS CIS 6"/>
 </reference>

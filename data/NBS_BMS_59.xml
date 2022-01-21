@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.59" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures59.pdf">
   <front>
     <title>Properties of adhesives for floor coverings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.59"/>
-    <seriesInfo name="NIST" value="NBS BMS 59"/>
-    <author fullname="Percy Sigler" initials="P." surname="Sigler"/>
-    <author fullname="Robert Martens" initials="R." surname="Martens"/>
+    <author fullname="Percy Sigler" initials="A" surname="Sigler">
+      <organization/>
+    </author>
+    <author fullname="Robert Martens" initials="I" surname="Martens">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.59"/>
+  <seriesInfo name="NIST" value="NBS BMS 59"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.987" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication987.pdf">
   <front>
     <title>Wind and seismic effects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.987"/>
-    <seriesInfo name="NIST" value="NIST SP 987"/>
-    <author fullname="Stephen Cauffman" initials="S." surname="Cauffman"/>
-    <author fullname="Stephen Cauffman" initials="S." surname="Cauffman"/>
+    <author fullname="Stephen Cauffman" initials="A" surname="Cauffman">
+      <organization/>
+    </author>
+    <author fullname="Stephen Cauffman" initials="A" surname="Cauffman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.987"/>
+  <seriesInfo name="NIST" value="NIST SP 987"/>
 </reference>

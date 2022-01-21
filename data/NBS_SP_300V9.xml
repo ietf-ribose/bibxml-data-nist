@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.300v9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication300v9.pdf">
   <front>
     <title>Precision measurement and calibration :selected NBS papers on colorimetry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.300v9"/>
-    <seriesInfo name="NIST" value="NBS SP 300v9"/>
-    <author fullname="Isadore Nimeroff" initials="I." surname="Nimeroff"/>
+    <author fullname="Isadore Nimeroff" initials="I." surname="Nimeroff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.300v9"/>
+  <seriesInfo name="NIST" value="NBS SP 300v9"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.AMS.100-17" target="http://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-17.pdf">
   <front>
     <title>The influence of spreading metal powders with different particle size distributions on the powder bed density in laser-based powder bed fusion processes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-17"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-17"/>
     <author fullname="Gregor Jacob" initials="G." surname="Jacob">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Christopher Brown" initials="C." surname="Brown">
+    <author fullname="Christopher Brown" initials="U" surname="Brown">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Alkan Donmez" initials="A." surname="Donmez">
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-17"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-17"/>
 </reference>

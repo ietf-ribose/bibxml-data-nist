@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8241" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8241.pdf">
   <front>
     <title>Organizational views of NIST cryptographic standards and testing and validation programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8241"/>
-    <seriesInfo name="NIST" value="NIST IR 8241"/>
     <author fullname="Julie Haney" initials="J." surname="Haney">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8241"/>
+  <seriesInfo name="NIST" value="NIST IR 8241"/>
 </reference>

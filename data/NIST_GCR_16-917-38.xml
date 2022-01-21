@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.16-917-38" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-917-38.pdf">
   <front>
     <title>Seismic Design of Cold-Formed Steel Lateral Load-Resisting Systems: A Guide for Practicing Engineers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-38"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-917-38"/>
-    <author fullname="Robert Madsen" initials="R." surname="Madsen">
+    <author fullname="Robert Madsen" initials="L" surname="Madsen">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Thomas Castle" initials="T." surname="Castle">
+    <author fullname="Thomas Castle" initials="A" surname="Castle">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Benjamin Schafer" initials="B." surname="Schafer">
+    <author fullname="Benjamin Schafer" initials="W" surname="Schafer">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-38"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-917-38"/>
 </reference>

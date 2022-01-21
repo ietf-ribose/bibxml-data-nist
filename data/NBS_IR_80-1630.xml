@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-1630" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1630.pdf">
   <front>
     <title>Determination of mutual coupling between co-sited microwave antennas and calculation of near-zone electric field</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1630"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1630"/>
-    <author surname="Studenrauch"/>
-    <author surname="Yaghjian"/>
+    <author initials="CF" surname="Studenrauch">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Yaghjian">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1630"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1630"/>
 </reference>

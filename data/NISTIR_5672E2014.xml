@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5672e2014" target="https://nvlpubs.nist.gov/nistpubs/IR/2014/NIST.IR.5672e2014.pdf">
   <front>
     <title>Advanced mass calibration and measurement assurance program for state calibration laboratories (2014 ed)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5672e2014"/>
-    <seriesInfo name="NIST" value="NIST IR 5672e2014"/>
-    <author fullname="Ken Fraley" initials="K." surname="Fraley"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris"/>
+    <author fullname="Ken Fraley" initials="L" surname="Fraley">
+      <organization/>
+    </author>
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2014"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5672e2014"/>
+  <seriesInfo name="NIST" value="NIST IR 5672e2014"/>
 </reference>

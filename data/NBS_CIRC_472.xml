@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.472" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular472.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 472:table and Mollier chart for ammonia below -60 [degrees] F</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.472"/>
-    <seriesInfo name="NIST" value="NBS CIRC 472"/>
-    <author fullname="Cyril Meyers" initials="C." surname="Meyers"/>
+    <author fullname="Cyril Meyers" initials="H" surname="Meyers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.472"/>
+  <seriesInfo name="NIST" value="NBS CIRC 472"/>
 </reference>

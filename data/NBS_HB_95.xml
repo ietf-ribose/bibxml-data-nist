@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.95" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook95.pdf">
   <front>
     <title>United States standard for the colors of signal lights</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.95"/>
-    <seriesInfo name="NIST" value="NBS HB 95"/>
-    <author surname="Breckenridge"/>
+    <author initials="FC" surname="Breckenridge">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.95"/>
+  <seriesInfo name="NIST" value="NBS HB 95"/>
 </reference>

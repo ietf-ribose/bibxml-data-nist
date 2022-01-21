@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1100.pdf">
   <front>
     <title>Appraisal of federal government Cobol standards and software management :survey results</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1100"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1100"/>
-    <author fullname="Donald Deutsch" initials="D." surname="Deutsch"/>
+    <author fullname="Donald Deutsch" initials="R" surname="Deutsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1100"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1100"/>
 </reference>

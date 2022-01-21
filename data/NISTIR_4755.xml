@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4755" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4755.pdf">
   <front>
     <title>Issues and recommendations for a STEP application protocol framework</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4755"/>
-    <seriesInfo name="NIST" value="NIST IR 4755"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
-    <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
-    <author fullname="AllisonBarnard Feeney" initials="A.B." surname="Feeney"/>
+    <author fullname="Thomas Kramer" initials="R" surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Mark Palmer" initials="E" surname="Palmer">
+      <organization/>
+    </author>
+    <author fullname="AllisonBarnard Feeney" initials="A.B." surname="Feeney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4755"/>
+  <seriesInfo name="NIST" value="NIST IR 4755"/>
 </reference>

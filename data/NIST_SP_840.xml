@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.840" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication840.pdf">
   <front>
     <title>Proceedings of the 4th U.S.-Japan Workshop on Earthquake Disaster Prevention for Lifeline Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.840"/>
-    <seriesInfo name="NIST" value="NIST SP 840"/>
-    <author fullname="Ronald Equchi" initials="R." surname="Equchi"/>
-    <author fullname="Ronald Equchi" initials="R." surname="Equchi"/>
+    <author fullname="Ronald Equchi" initials="T" surname="Equchi">
+      <organization/>
+    </author>
+    <author fullname="Ronald Equchi" initials="T" surname="Equchi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.840"/>
+  <seriesInfo name="NIST" value="NIST SP 840"/>
 </reference>

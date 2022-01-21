@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.97r" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote97r.pdf">
   <front>
     <title>Techniques for computing refraction of radio waves in the troposphere</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.97r"/>
-    <seriesInfo name="NIST" value="NBS TN 97r"/>
-    <author surname="Dutton"/>
+    <author initials="EJ" surname="Dutton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.97r"/>
+  <seriesInfo name="NIST" value="NBS TN 97r"/>
 </reference>

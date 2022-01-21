@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4418" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4418.pdf">
   <front>
     <title>State occupancy information for performance comparisons</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4418"/>
-    <seriesInfo name="NIST" value="NIST IR 4418"/>
-    <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
+    <author fullname="Gordon Lyon" initials="E" surname="Lyon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4418"/>
+  <seriesInfo name="NIST" value="NIST IR 4418"/>
 </reference>

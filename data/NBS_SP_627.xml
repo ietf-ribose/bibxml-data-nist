@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.627" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication627.pdf">
   <front>
     <title>Science and technology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.627"/>
-    <seriesInfo name="NIST" value="NBS SP 627"/>
-    <author fullname="DonaldRichard Johnson" initials="D.R." surname="Johnson"/>
+    <author fullname="DonaldRichard Johnson" initials="D.R." surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.627"/>
+  <seriesInfo name="NIST" value="NBS SP 627"/>
 </reference>

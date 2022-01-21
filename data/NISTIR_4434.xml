@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4434" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4434.pdf">
   <front>
     <title>An application of measurement error propagation theory to two measurement systems used to calculate the position and heading of a vehicle on a flat surface</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4434"/>
-    <seriesInfo name="NIST" value="NIST IR 4434"/>
-    <author fullname="John Horst" initials="J." surname="Horst"/>
+    <author fullname="John Horst" initials="A" surname="Horst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4434"/>
+  <seriesInfo name="NIST" value="NIST IR 4434"/>
 </reference>

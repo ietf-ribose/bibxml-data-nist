@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.823-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication823-4.pdf">
   <front>
     <title>Integrated services digital network conformance testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.823-4"/>
-    <seriesInfo name="NIST" value="NIST SP 823-4"/>
-    <author fullname="Daniel Stokesberry" initials="D." surname="Stokesberry"/>
-    <author fullname="Daniel Stokesberry" initials="D." surname="Stokesberry"/>
-    <author fullname="Leslie Collica" initials="L." surname="Collica"/>
-    <author fullname="Kathleen Roberts" initials="K." surname="Roberts"/>
+    <author fullname="Daniel Stokesberry" initials="P" surname="Stokesberry">
+      <organization/>
+    </author>
+    <author fullname="Daniel Stokesberry" initials="P" surname="Stokesberry">
+      <organization/>
+    </author>
+    <author fullname="Leslie Collica" initials="L." surname="Collica">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Roberts" initials="M" surname="Roberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.823-4"/>
+  <seriesInfo name="NIST" value="NIST SP 823-4"/>
 </reference>

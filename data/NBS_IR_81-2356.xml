@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2356" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2356.pdf">
   <front>
     <title>A compilation of thermodynamic and transport properties of aqueous potassium hydroxide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2356"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2356"/>
-    <author fullname="Rebecca Joseph" initials="R." surname="Joseph"/>
-    <author fullname="Bert Stables" initials="B." surname="Stables"/>
+    <author fullname="Rebecca Joseph" initials="E" surname="Joseph">
+      <organization/>
+    </author>
+    <author fullname="Bert Stables" initials="R" surname="Stables">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2356"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2356"/>
 </reference>

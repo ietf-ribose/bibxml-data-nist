@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-172" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-172.pdf">
   <front>
     <title>Certification report for SRMs 2112 and 2113</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-172"/>
-    <seriesInfo name="NIST" value="NIST SP 260-172"/>
-    <author fullname="Ray Santoyo" initials="R." surname="Santoyo"/>
-    <author fullname="Chris McCowan" initials="C." surname="McCowan"/>
+    <author fullname="Ray Santoyo" initials="R." surname="Santoyo">
+      <organization/>
+    </author>
+    <author fullname="Chris McCowan" initials="C." surname="McCowan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-172"/>
+  <seriesInfo name="NIST" value="NIST SP 260-172"/>
 </reference>

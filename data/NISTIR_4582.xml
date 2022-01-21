@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4582" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4582.pdf">
   <front>
     <title>Building and fire research project summaries 1991</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4582"/>
-    <seriesInfo name="NIST" value="NIST IR 4582"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4582"/>
+  <seriesInfo name="NIST" value="NIST IR 4582"/>
 </reference>

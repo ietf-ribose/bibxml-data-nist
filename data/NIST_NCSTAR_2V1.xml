@@ -1,12 +1,18 @@
 <reference anchor="NIST.NCSTAR.2v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar2v1.pdf">
   <front>
     <title>Report of the technical investigation of The Station nightclub fire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.2v1"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 2v1"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="Kenneth Kuntz" initials="K." surname="Kuntz"/>
+    <author fullname="William Grosshandler" initials="W." surname="Grosshandler">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="N." surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Kuntz" initials="K." surname="Kuntz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.2v1"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 2v1"/>
 </reference>

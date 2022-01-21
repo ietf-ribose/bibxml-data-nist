@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.37" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub37.pdf">
   <front>
     <title>Annual report of the Director Bureau of Standards to the Secretary of Commerce for the fiscal year ended June 30, 1917</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.37"/>
-    <seriesInfo name="NIST" value="NBS MP 37"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1917"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.37"/>
+  <seriesInfo name="NIST" value="NBS MP 37"/>
 </reference>

@@ -1,17 +1,33 @@
 <reference anchor="NBS.BH.6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing6.pdf">
   <front>
     <title>Recommended minimum requirements for masonry wall construction :report of building code committee June 26, 1924</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BH.6"/>
-    <seriesInfo name="NIST" value="NBS BH 6"/>
-    <author fullname="Ira Woolson" initials="I." surname="Woolson"/>
-    <author fullname="Edwin Brown" initials="E." surname="Brown"/>
-    <author fullname="Rudolph Miller" initials="R." surname="Miller"/>
-    <author fullname="William Hatt" initials="W." surname="Hatt"/>
-    <author fullname="John Newlin" initials="J." surname="Newlin"/>
-    <author fullname="Albert Kahn" initials="A." surname="Kahn"/>
-    <author fullname="Joseph Worcester" initials="J." surname="Worcester"/>
-    <author fullname="Frank Cartwright" initials="F." surname="Cartwright"/>
-    <author fullname="John Gries" initials="J." surname="Gries"/>
+    <author fullname="Ira Woolson" initials="H" surname="Woolson">
+      <organization/>
+    </author>
+    <author fullname="Edwin Brown" initials="H" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Rudolph Miller" initials="P" surname="Miller">
+      <organization/>
+    </author>
+    <author fullname="William Hatt" initials="K" surname="Hatt">
+      <organization/>
+    </author>
+    <author fullname="John Newlin" initials="A" surname="Newlin">
+      <organization/>
+    </author>
+    <author fullname="Albert Kahn" initials="A." surname="Kahn">
+      <organization/>
+    </author>
+    <author fullname="Joseph Worcester" initials="R" surname="Worcester">
+      <organization/>
+    </author>
+    <author fullname="Frank Cartwright" initials="P" surname="Cartwright">
+      <organization/>
+    </author>
+    <author fullname="John Gries" initials="M" surname="Gries">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BH.6"/>
+  <seriesInfo name="NIST" value="NBS BH 6"/>
 </reference>

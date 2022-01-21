@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.7627" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7627.pdf">
   <front>
     <title>Development of soft armor conditioning protocols for NIJ standard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7627"/>
-    <seriesInfo name="NIST" value="NIST IR 7627"/>
-    <author fullname="Amanda Forester" initials="A." surname="Forester"/>
-    <author fullname="Kirk Rice" initials="K." surname="Rice"/>
-    <author fullname="Michael Riley" initials="M." surname="Riley"/>
-    <author fullname="Guillaume Messin" initials="G." surname="Messin"/>
-    <author fullname="Sylvain Petit" initials="S." surname="Petit"/>
-    <author fullname="Cyril Clerici" initials="C." surname="Clerici"/>
-    <author fullname="Marie-Cecile Vigoroux" initials="M." surname="Vigoroux"/>
-    <author fullname="Pierre Pintus" initials="P." surname="Pintus"/>
-    <author fullname="Gale Holmes" initials="G." surname="Holmes"/>
-    <author fullname="Joannie Chin" initials="J." surname="Chin"/>
+    <author fullname="Amanda Forester" initials="L" surname="Forester">
+      <organization/>
+    </author>
+    <author fullname="Kirk Rice" initials="D" surname="Rice">
+      <organization/>
+    </author>
+    <author fullname="Michael Riley" initials="A" surname="Riley">
+      <organization/>
+    </author>
+    <author fullname="Guillaume Messin" initials="HR" surname="Messin">
+      <organization/>
+    </author>
+    <author fullname="Sylvain Petit" initials="S." surname="Petit">
+      <organization/>
+    </author>
+    <author fullname="Cyril Clerici" initials="C." surname="Clerici">
+      <organization/>
+    </author>
+    <author fullname="Marie-Cecile Vigoroux" initials="M." surname="Vigoroux">
+      <organization/>
+    </author>
+    <author fullname="Pierre Pintus" initials="P." surname="Pintus">
+      <organization/>
+    </author>
+    <author fullname="Gale Holmes" initials="G." surname="Holmes">
+      <organization/>
+    </author>
+    <author fullname="Joannie Chin" initials="J." surname="Chin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7627"/>
+  <seriesInfo name="NIST" value="NIST IR 7627"/>
 </reference>

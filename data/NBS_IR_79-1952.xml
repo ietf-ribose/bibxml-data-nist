@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.79-1952" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1952.pdf">
   <front>
     <title>A study of the effects of carbon fibers on home appliances</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1952"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1952"/>
-    <author fullname="Denver Lovett" initials="D." surname="Lovett"/>
-    <author surname="Wise"/>
-    <author surname="Gordon"/>
-    <author surname="Yee"/>
+    <author fullname="Denver Lovett" initials="C" surname="Lovett">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Wise">
+      <organization/>
+    </author>
+    <author initials="CC" surname="Gordon">
+      <organization/>
+    </author>
+    <author initials="K" surname="Yee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1952"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1952"/>
 </reference>

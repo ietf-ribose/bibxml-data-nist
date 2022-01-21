@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5475" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5475.pdf">
   <front>
     <title>Validated products list, 1994 no. 3:programming languages, database language SQL, graphics, GOSIP, POSIX, computer security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5475"/>
-    <seriesInfo name="NIST" value="NIST IR 5475"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5475"/>
+  <seriesInfo name="NIST" value="NIST IR 5475"/>
 </reference>

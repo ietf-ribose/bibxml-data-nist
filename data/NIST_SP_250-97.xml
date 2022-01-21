@@ -1,30 +1,28 @@
 <reference anchor="NIST.SP.250-97" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-97.pdf">
   <front>
     <title>Magnetic resonance imaging biomarker calibration service: proton spin relaxation times</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-97"/>
-    <seriesInfo name="NIST" value="NIST SP 250-97"/>
-    <author fullname="Michael Boss" initials="M." surname="Boss">
+    <author fullname="Michael Boss" initials="A" surname="Boss">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Andrew Dienstfrey" initials="A." surname="Dienstfrey">
+    <author fullname="Andrew Dienstfrey" initials="M" surname="Dienstfrey">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Zydrunas Gimbutas" initials="Z." surname="Gimbutas">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Kathryn Keenan" initials="K." surname="Keenan">
+    <author fullname="Kathryn Keenan" initials="E" surname="Keenan">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Anthony Kos" initials="A." surname="Kos">
+    <author fullname="Anthony Kos" initials="B" surname="Kos">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Jolene Splett" initials="J." surname="Splett">
+    <author fullname="Jolene Splett" initials="D" surname="Splett">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Karl Stupic" initials="K." surname="Stupic">
+    <author fullname="Karl Stupic" initials="F" surname="Stupic">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Stephen Russek" initials="S." surname="Russek">
+    <author fullname="Stephen Russek" initials="E" surname="Russek">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -39,4 +37,6 @@
     </author>
     <date year="2018" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-97"/>
+  <seriesInfo name="NIST" value="NIST SP 250-97"/>
 </reference>

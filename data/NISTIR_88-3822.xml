@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.88-3822" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3822.pdf">
   <front>
     <title>Environment effects of oil spill combustion</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3822"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3822"/>
-    <author surname="Evans"/>
-    <author surname="Mulholland"/>
-    <author surname="Gross"/>
-    <author surname="Baum"/>
-    <author surname="Saito"/>
+    <author initials="D" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="G" surname="Mulholland">
+      <organization/>
+    </author>
+    <author initials="D" surname="Gross">
+      <organization/>
+    </author>
+    <author initials="H" surname="Baum">
+      <organization/>
+    </author>
+    <author initials="K" surname="Saito">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3822"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3822"/>
 </reference>

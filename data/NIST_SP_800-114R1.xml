@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-114r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-114r1.pdf">
   <front>
     <title>User's Guide to Telework and Bring Your Own Device (BYOD) Security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-114r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-114r1"/>
-    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+    <author fullname="Murugiah Souppaya" initials="P" surname="Souppaya">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+    <author fullname="Karen Scarfone" initials="A" surname="Scarfone">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-114r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-114r1"/>
 </reference>

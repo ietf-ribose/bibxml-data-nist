@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience26.pdf">
   <front>
     <title>Radiation errors in air ducts under nonisothermal conditions using thermocouples, thermistors, and a resistance thermometer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.26"/>
-    <seriesInfo name="NIST" value="NBS BSS 26"/>
-    <author fullname="Joseph Davis" initials="J." surname="Davis"/>
+    <author fullname="Joseph Davis" initials="C" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.26"/>
+  <seriesInfo name="NIST" value="NBS BSS 26"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph79.pdf">
   <front>
     <title>On the statistical theory of electromagnetic waves in a fluctuating medium (II) :mathematical basis of the analogies to quantum field theory</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.79"/>
-    <seriesInfo name="NIST" value="NBS MONO 79"/>
-    <author surname="Furutsu"/>
+    <author initials="K" surname="Furutsu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.79"/>
+  <seriesInfo name="NIST" value="NBS MONO 79"/>
 </reference>

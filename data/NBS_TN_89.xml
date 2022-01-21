@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.89" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote89.pdf">
   <front>
     <title>Collisions of liquid drops with liquids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.89"/>
-    <seriesInfo name="NIST" value="NBS TN 89"/>
-    <author fullname="OliveGeorgiana Engel" initials="O.G." surname="Engel"/>
+    <author fullname="OliveGeorgiana Engel" initials="O.G." surname="Engel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.89"/>
+  <seriesInfo name="NIST" value="NBS TN 89"/>
 </reference>

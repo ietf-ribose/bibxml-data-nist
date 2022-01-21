@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1984" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1984.pdf">
   <front>
     <title>The influence of walls, corners and enclosures on fire plumes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1984"/>
-    <seriesInfo name="NIST" value="NIST TN 1984"/>
     <author fullname="Kevin McGrattan" initials="K." surname="McGrattan">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1984"/>
+  <seriesInfo name="NIST" value="NIST TN 1984"/>
 </reference>

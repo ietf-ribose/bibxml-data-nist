@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.339" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication339.pdf">
   <front>
     <title>Source listing of OMNITAB II program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.339"/>
-    <seriesInfo name="NIST" value="NBS SP 339"/>
-    <author fullname="Sally Peavy" initials="S." surname="Peavy"/>
-    <author fullname="Ruth Varner" initials="R." surname="Varner"/>
-    <author fullname="David Hogben" initials="D." surname="Hogben"/>
+    <author fullname="Sally Peavy" initials="T" surname="Peavy">
+      <organization/>
+    </author>
+    <author fullname="Ruth Varner" initials="N" surname="Varner">
+      <organization/>
+    </author>
+    <author fullname="David Hogben" initials="D." surname="Hogben">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.339"/>
+  <seriesInfo name="NIST" value="NBS SP 339"/>
 </reference>

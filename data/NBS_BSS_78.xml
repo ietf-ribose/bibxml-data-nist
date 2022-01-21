@@ -1,13 +1,21 @@
 <reference anchor="NBS.BSS.78" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience78.pdf">
   <front>
     <title>Pre-design analysis of energy conservation options for a multi-story demonstration office building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.78"/>
-    <seriesInfo name="NIST" value="NBS BSS 78"/>
-    <author surname="Kusuda"/>
-    <author fullname="James Hill" initials="J." surname="Hill"/>
-    <author fullname="Stanley Liu" initials="S." surname="Liu"/>
-    <author fullname="James Barnett" initials="J." surname="Barnett"/>
-    <author fullname="John Bean" initials="J." surname="Bean"/>
+    <author initials="T" surname="Kusuda">
+      <organization/>
+    </author>
+    <author fullname="James Hill" initials="E" surname="Hill">
+      <organization/>
+    </author>
+    <author fullname="Stanley Liu" initials="T" surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="James Barnett" initials="P" surname="Barnett">
+      <organization/>
+    </author>
+    <author fullname="John Bean" initials="W" surname="Bean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.78"/>
+  <seriesInfo name="NIST" value="NBS BSS 78"/>
 </reference>

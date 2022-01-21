@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-170" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-170.pdf">
   <front>
     <title>Computer Security Division 2013 annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-170"/>
-    <seriesInfo name="NIST" value="NIST SP 800-170"/>
     <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2014" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-170"/>
+  <seriesInfo name="NIST" value="NIST SP 800-170"/>
 </reference>

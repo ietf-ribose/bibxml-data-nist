@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-766" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-766.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-766"/>
-    <seriesInfo name="NIST" value="NBS IR 75-766"/>
-    <author fullname="James Cassel" initials="J." surname="Cassel"/>
+    <author fullname="James Cassel" initials="M" surname="Cassel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-766"/>
+  <seriesInfo name="NIST" value="NBS IR 75-766"/>
 </reference>

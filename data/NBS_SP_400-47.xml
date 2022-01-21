@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-47" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-47.pdf">
   <front>
     <title>The theoretical and experimental study of the temperature and dopant density dependence of hole mobility, effective mass, and resistivity in boron-doped silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-47"/>
-    <seriesInfo name="NIST" value="NBS SP 400-47"/>
-    <author fullname="Sheng Li" initials="S." surname="Li"/>
+    <author fullname="Sheng Li" initials="S" surname="Li">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-47"/>
+  <seriesInfo name="NIST" value="NBS SP 400-47"/>
 </reference>

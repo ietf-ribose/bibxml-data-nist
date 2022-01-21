@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.88-3760" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3760.pdf">
   <front>
     <title>Building technology project summaries 1988</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3760"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3760"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3760"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3760"/>
 </reference>

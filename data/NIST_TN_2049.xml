@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.2049" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2049.pdf">
   <front>
     <title>Carbon monoxide concentrations and carboxyhemoglobin profiles from portable generators with a CO safety shutoff operating in a test house</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2049"/>
-    <seriesInfo name="NIST" value="NIST TN 2049"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Stephen Zimmerman" initials="S." surname="Zimmerman">
+    <author fullname="Stephen Zimmerman" initials="M" surname="Zimmerman">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Steven Nabinger" initials="S." surname="Nabinger">
+    <author fullname="Steven Nabinger" initials="J" surname="Nabinger">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Brookman" initials="M." surname="Brookman">
+    <author fullname="Matthew Brookman" initials="J" surname="Brookman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2049"/>
+  <seriesInfo name="NIST" value="NIST TN 2049"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-330" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-330.pdf">
   <front>
     <title>Frequency domain measurement of baseband instrumentation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-330"/>
-    <seriesInfo name="NIST" value="NBS IR 73-330"/>
-    <author surname="Nahman"/>
-    <author surname="Jickling"/>
+    <author initials="NS" surname="Nahman">
+      <organization/>
+    </author>
+    <author initials="RM" surname="Jickling">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-330"/>
+  <seriesInfo name="NIST" value="NBS IR 73-330"/>
 </reference>

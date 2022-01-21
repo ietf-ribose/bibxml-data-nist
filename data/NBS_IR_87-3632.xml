@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3632" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3632.pdf">
   <front>
     <title>The influence of cement pore solution on alkali-silica reaction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3632"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3632"/>
-    <author surname="Struble"/>
+    <author initials="LJ" surname="Struble">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3632"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3632"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.260-166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-166.pdf">
   <front>
     <title>Certification of SRM 114q :part II (particle size distribution)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-166"/>
-    <seriesInfo name="NIST" value="NIST SP 260-166"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="William Guthrie" initials="W." surname="Guthrie"/>
-    <author fullname="AnaIvelisse Avilés" initials="A.I." surname="Avilés"/>
-    <author fullname="Max Peltz" initials="M." surname="Peltz"/>
-    <author fullname="Robin Haupt" initials="R." surname="Haupt"/>
-    <author fullname="Bruce MacDonald" initials="B." surname="MacDonald"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="William Guthrie" initials="W." surname="Guthrie">
+      <organization/>
+    </author>
+    <author fullname="AnaIvelisse Avilés" initials="A.I." surname="Avilés">
+      <organization/>
+    </author>
+    <author fullname="Max Peltz" initials="M." surname="Peltz">
+      <organization/>
+    </author>
+    <author fullname="Robin Haupt" initials="R." surname="Haupt">
+      <organization/>
+    </author>
+    <author fullname="Bruce MacDonald" initials="S" surname="MacDonald">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-166"/>
+  <seriesInfo name="NIST" value="NIST SP 260-166"/>
 </reference>

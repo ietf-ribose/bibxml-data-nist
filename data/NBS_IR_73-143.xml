@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-143" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-143.pdf">
   <front>
     <title>Evaluation of methods for automatically determining the fitness of currency</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-143"/>
-    <seriesInfo name="NIST" value="NBS IR 73-143"/>
-    <author surname="Stokesberry"/>
-    <author surname="Philmon"/>
+    <author initials="DP" surname="Stokesberry">
+      <organization/>
+    </author>
+    <author initials="I" surname="Philmon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-143"/>
+  <seriesInfo name="NIST" value="NBS IR 73-143"/>
 </reference>

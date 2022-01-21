@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.826" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication826.pdf">
   <front>
     <title>High-temperature superconductivity</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.826"/>
-    <seriesInfo name="NIST" value="NIST SP 826"/>
-    <author fullname="Mary DeWeese" initials="M." surname="DeWeese"/>
-    <author fullname="Mary DeWeese" initials="M." surname="DeWeese"/>
+    <author fullname="Mary DeWeese" initials="E" surname="DeWeese">
+      <organization/>
+    </author>
+    <author fullname="Mary DeWeese" initials="E" surname="DeWeese">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.826"/>
+  <seriesInfo name="NIST" value="NIST SP 826"/>
 </reference>

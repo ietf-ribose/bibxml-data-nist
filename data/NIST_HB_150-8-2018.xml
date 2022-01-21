@@ -1,9 +1,7 @@
 <reference anchor="NIST.HB.150-8-2018" target="https://nvlpubs.nist.gov/nistpubs/hb/2018/NIST.HB.150-8-2018.pdf">
   <front>
     <title>NVLAP acoustical testing services</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-8-2018"/>
-    <seriesInfo name="NIST" value="NIST HB 150-8-2018"/>
-    <author fullname="Kari Harper" initials="K." surname="Harper">
+    <author fullname="Kari Harper" initials="K" surname="Harper">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-8-2018"/>
+  <seriesInfo name="NIST" value="NIST HB 150-8-2018"/>
 </reference>

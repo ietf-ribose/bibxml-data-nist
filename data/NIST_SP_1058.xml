@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.1058" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1058.pdf">
   <front>
     <title>Using host-based antivirus software on industrial control systems :integration guidance and a test methodology for assessing performance impacts. version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1058"/>
-    <seriesInfo name="NIST" value="NIST SP 1058"/>
-    <author fullname="Joe Falco" initials="J." surname="Falco"/>
-    <author fullname="Steve Hurd" initials="S." surname="Hurd"/>
-    <author fullname="Dave Teumim" initials="D." surname="Teumim"/>
+    <author fullname="Joe Falco" initials="J." surname="Falco">
+      <organization/>
+    </author>
+    <author fullname="Steve Hurd" initials="S." surname="Hurd">
+      <organization/>
+    </author>
+    <author fullname="Dave Teumim" initials="D." surname="Teumim">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1058"/>
+  <seriesInfo name="NIST" value="NIST SP 1058"/>
 </reference>

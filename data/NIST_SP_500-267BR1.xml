@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.500-267Br1" target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.500-267Br1.pdf">
   <front>
     <title>USGv6 Profile</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-267Br1"/>
-    <seriesInfo name="NIST" value="NIST SP 500-267Br1"/>
     <author fullname="Doug Montgomery" initials="D." surname="Montgomery">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     <date year="2020" month="November" day="24"/>
     <abstract>This profile establishes a basic taxonomy of IPv6 capabilities, defined in terms of IETF specifications, resulting in specific capability labels for common network functions and usage scenarios. The profile maps each such labeled capability to one or more specific technical specifications, or parts of specifications. Each labeled capability adopts by reference the normative requirements of the cited specifications. In rare cases the profile may augment or modify the normative requirements of a base specification. The defined capability labels effectively form a vocabulary for expressing IPv6 requirements for, and documenting the IPv6 capabilities of, specific products. It is expected that this profile, when combined with the USGv6 Test Program, can facilitate the efficient adoption of IPv6 technologies in Federal information systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-267Br1"/>
+  <seriesInfo name="NIST" value="NIST SP 500-267Br1"/>
 </reference>

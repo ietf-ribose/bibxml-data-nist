@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3218" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3218.pdf">
   <front>
     <title>Pyrolysis of cellulose, an introduction to the literature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3218"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3218"/>
-    <author fullname="Toshimi Hirata" initials="T." surname="Hirata"/>
+    <author fullname="Toshimi Hirata" initials="T." surname="Hirata">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3218"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3218"/>
 </reference>

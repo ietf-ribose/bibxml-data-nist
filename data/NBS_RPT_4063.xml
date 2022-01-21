@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.4063" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4063.pdf">
   <front>
     <title>Water permeability of hydrocide colorcoat coatings applied to concrete masonry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4063"/>
-    <seriesInfo name="NIST" value="NBS RPT 4063"/>
-    <author surname="McCamley"/>
+    <author initials="EJ" surname="McCamley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4063"/>
+  <seriesInfo name="NIST" value="NBS RPT 4063"/>
 </reference>

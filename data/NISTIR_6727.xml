@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6727" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6727.pdf">
   <front>
     <title>Use of fluorescence to measure the lubricant excess surface density during pool boiling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6727"/>
-    <seriesInfo name="NIST" value="NIST IR 6727"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski"/>
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6727"/>
+  <seriesInfo name="NIST" value="NIST IR 6727"/>
 </reference>

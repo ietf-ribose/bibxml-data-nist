@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5388" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5388.pdf">
   <front>
     <title>Preparation and monitoring of lead acetate containing drinking water solutions for toxicity studies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5388"/>
-    <seriesInfo name="NIST" value="NIST IR 5388"/>
-    <author fullname="Francis Wang" initials="F." surname="Wang"/>
-    <author fullname="Susannah Schiller" initials="S." surname="Schiller"/>
+    <author fullname="Francis Wang" initials="W" surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Susannah Schiller" initials="B" surname="Schiller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5388"/>
+  <seriesInfo name="NIST" value="NIST IR 5388"/>
 </reference>

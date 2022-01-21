@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-557" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-557.pdf">
   <front>
     <title>Non-metallic antenna-support materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-557"/>
-    <seriesInfo name="NIST" value="NBS IR 74-557"/>
-    <author fullname="Nixon Halsey" initials="N." surname="Halsey"/>
-    <author fullname="Donald Marlowe" initials="D." surname="Marlowe"/>
-    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin"/>
+    <author fullname="Nixon Halsey" initials="N." surname="Halsey">
+      <organization/>
+    </author>
+    <author fullname="Donald Marlowe" initials="E" surname="Marlowe">
+      <organization/>
+    </author>
+    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-557"/>
+  <seriesInfo name="NIST" value="NBS IR 74-557"/>
 </reference>

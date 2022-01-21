@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5927" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5927.pdf">
   <front>
     <title>Comparison of the fire model predictions with experiments conducted in a hangar with a 15 meter ceiling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5927"/>
-    <seriesInfo name="NIST" value="NIST IR 5927"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="Kathy Notarianni" initials="K." surname="Notarianni"/>
-    <author surname="McGrattan"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Kathy Notarianni" initials="A" surname="Notarianni">
+      <organization/>
+    </author>
+    <author initials="KB" surname="McGrattan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5927"/>
+  <seriesInfo name="NIST" value="NIST IR 5927"/>
 </reference>

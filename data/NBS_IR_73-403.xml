@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-403" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-403.pdf">
   <front>
     <title>Development and analysis of techniques for calibration of Kerr cell pulse-voltage measuring systems VII</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-403"/>
-    <seriesInfo name="NIST" value="NBS IR 73-403"/>
-    <author fullname="EstherChristmas Cassidy" initials="E.C." surname="Cassidy"/>
-    <author fullname="Robert Hebner" initials="R." surname="Hebner"/>
-    <author fullname="Richard Sojka" initials="R." surname="Sojka"/>
-    <author fullname="Markus Zahn" initials="M." surname="Zahn"/>
+    <author fullname="EstherChristmas Cassidy" initials="E.C." surname="Cassidy">
+      <organization/>
+    </author>
+    <author fullname="Robert Hebner" initials="E" surname="Hebner">
+      <organization/>
+    </author>
+    <author fullname="Richard Sojka" initials="J" surname="Sojka">
+      <organization/>
+    </author>
+    <author fullname="Markus Zahn" initials="M." surname="Zahn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-403"/>
+  <seriesInfo name="NIST" value="NBS IR 73-403"/>
 </reference>

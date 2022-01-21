@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4910" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4910.pdf">
   <front>
     <title>The measurement of the dielectric constant of polymeric films at high fields</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4910"/>
-    <seriesInfo name="NIST" value="NIST IR 4910"/>
-    <author fullname="Frederick Mopsik" initials="F." surname="Mopsik"/>
-    <author fullname="Brian Dickens" initials="B." surname="Dickens"/>
+    <author fullname="Frederick Mopsik" initials="I" surname="Mopsik">
+      <organization/>
+    </author>
+    <author fullname="Brian Dickens" initials="B." surname="Dickens">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4910"/>
+  <seriesInfo name="NIST" value="NIST IR 4910"/>
 </reference>

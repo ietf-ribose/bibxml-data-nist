@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.5430" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5430.pdf">
   <front>
     <title>Report on dental research at the National Bureau of Standards:progress report January 1 to June 30, 1957</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5430"/>
-    <seriesInfo name="NIST" value="NBS RPT 5430"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5430"/>
+  <seriesInfo name="NIST" value="NBS RPT 5430"/>
 </reference>

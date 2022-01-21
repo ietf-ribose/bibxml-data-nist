@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.672e1991" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication672e1991.pdf">
   <front>
     <title>Experimentation and measurement.</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.672e1991"/>
-    <seriesInfo name="NIST" value="NIST SP 672e1991"/>
-    <author surname="Youden"/>
-    <author surname="Youden"/>
+    <author initials="WJ" surname="Youden">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Youden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.672e1991"/>
+  <seriesInfo name="NIST" value="NIST SP 672e1991"/>
 </reference>

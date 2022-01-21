@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.4157" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4157.pdf">
   <front>
     <title>Performance of the Farr Rotonamic air cleaner</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4157"/>
-    <seriesInfo name="NIST" value="NBS RPT 4157"/>
-    <author surname="Coblentz"/>
-    <author fullname="Thomas Watson" initials="T." surname="Watson"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
+    <author initials="CW" surname="Coblentz">
+      <organization/>
+    </author>
+    <author fullname="Thomas Watson" initials="W" surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4157"/>
+  <seriesInfo name="NIST" value="NBS RPT 4157"/>
 </reference>

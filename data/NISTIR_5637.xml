@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5637" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5637.pdf">
   <front>
     <title>Texture-independent vision-based closed-loop fuzzy controllers for navigation tasks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5637"/>
-    <seriesInfo name="NIST" value="NIST IR 5637"/>
-    <author fullname="Sridhar Kundur" initials="S." surname="Kundur"/>
-    <author fullname="Daniel Raviv" initials="D." surname="Raviv"/>
+    <author fullname="Sridhar Kundur" initials="R" surname="Kundur">
+      <organization/>
+    </author>
+    <author fullname="Daniel Raviv" initials="D." surname="Raviv">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5637"/>
+  <seriesInfo name="NIST" value="NIST IR 5637"/>
 </reference>

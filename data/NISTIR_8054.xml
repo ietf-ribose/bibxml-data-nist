@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8054" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8054.pdf">
   <front>
     <title>NSTIC Pilots: Catalyzing the Identity Ecosystem</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8054"/>
-    <seriesInfo name="NIST" value="NIST IR 8054"/>
     <author fullname="Katerina Megas" initials="K." surname="Megas">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8054"/>
+  <seriesInfo name="NIST" value="NIST IR 8054"/>
 </reference>

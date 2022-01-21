@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.90-4267" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4267.pdf">
   <front>
     <title>A conformance test for FDDI Medium Access Control (MAC)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4267"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4267"/>
-    <author fullname="Zuqiu Liu" initials="Z." surname="Liu"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
+    <author fullname="Zuqiu Liu" initials="Z." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="William Burr" initials="E" surname="Burr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4267"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4267"/>
 </reference>

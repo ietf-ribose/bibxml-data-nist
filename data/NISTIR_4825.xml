@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4825" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4825.pdf">
   <front>
     <title>Analyzing strategies for eliminating flame blow-down occurring in the Navy's 19F4 fire fighting trainer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4825"/>
-    <seriesInfo name="NIST" value="NIST IR 4825"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4825"/>
+  <seriesInfo name="NIST" value="NIST IR 4825"/>
 </reference>

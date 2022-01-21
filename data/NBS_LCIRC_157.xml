@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.157" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular157.pdf">
   <front>
     <title>Letter Circular 157:foreign sole leathers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.157"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 157"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.157"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 157"/>
 </reference>

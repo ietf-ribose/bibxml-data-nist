@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.991" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication991.pdf">
   <front>
     <title>Communicating the future</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.991"/>
-    <seriesInfo name="NIST" value="NIST SP 991"/>
-    <author fullname="Gail Porter" initials="G." surname="Porter"/>
-    <author fullname="Gail Porter" initials="G." surname="Porter"/>
+    <author fullname="Gail Porter" initials="G." surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Gail Porter" initials="G." surname="Porter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.991"/>
+  <seriesInfo name="NIST" value="NIST SP 991"/>
 </reference>

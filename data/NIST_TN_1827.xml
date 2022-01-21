@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1827" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1827.pdf">
   <front>
     <title>General Guidance on Emergency Communication Strategies for Buildings, 2nd Edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1827"/>
-    <seriesInfo name="NIST" value="NIST TN 1827"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Hidemi Omori" initials="H." surname="Omori">
@@ -14,4 +12,6 @@
     </author>
     <date year="2014" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1827"/>
+  <seriesInfo name="NIST" value="NIST TN 1827"/>
 </reference>

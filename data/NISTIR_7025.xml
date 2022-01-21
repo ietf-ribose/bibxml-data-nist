@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7025" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7025.pdf">
   <front>
     <title>Applications of life-cycle cost analysis to homeland security issues in constructed facilities :a case study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7025"/>
-    <seriesInfo name="NIST" value="NIST IR 7025"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7025"/>
+  <seriesInfo name="NIST" value="NIST IR 7025"/>
 </reference>

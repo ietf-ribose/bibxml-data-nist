@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.75-823" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-823.pdf">
   <front>
     <title>Helium research in support of superconducting power transmission</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-823"/>
-    <seriesInfo name="NIST" value="NBS IR 75-823"/>
-    <author surname="Arp"/>
-    <author surname="Daney"/>
-    <author surname="Frederick"/>
-    <author surname="Jones"/>
-    <author surname="Ludtke"/>
-    <author surname="Parrish"/>
-    <author surname="Powell"/>
+    <author initials="VD" surname="Arp">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Daney">
+      <organization/>
+    </author>
+    <author initials="NV" surname="Frederick">
+      <organization/>
+    </author>
+    <author initials="MC" surname="Jones">
+      <organization/>
+    </author>
+    <author initials="PR" surname="Ludtke">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Parrish">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-823"/>
+  <seriesInfo name="NIST" value="NBS IR 75-823"/>
 </reference>

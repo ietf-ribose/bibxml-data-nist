@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1098" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1098.pdf">
   <front>
     <title>Daylighting of buildings :a compendium and study of its introduction and control</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1098"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1098"/>
-    <author fullname="John Holton" initials="J." surname="Holton"/>
+    <author fullname="John Holton" initials="K" surname="Holton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1098"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1098"/>
 </reference>

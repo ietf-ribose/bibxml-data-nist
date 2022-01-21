@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.707" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication707.pdf">
   <front>
     <title>Digital methods in waveform metrology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.707"/>
-    <seriesInfo name="NIST" value="NBS SP 707"/>
-    <author fullname="Barry Bell" initials="B." surname="Bell"/>
+    <author fullname="Barry Bell" initials="A" surname="Bell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.707"/>
+  <seriesInfo name="NIST" value="NBS SP 707"/>
 </reference>

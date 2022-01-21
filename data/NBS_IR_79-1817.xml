@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1817" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1817.pdf">
   <front>
     <title>NBS collaborative reference program for thermal insulation materials :thermal conductivity report no. 1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1817"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1817"/>
-    <author surname="Horlick"/>
+    <author initials="J" surname="Horlick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1817"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1817"/>
 </reference>

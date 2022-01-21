@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-177r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-177r1.pdf">
   <front>
     <title>Trustworthy email</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-177r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-177r1"/>
     <author fullname="Scott Rose" initials="S." surname="Rose">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale">
+    <author fullname="Stephen Nightingale" initials="J" surname="Nightingale">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Simson Garfinkel" initials="S." surname="Garfinkel">
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-177r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-177r1"/>
 </reference>

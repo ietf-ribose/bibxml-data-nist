@@ -1,17 +1,33 @@
 <reference anchor="NIST.TN.1500-10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1500-10.pdf">
   <front>
     <title>Weld Repair of the U. S. Capitol Dome :a report to the architect of the Capitol, for project 900265K</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1500-10"/>
-    <seriesInfo name="NIST" value="NIST TN 1500-10"/>
-    <author surname="Bushey"/>
-    <author surname="Christ"/>
-    <author surname="Doherty"/>
-    <author surname="Hindshaw"/>
-    <author surname="Kotecki"/>
-    <author surname="McCowan"/>
-    <author surname="Myers"/>
-    <author surname="Olson"/>
-    <author surname="Siewert"/>
+    <author initials="RA" surname="Bushey">
+      <organization/>
+    </author>
+    <author initials="T" surname="Christ">
+      <organization/>
+    </author>
+    <author initials="J" surname="Doherty">
+      <organization/>
+    </author>
+    <author initials="E" surname="Hindshaw">
+      <organization/>
+    </author>
+    <author initials="DJ" surname="Kotecki">
+      <organization/>
+    </author>
+    <author initials="CN" surname="McCowan">
+      <organization/>
+    </author>
+    <author initials="LW" surname="Myers">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Olson">
+      <organization/>
+    </author>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1500-10"/>
+  <seriesInfo name="NIST" value="NIST TN 1500-10"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1358" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1358.pdf">
   <front>
     <title>Microcalorimeter for 7 mm coaxial transmission line</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1358"/>
-    <seriesInfo name="NIST" value="NIST TN 1358"/>
-    <author fullname="Fred Clague" initials="F." surname="Clague"/>
+    <author fullname="Fred Clague" initials="R" surname="Clague">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1358"/>
+  <seriesInfo name="NIST" value="NIST TN 1358"/>
 </reference>

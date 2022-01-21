@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5454" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5454.pdf">
   <front>
     <title>Single-phase heat transfer and pressure drop characteristics of an integral-spine-fin within an annulus</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5454"/>
-    <seriesInfo name="NIST" value="NIST IR 5454"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5454"/>
+  <seriesInfo name="NIST" value="NIST IR 5454"/>
 </reference>

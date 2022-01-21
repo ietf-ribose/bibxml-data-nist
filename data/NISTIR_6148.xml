@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6148.pdf">
   <front>
     <title>Evaluation of applications on a loosely-coupled cluster</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6148"/>
-    <seriesInfo name="NIST" value="NIST IR 6148"/>
-    <author fullname="Wayne Salamon" initials="W." surname="Salamon"/>
-    <author fullname="Alan Mink" initials="A." surname="Mink"/>
-    <author fullname="Mike Indovina" initials="M." surname="Indovina"/>
-    <author fullname="Michel Courson" initials="M." surname="Courson"/>
+    <author fullname="Wayne Salamon" initials="W." surname="Salamon">
+      <organization/>
+    </author>
+    <author fullname="Alan Mink" initials="A." surname="Mink">
+      <organization/>
+    </author>
+    <author fullname="Mike Indovina" initials="M." surname="Indovina">
+      <organization/>
+    </author>
+    <author fullname="Michel Courson" initials="M." surname="Courson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6148"/>
+  <seriesInfo name="NIST" value="NIST IR 6148"/>
 </reference>

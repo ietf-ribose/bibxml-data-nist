@@ -1,12 +1,10 @@
 <reference anchor="NIST.GCR.17-012" target="https://nvlpubs.nist.gov/nistpubs/gcr/2017/NIST.GCR.17-012.pdf">
   <front>
     <title>Proceedings of the International Workshop on Modeling of Physical, Economic, and Social Systems for Resilience Assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-012"/>
-    <seriesInfo name="NIST" value="NIST GCR 17-012"/>
-    <author fullname="Lauren Mudd" initials="L." surname="Mudd">
+    <author fullname="Lauren Mudd" initials="A" surname="Mudd">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Francis Lavelle" initials="F." surname="Lavelle">
+    <author fullname="Francis Lavelle" initials="M" surname="Lavelle">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-012"/>
+  <seriesInfo name="NIST" value="NIST GCR 17-012"/>
 </reference>

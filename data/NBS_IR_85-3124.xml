@@ -1,17 +1,33 @@
 <reference anchor="NBS.IR.85-3124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3124.pdf">
   <front>
     <title>Thermophysical properties of working fluids for binary geothermal cycles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3124"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3124"/>
-    <author surname="Diller"/>
-    <author surname="Gallagher"/>
-    <author surname="Kamgar-Parsi"/>
-    <author surname="Morrison"/>
-    <author surname="Rainwater"/>
-    <author surname="Levelt Sengers"/>
-    <author surname="Sengers"/>
-    <author surname="Van Pollen"/>
-    <author surname="Waxman"/>
+    <author initials="DE" surname="Diller">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Gallagher">
+      <organization/>
+    </author>
+    <author initials="B" surname="Kamgar-Parsi">
+      <organization/>
+    </author>
+    <author initials="G" surname="Morrison">
+      <organization/>
+    </author>
+    <author initials="JC" surname="Rainwater">
+      <organization/>
+    </author>
+    <author initials="JMH" surname="Levelt Sengers">
+      <organization/>
+    </author>
+    <author initials="JV" surname="Sengers">
+      <organization/>
+    </author>
+    <author initials="LJ" surname="Van Pollen">
+      <organization/>
+    </author>
+    <author initials="M" surname="Waxman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3124"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3124"/>
 </reference>

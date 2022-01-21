@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5708" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5708.pdf">
   <front>
     <title>Electronic access to standards on the information highway</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5708"/>
-    <seriesInfo name="NIST" value="NIST IR 5708"/>
-    <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
-    <author fullname="Venkata Ramayya" initials="V." surname="Ramayya"/>
+    <author fullname="Sharon Laskowski" initials="J" surname="Laskowski">
+      <organization/>
+    </author>
+    <author fullname="Venkata Ramayya" initials="V" surname="Ramayya">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5708"/>
+  <seriesInfo name="NIST" value="NIST IR 5708"/>
 </reference>

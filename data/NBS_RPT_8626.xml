@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.8626" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8626.pdf">
   <front>
     <title>Infrared optical measurements:semiannual technical report July 1, 1964 to December 31, 1964</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8626"/>
-    <seriesInfo name="NIST" value="NBS RPT 8626"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8626"/>
+  <seriesInfo name="NIST" value="NBS RPT 8626"/>
 </reference>

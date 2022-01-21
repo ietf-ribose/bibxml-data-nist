@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-684" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-684.pdf">
   <front>
     <title>Non-metallic antenna-support materials pultruded rods for antenna guys, catenaries and communications structures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-684"/>
-    <seriesInfo name="NIST" value="NBS IR 75-684"/>
-    <author surname="Halsey"/>
-    <author surname="Marlowe"/>
-    <author fullname="RA Mitchell" initials="R." surname="Mitchell"/>
+    <author initials="N" surname="Halsey">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Marlowe">
+      <organization/>
+    </author>
+    <author fullname="RA Mitchell" initials="R." surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-684"/>
+  <seriesInfo name="NIST" value="NBS IR 75-684"/>
 </reference>

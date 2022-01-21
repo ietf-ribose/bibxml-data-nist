@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4085" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4085.pdf">
   <front>
     <title>Results of a survey of the performance of EPDM roofing at Army facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4085"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4085"/>
-    <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
-    <author fullname="JamesJr Seiler" initials="J.J." surname="Seiler"/>
+    <author fullname="WalterJr Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="JamesJr Seiler" initials="F" surname="Seiler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4085"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4085"/>
 </reference>

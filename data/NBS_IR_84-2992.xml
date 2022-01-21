@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2992" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2992.pdf">
   <front>
     <title>Guidelines for NBS standards committee participants</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2992"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2992"/>
-    <author fullname="Donald Mackay" initials="D." surname="Mackay"/>
+    <author fullname="Donald Mackay" initials="R" surname="Mackay">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2992"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2992"/>
 </reference>

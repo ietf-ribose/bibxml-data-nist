@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10139" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10139.pdf">
   <front>
     <title>Effect of vertical compressive loads on the transverse strength of masonry walls:final report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10139"/>
-    <seriesInfo name="NIST" value="NBS RPT 10139"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="Robert Dikkers" initials="R." surname="Dikkers"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="Robert Dikkers" initials="D" surname="Dikkers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10139"/>
+  <seriesInfo name="NIST" value="NBS RPT 10139"/>
 </reference>

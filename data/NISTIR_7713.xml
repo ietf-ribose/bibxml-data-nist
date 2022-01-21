@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7713" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7713.pdf">
   <front>
     <title>2010 programs of the Manufacturing Engineering Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7713"/>
-    <seriesInfo name="NIST" value="NIST IR 7713"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7713"/>
+  <seriesInfo name="NIST" value="NIST IR 7713"/>
 </reference>

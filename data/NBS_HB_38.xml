@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.38" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook38.pdf">
   <front>
     <title>Protection of radium during air raids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.38"/>
-    <seriesInfo name="NIST" value="NBS HB 38"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.38"/>
+  <seriesInfo name="NIST" value="NBS HB 38"/>
 </reference>

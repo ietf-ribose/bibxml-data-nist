@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6190" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6190.pdf">
   <front>
     <title>A method for computing heat transfer between connected compartments in a zone fire model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6190"/>
-    <seriesInfo name="NIST" value="NIST IR 6190"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="William Moss" initials="W." surname="Moss"/>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="William Moss" initials="F" surname="Moss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6190"/>
+  <seriesInfo name="NIST" value="NIST IR 6190"/>
 </reference>

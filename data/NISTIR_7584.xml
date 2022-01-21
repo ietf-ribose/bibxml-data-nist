@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7584" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7584.pdf">
   <front>
     <title>A coherent approach for interrogating polybenzoxazole fibers for residual phosphoric acid</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7584"/>
-    <seriesInfo name="NIST" value="NIST IR 7584"/>
-    <author fullname="Gale Holmes" initials="G." surname="Holmes"/>
-    <author fullname="EunSu Park" initials="E.S." surname="Park"/>
-    <author fullname="Charles Guttman" initials="C." surname="Guttman"/>
-    <author fullname="Kathleen Flynn" initials="K." surname="Flynn"/>
-    <author fullname="John Sieber" initials="J." surname="Sieber"/>
-    <author fullname="Stephanie Watson" initials="S." surname="Watson"/>
-    <author fullname="Kirk Rice" initials="K." surname="Rice"/>
+    <author fullname="Gale Holmes" initials="G." surname="Holmes">
+      <organization/>
+    </author>
+    <author fullname="EunSu Park" initials="E.S." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="Charles Guttman" initials="M" surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Flynn" initials="M" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="John Sieber" initials="R" surname="Sieber">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Watson" initials="S" surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Kirk Rice" initials="D" surname="Rice">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7584"/>
+  <seriesInfo name="NIST" value="NIST IR 7584"/>
 </reference>

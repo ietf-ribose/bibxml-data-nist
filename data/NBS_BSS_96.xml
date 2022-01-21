@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.96" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience96.pdf">
   <front>
     <title>Hourly solar radiation data for vertical and horizontal surfaces on average days in the United States and Canada</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.96"/>
-    <seriesInfo name="NIST" value="NBS BSS 96"/>
-    <author surname="Kusuda"/>
-    <author surname="Ishii"/>
+    <author initials="T" surname="Kusuda">
+      <organization/>
+    </author>
+    <author initials="K" surname="Ishii">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.96"/>
+  <seriesInfo name="NIST" value="NBS BSS 96"/>
 </reference>

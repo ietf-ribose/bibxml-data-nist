@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2083" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2083.pdf">
   <front>
     <title>The thermal character of a 1 m methanol pool fire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2083"/>
-    <seriesInfo name="NIST" value="NIST TN 2083"/>
     <author fullname="Kunhyuk Sung" initials="K." surname="Sung">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2083"/>
+  <seriesInfo name="NIST" value="NIST TN 2083"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3178" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3178.pdf">
   <front>
     <title>Paratransit advanced routing and scheduling system documentation :routing and scheduling dial-a-ride subsystem</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3178"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3178"/>
-    <author fullname="Howard Hung" initials="H." surname="Hung"/>
-    <author fullname="William Hall" initials="W." surname="Hall"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
+    <author fullname="Howard Hung" initials="K" surname="Hung">
+      <organization/>
+    </author>
+    <author fullname="William Hall" initials="G" surname="Hall">
+      <organization/>
+    </author>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3178"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3178"/>
 </reference>

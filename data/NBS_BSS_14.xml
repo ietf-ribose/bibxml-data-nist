@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience14.pdf">
   <front>
     <title>Experimental determination of eccentricity of floor loads applied to a bearing wall</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.14"/>
-    <seriesInfo name="NIST" value="NBS BSS 14"/>
-    <author surname="Watstein"/>
-    <author surname="Johnson"/>
+    <author initials="D" surname="Watstein">
+      <organization/>
+    </author>
+    <author initials="PV" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.14"/>
+  <seriesInfo name="NIST" value="NBS BSS 14"/>
 </reference>

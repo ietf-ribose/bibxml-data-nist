@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-623" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-623.pdf">
   <front>
     <title>Stability and abuse tests of riding toys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-623"/>
-    <seriesInfo name="NIST" value="NBS IR 74-623"/>
-    <author fullname="Willie Brown" initials="W." surname="Brown"/>
-    <author fullname="Harriet Baker" initials="H." surname="Baker"/>
+    <author fullname="Willie Brown" initials="C" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Harriet Baker" initials="A" surname="Baker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-623"/>
+  <seriesInfo name="NIST" value="NBS IR 74-623"/>
 </reference>

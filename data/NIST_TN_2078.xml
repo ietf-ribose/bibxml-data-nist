@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2078" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2078.pdf">
   <front>
     <title>The economics of firefighter injuries in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2078"/>
-    <seriesInfo name="NIST" value="NIST TN 2078"/>
-    <author fullname="David Butry" initials="D." surname="Butry">
+    <author fullname="David Butry" initials="T" surname="Butry">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="David Webb" initials="D." surname="Webb">
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2078"/>
+  <seriesInfo name="NIST" value="NIST TN 2078"/>
 </reference>

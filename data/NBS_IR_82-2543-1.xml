@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2543-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2543-1.pdf">
   <front>
     <title>Photonuclear data index, 1973-1981 (Supplement 2 to NBS Special Publication 380)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2543-1"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2543-1"/>
-    <author surname="Fuller"/>
-    <author fullname="Henry Gerstenberg" initials="H." surname="Gerstenberg"/>
+    <author initials="EG" surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="Henry Gerstenberg" initials="H." surname="Gerstenberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2543-1"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2543-1"/>
 </reference>

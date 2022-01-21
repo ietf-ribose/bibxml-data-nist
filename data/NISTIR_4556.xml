@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4556" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4556.pdf">
   <front>
     <title>An interior-point method for linear and quadratic programming problems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4556"/>
-    <seriesInfo name="NIST" value="NIST IR 4556"/>
-    <author surname="Boggs"/>
-    <author surname="Domich"/>
-    <author surname="Rogers"/>
-    <author surname="Witzgall"/>
+    <author initials="PT" surname="Boggs">
+      <organization/>
+    </author>
+    <author initials="PD" surname="Domich">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Rogers">
+      <organization/>
+    </author>
+    <author initials="C" surname="Witzgall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4556"/>
+  <seriesInfo name="NIST" value="NIST IR 4556"/>
 </reference>

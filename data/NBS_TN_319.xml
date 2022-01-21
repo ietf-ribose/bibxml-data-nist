@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.319" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote319.pdf">
   <front>
     <title>Numerical values of the path integrals for low and very low frequencies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.319"/>
-    <seriesInfo name="NIST" value="NBS TN 319"/>
-    <author surname="Berry"/>
+    <author initials="LA" surname="Berry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.319"/>
+  <seriesInfo name="NIST" value="NBS TN 319"/>
 </reference>

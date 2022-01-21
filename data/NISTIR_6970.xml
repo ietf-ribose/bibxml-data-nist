@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6970" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6970.pdf">
   <front>
     <title>Fifth annual report on federal agency use of voluntary consensus standards and conformity assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6970"/>
-    <seriesInfo name="NIST" value="NIST IR 6970"/>
-    <author fullname="Kevin McIntyre" initials="K." surname="McIntyre"/>
-    <author fullname="Michael Moore" initials="M." surname="Moore"/>
+    <author fullname="Kevin McIntyre" initials="L" surname="McIntyre">
+      <organization/>
+    </author>
+    <author fullname="Michael Moore" initials="B" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6970"/>
+  <seriesInfo name="NIST" value="NIST IR 6970"/>
 </reference>

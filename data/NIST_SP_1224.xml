@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1224" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1224.pdf">
   <front>
     <title>Research needs to support immediate occupancy building performance objective following natural hazard events</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1224"/>
-    <seriesInfo name="NIST" value="NIST SP 1224"/>
     <author fullname="Siamak Sattar" initials="S." surname="Sattar">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -51,4 +49,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1224"/>
+  <seriesInfo name="NIST" value="NIST SP 1224"/>
 </reference>

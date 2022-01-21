@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8200" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8200.pdf">
   <front>
     <title>Interagency report on the status of international cybersecurity standardization for the internet of things (IoT)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8200"/>
-    <seriesInfo name="NIST" value="NIST IR 8200"/>
     <author fullname="Mike Hogan" initials="M." surname="Hogan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8200"/>
+  <seriesInfo name="NIST" value="NIST IR 8200"/>
 </reference>

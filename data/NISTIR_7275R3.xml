@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7275r3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7275r3.pdf">
   <front>
     <title>Specification for the extensible configuration checklist description format (XCCDF) version 1.1.4</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7275r3"/>
-    <seriesInfo name="NIST" value="NIST IR 7275r3"/>
-    <author fullname="Neal Ziring" initials="N." surname="Ziring"/>
-    <author fullname="Stephen Quinn" initials="S." surname="Quinn"/>
+    <author fullname="Neal Ziring" initials="N." surname="Ziring">
+      <organization/>
+    </author>
+    <author fullname="Stephen Quinn" initials="D" surname="Quinn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7275r3"/>
+  <seriesInfo name="NIST" value="NIST IR 7275r3"/>
 </reference>

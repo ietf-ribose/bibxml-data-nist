@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1405" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1405.pdf">
   <front>
     <title>Computational materials science of cement-based materials :an education module</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1405"/>
-    <seriesInfo name="NIST" value="NIST TN 1405"/>
-    <author fullname="Tate Coverdale" initials="T." surname="Coverdale"/>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
+    <author fullname="Tate Coverdale" initials="R" surname="Coverdale">
+      <organization/>
+    </author>
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
+      <organization/>
+    </author>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1405"/>
+  <seriesInfo name="NIST" value="NIST TN 1405"/>
 </reference>

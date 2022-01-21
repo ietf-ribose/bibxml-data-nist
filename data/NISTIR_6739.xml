@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.6739" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6739.pdf">
   <front>
     <title>Volume visualization of Bose-Einstein condensates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6739"/>
-    <seriesInfo name="NIST" value="NIST IR 6739"/>
-    <author fullname="Peter Ketcham" initials="P." surname="Ketcham"/>
-    <author fullname="David Feder" initials="D." surname="Feder"/>
-    <author fullname="Charles Clark" initials="C." surname="Clark"/>
-    <author fullname="Steven Satterfield" initials="S." surname="Satterfield"/>
-    <author fullname="Terence Griffin" initials="T." surname="Griffin"/>
-    <author fullname="William Georg" initials="W." surname="Georg"/>
-    <author fullname="Barry Schneider" initials="B." surname="Schneider"/>
-    <author fullname="William Reinhardt" initials="W." surname="Reinhardt"/>
+    <author fullname="Peter Ketcham" initials="M" surname="Ketcham">
+      <organization/>
+    </author>
+    <author fullname="David Feder" initials="L" surname="Feder">
+      <organization/>
+    </author>
+    <author fullname="Charles Clark" initials="W" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Steven Satterfield" initials="G" surname="Satterfield">
+      <organization/>
+    </author>
+    <author fullname="Terence Griffin" initials="J" surname="Griffin">
+      <organization/>
+    </author>
+    <author fullname="William Georg" initials="L" surname="Georg">
+      <organization/>
+    </author>
+    <author fullname="Barry Schneider" initials="L" surname="Schneider">
+      <organization/>
+    </author>
+    <author fullname="William Reinhardt" initials="P" surname="Reinhardt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6739"/>
+  <seriesInfo name="NIST" value="NIST IR 6739"/>
 </reference>

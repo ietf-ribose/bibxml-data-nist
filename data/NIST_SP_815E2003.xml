@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.815e2003" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication815e2003.pdf">
   <front>
     <title>Directory of state and local government laboratory accreditationdesignation programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.815e2003"/>
-    <seriesInfo name="NIST" value="NIST SP 815e2003"/>
-    <author fullname="Charles Hyer" initials="C." surname="Hyer"/>
-    <author fullname="Charles Hyer" initials="C." surname="Hyer"/>
+    <author fullname="Charles Hyer" initials="W" surname="Hyer">
+      <organization/>
+    </author>
+    <author fullname="Charles Hyer" initials="W" surname="Hyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.815e2003"/>
+  <seriesInfo name="NIST" value="NIST SP 815e2003"/>
 </reference>

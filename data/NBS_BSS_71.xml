@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience71.pdf">
   <front>
     <title>A proposed concept for determining the need for air conditioning for buildings based on building thermal response and human comfort</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.71"/>
-    <seriesInfo name="NIST" value="NBS BSS 71"/>
-    <author surname="Hill"/>
-    <author surname="Kusuda"/>
-    <author surname="Liu"/>
-    <author surname="Powell"/>
+    <author initials="JE" surname="Hill">
+      <organization/>
+    </author>
+    <author initials="T" surname="Kusuda">
+      <organization/>
+    </author>
+    <author initials="ST" surname="Liu">
+      <organization/>
+    </author>
+    <author initials="FJ" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.71"/>
+  <seriesInfo name="NIST" value="NBS BSS 71"/>
 </reference>

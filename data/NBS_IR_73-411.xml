@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.73-411" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-411.pdf">
   <front>
     <title>Development of analytical reference materials and contaminant generation systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-411"/>
-    <seriesInfo name="NIST" value="NBS IR 73-411"/>
-    <author surname="Cadoff"/>
-    <author surname="Pella"/>
-    <author surname="Hughes"/>
-    <author surname="Scheide"/>
-    <author surname="Taylor"/>
+    <author initials="BC" surname="Cadoff">
+      <organization/>
+    </author>
+    <author initials="PA" surname="Pella">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Hughes">
+      <organization/>
+    </author>
+    <author initials="EP" surname="Scheide">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-411"/>
+  <seriesInfo name="NIST" value="NBS IR 73-411"/>
 </reference>

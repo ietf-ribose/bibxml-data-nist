@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8187" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8187.pdf">
   <front>
     <title>Evaluation infrastructure for the measurement of content-based video quality and video analytics performance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8187"/>
-    <seriesInfo name="NIST" value="NIST IR 8187"/>
     <author fullname="Haiying Guan" initials="H." surname="Guan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8187"/>
+  <seriesInfo name="NIST" value="NIST IR 8187"/>
 </reference>

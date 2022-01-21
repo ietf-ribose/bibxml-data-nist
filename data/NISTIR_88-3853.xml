@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3853" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3853.pdf">
   <front>
     <title>Assessment and evaluation manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3853"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3853"/>
-    <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
+    <author fullname="Robert Gladhill" initials="L" surname="Gladhill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3853"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3853"/>
 </reference>

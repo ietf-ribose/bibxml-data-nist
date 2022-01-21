@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.841r1946" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular841r1946.pdf">
   <front>
     <title>Letter Circular 841:glass and glass products (supersedes Letter Circular 350)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.841r1946"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 841r1946"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.841r1946"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 841r1946"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.570" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote570.pdf">
   <front>
     <title>Determination of deep impurities in Silicon and Germanium by infrared photoconductivity</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.570"/>
-    <seriesInfo name="NIST" value="NBS TN 570"/>
-    <author fullname="Robert Thurber" initials="R." surname="Thurber"/>
+    <author fullname="Robert Thurber" initials="W" surname="Thurber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.570"/>
+  <seriesInfo name="NIST" value="NBS TN 570"/>
 </reference>

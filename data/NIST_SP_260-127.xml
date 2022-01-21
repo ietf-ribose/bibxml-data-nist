@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-127.pdf">
   <front>
     <title>Standard Reference Materials :Standard reference material 1747 /</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-127"/>
-    <seriesInfo name="NIST" value="NIST SP 260-127"/>
-    <author fullname="Ahmet Ince" initials="A." surname="Ince"/>
-    <author fullname="Gregory Strouse" initials="G." surname="Strouse"/>
+    <author fullname="Ahmet Ince" initials="T" surname="Ince">
+      <organization/>
+    </author>
+    <author fullname="Gregory Strouse" initials="F" surname="Strouse">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-127"/>
+  <seriesInfo name="NIST" value="NIST SP 260-127"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3970" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3970.pdf">
   <front>
     <title>Personal computer codes for analysis of planar near fields</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3970"/>
-    <seriesInfo name="NIST" value="NIST IR 3970"/>
-    <author fullname="Lorant Muth" initials="L." surname="Muth"/>
-    <author fullname="Richard Lewis" initials="R." surname="Lewis"/>
+    <author fullname="Lorant Muth" initials="A" surname="Muth">
+      <organization/>
+    </author>
+    <author fullname="Richard Lewis" initials="L" surname="Lewis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3970"/>
+  <seriesInfo name="NIST" value="NIST IR 3970"/>
 </reference>

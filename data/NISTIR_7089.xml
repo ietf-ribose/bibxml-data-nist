@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7089" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7089.pdf">
   <front>
     <title>Shape-sensitive linewidth measurements of resist structures:LITG410I project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7089"/>
-    <seriesInfo name="NIST" value="NIST IR 7089"/>
-    <author fullname="John Villarrubia" initials="J." surname="Villarrubia"/>
-    <author fullname="András Vladár" initials="A." surname="Vladár"/>
-    <author fullname="Michale Postek" initials="M." surname="Postek"/>
+    <author fullname="John Villarrubia" initials="S" surname="Villarrubia">
+      <organization/>
+    </author>
+    <author fullname="András Vladár" initials="A." surname="Vladár">
+      <organization/>
+    </author>
+    <author fullname="Michale Postek" initials="T" surname="Postek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7089"/>
+  <seriesInfo name="NIST" value="NIST IR 7089"/>
 </reference>

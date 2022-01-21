@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1503" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1503.pdf">
   <front>
     <title>State adopted building regulations for the construction of manufactured buildings- an analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1503"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1503"/>
-    <author fullname="Patrick Cooke" initials="P." surname="Cooke"/>
-    <author fullname="Robert Eisenhard" initials="R." surname="Eisenhard"/>
+    <author fullname="Patrick Cooke" initials="W" surname="Cooke">
+      <organization/>
+    </author>
+    <author fullname="Robert Eisenhard" initials="M" surname="Eisenhard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1503"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1503"/>
 </reference>

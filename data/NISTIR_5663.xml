@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5663" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5663.pdf">
   <front>
     <title>Multiattribute decision analysis method for evaluating buildings and building systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5663"/>
-    <seriesInfo name="NIST" value="NIST IR 5663"/>
-    <author fullname="Gregory Norris" initials="G." surname="Norris"/>
-    <author fullname="Harold Marshall" initials="H." surname="Marshall"/>
+    <author fullname="Gregory Norris" initials="A" surname="Norris">
+      <organization/>
+    </author>
+    <author fullname="Harold Marshall" initials="E" surname="Marshall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5663"/>
+  <seriesInfo name="NIST" value="NIST IR 5663"/>
 </reference>

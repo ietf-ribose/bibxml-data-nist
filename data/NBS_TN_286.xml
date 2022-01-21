@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.286" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote286.pdf">
   <front>
     <title>Spark source mass spectrograph program, July 1964 to June 1965</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.286"/>
-    <seriesInfo name="NIST" value="NBS TN 286"/>
-    <author fullname="Paul Branch" initials="P." surname="Branch"/>
-    <author fullname="PaulJohann Paulsen" initials="P.J." surname="Paulsen"/>
+    <author fullname="Paul Branch" initials="E" surname="Branch">
+      <organization/>
+    </author>
+    <author fullname="PaulJohann Paulsen" initials="P.J." surname="Paulsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.286"/>
+  <seriesInfo name="NIST" value="NBS TN 286"/>
 </reference>

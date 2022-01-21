@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.935" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication935.pdf">
   <front>
     <title>In situ burning of oil spills</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.935"/>
-    <seriesInfo name="NIST" value="NIST SP 935"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.935"/>
+  <seriesInfo name="NIST" value="NIST SP 935"/>
 </reference>

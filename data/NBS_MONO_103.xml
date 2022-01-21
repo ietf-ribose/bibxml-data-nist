@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.103" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph103.pdf">
   <front>
     <title>Realistic uncertainties and the mass measurement process :an illustrated review</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.103"/>
-    <seriesInfo name="NIST" value="NBS MONO 103"/>
-    <author surname="Pontius"/>
-    <author surname="Cameron"/>
+    <author initials="PE" surname="Pontius">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Cameron">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.103"/>
+  <seriesInfo name="NIST" value="NBS MONO 103"/>
 </reference>

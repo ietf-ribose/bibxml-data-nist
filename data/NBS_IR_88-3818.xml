@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3818" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3818.pdf">
   <front>
     <title>Converting the AMRF part model report to a PDESSTEP subset (a preliminary implementation)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3818"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3818"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Sanford Ressler" initials="S." surname="Ressler"/>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Sanford Ressler" initials="P" surname="Ressler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3818"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3818"/>
 </reference>

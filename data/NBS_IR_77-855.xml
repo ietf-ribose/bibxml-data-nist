@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-855" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-855.pdf">
   <front>
     <title>Quartz crystal oscillators with low acceleration sensitivity</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-855"/>
-    <seriesInfo name="NIST" value="NBS IR 77-855"/>
-    <author surname="Gagnepain"/>
-    <author surname="Walls"/>
+    <author initials="JJ" surname="Gagnepain">
+      <organization/>
+    </author>
+    <author initials="FL" surname="Walls">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-855"/>
+  <seriesInfo name="NIST" value="NBS IR 77-855"/>
 </reference>

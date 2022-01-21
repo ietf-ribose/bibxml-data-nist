@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1951" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1951.pdf">
   <front>
     <title>Energy test method development for electric heat pump water heaters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1951"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1951"/>
-    <author fullname="Andrew Wan" initials="A." surname="Wan"/>
+    <author fullname="Andrew Wan" initials="C" surname="Wan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1951"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1951"/>
 </reference>

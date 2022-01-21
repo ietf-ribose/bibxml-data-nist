@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.154" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub154.pdf">
   <front>
     <title>Summary report of Bureau of Standards research on preservation of records/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.154"/>
-    <seriesInfo name="NIST" value="NBS MP 154"/>
-    <author surname="Scribner"/>
-    <author surname="Kimberly"/>
+    <author initials="BW" surname="Scribner">
+      <organization/>
+    </author>
+    <author initials="AE" surname="Kimberly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1937"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.154"/>
+  <seriesInfo name="NIST" value="NBS MP 154"/>
 </reference>

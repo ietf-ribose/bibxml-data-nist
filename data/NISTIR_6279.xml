@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.6279" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6279.pdf">
   <front>
     <title>National Marine Mammal Tissue Bank and Quality Assurance Program:protocols, inventory, and analytical results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6279"/>
-    <seriesInfo name="NIST" value="NIST IR 6279"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Barbara Porter" initials="J" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Mackey" initials="A" surname="Mackey">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6279"/>
+  <seriesInfo name="NIST" value="NIST IR 6279"/>
 </reference>

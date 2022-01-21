@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.86-3453" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3453.pdf">
   <front>
     <title>Plan for a design study for a national earthquake engineering experimental facility</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3453"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3453"/>
-    <author fullname="Charles Scribner" initials="C." surname="Scribner"/>
-    <author surname="Leyendecker"/>
+    <author fullname="Charles Scribner" initials="F" surname="Scribner">
+      <organization/>
+    </author>
+    <author initials="EV" surname="Leyendecker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3453"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3453"/>
 </reference>

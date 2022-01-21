@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.319" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication319.pdf">
   <front>
     <title>Man, his job, and the environment :a review and annotated bibliography of selected recent research on human performance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.319"/>
-    <seriesInfo name="NIST" value="NBS SP 319"/>
-    <author fullname="III Mather" initials="I." surname="Mather"/>
-    <author fullname="Boris Kit" initials="B." surname="Kit"/>
-    <author fullname="Gail Bloch" initials="G." surname="Bloch"/>
-    <author fullname="Martha Herman" initials="M." surname="Herman"/>
+    <author fullname="III Mather" initials="I." surname="Mather">
+      <organization/>
+    </author>
+    <author fullname="Boris Kit" initials="V" surname="Kit">
+      <organization/>
+    </author>
+    <author fullname="Gail Bloch" initials="A" surname="Bloch">
+      <organization/>
+    </author>
+    <author fullname="Martha Herman" initials="F" surname="Herman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.319"/>
+  <seriesInfo name="NIST" value="NBS SP 319"/>
 </reference>

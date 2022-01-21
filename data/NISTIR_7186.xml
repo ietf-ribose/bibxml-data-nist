@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.7186" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7186.pdf">
   <front>
     <title>Terrain characterization for TRL-6 evaluation of an unmanned ground vehicle</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7186"/>
-    <seriesInfo name="NIST" value="NIST IR 7186"/>
-    <author fullname="Michael Shneier" initials="M." surname="Shneier"/>
-    <author fullname="Tsai Hong" initials="T." surname="Hong"/>
-    <author fullname="Tommy Chang" initials="T." surname="Chang"/>
-    <author fullname="Harry Scott" initials="H." surname="Scott"/>
-    <author fullname="Steve Legowik" initials="S." surname="Legowik"/>
-    <author fullname="Gerry Cheok" initials="G." surname="Cheok"/>
-    <author fullname="Chuck Giauque" initials="C." surname="Giauque"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Christopher Witzgall" initials="C." surname="Witzgall"/>
+    <author fullname="Michael Shneier" initials="M." surname="Shneier">
+      <organization/>
+    </author>
+    <author fullname="Tsai Hong" initials="T." surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="Tommy Chang" initials="T." surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Harry Scott" initials="H." surname="Scott">
+      <organization/>
+    </author>
+    <author fullname="Steve Legowik" initials="S." surname="Legowik">
+      <organization/>
+    </author>
+    <author fullname="Gerry Cheok" initials="G." surname="Cheok">
+      <organization/>
+    </author>
+    <author fullname="Chuck Giauque" initials="C." surname="Giauque">
+      <organization/>
+    </author>
+    <author fullname="David Gilsinn" initials="D." surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Christopher Witzgall" initials="C." surname="Witzgall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7186"/>
+  <seriesInfo name="NIST" value="NIST IR 7186"/>
 </reference>

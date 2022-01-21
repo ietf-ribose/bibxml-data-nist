@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.910" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication910.pdf">
   <front>
     <title>Green's functions and boundary element analysis for modeling of mechanical behavior of advanced materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.910"/>
-    <seriesInfo name="NIST" value="NIST SP 910"/>
-    <author surname="Berger"/>
-    <author surname="Tewary"/>
+    <author initials="JR" surname="Berger">
+      <organization/>
+    </author>
+    <author initials="VK" surname="Tewary">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.910"/>
+  <seriesInfo name="NIST" value="NIST SP 910"/>
 </reference>

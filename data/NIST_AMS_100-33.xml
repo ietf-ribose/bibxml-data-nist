@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.100-33" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-33.pdf">
   <front>
     <title>Proceedings of the ASTM E57 workshop on standards for 3D perception systems for robotic assembly applications:December 2-3, 2019</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-33"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-33"/>
     <author fullname="Kamel Saidi" initials="K." surname="Saidi">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-33"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-33"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5945" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5945.pdf">
   <front>
     <title>Performance of R-22 alternative refrigerants in a system with cross-flow and counter-flow heat exchangers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5945"/>
-    <seriesInfo name="NIST" value="NIST IR 5945"/>
-    <author fullname="Man-Hoe Kim" initials="M." surname="Kim"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
-    <author fullname="David Didion" initials="D." surname="Didion"/>
+    <author fullname="Man-Hoe Kim" initials="M." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
+    <author fullname="David Didion" initials="A" surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5945"/>
+  <seriesInfo name="NIST" value="NIST IR 5945"/>
 </reference>

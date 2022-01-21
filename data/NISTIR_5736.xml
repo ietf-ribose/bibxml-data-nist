@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5736" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5736.pdf">
   <front>
     <title>Comparison of POSIX Open System Environment (OSE) and Open Distributed Processing (ODP) reference models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5736"/>
-    <seriesInfo name="NIST" value="NIST IR 5736"/>
-    <author fullname="Geraldina Fernandes" initials="G." surname="Fernandes"/>
-    <author fullname="Joseph Hungate" initials="J." surname="Hungate"/>
+    <author fullname="Geraldina Fernandes" initials="G." surname="Fernandes">
+      <organization/>
+    </author>
+    <author fullname="Joseph Hungate" initials="J." surname="Hungate">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5736"/>
+  <seriesInfo name="NIST" value="NIST IR 5736"/>
 </reference>

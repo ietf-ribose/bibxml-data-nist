@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2048" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2048.pdf">
   <front>
     <title>Simulation and analysis plan to evaluate the impact of CO mitigation requirements for portable generators</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2048"/>
-    <seriesInfo name="NIST" value="NIST TN 2048"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Brian Polidoro" initials="B." surname="Polidoro">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Brookman" initials="M." surname="Brookman">
+    <author fullname="Matthew Brookman" initials="J" surname="Brookman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Janet Buyer" initials="J." surname="Buyer">
@@ -30,4 +28,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2048"/>
+  <seriesInfo name="NIST" value="NIST TN 2048"/>
 </reference>

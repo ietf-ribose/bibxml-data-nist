@@ -1,8 +1,6 @@
 <reference anchor="NBS.BRPD-CRPL-D.34" target="https://nvlpubs.nist.gov/nistpubs/Legacy/brpd-crpl-d/brpd-crpl-d34.pdf">
   <front>
     <title>Basic radio propagation predictions for September 1947:three months in advance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BRPD-CRPL-D.34"/>
-    <seriesInfo name="NIST" value="NBS BRPD-CRPL-D 34"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BRPD-CRPL-D.34"/>
+  <seriesInfo name="NIST" value="NBS BRPD-CRPL-D 34"/>
 </reference>

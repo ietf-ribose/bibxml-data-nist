@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.500-295" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-295.pdf">
   <front>
     <title>Conformance Testing Methodology for ANSI/NIST-ITL 1-2011, Data Format for the Interchange of Fingerprint, Facial and Other Biometric Information (Release 1.0)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-295"/>
-    <seriesInfo name="NIST" value="NIST SP 500-295"/>
-    <author role="editor" fullname="Fernando Podio" initials="F." surname="Podio">
+    <author role="editor" fullname="Fernando Podio" initials="L" surname="Podio">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author role="editor" fullname="Dylan Yaga" initials="D." surname="Yaga">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author role="editor" fullname="Christofer McGinnis" initials="C." surname="McGinnis">
+    <author role="editor" fullname="Christofer McGinnis" initials="J" surname="McGinnis">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2012" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-295"/>
+  <seriesInfo name="NIST" value="NIST SP 500-295"/>
 </reference>

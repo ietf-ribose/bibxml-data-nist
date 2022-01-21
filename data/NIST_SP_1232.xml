@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1232" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1232.pdf">
   <front>
     <title>NIST Conference PapersFiscal Year 2016</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1232"/>
-    <seriesInfo name="NIST" value="NIST SP 1232"/>
     <author role="editor" fullname="Andrea Medina-Smith" initials="A." surname="Medina-Smith">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1232"/>
+  <seriesInfo name="NIST" value="NIST SP 1232"/>
 </reference>

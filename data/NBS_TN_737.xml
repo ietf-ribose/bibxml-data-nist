@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.737" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote737.pdf">
   <front>
     <title>Interior</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.737"/>
-    <seriesInfo name="NIST" value="NBS TN 737"/>
-    <author fullname="James Heinen" initials="J." surname="Heinen"/>
-    <author surname="Mathews"/>
-    <author surname="Quindry"/>
-    <author fullname="William Leasure" initials="W." surname="Leasure"/>
+    <author fullname="James Heinen" initials="M" surname="Heinen">
+      <organization/>
+    </author>
+    <author initials="D" surname="Mathews">
+      <organization/>
+    </author>
+    <author initials="TL" surname="Quindry">
+      <organization/>
+    </author>
+    <author fullname="William Leasure" initials="A" surname="Leasure">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.737"/>
+  <seriesInfo name="NIST" value="NBS TN 737"/>
 </reference>

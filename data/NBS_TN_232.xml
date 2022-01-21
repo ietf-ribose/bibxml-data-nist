@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.232" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote232.pdf">
   <front>
     <title>Bibliography on the measurement of bulk resistivity of semiconductor materials for electron devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.232"/>
-    <seriesInfo name="NIST" value="NBS TN 232"/>
-    <author fullname="Judson French" initials="J." surname="French"/>
+    <author fullname="Judson French" initials="C" surname="French">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.232"/>
+  <seriesInfo name="NIST" value="NBS TN 232"/>
 </reference>

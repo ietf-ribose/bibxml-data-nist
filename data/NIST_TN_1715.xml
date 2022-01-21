@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1715" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1715.pdf">
   <front>
     <title>Certified transmittance density uncertainties for standard reference materials using a transfer spectrophotometer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1715"/>
-    <seriesInfo name="NIST" value="NIST TN 1715"/>
-    <author surname="Travis"/>
-    <author surname="Smith"/>
-    <author surname="Choquette"/>
+    <author initials="JC" surname="Travis">
+      <organization/>
+    </author>
+    <author initials="MV" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Choquette">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1715"/>
+  <seriesInfo name="NIST" value="NIST TN 1715"/>
 </reference>

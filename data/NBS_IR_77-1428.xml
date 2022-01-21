@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1428" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1428.pdf">
   <front>
     <title>Survey of the occurrence of mercury, lead, and cadmium in the Washington D. C. area</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1428"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1428"/>
-    <author surname="Scheide"/>
-    <author surname="Filliben"/>
-    <author surname="Taylor"/>
+    <author initials="EP" surname="Scheide">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Filliben">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1428"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1428"/>
 </reference>

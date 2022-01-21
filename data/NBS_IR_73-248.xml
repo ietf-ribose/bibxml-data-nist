@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-248" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-248.pdf">
   <front>
     <title>A survey of the sanitary conditions of migrant labor camps</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-248"/>
-    <seriesInfo name="NIST" value="NBS IR 73-248"/>
-    <author fullname="Charles Fried" initials="C." surname="Fried"/>
-    <author fullname="Robert Ramsburg" initials="R." surname="Ramsburg"/>
-    <author fullname="Stephen Butler" initials="S." surname="Butler"/>
+    <author fullname="Charles Fried" initials="C." surname="Fried">
+      <organization/>
+    </author>
+    <author fullname="Robert Ramsburg" initials="R." surname="Ramsburg">
+      <organization/>
+    </author>
+    <author fullname="Stephen Butler" initials="S." surname="Butler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-248"/>
+  <seriesInfo name="NIST" value="NBS IR 73-248"/>
 </reference>

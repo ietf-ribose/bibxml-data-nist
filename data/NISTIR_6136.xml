@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6136.pdf">
   <front>
     <title>Multi-network access to IEEE P1451 smart sensor information using World Wide Web Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6136"/>
-    <seriesInfo name="NIST" value="NIST IR 6136"/>
-    <author fullname="Richard Schneeman" initials="R." surname="Schneeman"/>
-    <author fullname="Kang Lee" initials="K." surname="Lee"/>
+    <author fullname="Richard Schneeman" initials="D" surname="Schneeman">
+      <organization/>
+    </author>
+    <author fullname="Kang Lee" initials="K." surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6136"/>
+  <seriesInfo name="NIST" value="NIST IR 6136"/>
 </reference>

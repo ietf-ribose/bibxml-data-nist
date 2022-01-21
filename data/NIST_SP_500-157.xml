@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-157" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-157.pdf">
   <front>
     <title>Smart card technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-157"/>
-    <seriesInfo name="NIST" value="NIST SP 500-157"/>
-    <author fullname="Martha Haykin" initials="M." surname="Haykin"/>
-    <author fullname="Robert Warnar" initials="R." surname="Warnar"/>
+    <author fullname="Martha Haykin" initials="E" surname="Haykin">
+      <organization/>
+    </author>
+    <author fullname="Robert Warnar" initials="BJ" surname="Warnar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-157"/>
+  <seriesInfo name="NIST" value="NIST SP 500-157"/>
 </reference>

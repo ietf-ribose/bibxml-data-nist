@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-39" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-39.pdf">
   <front>
     <title>Standard Reference MaterialsThe eddy current decay method for resistivity characterization of high purity metals</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-39"/>
-    <seriesInfo name="NIST" value="NBS SP 260-39"/>
-    <author surname="Deason"/>
-    <author surname="Powell"/>
-    <author surname="Clark"/>
+    <author initials="VA" surname="Deason">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Powell">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-39"/>
+  <seriesInfo name="NIST" value="NBS SP 260-39"/>
 </reference>

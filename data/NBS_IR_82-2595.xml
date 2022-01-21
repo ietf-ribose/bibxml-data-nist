@@ -1,16 +1,30 @@
 <reference anchor="NBS.IR.82-2595" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2595.pdf">
   <front>
     <title>Characterization of air particulate material for polycyclic aromatic compounds</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2595"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2595"/>
-    <author surname="Wise"/>
-    <author surname="Allen"/>
-    <author surname="Chesler"/>
-    <author surname="Hertz"/>
-    <author surname="Hilpert"/>
-    <author surname="May"/>
-    <author surname="Rebbert"/>
-    <author surname="Vogt"/>
+    <author initials="SA" surname="Wise">
+      <organization/>
+    </author>
+    <author initials="CF" surname="Allen">
+      <organization/>
+    </author>
+    <author initials="SN" surname="Chesler">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Hertz">
+      <organization/>
+    </author>
+    <author initials="LR" surname="Hilpert">
+      <organization/>
+    </author>
+    <author initials="WE" surname="May">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Rebbert">
+      <organization/>
+    </author>
+    <author initials="CR" surname="Vogt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2595"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2595"/>
 </reference>

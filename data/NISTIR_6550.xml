@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6550" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6550.pdf">
   <front>
     <title>Pulse transition duration measurements and standards at NBS</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6550"/>
-    <seriesInfo name="NIST" value="NIST IR 6550"/>
-    <author surname="Gans"/>
-    <author surname="Nahman"/>
-    <author surname="Andrew"/>
-    <author surname="Baldwin"/>
+    <author initials="WL" surname="Gans">
+      <organization/>
+    </author>
+    <author initials="NS" surname="Nahman">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Andrew">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Baldwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6550"/>
+  <seriesInfo name="NIST" value="NIST IR 6550"/>
 </reference>

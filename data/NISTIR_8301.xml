@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8301" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8301.pdf">
   <front>
     <title>Blockchain Networks: Token Design and Management Overview</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8301"/>
-    <seriesInfo name="NIST" value="NIST IR 8301"/>
     <author fullname="Loïc Lesavre" initials="L." surname="Lesavre">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="February" day="9"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8301"/>
+  <seriesInfo name="NIST" value="NIST IR 8301"/>
 </reference>

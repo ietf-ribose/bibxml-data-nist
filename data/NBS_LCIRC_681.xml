@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.681" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular681.pdf">
   <front>
     <title>Letter Circular 681:units and systems of weights and measures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.681"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 681"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.681"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 681"/>
 </reference>

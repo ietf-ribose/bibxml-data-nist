@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.336" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote336.pdf">
   <front>
     <title>Calculation of the admittance of a parallel plate capacitor containing a toroid-shaped sample.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.336"/>
-    <seriesInfo name="NIST" value="NBS TN 336"/>
-    <author fullname="Eric Johnson" initials="E." surname="Johnson"/>
+    <author fullname="Eric Johnson" initials="G" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.336"/>
+  <seriesInfo name="NIST" value="NBS TN 336"/>
 </reference>

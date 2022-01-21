@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.85-3169" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3169.pdf">
   <front>
     <title>Standard beta-particle and monenergetic electron sources for the calibration of beta-radiation protection instrumentation :jointly sponsored by the U. S. Nuclear Regulatory Commission and the U. S. Department of Commerce</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3169"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3169"/>
-    <author surname="Ehrlich"/>
-    <author surname="Pruitt"/>
-    <author surname="Soares"/>
-    <author surname="Dick"/>
-    <author surname="Heaton"/>
-    <author surname="Schwartz"/>
+    <author initials="M" surname="Ehrlich">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Pruitt">
+      <organization/>
+    </author>
+    <author initials="CG" surname="Soares">
+      <organization/>
+    </author>
+    <author initials="CE" surname="Dick">
+      <organization/>
+    </author>
+    <author initials="HT" surname="Heaton">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Schwartz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3169"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3169"/>
 </reference>

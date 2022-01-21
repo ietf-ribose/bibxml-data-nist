@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.873" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular873.pdf">
   <front>
     <title>Letter Circular 873:enamels (supersedes Letter Circular 587D)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.873"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 873"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.873"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 873"/>
 </reference>

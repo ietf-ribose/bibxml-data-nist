@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6891" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6891.pdf">
   <front>
     <title>Community-scale fire spread</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6891"/>
-    <seriesInfo name="NIST" value="NIST IR 6891"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6891"/>
+  <seriesInfo name="NIST" value="NIST IR 6891"/>
 </reference>

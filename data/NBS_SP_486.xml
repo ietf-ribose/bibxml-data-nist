@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.486" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication486.pdf">
   <front>
     <title>User evaluation of "Phase diagrams for ceramists" and implications for related data and research programs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.486"/>
-    <seriesInfo name="NIST" value="NBS SP 486"/>
-    <author surname="Roth"/>
-    <author surname="Cook"/>
-    <author surname="Negas"/>
-    <author surname="Cleek"/>
-    <author surname="Wachtman"/>
+    <author initials="RS" surname="Roth">
+      <organization/>
+    </author>
+    <author initials="LP" surname="Cook">
+      <organization/>
+    </author>
+    <author initials="T" surname="Negas">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Cleek">
+      <organization/>
+    </author>
+    <author initials="JB" surname="Wachtman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.486"/>
+  <seriesInfo name="NIST" value="NBS SP 486"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5750" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5750.pdf">
   <front>
     <title>Metallurgy, technical activities 1995</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5750"/>
-    <seriesInfo name="NIST" value="NIST IR 5750"/>
-    <author surname="Pugh"/>
-    <author surname="Hardy"/>
+    <author initials="EN" surname="Pugh">
+      <organization/>
+    </author>
+    <author initials="SC" surname="Hardy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5750"/>
+  <seriesInfo name="NIST" value="NIST IR 5750"/>
 </reference>

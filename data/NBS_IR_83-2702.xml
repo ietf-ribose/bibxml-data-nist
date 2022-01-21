@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2702" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2702.pdf">
   <front>
     <title>Corrosion evaluation of underground telephone cable shielding materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2702"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2702"/>
-    <author surname="Fink"/>
+    <author initials="JL" surname="Fink">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2702"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2702"/>
 </reference>

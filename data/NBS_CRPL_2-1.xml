@@ -1,12 +1,10 @@
 <reference anchor="NBS.CRPL.2-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-2-1.pdf">
   <front>
     <title>Survey of meteorological instruments used in tropospheric propagation investigations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.2-1"/>
-    <seriesInfo name="NIST" value="NBS CRPL 2-1"/>
-    <author surname="Randall">
+    <author initials="DL" surname="Randall">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
-    <author surname="Schulkin">
+    <author initials="M" surname="Schulkin">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.2-1"/>
+  <seriesInfo name="NIST" value="NBS CRPL 2-1"/>
 </reference>

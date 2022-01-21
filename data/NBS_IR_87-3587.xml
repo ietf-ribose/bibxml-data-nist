@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3587" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3587.pdf">
   <front>
     <title>Technical activities 1987 :Center for Basic Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3587"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3587"/>
-    <author fullname="Peter Heydemann" initials="P." surname="Heydemann"/>
+    <author fullname="Peter Heydemann" initials="LM" surname="Heydemann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3587"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3587"/>
 </reference>

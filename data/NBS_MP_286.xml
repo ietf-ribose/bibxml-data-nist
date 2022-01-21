@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.286" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub286.pdf">
   <front>
     <title>Units of weight and measure :International (metric) and U.S. customary (supersedes MP233)/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.286"/>
-    <seriesInfo name="NIST" value="NBS MP 286"/>
-    <author surname="Chisholm"/>
+    <author initials="LJ" surname="Chisholm">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.286"/>
+  <seriesInfo name="NIST" value="NBS MP 286"/>
 </reference>

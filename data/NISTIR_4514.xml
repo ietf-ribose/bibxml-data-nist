@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.4514" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4514.pdf">
   <front>
     <title>Assessment of the state-of-the-art for process monitoring sensors for polymer composites</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4514"/>
-    <seriesInfo name="NIST" value="NIST IR 4514"/>
-    <author fullname="Donald Hunston" initials="D." surname="Hunston"/>
-    <author fullname="Walter McDonough" initials="W." surname="McDonough"/>
-    <author fullname="Bruno Fanconi" initials="B." surname="Fanconi"/>
-    <author fullname="Fred Mopsik" initials="F." surname="Mopsik"/>
-    <author fullname="Francis Wang" initials="F." surname="Wang"/>
-    <author fullname="Fred Phelan" initials="F." surname="Phelan"/>
-    <author fullname="Martin Chiang" initials="M." surname="Chiang"/>
+    <author fullname="Donald Hunston" initials="D." surname="Hunston">
+      <organization/>
+    </author>
+    <author fullname="Walter McDonough" initials="W." surname="McDonough">
+      <organization/>
+    </author>
+    <author fullname="Bruno Fanconi" initials="B." surname="Fanconi">
+      <organization/>
+    </author>
+    <author fullname="Fred Mopsik" initials="F." surname="Mopsik">
+      <organization/>
+    </author>
+    <author fullname="Francis Wang" initials="F." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Fred Phelan" initials="F." surname="Phelan">
+      <organization/>
+    </author>
+    <author fullname="Martin Chiang" initials="M." surname="Chiang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4514"/>
+  <seriesInfo name="NIST" value="NIST IR 4514"/>
 </reference>

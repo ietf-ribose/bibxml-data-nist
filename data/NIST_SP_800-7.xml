@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-7.pdf">
   <front>
     <title>Security in open systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-7"/>
-    <seriesInfo name="NIST" value="NIST SP 800-7"/>
     <author fullname="John Barkley" initials="J." surname="Barkley">
       <organization>Computer Security Division.</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-7"/>
+  <seriesInfo name="NIST" value="NIST SP 800-7"/>
 </reference>

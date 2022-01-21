@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7942" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7942.pdf">
   <front>
     <title>Metrics and test methods for industrial kit building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7942"/>
-    <seriesInfo name="NIST" value="NIST IR 7942"/>
     <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7942"/>
+  <seriesInfo name="NIST" value="NIST IR 7942"/>
 </reference>

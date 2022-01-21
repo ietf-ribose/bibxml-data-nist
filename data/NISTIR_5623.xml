@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5623" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5623.pdf">
   <front>
     <title>An electronic implementers'' workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5623"/>
-    <seriesInfo name="NIST" value="NIST IR 5623"/>
-    <author fullname="Ted Landberg" initials="T." surname="Landberg"/>
-    <author fullname="Robert Bagwill" initials="R." surname="Bagwill"/>
-    <author fullname="Brenda Gray" initials="B." surname="Gray"/>
+    <author fullname="Ted Landberg" initials="T." surname="Landberg">
+      <organization/>
+    </author>
+    <author fullname="Robert Bagwill" initials="R." surname="Bagwill">
+      <organization/>
+    </author>
+    <author fullname="Brenda Gray" initials="B." surname="Gray">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5623"/>
+  <seriesInfo name="NIST" value="NIST IR 5623"/>
 </reference>

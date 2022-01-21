@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5847" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5847.pdf">
   <front>
     <title>Warping of terrace pavers at the U.S. Capitol Building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5847"/>
-    <seriesInfo name="NIST" value="NIST IR 5847"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Paul Stutzman" initials="P." surname="Stutzman">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="J." surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5847"/>
+  <seriesInfo name="NIST" value="NIST IR 5847"/>
 </reference>

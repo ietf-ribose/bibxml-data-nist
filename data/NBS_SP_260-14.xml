@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-14.pdf">
   <front>
     <title>Standard Reference Materials :Determination of oxygen in ferrous materials SRM 1090, 1091, and 1092/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-14"/>
-    <seriesInfo name="NIST" value="NBS SP 260-14"/>
-    <author surname="Sterling"/>
-    <author fullname="Oscar Menis" initials="O." surname="Menis"/>
+    <author initials="JT" surname="Sterling">
+      <organization/>
+    </author>
+    <author fullname="Oscar Menis" initials="O." surname="Menis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-14"/>
+  <seriesInfo name="NIST" value="NBS SP 260-14"/>
 </reference>

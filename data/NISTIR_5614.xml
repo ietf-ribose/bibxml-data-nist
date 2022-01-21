@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5614" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5614.pdf">
   <front>
     <title>Simulation:state-of-the-art in Japan</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5614"/>
-    <seriesInfo name="NIST" value="NIST IR 5614"/>
-    <author fullname="Albert Jones" initials="A." surname="Jones"/>
+    <author fullname="Albert Jones" initials="A." surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5614"/>
+  <seriesInfo name="NIST" value="NIST IR 5614"/>
 </reference>

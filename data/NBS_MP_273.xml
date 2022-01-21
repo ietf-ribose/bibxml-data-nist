@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.273" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub273.pdf">
   <front>
     <title>Critical phenomena :proceedings of a conference held in Washington, D.C., April 1965/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.273"/>
-    <seriesInfo name="NIST" value="NBS MP 273"/>
-    <author surname="Sengers"/>
-    <author surname="Green"/>
+    <author initials="JV" surname="Sengers">
+      <organization/>
+    </author>
+    <author initials="MS" surname="Green">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.273"/>
+  <seriesInfo name="NIST" value="NBS MP 273"/>
 </reference>

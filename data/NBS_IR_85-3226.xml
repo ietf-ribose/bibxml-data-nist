@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3226" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3226.pdf">
   <front>
     <title>Five characteristics of composite materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3226"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3226"/>
-    <author fullname="James Brown" initials="J." surname="Brown"/>
-    <author fullname="Joseph Loftus" initials="J." surname="Loftus"/>
-    <author fullname="Richard Dipert" initials="R." surname="Dipert"/>
+    <author fullname="James Brown" initials="E" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Joseph Loftus" initials="J" surname="Loftus">
+      <organization/>
+    </author>
+    <author fullname="Richard Dipert" initials="A" surname="Dipert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3226"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3226"/>
 </reference>

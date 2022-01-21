@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7290" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7290.pdf">
   <front>
     <title>Fingerprint identification and mobile handheld devices :an overview and implementation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7290"/>
-    <seriesInfo name="NIST" value="NIST IR 7290"/>
-    <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
-    <author fullname="Ronan Daniellou" initials="R." surname="Daniellou"/>
-    <author fullname="Nicolas Cilleros" initials="N." surname="Cilleros"/>
+    <author fullname="Wayne Jansen" initials="W." surname="Jansen">
+      <organization/>
+    </author>
+    <author fullname="Ronan Daniellou" initials="R." surname="Daniellou">
+      <organization/>
+    </author>
+    <author fullname="Nicolas Cilleros" initials="N." surname="Cilleros">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7290"/>
+  <seriesInfo name="NIST" value="NIST IR 7290"/>
 </reference>

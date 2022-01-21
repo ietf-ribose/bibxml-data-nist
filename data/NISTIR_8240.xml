@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8240" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8240.pdf">
   <front>
     <title>Status report on the first round of the NIST post-quantum cryptography standardization process</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8240"/>
-    <seriesInfo name="NIST" value="NIST IR 8240"/>
     <author fullname="Gorjan Alagic" initials="G." surname="Alagic">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -51,4 +49,6 @@
     </author>
     <date year="2019" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8240"/>
+  <seriesInfo name="NIST" value="NIST IR 8240"/>
 </reference>

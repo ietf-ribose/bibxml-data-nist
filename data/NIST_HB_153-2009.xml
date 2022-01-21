@@ -1,9 +1,7 @@
 <reference anchor="NIST.HB.153-2009" target="https://nvlpubs.nist.gov/nistpubs/hb/2009/hb153.pdf">
   <front>
     <title>Laboratory recognition process for Project 25 compliance assessment Kurt B. Fischer, ed.; Andrew Thiessen, ed.</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.153-2009"/>
-    <seriesInfo name="NIST" value="NIST HB 153-2009"/>
-    <author fullname="Kurt Fischer" initials="K." surname="Fischer">
+    <author fullname="Kurt Fischer" initials="B" surname="Fischer">
       <organization>Electronics and Electrical Engineering Laboratory</organization>
     </author>
     <author fullname="Andrew Thiessen" initials="A." surname="Thiessen">
@@ -21,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.153-2009"/>
+  <seriesInfo name="NIST" value="NIST HB 153-2009"/>
 </reference>

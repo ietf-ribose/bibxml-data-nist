@@ -1,27 +1,25 @@
 <reference anchor="NIST.SP.800-63-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-63-1.pdf">
   <front>
     <title>Electronic authentication guideline</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63-1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-63-1"/>
-    <author surname="Burr">
+    <author initials="WE" surname="Burr">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Dodson">
+    <author initials="DF" surname="Dodson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Newton">
+    <author initials="EM" surname="Newton">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Perlner">
+    <author initials="RA" surname="Perlner">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Polk">
+    <author initials="WT" surname="Polk">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Gupta">
+    <author initials="S" surname="Gupta">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Nabbus">
+    <author initials="EA" surname="Nabbus">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63-1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-63-1"/>
 </reference>

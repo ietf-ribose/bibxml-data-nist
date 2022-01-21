@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.4890" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4890.pdf">
   <front>
     <title>The test guide for CMOS-ON-SIMOX test chips NIST3 and NIST4</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4890"/>
-    <seriesInfo name="NIST" value="NIST IR 4890"/>
-    <author surname="Marshall"/>
-    <author surname="Cresswell"/>
-    <author surname="Ellenwool"/>
-    <author surname="Linholm"/>
-    <author surname="Roitman"/>
-    <author surname="Zaghloul"/>
+    <author initials="JC" surname="Marshall">
+      <organization/>
+    </author>
+    <author initials="MW" surname="Cresswell">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Ellenwool">
+      <organization/>
+    </author>
+    <author initials="LW" surname="Linholm">
+      <organization/>
+    </author>
+    <author initials="P" surname="Roitman">
+      <organization/>
+    </author>
+    <author initials="ME" surname="Zaghloul">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4890"/>
+  <seriesInfo name="NIST" value="NIST IR 4890"/>
 </reference>

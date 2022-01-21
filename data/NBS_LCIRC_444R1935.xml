@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.444r1935" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular444r1935.pdf">
   <front>
     <title>Letter Circular 444:hardened copper (revision of Letter Circular 61 issued April 26, 1922, and revised March 19, 1927)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.444r1935"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 444r1935"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1935"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.444r1935"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 444r1935"/>
 </reference>

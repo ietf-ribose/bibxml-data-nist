@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2176" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2176.pdf">
   <front>
     <title>Economic efficiency in the sizing of residential heat pumps</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2176"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2176"/>
-    <author fullname="Joel Levy" initials="J." surname="Levy"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
+    <author fullname="Joel Levy" initials="J." surname="Levy">
+      <organization/>
+    </author>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2176"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2176"/>
 </reference>

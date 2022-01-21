@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4162.pdf">
   <front>
     <title>Comparison of the NIST and European gold coating standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4162"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4162"/>
-    <author surname="Beauchamp"/>
-    <author surname="Brown"/>
-    <author surname="Lashmore"/>
+    <author initials="CR" surname="Beauchamp">
+      <organization/>
+    </author>
+    <author initials="HG" surname="Brown">
+      <organization/>
+    </author>
+    <author initials="DS" surname="Lashmore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4162"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4162"/>
 </reference>

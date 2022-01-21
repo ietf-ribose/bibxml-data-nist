@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.22" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph22.pdf">
   <front>
     <title>Climatic charts and data of the radio refractive index for the United States and the world</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.22"/>
-    <seriesInfo name="NIST" value="NBS MONO 22"/>
-    <author surname="Bean"/>
-    <author surname="Horn"/>
-    <author fullname="M,Jr Ozanich" initials="M.J." surname="Ozanich"/>
+    <author initials="BR" surname="Bean">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Horn">
+      <organization/>
+    </author>
+    <author fullname="M,Jr Ozanich" initials="A" surname="Ozanich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.22"/>
+  <seriesInfo name="NIST" value="NBS MONO 22"/>
 </reference>

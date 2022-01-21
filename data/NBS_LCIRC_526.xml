@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.526" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular526.pdf">
   <front>
     <title>Letter Circular 526:color charts; a descriptive list (superseding Letter Circular 358 and 481)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.526"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 526"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.526"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 526"/>
 </reference>

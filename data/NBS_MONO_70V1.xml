@@ -1,12 +1,18 @@
 <reference anchor="NBS.MONO.70v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph70v1.pdf">
   <front>
     <title>Microwave spectral tables :diatomic molecules</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v1"/>
-    <seriesInfo name="NIST" value="NBS MONO 70v1"/>
-    <author fullname="Paul Wacker" initials="P." surname="Wacker"/>
-    <author fullname="Masataka Mizushima" initials="M." surname="Mizushima"/>
-    <author fullname="Jean Peterson" initials="J." surname="Peterson"/>
-    <author fullname="Joe Ballard" initials="J." surname="Ballard"/>
+    <author fullname="Paul Wacker" initials="F" surname="Wacker">
+      <organization/>
+    </author>
+    <author fullname="Masataka Mizushima" initials="M." surname="Mizushima">
+      <organization/>
+    </author>
+    <author fullname="Jean Peterson" initials="D" surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="Joe Ballard" initials="R" surname="Ballard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v1"/>
+  <seriesInfo name="NIST" value="NBS MONO 70v1"/>
 </reference>

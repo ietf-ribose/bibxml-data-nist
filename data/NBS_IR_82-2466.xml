@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2466" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2466.pdf">
   <front>
     <title>Expert computer systems, and their applicability to automated manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2466"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2466"/>
-    <author fullname="Dana Nau" initials="D." surname="Nau"/>
+    <author fullname="Dana Nau" initials="S" surname="Nau">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2466"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2466"/>
 </reference>

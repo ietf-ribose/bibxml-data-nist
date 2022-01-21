@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-271" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-271.pdf">
   <front>
     <title>Information technology :American National Standard for Information Systems-data format for the interchange of fingerprint, facial, &amp; other biometric information- part 1</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-271"/>
-    <seriesInfo name="NIST" value="NIST SP 500-271"/>
-    <author fullname="Michael McCabe" initials="M." surname="McCabe"/>
-    <author fullname="Elaine Newton" initials="E." surname="Newton"/>
+    <author fullname="Michael McCabe" initials="R" surname="McCabe">
+      <organization/>
+    </author>
+    <author fullname="Elaine Newton" initials="M" surname="Newton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-271"/>
+  <seriesInfo name="NIST" value="NIST SP 500-271"/>
 </reference>

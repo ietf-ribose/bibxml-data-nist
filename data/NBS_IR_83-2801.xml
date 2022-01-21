@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-2801" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2801.pdf">
   <front>
     <title>Fire induced flows through room openings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2801"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2801"/>
-    <author surname="Steckler"/>
-    <author surname="Quintiere"/>
+    <author initials="KD" surname="Steckler">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Quintiere">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2801"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2801"/>
 </reference>

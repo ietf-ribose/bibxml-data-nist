@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.36" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience36.pdf">
   <front>
     <title>Interrelations between cement and concrete properties, part 6 :compilation of data from laboratory studies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.36"/>
-    <seriesInfo name="NIST" value="NBS BSS 36"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.36"/>
+  <seriesInfo name="NIST" value="NBS BSS 36"/>
 </reference>

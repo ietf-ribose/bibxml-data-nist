@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6927" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6927.pdf">
   <front>
     <title>Database for computational thermodynamics and diffusion modeling:workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6927"/>
-    <seriesInfo name="NIST" value="NIST IR 6927"/>
-    <author fullname="Ursula Kattner" initials="U." surname="Kattner"/>
-    <author fullname="William Boettinger" initials="W." surname="Boettinger"/>
-    <author fullname="John Morral" initials="J." surname="Morral"/>
+    <author fullname="Ursula Kattner" initials="R" surname="Kattner">
+      <organization/>
+    </author>
+    <author fullname="William Boettinger" initials="J" surname="Boettinger">
+      <organization/>
+    </author>
+    <author fullname="John Morral" initials="E" surname="Morral">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6927"/>
+  <seriesInfo name="NIST" value="NIST IR 6927"/>
 </reference>

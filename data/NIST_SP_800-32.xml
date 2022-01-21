@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.800-32" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-32.pdf">
   <front>
     <title>Introduction to public key technology and the federal PKI infrastructure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-32"/>
-    <seriesInfo name="NIST" value="NIST SP 800-32"/>
-    <author surname="Kuhn"/>
-    <author surname="Hu"/>
-    <author surname="Polk"/>
-    <author fullname="Shu-Jen Chang" initials="S." surname="Chang"/>
+    <author initials="DR" surname="Kuhn">
+      <organization/>
+    </author>
+    <author initials="V" surname="Hu">
+      <organization/>
+    </author>
+    <author initials="WT" surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="Shu-Jen Chang" initials="H" surname="Chang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-32"/>
+  <seriesInfo name="NIST" value="NIST SP 800-32"/>
 </reference>

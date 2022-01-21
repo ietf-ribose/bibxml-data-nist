@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5957" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5957.pdf">
   <front>
     <title>On the translation of KITFrame ontologies to EXPRESS</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5957"/>
-    <seriesInfo name="NIST" value="NIST IR 5957"/>
-    <author fullname="Peter Wilson" initials="P." surname="Wilson"/>
+    <author fullname="Peter Wilson" initials="R" surname="Wilson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5957"/>
+  <seriesInfo name="NIST" value="NIST IR 5957"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph64.pdf">
   <front>
     <title>Refractive indices and densities of aqueous solutions of invert sugar</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.64"/>
-    <seriesInfo name="NIST" value="NBS MONO 64"/>
-    <author fullname="Carl Snyder" initials="C." surname="Snyder"/>
-    <author fullname="Albert Hattenburg" initials="A." surname="Hattenburg"/>
+    <author fullname="Carl Snyder" initials="F" surname="Snyder">
+      <organization/>
+    </author>
+    <author fullname="Albert Hattenburg" initials="T" surname="Hattenburg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.64"/>
+  <seriesInfo name="NIST" value="NBS MONO 64"/>
 </reference>

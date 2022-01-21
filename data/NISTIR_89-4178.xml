@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4178" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4178.pdf">
   <front>
     <title>Proceedings of the workshop on cement stabilization of low-level radioactive waste</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4178"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4178"/>
-    <author surname="Tokar"/>
-    <author surname="Jagannath"/>
-    <author surname="Clifton"/>
+    <author initials="M" surname="Tokar">
+      <organization/>
+    </author>
+    <author initials="B" surname="Jagannath">
+      <organization/>
+    </author>
+    <author initials="J" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4178"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4178"/>
 </reference>

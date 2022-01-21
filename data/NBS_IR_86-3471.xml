@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.86-3471" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3471.pdf">
   <front>
     <title>The Internal Revenue Service Post-of-Duty location modeling system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3471"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3471"/>
-    <author fullname="Paul Domich" initials="P." surname="Domich"/>
-    <author fullname="Richard Jackson" initials="R." surname="Jackson"/>
-    <author fullname="Marjorie McClain" initials="M." surname="McClain"/>
+    <author fullname="Paul Domich" initials="D" surname="Domich">
+      <organization/>
+    </author>
+    <author fullname="Richard Jackson" initials="HF" surname="Jackson">
+      <organization/>
+    </author>
+    <author fullname="Marjorie McClain" initials="A" surname="McClain">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3471"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3471"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4685" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4685.pdf">
   <front>
     <title>A conceptual architecture for a mechanical parts production system based on STEP</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4685"/>
-    <seriesInfo name="NIST" value="NIST IR 4685"/>
-    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
-    <author fullname="James Fowler" initials="J." surname="Fowler"/>
-    <author fullname="Spencer Magleby" initials="S." surname="Magleby"/>
+    <author fullname="Edward Barkmeyer" initials="J" surname="Barkmeyer">
+      <organization/>
+    </author>
+    <author fullname="James Fowler" initials="E" surname="Fowler">
+      <organization/>
+    </author>
+    <author fullname="Spencer Magleby" initials="P" surname="Magleby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4685"/>
+  <seriesInfo name="NIST" value="NIST IR 4685"/>
 </reference>

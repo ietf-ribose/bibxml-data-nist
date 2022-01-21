@@ -1,10 +1,12 @@
 <reference anchor="NIST.MONO.180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nistmonograph180.pdf">
   <front>
     <title>The Gage block handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.MONO.180"/>
-    <seriesInfo name="NIST" value="NIST MONO 180"/>
-    <author fullname="Ted Doiron" initials="T." surname="Doiron"/>
-    <author fullname="John Beers" initials="J." surname="Beers"/>
+    <author fullname="Ted Doiron" initials="T." surname="Doiron">
+      <organization/>
+    </author>
+    <author fullname="John Beers" initials="S" surname="Beers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.MONO.180"/>
+  <seriesInfo name="NIST" value="NIST MONO 180"/>
 </reference>

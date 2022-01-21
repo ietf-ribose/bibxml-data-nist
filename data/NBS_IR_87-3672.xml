@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3672" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3672.pdf">
   <front>
     <title>AMRF database report format :part model</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3672"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3672"/>
-    <author fullname="Theodore Hopp" initials="T." surname="Hopp"/>
+    <author fullname="Theodore Hopp" initials="H" surname="Hopp">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3672"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3672"/>
 </reference>

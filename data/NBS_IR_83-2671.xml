@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2671" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2671.pdf">
   <front>
     <title>The standards interface for computer-aided design</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2671"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2671"/>
-    <author fullname="Fred Stahl" initials="F." surname="Stahl"/>
+    <author fullname="Fred Stahl" initials="I" surname="Stahl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2671"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2671"/>
 </reference>

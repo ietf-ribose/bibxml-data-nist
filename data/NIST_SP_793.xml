@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.793" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication793.pdf">
   <front>
     <title>Report of the 75th National Conference on Weights and Measures 1990</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.793"/>
-    <seriesInfo name="NIST" value="NIST SP 793"/>
-    <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
-    <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
-    <author fullname="Carroll Brickenkamp" initials="C." surname="Brickenkamp"/>
-    <author fullname="Ann Turner" initials="A." surname="Turner"/>
+    <author fullname="Albert Tholen" initials="D" surname="Tholen">
+      <organization/>
+    </author>
+    <author fullname="Albert Tholen" initials="D" surname="Tholen">
+      <organization/>
+    </author>
+    <author fullname="Carroll Brickenkamp" initials="S" surname="Brickenkamp">
+      <organization/>
+    </author>
+    <author fullname="Ann Turner" initials="H" surname="Turner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.793"/>
+  <seriesInfo name="NIST" value="NIST SP 793"/>
 </reference>

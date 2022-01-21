@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4359" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4359.pdf">
   <front>
     <title>Domestic disaster recovery plan for PCs, OIS, and small VS systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4359"/>
-    <seriesInfo name="NIST" value="NIST IR 4359"/>
-    <author fullname="Edward Roback" initials="E." surname="Roback"/>
+    <author fullname="Edward Roback" initials="E." surname="Roback">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4359"/>
+  <seriesInfo name="NIST" value="NIST IR 4359"/>
 </reference>

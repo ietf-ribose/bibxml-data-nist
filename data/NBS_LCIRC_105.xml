@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.105" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular105.pdf">
   <front>
     <title>Letter Circular 105:application of statistical analysis to radio transmission problems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.105"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 105"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1923"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.105"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 105"/>
 </reference>

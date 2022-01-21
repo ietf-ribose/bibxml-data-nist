@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.566" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote566.pdf">
   <front>
     <title>Wet traction of tractionized tires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.566"/>
-    <seriesInfo name="NIST" value="NBS TN 566"/>
-    <author fullname="Art Neill" initials="A." surname="Neill"/>
+    <author fullname="Art Neill" initials="H" surname="Neill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.566"/>
+  <seriesInfo name="NIST" value="NBS TN 566"/>
 </reference>

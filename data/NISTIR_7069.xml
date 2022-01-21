@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7069" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7069.pdf">
   <front>
     <title>Trends in firefighter fatalities due to structural collapse, 1979</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7069"/>
-    <seriesInfo name="NIST" value="NIST IR 7069"/>
-    <author fullname="Lori Brassell" initials="L." surname="Brassell"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
+    <author fullname="Lori Brassell" initials="D" surname="Brassell">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7069"/>
+  <seriesInfo name="NIST" value="NIST IR 7069"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5958" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5958.pdf">
   <front>
     <title>Smoke plume trajectory from in situ burning of crude oil in Alaska:field experiments and modeling of complex terrain</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5958"/>
-    <seriesInfo name="NIST" value="NIST IR 5958"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="Javier Trelles" initials="J." surname="Trelles"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Javier Trelles" initials="J." surname="Trelles">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5958"/>
+  <seriesInfo name="NIST" value="NIST IR 5958"/>
 </reference>

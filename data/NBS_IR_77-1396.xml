@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1396" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1396.pdf">
   <front>
     <title>Erosion of brittle materials by solid particle impact</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1396"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1396"/>
-    <author surname="Hockey"/>
-    <author surname="Wiederhorn"/>
-    <author surname="Johnson"/>
+    <author initials="BJ" surname="Hockey">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Wiederhorn">
+      <organization/>
+    </author>
+    <author initials="H" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1396"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1396"/>
 </reference>

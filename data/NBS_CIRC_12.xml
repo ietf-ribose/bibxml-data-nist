@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.12" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular12.pdf">
   <front>
     <title>Bureau circular no. 12:verification of polariscopic apparatus</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.12"/>
-    <seriesInfo name="NIST" value="NBS CIRC 12"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1906"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.12"/>
+  <seriesInfo name="NIST" value="NBS CIRC 12"/>
 </reference>

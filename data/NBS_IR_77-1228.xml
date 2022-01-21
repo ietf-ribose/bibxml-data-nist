@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1228" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1228.pdf">
   <front>
     <title>Automatic data processing risk assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1228"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1228"/>
-    <author fullname="Susan Reed" initials="S." surname="Reed"/>
+    <author fullname="Susan Reed" initials="K" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1228"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1228"/>
 </reference>

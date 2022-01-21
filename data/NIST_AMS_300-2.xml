@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.300-2" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-2.pdf">
   <front>
     <title>Software requirements specification to distribute manufacturing data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-2"/>
-    <seriesInfo name="NIST" value="NIST AMS 300-2"/>
     <author fullname="Thomas Hedberg Jr." initials="T." surname="Hedberg Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-2"/>
+  <seriesInfo name="NIST" value="NIST AMS 300-2"/>
 </reference>

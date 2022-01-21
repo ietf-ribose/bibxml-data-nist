@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1192" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1192.pdf">
   <front>
     <title>NIST-TAPPI Workshop on Measurement Needs for Cellulose Nanomaterial</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1192"/>
-    <seriesInfo name="NIST" value="NIST SP 1192"/>
-    <author fullname="Chelsea Davis" initials="C." surname="Davis">
+    <author fullname="Chelsea Davis" initials="S" surname="Davis">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Robert Moon" initials="R." surname="Moon">
+    <author fullname="Robert Moon" initials="J" surname="Moon">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author fullname="Sean Ireland" initials="S." surname="Ireland">
@@ -21,19 +19,19 @@
     <author fullname="Kim Nelson" initials="K." surname="Nelson">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author surname="Foster">
+    <author initials="EJ" surname="Foster">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Aaron Forster" initials="A." surname="Forster">
+    <author fullname="Aaron Forster" initials="M" surname="Forster">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Michael Postek" initials="M." surname="Postek">
+    <author fullname="Michael Postek" initials="T" surname="Postek">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author fullname="Andras Vladar" initials="A." surname="Vladar">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Jeffrey Gilman" initials="J." surname="Gilman">
+    <author fullname="Jeffrey Gilman" initials="W" surname="Gilman">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -41,4 +39,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1192"/>
+  <seriesInfo name="NIST" value="NIST SP 1192"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2917" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2917.pdf">
   <front>
     <title>Environmental cycling of cellulosic thermal insulation and its influence on fire performance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2917"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2917"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2917"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2917"/>
 </reference>

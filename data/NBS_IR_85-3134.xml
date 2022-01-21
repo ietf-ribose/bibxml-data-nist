@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3134.pdf">
   <front>
     <title>The Buoyant plume-driven adiabatic ceiling temperature revisited</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3134"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3134"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
-    <author fullname="Anne Woodhouse" initials="A." surname="Woodhouse"/>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="Anne Woodhouse" initials="A." surname="Woodhouse">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3134"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3134"/>
 </reference>

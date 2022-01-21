@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7061" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7061.pdf">
   <front>
     <title>Metric mapping concepts for TIA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7061"/>
-    <seriesInfo name="NIST" value="NIST IR 7061"/>
-    <author fullname="Jean Scholtz" initials="J." surname="Scholtz"/>
+    <author fullname="Jean Scholtz" initials="J." surname="Scholtz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7061"/>
+  <seriesInfo name="NIST" value="NIST IR 7061"/>
 </reference>

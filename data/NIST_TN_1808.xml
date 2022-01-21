@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1808" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1808.pdf">
   <front>
     <title>Report of Special Nuclear Material Validation Measurements for Backpack Type Radiation Detectors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1808"/>
-    <seriesInfo name="NIST" value="NIST TN 1808"/>
-    <author surname="Pibida">
+    <author initials="L" surname="Pibida">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Ward">
+    <author initials="C" surname="Ward">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1808"/>
+  <seriesInfo name="NIST" value="NIST TN 1808"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.234" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub234.pdf">
   <front>
     <title>Household weights and measures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.234"/>
-    <seriesInfo name="NIST" value="NBS MP 234"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.234"/>
+  <seriesInfo name="NIST" value="NBS MP 234"/>
 </reference>

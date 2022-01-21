@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-3921" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3921.pdf">
   <front>
     <title>Metrology for electromagnetic technology :a bibliography of NIST publications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3921"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3921"/>
-    <author fullname="Mary DeWeese" initials="M." surname="DeWeese"/>
+    <author fullname="Mary DeWeese" initials="E" surname="DeWeese">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3921"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3921"/>
 </reference>

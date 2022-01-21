@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.563" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular563.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 563:periodicals and serials received in the library of the National Bureau of Standards, April 1955</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.563"/>
-    <seriesInfo name="NIST" value="NBS CIRC 563"/>
-    <author fullname="Natalie Hopper" initials="N." surname="Hopper"/>
+    <author fullname="Natalie Hopper" initials="J" surname="Hopper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.563"/>
+  <seriesInfo name="NIST" value="NBS CIRC 563"/>
 </reference>

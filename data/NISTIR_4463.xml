@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4463" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4463.pdf">
   <front>
     <title>Short-term evolution for the flight telerobotic servicer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4463"/>
-    <seriesInfo name="NIST" value="NIST IR 4463"/>
-    <author fullname="Ronald Lumia" initials="R." surname="Lumia"/>
+    <author fullname="Ronald Lumia" initials="R." surname="Lumia">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4463"/>
+  <seriesInfo name="NIST" value="NIST IR 4463"/>
 </reference>

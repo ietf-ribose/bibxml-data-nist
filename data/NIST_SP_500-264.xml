@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-264" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-264.pdf">
   <front>
     <title>Proceedings of defining the state of the art in software security tools workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-264"/>
-    <seriesInfo name="NIST" value="NIST SP 500-264"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-264"/>
+  <seriesInfo name="NIST" value="NIST SP 500-264"/>
 </reference>

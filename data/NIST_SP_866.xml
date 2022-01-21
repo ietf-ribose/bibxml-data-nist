@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.866" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication866.pdf">
   <front>
     <title>Extreme value theory and applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.866"/>
-    <seriesInfo name="NIST" value="NIST SP 866"/>
-    <author fullname="Janos Galambos" initials="J." surname="Galambos"/>
-    <author fullname="Janos Galambos" initials="J." surname="Galambos"/>
-    <author fullname="James Lechner" initials="J." surname="Lechner"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
+    <author fullname="Janos Galambos" initials="J." surname="Galambos">
+      <organization/>
+    </author>
+    <author fullname="Janos Galambos" initials="J." surname="Galambos">
+      <organization/>
+    </author>
+    <author fullname="James Lechner" initials="J." surname="Lechner">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.866"/>
+  <seriesInfo name="NIST" value="NIST SP 866"/>
 </reference>

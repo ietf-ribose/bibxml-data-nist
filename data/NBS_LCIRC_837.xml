@@ -1,10 +1,12 @@
 <reference anchor="NBS.LCIRC.837" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular837.pdf">
   <front>
     <title>Letter Circular 837:painting interior walls and trim (superseding Letter Circular 304)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.837"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 837"/>
-    <author fullname="EF Hickson" initials="E." surname="Hickson"/>
-    <author fullname="PT Howard" initials="P." surname="Howard"/>
+    <author fullname="EF Hickson" initials="E." surname="Hickson">
+      <organization/>
+    </author>
+    <author fullname="PT Howard" initials="P." surname="Howard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.837"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 837"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.5530" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5530.pdf">
   <front>
     <title>Correlation entre le champ electrique a grand distance et un nouveau parametre radio-meteorologique</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5530"/>
-    <seriesInfo name="NIST" value="NBS RPT 5530"/>
-    <author fullname="Pierre Misme" initials="P." surname="Misme"/>
-    <author fullname="Jr Thompson" initials="J." surname="Thompson"/>
-    <author fullname="Ann Fails" initials="A." surname="Fails"/>
+    <author fullname="Pierre Misme" initials="P." surname="Misme">
+      <organization/>
+    </author>
+    <author fullname="Jr Thompson" initials="MC" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Ann Fails" initials="A." surname="Fails">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1957" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5530"/>
+  <seriesInfo name="NIST" value="NBS RPT 5530"/>
 </reference>

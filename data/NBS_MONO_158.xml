@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.158" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph158.pdf">
   <front>
     <title>Corrosion and protection of steel piles in a natural seawater environment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.158"/>
-    <seriesInfo name="NIST" value="NBS MONO 158"/>
-    <author surname="Escalante"/>
-    <author surname="Iverson"/>
-    <author surname="Gerhold"/>
-    <author surname="Sanderson"/>
-    <author surname="Alumbaugh"/>
+    <author initials="E" surname="Escalante">
+      <organization/>
+    </author>
+    <author initials="WP" surname="Iverson">
+      <organization/>
+    </author>
+    <author initials="WF" surname="Gerhold">
+      <organization/>
+    </author>
+    <author initials="BT" surname="Sanderson">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Alumbaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.158"/>
+  <seriesInfo name="NIST" value="NBS MONO 158"/>
 </reference>

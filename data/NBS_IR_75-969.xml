@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-969" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-969.pdf">
   <front>
     <title>Accidents involving several selected appliances :summary and descriptive analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-969"/>
-    <seriesInfo name="NIST" value="NBS IR 75-969"/>
-    <author fullname="Mary Stefl" initials="M." surname="Stefl"/>
-    <author fullname="Clare Goodman" initials="C." surname="Goodman"/>
-    <author fullname="Ann Ramey" initials="A." surname="Ramey"/>
-    <author fullname="Fran Bents" initials="F." surname="Bents"/>
+    <author fullname="Mary Stefl" initials="E" surname="Stefl">
+      <organization/>
+    </author>
+    <author fullname="Clare Goodman" initials="P" surname="Goodman">
+      <organization/>
+    </author>
+    <author fullname="Ann Ramey" initials="M" surname="Ramey">
+      <organization/>
+    </author>
+    <author fullname="Fran Bents" initials="D" surname="Bents">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-969"/>
+  <seriesInfo name="NIST" value="NBS IR 75-969"/>
 </reference>

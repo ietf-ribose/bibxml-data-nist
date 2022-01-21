@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1241" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1241.pdf">
   <front>
     <title>Large Outdoor Fires and the Built Environment (LOF&amp;BE):summary of workshop at Interflam 2019</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1241"/>
-    <seriesInfo name="NIST" value="NIST SP 1241"/>
-    <author fullname="Samuel Manzello" initials="S." surname="Manzello">
+    <author fullname="Samuel Manzello" initials="L" surname="Manzello">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Sara McAllister" initials="S." surname="McAllister">
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1241"/>
+  <seriesInfo name="NIST" value="NIST SP 1241"/>
 </reference>

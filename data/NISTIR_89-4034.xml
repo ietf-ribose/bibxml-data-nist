@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4034" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4034.pdf">
   <front>
     <title>Test plan:fire and thermal characteristics of Mayport 19F trainers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4034"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4034"/>
-    <author fullname="Robert Levine" initials="R." surname="Levine"/>
-    <author fullname="William Rinkinen" initials="W." surname="Rinkinen"/>
+    <author fullname="Robert Levine" initials="S" surname="Levine">
+      <organization/>
+    </author>
+    <author fullname="William Rinkinen" initials="W." surname="Rinkinen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4034"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4034"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.173" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub173.pdf">
   <front>
     <title>The grade terminology problem/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.173"/>
-    <seriesInfo name="NIST" value="NBS MP 173"/>
-    <author fullname="Iler Fairchild" initials="I." surname="Fairchild"/>
+    <author fullname="Iler Fairchild" initials="J" surname="Fairchild">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1944"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.173"/>
+  <seriesInfo name="NIST" value="NBS MP 173"/>
 </reference>

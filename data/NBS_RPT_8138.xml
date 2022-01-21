@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8138" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8138.pdf">
   <front>
     <title>Capacity tests of four remote air-cooled refrigerant condensers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8138"/>
-    <seriesInfo name="NIST" value="NBS RPT 8138"/>
-    <author surname="Phillips"/>
+    <author initials="CW" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8138"/>
+  <seriesInfo name="NIST" value="NBS RPT 8138"/>
 </reference>

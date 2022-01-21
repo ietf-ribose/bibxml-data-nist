@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1493" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1493.pdf">
   <front>
     <title>Cutting experiments with plastic edges</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1493"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1493"/>
-    <author fullname="Stanley Wakamiya" initials="S." surname="Wakamiya"/>
+    <author fullname="Stanley Wakamiya" initials="K" surname="Wakamiya">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1493"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1493"/>
 </reference>

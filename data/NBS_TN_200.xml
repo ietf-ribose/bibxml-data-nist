@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.200" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote200.pdf">
   <front>
     <title>Carbon resistors for cryogenic liquid level measurement</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.200"/>
-    <seriesInfo name="NIST" value="NBS TN 200"/>
-    <author fullname="Richard Muhlenhaupt" initials="R." surname="Muhlenhaupt"/>
+    <author fullname="Richard Muhlenhaupt" initials="C" surname="Muhlenhaupt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.200"/>
+  <seriesInfo name="NIST" value="NBS TN 200"/>
 </reference>

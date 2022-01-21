@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8371" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8371.pdf">
   <front>
     <title>Promising Practices for Equitable Hiring: Guidance for NIST Laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8371"/>
-    <seriesInfo name="NIST" value="NIST IR 8371"/>
     <author fullname="Elizabeth Hoffman" initials="E." surname="Hoffman">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Heather Evans" initials="H." surname="Evans">
+    <author fullname="Heather Evans" initials="M" surname="Evans">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="April" day="28"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8371"/>
+  <seriesInfo name="NIST" value="NIST IR 8371"/>
 </reference>

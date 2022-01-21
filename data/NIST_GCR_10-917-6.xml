@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.10-917-6" target="https://nvlpubs.nist.gov/nistpubs/gcr/2010/NIST.GCR.10-917-6.pdf">
   <front>
     <title>Concrete model building subtypes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.10-917-6"/>
-    <seriesInfo name="NIST" value="NIST GCR 10-917-6"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2010" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.10-917-6"/>
+  <seriesInfo name="NIST" value="NIST GCR 10-917-6"/>
 </reference>

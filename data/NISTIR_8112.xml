@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.8112" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8112.pdf">
   <front>
     <title>Attribute metadata: a proposed schema for evaluating federated attributes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8112"/>
-    <seriesInfo name="NIST" value="NIST IR 8112"/>
-    <author fullname="Paul Grassi" initials="P." surname="Grassi">
+    <author fullname="Paul Grassi" initials="A" surname="Grassi">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Naomi Lefkovitz" initials="N." surname="Lefkovitz">
+    <author fullname="Naomi Lefkovitz" initials="B" surname="Lefkovitz">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ellen Nadeau" initials="E." surname="Nadeau">
+    <author fullname="Ellen Nadeau" initials="M" surname="Nadeau">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ryan Galluzzo" initials="R." surname="Galluzzo">
+    <author fullname="Ryan Galluzzo" initials="J" surname="Galluzzo">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Abhiraj Dinh" initials="A." surname="Dinh">
+    <author fullname="Abhiraj Dinh" initials="T" surname="Dinh">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2018" month="January" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8112"/>
+  <seriesInfo name="NIST" value="NIST IR 8112"/>
 </reference>

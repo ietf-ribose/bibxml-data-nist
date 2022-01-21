@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1588" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1588.pdf">
   <front>
     <title>Interlaboratory evaluation of the attic floor radiant panel test and smoldering combustion test for cellulose thermal insulation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1588"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1588"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1588"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1588"/>
 </reference>

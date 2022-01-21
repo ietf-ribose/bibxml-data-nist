@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4678" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4678.pdf">
   <front>
     <title>Conditions in corridors and adjoining areas exposed to post-flashover room fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4678"/>
-    <seriesInfo name="NIST" value="NIST IR 4678"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4678"/>
+  <seriesInfo name="NIST" value="NIST IR 4678"/>
 </reference>

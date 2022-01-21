@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.187" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote187.pdf">
   <front>
     <title>Transmission and reflection of electrons by aluminum foils.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.187"/>
-    <seriesInfo name="NIST" value="NBS TN 187"/>
-    <author fullname="Martin Berger" initials="M." surname="Berger"/>
+    <author fullname="Martin Berger" initials="J" surname="Berger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.187"/>
+  <seriesInfo name="NIST" value="NBS TN 187"/>
 </reference>

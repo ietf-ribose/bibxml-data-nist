@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.869" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote869.pdf">
   <front>
     <title>Temperature section activity summary, 1974</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.869"/>
-    <seriesInfo name="NIST" value="NBS TN 869"/>
-    <author fullname="James Schooley" initials="J." surname="Schooley"/>
+    <author fullname="James Schooley" initials="F" surname="Schooley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.869"/>
+  <seriesInfo name="NIST" value="NBS TN 869"/>
 </reference>

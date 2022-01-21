@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-521" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-521.pdf">
   <front>
     <title>HATCH-A model of fish hatchery analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-521"/>
-    <seriesInfo name="NIST" value="NBS IR 74-521"/>
-    <author fullname="Frederick Johnson" initials="F." surname="Johnson"/>
+    <author fullname="Frederick Johnson" initials="C" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-521"/>
+  <seriesInfo name="NIST" value="NBS IR 74-521"/>
 </reference>

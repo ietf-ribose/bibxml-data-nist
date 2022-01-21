@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4499" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4499.pdf">
   <front>
     <title>An experimental study of top vented compartment fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4499"/>
-    <seriesInfo name="NIST" value="NIST IR 4499"/>
-    <author fullname="King-Mon Tu" initials="K." surname="Tu"/>
+    <author fullname="King-Mon Tu" initials="K." surname="Tu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4499"/>
+  <seriesInfo name="NIST" value="NIST IR 4499"/>
 </reference>

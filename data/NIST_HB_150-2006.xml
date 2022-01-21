@@ -1,12 +1,18 @@
 <reference anchor="NIST.HB.150-2006" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-2006.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: procedures and general requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2006"/>
-    <seriesInfo name="NIST" value="NIST HB 150-2006"/>
-    <author surname="Faison"/>
-    <author surname="Horlick"/>
-    <author surname="Merkel"/>
-    <author surname="White"/>
+    <author initials="CD" surname="Faison">
+      <organization/>
+    </author>
+    <author initials="J" surname="Horlick">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Merkel">
+      <organization/>
+    </author>
+    <author initials="VR" surname="White">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2006"/>
+  <seriesInfo name="NIST" value="NIST HB 150-2006"/>
 </reference>

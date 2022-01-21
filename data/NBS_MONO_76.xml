@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.76" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph76.pdf">
   <front>
     <title>An Engineering method for calculating protection afforded by structures against fallout radiation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.76"/>
-    <seriesInfo name="NIST" value="NBS MONO 76"/>
-    <author fullname="Charles Eisenhauer" initials="C." surname="Eisenhauer"/>
+    <author fullname="Charles Eisenhauer" initials="C." surname="Eisenhauer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.76"/>
+  <seriesInfo name="NIST" value="NBS MONO 76"/>
 </reference>

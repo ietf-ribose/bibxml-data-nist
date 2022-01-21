@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3146.pdf">
   <front>
     <title>An assessment of needs for new thermal reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3146"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3146"/>
-    <author fullname="Brian Rennex" initials="B." surname="Rennex"/>
+    <author fullname="Brian Rennex" initials="B." surname="Rennex">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3146"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3146"/>
 </reference>

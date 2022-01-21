@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.361v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication361v1.pdf">
   <front>
     <title>Performance concept in buildings, volume 1 :invited papers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.361v1"/>
-    <seriesInfo name="NIST" value="NBS SP 361v1"/>
-    <author fullname="Bruce Foster" initials="B." surname="Foster"/>
+    <author fullname="Bruce Foster" initials="E" surname="Foster">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.361v1"/>
+  <seriesInfo name="NIST" value="NBS SP 361v1"/>
 </reference>

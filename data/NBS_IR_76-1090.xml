@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.76-1090" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1090.pdf">
   <front>
     <title>Environmental effects on microphones of various constructions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1090"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1090"/>
-    <author fullname="Gale Hruska" initials="G." surname="Hruska"/>
-    <author fullname="Edward Magrab" initials="E." surname="Magrab"/>
-    <author fullname="William Penzes" initials="W." surname="Penzes"/>
+    <author fullname="Gale Hruska" initials="R" surname="Hruska">
+      <organization/>
+    </author>
+    <author fullname="Edward Magrab" initials="B" surname="Magrab">
+      <organization/>
+    </author>
+    <author fullname="William Penzes" initials="B" surname="Penzes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1090"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1090"/>
 </reference>

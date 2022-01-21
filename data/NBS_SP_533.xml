@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.533" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication533.pdf">
   <front>
     <title>Characterization of particles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.533"/>
-    <seriesInfo name="NIST" value="NBS SP 533"/>
-    <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
+    <author fullname="Kurt Heinrich" initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.533"/>
+  <seriesInfo name="NIST" value="NBS SP 533"/>
 </reference>

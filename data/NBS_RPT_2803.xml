@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.2803" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2803.pdf">
   <front>
     <title>Protection of glass and metal surfaces from wind-blown sand</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2803"/>
-    <seriesInfo name="NIST" value="NBS RPT 2803"/>
-    <author fullname="William Cullen" initials="W." surname="Cullen"/>
-    <author fullname="Raymond Myers" initials="R." surname="Myers"/>
+    <author fullname="William Cullen" initials="C" surname="Cullen">
+      <organization/>
+    </author>
+    <author fullname="Raymond Myers" initials="E" surname="Myers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2803"/>
+  <seriesInfo name="NIST" value="NBS RPT 2803"/>
 </reference>

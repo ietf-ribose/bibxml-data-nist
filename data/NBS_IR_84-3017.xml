@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.84-3017" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-3017.pdf">
   <front>
     <title>Microwave detection of lost wells and unknown water-filled voids in coal mines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3017"/>
-    <seriesInfo name="NIST" value="NBS IR 84-3017"/>
-    <author surname="Belsher"/>
-    <author surname="McKaughlin"/>
-    <author surname="Repair"/>
-    <author surname="Bussey"/>
+    <author initials="DR" surname="Belsher">
+      <organization/>
+    </author>
+    <author initials="RH" surname="McKaughlin">
+      <organization/>
+    </author>
+    <author initials="AG" surname="Repair">
+      <organization/>
+    </author>
+    <author initials="HE" surname="Bussey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3017"/>
+  <seriesInfo name="NIST" value="NBS IR 84-3017"/>
 </reference>

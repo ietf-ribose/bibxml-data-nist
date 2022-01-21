@@ -1,8 +1,6 @@
 <reference anchor="NBS.SP.260e2005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260e2005.pdf">
   <front>
     <title>NIST Standard Reference Materials catalog January 2005</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260e2005"/>
-    <seriesInfo name="NIST" value="NBS SP 260e2005"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260e2005"/>
+  <seriesInfo name="NIST" value="NBS SP 260e2005"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1794" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1794.pdf">
   <front>
     <title>The Performance of Concrete Tile and Terracotta Tile Roofing Assemblies Exposed to Wind-Driven Firebrand Showers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1794"/>
-    <seriesInfo name="NIST" value="NIST TN 1794"/>
-    <author fullname="Samuel Manzello" initials="S." surname="Manzello">
+    <author fullname="Samuel Manzello" initials="L" surname="Manzello">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1794"/>
+  <seriesInfo name="NIST" value="NIST TN 1794"/>
 </reference>

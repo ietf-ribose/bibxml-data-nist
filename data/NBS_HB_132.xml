@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.132" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook132.pdf">
   <front>
     <title>Energy conservation in buildings: an economics guidebook for investment decisions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.132"/>
-    <seriesInfo name="NIST" value="NBS HB 132"/>
-    <author fullname="Harold Marshall" initials="H." surname="Marshall"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
+    <author fullname="Harold Marshall" initials="E" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.132"/>
+  <seriesInfo name="NIST" value="NBS HB 132"/>
 </reference>

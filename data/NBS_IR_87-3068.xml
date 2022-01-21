@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3068" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3068.pdf">
   <front>
     <title>Analysis of an array of log-periodic dipole antennas for generating test fields</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3068"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3068"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
-    <author fullname="David Hill" initials="D." surname="Hill"/>
-    <author fullname="Mark Ma" initials="M." surname="Ma"/>
+    <author fullname="Galen Koepke" initials="H" surname="Koepke">
+      <organization/>
+    </author>
+    <author fullname="David Hill" initials="A" surname="Hill">
+      <organization/>
+    </author>
+    <author fullname="Mark Ma" initials="T" surname="Ma">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3068"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3068"/>
 </reference>

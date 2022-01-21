@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.78-1143a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1143a.pdf">
   <front>
     <title>Plan for the development and implementation of standards for solar heating and cooling applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1143a"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1143a"/>
-    <author surname="Waksman"/>
-    <author surname="Pielert"/>
-    <author surname="Dikkers"/>
-    <author surname="Streed"/>
-    <author surname="Niessing"/>
+    <author initials="D" surname="Waksman">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Pielert">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Dikkers">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Streed">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Niessing">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1143a"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1143a"/>
 </reference>

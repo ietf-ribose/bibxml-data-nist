@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.1085" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1085.pdf">
   <front>
     <title>Letter Circular 1085:how to improve the efficiency of your oil-fired furnace</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1085"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1085"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1085"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1085"/>
 </reference>

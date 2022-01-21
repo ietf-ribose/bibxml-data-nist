@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4060" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4060.pdf">
   <front>
     <title>National Engineering Laboratory's 1989 report to the National Research Council's board on assessment of NIST programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4060"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4060"/>
-    <author fullname="Gail Ehrlich" initials="G." surname="Ehrlich"/>
+    <author fullname="Gail Ehrlich" initials="G." surname="Ehrlich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4060"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4060"/>
 </reference>

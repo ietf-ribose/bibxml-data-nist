@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-79.pdf">
   <front>
     <title>Standard Reference MaterialsSecond-surface mirror standards of spectral specular reflectance (SRM's 2023, 2024, 2025)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-79"/>
-    <seriesInfo name="NIST" value="NBS SP 260-79"/>
-    <author fullname="Jack Hsia" initials="J." surname="Hsia"/>
-    <author fullname="David Wilmering" initials="D." surname="Wilmering"/>
-    <author fullname="Joseph Richmond" initials="J." surname="Richmond"/>
+    <author fullname="Jack Hsia" initials="J" surname="Hsia">
+      <organization/>
+    </author>
+    <author fullname="David Wilmering" initials="B" surname="Wilmering">
+      <organization/>
+    </author>
+    <author fullname="Joseph Richmond" initials="C" surname="Richmond">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-79"/>
+  <seriesInfo name="NIST" value="NBS SP 260-79"/>
 </reference>

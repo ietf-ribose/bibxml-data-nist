@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.7877" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7877.pdf">
   <front>
     <title>BioCTS 2012: Advanced Conformance Test Architectures and Test Suites for Biometric Data Interchange Formats and Biometric Information Records</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7877"/>
-    <seriesInfo name="NIST" value="NIST IR 7877"/>
-    <author fullname="Fernando Podio" initials="F." surname="Podio">
+    <author fullname="Fernando Podio" initials="L" surname="Podio">
       <organization>Computer Security Division, Information Technology Laboratory</organization>
     </author>
     <author fullname="Dylan Yaga" initials="D." surname="Yaga">
       <organization>Computer Security Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Christofer McGinnis" initials="C." surname="McGinnis">
+    <author fullname="Christofer McGinnis" initials="J" surname="McGinnis">
       <organization>Computer Security Division, Information Technology Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2012" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7877"/>
+  <seriesInfo name="NIST" value="NIST IR 7877"/>
 </reference>

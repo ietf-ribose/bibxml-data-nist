@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4180.pdf">
   <front>
     <title>Publications of the Center for Manufacturing Engineering covering the period January 1978</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4180"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4180"/>
-    <author fullname="Phillip Nanzetta" initials="P." surname="Nanzetta"/>
-    <author fullname="Joan Wellington" initials="J." surname="Wellington"/>
-    <author fullname="Linda Wood" initials="L." surname="Wood"/>
+    <author fullname="Phillip Nanzetta" initials="P." surname="Nanzetta">
+      <organization/>
+    </author>
+    <author fullname="Joan Wellington" initials="J." surname="Wellington">
+      <organization/>
+    </author>
+    <author fullname="Linda Wood" initials="L." surname="Wood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4180"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4180"/>
 </reference>

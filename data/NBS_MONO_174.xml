@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph174.pdf">
   <front>
     <title>Thermometer calibration :a model for state calibration laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.174"/>
-    <seriesInfo name="NIST" value="NBS MONO 174"/>
-    <author fullname="Jacquelyn Wise" initials="J." surname="Wise"/>
-    <author fullname="RobertJ,Jr Soulen" initials="R.J.J." surname="Soulen"/>
+    <author fullname="Jacquelyn Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
+    <author fullname="RobertJ,Jr Soulen" initials="R.J.J." surname="Soulen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.174"/>
+  <seriesInfo name="NIST" value="NBS MONO 174"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2473" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2473.pdf">
   <front>
     <title>Entrainment and heat flux of buoyant diffusion flames</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2473"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2473"/>
-    <author surname="McCaffrey"/>
-    <author surname="Cox"/>
+    <author initials="BJ" surname="McCaffrey">
+      <organization/>
+    </author>
+    <author initials="G" surname="Cox">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2473"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2473"/>
 </reference>

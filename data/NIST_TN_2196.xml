@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2196" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2196.pdf">
   <front>
     <title>Instrumented Charpy Tests at 77 K on 316L Stainless Steel Welded Plates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2196"/>
-    <seriesInfo name="NIST" value="NIST TN 2196"/>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="December" day="20"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2196"/>
+  <seriesInfo name="NIST" value="NIST TN 2196"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7552" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7552.pdf">
   <front>
     <title>Study of interaction of the cyclin-dependent kinase 5 with its activator, p25 and with the p25-derived inhibitor, CIP</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7552"/>
-    <seriesInfo name="NIST" value="NIST IR 7552"/>
-    <author fullname="Antonio Cardone" initials="A." surname="Cardone"/>
-    <author fullname="Wayne Albers" initials="W." surname="Albers"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Harish Pant" initials="H." surname="Pant"/>
+    <author fullname="Antonio Cardone" initials="A." surname="Cardone">
+      <organization/>
+    </author>
+    <author fullname="Wayne Albers" initials="R" surname="Albers">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Harish Pant" initials="C" surname="Pant">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7552"/>
+  <seriesInfo name="NIST" value="NIST IR 7552"/>
 </reference>

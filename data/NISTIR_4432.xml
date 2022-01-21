@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4432" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4432.pdf">
   <front>
     <title>Status of PDES-related activities:standards &amp;amp; testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4432"/>
-    <seriesInfo name="NIST" value="NIST IR 4432"/>
-    <author fullname="Cita Furlani" initials="C." surname="Furlani"/>
-    <author fullname="Joan Wellington" initials="J." surname="Wellington"/>
-    <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
+    <author fullname="Cita Furlani" initials="C." surname="Furlani">
+      <organization/>
+    </author>
+    <author fullname="Joan Wellington" initials="J." surname="Wellington">
+      <organization/>
+    </author>
+    <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4432"/>
+  <seriesInfo name="NIST" value="NIST IR 4432"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.HB.150-2020" target="https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.150-2020.pdf">
   <front>
     <title>National Voluntary LaboratoryAccreditation Program procedures and general requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2020"/>
-    <seriesInfo name="NIST" value="NIST HB 150-2020"/>
-    <author fullname="Dana Leaman" initials="D." surname="Leaman">
+    <author fullname="Dana Leaman" initials="S" surname="Leaman">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
     <author fullname="Bethany Hackett" initials="B." surname="Hackett">
@@ -21,4 +19,6 @@
     </author>
     <date year="2020" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2020"/>
+  <seriesInfo name="NIST" value="NIST HB 150-2020"/>
 </reference>

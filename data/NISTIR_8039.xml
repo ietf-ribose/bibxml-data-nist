@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8039" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8039.pdf">
   <front>
     <title>Nationwide Public Safety Broadband Network Deployment: Network Parameter Sensitivity Analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8039"/>
-    <seriesInfo name="NIST" value="NIST IR 8039"/>
     <author fullname="Richard Rouil" initials="R." surname="Rouil">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8039"/>
+  <seriesInfo name="NIST" value="NIST IR 8039"/>
 </reference>

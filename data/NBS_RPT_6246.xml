@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.6246" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6246.pdf">
   <front>
     <title>Engineering manual for protective construction :part V heating and air conditioning of underground installations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6246"/>
-    <seriesInfo name="NIST" value="NBS RPT 6246"/>
-    <author surname="Peavy"/>
-    <author surname="Robinson"/>
-    <author surname="Dill"/>
+    <author initials="BA" surname="Peavy">
+      <organization/>
+    </author>
+    <author initials="HE" surname="Robinson">
+      <organization/>
+    </author>
+    <author initials="RS" surname="Dill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6246"/>
+  <seriesInfo name="NIST" value="NBS RPT 6246"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.428P2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication428p2.pdf">
   <front>
     <title>Bibliography of infrared spectroscopy through 1960 Part 2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.428P2"/>
-    <seriesInfo name="NIST" value="NBS SP 428P2"/>
-    <author surname="Rao"/>
-    <author surname="Dikshit"/>
-    <author surname="Kudchadker"/>
-    <author surname="Gupta"/>
-    <author surname="Narayan"/>
+    <author initials="CNR" surname="Rao">
+      <organization/>
+    </author>
+    <author initials="SK" surname="Dikshit">
+      <organization/>
+    </author>
+    <author initials="SA" surname="Kudchadker">
+      <organization/>
+    </author>
+    <author initials="DS" surname="Gupta">
+      <organization/>
+    </author>
+    <author initials="VA" surname="Narayan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.428P2"/>
+  <seriesInfo name="NIST" value="NBS SP 428P2"/>
 </reference>

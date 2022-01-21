@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8051" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8051.pdf">
   <front>
     <title>Its About the Face Impostor Distribution</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8051"/>
-    <seriesInfo name="NIST" value="NIST IR 8051"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips">
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Amy Yates" initials="A." surname="Yates">
+    <author fullname="Amy Yates" initials="N" surname="Yates">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Geof Givens" initials="G." surname="Givens">
+    <author fullname="Geof Givens" initials="H" surname="Givens">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Beveridge">
+    <author initials="JR" surname="Beveridge">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8051"/>
+  <seriesInfo name="NIST" value="NIST IR 8051"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.2325" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2325.pdf">
   <front>
     <title>Performance of a development model window air-conditioner General Electric Company model 21FF9B</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2325"/>
-    <seriesInfo name="NIST" value="NBS RPT 2325"/>
-    <author fullname="Henry Karger" initials="H." surname="Karger"/>
-    <author fullname="PR Achenbach" initials="P." surname="Achenbach"/>
+    <author fullname="Henry Karger" initials="H." surname="Karger">
+      <organization/>
+    </author>
+    <author fullname="PR Achenbach" initials="P." surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2325"/>
+  <seriesInfo name="NIST" value="NBS RPT 2325"/>
 </reference>

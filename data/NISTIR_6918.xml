@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6918" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6918.pdf">
   <front>
     <title>Women in science, redefined:tactics and alliances to address and change systemic trends affecting women in science, engineering, and technology. March 12-13, 2002, Gaithersburg, MD</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6918"/>
-    <seriesInfo name="NIST" value="NIST IR 6918"/>
-    <author fullname="SoldelAnde Eaton" initials="S.d.A." surname="Eaton"/>
-    <author fullname="Fran Nielsen" initials="F." surname="Nielsen"/>
+    <author fullname="SoldelAnde Eaton" initials="S.d.A." surname="Eaton">
+      <organization/>
+    </author>
+    <author fullname="Fran Nielsen" initials="F." surname="Nielsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6918"/>
+  <seriesInfo name="NIST" value="NIST IR 6918"/>
 </reference>

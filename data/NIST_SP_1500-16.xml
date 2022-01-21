@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1500-16" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-16.pdf">
   <front>
     <title>Improving veteran transitions to civilian cybersecurity roles:workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-16"/>
-    <seriesInfo name="NIST" value="NIST SP 1500-16"/>
     <author fullname="Marian Merritt" initials="M." surname="Merritt">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-16"/>
+  <seriesInfo name="NIST" value="NIST SP 1500-16"/>
 </reference>

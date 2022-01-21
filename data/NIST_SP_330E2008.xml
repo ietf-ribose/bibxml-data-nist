@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.330e2008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication330e2008.pdf">
   <front>
     <title>The international system of units (SI)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.330e2008"/>
-    <seriesInfo name="NIST" value="NIST SP 330e2008"/>
-    <author fullname="Barry Taylor" initials="B." surname="Taylor"/>
-    <author fullname="Barry Taylor" initials="B." surname="Taylor"/>
+    <author fullname="Barry Taylor" initials="N" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Barry Taylor" initials="N" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.330e2008"/>
+  <seriesInfo name="NIST" value="NIST SP 330e2008"/>
 </reference>

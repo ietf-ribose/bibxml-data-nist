@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-447" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-447.pdf">
   <front>
     <title>High reliability sheathed, beryllia insulated, tungsten-rhenium alloy thermocouple assemblies- their fabrication and EMF stability</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-447"/>
-    <seriesInfo name="NIST" value="NBS IR 74-447"/>
-    <author surname="Burns"/>
-    <author surname="Hurst"/>
-    <author surname="Scroger"/>
+    <author initials="GW" surname="Burns">
+      <organization/>
+    </author>
+    <author initials="WS" surname="Hurst">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Scroger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-447"/>
+  <seriesInfo name="NIST" value="NBS IR 74-447"/>
 </reference>

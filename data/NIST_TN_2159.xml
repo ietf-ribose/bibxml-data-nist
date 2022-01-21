@@ -1,21 +1,19 @@
 <reference anchor="NIST.TN.2159" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2159.pdf">
   <front>
     <title>Laboratory Method for Recording AWS-3 LTE Waveforms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2159"/>
-    <seriesInfo name="NIST" value="NIST TN 2159"/>
-    <author fullname="Aric Sanders" initials="A." surname="Sanders">
+    <author fullname="Aric Sanders" initials="W" surname="Sanders">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Keith Forsyth" initials="K." surname="Forsyth">
+    <author fullname="Keith Forsyth" initials="M" surname="Forsyth">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Robert Horansky" initials="R." surname="Horansky">
+    <author fullname="Robert Horansky" initials="D" surname="Horansky">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Azizollah Kord" initials="A." surname="Kord">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Duncan McGillivray" initials="D." surname="McGillivray">
+    <author fullname="Duncan McGillivray" initials="A" surname="McGillivray">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="May" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2159"/>
+  <seriesInfo name="NIST" value="NIST TN 2159"/>
 </reference>

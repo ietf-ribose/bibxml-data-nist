@@ -1,12 +1,10 @@
 <reference anchor="NIST.GCR.15-917-35" target="https://nvlpubs.nist.gov/nistpubs/gcr/2015/NIST.GCR.15-917-35.pdf">
   <front>
     <title>Development of Standardized Cooking Fires for Evaluation of Prevention Technologies: Phase One Data Analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-917-35"/>
-    <seriesInfo name="NIST" value="NIST GCR 15-917-35"/>
-    <author fullname="Joshua Dinaburg" initials="J." surname="Dinaburg">
+    <author fullname="Joshua Dinaburg" initials="B" surname="Dinaburg">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Daniel Gottuk" initials="D." surname="Gottuk">
+    <author fullname="Daniel Gottuk" initials="T" surname="Gottuk">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-917-35"/>
+  <seriesInfo name="NIST" value="NIST GCR 15-917-35"/>
 </reference>

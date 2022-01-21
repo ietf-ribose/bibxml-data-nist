@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1217" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1217.pdf">
   <front>
     <title>A workshop report on "electron microscopy frontiers: challenges and opportunities"</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1217"/>
-    <seriesInfo name="NIST" value="NIST SP 1217"/>
     <author fullname="John Bonevich" initials="J." surname="Bonevich">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="December" day="21"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1217"/>
+  <seriesInfo name="NIST" value="NIST SP 1217"/>
 </reference>

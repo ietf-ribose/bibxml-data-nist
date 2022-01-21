@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10270" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10270.pdf">
   <front>
     <title>Measurement of thickness of chromium on currency printing plates :technical report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10270"/>
-    <seriesInfo name="NIST" value="NBS RPT 10270"/>
-    <author fullname="Fielding Ogburn" initials="F." surname="Ogburn"/>
+    <author fullname="Fielding Ogburn" initials="F." surname="Ogburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10270"/>
+  <seriesInfo name="NIST" value="NBS RPT 10270"/>
 </reference>

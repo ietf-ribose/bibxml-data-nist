@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.1001" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1001.pdf">
   <front>
     <title>Letter Circular 1001:liquefied petroleum gas as an engine fuel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1001"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1001"/>
-    <author fullname="Frank Howard" initials="F." surname="Howard"/>
+    <author fullname="Frank Howard" initials="L" surname="Howard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1001"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1001"/>
 </reference>

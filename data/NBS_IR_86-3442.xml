@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3442" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3442.pdf">
   <front>
     <title>Momentum diffusion flame characteristics and the effects of water spray</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3442"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3442"/>
-    <author surname="McCaffrey"/>
+    <author initials="BJ" surname="McCaffrey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3442"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3442"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-396" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-396.pdf">
   <front>
     <title>Specification and measurement of frequency stability</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-396"/>
-    <seriesInfo name="NIST" value="NBS IR 74-396"/>
-    <author fullname="John Shoaf" initials="J." surname="Shoaf"/>
+    <author fullname="John Shoaf" initials="H" surname="Shoaf">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-396"/>
+  <seriesInfo name="NIST" value="NBS IR 74-396"/>
 </reference>

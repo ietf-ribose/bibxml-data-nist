@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5428" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5428.pdf">
   <front>
     <title>Volume-change tests of masonry materials used at Chincoteague Naval Air Station</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5428"/>
-    <seriesInfo name="NIST" value="NBS RPT 5428"/>
-    <author surname="Cattaneo"/>
-    <author surname="Watstein"/>
+    <author initials="LE" surname="Cattaneo">
+      <organization/>
+    </author>
+    <author initials="D" surname="Watstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5428"/>
+  <seriesInfo name="NIST" value="NBS RPT 5428"/>
 </reference>

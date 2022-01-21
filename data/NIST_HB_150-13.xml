@@ -1,11 +1,15 @@
 <reference anchor="NIST.HB.150-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-13.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: airborne asbestos analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-13"/>
-    <seriesInfo name="NIST" value="NIST HB 150-13"/>
-    <author fullname="Shirley Turner" initials="S." surname="Turner"/>
-    <author fullname="Steel,Eric B" initials="S.E." surname="B"/>
-    <author fullname="David Alderman" initials="D." surname="Alderman"/>
+    <author fullname="Shirley Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="Steel,Eric B" initials="S.E." surname="B">
+      <organization/>
+    </author>
+    <author fullname="David Alderman" initials="F" surname="Alderman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-13"/>
+  <seriesInfo name="NIST" value="NIST HB 150-13"/>
 </reference>

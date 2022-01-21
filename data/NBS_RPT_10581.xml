@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10581" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10581.pdf">
   <front>
     <title>Intermediary base and cementation :progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10581"/>
-    <seriesInfo name="NIST" value="NBS RPT 10581"/>
-    <author surname="Rupp"/>
+    <author initials="NW" surname="Rupp">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10581"/>
+  <seriesInfo name="NIST" value="NBS RPT 10581"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.758" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication758.pdf">
   <front>
     <title>Ceramic tribology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.758"/>
-    <seriesInfo name="NIST" value="NIST SP 758"/>
-    <author fullname="RichardStephen Gates" initials="R.S." surname="Gates"/>
-    <author fullname="RichardStephen Gates" initials="R.S." surname="Gates"/>
-    <author fullname="Stephen Hsu" initials="S." surname="Hsu"/>
-    <author fullname="Erwin Klaus" initials="E." surname="Klaus"/>
+    <author fullname="RichardStephen Gates" initials="R.S." surname="Gates">
+      <organization/>
+    </author>
+    <author fullname="RichardStephen Gates" initials="R.S." surname="Gates">
+      <organization/>
+    </author>
+    <author fullname="Stephen Hsu" initials="M" surname="Hsu">
+      <organization/>
+    </author>
+    <author fullname="Erwin Klaus" initials="E" surname="Klaus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.758"/>
+  <seriesInfo name="NIST" value="NIST SP 758"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-737" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-737.pdf">
   <front>
     <title>Mathematical methods of site selection for electronic message systems (EMS)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-737"/>
-    <seriesInfo name="NIST" value="NBS IR 75-737"/>
-    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
+    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-737"/>
+  <seriesInfo name="NIST" value="NBS IR 75-737"/>
 </reference>

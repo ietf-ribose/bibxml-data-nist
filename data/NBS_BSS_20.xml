@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.20" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience20.pdf">
   <front>
     <title>Proceedings of a seminar on the durability of insulating glass</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.20"/>
-    <seriesInfo name="NIST" value="NBS BSS 20"/>
-    <author fullname="Henry Robinson" initials="H." surname="Robinson"/>
+    <author fullname="Henry Robinson" initials="E" surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.20"/>
+  <seriesInfo name="NIST" value="NBS BSS 20"/>
 </reference>

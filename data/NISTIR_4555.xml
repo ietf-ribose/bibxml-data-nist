@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4555" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4555.pdf">
   <front>
     <title>Model for the non-perturbative QCD vacuum</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4555"/>
-    <seriesInfo name="NIST" value="NIST IR 4555"/>
-    <author fullname="Michael Danos" initials="M." surname="Danos"/>
-    <author fullname="Daniel Gogny" initials="D." surname="Gogny"/>
-    <author fullname="Daniel Iracane" initials="D." surname="Iracane"/>
+    <author fullname="Michael Danos" initials="M." surname="Danos">
+      <organization/>
+    </author>
+    <author fullname="Daniel Gogny" initials="D." surname="Gogny">
+      <organization/>
+    </author>
+    <author fullname="Daniel Iracane" initials="D." surname="Iracane">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4555"/>
+  <seriesInfo name="NIST" value="NIST IR 4555"/>
 </reference>

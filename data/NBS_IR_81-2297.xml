@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.81-2297" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2297.pdf">
   <front>
     <title>A technical briefing on the Initial Graphics Exchange Specification (IGES)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2297"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2297"/>
-    <author surname="Kelly"/>
-    <author fullname="Robert Wolf" initials="R." surname="Wolf"/>
-    <author fullname="Phillip Kennicott" initials="P." surname="Kennicott"/>
-    <author fullname="Roger Nagel" initials="R." surname="Nagel"/>
-    <author fullname="Joan Wellington" initials="J." surname="Wellington"/>
+    <author initials="JC" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Robert Wolf" initials="R." surname="Wolf">
+      <organization/>
+    </author>
+    <author fullname="Phillip Kennicott" initials="P." surname="Kennicott">
+      <organization/>
+    </author>
+    <author fullname="Roger Nagel" initials="N" surname="Nagel">
+      <organization/>
+    </author>
+    <author fullname="Joan Wellington" initials="J." surname="Wellington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2297"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2297"/>
 </reference>

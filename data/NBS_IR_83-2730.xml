@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2730" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2730.pdf">
   <front>
     <title>On the significance of a wall effect in enclosures with growing fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2730"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2730"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2730"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2730"/>
 </reference>

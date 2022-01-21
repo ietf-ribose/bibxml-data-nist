@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub148.pdf">
   <front>
     <title>Separation of cornstalks into long fibers, pith, and fines/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.148"/>
-    <seriesInfo name="NIST" value="NBS MP 148"/>
-    <author surname="Overman"/>
-    <author surname="Whittemore"/>
+    <author initials="CB" surname="Overman">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Whittemore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1935"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.148"/>
+  <seriesInfo name="NIST" value="NBS MP 148"/>
 </reference>

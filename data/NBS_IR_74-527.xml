@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.74-527" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-527.pdf">
   <front>
     <title>Development of solid state samplers for work atmospheres</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-527"/>
-    <seriesInfo name="NIST" value="NBS IR 74-527"/>
-    <author surname="Greifer"/>
-    <author surname="Cadoff"/>
-    <author surname="Wing"/>
-    <author surname="Taylor"/>
+    <author initials="B" surname="Greifer">
+      <organization/>
+    </author>
+    <author initials="BC" surname="Cadoff">
+      <organization/>
+    </author>
+    <author initials="J" surname="Wing">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-527"/>
+  <seriesInfo name="NIST" value="NBS IR 74-527"/>
 </reference>

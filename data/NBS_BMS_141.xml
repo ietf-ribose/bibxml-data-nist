@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.141" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures141.pdf">
   <front>
     <title>Fire endurance of open-web steel-joist floors with concrete slabs and gypsum ceilings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.141"/>
-    <seriesInfo name="NIST" value="NBS BMS 141"/>
-    <author fullname="James Ryan" initials="J." surname="Ryan"/>
-    <author fullname="Edward Bender" initials="E." surname="Bender"/>
+    <author fullname="James Ryan" initials="V" surname="Ryan">
+      <organization/>
+    </author>
+    <author fullname="Edward Bender" initials="W" surname="Bender">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.141"/>
+  <seriesInfo name="NIST" value="NBS BMS 141"/>
 </reference>

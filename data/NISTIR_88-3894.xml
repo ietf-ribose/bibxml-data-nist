@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3894" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3894.pdf">
   <front>
     <title>Evaluation of colors for use on traffic control devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3894"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3894"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3894"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3894"/>
 </reference>

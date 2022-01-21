@@ -1,11 +1,15 @@
 <reference anchor="NIST.GCR.16-917-42" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-917-42.pdf">
   <front>
     <title>Seismic design of cast-in-place concrete diaphragms, chords, and collectors: a guide for practicing engineers second edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-42"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-917-42"/>
-    <author fullname="Jack Moehle" initials="J." surname="Moehle"/>
-    <author fullname="John Hooper" initials="J." surname="Hooper"/>
-    <author fullname="Thomas Meyer" initials="T." surname="Meyer"/>
+    <author fullname="Jack Moehle" initials="P" surname="Moehle">
+      <organization/>
+    </author>
+    <author fullname="John Hooper" initials="D" surname="Hooper">
+      <organization/>
+    </author>
+    <author fullname="Thomas Meyer" initials="R" surname="Meyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-42"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-917-42"/>
 </reference>

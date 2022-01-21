@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5742" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5742.pdf">
   <front>
     <title>Alkali-silica reaction and high performance concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5742"/>
-    <seriesInfo name="NIST" value="NIST IR 5742"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5742"/>
+  <seriesInfo name="NIST" value="NIST IR 5742"/>
 </reference>

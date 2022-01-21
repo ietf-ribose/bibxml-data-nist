@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.88-3795" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3795.pdf">
   <front>
     <title>Benchmarks to supplant export "FPDR" calculations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3795"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3795"/>
-    <author fullname="David Bailey" initials="D." surname="Bailey"/>
-    <author fullname="Eugene Brooks" initials="E." surname="Brooks"/>
-    <author fullname="Jack Dongarra" initials="J." surname="Dongarra"/>
-    <author fullname="Ann Hayes" initials="A." surname="Hayes"/>
-    <author fullname="Michael Heath" initials="M." surname="Heath"/>
-    <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
+    <author fullname="David Bailey" initials="D." surname="Bailey">
+      <organization/>
+    </author>
+    <author fullname="Eugene Brooks" initials="E." surname="Brooks">
+      <organization/>
+    </author>
+    <author fullname="Jack Dongarra" initials="J." surname="Dongarra">
+      <organization/>
+    </author>
+    <author fullname="Ann Hayes" initials="A." surname="Hayes">
+      <organization/>
+    </author>
+    <author fullname="Michael Heath" initials="M." surname="Heath">
+      <organization/>
+    </author>
+    <author fullname="Gordon Lyon" initials="G." surname="Lyon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3795"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3795"/>
 </reference>

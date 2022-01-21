@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.166r1928" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular166r1928.pdf">
   <front>
     <title>Letter Circular 166:publications of the engineering mechanics section Bureau of Standards, Department of Commerce, Washington</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.166r1928"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 166r1928"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1928"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.166r1928"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 166r1928"/>
 </reference>

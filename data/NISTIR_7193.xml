@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7193.pdf">
   <front>
     <title>Workshop to define information needed by emergency responders during building emergencies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7193"/>
-    <seriesInfo name="NIST" value="NIST IR 7193"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
-    <author fullname="Kent Reed" initials="K." surname="Reed"/>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="David Holmberg" initials="G" surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
+      <organization/>
+    </author>
+    <author fullname="Kent Reed" initials="A" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7193"/>
+  <seriesInfo name="NIST" value="NIST IR 7193"/>
 </reference>

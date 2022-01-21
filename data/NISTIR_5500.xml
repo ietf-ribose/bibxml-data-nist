@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5500" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5500.pdf">
   <front>
     <title>Report on the Advanced Software Technology workshop, February 1, 1994</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5500"/>
-    <seriesInfo name="NIST" value="NIST IR 5500"/>
-    <author fullname="Thomas Rhodes" initials="T." surname="Rhodes"/>
+    <author fullname="Thomas Rhodes" initials="R" surname="Rhodes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5500"/>
+  <seriesInfo name="NIST" value="NIST IR 5500"/>
 </reference>

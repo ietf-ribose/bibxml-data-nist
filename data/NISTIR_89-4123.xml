@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4123.pdf">
   <front>
     <title>Polytope volume computation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4123"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4123"/>
-    <author fullname="Jim Lawrence" initials="J." surname="Lawrence"/>
+    <author fullname="Jim Lawrence" initials="J." surname="Lawrence">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4123"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4123"/>
 </reference>

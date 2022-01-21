@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.903e2001" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication903e2001.pdf">
   <front>
     <title>Directory of U.S. private sector product certification programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.903e2001"/>
-    <seriesInfo name="NIST" value="NIST SP 903e2001"/>
-    <author fullname="Charles Hyer" initials="C." surname="Hyer"/>
-    <author fullname="Charles Hyer" initials="C." surname="Hyer"/>
+    <author fullname="Charles Hyer" initials="W" surname="Hyer">
+      <organization/>
+    </author>
+    <author fullname="Charles Hyer" initials="W" surname="Hyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.903e2001"/>
+  <seriesInfo name="NIST" value="NIST SP 903e2001"/>
 </reference>

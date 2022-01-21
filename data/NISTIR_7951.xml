@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7951" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7951.pdf">
   <front>
     <title>A Vision of Cyber-Physical Cloud Computing for Smart Networked Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7951"/>
-    <seriesInfo name="NIST" value="NIST IR 7951"/>
     <author fullname="Eric Simmon" initials="E." surname="Simmon">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,7 +22,7 @@
     <author fullname="Koji Zettsu" initials="K." surname="Zettsu">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram">
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -32,4 +30,6 @@
     </author>
     <date year="2013" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7951"/>
+  <seriesInfo name="NIST" value="NIST IR 7951"/>
 </reference>

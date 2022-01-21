@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.973" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular973.pdf">
   <front>
     <title>Letter Circular 973:list of published material relating to building regulation (superseding Letter Circular 928)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.973"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 973"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.973"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 973"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6134.pdf">
   <front>
     <title>A FORTRAN 90 interface for OpenGl:revised January 1998</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6134"/>
-    <seriesInfo name="NIST" value="NIST IR 6134"/>
-    <author fullname="William Mitchell" initials="W." surname="Mitchell"/>
+    <author fullname="William Mitchell" initials="F" surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6134"/>
+  <seriesInfo name="NIST" value="NIST IR 6134"/>
 </reference>

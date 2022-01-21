@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.81" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph81.pdf">
   <front>
     <title>Tables of electron radial functions and tangents of phase shifts for light nuclei (Z=1 through 10)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.81"/>
-    <seriesInfo name="NIST" value="NBS MONO 81"/>
-    <author surname="Bhalla"/>
+    <author initials="CP" surname="Bhalla">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.81"/>
+  <seriesInfo name="NIST" value="NBS MONO 81"/>
 </reference>

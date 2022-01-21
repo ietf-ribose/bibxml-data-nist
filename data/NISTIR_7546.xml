@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7546" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7546.pdf">
   <front>
     <title>Airtightness evaluation of shelter-in-place spaces for protection against airborne chembio releases</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7546"/>
-    <seriesInfo name="NIST" value="NIST IR 7546"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Heather Davis" initials="H." surname="Davis"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Heather Davis" initials="H." surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7546"/>
+  <seriesInfo name="NIST" value="NIST IR 7546"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.5" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular5.pdf">
   <front>
     <title>Letter Circular 5:liquid conversion table giving the equivalent number of barrels of 42 gallons each corresponding to a specified number of gallons</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.5"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 5"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.5"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 5"/>
 </reference>

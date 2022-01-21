@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.282" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote282.pdf">
   <front>
     <title>Keypunch controls for string-punching of statistical data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.282"/>
-    <seriesInfo name="NIST" value="NBS TN 282"/>
-    <author fullname="Marty Brenner" initials="M." surname="Brenner"/>
+    <author fullname="Marty Brenner" initials="M." surname="Brenner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.282"/>
+  <seriesInfo name="NIST" value="NBS TN 282"/>
 </reference>

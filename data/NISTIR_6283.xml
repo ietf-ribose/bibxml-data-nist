@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6283" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6283.pdf">
   <front>
     <title>Technical documentation for the mass calibration laboratory balance automation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6283"/>
-    <seriesInfo name="NIST" value="NIST IR 6283"/>
-    <author fullname="Vincent Lee" initials="V." surname="Lee"/>
+    <author fullname="Vincent Lee" initials="J" surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6283"/>
+  <seriesInfo name="NIST" value="NIST IR 6283"/>
 </reference>

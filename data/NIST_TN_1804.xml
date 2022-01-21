@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1804" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1804.pdf">
   <front>
     <title>Thermal Exposure Sensor for Fire Fighters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1804"/>
-    <seriesInfo name="NIST" value="NIST TN 1804"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner">
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Atul Deshmukh" initials="A." surname="Deshmukh">
@@ -15,7 +13,7 @@
     <author fullname="Jeff Lancaster" initials="J." surname="Lancaster">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Roy McLane" initials="R." surname="McLane">
+    <author fullname="Roy McLane" initials="A" surname="McLane">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1804"/>
+  <seriesInfo name="NIST" value="NIST TN 1804"/>
 </reference>

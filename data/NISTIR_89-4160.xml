@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4160" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4160.pdf">
   <front>
     <title>Trial of Open Systems Interconnection (OSI) protocols over Integrated Services Digital Network (ISDN)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4160"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4160"/>
-    <author fullname="Carol Edgar" initials="C." surname="Edgar"/>
+    <author fullname="Carol Edgar" initials="A" surname="Edgar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4160"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4160"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7307" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7307.pdf">
   <front>
     <title>Preliminary face recognition grand challange results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7307"/>
-    <seriesInfo name="NIST" value="NIST IR 7307"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
-    <author fullname="Patrick Flynn" initials="P." surname="Flynn"/>
-    <author fullname="Todd Scruggs" initials="T." surname="Scruggs"/>
-    <author fullname="Kevin Bowyer" initials="K." surname="Bowyer"/>
-    <author fullname="William Worek" initials="W." surname="Worek"/>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Patrick Flynn" initials="J" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="Todd Scruggs" initials="T." surname="Scruggs">
+      <organization/>
+    </author>
+    <author fullname="Kevin Bowyer" initials="W" surname="Bowyer">
+      <organization/>
+    </author>
+    <author fullname="William Worek" initials="W." surname="Worek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7307"/>
+  <seriesInfo name="NIST" value="NIST IR 7307"/>
 </reference>

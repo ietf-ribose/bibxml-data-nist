@@ -1,15 +1,27 @@
 <reference anchor="NIST.SP.960-14e2005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-14e2005.pdf">
   <front>
     <title>WWVB radio controlled clocks :recommended practices for manufacturers and consumers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.960-14e2005"/>
-    <seriesInfo name="NIST" value="NIST SP 960-14e2005"/>
-    <author fullname="Michael Lombardi" initials="M." surname="Lombardi"/>
-    <author fullname="Andrew Novick" initials="A." surname="Novick"/>
-    <author fullname="John Lowe" initials="J." surname="Lowe"/>
-    <author fullname="Matthew Deutch" initials="M." surname="Deutch"/>
-    <author fullname="Glenn Nelson" initials="G." surname="Nelson"/>
-    <author fullname="Douglas Sutton" initials="D." surname="Sutton"/>
-    <author fullname="William Yates" initials="W." surname="Yates"/>
+    <author fullname="Michael Lombardi" initials="A" surname="Lombardi">
+      <organization/>
+    </author>
+    <author fullname="Andrew Novick" initials="N" surname="Novick">
+      <organization/>
+    </author>
+    <author fullname="John Lowe" initials="P" surname="Lowe">
+      <organization/>
+    </author>
+    <author fullname="Matthew Deutch" initials="J" surname="Deutch">
+      <organization/>
+    </author>
+    <author fullname="Glenn Nelson" initials="K" surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="Douglas Sutton" initials="S" surname="Sutton">
+      <organization/>
+    </author>
+    <author fullname="William Yates" initials="C" surname="Yates">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.960-14e2005"/>
+  <seriesInfo name="NIST" value="NIST SP 960-14e2005"/>
 </reference>

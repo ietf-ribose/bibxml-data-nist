@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-63" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-63.pdf">
   <front>
     <title>A testbed for providing uniformity to user-computer interaction languages</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-63"/>
-    <seriesInfo name="NIST" value="NBS SP 500-63"/>
-    <author fullname="Siegfried Treu" initials="S." surname="Treu"/>
+    <author fullname="Siegfried Treu" initials="S." surname="Treu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-63"/>
+  <seriesInfo name="NIST" value="NBS SP 500-63"/>
 </reference>

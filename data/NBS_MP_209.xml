@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.209" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub209.pdf">
   <front>
     <title>Report of the thirty-eighth national conference on weights and measures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.209"/>
-    <seriesInfo name="NIST" value="NBS MP 209"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.209"/>
+  <seriesInfo name="NIST" value="NBS MP 209"/>
 </reference>

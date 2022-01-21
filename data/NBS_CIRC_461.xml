@@ -1,16 +1,30 @@
 <reference anchor="NBS.CIRC.461" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular461.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 461:selected values of properties of hydrocarbons</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.461"/>
-    <seriesInfo name="NIST" value="NBS CIRC 461"/>
-    <author fullname="Frederick Rossini" initials="F." surname="Rossini"/>
-    <author fullname="Kenneth Pitzer" initials="K." surname="Pitzer"/>
-    <author fullname="William Taylor" initials="W." surname="Taylor"/>
-    <author fullname="Joan Ebert" initials="J." surname="Ebert"/>
-    <author fullname="John Kilpatrick" initials="J." surname="Kilpatrick"/>
-    <author fullname="Charles Beckett" initials="C." surname="Beckett"/>
-    <author fullname="Mary Williams" initials="M." surname="Williams"/>
-    <author fullname="Helene Werner" initials="H." surname="Werner"/>
+    <author fullname="Frederick Rossini" initials="D" surname="Rossini">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Pitzer" initials="S" surname="Pitzer">
+      <organization/>
+    </author>
+    <author fullname="William Taylor" initials="J" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Joan Ebert" initials="P" surname="Ebert">
+      <organization/>
+    </author>
+    <author fullname="John Kilpatrick" initials="E" surname="Kilpatrick">
+      <organization/>
+    </author>
+    <author fullname="Charles Beckett" initials="W" surname="Beckett">
+      <organization/>
+    </author>
+    <author fullname="Mary Williams" initials="G" surname="Williams">
+      <organization/>
+    </author>
+    <author fullname="Helene Werner" initials="G" surname="Werner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.461"/>
+  <seriesInfo name="NIST" value="NBS CIRC 461"/>
 </reference>

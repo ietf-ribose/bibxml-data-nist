@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote55.pdf">
   <front>
     <title>Investigation of bearing creep of two forged aluminum alloys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.55"/>
-    <seriesInfo name="NIST" value="NBS TN 55"/>
-    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin"/>
+    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.55"/>
+  <seriesInfo name="NIST" value="NBS TN 55"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.400-21" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-21.pdf">
   <front>
     <title>Planar test structures for characterizing impurities in silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-21"/>
-    <seriesInfo name="NIST" value="NBS SP 400-21"/>
-    <author surname="Buchler"/>
-    <author surname="David"/>
-    <author surname="Mattis"/>
-    <author surname="Phillips"/>
-    <author surname="Thurber"/>
+    <author initials="MG" surname="Buchler">
+      <organization/>
+    </author>
+    <author initials="JM" surname="David">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Mattis">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Thurber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-21"/>
+  <seriesInfo name="NIST" value="NBS SP 400-21"/>
 </reference>

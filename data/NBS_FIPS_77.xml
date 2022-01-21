@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.77" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub77.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: guideline for planning and management of database applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.77"/>
-    <seriesInfo name="NIST" value="NBS FIPS 77"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.77"/>
+  <seriesInfo name="NIST" value="NBS FIPS 77"/>
 </reference>

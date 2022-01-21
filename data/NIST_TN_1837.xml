@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1837" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1837.pdf">
   <front>
     <title>Improving Smoke Alarm Performance – Justification for New Smoldering and Flaming Test Performance Criteria</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1837"/>
-    <seriesInfo name="NIST" value="NIST TN 1837"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary">
+    <author fullname="Thomas Cleary" initials="G" surname="Cleary">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1837"/>
+  <seriesInfo name="NIST" value="NIST TN 1837"/>
 </reference>

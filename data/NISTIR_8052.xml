@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8052" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8052.pdf">
   <front>
     <title>rFace Recognition Vendor Test (FRVT)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8052"/>
-    <seriesInfo name="NIST" value="NIST IR 8052"/>
     <author fullname="Mei Ngan" initials="M." surname="Ngan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8052"/>
+  <seriesInfo name="NIST" value="NIST IR 8052"/>
 </reference>

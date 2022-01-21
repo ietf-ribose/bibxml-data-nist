@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.6979sup1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6979sup1.pdf">
   <front>
     <title>Recheck of lamps used for International intercomparisons carried out at Bureau International des Poids et Mesures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6979sup1"/>
-    <seriesInfo name="NIST" value="NBS RPT 6979sup1"/>
-    <author fullname="Ray Teele" initials="R." surname="Teele"/>
-    <author fullname="Marshall McDonald" initials="M." surname="McDonald"/>
+    <author fullname="Ray Teele" initials="P" surname="Teele">
+      <organization/>
+    </author>
+    <author fullname="Marshall McDonald" initials="J" surname="McDonald">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6979sup1"/>
+  <seriesInfo name="NIST" value="NBS RPT 6979sup1"/>
 </reference>

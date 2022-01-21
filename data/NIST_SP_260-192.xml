@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.260-192" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-192.pdf">
   <front>
     <title>Thirty-year stability of standard reference material 2034 holmium oxide solution wavelength standard for spectrophotometry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-192"/>
-    <seriesInfo name="NIST" value="NIST SP 260-192"/>
-    <author fullname="Melody Smith" initials="M." surname="Smith">
+    <author fullname="Melody Smith" initials="V" surname="Smith">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="John Travis" initials="J." surname="Travis">
+    <author fullname="John Travis" initials="C" surname="Travis">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="David Duewer" initials="D." surname="Duewer">
+    <author fullname="David Duewer" initials="L" surname="Duewer">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-192"/>
+  <seriesInfo name="NIST" value="NIST SP 260-192"/>
 </reference>

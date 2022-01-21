@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1601" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1601.pdf">
   <front>
     <title>Tracking Industry Operations Activity: A Case Study of US Automotive Manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1601"/>
-    <seriesInfo name="NIST" value="NIST SP 1601"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas">
+    <author fullname="Douglas Thomas" initials="S" surname="Thomas">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Anand Kandaswamy" initials="A." surname="Kandaswamy">
+    <author fullname="Anand Kandaswamy" initials="M" surname="Kandaswamy">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1601"/>
+  <seriesInfo name="NIST" value="NIST SP 1601"/>
 </reference>

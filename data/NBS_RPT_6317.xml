@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.6317" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6317.pdf">
   <front>
     <title>Microstructure of the human tooth:the primary caries lesion, progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6317"/>
-    <seriesInfo name="NIST" value="NBS RPT 6317"/>
-    <author surname="Jennings"/>
-    <author surname="Losee"/>
+    <author initials="WH" surname="Jennings">
+      <organization/>
+    </author>
+    <author initials="FL" surname="Losee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6317"/>
+  <seriesInfo name="NIST" value="NBS RPT 6317"/>
 </reference>

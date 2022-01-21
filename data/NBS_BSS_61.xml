@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.61" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience61.pdf">
   <front>
     <title>Natural hazards evaluation of existing buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.61"/>
-    <seriesInfo name="NIST" value="NBS BSS 61"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
-    <author surname="Lew"/>
-    <author fullname="Gary Hart" initials="G." surname="Hart"/>
-    <author fullname="Clarkson Pinkham" initials="C." surname="Pinkham"/>
+    <author fullname="Charles Culver" initials="G" surname="Culver">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Gary Hart" initials="C" surname="Hart">
+      <organization/>
+    </author>
+    <author fullname="Clarkson Pinkham" initials="W" surname="Pinkham">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.61"/>
+  <seriesInfo name="NIST" value="NBS BSS 61"/>
 </reference>

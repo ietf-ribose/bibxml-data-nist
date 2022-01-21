@@ -1,11 +1,15 @@
 <reference anchor="NBS.HB.134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook134.pdf">
   <front>
     <title>Fire investigation handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.134"/>
-    <seriesInfo name="NIST" value="NBS HB 134"/>
-    <author fullname="Francis Brannigan" initials="F." surname="Brannigan"/>
-    <author fullname="Richard Bright" initials="R." surname="Bright"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
+    <author fullname="Francis Brannigan" initials="L" surname="Brannigan">
+      <organization/>
+    </author>
+    <author fullname="Richard Bright" initials="G" surname="Bright">
+      <organization/>
+    </author>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.134"/>
+  <seriesInfo name="NIST" value="NBS HB 134"/>
 </reference>

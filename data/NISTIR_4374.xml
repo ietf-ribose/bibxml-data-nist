@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4374" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4374.pdf">
   <front>
     <title>The naming forum:proceedings of the IRDS workshop on data entity naming conventions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4374"/>
-    <seriesInfo name="NIST" value="NIST IR 4374"/>
-    <author fullname="Judith Newton" initials="J." surname="Newton"/>
+    <author fullname="Judith Newton" initials="J" surname="Newton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4374"/>
+  <seriesInfo name="NIST" value="NIST IR 4374"/>
 </reference>

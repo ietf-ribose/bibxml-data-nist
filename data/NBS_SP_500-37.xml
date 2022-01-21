@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-37" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-37.pdf">
   <front>
     <title>Common command language for file manipulation and network job execution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-37"/>
-    <seriesInfo name="NIST" value="NBS SP 500-37"/>
-    <author surname="Fitzgerald"/>
+    <author initials="ML" surname="Fitzgerald">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-37"/>
+  <seriesInfo name="NIST" value="NBS SP 500-37"/>
 </reference>

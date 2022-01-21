@@ -1,12 +1,18 @@
 <reference anchor="NIST.TN.1382" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1382.pdf">
   <front>
     <title>A Standard source method for reducing antenna factor errors in shielded room measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1382"/>
-    <seriesInfo name="NIST" value="NIST TN 1382"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
-    <author fullname="Bob Rakoski" initials="B." surname="Rakoski"/>
-    <author fullname="Robert Smith" initials="R." surname="Smith"/>
-    <author fullname="Dennis Camell" initials="D." surname="Camell"/>
+    <author fullname="Galen Koepke" initials="G." surname="Koepke">
+      <organization/>
+    </author>
+    <author fullname="Bob Rakoski" initials="B." surname="Rakoski">
+      <organization/>
+    </author>
+    <author fullname="Robert Smith" initials="R." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Dennis Camell" initials="D." surname="Camell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1382"/>
+  <seriesInfo name="NIST" value="NIST TN 1382"/>
 </reference>

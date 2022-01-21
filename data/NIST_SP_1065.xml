@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1065" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1065.pdf">
   <front>
     <title>Handbook of frequency stability analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1065"/>
-    <seriesInfo name="NIST" value="NIST SP 1065"/>
-    <author surname="Riley"/>
-    <author surname="Riley"/>
+    <author initials="WJ" surname="Riley">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Riley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1065"/>
+  <seriesInfo name="NIST" value="NIST SP 1065"/>
 </reference>

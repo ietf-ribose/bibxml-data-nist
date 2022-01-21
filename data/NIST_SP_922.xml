@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.922" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication922.pdf">
   <front>
     <title>Polycyclic aromatic hydrocarbon structure index</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.922"/>
-    <seriesInfo name="NIST" value="NIST SP 922"/>
-    <author fullname="Lane Sander" initials="L." surname="Sander"/>
-    <author fullname="Lane Sander" initials="L." surname="Sander"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Lane Sander" initials="C" surname="Sander">
+      <organization/>
+    </author>
+    <author fullname="Lane Sander" initials="C" surname="Sander">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.922"/>
+  <seriesInfo name="NIST" value="NIST SP 922"/>
 </reference>

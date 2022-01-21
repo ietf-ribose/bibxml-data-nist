@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.12" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph12.pdf">
   <front>
     <title>Stabilization of free radicals at low temperatures :summary of the NBS program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.12"/>
-    <seriesInfo name="NIST" value="NBS MONO 12"/>
-    <author fullname="Arnold Bass" initials="A." surname="Bass"/>
-    <author surname="Broida"/>
+    <author fullname="Arnold Bass" initials="M" surname="Bass">
+      <organization/>
+    </author>
+    <author initials="HP" surname="Broida">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.12"/>
+  <seriesInfo name="NIST" value="NBS MONO 12"/>
 </reference>

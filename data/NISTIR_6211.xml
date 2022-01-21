@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6211" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6211.pdf">
   <front>
     <title>Alaska Harbor Seal (Phoca vitulina) contaminants:a review with annotated bibliography</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6211"/>
-    <seriesInfo name="NIST" value="NIST IR 6211"/>
-    <author fullname="Rebecca Papa" initials="R." surname="Papa"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
+    <author fullname="Rebecca Papa" initials="S" surname="Papa">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6211"/>
+  <seriesInfo name="NIST" value="NIST IR 6211"/>
 </reference>

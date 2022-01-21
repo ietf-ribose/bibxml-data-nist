@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6931" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6931.pdf">
   <front>
     <title>Analysis of the ASTM round-robin test on particle size distribution of Portland cement:phase II</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6931"/>
-    <seriesInfo name="NIST" value="NIST IR 6931"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Vincent Hackley" initials="V." surname="Hackley"/>
-    <author fullname="AnaIvelisse Avilés" initials="A.I." surname="Avilés"/>
-    <author fullname="CharlesJr Buchanan" initials="C.J." surname="Buchanan"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Vincent Hackley" initials="A" surname="Hackley">
+      <organization/>
+    </author>
+    <author fullname="AnaIvelisse Avilés" initials="A.I." surname="Avilés">
+      <organization/>
+    </author>
+    <author fullname="CharlesJr Buchanan" initials="E" surname="Buchanan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6931"/>
+  <seriesInfo name="NIST" value="NIST IR 6931"/>
 </reference>

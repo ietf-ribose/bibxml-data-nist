@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1148.pdf">
   <front>
     <title>Characterizing the inter-fiber bond strengths of paper pulps in terms of a breaking energy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1148"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1148"/>
-    <author fullname="Jack Smith" initials="J." surname="Smith"/>
-    <author fullname="Edmond Graminski" initials="E." surname="Graminski"/>
+    <author fullname="Jack Smith" initials="C" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Edmond Graminski" initials="L" surname="Graminski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1148"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1148"/>
 </reference>

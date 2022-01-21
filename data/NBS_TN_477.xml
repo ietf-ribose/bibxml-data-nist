@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.477" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote477.pdf">
   <front>
     <title>The performance of roofing made with asplund felts.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.477"/>
-    <seriesInfo name="NIST" value="NBS TN 477"/>
-    <author fullname="Sidney Greenfeld" initials="S." surname="Greenfeld"/>
+    <author fullname="Sidney Greenfeld" initials="H" surname="Greenfeld">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.477"/>
+  <seriesInfo name="NIST" value="NBS TN 477"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph5.pdf">
   <front>
     <title>Preservation of documents by lamination</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.5"/>
-    <seriesInfo name="NIST" value="NBS MONO 5"/>
-    <author fullname="William Wilson" initials="W." surname="Wilson"/>
-    <author surname="Forshee"/>
+    <author fullname="William Wilson" initials="K" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="BW" surname="Forshee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.5"/>
+  <seriesInfo name="NIST" value="NBS MONO 5"/>
 </reference>

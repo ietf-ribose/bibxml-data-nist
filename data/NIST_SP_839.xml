@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.839" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication839.pdf">
   <front>
     <title>Technical digest</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.839"/>
-    <seriesInfo name="NIST" value="NIST SP 839"/>
-    <author surname="Day"/>
-    <author surname="Day"/>
-    <author surname="Franzen"/>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Franzen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.839"/>
+  <seriesInfo name="NIST" value="NIST SP 839"/>
 </reference>

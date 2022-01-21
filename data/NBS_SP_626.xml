@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.626" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication626.pdf">
   <front>
     <title>Nuclear data for the efficiency calibration of germanium spectormeter systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.626"/>
-    <seriesInfo name="NIST" value="NBS SP 626"/>
-    <author surname="Hoppes"/>
-    <author surname="Schima"/>
+    <author initials="DD" surname="Hoppes">
+      <organization/>
+    </author>
+    <author initials="FJ" surname="Schima">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.626"/>
+  <seriesInfo name="NIST" value="NBS SP 626"/>
 </reference>

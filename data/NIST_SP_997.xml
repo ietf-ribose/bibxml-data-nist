@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.997" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication997.pdf">
   <front>
     <title>BFRL publications 2002</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.997"/>
-    <seriesInfo name="NIST" value="NIST SP 997"/>
-    <author fullname="Regina Burgess" initials="R." surname="Burgess"/>
-    <author fullname="Regina Burgess" initials="R." surname="Burgess"/>
-    <author fullname="Kathleen Whisner" initials="K." surname="Whisner"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
+    <author fullname="Regina Burgess" initials="S" surname="Burgess">
+      <organization/>
+    </author>
+    <author fullname="Regina Burgess" initials="S" surname="Burgess">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Whisner" initials="B" surname="Whisner">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.997"/>
+  <seriesInfo name="NIST" value="NIST SP 997"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7356-CAS" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7356-CAS.pdf">
   <front>
     <title>Evaluation of reported results using the revised U.S. Department of Energy dishwasher test procedure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7356-CAS"/>
-    <seriesInfo name="NIST" value="NIST IR 7356-CAS"/>
-    <author fullname="Natascha Castro" initials="N." surname="Castro"/>
+    <author fullname="Natascha Castro" initials="N." surname="Castro">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7356-CAS"/>
+  <seriesInfo name="NIST" value="NIST IR 7356-CAS"/>
 </reference>

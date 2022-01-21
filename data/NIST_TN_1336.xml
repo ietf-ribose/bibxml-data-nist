@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1336" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1336.pdf">
   <front>
     <title>Wavelength measurement system for optical fiber communications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1336"/>
-    <seriesInfo name="NIST" value="NIST TN 1336"/>
-    <author fullname="Gregory Obarski" initials="G." surname="Obarski"/>
+    <author fullname="Gregory Obarski" initials="E" surname="Obarski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1336"/>
+  <seriesInfo name="NIST" value="NIST TN 1336"/>
 </reference>

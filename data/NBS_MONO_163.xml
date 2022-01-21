@@ -1,12 +1,18 @@
 <reference anchor="NBS.MONO.163" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph163.pdf">
   <front>
     <title>Measurement assurance for gage blocks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.163"/>
-    <seriesInfo name="NIST" value="NBS MONO 163"/>
-    <author fullname="Carroll Croarkin" initials="C." surname="Croarkin"/>
-    <author fullname="John Beers" initials="J." surname="Beers"/>
-    <author fullname="Clyde Tucker" initials="C." surname="Tucker"/>
-    <author surname="Cameron"/>
+    <author fullname="Carroll Croarkin" initials="C." surname="Croarkin">
+      <organization/>
+    </author>
+    <author fullname="John Beers" initials="J." surname="Beers">
+      <organization/>
+    </author>
+    <author fullname="Clyde Tucker" initials="C." surname="Tucker">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Cameron">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.163"/>
+  <seriesInfo name="NIST" value="NBS MONO 163"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.17-014" target="https://nvlpubs.nist.gov/nistpubs/gcr/2017/NIST.GCR.17-014.pdf">
   <front>
     <title>A study on the effect of repeat moderate intensity radiant exposures on SCBA facepiece properties</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-014"/>
-    <seriesInfo name="NIST" value="NIST GCR 17-014"/>
-    <author fullname="Gavin Horn" initials="G." surname="Horn">
+    <author fullname="Gavin Horn" initials="P" surname="Horn">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Richard Kesler" initials="R." surname="Kesler">
+    <author fullname="Richard Kesler" initials="M" surname="Kesler">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="John Regan" initials="J." surname="Regan">
+    <author fullname="John Regan" initials="W" surname="Regan">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-014"/>
+  <seriesInfo name="NIST" value="NIST GCR 17-014"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1255" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1255.pdf">
   <front>
     <title>Polymer surface-interface consortium 2018 workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1255"/>
-    <seriesInfo name="NIST" value="NIST SP 1255"/>
-    <author fullname="Ronald Lankone" initials="R." surname="Lankone">
+    <author fullname="Ronald Lankone" initials="S" surname="Lankone">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Goodwin Jr." initials="D." surname="Goodwin Jr.">
+    <author fullname="David Goodwin Jr." initials="G" surname="Goodwin Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Andrew Fairbrother" initials="A." surname="Fairbrother">
@@ -27,4 +25,6 @@
     </author>
     <date year="2020" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1255"/>
+  <seriesInfo name="NIST" value="NIST SP 1255"/>
 </reference>

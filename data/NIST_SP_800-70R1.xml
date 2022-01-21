@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-70r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-70r1.pdf">
   <front>
     <title>National checklist program for IT products :guidelines for checklist users and developers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-70r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-70r1"/>
-    <author surname="Quinn">
+    <author initials="SD" surname="Quinn">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Souppaya">
+    <author initials="MP" surname="Souppaya">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-70r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-70r1"/>
 </reference>

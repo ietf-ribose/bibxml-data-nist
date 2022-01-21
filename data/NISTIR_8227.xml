@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8227" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8227.pdf">
   <front>
     <title>Manufacturing profile implementation methodology for a robotic workcell</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8227"/>
-    <seriesInfo name="NIST" value="NIST IR 8227"/>
-    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+    <author fullname="Timothy Zimmerman" initials="A" surname="Zimmerman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8227"/>
+  <seriesInfo name="NIST" value="NIST IR 8227"/>
 </reference>

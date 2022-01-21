@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.59r5/1924" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular59r051924.pdf">
   <front>
     <title>Letter Circular 59:paints, varnish, etc</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.59r5/1924"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 59r5/1924"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1924"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.59r5/1924"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 59r5/1924"/>
 </reference>

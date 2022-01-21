@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.82-2604" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2604.pdf">
   <front>
     <title>Upholstered furniture heat release rates measured with a furniture calorimeter</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2604"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2604"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author surname="Walton"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author initials="WD" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2604"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2604"/>
 </reference>

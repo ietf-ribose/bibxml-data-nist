@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2767" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2767.pdf">
   <front>
     <title>Measurement of the concentration of sulfur dioxide, nitrogen oxides, and ozone in the National Archives Building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2767"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2767"/>
-    <author surname="Hughes"/>
+    <author initials="EE" surname="Hughes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2767"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2767"/>
 </reference>

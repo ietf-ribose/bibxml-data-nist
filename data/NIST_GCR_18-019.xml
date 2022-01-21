@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.18-019" target="https://nvlpubs.nist.gov/nistpubs/gcr/2018/NIST.GCR.18-019.pdf">
   <front>
     <title>Mechanical properties and off-gassing characteristics of new and legacy SCBA facepieces</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-019"/>
-    <seriesInfo name="NIST" value="NIST GCR 18-019"/>
-    <author fullname="Richard Kesler" initials="R." surname="Kesler">
+    <author fullname="Richard Kesler" initials="M" surname="Kesler">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Constandinos Mitsingas" initials="C." surname="Mitsingas">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Adam Quiat" initials="A." surname="Quiat">
+    <author fullname="Adam Quiat" initials="G" surname="Quiat">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Tonghun Lee" initials="T." surname="Lee">
@@ -18,7 +16,7 @@
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Gavin Horn" initials="G." surname="Horn">
+    <author fullname="Gavin Horn" initials="P" surname="Horn">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-019"/>
+  <seriesInfo name="NIST" value="NIST GCR 18-019"/>
 </reference>

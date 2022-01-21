@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.956" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote956.pdf">
   <front>
     <title>FORTRAN program to determine length of gage blocks using single wavelength interferometry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.956"/>
-    <seriesInfo name="NIST" value="NBS TN 956"/>
-    <author fullname="Ruth Varner" initials="R." surname="Varner"/>
+    <author fullname="Ruth Varner" initials="N" surname="Varner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.956"/>
+  <seriesInfo name="NIST" value="NBS TN 956"/>
 </reference>

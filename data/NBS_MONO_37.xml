@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.37" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph37.pdf">
   <front>
     <title>International practical temperature scale of 1948 :text revision of 1960</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.37"/>
-    <seriesInfo name="NIST" value="NBS MONO 37"/>
-    <author surname="Stimson"/>
+    <author initials="HF" surname="Stimson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.37"/>
+  <seriesInfo name="NIST" value="NBS MONO 37"/>
 </reference>

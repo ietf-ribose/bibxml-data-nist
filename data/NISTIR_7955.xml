@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.7955" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7955.pdf">
   <front>
     <title>Dietary Supplement Laboratory Quality Assurance Program : Exercise I Final Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7955"/>
-    <seriesInfo name="NIST" value="NIST IR 7955"/>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+    <author fullname="Melissa Phillips" initials="M" surname="Phillips">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+    <author fullname="Catherine Rimmer" initials="A" surname="Rimmer">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Laura Wood" initials="L." surname="Wood">
+    <author fullname="Laura Wood" initials="J" surname="Wood">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Karen Murphy" initials="K." surname="Murphy">
+    <author fullname="Karen Murphy" initials="E" surname="Murphy">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Thomas Vetter" initials="T." surname="Vetter">
+    <author fullname="Thomas Vetter" initials="W" surname="Vetter">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7955"/>
+  <seriesInfo name="NIST" value="NIST IR 7955"/>
 </reference>

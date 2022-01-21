@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4625" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4625.pdf">
   <front>
     <title>Suppression of post-flashover compartment fires using manually applied water sprays</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4625"/>
-    <seriesInfo name="NIST" value="NIST IR 4625"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4625"/>
+  <seriesInfo name="NIST" value="NIST IR 4625"/>
 </reference>

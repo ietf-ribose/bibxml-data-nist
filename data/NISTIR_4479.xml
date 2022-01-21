@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4479" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4479.pdf">
   <front>
     <title>Preliminary report on proposed baffled noise abatement structure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4479"/>
-    <seriesInfo name="NIST" value="NIST IR 4479"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Knab" initials="L." surname="Knab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4479"/>
+  <seriesInfo name="NIST" value="NIST IR 4479"/>
 </reference>

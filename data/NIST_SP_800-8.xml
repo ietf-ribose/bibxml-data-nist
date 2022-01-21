@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-8" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-8.pdf">
   <front>
     <title>Security issues in the database language SQL</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-8"/>
-    <seriesInfo name="NIST" value="NIST SP 800-8"/>
-    <author fullname="Timothy Polk" initials="T." surname="Polk">
+    <author fullname="Timothy Polk" initials="W" surname="Polk">
       <organization>Computer Security Division.</organization>
     </author>
     <author fullname="LawrenceE,III Bassham" initials="L.E.I." surname="Bassham">
@@ -21,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-8"/>
+  <seriesInfo name="NIST" value="NIST SP 800-8"/>
 </reference>

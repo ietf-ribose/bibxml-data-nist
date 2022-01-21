@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-189" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-189.pdf">
   <front>
     <title>Security in ISDN</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-189"/>
-    <seriesInfo name="NIST" value="NIST SP 500-189"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
+    <author fullname="William Burr" initials="E" surname="Burr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-189"/>
+  <seriesInfo name="NIST" value="NIST SP 500-189"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8114" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8114.pdf">
   <front>
     <title>Report on lightweight cryptography</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8114"/>
-    <seriesInfo name="NIST" value="NIST IR 8114"/>
-    <author fullname="Kerry McKay" initials="K." surname="McKay">
+    <author fullname="Kerry McKay" initials="A" surname="McKay">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Larry Bassham" initials="L." surname="Bassham">
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8114"/>
+  <seriesInfo name="NIST" value="NIST IR 8114"/>
 </reference>

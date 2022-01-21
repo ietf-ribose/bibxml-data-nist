@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2256.pdf">
   <front>
     <title>Analysis of fire data, large-scale tests, and small-scale tests for conveyor belts used in underground coal mines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2256"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2256"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
-    <author fullname="Robert Meade" initials="R." surname="Meade"/>
-    <author fullname="Lee Smith" initials="L." surname="Smith"/>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
+    <author fullname="Robert Meade" initials="E" surname="Meade">
+      <organization/>
+    </author>
+    <author fullname="Lee Smith" initials="R" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2256"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2256"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.6445" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6445.pdf">
   <front>
     <title>Chemical Science and Technology Laboratory, 1999 technical activities report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6445"/>
-    <seriesInfo name="NIST" value="NIST IR 6445"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6445"/>
+  <seriesInfo name="NIST" value="NIST IR 6445"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-193.pdf">
   <front>
     <title>Meetings of WG 3, 10 and 11 of ISOTC 92, March 25-30, 1973, on doors, instrumentation and fire endurance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-193"/>
-    <seriesInfo name="NIST" value="NBS IR 73-193"/>
-    <author surname="Robertson"/>
+    <author initials="AF" surname="Robertson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-193"/>
+  <seriesInfo name="NIST" value="NBS IR 73-193"/>
 </reference>

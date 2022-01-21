@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.135-2020" target="https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.135-2020.pdf">
   <front>
     <title>Life cycle cost manual for the federal energy management program</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.135-2020"/>
-    <seriesInfo name="NIST" value="NIST HB 135-2020"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.135-2020"/>
+  <seriesInfo name="NIST" value="NIST HB 135-2020"/>
 </reference>

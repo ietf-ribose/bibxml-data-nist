@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience18.pdf">
   <front>
     <title>Smoke and gases produced by burning aircraft interior materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.18"/>
-    <seriesInfo name="NIST" value="NBS BSS 18"/>
-    <author surname="Gross"/>
-    <author surname="Loftus"/>
-    <author surname="Lee"/>
-    <author surname="Gray"/>
+    <author initials="D" surname="Gross">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Loftus">
+      <organization/>
+    </author>
+    <author initials="TG" surname="Lee">
+      <organization/>
+    </author>
+    <author initials="VE" surname="Gray">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.18"/>
+  <seriesInfo name="NIST" value="NBS BSS 18"/>
 </reference>

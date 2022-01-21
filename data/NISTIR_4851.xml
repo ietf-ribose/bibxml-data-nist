@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4851" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4851.pdf">
   <front>
     <title>Lead concentration in consumer paints:a pilot study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4851"/>
-    <seriesInfo name="NIST" value="NIST IR 4851"/>
-    <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
-    <author fullname="Willard Roberts" initials="W." surname="Roberts"/>
+    <author fullname="Mary McKnight" initials="E" surname="McKnight">
+      <organization/>
+    </author>
+    <author fullname="Willard Roberts" initials="E" surname="Roberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4851"/>
+  <seriesInfo name="NIST" value="NIST IR 4851"/>
 </reference>

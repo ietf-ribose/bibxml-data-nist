@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.1210" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1210.pdf">
   <front>
     <title>Report of the 100th national conference on weights and measures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1210"/>
-    <seriesInfo name="NIST" value="NIST SP 1210"/>
-    <author fullname="Tina Butcher" initials="T." surname="Butcher">
+    <author fullname="Tina Butcher" initials="G" surname="Butcher">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Linda Crown" initials="L." surname="Crown">
+    <author fullname="Linda Crown" initials="D" surname="Crown">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Richard Harshman" initials="R." surname="Harshman">
+    <author fullname="Richard Harshman" initials="A" surname="Harshman">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="David Sefcik" initials="D." surname="Sefcik">
+    <author fullname="David Sefcik" initials="A" surname="Sefcik">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Lisa Warfield" initials="L." surname="Warfield">
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1210"/>
+  <seriesInfo name="NIST" value="NIST SP 1210"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.74-379" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-379.pdf">
   <front>
     <title>Completion of the program to evaluate improve instrumentation and test methods for electroexplosive device safety qualification</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-379"/>
-    <seriesInfo name="NIST" value="NBS IR 74-379"/>
-    <author fullname="Paul Hudson" initials="P." surname="Hudson"/>
-    <author fullname="Dean Melquist" initials="D." surname="Melquist"/>
-    <author fullname="Arthur Ondrejka" initials="A." surname="Ondrejka"/>
-    <author fullname="Paul Werner" initials="P." surname="Werner"/>
+    <author fullname="Paul Hudson" initials="A" surname="Hudson">
+      <organization/>
+    </author>
+    <author fullname="Dean Melquist" initials="G" surname="Melquist">
+      <organization/>
+    </author>
+    <author fullname="Arthur Ondrejka" initials="R" surname="Ondrejka">
+      <organization/>
+    </author>
+    <author fullname="Paul Werner" initials="E" surname="Werner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-379"/>
+  <seriesInfo name="NIST" value="NBS IR 74-379"/>
 </reference>

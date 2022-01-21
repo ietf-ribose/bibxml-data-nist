@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.7652" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7652.pdf">
   <front>
     <title>Transmission loss variability and fading characteristics for long knife-edge diffraction paths</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7652"/>
-    <seriesInfo name="NIST" value="NBS RPT 7652"/>
-    <author fullname="Albrecht Barsis" initials="A." surname="Barsis"/>
+    <author fullname="Albrecht Barsis" initials="P" surname="Barsis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7652"/>
+  <seriesInfo name="NIST" value="NBS RPT 7652"/>
 </reference>

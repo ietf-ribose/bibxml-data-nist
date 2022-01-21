@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.5517" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5517.pdf">
   <front>
     <title>Reference architecture for machine control systems integration:interim report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5517"/>
-    <seriesInfo name="NIST" value="NIST IR 5517"/>
-    <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
-    <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
-    <author fullname="Steven Ray" initials="S." surname="Ray"/>
-    <author fullname="William Rippey" initials="W." surname="Rippey"/>
-    <author fullname="Sarah Wallace" initials="S." surname="Wallace"/>
+    <author fullname="John Michaloski" initials="J." surname="Michaloski">
+      <organization/>
+    </author>
+    <author fullname="Richard Quintero" initials="R." surname="Quintero">
+      <organization/>
+    </author>
+    <author fullname="Steven Ray" initials="R" surname="Ray">
+      <organization/>
+    </author>
+    <author fullname="William Rippey" initials="G" surname="Rippey">
+      <organization/>
+    </author>
+    <author fullname="Sarah Wallace" initials="S." surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5517"/>
+  <seriesInfo name="NIST" value="NIST IR 5517"/>
 </reference>

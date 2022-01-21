@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6760" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6760.pdf">
   <front>
     <title>Evaluation of a fast, simplified computational fluid dynamics model for solving room airflow problems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6760"/>
-    <seriesInfo name="NIST" value="NIST IR 6760"/>
-    <author fullname="Amy Musser" initials="A." surname="Musser"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Jeanne Palmer" initials="J." surname="Palmer"/>
+    <author fullname="Amy Musser" initials="A." surname="Musser">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Jeanne Palmer" initials="J." surname="Palmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6760"/>
+  <seriesInfo name="NIST" value="NIST IR 6760"/>
 </reference>

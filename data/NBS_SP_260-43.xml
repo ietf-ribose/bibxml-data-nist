@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-43" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-43.pdf">
   <front>
     <title>Standard Reference Materials :Preparation and homogeneity characterization of an austenitic iron-chromium-nickel alloy/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-43"/>
-    <seriesInfo name="NIST" value="NBS SP 260-43"/>
-    <author fullname="Arthur Ruff" initials="A." surname="Ruff"/>
-    <author fullname="Harvey Yakowitz" initials="H." surname="Yakowitz"/>
+    <author fullname="Arthur Ruff" initials="W" surname="Ruff">
+      <organization/>
+    </author>
+    <author fullname="Harvey Yakowitz" initials="H." surname="Yakowitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-43"/>
+  <seriesInfo name="NIST" value="NBS SP 260-43"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5118.pdf">
   <front>
     <title>Development of a fast-response variable-amplitude programmable reaction control system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5118"/>
-    <seriesInfo name="NIST" value="NIST IR 5118"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5118"/>
+  <seriesInfo name="NIST" value="NIST IR 5118"/>
 </reference>

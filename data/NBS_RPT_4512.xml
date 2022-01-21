@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.4512" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4512.pdf">
   <front>
     <title>Research in applications of mathematical statistics to problems of the chemical corps :progress report for October</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4512"/>
-    <seriesInfo name="NIST" value="NBS RPT 4512"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4512"/>
+  <seriesInfo name="NIST" value="NBS RPT 4512"/>
 </reference>

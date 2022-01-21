@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7183" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7183.pdf">
   <front>
     <title>Vibration signatures for three positive displacement compressors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7183"/>
-    <seriesInfo name="NIST" value="NIST IR 7183"/>
-    <author fullname="David Yashar" initials="D." surname="Yashar"/>
-    <author fullname="Vance Payne" initials="V." surname="Payne"/>
+    <author fullname="David Yashar" initials="A" surname="Yashar">
+      <organization/>
+    </author>
+    <author fullname="Vance Payne" initials="W" surname="Payne">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7183"/>
+  <seriesInfo name="NIST" value="NIST IR 7183"/>
 </reference>

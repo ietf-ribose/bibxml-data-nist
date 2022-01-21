@@ -1,22 +1,48 @@
 <reference anchor="NIST.NCSTAR.1-6c" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-6c.pdf">
   <front>
     <title>Component, connection and subsystem structural analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6c"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-6c"/>
-    <author fullname="Mehdi Zarghamee" initials="M." surname="Zarghamee"/>
-    <author fullname="Atis Iiepins" initials="A." surname="Iiepins"/>
-    <author fullname="Said Bolourchi" initials="S." surname="Bolourchi"/>
-    <author fullname="Michael Mudlock" initials="M." surname="Mudlock"/>
-    <author fullname="Daniel Eggers" initials="D." surname="Eggers"/>
-    <author fullname="Wassim Naguib" initials="W." surname="Naguib"/>
-    <author fullname="Omer Erbay" initials="O." surname="Erbay"/>
-    <author fullname="Rasko Ojdrovic" initials="R." surname="Ojdrovic"/>
-    <author fullname="Frank Kan" initials="F." surname="Kan"/>
-    <author fullname="Andrew Sarawit" initials="A." surname="Sarawit"/>
-    <author fullname="Yasuo Kitane" initials="Y." surname="Kitane"/>
-    <author fullname="Peter Barrett" initials="P." surname="Barrett"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister"/>
+    <author fullname="Mehdi Zarghamee" initials="M." surname="Zarghamee">
+      <organization/>
+    </author>
+    <author fullname="Atis Iiepins" initials="A" surname="Iiepins">
+      <organization/>
+    </author>
+    <author fullname="Said Bolourchi" initials="S." surname="Bolourchi">
+      <organization/>
+    </author>
+    <author fullname="Michael Mudlock" initials="M." surname="Mudlock">
+      <organization/>
+    </author>
+    <author fullname="Daniel Eggers" initials="W" surname="Eggers">
+      <organization/>
+    </author>
+    <author fullname="Wassim Naguib" initials="I" surname="Naguib">
+      <organization/>
+    </author>
+    <author fullname="Omer Erbay" initials="O" surname="Erbay">
+      <organization/>
+    </author>
+    <author fullname="Rasko Ojdrovic" initials="P" surname="Ojdrovic">
+      <organization/>
+    </author>
+    <author fullname="Frank Kan" initials="W" surname="Kan">
+      <organization/>
+    </author>
+    <author fullname="Andrew Sarawit" initials="T" surname="Sarawit">
+      <organization/>
+    </author>
+    <author fullname="Yasuo Kitane" initials="Y." surname="Kitane">
+      <organization/>
+    </author>
+    <author fullname="Peter Barrett" initials="R" surname="Barrett">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="Therese McAllister" initials="P" surname="McAllister">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -29,4 +55,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6c"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-6c"/>
 </reference>

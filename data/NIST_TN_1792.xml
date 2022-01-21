@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1792" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1792.pdf">
   <front>
     <title>Performance Analysis of RF-Based Electronic Safety Equipment in a Subway Station and the Empire State Building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1792"/>
-    <seriesInfo name="NIST" value="NIST TN 1792"/>
-    <author fullname="William Young" initials="W." surname="Young">
+    <author fullname="William Young" initials="F" surname="Young">
       <organization>Physical Measurement Laboratory, Electromagnetics Division</organization>
     </author>
-    <author fullname="Kate Remley" initials="K." surname="Remley">
+    <author fullname="Kate Remley" initials="A" surname="Remley">
       <organization>Physical Measurement Laboratory, Electromagnetics Division</organization>
     </author>
     <author fullname="Galen Koepke" initials="G." surname="Koepke">
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1792"/>
+  <seriesInfo name="NIST" value="NIST TN 1792"/>
 </reference>

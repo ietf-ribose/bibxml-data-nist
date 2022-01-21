@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.1010" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1010.pdf">
   <front>
     <title>Letter Circular 1010:physical properties of currently produced marbles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1010"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1010"/>
-    <author fullname="Arthur Hockman" initials="A." surname="Hockman"/>
+    <author fullname="Arthur Hockman" initials="A." surname="Hockman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1010"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1010"/>
 </reference>

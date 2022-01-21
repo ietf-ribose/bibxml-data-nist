@@ -1,11 +1,15 @@
 <reference anchor="NIST.HB.152" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook152.pdf">
   <front>
     <title>Recommended practice; symbols, terms, units and uncertainty analysis for radiometric sensor calibration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.152"/>
-    <seriesInfo name="NIST" value="NIST HB 152"/>
-    <author fullname="Clair Wyatt" initials="C." surname="Wyatt"/>
-    <author fullname="Victor Privalsky" initials="V." surname="Privalsky"/>
-    <author fullname="Raju Datla" initials="R." surname="Datla"/>
+    <author fullname="Clair Wyatt" initials="L" surname="Wyatt">
+      <organization/>
+    </author>
+    <author fullname="Victor Privalsky" initials="V." surname="Privalsky">
+      <organization/>
+    </author>
+    <author fullname="Raju Datla" initials="R." surname="Datla">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.152"/>
+  <seriesInfo name="NIST" value="NIST HB 152"/>
 </reference>

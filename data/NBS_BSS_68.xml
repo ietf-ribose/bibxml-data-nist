@@ -1,14 +1,24 @@
 <reference anchor="NBS.BSS.68" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience68.pdf">
   <front>
     <title>Review of standards and other information on thermoplastic piping in residential plumbing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.68"/>
-    <seriesInfo name="NIST" value="NBS BSS 68"/>
-    <author fullname="Robert Wyly" initials="R." surname="Wyly"/>
-    <author fullname="William Parker" initials="W." surname="Parker"/>
-    <author fullname="Daniel Rorrer" initials="D." surname="Rorrer"/>
-    <author fullname="James Shaver" initials="J." surname="Shaver"/>
-    <author fullname="Grover Sherlin" initials="G." surname="Sherlin"/>
-    <author fullname="Max Tryon" initials="M." surname="Tryon"/>
+    <author fullname="Robert Wyly" initials="S" surname="Wyly">
+      <organization/>
+    </author>
+    <author fullname="William Parker" initials="J" surname="Parker">
+      <organization/>
+    </author>
+    <author fullname="Daniel Rorrer" initials="E" surname="Rorrer">
+      <organization/>
+    </author>
+    <author fullname="James Shaver" initials="R" surname="Shaver">
+      <organization/>
+    </author>
+    <author fullname="Grover Sherlin" initials="C" surname="Sherlin">
+      <organization/>
+    </author>
+    <author fullname="Max Tryon" initials="M." surname="Tryon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.68"/>
+  <seriesInfo name="NIST" value="NBS BSS 68"/>
 </reference>

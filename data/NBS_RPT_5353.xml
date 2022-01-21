@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.5353" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5353.pdf">
   <front>
     <title>Evaluation of refractory qualities of concretes for jet aircraft warm-up, power check, maintenance aprons, and runways :quarterly report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5353"/>
-    <seriesInfo name="NIST" value="NBS RPT 5353"/>
-    <author surname="Pendergast"/>
-    <author surname="Tuma"/>
-    <author surname="Mong"/>
-    <author surname="Trattner"/>
+    <author initials="WL" surname="Pendergast">
+      <organization/>
+    </author>
+    <author initials="EC" surname="Tuma">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Mong">
+      <organization/>
+    </author>
+    <author initials="E" surname="Trattner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5353"/>
+  <seriesInfo name="NIST" value="NBS RPT 5353"/>
 </reference>

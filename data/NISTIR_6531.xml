@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.6531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6531.pdf">
   <front>
     <title>Flammability of polymer clay nanocomposites consortium:year one annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6531"/>
-    <seriesInfo name="NIST" value="NIST IR 6531"/>
-    <author fullname="Jeffrey Gilman" initials="J." surname="Gilman"/>
-    <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi"/>
-    <author fullname="Alexander Morgan" initials="A." surname="Morgan"/>
-    <author fullname="RichardJr Harris" initials="R.J." surname="Harris"/>
-    <author fullname="Lori Brassell" initials="L." surname="Brassell"/>
-    <author fullname="Mark VanLandingham" initials="M." surname="VanLandingham"/>
-    <author fullname="Catheryn Jackson" initials="C." surname="Jackson"/>
+    <author fullname="Jeffrey Gilman" initials="W" surname="Gilman">
+      <organization/>
+    </author>
+    <author fullname="Takashi Kashiwagi" initials="T." surname="Kashiwagi">
+      <organization/>
+    </author>
+    <author fullname="Alexander Morgan" initials="B" surname="Morgan">
+      <organization/>
+    </author>
+    <author fullname="RichardJr Harris" initials="H" surname="Harris">
+      <organization/>
+    </author>
+    <author fullname="Lori Brassell" initials="L." surname="Brassell">
+      <organization/>
+    </author>
+    <author fullname="Mark VanLandingham" initials="M." surname="VanLandingham">
+      <organization/>
+    </author>
+    <author fullname="Catheryn Jackson" initials="L" surname="Jackson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6531"/>
+  <seriesInfo name="NIST" value="NIST IR 6531"/>
 </reference>

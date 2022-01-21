@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10442" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10442.pdf">
   <front>
     <title>A stabilizing comonomer :I. synthesis and confirmation of structure</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10442"/>
-    <seriesInfo name="NIST" value="NBS RPT 10442"/>
-    <author surname="Bowen"/>
-    <author surname="Argentar"/>
+    <author initials="RL" surname="Bowen">
+      <organization/>
+    </author>
+    <author initials="H" surname="Argentar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10442"/>
+  <seriesInfo name="NIST" value="NBS RPT 10442"/>
 </reference>

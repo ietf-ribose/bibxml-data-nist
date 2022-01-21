@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7413" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7413.pdf">
   <front>
     <title>Tenth annual report on federal agency use of voluntary consensus standards and conformity assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7413"/>
-    <seriesInfo name="NIST" value="NIST IR 7413"/>
-    <author fullname="Mary Donaldson" initials="M." surname="Donaldson"/>
-    <author fullname="Michael Moore" initials="M." surname="Moore"/>
+    <author fullname="Mary Donaldson" initials="F" surname="Donaldson">
+      <organization/>
+    </author>
+    <author fullname="Michael Moore" initials="B" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7413"/>
+  <seriesInfo name="NIST" value="NIST IR 7413"/>
 </reference>

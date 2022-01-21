@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1019" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1019.pdf">
   <front>
     <title>Fire dynamics simulator (version 4) :user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1019"/>
-    <seriesInfo name="NIST" value="NIST SP 1019"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1019"/>
+  <seriesInfo name="NIST" value="NIST SP 1019"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.BMS.144" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures144.pdf">
   <front>
     <title>Sound insulation of wall and floor constructions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.144"/>
-    <seriesInfo name="NIST" value="NBS BMS 144"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.144"/>
+  <seriesInfo name="NIST" value="NBS BMS 144"/>
 </reference>

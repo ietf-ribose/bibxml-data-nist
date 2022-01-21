@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.897" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote897.pdf">
   <front>
     <title>Interpretation of data in the network measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.897"/>
-    <seriesInfo name="NIST" value="NBS TN 897"/>
-    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins"/>
+    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.897"/>
+  <seriesInfo name="NIST" value="NBS TN 897"/>
 </reference>

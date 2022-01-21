@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.85-3273-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir85-3273-14r.pdf">
   <front>
     <title>Energy price indices and discount factors for life-cycle cost analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-14"/>
-    <seriesInfo name="NIST" value="NIST IR 85-3273-14"/>
-    <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
+    <author fullname="Sieglinde Fuller" initials="K" surname="Fuller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.85-3273-14"/>
+  <seriesInfo name="NIST" value="NIST IR 85-3273-14"/>
 </reference>

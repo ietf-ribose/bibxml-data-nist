@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-2676" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2676.pdf">
   <front>
     <title>Technique for tracking the effect of weatherization retrofits on low-income housing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2676"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2676"/>
-    <author fullname="Yui-May Chang" initials="Y." surname="Chang"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
+    <author fullname="Yui-May Chang" initials="L" surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2676"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2676"/>
 </reference>

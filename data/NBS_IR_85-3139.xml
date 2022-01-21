@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3139" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3139.pdf">
   <front>
     <title>Polyesters :a review of the literature on products of combustion and toxicity</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3139"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3139"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3139"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3139"/>
 </reference>

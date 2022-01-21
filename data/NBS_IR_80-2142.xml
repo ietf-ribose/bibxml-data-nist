@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-2142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2142.pdf">
   <front>
     <title>Plating on aluminum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2142"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2142"/>
-    <author surname="Lashmore"/>
+    <author initials="DS" surname="Lashmore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2142"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2142"/>
 </reference>

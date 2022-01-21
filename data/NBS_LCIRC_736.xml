@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.736" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular736.pdf">
   <front>
     <title>Letter Circular 736:liquid densities of eleven hydrocarbons found in commercial C4 mixtures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.736"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 736"/>
-    <author fullname="CS Cragoe" initials="C." surname="Cragoe"/>
+    <author fullname="CS Cragoe" initials="C." surname="Cragoe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1943"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.736"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 736"/>
 </reference>

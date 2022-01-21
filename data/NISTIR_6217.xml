@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6217" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6217.pdf">
   <front>
     <title>Anisotropy of interfaces in an ordered HCP binary alloy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6217"/>
-    <seriesInfo name="NIST" value="NIST IR 6217"/>
-    <author surname="Cahn"/>
-    <author surname="Han"/>
-    <author surname="McFadden"/>
+    <author initials="JW" surname="Cahn">
+      <organization/>
+    </author>
+    <author initials="SC" surname="Han">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6217"/>
+  <seriesInfo name="NIST" value="NIST IR 6217"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7306" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7306.pdf">
   <front>
     <title>AGGRES:a program for computing power crusts of aggregates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7306"/>
-    <seriesInfo name="NIST" value="NIST IR 7306"/>
-    <author fullname="Javier Bernal" initials="J." surname="Bernal"/>
+    <author fullname="Javier Bernal" initials="J." surname="Bernal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7306"/>
+  <seriesInfo name="NIST" value="NIST IR 7306"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7305" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7305.pdf">
   <front>
     <title>Trends and opportunities in photonics technologies :solid-state lighting and healthcare</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7305"/>
-    <seriesInfo name="NIST" value="NIST IR 7305"/>
-    <author fullname="Grady White" initials="G." surname="White"/>
-    <author fullname="Kris Bertness" initials="K." surname="Bertness"/>
+    <author fullname="Grady White" initials="S" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Kris Bertness" initials="A" surname="Bertness">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7305"/>
+  <seriesInfo name="NIST" value="NIST IR 7305"/>
 </reference>

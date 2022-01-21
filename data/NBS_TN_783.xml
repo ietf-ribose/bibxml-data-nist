@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.783" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote783.pdf">
   <front>
     <title>Durability and maintenance as related to the selection of flooring</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.783"/>
-    <seriesInfo name="NIST" value="NBS TN 783"/>
-    <author fullname="Winthrop Wolfe" initials="W." surname="Wolfe"/>
+    <author fullname="Winthrop Wolfe" initials="C" surname="Wolfe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.783"/>
+  <seriesInfo name="NIST" value="NBS TN 783"/>
 </reference>

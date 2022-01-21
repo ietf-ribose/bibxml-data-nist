@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1789" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1789.pdf">
   <front>
     <title>Validation Testing of Standard Requirements for Backpack-type Radiation Detectors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1789"/>
-    <seriesInfo name="NIST" value="NIST TN 1789"/>
-    <author surname="Pibida">
+    <author initials="L" surname="Pibida">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
-    <author surname="Norman">
+    <author initials="B" surname="Norman">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1789"/>
+  <seriesInfo name="NIST" value="NIST TN 1789"/>
 </reference>

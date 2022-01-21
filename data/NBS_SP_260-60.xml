@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.260-60" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-60.pdf">
   <front>
     <title>Standard Reference MaterialsA reference method for the determination of sodium in serum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-60"/>
-    <seriesInfo name="NIST" value="NBS SP 260-60"/>
-    <author fullname="John Mandel" initials="J." surname="Mandel"/>
-    <author fullname="John Moody" initials="J." surname="Moody"/>
-    <author fullname="Robert Paule" initials="R." surname="Paule"/>
-    <author fullname="Rance Velapoldi" initials="R." surname="Velapoldi"/>
+    <author fullname="John Mandel" initials="J." surname="Mandel">
+      <organization/>
+    </author>
+    <author fullname="John Moody" initials="R" surname="Moody">
+      <organization/>
+    </author>
+    <author fullname="Robert Paule" initials="C" surname="Paule">
+      <organization/>
+    </author>
+    <author fullname="Rance Velapoldi" initials="A" surname="Velapoldi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-60"/>
+  <seriesInfo name="NIST" value="NBS SP 260-60"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.HB.150-16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-16.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: commercial products testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-16"/>
-    <seriesInfo name="NIST" value="NIST HB 150-16"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
+    <author fullname="Lawrence Knab" initials="I" surname="Knab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-16"/>
+  <seriesInfo name="NIST" value="NIST HB 150-16"/>
 </reference>

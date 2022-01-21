@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5793" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5793.pdf">
   <front>
     <title>Data communications strategy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5793"/>
-    <seriesInfo name="NIST" value="NIST IR 5793"/>
-    <author fullname="Jerry Mulvenna" initials="J." surname="Mulvenna"/>
-    <author fullname="Tim Boland" initials="T." surname="Boland"/>
+    <author fullname="Jerry Mulvenna" initials="J." surname="Mulvenna">
+      <organization/>
+    </author>
+    <author fullname="Tim Boland" initials="T." surname="Boland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5793"/>
+  <seriesInfo name="NIST" value="NIST IR 5793"/>
 </reference>

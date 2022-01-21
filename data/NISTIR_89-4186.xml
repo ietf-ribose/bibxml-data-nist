@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4186" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4186.pdf">
   <front>
     <title>Pore structure of concrete and freezing vulnerability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4186"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4186"/>
-    <author fullname="Robert Philleo" initials="R." surname="Philleo"/>
+    <author fullname="Robert Philleo" initials="E" surname="Philleo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4186"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4186"/>
 </reference>

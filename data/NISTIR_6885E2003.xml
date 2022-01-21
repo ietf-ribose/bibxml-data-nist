@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6885e2003" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6885e2003.pdf">
   <front>
     <title>Automated security self-evaluation tool user manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6885e2003"/>
-    <seriesInfo name="NIST" value="NIST IR 6885e2003"/>
-    <author fullname="Marianne Swanson" initials="M." surname="Swanson"/>
-    <author fullname="Jennifer Fabius" initials="J." surname="Fabius"/>
-    <author fullname="Marc Stevens" initials="M." surname="Stevens"/>
-    <author fullname="Mark McLamon" initials="M." surname="McLamon"/>
+    <author fullname="Marianne Swanson" initials="M." surname="Swanson">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Fabius" initials="J." surname="Fabius">
+      <organization/>
+    </author>
+    <author fullname="Marc Stevens" initials="M." surname="Stevens">
+      <organization/>
+    </author>
+    <author fullname="Mark McLamon" initials="M." surname="McLamon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6885e2003"/>
+  <seriesInfo name="NIST" value="NIST IR 6885e2003"/>
 </reference>

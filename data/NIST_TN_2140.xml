@@ -1,33 +1,31 @@
 <reference anchor="NIST.TN.2140" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2140.pdf">
   <front>
     <title>AWS-3 LTE Impacts Aeronautical Mobile Telemetry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2140"/>
-    <seriesInfo name="NIST" value="NIST TN 2140"/>
-    <author fullname="William Young" initials="W." surname="Young">
+    <author fullname="William Young" initials="F" surname="Young">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Duncan McGillivray" initials="D." surname="McGillivray">
+    <author fullname="Duncan McGillivray" initials="A" surname="McGillivray">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Adam Wunderlich" initials="A." surname="Wunderlich">
+    <author fullname="Adam Wunderlich" initials="J" surname="Wunderlich">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Mark Krangle" initials="M." surname="Krangle">
+    <author fullname="Mark Krangle" initials="A" surname="Krangle">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Jack Sklar" initials="J." surname="Sklar">
+    <author fullname="Jack Sklar" initials="G" surname="Sklar">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Aric Sanders" initials="A." surname="Sanders">
+    <author fullname="Aric Sanders" initials="W" surname="Sanders">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Keith Forsyth" initials="K." surname="Forsyth">
+    <author fullname="Keith Forsyth" initials="M" surname="Forsyth">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Mark Lofquist" initials="M." surname="Lofquist">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Daniel Kuester" initials="D." surname="Kuester">
+    <author fullname="Daniel Kuester" initials="G" surname="Kuester">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -35,4 +33,6 @@
     </author>
     <date year="2021" month="February" day="25"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2140"/>
+  <seriesInfo name="NIST" value="NIST TN 2140"/>
 </reference>

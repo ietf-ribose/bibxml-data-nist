@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures124.pdf">
   <front>
     <title>Fire tests of steel columns protected with siliceous aggregate concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.124"/>
-    <seriesInfo name="NIST" value="NBS BMS 124"/>
-    <author fullname="Nolan Mitchell" initials="N." surname="Mitchell"/>
+    <author fullname="Nolan Mitchell" initials="D" surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.124"/>
+  <seriesInfo name="NIST" value="NBS BMS 124"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1972" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1972.pdf">
   <front>
     <title>Wireless activities in the 2 GHz radio bands in industrial plants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1972"/>
-    <seriesInfo name="NIST" value="NIST TN 1972"/>
     <author fullname="Yongkang Liu" initials="Y." surname="Liu">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1972"/>
+  <seriesInfo name="NIST" value="NIST TN 1972"/>
 </reference>

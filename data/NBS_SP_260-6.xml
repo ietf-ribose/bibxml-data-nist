@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.260-6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-6.pdf">
   <front>
     <title>Standard Reference Materials :Methods for the chemical analysis of white cast iron standards/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-6"/>
-    <seriesInfo name="NIST" value="NBS SP 260-6"/>
-    <author surname="Shultz"/>
+    <author initials="JI" surname="Shultz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-6"/>
+  <seriesInfo name="NIST" value="NBS SP 260-6"/>
 </reference>

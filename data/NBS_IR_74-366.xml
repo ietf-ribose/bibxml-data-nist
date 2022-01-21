@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-366" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-366.pdf">
   <front>
     <title>Study of cryogenic propellant systems for loading the space shuttle</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-366"/>
-    <seriesInfo name="NIST" value="NBS IR 74-366"/>
-    <author surname="Voth"/>
-    <author surname="Steward"/>
-    <author surname="Hall"/>
+    <author initials="RO" surname="Voth">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Steward">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-366"/>
+  <seriesInfo name="NIST" value="NBS IR 74-366"/>
 </reference>

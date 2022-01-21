@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7986" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7986.pdf">
   <front>
     <title>LTE physical layer performance analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7986"/>
-    <seriesInfo name="NIST" value="NIST IR 7986"/>
     <author fullname="Wen-Bin Yang" initials="W." surname="Yang">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2014" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7986"/>
+  <seriesInfo name="NIST" value="NIST IR 7986"/>
 </reference>

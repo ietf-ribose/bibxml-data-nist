@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-506" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-506.pdf">
   <front>
     <title>Development of a national anthropometric data base :a preliminary study report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-506"/>
-    <seriesInfo name="NIST" value="NBS IR 74-506"/>
-    <author fullname="Harold Steinberg" initials="H." surname="Steinberg"/>
+    <author fullname="Harold Steinberg" initials="L" surname="Steinberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-506"/>
+  <seriesInfo name="NIST" value="NBS IR 74-506"/>
 </reference>

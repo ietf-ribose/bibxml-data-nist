@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.150-6-2020" target="https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.150-6-2020.pdf">
   <front>
     <title>NVLAP carpet and carpet cushion</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-6-2020"/>
-    <seriesInfo name="NIST" value="NIST HB 150-6-2020"/>
     <author fullname="Timothy Rasinski" initials="T." surname="Rasinski">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-6-2020"/>
+  <seriesInfo name="NIST" value="NIST HB 150-6-2020"/>
 </reference>

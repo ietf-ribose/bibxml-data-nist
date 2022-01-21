@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6110.pdf">
   <front>
     <title>A new insitu technique for measuring the concentration of lubricant on a boiling heat transfer surface</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6110"/>
-    <seriesInfo name="NIST" value="NIST IR 6110"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski"/>
-    <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
-    <author fullname="Matt O'Neill" initials="M." surname="O'Neill"/>
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
+      <organization/>
+    </author>
+    <author fullname="Thomas Bruno" initials="J" surname="Bruno">
+      <organization/>
+    </author>
+    <author fullname="Matt O'Neill" initials="B" surname="O'Neill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6110"/>
+  <seriesInfo name="NIST" value="NIST IR 6110"/>
 </reference>

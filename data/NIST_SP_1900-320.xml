@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1900-320" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-320.pdf">
   <front>
     <title>Workshop report :consensus safety measurement methodologies for automated driving system-equipped vehicles</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-320"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-320"/>
     <author fullname="Christopher Greer" initials="C." surname="Greer">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-320"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-320"/>
 </reference>

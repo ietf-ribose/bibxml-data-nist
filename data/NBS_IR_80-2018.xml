@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2018" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2018.pdf">
   <front>
     <title>A third appraisal of methods for estimating self-reaction hazards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2018"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2018"/>
-    <author fullname="Kenneth Churney" initials="K." surname="Churney"/>
-    <author fullname="David Garvin" initials="D." surname="Garvin"/>
+    <author fullname="Kenneth Churney" initials="L" surname="Churney">
+      <organization/>
+    </author>
+    <author fullname="David Garvin" initials="D." surname="Garvin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2018"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2018"/>
 </reference>

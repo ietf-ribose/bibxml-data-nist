@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.260-190" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-190.pdf">
   <front>
     <title>Certification of standard reference material® 46h: fineness of cement</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-190"/>
-    <seriesInfo name="NIST" value="NIST SP 260-190"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris">
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Max Peltz" initials="M." surname="Peltz">
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-190"/>
+  <seriesInfo name="NIST" value="NIST SP 260-190"/>
 </reference>

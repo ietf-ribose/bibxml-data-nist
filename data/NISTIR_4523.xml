@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4523" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4523.pdf">
   <front>
     <title>Proposed standard practice for assessing the performance of gas-phase air cleaning equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4523"/>
-    <seriesInfo name="NIST" value="NIST IR 4523"/>
-    <author fullname="Samuel Silberstein" initials="S." surname="Silberstein"/>
+    <author fullname="Samuel Silberstein" initials="S." surname="Silberstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4523"/>
+  <seriesInfo name="NIST" value="NIST IR 4523"/>
 </reference>

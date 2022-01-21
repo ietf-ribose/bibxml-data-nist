@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4567" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4567.pdf">
   <front>
     <title>Tiled raster graphics and MIL-R-28002A:a tutorial and implementation guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4567"/>
-    <seriesInfo name="NIST" value="NIST IR 4567"/>
-    <author fullname="Frankie Spielman" initials="F." surname="Spielman"/>
-    <author fullname="LouisII Sharpe" initials="L.I." surname="Sharpe"/>
+    <author fullname="Frankie Spielman" initials="E" surname="Spielman">
+      <organization/>
+    </author>
+    <author fullname="LouisII Sharpe" initials="H" surname="Sharpe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4567"/>
+  <seriesInfo name="NIST" value="NIST IR 4567"/>
 </reference>

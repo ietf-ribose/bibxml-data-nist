@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7620.pdf">
   <front>
     <title>Status report on the first round of the SHA-3 cryptographic hash algorithm competition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7620"/>
-    <seriesInfo name="NIST" value="NIST IR 7620"/>
-    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
-    <author fullname="Ray Perlner" initials="R." surname="Perlner"/>
-    <author fullname="Shu-jen Chang" initials="S." surname="Chang"/>
-    <author fullname="John Kelsey" initials="J." surname="Kelsey"/>
-    <author fullname="Mridul Nandi" initials="M." surname="Nandi"/>
-    <author fullname="Souradyuti Paul" initials="S." surname="Paul"/>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization/>
+    </author>
+    <author fullname="Ray Perlner" initials="R." surname="Perlner">
+      <organization/>
+    </author>
+    <author fullname="Shu-jen Chang" initials="S." surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="John Kelsey" initials="J." surname="Kelsey">
+      <organization/>
+    </author>
+    <author fullname="Mridul Nandi" initials="M." surname="Nandi">
+      <organization/>
+    </author>
+    <author fullname="Souradyuti Paul" initials="S." surname="Paul">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7620"/>
+  <seriesInfo name="NIST" value="NIST IR 7620"/>
 </reference>

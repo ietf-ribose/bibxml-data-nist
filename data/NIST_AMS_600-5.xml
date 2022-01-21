@@ -1,15 +1,13 @@
 <reference anchor="NIST.AMS.600-5" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-5.pdf">
   <front>
     <title>Manufacturing USA annual report 2018</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-5"/>
-    <seriesInfo name="NIST" value="NIST AMS 600-5"/>
-    <author fullname="Robert Rudnitsky" initials="R." surname="Rudnitsky">
+    <author fullname="Robert Rudnitsky" initials="G" surname="Rudnitsky">
       <organization>Office of Advanced Manufacturing.</organization>
     </author>
-    <author fullname="Michael Molnar" initials="M." surname="Molnar">
+    <author fullname="Michael Molnar" initials="F" surname="Molnar">
       <organization>Office of Advanced Manufacturing.</organization>
     </author>
-    <author fullname="Frank Gayle" initials="F." surname="Gayle">
+    <author fullname="Frank Gayle" initials="W" surname="Gayle">
       <organization>Office of Advanced Manufacturing.</organization>
     </author>
     <author fullname="Hong Liang" initials="H." surname="Liang">
@@ -36,4 +34,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-5"/>
+  <seriesInfo name="NIST" value="NIST AMS 600-5"/>
 </reference>

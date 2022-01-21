@@ -1,11 +1,15 @@
 <reference anchor="NIST.NCSTAR.1-3a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-3a.pdf">
   <front>
     <title>Contemporaneous structural steel specifications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-3a"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-3a"/>
-    <author fullname="William Luecke" initials="W." surname="Luecke"/>
-    <author fullname="Thomas Siewert" initials="T." surname="Siewert"/>
-    <author fullname="Frank Gayle" initials="F." surname="Gayle"/>
+    <author fullname="William Luecke" initials="E" surname="Luecke">
+      <organization/>
+    </author>
+    <author fullname="Thomas Siewert" initials="A" surname="Siewert">
+      <organization/>
+    </author>
+    <author fullname="Frank Gayle" initials="W" surname="Gayle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-3a"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-3a"/>
 </reference>

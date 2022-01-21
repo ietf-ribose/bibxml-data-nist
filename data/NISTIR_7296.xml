@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.7296" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7296.pdf">
   <front>
     <title>MINEX :performance and interoperability of the INCITS 378 fingerprint template</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7296"/>
-    <seriesInfo name="NIST" value="NIST IR 7296"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="Michael McCabe" initials="M." surname="McCabe"/>
-    <author surname="Watson"/>
-    <author fullname="Michael Indovina" initials="M." surname="Indovina"/>
-    <author fullname="Wayne Salamon" initials="W." surname="Salamon"/>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan"/>
-    <author fullname="Elham Tabassi" initials="E." surname="Tabassi"/>
-    <author fullname="Elaine Newton" initials="E." surname="Newton"/>
-    <author fullname="Charels Wilson" initials="C." surname="Wilson"/>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization/>
+    </author>
+    <author fullname="Michael McCabe" initials="R" surname="McCabe">
+      <organization/>
+    </author>
+    <author initials="CI" surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Michael Indovina" initials="D" surname="Indovina">
+      <organization/>
+    </author>
+    <author fullname="Wayne Salamon" initials="J" surname="Salamon">
+      <organization/>
+    </author>
+    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+      <organization/>
+    </author>
+    <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
+      <organization/>
+    </author>
+    <author fullname="Elaine Newton" initials="E." surname="Newton">
+      <organization/>
+    </author>
+    <author fullname="Charels Wilson" initials="C." surname="Wilson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7296"/>
+  <seriesInfo name="NIST" value="NIST IR 7296"/>
 </reference>

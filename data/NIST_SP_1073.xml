@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1073" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1073.pdf">
   <front>
     <title>Performance metrics for intelligent systems workshop, 2003</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1073"/>
-    <seriesInfo name="NIST" value="NIST SP 1073"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1073"/>
+  <seriesInfo name="NIST" value="NIST SP 1073"/>
 </reference>

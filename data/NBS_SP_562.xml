@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.562" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication562.pdf">
   <front>
     <title>The science of ceramic machining and surface finishing II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.562"/>
-    <seriesInfo name="NIST" value="NBS SP 562"/>
-    <author surname="Hockey"/>
-    <author surname="Rice"/>
+    <author initials="BJ" surname="Hockey">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Rice">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.562"/>
+  <seriesInfo name="NIST" value="NBS SP 562"/>
 </reference>

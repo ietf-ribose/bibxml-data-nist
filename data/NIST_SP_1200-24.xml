@@ -1,30 +1,28 @@
 <reference anchor="NIST.SP.1200-24" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-24.pdf">
   <front>
     <title>Sucrose density gradient centrifugation for efficient separation of engineered nanoparticles from a model organism, Caenorhabditis elegans</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-24"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-24"/>
-    <author surname="Johnson">
+    <author initials="ME" surname="Johnson">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Montoro Bustos">
+    <author initials="AR" surname="Montoro Bustos">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Hanna">
+    <author initials="SK" surname="Hanna">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Petersen">
+    <author initials="EJ" surname="Petersen">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Murphy">
+    <author initials="KE" surname="Murphy">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Yu">
+    <author initials="LL" surname="Yu">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Nelson">
+    <author initials="BC" surname="Nelson">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Winchester">
+    <author initials="MR" surname="Winchester">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -39,4 +37,6 @@
     </author>
     <date year="2017" month="October" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-24"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-24"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4604" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4604.pdf">
   <front>
     <title>Direct digital control based building automation system design criteria</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4604"/>
-    <seriesInfo name="NIST" value="NIST IR 4604"/>
-    <author fullname="James Kao" initials="J." surname="Kao"/>
+    <author fullname="James Kao" initials="Y" surname="Kao">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4604"/>
+  <seriesInfo name="NIST" value="NIST IR 4604"/>
 </reference>

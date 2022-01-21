@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6301" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6301.pdf">
   <front>
     <title>An analysis of existing ontological systems for applications in manufacturing and healthcare</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6301"/>
-    <seriesInfo name="NIST" value="NIST IR 6301"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
-    <author fullname="Peter Denno" initials="P." surname="Denno"/>
-    <author fullname="Don Libes" initials="D." surname="Libes"/>
-    <author fullname="Simon Szykman" initials="S." surname="Szykman"/>
-    <author fullname="Robert Ivester" initials="R." surname="Ivester"/>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization/>
+    </author>
+    <author fullname="Peter Denno" initials="P." surname="Denno">
+      <organization/>
+    </author>
+    <author fullname="Don Libes" initials="D." surname="Libes">
+      <organization/>
+    </author>
+    <author fullname="Simon Szykman" initials="S." surname="Szykman">
+      <organization/>
+    </author>
+    <author fullname="Robert Ivester" initials="R." surname="Ivester">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6301"/>
+  <seriesInfo name="NIST" value="NIST IR 6301"/>
 </reference>

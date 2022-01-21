@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.1128" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1128.pdf">
   <front>
     <title>Letter Circular 1128:NBS policy on use of its name in advertising</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1128"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1128"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1128"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1128"/>
 </reference>

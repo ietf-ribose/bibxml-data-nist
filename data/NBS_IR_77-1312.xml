@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1312" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1312.pdf">
   <front>
     <title>Physical properties of smokes pertinent to smoke detector technology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1312"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1312"/>
-    <author fullname="Lee Thomas" initials="L." surname="Thomas"/>
-    <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
+    <author fullname="Lee Thomas" initials="GK" surname="Thomas">
+      <organization/>
+    </author>
+    <author fullname="George Mulholland" initials="G." surname="Mulholland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1312"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1312"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.HB.146v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook146v1.pdf">
   <front>
     <title>Software user's guide for the HAZARD I fire hazard assessment method</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.146v1"/>
-    <seriesInfo name="NIST" value="NIST HB 146v1"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
-    <author fullname="Peacock,Richard D" initials="P.R." surname="D"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
-    <author fullname="Lynn Forney" initials="L." surname="Forney"/>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
+    <author fullname="Peacock,Richard D" initials="P.R." surname="D">
+      <organization/>
+    </author>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Lynn Forney" initials="C" surname="Forney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.146v1"/>
+  <seriesInfo name="NIST" value="NIST HB 146v1"/>
 </reference>

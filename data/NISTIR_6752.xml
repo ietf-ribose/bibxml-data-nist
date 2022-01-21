@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6752" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6752.pdf">
   <front>
     <title>National biomonitoring specimen bank NIST-Charleston laboratory:clean room and specimen bank protocols</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6752"/>
-    <seriesInfo name="NIST" value="NIST IR 6752"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="Barbara Porter" initials="J" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6752"/>
+  <seriesInfo name="NIST" value="NIST IR 6752"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.76-1063" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1063.pdf">
   <front>
     <title>Air leakage measurements in a mobile home</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1063"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1063"/>
-    <author fullname="Charles Hunt" initials="C." surname="Hunt"/>
-    <author fullname="Stephen Treado" initials="S." surname="Treado"/>
-    <author fullname="Bradley Peavy" initials="B." surname="Peavy"/>
+    <author fullname="Charles Hunt" initials="M" surname="Hunt">
+      <organization/>
+    </author>
+    <author fullname="Stephen Treado" initials="J" surname="Treado">
+      <organization/>
+    </author>
+    <author fullname="Bradley Peavy" initials="A" surname="Peavy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1063"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1063"/>
 </reference>

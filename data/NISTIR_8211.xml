@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8211" target="http://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8211.pdf">
   <front>
     <title>New software for the statistical analysis and qualification of NIST charpy verification specimen lots.</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8211"/>
-    <seriesInfo name="NIST" value="NIST IR 8211"/>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory.</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8211"/>
+  <seriesInfo name="NIST" value="NIST IR 8211"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5256.pdf">
   <front>
     <title>National Institute of Standards and Technology Conference on Reducing the Cost of Space Infrastructure and Operations, part 2:topical papers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5256"/>
-    <seriesInfo name="NIST" value="NIST IR 5256"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5256"/>
+  <seriesInfo name="NIST" value="NIST IR 5256"/>
 </reference>

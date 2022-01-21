@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote142.pdf">
   <front>
     <title>Atlas of Fourier coefficients of diurnal variation of foF2.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.142"/>
-    <seriesInfo name="NIST" value="NBS TN 142"/>
-    <author fullname="William Jones" initials="W." surname="Jones"/>
+    <author fullname="William Jones" initials="B" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.142"/>
+  <seriesInfo name="NIST" value="NBS TN 142"/>
 </reference>

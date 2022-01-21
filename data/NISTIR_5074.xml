@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5074" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5074.pdf">
   <front>
     <title>Rapid evaluation of nonreflecting boundary kernels for time-domain wave propagation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5074"/>
-    <seriesInfo name="NIST" value="NIST IR 5074"/>
-    <author fullname="Thomas Hagstrom" initials="T." surname="Hagstrom"/>
+    <author fullname="Thomas Hagstrom" initials="T." surname="Hagstrom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5074"/>
+  <seriesInfo name="NIST" value="NIST IR 5074"/>
 </reference>

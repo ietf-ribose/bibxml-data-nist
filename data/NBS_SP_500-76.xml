@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-76" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-76.pdf">
   <front>
     <title>Database architectures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-76"/>
-    <seriesInfo name="NIST" value="NBS SP 500-76"/>
-    <author fullname="John Berg" initials="J." surname="Berg"/>
-    <author fullname="Marc Graham" initials="M." surname="Graham"/>
-    <author fullname="Kevin Whitney" initials="K." surname="Whitney"/>
+    <author fullname="John Berg" initials="L" surname="Berg">
+      <organization/>
+    </author>
+    <author fullname="Marc Graham" initials="M." surname="Graham">
+      <organization/>
+    </author>
+    <author fullname="Kevin Whitney" initials="K." surname="Whitney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-76"/>
+  <seriesInfo name="NIST" value="NBS SP 500-76"/>
 </reference>

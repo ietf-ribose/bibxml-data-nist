@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.777-1995" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication777-1995.pdf">
   <front>
     <title>NIST serial holdings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.777-1995"/>
-    <seriesInfo name="NIST" value="NIST SP 777-1995"/>
-    <author fullname="Susan Sanders" initials="S." surname="Sanders"/>
-    <author fullname="Susan Sanders" initials="S." surname="Sanders"/>
+    <author fullname="Susan Sanders" initials="A" surname="Sanders">
+      <organization/>
+    </author>
+    <author fullname="Susan Sanders" initials="A" surname="Sanders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.777-1995"/>
+  <seriesInfo name="NIST" value="NIST SP 777-1995"/>
 </reference>

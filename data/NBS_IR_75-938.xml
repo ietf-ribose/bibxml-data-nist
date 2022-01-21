@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-938" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-938.pdf">
   <front>
     <title>The National Measurement System for acoustics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-938"/>
-    <seriesInfo name="NIST" value="NBS IR 75-938"/>
-    <author fullname="David Pallett" initials="D." surname="Pallett"/>
-    <author fullname="Marilyn Cadoff" initials="M." surname="Cadoff"/>
+    <author fullname="David Pallett" initials="S" surname="Pallett">
+      <organization/>
+    </author>
+    <author fullname="Marilyn Cadoff" initials="A" surname="Cadoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-938"/>
+  <seriesInfo name="NIST" value="NBS IR 75-938"/>
 </reference>

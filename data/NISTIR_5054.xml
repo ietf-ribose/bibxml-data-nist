@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5054" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5054.pdf">
   <front>
     <title>Optoelectronics at NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5054"/>
-    <seriesInfo name="NIST" value="NIST IR 5054"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5054"/>
+  <seriesInfo name="NIST" value="NIST IR 5054"/>
 </reference>

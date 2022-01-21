@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1015" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1015.pdf">
   <front>
     <title>Management of data elements in information processing :Proceedings of a second symposium sponsored by the American National Standards Institute and by the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1015"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1015"/>
-    <author fullname="Hazel McEwen" initials="H." surname="McEwen"/>
+    <author fullname="Hazel McEwen" initials="E" surname="McEwen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1015"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1015"/>
 </reference>

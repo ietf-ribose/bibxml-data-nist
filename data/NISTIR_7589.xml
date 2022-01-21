@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7589" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7589.pdf">
   <front>
     <title>Framework for XML schema naming and design rules development tools</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7589"/>
-    <seriesInfo name="NIST" value="NIST IR 7589"/>
-    <author fullname="KC Morris" initials="K." surname="Morris"/>
-    <author fullname="Josh Lubell" initials="J." surname="Lubell"/>
-    <author fullname="SalifouSidi Malick" initials="S.S." surname="Malick"/>
+    <author fullname="KC Morris" initials="K." surname="Morris">
+      <organization/>
+    </author>
+    <author fullname="Josh Lubell" initials="J." surname="Lubell">
+      <organization/>
+    </author>
+    <author fullname="SalifouSidi Malick" initials="S.S." surname="Malick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7589"/>
+  <seriesInfo name="NIST" value="NIST IR 7589"/>
 </reference>

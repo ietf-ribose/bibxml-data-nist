@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1501" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1501.pdf">
   <front>
     <title>Metering of fluids at high velocities with vortex shedding flowmeters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1501"/>
-    <seriesInfo name="NIST" value="NIST TN 1501"/>
-    <author surname="Siegwarth"/>
+    <author initials="JD" surname="Siegwarth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1501"/>
+  <seriesInfo name="NIST" value="NIST TN 1501"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.500-280v2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-280v2.pdf">
   <front>
     <title>Mobile ID Device Best Practice Recommendation Version 2.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-280v2"/>
-    <seriesInfo name="NIST" value="NIST SP 500-280v2"/>
-    <author fullname="Bradford Wing" initials="B." surname="Wing">
+    <author fullname="Bradford Wing" initials="J" surname="Wing">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-280v2"/>
+  <seriesInfo name="NIST" value="NIST SP 500-280v2"/>
 </reference>

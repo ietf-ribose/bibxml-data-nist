@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7548" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7548.pdf">
   <front>
     <title>Selected impacts of documentary standards supported by NIST 2008 edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7548"/>
-    <seriesInfo name="NIST" value="NIST IR 7548"/>
-    <author fullname="Erik Puskar" initials="E." surname="Puskar"/>
+    <author fullname="Erik Puskar" initials="E." surname="Puskar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7548"/>
+  <seriesInfo name="NIST" value="NIST IR 7548"/>
 </reference>

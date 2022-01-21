@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5784" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5784.pdf">
   <front>
     <title>A study to determine the existence of an Azeotropic R-22 'Drop-In' substitute</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5784"/>
-    <seriesInfo name="NIST" value="NIST IR 5784"/>
-    <author fullname="MinSoo Kim" initials="M.S." surname="Kim"/>
-    <author fullname="Graham Morrison" initials="G." surname="Morrison"/>
-    <author fullname="William Mulroy" initials="W." surname="Mulroy"/>
-    <author fullname="David Didion" initials="D." surname="Didion"/>
+    <author fullname="MinSoo Kim" initials="M.S." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="Graham Morrison" initials="G." surname="Morrison">
+      <organization/>
+    </author>
+    <author fullname="William Mulroy" initials="J" surname="Mulroy">
+      <organization/>
+    </author>
+    <author fullname="David Didion" initials="A" surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5784"/>
+  <seriesInfo name="NIST" value="NIST IR 5784"/>
 </reference>

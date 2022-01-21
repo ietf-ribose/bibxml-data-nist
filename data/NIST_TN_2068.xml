@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2068" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2068.pdf">
   <front>
     <title>Laboratory tests of a prototype carbon dioxide ground-source air conditioner</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2068"/>
-    <seriesInfo name="NIST" value="NIST TN 2068"/>
     <author fullname="Harrison Skye" initials="H." surname="Skye">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2068"/>
+  <seriesInfo name="NIST" value="NIST TN 2068"/>
 </reference>

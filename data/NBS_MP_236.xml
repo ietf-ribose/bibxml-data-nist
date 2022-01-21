@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.236" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub236.pdf">
   <front>
     <title>Standard frequencies and time signals from NBS stations WWV and WWVH</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.236"/>
-    <seriesInfo name="NIST" value="NBS MP 236"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.236"/>
+  <seriesInfo name="NIST" value="NBS MP 236"/>
 </reference>

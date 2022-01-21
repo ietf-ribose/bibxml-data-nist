@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.34" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook34.pdf">
   <front>
     <title>Safety rules for the operation of electric equipment and lines comprising: part 4 of the fifth edition national electrical safety code</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.34"/>
-    <seriesInfo name="NIST" value="NBS HB 34"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.34"/>
+  <seriesInfo name="NIST" value="NBS HB 34"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1941" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1941.pdf">
   <front>
     <title>Channel Modeling and Performance of Zigbee Radios in an Industrial Environment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1941"/>
-    <seriesInfo name="NIST" value="NIST TN 1941"/>
     <author fullname="Jeff Peil" initials="J." surname="Peil">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1941"/>
+  <seriesInfo name="NIST" value="NIST TN 1941"/>
 </reference>

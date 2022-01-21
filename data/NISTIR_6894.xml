@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6894" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6894.pdf">
   <front>
     <title>A numerical model for combustion of bubbling thermoplastic materials in microgravity</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6894"/>
-    <seriesInfo name="NIST" value="NIST IR 6894"/>
-    <author fullname="Kathlyn Butler" initials="K." surname="Butler"/>
+    <author fullname="Kathlyn Butler" initials="M" surname="Butler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6894"/>
+  <seriesInfo name="NIST" value="NIST IR 6894"/>
 </reference>

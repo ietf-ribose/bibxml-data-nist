@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6490" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6490.pdf">
   <front>
     <title>Information-based manufacturing program summary and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6490"/>
-    <seriesInfo name="NIST" value="NIST IR 6490"/>
-    <author fullname="David Stieren" initials="D." surname="Stieren"/>
-    <author fullname="Mark Luce" initials="M." surname="Luce"/>
+    <author fullname="David Stieren" initials="C" surname="Stieren">
+      <organization/>
+    </author>
+    <author fullname="Mark Luce" initials="E" surname="Luce">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6490"/>
+  <seriesInfo name="NIST" value="NIST IR 6490"/>
 </reference>

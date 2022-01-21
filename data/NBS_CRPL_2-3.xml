@@ -1,8 +1,6 @@
 <reference anchor="NBS.CRPL.2-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-2-3.pdf">
   <front>
     <title>Bibliography of reports on tropospheric propagation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.2-3"/>
-    <seriesInfo name="NIST" value="NBS CRPL 2-3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.2-3"/>
+  <seriesInfo name="NIST" value="NBS CRPL 2-3"/>
 </reference>

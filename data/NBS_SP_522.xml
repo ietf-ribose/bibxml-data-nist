@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.522" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication522.pdf">
   <front>
     <title>Control systems readiness for munitions plants :a first pass</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.522"/>
-    <seriesInfo name="NIST" value="NBS SP 522"/>
-    <author fullname="Theodore Williams" initials="T." surname="Williams"/>
+    <author fullname="Theodore Williams" initials="J" surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.522"/>
+  <seriesInfo name="NIST" value="NBS SP 522"/>
 </reference>

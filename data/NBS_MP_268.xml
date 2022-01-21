@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.268" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub268.pdf">
   <front>
     <title>Electrical engineering units and constants (superseded by SP368 1976)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.268"/>
-    <seriesInfo name="NIST" value="NBS MP 268"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.268"/>
+  <seriesInfo name="NIST" value="NBS MP 268"/>
 </reference>

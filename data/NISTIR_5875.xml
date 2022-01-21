@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5875" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5875.pdf">
   <front>
     <title>Application protocol 227 validation report, version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5875"/>
-    <seriesInfo name="NIST" value="NIST IR 5875"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline"/>
-    <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
+    <author fullname="Steven Kline" initials="W" surname="Kline">
+      <organization/>
+    </author>
+    <author fullname="Mark Palmer" initials="E" surname="Palmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5875"/>
+  <seriesInfo name="NIST" value="NIST IR 5875"/>
 </reference>

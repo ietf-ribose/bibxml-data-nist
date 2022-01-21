@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.88-3807" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3807.pdf">
   <front>
     <title>Lights of New York harbor</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3807"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3807"/>
-    <author fullname="James Worthey" initials="J." surname="Worthey"/>
+    <author fullname="James Worthey" initials="A" surname="Worthey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3807"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3807"/>
 </reference>

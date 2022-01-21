@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.54" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience54.pdf">
   <front>
     <title>Health and medical facilities design :proceedings of the first federal agency workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.54"/>
-    <seriesInfo name="NIST" value="NBS BSS 54"/>
-    <author fullname="Robert Kapsch" initials="R." surname="Kapsch"/>
+    <author fullname="Robert Kapsch" initials="J" surname="Kapsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.54"/>
+  <seriesInfo name="NIST" value="NBS BSS 54"/>
 </reference>

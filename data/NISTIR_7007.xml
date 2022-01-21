@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7007" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7007.pdf">
   <front>
     <title>An overview of issues in testing intrusion detection systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7007"/>
-    <seriesInfo name="NIST" value="NIST IR 7007"/>
-    <author surname="Mell"/>
+    <author initials="PM" surname="Mell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7007"/>
+  <seriesInfo name="NIST" value="NIST IR 7007"/>
 </reference>

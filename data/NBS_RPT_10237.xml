@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.10237" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10237.pdf">
   <front>
     <title>U.S.French cooperative program on building technology:first U. S. team visit November 1969</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10237"/>
-    <seriesInfo name="NIST" value="NBS RPT 10237"/>
-    <author fullname="Harry Thompson" initials="H." surname="Thompson"/>
-    <author fullname="Vannie Gray" initials="V." surname="Gray"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
+    <author fullname="Harry Thompson" initials="E" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Vannie Gray" initials="E" surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="Arthur Rubin" initials="I" surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10237"/>
+  <seriesInfo name="NIST" value="NBS RPT 10237"/>
 </reference>

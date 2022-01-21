@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.591" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote591.pdf">
   <front>
     <title>A technique for measuring the surface temperature of transistors by means of fluorescent phosphor</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.591"/>
-    <seriesInfo name="NIST" value="NBS TN 591"/>
-    <author fullname="David Brenner" initials="D." surname="Brenner"/>
+    <author fullname="David Brenner" initials="J" surname="Brenner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.591"/>
+  <seriesInfo name="NIST" value="NBS TN 591"/>
 </reference>

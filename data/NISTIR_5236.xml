@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5236" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5236.pdf">
   <front>
     <title>Some guidelines for implementing error compensation on machine tools</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5236"/>
-    <seriesInfo name="NIST" value="NIST IR 5236"/>
-    <author surname="Damazo"/>
+    <author initials="B" surname="Damazo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5236"/>
+  <seriesInfo name="NIST" value="NIST IR 5236"/>
 </reference>

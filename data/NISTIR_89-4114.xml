@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4114.pdf">
   <front>
     <title>Corrosion of zircaloy spent fuel cladding in a repository</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4114"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4114"/>
-    <author fullname="Anna Fraker" initials="A." surname="Fraker"/>
+    <author fullname="Anna Fraker" initials="C" surname="Fraker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4114"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4114"/>
 </reference>

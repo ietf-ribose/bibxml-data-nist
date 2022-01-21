@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7003" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7003.pdf">
   <front>
     <title>Semiconductor industry IT needs:lessons learned from across the engineering chain</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7003"/>
-    <seriesInfo name="NIST" value="NIST IR 7003"/>
-    <author fullname="Ya-Shian Li" initials="Y." surname="Li"/>
-    <author fullname="Barbara Goldstein" initials="B." surname="Goldstein"/>
+    <author fullname="Ya-Shian Li" initials="Y." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="Barbara Goldstein" initials="B." surname="Goldstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7003"/>
+  <seriesInfo name="NIST" value="NIST IR 7003"/>
 </reference>

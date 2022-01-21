@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7835" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7835.pdf">
   <front>
     <title>A bibliography of ambulance patient compartments and related issues</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7835"/>
-    <seriesInfo name="NIST" value="NIST IR 7835"/>
-    <author fullname="Mehdi Dadfarnia" initials="M." surname="Dadfarnia"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Deogratis Kibira" initials="D." surname="Kibira"/>
+    <author fullname="Mehdi Dadfarnia" initials="M." surname="Dadfarnia">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Deogratis Kibira" initials="D." surname="Kibira">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7835"/>
+  <seriesInfo name="NIST" value="NIST IR 7835"/>
 </reference>

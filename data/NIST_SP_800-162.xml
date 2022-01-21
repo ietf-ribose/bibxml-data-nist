@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-162" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-162.pdf">
   <front>
     <title>Guide to Attribute Based Access Control (ABAC) Definition and Considerations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-162"/>
-    <seriesInfo name="NIST" value="NIST SP 800-162"/>
-    <author fullname="Vincent Hu" initials="V." surname="Hu">
+    <author fullname="Vincent Hu" initials="C" surname="Hu">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo">
@@ -29,4 +27,6 @@
     </author>
     <date year="2014" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-162"/>
+  <seriesInfo name="NIST" value="NIST SP 800-162"/>
 </reference>

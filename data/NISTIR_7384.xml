@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7384" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7384.pdf">
   <front>
     <title>Survey of patient mobility and lift technologies toward advancements and standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7384"/>
-    <seriesInfo name="NIST" value="NIST IR 7384"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
-    <author fullname="JamesSacra Albus" initials="J.S." surname="Albus"/>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
+    <author fullname="JamesSacra Albus" initials="J.S." surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7384"/>
+  <seriesInfo name="NIST" value="NIST IR 7384"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.557" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication557.pdf">
   <front>
     <title>Chemical kinetic data needs for modeling the lower troposphere</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.557"/>
-    <seriesInfo name="NIST" value="NBS SP 557"/>
-    <author fullname="JohnThomas Herron" initials="J.T." surname="Herron"/>
-    <author fullname="Robert Huie" initials="R." surname="Huie"/>
-    <author fullname="Jimmie Hodgeson" initials="J." surname="Hodgeson"/>
+    <author fullname="JohnThomas Herron" initials="J.T." surname="Herron">
+      <organization/>
+    </author>
+    <author fullname="Robert Huie" initials="E" surname="Huie">
+      <organization/>
+    </author>
+    <author fullname="Jimmie Hodgeson" initials="A" surname="Hodgeson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.557"/>
+  <seriesInfo name="NIST" value="NBS SP 557"/>
 </reference>

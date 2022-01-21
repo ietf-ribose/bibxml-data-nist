@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8160" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8160.pdf">
   <front>
     <title>Influence of fire on the lateral load capacity of steel-sheathed cold-formed steel shear walls</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8160"/>
-    <seriesInfo name="NIST" value="NIST IR 8160"/>
-    <author fullname="Matthew Hoehler" initials="M." surname="Hoehler">
+    <author fullname="Matthew Hoehler" initials="S" surname="Hoehler">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Christopher Smith" initials="C." surname="Smith">
+    <author fullname="Christopher Smith" initials="M" surname="Smith">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8160"/>
+  <seriesInfo name="NIST" value="NIST IR 8160"/>
 </reference>

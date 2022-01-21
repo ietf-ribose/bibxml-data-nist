@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6504" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6504.pdf">
   <front>
     <title>Growth model for filamentary streamers in an ambient field</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6504"/>
-    <seriesInfo name="NIST" value="NIST IR 6504"/>
-    <author surname="Folwer"/>
-    <author surname="Devaney"/>
-    <author surname="Hagedorn"/>
+    <author initials="HA" surname="Folwer">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Devaney">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Hagedorn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6504"/>
+  <seriesInfo name="NIST" value="NIST IR 6504"/>
 </reference>

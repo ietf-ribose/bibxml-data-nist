@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.577" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote577.pdf">
   <front>
     <title>Method of calibrating weights for piston gages</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.577"/>
-    <seriesInfo name="NIST" value="NBS TN 577"/>
-    <author surname="Almer"/>
+    <author initials="HE" surname="Almer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.577"/>
+  <seriesInfo name="NIST" value="NBS TN 577"/>
 </reference>

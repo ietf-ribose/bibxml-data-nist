@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7916" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7916.pdf">
   <front>
     <title>Proceedings of the Cybersecurity in Cyber-Physical Systems Workshop, April 23-24, 2012</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7916"/>
-    <seriesInfo name="NIST" value="NIST IR 7916"/>
     <author fullname="Tanya Brewer" initials="T." surname="Brewer">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7916"/>
+  <seriesInfo name="NIST" value="NIST IR 7916"/>
 </reference>

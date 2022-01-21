@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8007" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8007.pdf">
   <front>
     <title>NIST/NIH Vitamin D Metabolites Quality Assurance Program Report of Participant Results: Summer 2013 Comparability Study(Exercise 7)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8007"/>
-    <seriesInfo name="NIST" value="NIST IR 8007"/>
     <author fullname="Mary Bedner" initials="M." surname="Bedner">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Katrice Lippa" initials="K." surname="Lippa">
+    <author fullname="Katrice Lippa" initials="A" surname="Lippa">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Susan Tai" initials="S." surname="Tai">
+    <author fullname="Susan Tai" initials="S" surname="Tai">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8007"/>
+  <seriesInfo name="NIST" value="NIST IR 8007"/>
 </reference>

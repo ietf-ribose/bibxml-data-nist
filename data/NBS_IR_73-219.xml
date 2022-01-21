@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-219" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-219.pdf">
   <front>
     <title>Eight techniques for the optical measurement of surface roughness</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-219"/>
-    <seriesInfo name="NIST" value="NBS IR 73-219"/>
-    <author fullname="Russell Young" initials="R." surname="Young"/>
+    <author fullname="Russell Young" initials="D" surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-219"/>
+  <seriesInfo name="NIST" value="NBS IR 73-219"/>
 </reference>

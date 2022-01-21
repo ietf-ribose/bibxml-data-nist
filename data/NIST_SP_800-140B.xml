@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-140B" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140B.pdf">
   <front>
     <title>CMVP security policy requirements:CMVP validation authority updates to ISOIEC 24759 and ISOIEC 19790 Annex B</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140B"/>
-    <seriesInfo name="NIST" value="NIST SP 800-140B"/>
     <author fullname="Kim Schaffer" initials="K." surname="Schaffer">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140B"/>
+  <seriesInfo name="NIST" value="NIST SP 800-140B"/>
 </reference>

@@ -1,15 +1,27 @@
 <reference anchor="NBS.MONO.54" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph54.pdf">
   <front>
     <title>Analytical standards for trace elements in petroleum products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.54"/>
-    <seriesInfo name="NIST" value="NBS MONO 54"/>
-    <author surname="Isbell"/>
-    <author fullname="Stuart Tipson" initials="S." surname="Tipson"/>
-    <author surname="Hague"/>
-    <author surname="Scribner"/>
-    <author fullname="Harold Smith" initials="H." surname="Smith"/>
-    <author fullname="Clarence Wade" initials="C." surname="Wade"/>
-    <author fullname="Alex Cohen" initials="A." surname="Cohen"/>
+    <author initials="HS" surname="Isbell">
+      <organization/>
+    </author>
+    <author fullname="Stuart Tipson" initials="R" surname="Tipson">
+      <organization/>
+    </author>
+    <author initials="JL" surname="Hague">
+      <organization/>
+    </author>
+    <author initials="BF" surname="Scribner">
+      <organization/>
+    </author>
+    <author fullname="Harold Smith" initials="W" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Clarence Wade" initials="WR" surname="Wade">
+      <organization/>
+    </author>
+    <author fullname="Alex Cohen" initials="A." surname="Cohen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.54"/>
+  <seriesInfo name="NIST" value="NBS MONO 54"/>
 </reference>

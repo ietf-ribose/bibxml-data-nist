@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.25insert" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular25insert.pdf">
   <front>
     <title>Insert to accompany Bureau of Standards circular 25:VIII. Standard analyzed samples or in preparation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.25insert"/>
-    <seriesInfo name="NIST" value="NBS CIRC 25insert"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1913"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.25insert"/>
+  <seriesInfo name="NIST" value="NBS CIRC 25insert"/>
 </reference>

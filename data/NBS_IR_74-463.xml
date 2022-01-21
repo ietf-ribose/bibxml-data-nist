@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-463" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-463.pdf">
   <front>
     <title>Annotated bibliography on technological forecasting</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-463"/>
-    <seriesInfo name="NIST" value="NBS IR 74-463"/>
-    <author fullname="Martha Gray" initials="M." surname="Gray"/>
-    <author fullname="David Nagy" initials="D." surname="Nagy"/>
+    <author fullname="Martha Gray" initials="M" surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="David Nagy" initials="A" surname="Nagy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-463"/>
+  <seriesInfo name="NIST" value="NBS IR 74-463"/>
 </reference>

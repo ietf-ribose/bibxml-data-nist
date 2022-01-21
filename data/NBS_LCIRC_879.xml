@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.879" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular879.pdf">
   <front>
     <title>Letter Circular 879:selection, installation, and care of linoleum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.879"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 879"/>
-    <author fullname="GG Richey" initials="G." surname="Richey"/>
+    <author fullname="GG Richey" initials="G." surname="Richey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.879"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 879"/>
 </reference>

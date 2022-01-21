@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.684" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication684.pdf">
   <front>
     <title>Report of the 69th National Conference on Weights and Measures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.684"/>
-    <seriesInfo name="NIST" value="NBS SP 684"/>
-    <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
-    <author fullname="Louis Barbrow" initials="L." surname="Barbrow"/>
-    <author fullname="Ann Heffernan" initials="A." surname="Heffernan"/>
+    <author fullname="Albert Tholen" initials="D" surname="Tholen">
+      <organization/>
+    </author>
+    <author fullname="Louis Barbrow" initials="E" surname="Barbrow">
+      <organization/>
+    </author>
+    <author fullname="Ann Heffernan" initials="P" surname="Heffernan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.684"/>
+  <seriesInfo name="NIST" value="NBS SP 684"/>
 </reference>

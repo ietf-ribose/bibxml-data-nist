@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.10644" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10644.pdf">
   <front>
     <title>A study of court reporting systems :volume IV</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10644"/>
-    <seriesInfo name="NIST" value="NBS RPT 10644"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10644"/>
+  <seriesInfo name="NIST" value="NBS RPT 10644"/>
 </reference>

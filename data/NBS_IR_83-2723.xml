@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2723" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2723.pdf">
   <front>
     <title>Performance of add-on type heat pump water heaters using two different test methods</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2723"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2723"/>
-    <author fullname="James Harris" initials="J." surname="Harris"/>
+    <author fullname="James Harris" initials="E" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2723"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2723"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.30" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph30.pdf">
   <front>
     <title>Corrected optical pyrometer readings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.30"/>
-    <seriesInfo name="NIST" value="NBS MONO 30"/>
-    <author surname="Poland"/>
-    <author surname="Green"/>
-    <author surname="Margrave"/>
+    <author initials="DE" surname="Poland">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Green">
+      <organization/>
+    </author>
+    <author initials="JL" surname="Margrave">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.30"/>
+  <seriesInfo name="NIST" value="NBS MONO 30"/>
 </reference>

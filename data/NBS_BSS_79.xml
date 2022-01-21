@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience79.pdf">
   <front>
     <title>Energy conservation potential of modular gas-fired boiler systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.79"/>
-    <seriesInfo name="NIST" value="NBS BSS 79"/>
-    <author surname="Kelly"/>
-    <author surname="Didion"/>
+    <author initials="GE" surname="Kelly">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.79"/>
+  <seriesInfo name="NIST" value="NBS BSS 79"/>
 </reference>

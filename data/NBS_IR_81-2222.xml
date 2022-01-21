@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2222" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2222.pdf">
   <front>
     <title>Some conservative statistical approaches for presenting interlaboratory N.D.A. enrichment measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2222"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2222"/>
-    <author fullname="Clifford Spiegelman" initials="C." surname="Spiegelman"/>
+    <author fullname="Clifford Spiegelman" initials="H" surname="Spiegelman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2222"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2222"/>
 </reference>

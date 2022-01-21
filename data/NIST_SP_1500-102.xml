@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.1500-102" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-102.pdf">
   <front>
     <title>Voter records interchange common data format specification :version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-102"/>
-    <seriesInfo name="NIST" value="NIST SP 1500-102"/>
     <author fullname="Sam Dana" initials="S." surname="Dana">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author fullname="John Dziurlaj" initials="J." surname="Dziurlaj">
       <organization>Information Technology Laboratory.</organization>
     </author>
-    <author fullname="John Sebes" initials="J." surname="Sebes">
+    <author fullname="John Sebes" initials="E" surname="Sebes">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author fullname="Paul Stenbjorn" initials="P." surname="Stenbjorn">
       <organization>Information Technology Laboratory.</organization>
     </author>
-    <author fullname="John Wack" initials="J." surname="Wack">
+    <author fullname="John Wack" initials="P" surname="Wack">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author fullname="Sarah Whitt" initials="S." surname="Whitt">
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-102"/>
+  <seriesInfo name="NIST" value="NIST SP 1500-102"/>
 </reference>

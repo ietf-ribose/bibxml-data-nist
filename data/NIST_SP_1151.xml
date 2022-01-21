@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1151" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1151.pdf">
   <front>
     <title>Markup Instructions for Extended Friction Ridge Features</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1151"/>
-    <seriesInfo name="NIST" value="NIST SP 1151"/>
     <author fullname="Melissa Taylor" initials="M." surname="Taylor">
       <organization>Law Enforcement Standards Office, Office of Special Programs</organization>
     </author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1151"/>
+  <seriesInfo name="NIST" value="NIST SP 1151"/>
 </reference>

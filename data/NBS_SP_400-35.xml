@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-35" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-35.pdf">
   <front>
     <title>Notes on SEM examination of microelectronic devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-35"/>
-    <seriesInfo name="NIST" value="NBS SP 400-35"/>
-    <author fullname="John Devaney" initials="J." surname="Devaney"/>
+    <author fullname="John Devaney" initials="R" surname="Devaney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-35"/>
+  <seriesInfo name="NIST" value="NBS SP 400-35"/>
 </reference>

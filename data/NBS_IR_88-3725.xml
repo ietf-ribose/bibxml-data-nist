@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.88-3725" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3725.pdf">
   <front>
     <title>Evaluation of a copy prevention method for digital audio tape systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3725"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3725"/>
-    <author surname="Bell"/>
-    <author surname="Stenbakken"/>
-    <author surname="Flynn"/>
-    <author surname="Evans"/>
-    <author surname="Burnett"/>
-    <author surname="Nedzelnitsky"/>
-    <author surname="Eberhardt"/>
+    <author initials="BA" surname="Bell">
+      <organization/>
+    </author>
+    <author initials="GN" surname="Stenbakken">
+      <organization/>
+    </author>
+    <author initials="DR" surname="Flynn">
+      <organization/>
+    </author>
+    <author initials="DJ" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="ED" surname="Burnett">
+      <organization/>
+    </author>
+    <author initials="V" surname="Nedzelnitsky">
+      <organization/>
+    </author>
+    <author initials="KR" surname="Eberhardt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3725"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3725"/>
 </reference>

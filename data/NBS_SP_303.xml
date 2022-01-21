@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.303" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication303.pdf">
   <front>
     <title>Mechanical and thermal properties of ceramics :proceedings of a symposium held at Gaithersburg, Maryland, April 1-2, 1968</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.303"/>
-    <seriesInfo name="NIST" value="NBS SP 303"/>
-    <author surname="Wachtman"/>
+    <author initials="JB" surname="Wachtman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.303"/>
+  <seriesInfo name="NIST" value="NBS SP 303"/>
 </reference>

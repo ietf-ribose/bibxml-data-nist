@@ -1,15 +1,27 @@
 <reference anchor="NIST.TN.1636" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1636.pdf">
   <front>
     <title>Development and demonstration of a method to evaluate bio-sampling strategies using building simulation and sample planning software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1636"/>
-    <seriesInfo name="NIST" value="NIST TN 1636"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
-    <author fullname="Brett Matzke" initials="B." surname="Matzke"/>
-    <author fullname="Landon Sego" initials="L." surname="Sego"/>
-    <author fullname="Jayne Morrow" initials="J." surname="Morrow"/>
-    <author fullname="Lisa Nuffer" initials="L." surname="Nuffer"/>
-    <author fullname="Brent Pulsipher" initials="B." surname="Pulsipher"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
+      <organization/>
+    </author>
+    <author fullname="Brett Matzke" initials="D" surname="Matzke">
+      <organization/>
+    </author>
+    <author fullname="Landon Sego" initials="H" surname="Sego">
+      <organization/>
+    </author>
+    <author fullname="Jayne Morrow" initials="B" surname="Morrow">
+      <organization/>
+    </author>
+    <author fullname="Lisa Nuffer" initials="L" surname="Nuffer">
+      <organization/>
+    </author>
+    <author fullname="Brent Pulsipher" initials="A" surname="Pulsipher">
+      <organization/>
+    </author>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1636"/>
+  <seriesInfo name="NIST" value="NIST TN 1636"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.341" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote341.pdf">
   <front>
     <title>The long-term performance of two rubidium vapor frequency standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.341"/>
-    <seriesInfo name="NIST" value="NBS TN 341"/>
-    <author fullname="Byron Blair" initials="B." surname="Blair"/>
+    <author fullname="Byron Blair" initials="E" surname="Blair">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.341"/>
+  <seriesInfo name="NIST" value="NBS TN 341"/>
 </reference>

@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-115" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf">
   <front>
     <title>Technical guide to information security testing and assessment.</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-115"/>
-    <seriesInfo name="NIST" value="NIST SP 800-115"/>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Souppaya">
+    <author initials="MP" surname="Souppaya">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Cody">
+    <author initials="A" surname="Cody">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Orebaugh">
+    <author initials="AD" surname="Orebaugh">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-115"/>
+  <seriesInfo name="NIST" value="NIST SP 800-115"/>
 </reference>

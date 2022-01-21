@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.250-7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-7.pdf">
   <front>
     <title>Radiance temperature calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-7"/>
-    <seriesInfo name="NIST" value="NBS SP 250-7"/>
-    <author fullname="William Waters" initials="W." surname="Waters"/>
-    <author fullname="James Walker" initials="J." surname="Walker"/>
-    <author fullname="Albert Hattenburg" initials="A." surname="Hattenburg"/>
+    <author fullname="William Waters" initials="R" surname="Waters">
+      <organization/>
+    </author>
+    <author fullname="James Walker" initials="H" surname="Walker">
+      <organization/>
+    </author>
+    <author fullname="Albert Hattenburg" initials="T" surname="Hattenburg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-7"/>
+  <seriesInfo name="NIST" value="NBS SP 250-7"/>
 </reference>

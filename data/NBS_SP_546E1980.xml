@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.546e1980" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication546e1980.pdf">
   <front>
     <title>Catalog of federal metrology and calibration capabilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.546e1980"/>
-    <seriesInfo name="NIST" value="NBS SP 546e1980"/>
-    <author fullname="Kathryn Leedy" initials="K." surname="Leedy"/>
+    <author fullname="Kathryn Leedy" initials="O" surname="Leedy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.546e1980"/>
+  <seriesInfo name="NIST" value="NBS SP 546e1980"/>
 </reference>

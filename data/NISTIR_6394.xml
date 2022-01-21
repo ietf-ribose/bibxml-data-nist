@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6394" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6394.pdf">
   <front>
     <title>Polymer composites for repairing of Portland cement concrete:compatibility project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6394"/>
-    <seriesInfo name="NIST" value="NIST IR 6394"/>
-    <author fullname="Lech Czarnecki" initials="L." surname="Czarnecki"/>
-    <author fullname="Andrzej Garbacz" initials="A." surname="Garbacz"/>
-    <author fullname="Pawel Lukowski" initials="P." surname="Lukowski"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="Lech Czarnecki" initials="L." surname="Czarnecki">
+      <organization/>
+    </author>
+    <author fullname="Andrzej Garbacz" initials="A." surname="Garbacz">
+      <organization/>
+    </author>
+    <author fullname="Pawel Lukowski" initials="P." surname="Lukowski">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6394"/>
+  <seriesInfo name="NIST" value="NIST IR 6394"/>
 </reference>

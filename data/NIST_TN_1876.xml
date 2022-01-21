@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1876" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1876.pdf">
   <front>
     <title>MicroChar: An Application for Quantitative Analysis of Cement and Clinker Microstructure Images</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1876"/>
-    <seriesInfo name="NIST" value="NIST TN 1876"/>
     <author fullname="Jeffrey Bullard" initials="J." surname="Bullard">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1876"/>
+  <seriesInfo name="NIST" value="NIST TN 1876"/>
 </reference>

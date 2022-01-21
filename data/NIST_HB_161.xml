@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.161" target="https://nvlpubs.nist.gov/nistpubs/hb/2017/NIST.HB.161.pdf">
   <front>
     <title>Usability handbook for public safety communications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.161"/>
-    <seriesInfo name="NIST" value="NIST HB 161"/>
     <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2017" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.161"/>
+  <seriesInfo name="NIST" value="NIST HB 161"/>
 </reference>

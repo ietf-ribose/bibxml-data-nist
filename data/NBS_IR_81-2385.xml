@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.81-2385" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2385.pdf">
   <front>
     <title>Finite difference calculations of buoyant convection in an enclosure Part I :the basic algorithm</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2385"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2385"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
-    <author fullname="Darcy Barnett" initials="D." surname="Barnett"/>
-    <author fullname="Daniel Corley" initials="D." surname="Corley"/>
+    <author fullname="Howard Baum" initials="H." surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
+    <author fullname="Darcy Barnett" initials="P" surname="Barnett">
+      <organization/>
+    </author>
+    <author fullname="Daniel Corley" initials="M" surname="Corley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2385"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2385"/>
 </reference>

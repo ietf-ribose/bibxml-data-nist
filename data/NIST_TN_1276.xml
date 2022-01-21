@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1276" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1276.pdf">
   <front>
     <title>A survey of selected topics relevant to bioprocess engineering</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1276"/>
-    <seriesInfo name="NIST" value="NIST TN 1276"/>
-    <author fullname="Elizabeth Clark" initials="E." surname="Clark"/>
-    <author surname="Levelt Sengers"/>
-    <author surname="Hubbard"/>
+    <author fullname="Elizabeth Clark" initials="J" surname="Clark">
+      <organization/>
+    </author>
+    <author initials="JMH" surname="Levelt Sengers">
+      <organization/>
+    </author>
+    <author initials="JB" surname="Hubbard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1276"/>
+  <seriesInfo name="NIST" value="NIST TN 1276"/>
 </reference>

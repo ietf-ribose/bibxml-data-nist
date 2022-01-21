@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1933" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1933.pdf">
   <front>
     <title>Evaluation of a multimegavolt impulse measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1933"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1933"/>
-    <author fullname="Robert Hebner" initials="R." surname="Hebner"/>
-    <author fullname="Randolph Bullock" initials="R." surname="Bullock"/>
+    <author fullname="Robert Hebner" initials="E" surname="Hebner">
+      <organization/>
+    </author>
+    <author fullname="Randolph Bullock" initials="A" surname="Bullock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1933"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1933"/>
 </reference>

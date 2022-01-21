@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2489" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2489.pdf">
   <front>
     <title>Strategies for energy conservation in small office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2489"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2489"/>
-    <author fullname="Walter Parken" initials="W." surname="Parken"/>
-    <author fullname="James Kao" initials="J." surname="Kao"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
+    <author fullname="Walter Parken" initials="H" surname="Parken">
+      <organization/>
+    </author>
+    <author fullname="James Kao" initials="Y" surname="Kao">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2489"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2489"/>
 </reference>

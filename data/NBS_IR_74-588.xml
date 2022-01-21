@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-588" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-588.pdf">
   <front>
     <title>Development of a bench test for Type X core gypsum board</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-588"/>
-    <seriesInfo name="NIST" value="NBS IR 74-588"/>
-    <author surname="Houser"/>
+    <author initials="JL" surname="Houser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-588"/>
+  <seriesInfo name="NIST" value="NBS IR 74-588"/>
 </reference>

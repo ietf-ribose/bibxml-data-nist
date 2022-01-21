@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.826" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote826.pdf">
   <front>
     <title>Cost-benefit analysis of computer graphics systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.826"/>
-    <seriesInfo name="NIST" value="NBS TN 826"/>
-    <author fullname="Ira Cotton" initials="I." surname="Cotton"/>
+    <author fullname="Ira Cotton" initials="W" surname="Cotton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.826"/>
+  <seriesInfo name="NIST" value="NBS TN 826"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.81-2275" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2275.pdf">
   <front>
     <title>1980 annual report :optical measurements for interfacial conduction and breakdown</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2275"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2275"/>
-    <author surname="Hebner"/>
-    <author surname="Kelley"/>
-    <author surname="Thompson"/>
-    <author fullname="T, Sudarshan" initials="T." surname="Sudarshan"/>
-    <author surname="Jones"/>
+    <author initials="RE" surname="Hebner">
+      <organization/>
+    </author>
+    <author initials="EF" surname="Kelley">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="T, Sudarshan" initials="S" surname="Sudarshan">
+      <organization/>
+    </author>
+    <author initials="TB" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2275"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2275"/>
 </reference>

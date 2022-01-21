@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10346" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10346.pdf">
   <front>
     <title>Summary report of technical advisory committee study of the adherence of porcelain enamel on aluminum:August 1, 1966</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10346"/>
-    <seriesInfo name="NIST" value="NBS RPT 10346"/>
-    <author surname="Baker"/>
+    <author initials="MA" surname="Baker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10346"/>
+  <seriesInfo name="NIST" value="NBS RPT 10346"/>
 </reference>

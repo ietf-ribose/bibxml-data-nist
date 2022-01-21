@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2099-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2099-4.pdf">
   <front>
     <title>Testing geothermal-well cements :strength measurements following exposures to simulated geothermal fluids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2099-4"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2099-4"/>
-    <author fullname="Ralph Krause" initials="R." surname="Krause"/>
-    <author fullname="Edwin Fuller" initials="E." surname="Fuller"/>
+    <author fullname="Ralph Krause" initials="F" surname="Krause">
+      <organization/>
+    </author>
+    <author fullname="Edwin Fuller" initials="R" surname="Fuller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2099-4"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2099-4"/>
 </reference>

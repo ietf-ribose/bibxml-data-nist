@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6618" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6618.pdf">
   <front>
     <title>Significant papers from the first 50 years of the Boulder Labs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6618"/>
-    <seriesInfo name="NIST" value="NIST IR 6618"/>
-    <author surname="DeWeese"/>
-    <author surname="Luebs"/>
-    <author surname="McCullough"/>
+    <author initials="ME" surname="DeWeese">
+      <organization/>
+    </author>
+    <author initials="MA" surname="Luebs">
+      <organization/>
+    </author>
+    <author initials="HL" surname="McCullough">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6618"/>
+  <seriesInfo name="NIST" value="NIST IR 6618"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-4004p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4004p2.pdf">
   <front>
     <title>Product data exchange specification- first working draft</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4004p2"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4004p2"/>
-    <author fullname="Bradford Smith" initials="B." surname="Smith"/>
-    <author fullname="Gaylen Rinaudot" initials="G." surname="Rinaudot"/>
+    <author fullname="Bradford Smith" initials="B." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Gaylen Rinaudot" initials="G." surname="Rinaudot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4004p2"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4004p2"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-825" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-825.pdf">
   <front>
     <title>The national measurement system for cryogenics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-825"/>
-    <seriesInfo name="NIST" value="NBS IR 75-825"/>
-    <author fullname="Thomas Flynn" initials="T." surname="Flynn"/>
+    <author fullname="Thomas Flynn" initials="M" surname="Flynn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-825"/>
+  <seriesInfo name="NIST" value="NBS IR 75-825"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.260-201" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-201.pdf">
   <front>
     <title>Certification of Standard Reference Material 1450e fibrous glass board</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-201"/>
-    <seriesInfo name="NIST" value="NIST SP 260-201"/>
-    <author fullname="Robert Zarr" initials="R." surname="Zarr">
+    <author fullname="Robert Zarr" initials="R" surname="Zarr">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+    <author fullname="Alan Heckert" initials="N" surname="Heckert">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-201"/>
+  <seriesInfo name="NIST" value="NIST SP 260-201"/>
 </reference>

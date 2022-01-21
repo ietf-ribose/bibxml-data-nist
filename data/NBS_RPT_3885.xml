@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.3885" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3885.pdf">
   <front>
     <title>Proposed draft of federal specification AA-R-211d refrigerators, electric, self-contained, domestic type</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3885"/>
-    <seriesInfo name="NIST" value="NBS RPT 3885"/>
-    <author surname="Phillips"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
+    <author initials="CW" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3885"/>
+  <seriesInfo name="NIST" value="NBS RPT 3885"/>
 </reference>

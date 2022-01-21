@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.6340" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6340.pdf">
   <front>
     <title>A survey of some magnesium fire problems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6340"/>
-    <seriesInfo name="NIST" value="NBS RPT 6340"/>
-    <author surname="Robertson"/>
+    <author initials="AF" surname="Robertson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6340"/>
+  <seriesInfo name="NIST" value="NBS RPT 6340"/>
 </reference>

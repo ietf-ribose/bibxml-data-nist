@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7989" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7989.pdf">
   <front>
     <title>Maturity Model Concepts for Sustainable Manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7989"/>
-    <seriesInfo name="NIST" value="NIST IR 7989"/>
     <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2014" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7989"/>
+  <seriesInfo name="NIST" value="NIST IR 7989"/>
 </reference>

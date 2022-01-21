@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6502" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6502.pdf">
   <front>
     <title>Development of a dynamic compression test apparatus for measuring thermal performance of fire fighters' protective clothing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6502"/>
-    <seriesInfo name="NIST" value="NIST IR 6502"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
-    <author fullname="Kevin Malley" initials="K." surname="Malley"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
+    <author fullname="Kevin Malley" initials="S" surname="Malley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6502"/>
+  <seriesInfo name="NIST" value="NIST IR 6502"/>
 </reference>

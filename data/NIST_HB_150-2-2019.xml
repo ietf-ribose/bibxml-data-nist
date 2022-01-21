@@ -1,12 +1,10 @@
 <reference anchor="NIST.HB.150-2-2019" target="https://nvlpubs.nist.gov/nistpubs/hb/2019/NIST.HB.150-2-2019.pdf">
   <front>
     <title>NVLAP Calibration Laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2-2019"/>
-    <seriesInfo name="NIST" value="NIST HB 150-2-2019"/>
     <author fullname="Barbara Belzer" initials="B." surname="Belzer">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Kari Harper" initials="K." surname="Harper">
+    <author fullname="Kari Harper" initials="K" surname="Harper">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="Titilayo Shodiya" initials="T." surname="Shodiya">
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2-2019"/>
+  <seriesInfo name="NIST" value="NIST HB 150-2-2019"/>
 </reference>

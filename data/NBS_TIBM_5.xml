@@ -1,8 +1,6 @@
 <reference anchor="NBS.TIBM.5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TIBM/nbstibm5.pdf">
   <front>
     <title>Exterior waterproofing for masonry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TIBM.5"/>
-    <seriesInfo name="NIST" value="NBS TIBM 5"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TIBM.5"/>
+  <seriesInfo name="NIST" value="NBS TIBM 5"/>
 </reference>

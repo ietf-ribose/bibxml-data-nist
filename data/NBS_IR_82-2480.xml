@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2480" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2480.pdf">
   <front>
     <title>Time-based capabilities of occupants to escape fires in public buildings :a review of code provisions and technical literature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2480"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2480"/>
-    <author fullname="Fred Stahl" initials="F." surname="Stahl"/>
-    <author fullname="James Crosson" initials="J." surname="Crosson"/>
-    <author fullname="Stephen Margulis" initials="S." surname="Margulis"/>
+    <author fullname="Fred Stahl" initials="I" surname="Stahl">
+      <organization/>
+    </author>
+    <author fullname="James Crosson" initials="J" surname="Crosson">
+      <organization/>
+    </author>
+    <author fullname="Stephen Margulis" initials="T" surname="Margulis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2480"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2480"/>
 </reference>

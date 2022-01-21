@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10294" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10294.pdf">
   <front>
     <title>Mechanical properties</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10294"/>
-    <seriesInfo name="NIST" value="NBS RPT 10294"/>
-    <author fullname="Philip Oglesby" initials="P." surname="Oglesby"/>
+    <author fullname="Philip Oglesby" initials="L" surname="Oglesby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10294"/>
+  <seriesInfo name="NIST" value="NBS RPT 10294"/>
 </reference>

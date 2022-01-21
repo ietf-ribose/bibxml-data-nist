@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.1149-09" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.1149-09.pdf">
   <front>
     <title>NIST Time and Frequency Bulletin</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.1149-09"/>
-    <seriesInfo name="NIST" value="NIST IR 1149-09"/>
-    <author fullname="Petrina Potts" initials="P." surname="Potts">
+    <author fullname="Petrina Potts" initials="C" surname="Potts">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.1149-09"/>
+  <seriesInfo name="NIST" value="NIST IR 1149-09"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4918" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4918.pdf">
   <front>
     <title>Summaries of BFRL fire research in-house projects and grants, 1992</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4918"/>
-    <seriesInfo name="NIST" value="NIST IR 4918"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4918"/>
+  <seriesInfo name="NIST" value="NIST IR 4918"/>
 </reference>

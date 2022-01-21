@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-844" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-844.pdf">
   <front>
     <title>A microwave vector voltmeter system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-844"/>
-    <seriesInfo name="NIST" value="NBS IR 76-844"/>
-    <author fullname="Keith Roe" initials="K." surname="Roe"/>
-    <author fullname="Cletus Hoer" initials="C." surname="Hoer"/>
+    <author fullname="Keith Roe" initials="C" surname="Roe">
+      <organization/>
+    </author>
+    <author fullname="Cletus Hoer" initials="A" surname="Hoer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-844"/>
+  <seriesInfo name="NIST" value="NBS IR 76-844"/>
 </reference>

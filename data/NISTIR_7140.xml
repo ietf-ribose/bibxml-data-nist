@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7140" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7140.pdf">
   <front>
     <title>An evaluation of innovative sweat-based drug testing techniques for use in criminal justice drug testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7140"/>
-    <seriesInfo name="NIST" value="NIST IR 7140"/>
-    <author fullname="Royer Cook" initials="R." surname="Cook"/>
-    <author fullname="David Dove" initials="D." surname="Dove"/>
-    <author fullname="Dennis Crouch" initials="D." surname="Crouch"/>
-    <author fullname="Jakub Baudys" initials="J." surname="Baudys"/>
+    <author fullname="Royer Cook" initials="F" surname="Cook">
+      <organization/>
+    </author>
+    <author fullname="David Dove" initials="C" surname="Dove">
+      <organization/>
+    </author>
+    <author fullname="Dennis Crouch" initials="J" surname="Crouch">
+      <organization/>
+    </author>
+    <author fullname="Jakub Baudys" initials="J." surname="Baudys">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7140"/>
+  <seriesInfo name="NIST" value="NIST IR 7140"/>
 </reference>

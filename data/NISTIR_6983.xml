@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6983" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6983.pdf">
   <front>
     <title>The NIST humanID evaluation framework</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6983"/>
-    <seriesInfo name="NIST" value="NIST IR 6983"/>
-    <author surname="Michaels"/>
-    <author surname="Grother"/>
-    <author surname="Phillips"/>
+    <author initials="R" surname="Michaels">
+      <organization/>
+    </author>
+    <author initials="P" surname="Grother">
+      <organization/>
+    </author>
+    <author initials="J" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6983"/>
+  <seriesInfo name="NIST" value="NIST IR 6983"/>
 </reference>

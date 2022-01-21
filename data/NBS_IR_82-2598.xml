@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2598" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2598.pdf">
   <front>
     <title>An assessment of correlations between laboratory and full-scale experiments for the FAA aircraft fire safety program, part 6 :reduced</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2598"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2598"/>
-    <author surname="Parker"/>
+    <author initials="WJ" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2598"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2598"/>
 </reference>

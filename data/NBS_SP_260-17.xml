@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-17.pdf">
   <front>
     <title>Standard Reference MaterialsBoric acid; isotopic, and assay standard reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-17"/>
-    <seriesInfo name="NIST" value="NBS SP 260-17"/>
-    <author surname="Champion"/>
-    <author surname="Marinenko"/>
-    <author surname="Sappenfield"/>
-    <author surname="Catanzaro"/>
-    <author surname="Shields"/>
+    <author initials="CE" surname="Champion">
+      <organization/>
+    </author>
+    <author initials="G" surname="Marinenko">
+      <organization/>
+    </author>
+    <author initials="KM" surname="Sappenfield">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Catanzaro">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Shields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-17"/>
+  <seriesInfo name="NIST" value="NBS SP 260-17"/>
 </reference>

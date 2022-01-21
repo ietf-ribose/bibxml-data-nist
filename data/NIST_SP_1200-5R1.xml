@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1200-5r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-5r1.pdf">
   <front>
     <title>Preparation of Nanoscale TiO2 Dispersions in an Environmental Matrix for Eco-Toxicological Assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-5r1"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-5r1"/>
     <author fullname="J.S. Taurozzi" initials="J." surname="Taurozzi">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-5r1"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-5r1"/>
 </reference>

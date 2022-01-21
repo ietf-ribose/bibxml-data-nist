@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.6160" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6160.pdf">
   <front>
     <title>Process specification language:an analysis of existing representations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6160"/>
-    <seriesInfo name="NIST" value="NIST IR 6160"/>
-    <author fullname="Amy Knutilla" initials="A." surname="Knutilla"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
-    <author fullname="Steven Ray" initials="S." surname="Ray"/>
-    <author fullname="Stephen Polyak" initials="S." surname="Polyak"/>
-    <author fullname="Austin Tate" initials="A." surname="Tate"/>
-    <author fullname="ShuChiun Cheah" initials="S.C." surname="Cheah"/>
-    <author fullname="Richard Anderson" initials="R." surname="Anderson"/>
+    <author fullname="Amy Knutilla" initials="A." surname="Knutilla">
+      <organization/>
+    </author>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization/>
+    </author>
+    <author fullname="Steven Ray" initials="S." surname="Ray">
+      <organization/>
+    </author>
+    <author fullname="Stephen Polyak" initials="T" surname="Polyak">
+      <organization/>
+    </author>
+    <author fullname="Austin Tate" initials="A." surname="Tate">
+      <organization/>
+    </author>
+    <author fullname="ShuChiun Cheah" initials="S.C." surname="Cheah">
+      <organization/>
+    </author>
+    <author fullname="Richard Anderson" initials="C" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6160"/>
+  <seriesInfo name="NIST" value="NIST IR 6160"/>
 </reference>

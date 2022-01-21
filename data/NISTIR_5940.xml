@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5940" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5940.pdf">
   <front>
     <title>The effect of surface coatings on fire growth over composite materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5940"/>
-    <seriesInfo name="NIST" value="NIST IR 5940"/>
-    <author surname="Ohlemiller"/>
-    <author surname="Shields"/>
+    <author initials="TJ" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Shields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5940"/>
+  <seriesInfo name="NIST" value="NIST IR 5940"/>
 </reference>

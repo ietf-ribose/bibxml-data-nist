@@ -1,11 +1,15 @@
 <reference anchor="NBS.LCIRC.530" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular530.pdf">
   <front>
     <title>Letter Circular 530:salt spray test</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.530"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 530"/>
-    <author fullname="WH Mutchler" initials="W." surname="Mutchler"/>
-    <author fullname="RW Buzzard" initials="R." surname="Buzzard"/>
-    <author fullname="PWC Strausser" initials="P." surname="Strausser"/>
+    <author fullname="WH Mutchler" initials="W." surname="Mutchler">
+      <organization/>
+    </author>
+    <author fullname="RW Buzzard" initials="R." surname="Buzzard">
+      <organization/>
+    </author>
+    <author fullname="PWC Strausser" initials="P." surname="Strausser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.530"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 530"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.17supp2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures17supp2.pdf">
   <front>
     <title>Sound insulation of wall and floor constructions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.17supp2"/>
-    <seriesInfo name="NIST" value="NBS BMS 17supp2"/>
-    <author fullname="Albert London" initials="A." surname="London"/>
+    <author fullname="Albert London" initials="A." surname="London">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.17supp2"/>
+  <seriesInfo name="NIST" value="NBS BMS 17supp2"/>
 </reference>

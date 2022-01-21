@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.856" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote856.pdf">
   <front>
     <title>Note on a vibratory phenomenon arising in transducer calibration</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.856"/>
-    <seriesInfo name="NIST" value="NBS TN 856"/>
-    <author fullname="Richard Kraft" initials="R." surname="Kraft"/>
+    <author fullname="Richard Kraft" initials="R." surname="Kraft">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.856"/>
+  <seriesInfo name="NIST" value="NBS TN 856"/>
 </reference>

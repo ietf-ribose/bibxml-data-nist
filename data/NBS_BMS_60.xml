@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.60" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures60.pdf">
   <front>
     <title>Strength, absorption, and resistance to laboratory freezing and thawing of building bricks produced in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.60"/>
-    <seriesInfo name="NIST" value="NBS BMS 60"/>
-    <author fullname="John McBurney" initials="J." surname="McBurney"/>
-    <author fullname="Joseph Richmond" initials="J." surname="Richmond"/>
+    <author fullname="John McBurney" initials="W" surname="McBurney">
+      <organization/>
+    </author>
+    <author fullname="Joseph Richmond" initials="C" surname="Richmond">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.60"/>
+  <seriesInfo name="NIST" value="NBS BMS 60"/>
 </reference>

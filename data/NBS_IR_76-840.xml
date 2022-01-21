@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-840" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-840.pdf">
   <front>
     <title>FM-CW electromagnetic technique of measuring coal layer thickness</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-840"/>
-    <seriesInfo name="NIST" value="NBS IR 76-840"/>
-    <author fullname="Doyle Ellerbruch" initials="D." surname="Ellerbruch"/>
-    <author fullname="Donald Belsher" initials="D." surname="Belsher"/>
+    <author fullname="Doyle Ellerbruch" initials="A" surname="Ellerbruch">
+      <organization/>
+    </author>
+    <author fullname="Donald Belsher" initials="R" surname="Belsher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-840"/>
+  <seriesInfo name="NIST" value="NBS IR 76-840"/>
 </reference>

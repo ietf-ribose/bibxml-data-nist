@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2548" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2548.pdf">
   <front>
     <title>Design considerations for the cross-bridge sheet resistor</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2548"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2548"/>
-    <author surname="Carver"/>
-    <author surname="Mattis"/>
-    <author surname="Buehler"/>
+    <author initials="GP" surname="Carver">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Mattis">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Buehler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2548"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2548"/>
 </reference>

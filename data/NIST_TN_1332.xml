@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1332" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1332.pdf">
   <front>
     <title>Systematic errors in power measurements made with a dual six-port ANA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1332"/>
-    <seriesInfo name="NIST" value="NIST TN 1332"/>
-    <author fullname="Cletus Hoer" initials="C." surname="Hoer"/>
+    <author fullname="Cletus Hoer" initials="A" surname="Hoer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1332"/>
+  <seriesInfo name="NIST" value="NIST TN 1332"/>
 </reference>

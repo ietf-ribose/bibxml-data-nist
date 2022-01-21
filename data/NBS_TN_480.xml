@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.480" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote480.pdf">
   <front>
     <title>Misalinement detector for axial loading fatigue machines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.480"/>
-    <seriesInfo name="NIST" value="NBS TN 480"/>
-    <author surname="Robinson"/>
+    <author initials="DC" surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.480"/>
+  <seriesInfo name="NIST" value="NBS TN 480"/>
 </reference>

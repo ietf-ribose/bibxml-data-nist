@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5859" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5859.pdf">
   <front>
     <title>Thermal conductivity of a specimen of type 522 alloy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5859"/>
-    <seriesInfo name="NIST" value="NBS RPT 5859"/>
-    <author fullname="Henry Robinson" initials="H." surname="Robinson"/>
-    <author fullname="Frank Powell" initials="F." surname="Powell"/>
+    <author fullname="Henry Robinson" initials="E" surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="Frank Powell" initials="J" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5859"/>
+  <seriesInfo name="NIST" value="NBS RPT 5859"/>
 </reference>

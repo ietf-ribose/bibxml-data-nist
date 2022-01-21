@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4449" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4449.pdf">
   <front>
     <title>11th joint panel meeting of the UJNR Panel on Fire Research and Safety</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4449"/>
-    <seriesInfo name="NIST" value="NIST IR 4449"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
-    <author fullname="Deborah Cramer" initials="D." surname="Cramer"/>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
+    <author fullname="Deborah Cramer" initials="M" surname="Cramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4449"/>
+  <seriesInfo name="NIST" value="NIST IR 4449"/>
 </reference>

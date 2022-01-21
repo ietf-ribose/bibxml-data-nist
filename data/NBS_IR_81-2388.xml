@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2388" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2388.pdf">
   <front>
     <title>Synopsis of interviews from a survey of software tool usage</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2388"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2388"/>
-    <author fullname="Herbert Hecht" initials="H." surname="Hecht"/>
+    <author fullname="Herbert Hecht" initials="H." surname="Hecht">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2388"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2388"/>
 </reference>

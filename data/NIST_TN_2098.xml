@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2098" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2098.pdf">
   <front>
     <title>Analysis of iris images in Nicholas Nixon: the Brown sisters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2098"/>
-    <seriesInfo name="NIST" value="NIST TN 2098"/>
-    <author fullname="James Matey" initials="J." surname="Matey">
+    <author fullname="James Matey" initials="R" surname="Matey">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Patrick Grother" initials="P." surname="Grother">
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2098"/>
+  <seriesInfo name="NIST" value="NIST TN 2098"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6721" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6721.pdf">
   <front>
     <title>Systems Integration for Manufacturing Applications, biennial report fiscal years 1999-2000</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6721"/>
-    <seriesInfo name="NIST" value="NIST IR 6721"/>
-    <author fullname="James Fowler" initials="J." surname="Fowler"/>
-    <author fullname="Mark Carlisle" initials="M." surname="Carlisle"/>
+    <author fullname="James Fowler" initials="E" surname="Fowler">
+      <organization/>
+    </author>
+    <author fullname="Mark Carlisle" initials="M." surname="Carlisle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6721"/>
+  <seriesInfo name="NIST" value="NIST IR 6721"/>
 </reference>

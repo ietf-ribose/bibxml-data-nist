@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1083" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1083.pdf">
   <front>
     <title>Report to AID on a Philippines survey on standardization and measurement services</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1083"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1083"/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
-    <author fullname="Robert Marvin" initials="R." surname="Marvin"/>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
+    <author fullname="Robert Marvin" initials="S" surname="Marvin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1083"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1083"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1208" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1208.pdf">
   <front>
     <title>2016 NIST Center for Neutron Research accomplishments and opportunities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1208"/>
-    <seriesInfo name="NIST" value="NIST SP 1208"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline">
+    <author fullname="Steven Kline" initials="R" surname="Kline">
       <organization>NIST Center for Neutron Research.</organization>
     </author>
-    <author fullname="Robert Dimeo" initials="R." surname="Dimeo">
+    <author fullname="Robert Dimeo" initials="M" surname="Dimeo">
       <organization>NIST Center for Neutron Research.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1208"/>
+  <seriesInfo name="NIST" value="NIST SP 1208"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.NCSTAR.1-1b" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-1b.pdf">
   <front>
     <title>Comparison of building code structural requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1b"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-1b"/>
-    <author surname="Ghosh"/>
-    <author fullname="Xuemei Liang" initials="X." surname="Liang"/>
+    <author initials="SK" surname="Ghosh">
+      <organization/>
+    </author>
+    <author fullname="Xuemei Liang" initials="X." surname="Liang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1b"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-1b"/>
 </reference>

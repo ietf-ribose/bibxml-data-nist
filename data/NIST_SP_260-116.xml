@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.260-116" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-116.pdf">
   <front>
     <title>Standard Reference MaterialsGlass filters as a standard reference material for spectrophotometry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-116"/>
-    <seriesInfo name="NIST" value="NIST SP 260-116"/>
-    <author surname="Burke"/>
-    <author surname="Messman"/>
-    <author surname="Smith"/>
-    <author surname="Colbert"/>
-    <author surname="Mavrodineanu"/>
-    <author surname="Travis"/>
+    <author initials="RW" surname="Burke">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Messman">
+      <organization/>
+    </author>
+    <author initials="MV" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="JC" surname="Colbert">
+      <organization/>
+    </author>
+    <author initials="R" surname="Mavrodineanu">
+      <organization/>
+    </author>
+    <author initials="JC" surname="Travis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-116"/>
+  <seriesInfo name="NIST" value="NIST SP 260-116"/>
 </reference>

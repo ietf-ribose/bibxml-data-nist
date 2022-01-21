@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1622" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1622.pdf">
   <front>
     <title>A broadband, isotropic, real-time, electric-field sensor (BIRES) using resistively loaded dipoles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1622"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1622"/>
-    <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
-    <author fullname="Francis Ries" initials="F." surname="Ries"/>
-    <author fullname="Donald Belsher" initials="D." surname="Belsher"/>
+    <author fullname="Motohisa Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
+    <author fullname="Francis Ries" initials="X" surname="Ries">
+      <organization/>
+    </author>
+    <author fullname="Donald Belsher" initials="R" surname="Belsher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1622"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1622"/>
 </reference>

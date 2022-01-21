@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.100-15" target="http://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-15.pdf">
   <front>
     <title>2017 NIST OAGi workshop: enabling composable service-oriented manufacturing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-15"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-15"/>
     <author fullname="Nenad Ivezic" initials="N." surname="Ivezic">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -45,4 +43,6 @@
     </author>
     <date year="2017" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-15"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-15"/>
 </reference>

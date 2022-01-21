@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2060" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2060.pdf">
   <front>
     <title>Drafting test methods for photovoltaic systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2060"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2060"/>
-    <author surname="Lankford"/>
-    <author surname="Schafft"/>
+    <author initials="WF" surname="Lankford">
+      <organization/>
+    </author>
+    <author initials="HA" surname="Schafft">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2060"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2060"/>
 </reference>

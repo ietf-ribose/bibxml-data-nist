@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-4293" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4293.pdf">
   <front>
     <title>A NASREM implementation of position determination from motion</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4293"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4293"/>
-    <author fullname="Karen Chaconas" initials="K." surname="Chaconas"/>
-    <author fullname="Laura Kelmar" initials="L." surname="Kelmar"/>
-    <author fullname="Marilyn Nashman" initials="M." surname="Nashman"/>
+    <author fullname="Karen Chaconas" initials="K." surname="Chaconas">
+      <organization/>
+    </author>
+    <author fullname="Laura Kelmar" initials="L." surname="Kelmar">
+      <organization/>
+    </author>
+    <author fullname="Marilyn Nashman" initials="M." surname="Nashman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4293"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4293"/>
 </reference>

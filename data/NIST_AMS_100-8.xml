@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.100-8" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-8.pdf">
   <front>
     <title>NISTOAGi workshop: drilling down on smart manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-8"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-8"/>
     <author fullname="Nenad Ivezic" initials="N." surname="Ivezic">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,7 +28,7 @@
     <author fullname="Farhad Ameri" initials="F." surname="Ameri">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="William Bernstein" initials="W." surname="Bernstein">
+    <author fullname="William Bernstein" initials="Z" surname="Bernstein">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -45,4 +43,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-8"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-8"/>
 </reference>

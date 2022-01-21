@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-622" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-622.pdf">
   <front>
     <title>Molecular dipole electrets</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-622"/>
-    <seriesInfo name="NIST" value="NBS IR 74-622"/>
-    <author fullname="Frederick Mopsik" initials="F." surname="Mopsik"/>
-    <author fullname="Martin Broadhurst" initials="M." surname="Broadhurst"/>
+    <author fullname="Frederick Mopsik" initials="I" surname="Mopsik">
+      <organization/>
+    </author>
+    <author fullname="Martin Broadhurst" initials="G" surname="Broadhurst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-622"/>
+  <seriesInfo name="NIST" value="NBS IR 74-622"/>
 </reference>

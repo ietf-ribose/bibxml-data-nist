@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7897" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7897.pdf">
   <front>
     <title>STEP File Analyzer User's Guide NIST Interagency or Internal Reports</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7897"/>
-    <seriesInfo name="NIST" value="NIST IR 7897"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
       <organization>Systems Integration Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2012" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7897"/>
+  <seriesInfo name="NIST" value="NIST IR 7897"/>
 </reference>

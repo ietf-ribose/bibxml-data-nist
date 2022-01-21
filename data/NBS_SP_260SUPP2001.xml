@@ -1,8 +1,6 @@
 <reference anchor="NBS.SP.260supp2001" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260supp2001.pdf">
   <front>
     <title>Standard Reference Materials catalog supplement July, 2001</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260supp2001"/>
-    <seriesInfo name="NIST" value="NBS SP 260supp2001"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260supp2001"/>
+  <seriesInfo name="NIST" value="NBS SP 260supp2001"/>
 </reference>

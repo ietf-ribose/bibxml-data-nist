@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8055" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8055.pdf">
   <front>
     <title>Derived Personal Identity Verification (PIV) Credentials (DPC) Proof of Concept Research</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8055"/>
-    <seriesInfo name="NIST" value="NIST IR 8055"/>
     <author fullname="Michael Bartock" initials="M." surname="Bartock">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -21,7 +19,7 @@
     <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Scott Jones" initials="S." surname="Jones">
+    <author fullname="Scott Jones" initials="Z" surname="Jones">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8055"/>
+  <seriesInfo name="NIST" value="NIST IR 8055"/>
 </reference>

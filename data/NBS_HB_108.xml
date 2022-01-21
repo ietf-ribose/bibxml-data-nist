@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.108" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook108.pdf">
   <front>
     <title>Weights and measures labeling handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.108"/>
-    <seriesInfo name="NIST" value="NBS HB 108"/>
-    <author fullname="David Edgerly" initials="D." surname="Edgerly"/>
+    <author fullname="David Edgerly" initials="E" surname="Edgerly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.108"/>
+  <seriesInfo name="NIST" value="NBS HB 108"/>
 </reference>

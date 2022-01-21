@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-9.pdf">
   <front>
     <title>Good security practices for electronic commerce, including electronic data interchange</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-9"/>
-    <seriesInfo name="NIST" value="NIST SP 800-9"/>
-    <author fullname="Roy Saltman" initials="R." surname="Saltman">
+    <author fullname="Roy Saltman" initials="G" surname="Saltman">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-9"/>
+  <seriesInfo name="NIST" value="NIST SP 800-9"/>
 </reference>

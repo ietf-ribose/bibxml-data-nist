@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.607" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication607.pdf">
   <front>
     <title>Refrigeration for cryogenic sensors and electronic systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.607"/>
-    <seriesInfo name="NIST" value="NBS SP 607"/>
-    <author fullname="JamesEdward Zimmerman" initials="J.E." surname="Zimmerman"/>
-    <author surname="Sullivan"/>
-    <author surname="McCarthy"/>
+    <author fullname="JamesEdward Zimmerman" initials="J.E." surname="Zimmerman">
+      <organization/>
+    </author>
+    <author initials="DB" surname="Sullivan">
+      <organization/>
+    </author>
+    <author initials="SE" surname="McCarthy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.607"/>
+  <seriesInfo name="NIST" value="NBS SP 607"/>
 </reference>

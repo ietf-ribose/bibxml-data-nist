@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.3921" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3921.pdf">
   <front>
     <title>Liquid-vapor phase equilibrium in solutions of oxygen and nitrogen at pressures below one atmosphere</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3921"/>
-    <seriesInfo name="NIST" value="NBS RPT 3921"/>
-    <author fullname="George Armstrong" initials="G." surname="Armstrong"/>
-    <author fullname="Jack Goldstein" initials="J." surname="Goldstein"/>
-    <author fullname="Ellis Roberts" initials="E." surname="Roberts"/>
+    <author fullname="George Armstrong" initials="T" surname="Armstrong">
+      <organization/>
+    </author>
+    <author fullname="Jack Goldstein" initials="M" surname="Goldstein">
+      <organization/>
+    </author>
+    <author fullname="Ellis Roberts" initials="D" surname="Roberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1955" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3921"/>
+  <seriesInfo name="NIST" value="NBS RPT 3921"/>
 </reference>

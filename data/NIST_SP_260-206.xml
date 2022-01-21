@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.260-206" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-206.pdf">
   <front>
     <title>Certification of Standard Reference Material® 955d, Toxic Elements and Metabolites in Frozen Human Blood</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-206"/>
-    <seriesInfo name="NIST" value="NIST SP 260-206"/>
     <author fullname="L.L. Yu" initials="L." surname="Yu">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -21,13 +19,13 @@
     <author fullname="T.W. Vetter" initials="T." surname="Vetter">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Hagwood">
+    <author initials="C" surname="Hagwood">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="M.A. Franklin" initials="M." surname="Franklin">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Castro Georgi">
+    <author initials="J" surname="Castro Georgi">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="J.M. Jarrett" initials="J." surname="Jarrett">
@@ -39,7 +37,7 @@
     <author fullname="R.L. Jones" initials="R." surname="Jones">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Li">
+    <author initials="Z" surname="Li">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Y.L. Sommer" initials="Y." surname="Sommer">
@@ -48,31 +46,31 @@
     <author fullname="D.S. Tevis" initials="D." surname="Tevis">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Wallon">
+    <author initials="K" surname="Wallon">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="C.D. Ward" initials="C." surname="Ward">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Maras">
+    <author initials="M" surname="Maras">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Erdahl">
+    <author initials="S" surname="Erdahl">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Gilmer">
+    <author initials="C" surname="Gilmer">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Wermers">
+    <author initials="M" surname="Wermers">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Woldeysus">
+    <author initials="H" surname="Woldeysus">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="K.F. Mehigan" initials="K." surname="Mehigan">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Morrissette">
+    <author initials="M" surname="Morrissette">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="C.D. Palmer" initials="C." surname="Palmer">
@@ -86,4 +84,6 @@
     </author>
     <date year="2020" month="October" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-206"/>
+  <seriesInfo name="NIST" value="NIST SP 260-206"/>
 </reference>

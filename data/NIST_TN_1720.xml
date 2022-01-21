@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1720" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1720.pdf">
   <front>
     <title>An Experimental and Computational Study of Reinforced Concrete Assemblies under a Column Removal Scenario</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1720"/>
-    <seriesInfo name="NIST" value="NIST TN 1720"/>
     <author fullname="H.S. Lew" initials="H." surname="Lew">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -12,13 +10,13 @@
     <author fullname="Fahim Sadek" initials="F." surname="Sadek">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Joseph Main" initials="J." surname="Main">
+    <author fullname="Joseph Main" initials="A" surname="Main">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Santiago Pujol" initials="S." surname="Pujol">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Mete Sozen" initials="M." surname="Sozen">
+    <author fullname="Mete Sozen" initials="A" surname="Sozen">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2011" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1720"/>
+  <seriesInfo name="NIST" value="NIST TN 1720"/>
 </reference>

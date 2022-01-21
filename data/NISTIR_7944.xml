@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7944" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7944.pdf">
   <front>
     <title>Fingerprint Scanner Affordances</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7944"/>
-    <seriesInfo name="NIST" value="NIST IR 7944"/>
     <author fullname="Michelle Steves" initials="M." surname="Steves">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7944"/>
+  <seriesInfo name="NIST" value="NIST IR 7944"/>
 </reference>

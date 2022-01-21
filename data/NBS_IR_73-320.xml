@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-320" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-320.pdf">
   <front>
     <title>Bibliography of the Electromagnetics Division :June 30, 1972 to June 30, 1973</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-320"/>
-    <seriesInfo name="NIST" value="NBS IR 73-320"/>
-    <author fullname="Margaret Woolley" initials="M." surname="Woolley"/>
+    <author fullname="Margaret Woolley" initials="L" surname="Woolley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-320"/>
+  <seriesInfo name="NIST" value="NBS IR 73-320"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.LCIRC.588" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular588.pdf">
   <front>
     <title>Letter Circular 588:the National Association of Hosiery Manufactures NAHM snag resistance tester</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.588"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 588"/>
-    <author fullname="Howard Shearer" initials="H." surname="Shearer"/>
-    <author fullname="EMax Schenke" initials="E." surname="Schenke"/>
+    <author fullname="Howard Shearer" initials="E" surname="Shearer">
+      <organization/>
+    </author>
+    <author fullname="EMax Schenke" initials="E." surname="Schenke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.588"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 588"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4684" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4684.pdf">
   <front>
     <title>A proposed testing methodology for STEP application protocol validation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4684"/>
-    <seriesInfo name="NIST" value="NIST IR 4684"/>
-    <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
+    <author fullname="Mary Mitchell" initials="M." surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4684"/>
+  <seriesInfo name="NIST" value="NIST IR 4684"/>
 </reference>

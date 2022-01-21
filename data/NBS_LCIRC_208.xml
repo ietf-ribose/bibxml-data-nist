@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.208" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular208.pdf">
   <front>
     <title>Letter Circular 208:zinc plating from acid baths</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.208"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 208"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.208"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 208"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.260-120" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-120.pdf">
   <front>
     <title>Standard Reference MaterialsA users' guide to NIST SRM 2084</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-120"/>
-    <seriesInfo name="NIST" value="NIST SP 260-120"/>
-    <author surname="Phillips"/>
-    <author surname="Sawyer"/>
-    <author surname="Ward"/>
-    <author surname="Caskey"/>
+    <author initials="SD" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="DS" surname="Sawyer">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Ward">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Caskey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-120"/>
+  <seriesInfo name="NIST" value="NIST SP 260-120"/>
 </reference>

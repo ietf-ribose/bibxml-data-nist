@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6232" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6232.pdf">
   <front>
     <title>Manufacturing planning and execution objects foundation interfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6232"/>
-    <seriesInfo name="NIST" value="NIST IR 6232"/>
-    <author fullname="Shaw Feng" initials="S." surname="Feng"/>
+    <author fullname="Shaw Feng" initials="C" surname="Feng">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6232"/>
+  <seriesInfo name="NIST" value="NIST IR 6232"/>
 </reference>

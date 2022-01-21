@@ -1,11 +1,15 @@
 <reference anchor="NBS.CIRC.557" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular557.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 557:worldwide radio noise levels expected in the frequency band 10 kilocycles to 100 megacycles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.557"/>
-    <seriesInfo name="NIST" value="NBS CIRC 557"/>
-    <author surname="Crichlow"/>
-    <author surname="Morton"/>
-    <author surname="Corliss"/>
+    <author initials="WQ" surname="Crichlow">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Morton">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Corliss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.557"/>
+  <seriesInfo name="NIST" value="NBS CIRC 557"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub142.pdf">
   <front>
     <title>A study of the removal of sulphur dioxide from library air/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.142"/>
-    <seriesInfo name="NIST" value="NBS MP 142"/>
-    <author fullname="Adelaide Emley" initials="A." surname="Emley"/>
-    <author fullname="Arthur Kimberly" initials="A." surname="Kimberly"/>
+    <author fullname="Adelaide Emley" initials="L" surname="Emley">
+      <organization/>
+    </author>
+    <author fullname="Arthur Kimberly" initials="E" surname="Kimberly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.142"/>
+  <seriesInfo name="NIST" value="NBS MP 142"/>
 </reference>

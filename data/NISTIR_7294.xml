@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7294" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7294.pdf">
   <front>
     <title>Performance of thermal exposure sensors in Personal Alert Safety System (PASS) devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7294"/>
-    <seriesInfo name="NIST" value="NIST IR 7294"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="David Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
+    <author fullname="Nelson Bryner" initials="N." surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="David Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="David Stroup" initials="D." surname="Stroup">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7294"/>
+  <seriesInfo name="NIST" value="NIST IR 7294"/>
 </reference>

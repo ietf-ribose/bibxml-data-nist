@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.7936" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7936.pdf">
   <front>
     <title>Fabricating HD-2 (Fe) type gas proportional counters : a practical guide to techniques, procedures, and operation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7936"/>
-    <seriesInfo name="NIST" value="NIST IR 7936"/>
-    <author fullname="George Klouda" initials="G." surname="Klouda">
+    <author fullname="George Klouda" initials="A" surname="Klouda">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Jeffrey Anderson" initials="J." surname="Anderson">
+    <author fullname="Jeffrey Anderson" initials="R" surname="Anderson">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="John Fuller" initials="J." surname="Fuller">
+    <author fullname="John Fuller" initials="E" surname="Fuller">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7936"/>
+  <seriesInfo name="NIST" value="NIST IR 7936"/>
 </reference>

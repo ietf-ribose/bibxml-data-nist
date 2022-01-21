@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.1018e6" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1018e6.pdf">
   <front>
     <title>Fire dynamics simulator technical reference guide volume 1 :mathematical model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1018e6"/>
-    <seriesInfo name="NIST" value="NIST SP 1018e6"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Randall McDermott" initials="R." surname="McDermott"/>
-    <author fullname="Craig Weinschenk" initials="C." surname="Weinschenk"/>
-    <author fullname="Kristopher Overholt" initials="K." surname="Overholt"/>
-    <author fullname="Simo Hostikka" initials="S." surname="Hostikka"/>
-    <author fullname="Jason Floyd" initials="J." surname="Floyd"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Randall McDermott" initials="R." surname="McDermott">
+      <organization/>
+    </author>
+    <author fullname="Craig Weinschenk" initials="C." surname="Weinschenk">
+      <organization/>
+    </author>
+    <author fullname="Kristopher Overholt" initials="K." surname="Overholt">
+      <organization/>
+    </author>
+    <author fullname="Simo Hostikka" initials="S." surname="Hostikka">
+      <organization/>
+    </author>
+    <author fullname="Jason Floyd" initials="J." surname="Floyd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2013"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1018e6"/>
+  <seriesInfo name="NIST" value="NIST SP 1018e6"/>
 </reference>

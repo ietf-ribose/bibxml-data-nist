@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4905" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4905.pdf">
   <front>
     <title>A study of ventilation measurement in an office building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4905"/>
-    <seriesInfo name="NIST" value="NIST IR 4905"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
+      <organization/>
+    </author>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4905"/>
+  <seriesInfo name="NIST" value="NIST IR 4905"/>
 </reference>

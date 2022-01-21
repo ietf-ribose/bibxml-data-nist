@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3190" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3190.pdf">
   <front>
     <title>Institute for Materials Science and Engineering polymers :technical activities 1985</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3190"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3190"/>
-    <author surname="Smith"/>
-    <author surname="Fanconi"/>
+    <author initials="lE" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Fanconi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3190"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3190"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-377" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-377.pdf">
   <front>
     <title>Picosecond pulse generators using microminiature mercury switches</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-377"/>
-    <seriesInfo name="NIST" value="NBS IR 74-377"/>
-    <author fullname="James Andrews" initials="J." surname="Andrews"/>
+    <author fullname="James Andrews" initials="R" surname="Andrews">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-377"/>
+  <seriesInfo name="NIST" value="NBS IR 74-377"/>
 </reference>

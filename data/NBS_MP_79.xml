@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub79.pdf">
   <front>
     <title>Standards and specifications in the wood-using industries</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.79"/>
-    <seriesInfo name="NIST" value="NBS MP 79"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1927"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.79"/>
+  <seriesInfo name="NIST" value="NBS MP 79"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-661" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-661.pdf">
   <front>
     <title>Strength degradation of brittle surfaces :sharp indenters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-661"/>
-    <seriesInfo name="NIST" value="NBS IR 75-661"/>
-    <author surname="Lawn"/>
-    <author surname="Fuller"/>
-    <author surname="Wiederhorn"/>
+    <author initials="BR" surname="Lawn">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Fuller">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Wiederhorn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-661"/>
+  <seriesInfo name="NIST" value="NBS IR 75-661"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1604" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1604.pdf">
   <front>
     <title>A comparison of centrifuge and freezing calorimeter methods for measuring free water in snow</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1604"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1604"/>
-    <author surname="Jones"/>
+    <author initials="RN" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1604"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1604"/>
 </reference>

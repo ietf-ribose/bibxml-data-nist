@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.88-4019" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4019.pdf">
   <front>
     <title>On the analysis of computer performance data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4019"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4019"/>
-    <author fullname="Jack Wang" initials="J." surname="Wang"/>
-    <author fullname="John Gary" initials="J." surname="Gary"/>
-    <author fullname="Hari Iyer" initials="H." surname="Iyer"/>
+    <author fullname="Jack Wang" initials="CM" surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="John Gary" initials="M" surname="Gary">
+      <organization/>
+    </author>
+    <author fullname="Hari Iyer" initials="K" surname="Iyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4019"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4019"/>
 </reference>

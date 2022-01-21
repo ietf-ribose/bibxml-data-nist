@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.119" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures119.pdf">
   <front>
     <title>Wet venting of plumbing fixtures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.119"/>
-    <seriesInfo name="NIST" value="NBS BMS 119"/>
-    <author fullname="John French" initials="J." surname="French"/>
-    <author fullname="Herbert Eaton" initials="H." surname="Eaton"/>
-    <author fullname="Robert Wyly" initials="R." surname="Wyly"/>
+    <author fullname="John French" initials="L" surname="French">
+      <organization/>
+    </author>
+    <author fullname="Herbert Eaton" initials="N" surname="Eaton">
+      <organization/>
+    </author>
+    <author fullname="Robert Wyly" initials="S" surname="Wyly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.119"/>
+  <seriesInfo name="NIST" value="NBS BMS 119"/>
 </reference>

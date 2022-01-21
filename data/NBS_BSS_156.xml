@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.156" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience156.pdf">
   <front>
     <title>Annual variation of temperature field in heat transfer under heated ground surfaces (slab-on-grade floor heat loss calculation)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.156"/>
-    <seriesInfo name="NIST" value="NBS BSS 156"/>
-    <author surname="Kusuda"/>
-    <author surname="Piet"/>
-    <author surname="Bean"/>
+    <author initials="T" surname="Kusuda">
+      <organization/>
+    </author>
+    <author initials="O" surname="Piet">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Bean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.156"/>
+  <seriesInfo name="NIST" value="NBS BSS 156"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2993" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2993.pdf">
   <front>
     <title>Influence of aspect ratio on shear resistance of concrete block masonry walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2993"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2993"/>
-    <author fullname="Kyle Woodward" initials="K." surname="Woodward"/>
-    <author fullname="Frank Rankin" initials="F." surname="Rankin"/>
+    <author fullname="Kyle Woodward" initials="K." surname="Woodward">
+      <organization/>
+    </author>
+    <author fullname="Frank Rankin" initials="F." surname="Rankin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2993"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2993"/>
 </reference>

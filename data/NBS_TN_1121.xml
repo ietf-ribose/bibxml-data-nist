@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1121" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1121.pdf">
   <front>
     <title>A Schottky diode bridge sampling gate</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1121"/>
-    <seriesInfo name="NIST" value="NBS TN 1121"/>
-    <author fullname="Arnold Perrey" initials="A." surname="Perrey"/>
+    <author fullname="Arnold Perrey" initials="G" surname="Perrey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1121"/>
+  <seriesInfo name="NIST" value="NBS TN 1121"/>
 </reference>

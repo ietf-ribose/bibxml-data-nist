@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7435" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7435.pdf">
   <front>
     <title>The common vulnerability scoring system (CVSS) and its applicability to federal agency systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7435"/>
-    <seriesInfo name="NIST" value="NIST IR 7435"/>
-    <author fullname="Peter Mell" initials="P." surname="Mell"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
-    <author fullname="Sasha Romanosky" initials="S." surname="Romanosky"/>
+    <author fullname="Peter Mell" initials="P." surname="Mell">
+      <organization/>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization/>
+    </author>
+    <author fullname="Sasha Romanosky" initials="S." surname="Romanosky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7435"/>
+  <seriesInfo name="NIST" value="NIST IR 7435"/>
 </reference>

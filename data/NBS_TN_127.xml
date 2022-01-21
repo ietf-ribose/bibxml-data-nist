@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote127.pdf">
   <front>
     <title>Bibliography on direction finding and related ionospheric propagation topics, 1955-1961</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.127"/>
-    <seriesInfo name="NIST" value="NBS TN 127"/>
-    <author fullname="Olaf Remmler" initials="O." surname="Remmler"/>
+    <author fullname="Olaf Remmler" initials="D" surname="Remmler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.127"/>
+  <seriesInfo name="NIST" value="NBS TN 127"/>
 </reference>

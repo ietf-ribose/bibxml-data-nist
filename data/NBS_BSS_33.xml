@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.33" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience33.pdf">
   <front>
     <title>Compressive strength of slender concrete masonry walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.33"/>
-    <seriesInfo name="NIST" value="NBS BSS 33"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
-    <author fullname="Robert Dikkers" initials="R." surname="Dikkers"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
+    <author fullname="Robert Dikkers" initials="D" surname="Dikkers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.33"/>
+  <seriesInfo name="NIST" value="NBS BSS 33"/>
 </reference>

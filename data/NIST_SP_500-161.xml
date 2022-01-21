@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-161" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-161.pdf">
   <front>
     <title>Software configuration management</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-161"/>
-    <seriesInfo name="NIST" value="NIST SP 500-161"/>
-    <author fullname="Wilma Osborne" initials="W." surname="Osborne"/>
+    <author fullname="Wilma Osborne" initials="M" surname="Osborne">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-161"/>
+  <seriesInfo name="NIST" value="NIST SP 500-161"/>
 </reference>

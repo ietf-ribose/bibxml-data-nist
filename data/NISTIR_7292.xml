@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7292" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7292.pdf">
   <front>
     <title>Evaluation of an inexpensive method to stabilize the temperature of machine tool components</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7292"/>
-    <seriesInfo name="NIST" value="NIST IR 7292"/>
-    <author fullname="Mahn-Hee Hahn" initials="M." surname="Hahn"/>
-    <author fullname="Alkan Donmez" initials="A." surname="Donmez"/>
-    <author fullname="Johannes Soons" initials="J." surname="Soons"/>
+    <author fullname="Mahn-Hee Hahn" initials="M." surname="Hahn">
+      <organization/>
+    </author>
+    <author fullname="Alkan Donmez" initials="M" surname="Donmez">
+      <organization/>
+    </author>
+    <author fullname="Johannes Soons" initials="A" surname="Soons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7292"/>
+  <seriesInfo name="NIST" value="NIST IR 7292"/>
 </reference>

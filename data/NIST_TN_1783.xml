@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1783" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1783.pdf">
   <front>
     <title>Measurement Science Needs for the Expanded Use of Green Concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1783"/>
-    <seriesInfo name="NIST" value="NIST TN 1783"/>
     <author fullname="Kenneth Snyder" initials="K." surname="Snyder">
       <organization>Materials and Structural Systems Division, Engineering Laboratory</organization>
     </author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1783"/>
+  <seriesInfo name="NIST" value="NIST TN 1783"/>
 </reference>

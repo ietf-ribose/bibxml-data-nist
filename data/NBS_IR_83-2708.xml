@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2708" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2708.pdf">
   <front>
     <title>Development of a calorimeter for simultaneously measuring heat release and mass loss rates</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2708"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2708"/>
-    <author fullname="John Tordella" initials="J." surname="Tordella"/>
+    <author fullname="John Tordella" initials="J." surname="Tordella">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2708"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2708"/>
 </reference>

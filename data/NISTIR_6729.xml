@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6729" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6729.pdf">
   <front>
     <title>State-of-the-art review of CO2 demand controlled ventilation technology and application</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6729"/>
-    <seriesInfo name="NIST" value="NIST IR 6729"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6729"/>
+  <seriesInfo name="NIST" value="NIST IR 6729"/>
 </reference>

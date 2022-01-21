@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4050" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4050.pdf">
   <front>
     <title>Fire induced flows in corridors -- a review of efforts to model key features</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4050"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4050"/>
-    <author surname="Steckler"/>
+    <author initials="KD" surname="Steckler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4050"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4050"/>
 </reference>

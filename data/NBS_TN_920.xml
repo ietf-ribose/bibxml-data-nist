@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.920" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote920.pdf">
   <front>
     <title>Use of synthetic benchmarks for estimating service bureau processing charges</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.920"/>
-    <seriesInfo name="NIST" value="NBS TN 920"/>
-    <author fullname="Dennis Conti" initials="D." surname="Conti"/>
+    <author fullname="Dennis Conti" initials="M" surname="Conti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.920"/>
+  <seriesInfo name="NIST" value="NBS TN 920"/>
 </reference>

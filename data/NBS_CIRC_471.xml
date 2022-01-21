@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.471" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular471.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 471:spectral-transmissive properties and use of eye-protective glasses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.471"/>
-    <seriesInfo name="NIST" value="NBS CIRC 471"/>
-    <author fullname="Ralph Stair" initials="R." surname="Stair"/>
+    <author fullname="Ralph Stair" initials="R." surname="Stair">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.471"/>
+  <seriesInfo name="NIST" value="NBS CIRC 471"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.CIRC.539v7" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular539v7.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 539 volume 7:standard x-ray diffraction powder patterns</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.539v7"/>
-    <seriesInfo name="NIST" value="NBS CIRC 539v7"/>
-    <author fullname="Howard Swanson" initials="H." surname="Swanson"/>
-    <author fullname="Marlene Cook" initials="M." surname="Cook"/>
+    <author fullname="Howard Swanson" initials="E" surname="Swanson">
+      <organization/>
+    </author>
+    <author fullname="Marlene Cook" initials="I" surname="Cook">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.539v7"/>
+  <seriesInfo name="NIST" value="NBS CIRC 539v7"/>
 </reference>

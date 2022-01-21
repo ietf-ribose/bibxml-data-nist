@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1349" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1349.pdf">
   <front>
     <title>Phase characteristics and time responses of unknown linear systems determined from measured CW amplitude data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1349"/>
-    <seriesInfo name="NIST" value="NIST TN 1349"/>
-    <author fullname="Mark Ma" initials="M." surname="Ma"/>
+    <author fullname="Mark Ma" initials="T" surname="Ma">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1349"/>
+  <seriesInfo name="NIST" value="NIST TN 1349"/>
 </reference>

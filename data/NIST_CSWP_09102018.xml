@@ -1,8 +1,6 @@
 <reference anchor="NIST.CSWP.09102018" target="https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.09102018.pdf">
   <front>
     <title>Transitioning to the Security Content Automation Protocol (SCAP) Version 2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.CSWP.09102018"/>
-    <seriesInfo name="NIST" value="NIST CSWP 09102018"/>
     <author fullname="David Waltermire" initials="D." surname="Waltermire">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.09102018"/>
+  <seriesInfo name="NIST" value="NIST CSWP 09102018"/>
 </reference>

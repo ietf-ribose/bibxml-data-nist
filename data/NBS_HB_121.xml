@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.121" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook121.pdf">
   <front>
     <title>Waste heat management guidebook</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.121"/>
-    <seriesInfo name="NIST" value="NBS HB 121"/>
-    <author fullname="Kenneth Kreider" initials="K." surname="Kreider"/>
-    <author fullname="Michael McNeil" initials="M." surname="McNeil"/>
+    <author fullname="Kenneth Kreider" initials="G" surname="Kreider">
+      <organization/>
+    </author>
+    <author fullname="Michael McNeil" initials="B" surname="McNeil">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.121"/>
+  <seriesInfo name="NIST" value="NBS HB 121"/>
 </reference>

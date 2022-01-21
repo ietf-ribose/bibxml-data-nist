@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.84-1980" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub84-1980.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: microfilm readers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.84-1980"/>
-    <seriesInfo name="NIST" value="NBS FIPS 84-1980"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.84-1980"/>
+  <seriesInfo name="NIST" value="NBS FIPS 84-1980"/>
 </reference>

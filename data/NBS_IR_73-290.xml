@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-290" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-290.pdf">
   <front>
     <title>Development of a dynamic pressure calibration technique a progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-290"/>
-    <seriesInfo name="NIST" value="NBS IR 73-290"/>
-    <author fullname="Paul Lederer" initials="P." surname="Lederer"/>
+    <author fullname="Paul Lederer" initials="S" surname="Lederer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-290"/>
+  <seriesInfo name="NIST" value="NBS IR 73-290"/>
 </reference>

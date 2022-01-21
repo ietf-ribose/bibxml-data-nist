@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5557" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5557.pdf">
   <front>
     <title>Lubrication theory for reactive spreading of a thin drop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5557"/>
-    <seriesInfo name="NIST" value="NIST IR 5557"/>
-    <author surname="Boettinger"/>
-    <author surname="McFadden"/>
+    <author initials="WJ" surname="Boettinger">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5557"/>
+  <seriesInfo name="NIST" value="NIST IR 5557"/>
 </reference>

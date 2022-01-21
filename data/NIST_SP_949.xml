@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.949" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication949.pdf">
   <front>
     <title>Ninth International Conference on Computer Technology in Welding</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.949"/>
-    <seriesInfo name="NIST" value="NIST SP 949"/>
-    <author surname="Siewert"/>
-    <author surname="Siewert"/>
-    <author surname="Pollock"/>
+    <author initials="T" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="T" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="C" surname="Pollock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.949"/>
+  <seriesInfo name="NIST" value="NIST SP 949"/>
 </reference>

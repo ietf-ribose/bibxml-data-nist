@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3307" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3307.pdf">
   <front>
     <title>Ceiling jet properties and wall heat transfer in compartment fires near regions of ceiling jet-wall impingement</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3307"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3307"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3307"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3307"/>
 </reference>

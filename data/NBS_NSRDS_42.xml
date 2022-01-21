@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds42.pdf">
   <front>
     <title>Selected specific rates of reactions of the solvated electron in alcohols</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.42"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 42"/>
-    <author fullname="Edgar Watson" initials="E." surname="Watson"/>
-    <author fullname="Sathyabhama Roy" initials="S." surname="Roy"/>
+    <author fullname="Edgar Watson" initials="E." surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Sathyabhama Roy" initials="S." surname="Roy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.42"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 42"/>
 </reference>

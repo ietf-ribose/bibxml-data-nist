@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.87-3601" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3601.pdf">
   <front>
     <title>High temperature chemistry of stored chemical energy reactions for propulsion</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3601"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3601"/>
-    <author surname="Cook"/>
-    <author surname="Plante"/>
-    <author surname="Bonnell"/>
-    <author surname="Hastie"/>
+    <author initials="LP" surname="Cook">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Plante">
+      <organization/>
+    </author>
+    <author initials="DW" surname="Bonnell">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Hastie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3601"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3601"/>
 </reference>

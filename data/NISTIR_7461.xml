@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7461" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7461.pdf">
   <front>
     <title>Heat and mass transfer through gypsum partitions subjected to fire exposures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7461"/>
-    <seriesInfo name="NIST" value="NIST IR 7461"/>
-    <author surname="Kukuck"/>
+    <author initials="S" surname="Kukuck">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7461"/>
+  <seriesInfo name="NIST" value="NIST IR 7461"/>
 </reference>

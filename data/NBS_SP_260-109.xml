@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-109.pdf">
   <front>
     <title>Standard Reference MaterialsPreparation and certification of SRM-2530, ellipsometric parameters ? and ? and derived thickness and refractive index of a silicon dioxide layer on silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-109"/>
-    <seriesInfo name="NIST" value="NBS SP 260-109"/>
-    <author surname="Belzer"/>
-    <author surname="Chandler-Horowitz"/>
-    <author surname="Novotny"/>
-    <author surname="Candela"/>
-    <author surname="Croarkin"/>
+    <author initials="BJ" surname="Belzer">
+      <organization/>
+    </author>
+    <author initials="D" surname="Chandler-Horowitz">
+      <organization/>
+    </author>
+    <author initials="DB" surname="Novotny">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Candela">
+      <organization/>
+    </author>
+    <author initials="MC" surname="Croarkin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-109"/>
+  <seriesInfo name="NIST" value="NBS SP 260-109"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7727" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7727.pdf">
   <front>
     <title>Fractional diffusion, low exponent levy stable laws, and slow motion denoising of helium ion microscope nanoscale imagery</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7727"/>
-    <seriesInfo name="NIST" value="NIST IR 7727"/>
-    <author fullname="Alfred Carasso" initials="A." surname="Carasso"/>
-    <author fullname="Andras Vladar" initials="A." surname="Vladar"/>
+    <author fullname="Alfred Carasso" initials="S" surname="Carasso">
+      <organization/>
+    </author>
+    <author fullname="Andras Vladar" initials="E" surname="Vladar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7727"/>
+  <seriesInfo name="NIST" value="NIST IR 7727"/>
 </reference>

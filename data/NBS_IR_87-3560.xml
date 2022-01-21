@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3560" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3560.pdf">
   <front>
     <title>An engineering analysis of the early stages of fire development</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3560"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3560"/>
-    <author fullname="Harold Nelson" initials="H." surname="Nelson"/>
+    <author fullname="Harold Nelson" initials="E" surname="Nelson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3560"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3560"/>
 </reference>

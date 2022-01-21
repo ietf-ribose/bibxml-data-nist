@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6492" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6492.pdf">
   <front>
     <title>A review of U.S. participation in the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6492"/>
-    <seriesInfo name="NIST" value="NIST IR 6492"/>
-    <author fullname="Christine DeVaux" initials="C." surname="DeVaux"/>
+    <author fullname="Christine DeVaux" initials="R" surname="DeVaux">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6492"/>
+  <seriesInfo name="NIST" value="NIST IR 6492"/>
 </reference>

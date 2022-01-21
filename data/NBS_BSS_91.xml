@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.91" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience91.pdf">
   <front>
     <title>The Development of an improved test for evaluating the racking resistance of wall panels</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.91"/>
-    <seriesInfo name="NIST" value="NBS BSS 91"/>
-    <author fullname="Charles Yancey" initials="C." surname="Yancey"/>
+    <author fullname="Charles Yancey" initials="W" surname="Yancey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.91"/>
+  <seriesInfo name="NIST" value="NBS BSS 91"/>
 </reference>

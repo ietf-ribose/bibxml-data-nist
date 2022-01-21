@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.470" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication470.pdf">
   <front>
     <title>Wind and seismic effects</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.470"/>
-    <seriesInfo name="NIST" value="NBS SP 470"/>
-    <author surname="Lew"/>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.470"/>
+  <seriesInfo name="NIST" value="NBS SP 470"/>
 </reference>

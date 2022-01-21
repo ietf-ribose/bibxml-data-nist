@@ -1,15 +1,27 @@
 <reference anchor="NBS.MONO.125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph125.pdf">
   <front>
     <title>Thermocouple reference tables based on the IPTS-68</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.125"/>
-    <seriesInfo name="NIST" value="NBS MONO 125"/>
-    <author fullname="Robert Powell" initials="R." surname="Powell"/>
-    <author fullname="William Hall" initials="W." surname="Hall"/>
-    <author fullname="ClydeH,Jr Hyink" initials="C.H.J." surname="Hyink"/>
-    <author fullname="Larry Sparks" initials="L." surname="Sparks"/>
-    <author fullname="George Burns" initials="G." surname="Burns"/>
-    <author fullname="Margaret Scroger" initials="M." surname="Scroger"/>
-    <author fullname="Harmon Plumb" initials="H." surname="Plumb"/>
+    <author fullname="Robert Powell" initials="L" surname="Powell">
+      <organization/>
+    </author>
+    <author fullname="William Hall" initials="J" surname="Hall">
+      <organization/>
+    </author>
+    <author fullname="ClydeH,Jr Hyink" initials="C.H.J." surname="Hyink">
+      <organization/>
+    </author>
+    <author fullname="Larry Sparks" initials="L" surname="Sparks">
+      <organization/>
+    </author>
+    <author fullname="George Burns" initials="W" surname="Burns">
+      <organization/>
+    </author>
+    <author fullname="Margaret Scroger" initials="G" surname="Scroger">
+      <organization/>
+    </author>
+    <author fullname="Harmon Plumb" initials="H" surname="Plumb">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.125"/>
+  <seriesInfo name="NIST" value="NBS MONO 125"/>
 </reference>

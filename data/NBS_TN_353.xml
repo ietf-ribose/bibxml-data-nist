@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.353" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote353.pdf">
   <front>
     <title>Connector for saturated standard cells.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.353"/>
-    <seriesInfo name="NIST" value="NBS TN 353"/>
-    <author surname="Barth"/>
+    <author initials="JJ" surname="Barth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.353"/>
+  <seriesInfo name="NIST" value="NBS TN 353"/>
 </reference>

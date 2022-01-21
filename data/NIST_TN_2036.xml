@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2036" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2036.pdf">
   <front>
     <title>Comparison of the measurement uncertainties and errors for the waveform state levels estimated using the histogram mode and shorth methods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2036"/>
-    <seriesInfo name="NIST" value="NIST TN 2036"/>
-    <author fullname="Nicholas Paulter Jr." initials="N." surname="Paulter Jr.">
+    <author fullname="Nicholas Paulter Jr." initials="G" surname="Paulter Jr.">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2036"/>
+  <seriesInfo name="NIST" value="NIST TN 2036"/>
 </reference>

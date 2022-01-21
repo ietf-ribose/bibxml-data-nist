@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-58" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-58.pdf">
   <front>
     <title>Calibration of x-ray and gamma-ray measuring instruments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-58"/>
-    <seriesInfo name="NIST" value="NIST SP 250-58"/>
-    <author fullname="Paul Lamperti" initials="P." surname="Lamperti"/>
-    <author fullname="Michelle O'Brien" initials="M." surname="O'Brien"/>
+    <author fullname="Paul Lamperti" initials="J" surname="Lamperti">
+      <organization/>
+    </author>
+    <author fullname="Michelle O'Brien" initials="M." surname="O'Brien">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-58"/>
+  <seriesInfo name="NIST" value="NIST SP 250-58"/>
 </reference>

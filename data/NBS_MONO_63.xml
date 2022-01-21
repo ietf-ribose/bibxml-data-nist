@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.63" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph63.pdf">
   <front>
     <title>Tensile and impact properties of selected materials for 20 to 300ᵒK</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.63"/>
-    <seriesInfo name="NIST" value="NBS MONO 63"/>
-    <author surname="Warren"/>
-    <author surname="Reed"/>
+    <author initials="KA" surname="Warren">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.63"/>
+  <seriesInfo name="NIST" value="NBS MONO 63"/>
 </reference>

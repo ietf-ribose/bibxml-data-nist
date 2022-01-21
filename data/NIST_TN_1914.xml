@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1914" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1914.pdf">
   <front>
     <title>2015 Location-Based Services R [and] D Summit Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1914"/>
-    <seriesInfo name="NIST" value="NIST TN 1914"/>
     <author fullname="Harris Feldman" initials="H." surname="Feldman">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1914"/>
+  <seriesInfo name="NIST" value="NIST TN 1914"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.77-1437" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1437.pdf">
   <front>
     <title>Solar energy systems- standards for rubber seals</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1437"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1437"/>
-    <author surname="Stiehler"/>
-    <author surname="Hockman"/>
-    <author surname="Enbree"/>
-    <author surname="Masters"/>
+    <author initials="RD" surname="Stiehler">
+      <organization/>
+    </author>
+    <author initials="A" surname="Hockman">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Enbree">
+      <organization/>
+    </author>
+    <author initials="LW" surname="Masters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1437"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1437"/>
 </reference>

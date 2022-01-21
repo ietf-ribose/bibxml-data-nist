@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.87-3663" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3663.pdf">
   <front>
     <title>Recommended instrumentation approaches for a shared-memory multiprocessor</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3663"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3663"/>
-    <author fullname="George Nacht" initials="G." surname="Nacht"/>
-    <author fullname="Alan Mink" initials="A." surname="Mink"/>
+    <author fullname="George Nacht" initials="G." surname="Nacht">
+      <organization/>
+    </author>
+    <author fullname="Alan Mink" initials="A." surname="Mink">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3663"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3663"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7731" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7731.pdf">
   <front>
     <title>Bicubic b-spline surface approximation of invariant tori</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7731"/>
-    <seriesInfo name="NIST" value="NIST IR 7731"/>
-    <author fullname="Sita Ramamurti" initials="S." surname="Ramamurti"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
+    <author fullname="Sita Ramamurti" initials="S." surname="Ramamurti">
+      <organization/>
+    </author>
+    <author fullname="David Gilsinn" initials="D." surname="Gilsinn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7731"/>
+  <seriesInfo name="NIST" value="NIST IR 7731"/>
 </reference>

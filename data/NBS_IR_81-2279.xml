@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2279" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2279.pdf">
   <front>
     <title>Alkali vapor transport in coal conversion and combustion systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2279"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2279"/>
-    <author surname="Hastie"/>
-    <author surname="Plante"/>
-    <author surname="Bonnell"/>
+    <author initials="JW" surname="Hastie">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Plante">
+      <organization/>
+    </author>
+    <author initials="DW" surname="Bonnell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2279"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2279"/>
 </reference>

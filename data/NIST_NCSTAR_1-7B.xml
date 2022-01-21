@@ -1,9 +1,9 @@
 <reference anchor="NIST.NCSTAR.1-7b" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-7b.pdf">
   <front>
     <title>Technical documentation for survey administration :questionnaires, interviews, and focus groups</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-7b"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-7b"/>
-    <author fullname="Johanna Zmud" initials="J." surname="Zmud"/>
+    <author fullname="Johanna Zmud" initials="J." surname="Zmud">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-7b"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-7b"/>
 </reference>

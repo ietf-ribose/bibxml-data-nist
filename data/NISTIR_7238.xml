@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7238" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7238.pdf">
   <front>
     <title>Investigation of the impact of commercial building envelope airtightness on HVAC energy use</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7238"/>
-    <seriesInfo name="NIST" value="NIST IR 7238"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Tim McDowell" initials="T." surname="McDowell"/>
-    <author fullname="Wagdy Anis" initials="W." surname="Anis"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Tim McDowell" initials="T." surname="McDowell">
+      <organization/>
+    </author>
+    <author fullname="Wagdy Anis" initials="W." surname="Anis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7238"/>
+  <seriesInfo name="NIST" value="NIST IR 7238"/>
 </reference>

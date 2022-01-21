@@ -1,24 +1,22 @@
 <reference anchor="NIST.TN.2079" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2079.pdf">
   <front>
     <title>Theoretical basis of the direct-comparison system for power calibration including equivalent source mismatch</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2079"/>
-    <seriesInfo name="NIST" value="NIST TN 2079"/>
-    <author fullname="Jeffrey Jargon" initials="J." surname="Jargon">
+    <author fullname="Jeffrey Jargon" initials="A" surname="Jargon">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Dazhen Gu" initials="D." surname="Gu">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Christian Long" initials="C." surname="Long">
+    <author fullname="Christian Long" initials="J" surname="Long">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Aaron Hagerstrom" initials="A." surname="Hagerstrom">
+    <author fullname="Aaron Hagerstrom" initials="M" surname="Hagerstrom">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Angela Stelson" initials="A." surname="Stelson">
+    <author fullname="Angela Stelson" initials="C" surname="Stelson">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Ann Monke" initials="A." surname="Monke">
+    <author fullname="Ann Monke" initials="F" surname="Monke">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2079"/>
+  <seriesInfo name="NIST" value="NIST TN 2079"/>
 </reference>

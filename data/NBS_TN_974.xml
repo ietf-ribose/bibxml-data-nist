@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.974" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote974.pdf">
   <front>
     <title>Corrosion of metallic pipes transporting potable water :Laboratory testing methods</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.974"/>
-    <seriesInfo name="NIST" value="NBS TN 974"/>
-    <author fullname="Jean Andre" initials="J." surname="Andre"/>
+    <author fullname="Jean Andre" initials="N" surname="Andre">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.974"/>
+  <seriesInfo name="NIST" value="NBS TN 974"/>
 </reference>

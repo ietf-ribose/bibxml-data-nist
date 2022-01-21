@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4935" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4935.pdf">
   <front>
     <title>Evaluation of compact fluorescent lamp performance at different ambient temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4935"/>
-    <seriesInfo name="NIST" value="NIST IR 4935"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="Stephen Treado" initials="S." surname="Treado"/>
-    <author fullname="Michael Ouellette" initials="M." surname="Ouellette"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="Stephen Treado" initials="J" surname="Treado">
+      <organization/>
+    </author>
+    <author fullname="Michael Ouellette" initials="J" surname="Ouellette">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4935"/>
+  <seriesInfo name="NIST" value="NIST IR 4935"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.HB.150-2H" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-2H.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: calibration laboratories; technical guide for thermodynamic measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2H"/>
-    <seriesInfo name="NIST" value="NIST HB 150-2H"/>
-    <author surname="Faison"/>
-    <author fullname="Carroll Brickenkamp" initials="C." surname="Brickenkamp"/>
+    <author initials="CD" surname="Faison">
+      <organization/>
+    </author>
+    <author fullname="Carroll Brickenkamp" initials="S" surname="Brickenkamp">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2H"/>
+  <seriesInfo name="NIST" value="NIST HB 150-2H"/>
 </reference>

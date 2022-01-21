@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.947" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote947.pdf">
   <front>
     <title>Critical evaluation of data in the physical sciences :a status report on the National Standard Reference Data System, January 1977</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.947"/>
-    <seriesInfo name="NIST" value="NBS TN 947"/>
-    <author fullname="Stephen Rossmassler" initials="S." surname="Rossmassler"/>
+    <author fullname="Stephen Rossmassler" initials="A" surname="Rossmassler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.947"/>
+  <seriesInfo name="NIST" value="NBS TN 947"/>
 </reference>

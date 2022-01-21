@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.2335" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2335.pdf">
   <front>
     <title>Properties of "spectra-glaze", a glazed-face concrete block</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2335"/>
-    <seriesInfo name="NIST" value="NBS RPT 2335"/>
-    <author surname="Goalwin"/>
-    <author surname="Bender"/>
-    <author surname="Oglio"/>
-    <author surname="Shirley"/>
+    <author initials="DS" surname="Goalwin">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Bender">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Oglio">
+      <organization/>
+    </author>
+    <author initials="H" surname="Shirley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2335"/>
+  <seriesInfo name="NIST" value="NBS RPT 2335"/>
 </reference>

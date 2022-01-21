@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8119chi" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8119chi.pdf">
   <front>
     <title>A guide to United States furniture compliance requirements:Chinese translation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8119chi"/>
-    <seriesInfo name="NIST" value="NIST IR 8119chi"/>
-    <author fullname="Lisa Benson" initials="L." surname="Benson">
+    <author fullname="Lisa Benson" initials="M" surname="Benson">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="Karen Reczek" initials="K." surname="Reczek">
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8119chi"/>
+  <seriesInfo name="NIST" value="NIST IR 8119chi"/>
 </reference>

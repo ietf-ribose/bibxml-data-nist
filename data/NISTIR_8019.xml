@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8019" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8019.pdf">
   <front>
     <title>Implementation guidance for FIPS PUB 140-2 and the cryptographic module validation program</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8019"/>
-    <seriesInfo name="NIST" value="NIST IR 8019"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2016"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8019"/>
+  <seriesInfo name="NIST" value="NIST IR 8019"/>
 </reference>

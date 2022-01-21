@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.76-1147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1147.pdf">
   <front>
     <title>A combined least sums and least squares approach to the evaluation of thermodynamic data networks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1147"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1147"/>
-    <author surname="Garvin"/>
-    <author surname="Parker"/>
-    <author surname="Wagman"/>
-    <author surname="Evans"/>
+    <author initials="D" surname="Garvin">
+      <organization/>
+    </author>
+    <author initials="VB" surname="Parker">
+      <organization/>
+    </author>
+    <author initials="DD" surname="Wagman">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1147"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1147"/>
 </reference>

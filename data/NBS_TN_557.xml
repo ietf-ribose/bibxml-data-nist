@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.557" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote557.pdf">
   <front>
     <title>The brake pedal force capability of adult females</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.557"/>
-    <seriesInfo name="NIST" value="NBS TN 557"/>
-    <author fullname="Richard Radlinski" initials="R." surname="Radlinski"/>
+    <author fullname="Richard Radlinski" initials="W" surname="Radlinski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.557"/>
+  <seriesInfo name="NIST" value="NBS TN 557"/>
 </reference>

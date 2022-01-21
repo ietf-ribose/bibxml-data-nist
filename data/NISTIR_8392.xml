@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8392" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8392.pdf">
   <front>
     <title>Evaluating the Impact of Contactless Fingerprint Imagery Spatial Loss on Matcher Performance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8392"/>
-    <seriesInfo name="NIST" value="NIST IR 8392"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2021" month="September" day="23"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8392"/>
+  <seriesInfo name="NIST" value="NIST IR 8392"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.197" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular197.pdf">
   <front>
     <title>Letter Circular 197:work shops of science</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.197"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 197"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.197"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 197"/>
 </reference>

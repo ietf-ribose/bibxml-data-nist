@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4295" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4295.pdf">
   <front>
     <title>A proposed integration framework for STEP:standard for the exchange of product model data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4295"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4295"/>
-    <author fullname="William Danner" initials="W." surname="Danner"/>
+    <author fullname="William Danner" initials="F" surname="Danner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4295"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4295"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6236" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6236.pdf">
   <front>
     <title>Standard test methods and data for modeling crashworthiness</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6236"/>
-    <seriesInfo name="NIST" value="NIST IR 6236"/>
-    <author surname="Fields"/>
-    <author surname="Foecke"/>
-    <author surname="deWi;t"/>
-    <author surname="Hicho"/>
-    <author surname="Levine"/>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
+    <author initials="TJ" surname="Foecke">
+      <organization/>
+    </author>
+    <author initials="R" surname="deWi;t">
+      <organization/>
+    </author>
+    <author initials="GE" surname="Hicho">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Levine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6236"/>
+  <seriesInfo name="NIST" value="NIST IR 6236"/>
 </reference>

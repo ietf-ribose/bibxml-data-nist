@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1771" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1771.pdf">
   <front>
     <title>A Study of Thermal Behavior of a Composite Floor System in Standard Fire Resistance Tests</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1771"/>
-    <seriesInfo name="NIST" value="NIST TN 1771"/>
-    <author fullname="Dilip Banerjee" initials="D." surname="Banerjee">
+    <author fullname="Dilip Banerjee" initials="K" surname="Banerjee">
       <organization>Materials and Structural Systems Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="John Gross" initials="J." surname="Gross">
+    <author fullname="John Gross" initials="L" surname="Gross">
       <organization>Materials and Structural Systems Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2012" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1771"/>
+  <seriesInfo name="NIST" value="NIST TN 1771"/>
 </reference>

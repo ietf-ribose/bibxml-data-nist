@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1234" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1234.pdf">
   <front>
     <title>Return on investment initiative for unleashing American innovation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1234"/>
-    <seriesInfo name="NIST" value="NIST SP 1234"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2018" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1234"/>
+  <seriesInfo name="NIST" value="NIST SP 1234"/>
 </reference>

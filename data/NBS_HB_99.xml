@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.99" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook99.pdf">
   <front>
     <title>Examination of liquefied petroleum gas liquid-measuring devices: a manual for weights and measures officials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.99"/>
-    <seriesInfo name="NIST" value="NBS HB 99"/>
-    <author fullname="Malcolm Jensen" initials="M." surname="Jensen"/>
+    <author fullname="Malcolm Jensen" initials="W" surname="Jensen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.99"/>
+  <seriesInfo name="NIST" value="NBS HB 99"/>
 </reference>

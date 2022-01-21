@@ -1,12 +1,18 @@
 <reference anchor="NBS.CIRC.502" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular502.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 502:bibliography of electron microscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.502"/>
-    <seriesInfo name="NIST" value="NBS CIRC 502"/>
-    <author fullname="Claire Marton" initials="C." surname="Marton"/>
-    <author fullname="Max Swerdlow" initials="M." surname="Swerdlow"/>
-    <author fullname="Alan VanBronkhorst" initials="A." surname="VanBronkhorst"/>
-    <author fullname="Harold Meryman" initials="H." surname="Meryman"/>
+    <author fullname="Claire Marton" initials="C." surname="Marton">
+      <organization/>
+    </author>
+    <author fullname="Max Swerdlow" initials="M." surname="Swerdlow">
+      <organization/>
+    </author>
+    <author fullname="Alan VanBronkhorst" initials="A." surname="VanBronkhorst">
+      <organization/>
+    </author>
+    <author fullname="Harold Meryman" initials="H." surname="Meryman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.502"/>
+  <seriesInfo name="NIST" value="NBS CIRC 502"/>
 </reference>

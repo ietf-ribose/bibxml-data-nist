@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.194" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub194.pdf">
   <front>
     <title>Research and development in applied optics and optical glass at the National Bureau of Standards/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.194"/>
-    <seriesInfo name="NIST" value="NBS MP 194"/>
-    <author surname="Hahner"/>
-    <author fullname="Irvine Gardner" initials="I." surname="Gardner"/>
+    <author initials="CH" surname="Hahner">
+      <organization/>
+    </author>
+    <author fullname="Irvine Gardner" initials="C" surname="Gardner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.194"/>
+  <seriesInfo name="NIST" value="NBS MP 194"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1711" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1711.pdf">
   <front>
     <title>Resource requirements and allocations in IRS' audit division</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1711"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1711"/>
-    <author fullname="Karla Hoffman" initials="K." surname="Hoffman"/>
-    <author fullname="Lambert Joel" initials="L." surname="Joel"/>
-    <author fullname="Martin Pearl" initials="M." surname="Pearl"/>
+    <author fullname="Karla Hoffman" initials="L" surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Lambert Joel" initials="S" surname="Joel">
+      <organization/>
+    </author>
+    <author fullname="Martin Pearl" initials="H" surname="Pearl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1711"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1711"/>
 </reference>

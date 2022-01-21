@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6500e2002" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6500e2002.pdf">
   <front>
     <title>2002 weights and measures directory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6500e2002"/>
-    <seriesInfo name="NIST" value="NIST IR 6500e2002"/>
-    <author fullname="Lynn Sebring" initials="L." surname="Sebring"/>
+    <author fullname="Lynn Sebring" initials="T" surname="Sebring">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6500e2002"/>
+  <seriesInfo name="NIST" value="NIST IR 6500e2002"/>
 </reference>

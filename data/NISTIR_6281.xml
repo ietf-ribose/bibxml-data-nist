@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6281" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6281.pdf">
   <front>
     <title>The FERET verification testing protocol for face recognition algorithms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6281"/>
-    <seriesInfo name="NIST" value="NIST IR 6281"/>
-    <author fullname="Syed Rizvi" initials="S." surname="Rizvi"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
-    <author fullname="Hyeonjoon Moon" initials="H." surname="Moon"/>
+    <author fullname="Syed Rizvi" initials="A" surname="Rizvi">
+      <organization/>
+    </author>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Hyeonjoon Moon" initials="H." surname="Moon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6281"/>
+  <seriesInfo name="NIST" value="NIST IR 6281"/>
 </reference>

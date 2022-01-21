@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds71.pdf">
   <front>
     <title>Ionization potential and appearance potential measurements, 1971-1981</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.71"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 71"/>
-    <author fullname="Rhoda Levin" initials="R." surname="Levin"/>
-    <author fullname="Sharon Lias" initials="S." surname="Lias"/>
+    <author fullname="Rhoda Levin" initials="D" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Sharon Lias" initials="G" surname="Lias">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.71"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 71"/>
 </reference>

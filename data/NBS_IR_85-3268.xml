@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3268" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3268.pdf">
   <front>
     <title>A literature review of the chemical nature and toxicity of the decomposition products of polythylenes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3268"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3268"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3268"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3268"/>
 </reference>

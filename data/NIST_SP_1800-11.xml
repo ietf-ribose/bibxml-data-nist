@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-11" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-11.pdf">
   <front>
     <title>Data Integrity: Recovering from Ransomware and Other Destructive Events</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-11"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-11"/>
     <author fullname="Timothy McBride" initials="T." surname="McBride">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="September" day="22"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-11"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-11"/>
 </reference>

@@ -1,13 +1,17 @@
 <reference anchor="NIST.IR.7862" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7862.pdf">
   <front>
     <title>Guideline for the Implementation of Coexistence for Broadband Power Line Communication Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7862"/>
-    <seriesInfo name="NIST" value="NIST IR 7862"/>
-    <author fullname="David Su" initials="D." surname="Su"/>
-    <author fullname="Stefano Galli" initials="S." surname="Galli"/>
+    <author fullname="David Su" initials="D." surname="Su">
+      <organization/>
+    </author>
+    <author fullname="Stefano Galli" initials="S." surname="Galli">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7862"/>
+  <seriesInfo name="NIST" value="NIST IR 7862"/>
 </reference>

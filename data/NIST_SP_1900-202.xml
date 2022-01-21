@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1900-202" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-202.pdf">
   <front>
     <title>Cyber-physical systems and internet of things</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-202"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-202"/>
     <author fullname="Christopher Greer" initials="C." surname="Greer">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-202"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-202"/>
 </reference>

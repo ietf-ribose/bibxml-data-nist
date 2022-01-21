@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.508" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote508.pdf">
   <front>
     <title>Activation Analysis Section :summary of activities, July 1968 to June 1969</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.508"/>
-    <seriesInfo name="NIST" value="NBS TN 508"/>
-    <author fullname="Philip LaFleur" initials="P." surname="LaFleur"/>
+    <author fullname="Philip LaFleur" initials="D" surname="LaFleur">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.508"/>
+  <seriesInfo name="NIST" value="NBS TN 508"/>
 </reference>

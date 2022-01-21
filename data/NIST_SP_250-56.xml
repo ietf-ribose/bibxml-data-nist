@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.250-56" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-56.pdf">
   <front>
     <title>Optical fiber power meter nonlinearity calibrations at NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-56"/>
-    <seriesInfo name="NIST" value="NIST SP 250-56"/>
-    <author fullname="Igor Vayshenker" initials="I." surname="Vayshenker"/>
-    <author fullname="Shao Yang" initials="S." surname="Yang"/>
-    <author fullname="Xiaoyu Li" initials="X." surname="Li"/>
-    <author fullname="Thomas Scott" initials="T." surname="Scott"/>
-    <author fullname="Christopher Cromer" initials="C." surname="Cromer"/>
+    <author fullname="Igor Vayshenker" initials="I." surname="Vayshenker">
+      <organization/>
+    </author>
+    <author fullname="Shao Yang" initials="S." surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Xiaoyu Li" initials="X." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="Thomas Scott" initials="R" surname="Scott">
+      <organization/>
+    </author>
+    <author fullname="Christopher Cromer" initials="L" surname="Cromer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-56"/>
+  <seriesInfo name="NIST" value="NIST SP 250-56"/>
 </reference>

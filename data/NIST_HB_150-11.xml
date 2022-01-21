@@ -1,10 +1,12 @@
 <reference anchor="NIST.HB.150-11" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-11.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: electromagnetic compatibility and telecommunications; FCC methods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-11"/>
-    <seriesInfo name="NIST" value="NIST HB 150-11"/>
-    <author fullname="Eric Lindstrom" initials="E." surname="Lindstrom"/>
-    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
+    <author fullname="Eric Lindstrom" initials="R" surname="Lindstrom">
+      <organization/>
+    </author>
+    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-11"/>
+  <seriesInfo name="NIST" value="NIST HB 150-11"/>
 </reference>

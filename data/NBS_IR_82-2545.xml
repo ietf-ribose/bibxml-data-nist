@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.82-2545" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2545.pdf">
   <front>
     <title>Investigation of the lubrication mechanisms of the complex metal sulfide, SbSbS?</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2545"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2545"/>
-    <author surname="Ives"/>
-    <author surname="Peterson"/>
-    <author surname="Harris"/>
-    <author surname="Boyer"/>
-    <author surname="Ruff"/>
+    <author initials="LK" surname="Ives">
+      <organization/>
+    </author>
+    <author initials="MB" surname="Peterson">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Harris">
+      <organization/>
+    </author>
+    <author initials="PA" surname="Boyer">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2545"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2545"/>
 </reference>

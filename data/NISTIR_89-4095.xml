@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4095" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4095.pdf">
   <front>
     <title>Center for Electronics and Electrical Engineering technical progress bulletin covering center programs, January to March 1989, with 1989 CEEE events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4095"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4095"/>
-    <author fullname="Jane Walters" initials="J." surname="Walters"/>
+    <author fullname="Jane Walters" initials="E" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4095"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4095"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1767" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1767.pdf">
   <front>
     <title>Annual Whole Building Energy Simulation of the NIST Net Zero Energy Residential Test Facility Design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1767"/>
-    <seriesInfo name="NIST" value="NIST TN 1767"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Applied Economics Office, Engineering Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2012" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1767"/>
+  <seriesInfo name="NIST" value="NIST TN 1767"/>
 </reference>

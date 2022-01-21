@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.95" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures95.pdf">
   <front>
     <title>Tests of cement-water paints and other waterproofings for unit-masonry walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.95"/>
-    <seriesInfo name="NIST" value="NBS BMS 95"/>
-    <author fullname="Cyrus Fishburn" initials="C." surname="Fishburn"/>
-    <author fullname="Douglas Parsons" initials="D." surname="Parsons"/>
+    <author fullname="Cyrus Fishburn" initials="C" surname="Fishburn">
+      <organization/>
+    </author>
+    <author fullname="Douglas Parsons" initials="E" surname="Parsons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1943"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.95"/>
+  <seriesInfo name="NIST" value="NBS BMS 95"/>
 </reference>

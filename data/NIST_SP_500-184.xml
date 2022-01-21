@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-184" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-184.pdf">
   <front>
     <title>Functional benchmarks for fourth generation languages</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-184"/>
-    <seriesInfo name="NIST" value="NIST SP 500-184"/>
-    <author fullname="MarthaMulford Gray" initials="M.M." surname="Gray"/>
-    <author fullname="Gary Fisher" initials="G." surname="Fisher"/>
+    <author fullname="MarthaMulford Gray" initials="M.M." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="Gary Fisher" initials="E" surname="Fisher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-184"/>
+  <seriesInfo name="NIST" value="NIST SP 500-184"/>
 </reference>

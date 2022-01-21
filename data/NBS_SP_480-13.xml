@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.480-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-13.pdf">
   <front>
     <title>Police Communications equipment survey of 1976</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-13"/>
-    <seriesInfo name="NIST" value="NBS SP 480-13"/>
-    <author fullname="William Shand" initials="W." surname="Shand"/>
-    <author fullname="Marshall Treado" initials="M." surname="Treado"/>
+    <author fullname="William Shand" initials="A" surname="Shand">
+      <organization/>
+    </author>
+    <author fullname="Marshall Treado" initials="J" surname="Treado">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-13"/>
+  <seriesInfo name="NIST" value="NBS SP 480-13"/>
 </reference>

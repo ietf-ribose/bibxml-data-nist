@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.182" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub182.pdf">
   <front>
     <title>Development of standards for flexible caselining materials/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.182"/>
-    <seriesInfo name="NIST" value="NBS MP 182"/>
-    <author fullname="Frederick, Carson" initials="F." surname="Carson"/>
-    <author fullname="Bourdon Scribner" initials="B." surname="Scribner"/>
+    <author fullname="Frederick, Carson" initials="T" surname="Carson">
+      <organization/>
+    </author>
+    <author fullname="Bourdon Scribner" initials="W" surname="Scribner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.182"/>
+  <seriesInfo name="NIST" value="NBS MP 182"/>
 </reference>

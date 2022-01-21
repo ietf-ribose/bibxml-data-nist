@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.260-169" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-169.pdf">
   <front>
     <title>Certification fo SRM 46H</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-169"/>
-    <seriesInfo name="NIST" value="NIST SP 260-169"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="William Guthrie" initials="W." surname="Guthrie"/>
-    <author fullname="Max Peltz" initials="M." surname="Peltz"/>
-    <author fullname="Robin Haupt" initials="R." surname="Haupt"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="William Guthrie" initials="W." surname="Guthrie">
+      <organization/>
+    </author>
+    <author fullname="Max Peltz" initials="M." surname="Peltz">
+      <organization/>
+    </author>
+    <author fullname="Robin Haupt" initials="R." surname="Haupt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-169"/>
+  <seriesInfo name="NIST" value="NIST SP 260-169"/>
 </reference>

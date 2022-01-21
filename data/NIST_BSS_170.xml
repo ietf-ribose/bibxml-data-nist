@@ -1,10 +1,12 @@
 <reference anchor="NIST.BSS.170" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nistbuildingscience170.pdf">
   <front>
     <title>Seismic performance of circular bridge columns designed in accordance with AASHTOCALTRANS standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.BSS.170"/>
-    <seriesInfo name="NIST" value="NIST BSS 170"/>
-    <author fullname="William Stone" initials="W." surname="Stone"/>
-    <author fullname="Andrew Taylor" initials="A." surname="Taylor"/>
+    <author fullname="William Stone" initials="C" surname="Stone">
+      <organization/>
+    </author>
+    <author fullname="Andrew Taylor" initials="W" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.BSS.170"/>
+  <seriesInfo name="NIST" value="NIST BSS 170"/>
 </reference>

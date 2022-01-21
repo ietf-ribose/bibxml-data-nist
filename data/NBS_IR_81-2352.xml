@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2352" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2352.pdf">
   <front>
     <title>Solar energy systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2352"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2352"/>
-    <author fullname="Robert Stiehler" initials="R." surname="Stiehler"/>
+    <author fullname="Robert Stiehler" initials="D" surname="Stiehler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2352"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2352"/>
 </reference>

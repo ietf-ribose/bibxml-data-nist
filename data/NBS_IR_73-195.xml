@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-195" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-195.pdf">
   <front>
     <title>Criteria for compliance assurance agencies for manufactured building :one and two family dwelling systems and components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-195"/>
-    <seriesInfo name="NIST" value="NBS IR 73-195"/>
-    <author surname="Bryson"/>
-    <author surname="Camacho"/>
-    <author surname="Vogel"/>
+    <author initials="JO" surname="Bryson">
+      <organization/>
+    </author>
+    <author initials="AA" surname="Camacho">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Vogel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-195"/>
+  <seriesInfo name="NIST" value="NBS IR 73-195"/>
 </reference>

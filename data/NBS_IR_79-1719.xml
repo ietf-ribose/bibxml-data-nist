@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1719" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1719.pdf">
   <front>
     <title>Statistics of household microwave oven use</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1719"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1719"/>
-    <author fullname="Alan Davies" initials="A." surname="Davies"/>
-    <author fullname="John Fechter" initials="J." surname="Fechter"/>
+    <author fullname="Alan Davies" initials="D" surname="Davies">
+      <organization/>
+    </author>
+    <author fullname="John Fechter" initials="V" surname="Fechter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1719"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1719"/>
 </reference>

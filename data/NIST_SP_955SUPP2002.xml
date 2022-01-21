@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.955supp2002" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication955supp2002.pdf">
   <front>
     <title>Responding to national needs 1994-2001 :supplement to appendices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.955supp2002"/>
-    <seriesInfo name="NIST" value="NIST SP 955supp2002"/>
-    <author fullname="Diane Cunningham" initials="D." surname="Cunningham"/>
-    <author fullname="Paula Deutsch" initials="P." surname="Deutsch"/>
-    <author fullname="Julian Ives" initials="J." surname="Ives"/>
-    <author fullname="SandraLee Kelley" initials="S.L." surname="Kelley"/>
-    <author fullname="Keith Martin" initials="K." surname="Martin"/>
-    <author fullname="John Norris" initials="J." surname="Norris"/>
+    <author fullname="Diane Cunningham" initials="D." surname="Cunningham">
+      <organization/>
+    </author>
+    <author fullname="Paula Deutsch" initials="P." surname="Deutsch">
+      <organization/>
+    </author>
+    <author fullname="Julian Ives" initials="M" surname="Ives">
+      <organization/>
+    </author>
+    <author fullname="SandraLee Kelley" initials="S.L." surname="Kelley">
+      <organization/>
+    </author>
+    <author fullname="Keith Martin" initials="K." surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="John Norris" initials="J." surname="Norris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.955supp2002"/>
+  <seriesInfo name="NIST" value="NIST SP 955supp2002"/>
 </reference>

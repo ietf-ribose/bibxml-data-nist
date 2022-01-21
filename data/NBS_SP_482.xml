@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.482" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication482.pdf">
   <front>
     <title>Rare eventaccident research methodology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.482"/>
-    <seriesInfo name="NIST" value="NBS SP 482"/>
-    <author surname="Pezoldt"/>
+    <author initials="VJ" surname="Pezoldt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.482"/>
+  <seriesInfo name="NIST" value="NBS SP 482"/>
 </reference>

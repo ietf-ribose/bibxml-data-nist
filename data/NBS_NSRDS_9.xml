@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds9.pdf">
   <front>
     <title>Tables of bimolecular gas reactions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.9"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 9"/>
-    <author surname="Trotman-Dickenson"/>
-    <author surname="Milne"/>
+    <author initials="AF" surname="Trotman-Dickenson">
+      <organization/>
+    </author>
+    <author initials="GS" surname="Milne">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.9"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 9"/>
 </reference>

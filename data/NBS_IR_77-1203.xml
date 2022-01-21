@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1203" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1203.pdf">
   <front>
     <title>Central-axis ⁶⁰CO ionization measurements in graphite as a function of phantom diameter, depth, and field size</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1203"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1203"/>
-    <author fullname="Steve Domen" initials="S." surname="Domen"/>
+    <author fullname="Steve Domen" initials="R" surname="Domen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1203"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1203"/>
 </reference>

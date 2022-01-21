@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.76" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub76.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: guideline for planning and using a data dictionary system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.76"/>
-    <seriesInfo name="NIST" value="NBS FIPS 76"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.76"/>
+  <seriesInfo name="NIST" value="NBS FIPS 76"/>
 </reference>

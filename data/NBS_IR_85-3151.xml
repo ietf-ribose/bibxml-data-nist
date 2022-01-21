@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3151.pdf">
   <front>
     <title>Compendium of benchmark neutron fields for reactor dosimetry :standard neutron field entries</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3151"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3151"/>
-    <author fullname="James Grundl" initials="J." surname="Grundl"/>
-    <author fullname="Charles Eisenhauer" initials="C." surname="Eisenhauer"/>
+    <author fullname="James Grundl" initials="A" surname="Grundl">
+      <organization/>
+    </author>
+    <author fullname="Charles Eisenhauer" initials="M" surname="Eisenhauer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3151"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3151"/>
 </reference>

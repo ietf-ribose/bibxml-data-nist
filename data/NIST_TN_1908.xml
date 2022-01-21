@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1908" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1908.pdf">
   <front>
     <title>The Use of Demand-to-Capacity Indexes for the Iterative Design of Rigid Structures for Wind</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1908"/>
-    <seriesInfo name="NIST" value="NIST TN 1908"/>
     <author fullname="Filmon Habte" initials="F." surname="Habte">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1908"/>
+  <seriesInfo name="NIST" value="NIST TN 1908"/>
 </reference>

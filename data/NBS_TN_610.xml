@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.610" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote610.pdf">
   <front>
     <title>Application of VLF theory to time dissemination</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.610"/>
-    <seriesInfo name="NIST" value="NBS TN 610"/>
-    <author surname="Hamilton"/>
-    <author surname="Jespersen"/>
+    <author initials="WF" surname="Hamilton">
+      <organization/>
+    </author>
+    <author initials="JL" surname="Jespersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.610"/>
+  <seriesInfo name="NIST" value="NBS TN 610"/>
 </reference>

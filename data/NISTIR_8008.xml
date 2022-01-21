@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.8008" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.8008.pdf">
   <front>
     <title>Toward ontology evaluation across the life cycle</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8008"/>
-    <seriesInfo name="NIST" value="NIST IR 8008"/>
-    <author fullname="Fabian Neuhaus" initials="F." surname="Neuhaus"/>
-    <author fullname="Steve Ray" initials="S." surname="Ray"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Fabian Neuhaus" initials="F." surname="Neuhaus">
+      <organization/>
+    </author>
+    <author fullname="Steve Ray" initials="S." surname="Ray">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2014"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8008"/>
+  <seriesInfo name="NIST" value="NIST IR 8008"/>
 </reference>

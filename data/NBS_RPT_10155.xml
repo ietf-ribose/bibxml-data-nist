@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10155.pdf">
   <front>
     <title>Preparation of hydroxyapatite by hydrolysis of alpha</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10155"/>
-    <seriesInfo name="NIST" value="NBS RPT 10155"/>
-    <author fullname="Elmer Carlson" initials="E." surname="Carlson"/>
-    <author fullname="Edgard Moreno" initials="E." surname="Moreno"/>
+    <author fullname="Elmer Carlson" initials="T" surname="Carlson">
+      <organization/>
+    </author>
+    <author fullname="Edgard Moreno" initials="C" surname="Moreno">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10155"/>
+  <seriesInfo name="NIST" value="NBS RPT 10155"/>
 </reference>

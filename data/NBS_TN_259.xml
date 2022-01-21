@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.259" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote259.pdf">
   <front>
     <title>A FORTRAN program for determining an empirical expression or a quantity measured at combinations of several levels of each of two variables</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.259"/>
-    <seriesInfo name="NIST" value="NBS TN 259"/>
-    <author fullname="MaryNan Steel" initials="M.N." surname="Steel"/>
+    <author fullname="MaryNan Steel" initials="M.N." surname="Steel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.259"/>
+  <seriesInfo name="NIST" value="NBS TN 259"/>
 </reference>

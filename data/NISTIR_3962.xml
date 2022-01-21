@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.3962" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3962.pdf">
   <front>
     <title>Magnetization changes in low-carbon, Ni-Cr-Mo and high-strength-low-alloy steels as a function of stress</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3962"/>
-    <seriesInfo name="NIST" value="NIST IR 3962"/>
-    <author surname="Petersen"/>
+    <author initials="TW" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3962"/>
+  <seriesInfo name="NIST" value="NIST IR 3962"/>
 </reference>

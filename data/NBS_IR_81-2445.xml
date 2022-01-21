@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2445" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2445.pdf">
   <front>
     <title>Application of proof testing to brittle materials at high temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2445"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2445"/>
-    <author surname="Tighe"/>
-    <author surname="Wiederhorn"/>
+    <author initials="NJ" surname="Tighe">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Wiederhorn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2445"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2445"/>
 </reference>

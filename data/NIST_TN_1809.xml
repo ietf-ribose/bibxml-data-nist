@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1809" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1809.pdf">
   <front>
     <title>Exploratory Study of Airflow from SCBA Exposed to Elevated Temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1809"/>
-    <seriesInfo name="NIST" value="NIST TN 1809"/>
-    <author fullname="Michelle Donnelly" initials="M." surname="Donnelly">
+    <author fullname="Michelle Donnelly" initials="K" surname="Donnelly">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Anthony Putorti Jr." initials="A." surname="Putorti Jr.">
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1809"/>
+  <seriesInfo name="NIST" value="NIST TN 1809"/>
 </reference>

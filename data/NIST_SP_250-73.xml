@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-73" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-73.pdf">
   <front>
     <title>NIST measurement services :NIST calibration services for water flowmeters water flow calibration facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-73"/>
-    <seriesInfo name="NIST" value="NIST SP 250-73"/>
-    <author fullname="Iosif Shinder" initials="I." surname="Shinder"/>
-    <author fullname="Iryna Marfenko" initials="I." surname="Marfenko"/>
+    <author fullname="Iosif Shinder" initials="I" surname="Shinder">
+      <organization/>
+    </author>
+    <author fullname="Iryna Marfenko" initials="V" surname="Marfenko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-73"/>
+  <seriesInfo name="NIST" value="NIST SP 250-73"/>
 </reference>

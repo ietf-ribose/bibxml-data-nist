@@ -1,17 +1,33 @@
 <reference anchor="NIST.SP.862" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication862.pdf">
   <front>
     <title>1994 Northridge earthquake</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.862"/>
-    <seriesInfo name="NIST" value="NIST SP 862"/>
-    <author fullname="Diana Todd" initials="D." surname="Todd"/>
-    <author fullname="Diana Todd" initials="D." surname="Todd"/>
-    <author fullname="Nicholas Carino" initials="N." surname="Carino"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
-    <author surname="Lew"/>
-    <author fullname="Andrew Taylor" initials="A." surname="Taylor"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="James Cooper" initials="J." surname="Cooper"/>
-    <author fullname="Roland Nimis" initials="R." surname="Nimis"/>
+    <author fullname="Diana Todd" initials="D." surname="Todd">
+      <organization/>
+    </author>
+    <author fullname="Diana Todd" initials="D." surname="Todd">
+      <organization/>
+    </author>
+    <author fullname="Nicholas Carino" initials="N." surname="Carino">
+      <organization/>
+    </author>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Andrew Taylor" initials="W" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="James Cooper" initials="D" surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="Roland Nimis" initials="R." surname="Nimis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.862"/>
+  <seriesInfo name="NIST" value="NIST SP 862"/>
 </reference>

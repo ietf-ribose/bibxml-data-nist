@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.130-2022" target="https://nvlpubs.nist.gov/nistpubs/hb/2022/NIST.HB.130-2022.pdf">
   <front>
     <title>Uniform Laws and Regulations in the Areas of Legal Metrology and Fuel Quality</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2022"/>
-    <seriesInfo name="NIST" value="NIST HB 130-2022"/>
     <author fullname="Shelby Bowers" initials="S." surname="Bowers">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="December" day="10"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2022"/>
+  <seriesInfo name="NIST" value="NIST HB 130-2022"/>
 </reference>

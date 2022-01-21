@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.7009" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7009.pdf">
   <front>
     <title>Chilled air distribution in refrigerated trailers:interim report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7009"/>
-    <seriesInfo name="NIST" value="NBS RPT 7009"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
-    <author surname="Dockery"/>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Dockery">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7009"/>
+  <seriesInfo name="NIST" value="NBS RPT 7009"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.939" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication939.pdf">
   <front>
     <title>STEP, the grand experience</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.939"/>
-    <seriesInfo name="NIST" value="NIST SP 939"/>
-    <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
-    <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
+    <author fullname="Sharon Kemmerer" initials="J" surname="Kemmerer">
+      <organization/>
+    </author>
+    <author fullname="Sharon Kemmerer" initials="J" surname="Kemmerer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.939"/>
+  <seriesInfo name="NIST" value="NIST SP 939"/>
 </reference>

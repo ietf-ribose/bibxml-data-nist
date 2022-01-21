@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.378" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication378.pdf">
   <front>
     <title>Accuracy in spectrophotometry and luminescence measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.378"/>
-    <seriesInfo name="NIST" value="NBS SP 378"/>
-    <author surname="Mavrodineanu"/>
-    <author surname="Shultz"/>
-    <author surname="Menis"/>
+    <author initials="R" surname="Mavrodineanu">
+      <organization/>
+    </author>
+    <author initials="JI" surname="Shultz">
+      <organization/>
+    </author>
+    <author initials="O" surname="Menis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.378"/>
+  <seriesInfo name="NIST" value="NBS SP 378"/>
 </reference>

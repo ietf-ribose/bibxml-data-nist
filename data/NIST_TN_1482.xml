@@ -1,14 +1,24 @@
 <reference anchor="NIST.TN.1482" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1482.pdf">
   <front>
     <title>Methodology for development of design criteria for joint hurricane wind speed and storm surge events :proof of concept</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1482"/>
-    <seriesInfo name="NIST" value="NIST TN 1482"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="Mark McInerney" initials="M." surname="McInerney"/>
-    <author fullname="Arthur Taylor" initials="A." surname="Taylor"/>
-    <author surname="Glahn"/>
-    <author fullname="Mark Powell" initials="M." surname="Powell"/>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="Mark McInerney" initials="A" surname="McInerney">
+      <organization/>
+    </author>
+    <author fullname="Arthur Taylor" initials="A" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="B" surname="Glahn">
+      <organization/>
+    </author>
+    <author fullname="Mark Powell" initials="D" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1482"/>
+  <seriesInfo name="NIST" value="NIST TN 1482"/>
 </reference>

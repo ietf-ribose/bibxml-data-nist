@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.88-3709" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3709.pdf">
   <front>
     <title>Reference model for DBMS user facility</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3709"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3709"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
-    <author fullname="John Gersting" initials="J." surname="Gersting"/>
-    <author fullname="Kate Kinsley" initials="K." surname="Kinsley"/>
-    <author fullname="Nancy McDonald" initials="N." surname="McDonald"/>
-    <author fullname="John North" initials="J." surname="North"/>
-    <author fullname="Mark Sastry" initials="M." surname="Sastry"/>
-    <author fullname="Edward Stull" initials="E." surname="Stull"/>
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="John Gersting" initials="J." surname="Gersting">
+      <organization/>
+    </author>
+    <author fullname="Kate Kinsley" initials="K." surname="Kinsley">
+      <organization/>
+    </author>
+    <author fullname="Nancy McDonald" initials="N." surname="McDonald">
+      <organization/>
+    </author>
+    <author fullname="John North" initials="J." surname="North">
+      <organization/>
+    </author>
+    <author fullname="Mark Sastry" initials="M." surname="Sastry">
+      <organization/>
+    </author>
+    <author fullname="Edward Stull" initials="E." surname="Stull">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3709"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3709"/>
 </reference>

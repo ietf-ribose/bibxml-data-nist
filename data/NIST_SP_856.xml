@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.856" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication856.pdf">
   <front>
     <title>Electroacoustics for characterization of particulates and suspensions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.856"/>
-    <seriesInfo name="NIST" value="NIST SP 856"/>
-    <author fullname="Subhas Malghan" initials="S." surname="Malghan"/>
-    <author fullname="Subhas Malghan" initials="S." surname="Malghan"/>
+    <author fullname="Subhas Malghan" initials="G" surname="Malghan">
+      <organization/>
+    </author>
+    <author fullname="Subhas Malghan" initials="G" surname="Malghan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.856"/>
+  <seriesInfo name="NIST" value="NIST SP 856"/>
 </reference>

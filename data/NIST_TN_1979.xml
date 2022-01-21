@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1979" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1979.pdf">
   <front>
     <title>NIST channel sounder overview and channel measurements in manufacturing facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1979"/>
-    <seriesInfo name="NIST" value="NIST TN 1979"/>
-    <author fullname="Jeanne Quimby" initials="J." surname="Quimby">
+    <author fullname="Jeanne Quimby" initials="T" surname="Quimby">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Richard Candell" initials="R." surname="Candell">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Kate Remley" initials="K." surname="Remley">
+    <author fullname="Kate Remley" initials="A" surname="Remley">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="David Novotny" initials="D." surname="Novotny">
@@ -18,7 +16,7 @@
     <author fullname="Joseph Diener" initials="J." surname="Diener">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Peter Papazian" initials="P." surname="Papazian">
+    <author fullname="Peter Papazian" initials="B" surname="Papazian">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Alexandra Curtin" initials="A." surname="Curtin">
@@ -39,4 +37,6 @@
     </author>
     <date year="2017" month="November" day="8"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1979"/>
+  <seriesInfo name="NIST" value="NIST TN 1979"/>
 </reference>

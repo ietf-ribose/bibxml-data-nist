@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.6969-2018" target="http://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.6969-2018.pdf">
   <front>
     <title>Selected laboratory and measurement practices and procedures to support basic mass calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6969-2018"/>
-    <seriesInfo name="NIST" value="NIST IR 6969-2018"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris">
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="February" day="7"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6969-2018"/>
+  <seriesInfo name="NIST" value="NIST IR 6969-2018"/>
 </reference>

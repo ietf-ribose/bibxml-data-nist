@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2174" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2174.pdf">
   <front>
     <title>Response Time Impact of Smoke Alarms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2174"/>
-    <seriesInfo name="NIST" value="NIST TN 2174"/>
-    <author fullname="Stanley Gilbert" initials="S." surname="Gilbert">
+    <author fullname="Stanley Gilbert" initials="W" surname="Gilbert">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Thomas Cleary" initials="T." surname="Cleary">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Richard Peacock" initials="R." surname="Peacock">
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="September" day="9"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2174"/>
+  <seriesInfo name="NIST" value="NIST TN 2174"/>
 </reference>

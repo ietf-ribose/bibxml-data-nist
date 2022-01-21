@@ -1,9 +1,7 @@
 <reference anchor="NBS.CRPL.7-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-7-1.pdf">
   <front>
     <title>Preliminary instructions for obtaining and reducing manual ionospheric records</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.7-1"/>
-    <seriesInfo name="NIST" value="NBS CRPL 7-1"/>
-    <author surname="Morgan">
+    <author initials="AH" surname="Morgan">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.7-1"/>
+  <seriesInfo name="NIST" value="NBS CRPL 7-1"/>
 </reference>

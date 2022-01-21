@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-131.pdf">
   <front>
     <title>Standard Reference Materials :The certification of 100 mm diameter silicon resistivity SRMs 2541 through 2547 using dual-configuration four-point probe measurements/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-131"/>
-    <seriesInfo name="NIST" value="NIST SP 260-131"/>
-    <author surname="Croarkin"/>
-    <author surname="Ehrstein"/>
+    <author initials="MC" surname="Croarkin">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Ehrstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-131"/>
+  <seriesInfo name="NIST" value="NIST SP 260-131"/>
 </reference>

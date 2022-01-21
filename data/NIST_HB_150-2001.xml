@@ -1,11 +1,15 @@
 <reference anchor="NIST.HB.150-2001" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-2001.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: procedures and general requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2001"/>
-    <seriesInfo name="NIST" value="NIST HB 150-2001"/>
-    <author surname="White"/>
-    <author surname="Alderman"/>
-    <author surname="Faison"/>
+    <author initials="VR" surname="White">
+      <organization/>
+    </author>
+    <author initials="DF" surname="Alderman">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Faison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-2001"/>
+  <seriesInfo name="NIST" value="NIST HB 150-2001"/>
 </reference>

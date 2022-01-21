@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7385" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7385.pdf">
   <front>
     <title>An analytical approach to cost-effective, risk-based budgeting for federal information system security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7385"/>
-    <seriesInfo name="NIST" value="NIST IR 7385"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
-    <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
+    <author fullname="Sieglinde Fuller" initials="K" surname="Fuller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7385"/>
+  <seriesInfo name="NIST" value="NIST IR 7385"/>
 </reference>

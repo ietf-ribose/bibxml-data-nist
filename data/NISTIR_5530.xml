@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5530" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5530.pdf">
   <front>
     <title>Mapping integration definition for information modeling (IDEF1X) model into CASE data interchange format (CDIF) transfer file</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5530"/>
-    <seriesInfo name="NIST" value="NIST IR 5530"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5530"/>
+  <seriesInfo name="NIST" value="NIST IR 5530"/>
 </reference>

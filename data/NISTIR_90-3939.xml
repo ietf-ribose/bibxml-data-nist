@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.90-3939" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-3939.pdf">
   <front>
     <title>EMR test facilities evaluation of a small reverberating chamber located at RADC, Griffiss AFB Rome, New York</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-3939"/>
-    <seriesInfo name="NIST" value="NIST IR 90-3939"/>
-    <author fullname="Myron Craeford" initials="M." surname="Craeford"/>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury"/>
-    <author fullname="Bill Riddle" initials="B." surname="Riddle"/>
-    <author fullname="Ezra Larsen" initials="E." surname="Larsen"/>
+    <author fullname="Myron Craeford" initials="L" surname="Craeford">
+      <organization/>
+    </author>
+    <author fullname="John Ladbury" initials="M" surname="Ladbury">
+      <organization/>
+    </author>
+    <author fullname="Bill Riddle" initials="F" surname="Riddle">
+      <organization/>
+    </author>
+    <author fullname="Ezra Larsen" initials="B" surname="Larsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-3939"/>
+  <seriesInfo name="NIST" value="NIST IR 90-3939"/>
 </reference>

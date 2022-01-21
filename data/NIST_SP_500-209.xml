@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-209" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-209.pdf">
   <front>
     <title>Software error analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-209"/>
-    <seriesInfo name="NIST" value="NIST SP 500-209"/>
-    <author fullname="Wendy Peng" initials="W." surname="Peng"/>
-    <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
+    <author fullname="Wendy Peng" initials="W" surname="Peng">
+      <organization/>
+    </author>
+    <author fullname="Dolores Wallace" initials="R" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-209"/>
+  <seriesInfo name="NIST" value="NIST SP 500-209"/>
 </reference>

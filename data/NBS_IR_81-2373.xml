@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2373" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2373.pdf">
   <front>
     <title>An evaluation of the MSHA temperature-pressure spray ignition test for hydraulic fluids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2373"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2373"/>
-    <author fullname="Joseph Loftus" initials="J." surname="Loftus"/>
-    <author fullname="Adalberto Maldonado-Rosado" initials="A." surname="Maldonado-Rosado"/>
-    <author fullname="Paula Allen" initials="P." surname="Allen"/>
+    <author fullname="Joseph Loftus" initials="J" surname="Loftus">
+      <organization/>
+    </author>
+    <author fullname="Adalberto Maldonado-Rosado" initials="A." surname="Maldonado-Rosado">
+      <organization/>
+    </author>
+    <author fullname="Paula Allen" initials="J" surname="Allen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2373"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2373"/>
 </reference>

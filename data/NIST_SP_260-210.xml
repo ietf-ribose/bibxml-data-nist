@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.260-210" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-210.pdf">
   <front>
     <title>Certification of Standard Reference Materials® 2969 and 2970: Vitamin D Metabolites in Frozen Human Serum (Total 25-Hydroxyvitamin D Low Level) and (25-Hydroxyvitamin D2 High Level)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-210"/>
-    <seriesInfo name="NIST" value="NIST SP 260-210"/>
     <author fullname="Grace Hahm" initials="G." surname="Hahm">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2021" month="September" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-210"/>
+  <seriesInfo name="NIST" value="NIST SP 260-210"/>
 </reference>

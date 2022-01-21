@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2151.pdf">
   <front>
     <title>A new method of assigning uncertainty in volume calibration</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2151"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2151"/>
-    <author fullname="James Lecher" initials="J." surname="Lecher"/>
-    <author fullname="Charles Reeve" initials="C." surname="Reeve"/>
-    <author fullname="Clifford Spiegelman" initials="C." surname="Spiegelman"/>
+    <author fullname="James Lecher" initials="A" surname="Lecher">
+      <organization/>
+    </author>
+    <author fullname="Charles Reeve" initials="P" surname="Reeve">
+      <organization/>
+    </author>
+    <author fullname="Clifford Spiegelman" initials="H" surname="Spiegelman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2151"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2151"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4539" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4539.pdf">
   <front>
     <title>Calibration at 24[degrees]C of a heat-flow-meter apparatus having 610 mm square plates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4539"/>
-    <seriesInfo name="NIST" value="NIST IR 4539"/>
-    <author fullname="Robert Zarr" initials="R." surname="Zarr"/>
-    <author fullname="Betty Licitra" initials="B." surname="Licitra"/>
+    <author fullname="Robert Zarr" initials="R" surname="Zarr">
+      <organization/>
+    </author>
+    <author fullname="Betty Licitra" initials="A" surname="Licitra">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4539"/>
+  <seriesInfo name="NIST" value="NIST IR 4539"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1441" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1441.pdf">
   <front>
     <title>Phase composition analysis of the NIST reference clinkers by optical microscopy and X-ray powder diffraction</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1441"/>
-    <seriesInfo name="NIST" value="NIST TN 1441"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
-    <author fullname="Stefan Leigh" initials="S." surname="Leigh"/>
+    <author fullname="Paul Stutzman" initials="E" surname="Stutzman">
+      <organization/>
+    </author>
+    <author fullname="Stefan Leigh" initials="S." surname="Leigh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1441"/>
+  <seriesInfo name="NIST" value="NIST TN 1441"/>
 </reference>

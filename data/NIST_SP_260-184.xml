@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.260-184" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-184.pdf">
   <front>
     <title>Method for Measuring the Volume of Nominally 100 μm Diameter Spherical Water-in-Oil Emulsion Droplets</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-184"/>
-    <seriesInfo name="NIST" value="NIST SP 260-184"/>
-    <author fullname="John Dagata" initials="J." surname="Dagata">
+    <author fullname="John Dagata" initials="A" surname="Dagata">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Natalia Farkas" initials="N." surname="Farkas">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="John Kramer" initials="J." surname="Kramer">
+    <author fullname="John Kramer" initials="A" surname="Kramer">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-184"/>
+  <seriesInfo name="NIST" value="NIST SP 260-184"/>
 </reference>

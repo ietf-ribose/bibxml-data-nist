@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote13.pdf">
   <front>
     <title>Technical considerations leading to an optimum allocation of radio frequencies in the band 25 to 60 Mc.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.13"/>
-    <seriesInfo name="NIST" value="NBS TN 13"/>
-    <author fullname="KennethAlva Norton" initials="K.A." surname="Norton"/>
+    <author fullname="KennethAlva Norton" initials="K.A." surname="Norton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.13"/>
+  <seriesInfo name="NIST" value="NBS TN 13"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.405" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote405.pdf">
   <front>
     <title>Organic chemistry :air pollution studies, kinetic behavior of sugars in solution, carbon-14- and tritium-labeled carbohydrates, characterization of chemical structures, phenylhydrazono-phenylazo tautomerism, synthesis of research materials, cyclopentitol</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.405"/>
-    <seriesInfo name="NIST" value="NBS TN 405"/>
-    <author fullname="Horace Isbell" initials="H." surname="Isbell"/>
+    <author fullname="Horace Isbell" initials="S" surname="Isbell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.405"/>
+  <seriesInfo name="NIST" value="NBS TN 405"/>
 </reference>

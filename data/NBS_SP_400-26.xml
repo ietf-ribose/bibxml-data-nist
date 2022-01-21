@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-26.pdf">
   <front>
     <title>Defects in PN junctions and MOS capacitors observed using thermally stimulated current and capacitance measurements-videotape script</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-26"/>
-    <seriesInfo name="NIST" value="NBS SP 400-26"/>
-    <author fullname="Martin Buehler" initials="M." surname="Buehler"/>
+    <author fullname="Martin Buehler" initials="G" surname="Buehler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-26"/>
+  <seriesInfo name="NIST" value="NBS SP 400-26"/>
 </reference>

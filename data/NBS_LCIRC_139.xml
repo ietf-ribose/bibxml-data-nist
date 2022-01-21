@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.139" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular139.pdf">
   <front>
     <title>Letter Circular 139:report of service tests on concrete floor treatments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.139"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 139"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1920"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.139"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 139"/>
 </reference>

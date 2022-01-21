@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5225" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5225.pdf">
   <front>
     <title>The technical program of the Factory Automation Systems Division 1993</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5225"/>
-    <seriesInfo name="NIST" value="NIST IR 5225"/>
-    <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
+    <author fullname="Howard Bloom" initials="M" surname="Bloom">
+      <organization/>
+    </author>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5225"/>
+  <seriesInfo name="NIST" value="NIST IR 5225"/>
 </reference>

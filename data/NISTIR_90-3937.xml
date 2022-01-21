@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-3937" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-3937.pdf">
   <front>
     <title>Scanning system for measuring uniformity of laser detector response and laser beam dimensions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-3937"/>
-    <seriesInfo name="NIST" value="NIST IR 90-3937"/>
-    <author surname="Rasmussen"/>
-    <author surname="Case"/>
-    <author surname="Sanders"/>
+    <author initials="AL" surname="Rasmussen">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Case">
+      <organization/>
+    </author>
+    <author initials="AA" surname="Sanders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-3937"/>
+  <seriesInfo name="NIST" value="NIST IR 90-3937"/>
 </reference>

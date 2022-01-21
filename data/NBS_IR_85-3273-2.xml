@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3273-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3273-2.pdf">
   <front>
     <title>Energy prices and discount factors for life-cycle cost analysis :annual supplement to NBS Handbook 135 and NBS Special Publication 709 1987 edition</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3273-2"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3273-2"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3273-2"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3273-2"/>
 </reference>

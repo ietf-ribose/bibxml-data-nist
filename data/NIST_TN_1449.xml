@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1449" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1449.pdf">
   <front>
     <title>Effect of bed clothes modifications on fire performance of bed asemblies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1449"/>
-    <seriesInfo name="NIST" value="NIST TN 1449"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1449"/>
+  <seriesInfo name="NIST" value="NIST TN 1449"/>
 </reference>

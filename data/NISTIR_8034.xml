@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.8034" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.8034.pdf">
   <front>
     <title>Fingerprint Vendor Technology Evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8034"/>
-    <seriesInfo name="NIST" value="NIST IR 8034"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson">
+    <author fullname="Craig Watson" initials="I" surname="Watson">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
+    <author fullname="Gregory Fiumara" initials="P" surname="Fiumara">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Wayne Salamon" initials="W." surname="Salamon">
+    <author fullname="Wayne Salamon" initials="J" surname="Salamon">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+    <author fullname="Patricia Flanagan" initials="A" surname="Flanagan">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2014" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8034"/>
+  <seriesInfo name="NIST" value="NIST IR 8034"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3519" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3519.pdf">
   <front>
     <title>1986-87 directory of NVLAP accredited laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3519"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3519"/>
-    <author fullname="Harvey Berger" initials="H." surname="Berger"/>
+    <author fullname="Harvey Berger" initials="W" surname="Berger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3519"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3519"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-130" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-130.pdf">
   <front>
     <title>Report on dental research at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-130"/>
-    <seriesInfo name="NIST" value="NBS IR 73-130"/>
-    <author fullname="James Cassel" initials="J." surname="Cassel"/>
+    <author fullname="James Cassel" initials="M" surname="Cassel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-130"/>
+  <seriesInfo name="NIST" value="NBS IR 73-130"/>
 </reference>

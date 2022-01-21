@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.480-16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-16.pdf">
   <front>
     <title>Emergency vehicle warning lights :state of the art</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-16"/>
-    <seriesInfo name="NIST" value="NBS SP 480-16"/>
-    <author fullname="Gerald Howett" initials="G." surname="Howett"/>
-    <author fullname="Kenneth Kelly" initials="K." surname="Kelly"/>
-    <author fullname="Thomas Pierce" initials="T." surname="Pierce"/>
+    <author fullname="Gerald Howett" initials="L" surname="Howett">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Kelly" initials="L" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Thomas Pierce" initials="E" surname="Pierce">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-16"/>
+  <seriesInfo name="NIST" value="NBS SP 480-16"/>
 </reference>

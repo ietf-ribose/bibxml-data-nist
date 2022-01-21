@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.558" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication558.pdf">
   <front>
     <title>Efficient allocation of research funds :economic evaluation methods with case studies in building technology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.558"/>
-    <seriesInfo name="NIST" value="NBS SP 558"/>
-    <author fullname="Harold Marshall" initials="H." surname="Marshall"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
+    <author fullname="Harold Marshall" initials="E" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.558"/>
+  <seriesInfo name="NIST" value="NBS SP 558"/>
 </reference>

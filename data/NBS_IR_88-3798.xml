@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.88-3798" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3798.pdf">
   <front>
     <title>Mechanical property enhancement in ceramic matrix composites</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3798"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3798"/>
-    <author surname="Freiman"/>
-    <author surname="Coyle"/>
-    <author surname="Fuller"/>
-    <author surname="Swanson"/>
-    <author surname="Cranmer"/>
-    <author surname="Haller"/>
+    <author initials="SW" surname="Freiman">
+      <organization/>
+    </author>
+    <author initials="TW" surname="Coyle">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Fuller">
+      <organization/>
+    </author>
+    <author initials="PL" surname="Swanson">
+      <organization/>
+    </author>
+    <author initials="DC" surname="Cranmer">
+      <organization/>
+    </author>
+    <author initials="W" surname="Haller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3798"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3798"/>
 </reference>

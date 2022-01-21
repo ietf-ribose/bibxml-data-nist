@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.267" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub267.pdf">
   <front>
     <title>Systems engineering in ceramicsproceedings of a symposium April 19, 1964</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.267"/>
-    <seriesInfo name="NIST" value="NBS MP 267"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.267"/>
+  <seriesInfo name="NIST" value="NBS MP 267"/>
 </reference>

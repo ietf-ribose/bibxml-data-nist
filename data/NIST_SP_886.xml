@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.886" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication886.pdf">
   <front>
     <title>Proceedings of the second annual manufacturing technology conference</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.886"/>
-    <seriesInfo name="NIST" value="NIST SP 886"/>
-    <author fullname="Cheryl Albus" initials="C." surname="Albus"/>
-    <author fullname="Cheryl Albus" initials="C." surname="Albus"/>
+    <author fullname="Cheryl Albus" initials="C." surname="Albus">
+      <organization/>
+    </author>
+    <author fullname="Cheryl Albus" initials="C." surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.886"/>
+  <seriesInfo name="NIST" value="NIST SP 886"/>
 </reference>

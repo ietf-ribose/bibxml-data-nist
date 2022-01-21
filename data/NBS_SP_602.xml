@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.602" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication602.pdf">
   <front>
     <title>NBSRIA Robotics Research Workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.602"/>
-    <seriesInfo name="NIST" value="NBS SP 602"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
-    <author fullname="Gordon VanderBrug" initials="G." surname="VanderBrug"/>
-    <author fullname="Anthony Barbera" initials="A." surname="Barbera"/>
-    <author surname="Fitzgerald"/>
-    <author fullname="Thomas Wheatley" initials="T." surname="Wheatley"/>
+    <author fullname="James Albus" initials="S" surname="Albus">
+      <organization/>
+    </author>
+    <author fullname="Gordon VanderBrug" initials="J" surname="VanderBrug">
+      <organization/>
+    </author>
+    <author fullname="Anthony Barbera" initials="J" surname="Barbera">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Fitzgerald">
+      <organization/>
+    </author>
+    <author fullname="Thomas Wheatley" initials="E" surname="Wheatley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.602"/>
+  <seriesInfo name="NIST" value="NBS SP 602"/>
 </reference>

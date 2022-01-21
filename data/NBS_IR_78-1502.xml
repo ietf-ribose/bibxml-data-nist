@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1502" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1502.pdf">
   <front>
     <title>Smoke measurement in large and small scale fire testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1502"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1502"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1502"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1502"/>
 </reference>

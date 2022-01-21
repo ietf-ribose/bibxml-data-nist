@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6239" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6239.pdf">
   <front>
     <title>The NIST standards in trade program:a review of the current program and analysis of alternative approaches</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6239"/>
-    <seriesInfo name="NIST" value="NIST IR 6239"/>
-    <author fullname="Peter Heydemann" initials="P." surname="Heydemann"/>
+    <author fullname="Peter Heydemann" initials="LM" surname="Heydemann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6239"/>
+  <seriesInfo name="NIST" value="NIST IR 6239"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2221" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2221.pdf">
   <front>
     <title>Experimentally determined performance of some residential circuit breakers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2221"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2221"/>
-    <author fullname="Robert Beausoliel" initials="R." surname="Beausoliel"/>
-    <author fullname="William Meese" initials="W." surname="Meese"/>
+    <author fullname="Robert Beausoliel" initials="W" surname="Beausoliel">
+      <organization/>
+    </author>
+    <author fullname="William Meese" initials="J" surname="Meese">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2221"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2221"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-572" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-572.pdf">
   <front>
     <title>Torsional buckling of composite cylindrical shells</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-572"/>
-    <seriesInfo name="NIST" value="NBS IR 74-572"/>
-    <author surname="Marlowe"/>
-    <author surname="Sushinsky"/>
+    <author initials="DE" surname="Marlowe">
+      <organization/>
+    </author>
+    <author initials="GF" surname="Sushinsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-572"/>
+  <seriesInfo name="NIST" value="NBS IR 74-572"/>
 </reference>

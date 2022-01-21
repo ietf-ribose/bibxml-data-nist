@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.874" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular874.pdf">
   <front>
     <title>Letter Circular 874:radio (supersedes Letter Circular 781)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.874"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 874"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.874"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 874"/>
 </reference>

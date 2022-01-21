@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7837" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7837.pdf">
   <front>
     <title>Measurement and evaluation of visibility experiments for powered industrial vehicles</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7837"/>
-    <seriesInfo name="NIST" value="NIST IR 7837"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
-    <author fullname="LiPeng Liang" initials="L.P." surname="Liang"/>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
+    <author fullname="LiPeng Liang" initials="L.P." surname="Liang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7837"/>
+  <seriesInfo name="NIST" value="NIST IR 7837"/>
 </reference>

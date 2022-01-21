@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6791" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6791.pdf">
   <front>
     <title>Workshop on standards for biomedical materials and devices, June 13-14, 2001</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6791"/>
-    <seriesInfo name="NIST" value="NIST IR 6791"/>
-    <author fullname="Dale Hall" initials="D." surname="Hall"/>
-    <author fullname="John Tesk" initials="J." surname="Tesk"/>
+    <author fullname="Dale Hall" initials="D." surname="Hall">
+      <organization/>
+    </author>
+    <author fullname="John Tesk" initials="J." surname="Tesk">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6791"/>
+  <seriesInfo name="NIST" value="NIST IR 6791"/>
 </reference>

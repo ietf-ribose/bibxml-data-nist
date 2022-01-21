@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.250-83r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-83r1.pdf">
   <front>
     <title>Calibration of Hygrometers with the Hybrid Humidity Generator</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-83r1"/>
-    <seriesInfo name="NIST" value="NIST SP 250-83r1"/>
-    <author surname="Meyer">
+    <author initials="CW" surname="Meyer">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Herman">
+    <author initials="T" surname="Herman">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Miller">
+    <author initials="WW" surname="Miller">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="September" day="23"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-83r1"/>
+  <seriesInfo name="NIST" value="NIST SP 250-83r1"/>
 </reference>

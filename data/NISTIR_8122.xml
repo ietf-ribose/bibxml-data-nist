@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8122" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8122.pdf">
   <front>
     <title>STEP File Analyzer User's Guide (Version 3)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8122"/>
-    <seriesInfo name="NIST" value="NIST IR 8122"/>
     <author fullname="Robert Lipman" initials="R." surname="Lipman">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8122"/>
+  <seriesInfo name="NIST" value="NIST IR 8122"/>
 </reference>

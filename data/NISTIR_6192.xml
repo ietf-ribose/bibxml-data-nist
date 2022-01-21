@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6192" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6192.pdf">
   <front>
     <title>A revised model for role-based access control</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6192"/>
-    <seriesInfo name="NIST" value="NIST IR 6192"/>
-    <author surname="Jansen"/>
+    <author initials="WA" surname="Jansen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6192"/>
+  <seriesInfo name="NIST" value="NIST IR 6192"/>
 </reference>

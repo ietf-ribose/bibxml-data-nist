@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.91" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook91.pdf">
   <front>
     <title>Experimental statistics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.91"/>
-    <seriesInfo name="NIST" value="NBS HB 91"/>
-    <author fullname="MaryGibbons Natrella" initials="M.G." surname="Natrella"/>
+    <author fullname="MaryGibbons Natrella" initials="M.G." surname="Natrella">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.91"/>
+  <seriesInfo name="NIST" value="NBS HB 91"/>
 </reference>

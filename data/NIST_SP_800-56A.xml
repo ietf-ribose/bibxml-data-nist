@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-56a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-56a.pdf">
   <front>
     <title>Recommendation for pair-wise key establishment schemes using discrete logarithm cryptography</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56a"/>
-    <seriesInfo name="NIST" value="NIST SP 800-56a"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56a"/>
+  <seriesInfo name="NIST" value="NIST SP 800-56a"/>
 </reference>

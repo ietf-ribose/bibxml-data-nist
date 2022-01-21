@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6308" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6308.pdf">
   <front>
     <title>Analytic solution for a non-axisymmetric isothermal dendrite</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6308"/>
-    <seriesInfo name="NIST" value="NIST IR 6308"/>
-    <author surname="McFadden"/>
-    <author surname="Coriell"/>
-    <author surname="Sekerka"/>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
+    <author initials="SR" surname="Coriell">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Sekerka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6308"/>
+  <seriesInfo name="NIST" value="NIST IR 6308"/>
 </reference>

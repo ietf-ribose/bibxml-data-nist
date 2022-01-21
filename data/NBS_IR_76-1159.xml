@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1159.pdf">
   <front>
     <title>Fatigue and weatherability studies of aramid-fiber rope slings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1159"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1159"/>
-    <author fullname="Nixon Halsey" initials="N." surname="Halsey"/>
-    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin"/>
+    <author fullname="Nixon Halsey" initials="N." surname="Halsey">
+      <organization/>
+    </author>
+    <author fullname="Leonard Mordfin" initials="L." surname="Mordfin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1159"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1159"/>
 </reference>

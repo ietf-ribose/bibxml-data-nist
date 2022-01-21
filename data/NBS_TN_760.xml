@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.760" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote760.pdf">
   <front>
     <title>Description of the magnetic tape version of the bulletin of thermodynamics and thermochemistry, no. 14 (1971)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.760"/>
-    <seriesInfo name="NIST" value="NBS TN 760"/>
-    <author fullname="Robert McClenon" initials="R." surname="McClenon"/>
+    <author fullname="Robert McClenon" initials="R." surname="McClenon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.760"/>
+  <seriesInfo name="NIST" value="NBS TN 760"/>
 </reference>

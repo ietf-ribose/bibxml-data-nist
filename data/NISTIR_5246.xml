@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5246" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5246.pdf">
   <front>
     <title>Performance of 13-scale model precast concrete beam-column connections subjected to cyclic inelastic loads</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5246"/>
-    <seriesInfo name="NIST" value="NIST IR 5246"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5246"/>
+  <seriesInfo name="NIST" value="NIST IR 5246"/>
 </reference>

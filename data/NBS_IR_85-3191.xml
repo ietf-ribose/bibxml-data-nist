@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3191" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3191.pdf">
   <front>
     <title>Institute for Materials Science and Engineering metallurgy :technical activities 1985</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3191"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3191"/>
-    <author surname="Pugh"/>
-    <author surname="early"/>
+    <author initials="EN" surname="Pugh">
+      <organization/>
+    </author>
+    <author initials="JG" surname="early">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3191"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3191"/>
 </reference>

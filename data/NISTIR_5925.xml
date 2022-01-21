@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5925" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5925.pdf">
   <front>
     <title>Water leakage of elevator doors with application to building fire suppression</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5925"/>
-    <seriesInfo name="NIST" value="NIST IR 5925"/>
-    <author fullname="John Klote" initials="J." surname="Klote"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
+    <author fullname="John Klote" initials="H" surname="Klote">
+      <organization/>
+    </author>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5925"/>
+  <seriesInfo name="NIST" value="NIST IR 5925"/>
 </reference>

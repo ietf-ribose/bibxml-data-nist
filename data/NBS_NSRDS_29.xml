@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.29" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds29.pdf">
   <front>
     <title>Photon cross sections, attenuation coefficients, and energy absorption coefficients from 10 keV to 100 GeV</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.29"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 29"/>
-    <author surname="Hubbell"/>
+    <author initials="JH" surname="Hubbell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.29"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 29"/>
 </reference>

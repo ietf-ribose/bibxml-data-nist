@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8120" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8120.pdf">
   <front>
     <title>A Guide to United States Imported Motor Vehicle Equipment and Parts Compliance Requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8120"/>
-    <seriesInfo name="NIST" value="NIST IR 8120"/>
     <author fullname="Karen Reczek" initials="K." surname="Reczek">
       <organization>Associate Director for Laboratory Programs</organization>
     </author>
-    <author fullname="Lisa Benson" initials="L." surname="Benson">
+    <author fullname="Lisa Benson" initials="M" surname="Benson">
       <organization>Associate Director for Laboratory Programs</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8120"/>
+  <seriesInfo name="NIST" value="NIST IR 8120"/>
 </reference>

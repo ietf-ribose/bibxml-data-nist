@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.233" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub233.pdf">
   <front>
     <title>Units of weight and measure :Definitions and tables of equivalents/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.233"/>
-    <seriesInfo name="NIST" value="NBS MP 233"/>
-    <author surname="Judson"/>
+    <author initials="LV" surname="Judson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.233"/>
+  <seriesInfo name="NIST" value="NBS MP 233"/>
 </reference>

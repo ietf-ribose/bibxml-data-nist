@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.135" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular135.pdf">
   <front>
     <title>Letter Circular 135:general report of the work of the railroad track scale testing service of the Bureau of Standards July 1, 1923, to June 30, 1924</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.135"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 135"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1924"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.135"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 135"/>
 </reference>

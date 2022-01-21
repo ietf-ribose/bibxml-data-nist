@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4733" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4733.pdf">
   <front>
     <title>Spectral analysis on a PC</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4733"/>
-    <seriesInfo name="NIST" value="NIST IR 4733"/>
-    <author fullname="David Hess" initials="D." surname="Hess"/>
+    <author fullname="David Hess" initials="E" surname="Hess">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4733"/>
+  <seriesInfo name="NIST" value="NIST IR 4733"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-195" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-195.pdf">
   <front>
     <title>North American ISDN Users' Forum agreements on integrated services digital network</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-195"/>
-    <seriesInfo name="NIST" value="NIST SP 500-195"/>
-    <author fullname="Shukri Wakid" initials="S." surname="Wakid"/>
-    <author fullname="Kathleen Roberts" initials="K." surname="Roberts"/>
+    <author fullname="Shukri Wakid" initials="A" surname="Wakid">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Roberts" initials="M" surname="Roberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-195"/>
+  <seriesInfo name="NIST" value="NIST SP 500-195"/>
 </reference>

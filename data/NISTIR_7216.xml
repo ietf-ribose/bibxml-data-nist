@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7216" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7216.pdf">
   <front>
     <title>A simulation study of a hierarchical, rule-based method for system-level fault detection and diagnostics in HVAC systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7216"/>
-    <seriesInfo name="NIST" value="NIST IR 7216"/>
-    <author fullname="Jeffery Schein" initials="J." surname="Schein"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
+    <author fullname="Jeffery Schein" initials="J." surname="Schein">
+      <organization/>
+    </author>
+    <author fullname="Steven Bushby" initials="S." surname="Bushby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7216"/>
+  <seriesInfo name="NIST" value="NIST IR 7216"/>
 </reference>

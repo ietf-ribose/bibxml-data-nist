@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.800-126" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-126.pdf">
   <front>
     <title>The technical specification for the Security Content Automation Protocol (SCAP) :SCAP version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-126"/>
-    <seriesInfo name="NIST" value="NIST SP 800-126"/>
-    <author surname="Quinn"/>
-    <author surname="Waltermire"/>
-    <author surname="Johnson"/>
-    <author surname="Scarfone"/>
-    <author surname="Banghart"/>
+    <author initials="SD" surname="Quinn">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Waltermire">
+      <organization/>
+    </author>
+    <author initials="CS" surname="Johnson">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Scarfone">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Banghart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-126"/>
+  <seriesInfo name="NIST" value="NIST SP 800-126"/>
 </reference>

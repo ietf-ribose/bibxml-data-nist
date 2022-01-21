@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4568" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4568.pdf">
   <front>
     <title>Comparison of finite element and analytic calculations of the resonant modes and frequencies of a thick shell sphere</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4568"/>
-    <seriesInfo name="NIST" value="NIST IR 4568"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Hans Hansen" initials="H." surname="Hansen"/>
-    <author fullname="Miguel Huerta-Garnica" initials="M." surname="Huerta-Garnica"/>
-    <author fullname="Clayton Teague" initials="C." surname="Teague"/>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Hans Hansen" initials="J" surname="Hansen">
+      <organization/>
+    </author>
+    <author fullname="Miguel Huerta-Garnica" initials="M." surname="Huerta-Garnica">
+      <organization/>
+    </author>
+    <author fullname="Clayton Teague" initials="E" surname="Teague">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4568"/>
+  <seriesInfo name="NIST" value="NIST IR 4568"/>
 </reference>

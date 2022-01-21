@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.250-83" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-83.pdf">
   <front>
     <title>Calibration of hygrometers with the hybrid humidity generator</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-83"/>
-    <seriesInfo name="NIST" value="NIST SP 250-83"/>
-    <author surname="Meyer"/>
-    <author surname="Hodges"/>
-    <author surname="Huang"/>
-    <author surname="Miller"/>
-    <author surname="Ripple"/>
-    <author surname="Scace"/>
+    <author initials="CW" surname="Meyer">
+      <organization/>
+    </author>
+    <author initials="JT" surname="Hodges">
+      <organization/>
+    </author>
+    <author initials="PH" surname="Huang">
+      <organization/>
+    </author>
+    <author initials="WW" surname="Miller">
+      <organization/>
+    </author>
+    <author initials="DC" surname="Ripple">
+      <organization/>
+    </author>
+    <author initials="GE" surname="Scace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-83"/>
+  <seriesInfo name="NIST" value="NIST SP 250-83"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.TIBM.57" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TIBM/nbstibm57.pdf">
   <front>
     <title>Weathering properties of building brick</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TIBM.57"/>
-    <seriesInfo name="NIST" value="NBS TIBM 57"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1937"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TIBM.57"/>
+  <seriesInfo name="NIST" value="NBS TIBM 57"/>
 </reference>

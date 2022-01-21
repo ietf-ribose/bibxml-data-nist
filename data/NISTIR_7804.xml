@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.7804" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7804.pdf">
   <front>
     <title>Technical evaluation, testing, and validatiaon of the usability of electronic health records</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7804"/>
-    <seriesInfo name="NIST" value="NIST IR 7804"/>
-    <author fullname="Svetlana Lowry" initials="S." surname="Lowry"/>
-    <author fullname="Matthew Quinn" initials="M." surname="Quinn"/>
-    <author fullname="Mala Ramaiah" initials="M." surname="Ramaiah"/>
-    <author fullname="Robert Schumacher" initials="R." surname="Schumacher"/>
-    <author fullname="Emily Patterson" initials="E." surname="Patterson"/>
-    <author fullname="Robert North" initials="R." surname="North"/>
-    <author fullname="Jiajie Zhang" initials="J." surname="Zhang"/>
-    <author fullname="Michael Gibbons" initials="M." surname="Gibbons"/>
-    <author fullname="Patricia Abbott" initials="P." surname="Abbott"/>
+    <author fullname="Svetlana Lowry" initials="Z" surname="Lowry">
+      <organization/>
+    </author>
+    <author fullname="Matthew Quinn" initials="T" surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="Mala Ramaiah" initials="M." surname="Ramaiah">
+      <organization/>
+    </author>
+    <author fullname="Robert Schumacher" initials="M" surname="Schumacher">
+      <organization/>
+    </author>
+    <author fullname="Emily Patterson" initials="S" surname="Patterson">
+      <organization/>
+    </author>
+    <author fullname="Robert North" initials="R." surname="North">
+      <organization/>
+    </author>
+    <author fullname="Jiajie Zhang" initials="J." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="Michael Gibbons" initials="C" surname="Gibbons">
+      <organization/>
+    </author>
+    <author fullname="Patricia Abbott" initials="P." surname="Abbott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7804"/>
+  <seriesInfo name="NIST" value="NIST IR 7804"/>
 </reference>

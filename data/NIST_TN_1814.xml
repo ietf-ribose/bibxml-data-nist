@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1814" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1814.pdf">
   <front>
     <title>Building Industry Reporting and Design for Sustainability (BIRDS) Technical Manual and User Guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1814"/>
-    <seriesInfo name="NIST" value="NIST TN 1814"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt">
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1814"/>
+  <seriesInfo name="NIST" value="NIST TN 1814"/>
 </reference>

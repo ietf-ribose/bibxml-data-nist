@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1854" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1854.pdf">
   <front>
     <title>Monitoring techniques for the Net-Zero Energy Residential Test Facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1854"/>
-    <seriesInfo name="NIST" value="NIST TN 1854"/>
     <author fullname="Mark Davis" initials="M." surname="Davis">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2014" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1854"/>
+  <seriesInfo name="NIST" value="NIST TN 1854"/>
 </reference>

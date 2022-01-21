@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5377" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5377.pdf">
   <front>
     <title>The piggyback balance experiment; an illustration of Archimedes' principles and Newton's third law</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5377"/>
-    <seriesInfo name="NIST" value="NIST IR 5377"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5377"/>
+  <seriesInfo name="NIST" value="NIST IR 5377"/>
 </reference>

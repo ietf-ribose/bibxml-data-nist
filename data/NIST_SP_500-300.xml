@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.500-300" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-300.pdf">
   <front>
     <title>JPEG 2000 CODEC Certification Guidance for 1000 ppi Fingerprint Friction Ridge Imagery</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-300"/>
-    <seriesInfo name="NIST" value="NIST SP 500-300"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Libert" initials="J." surname="Libert">
+    <author fullname="John Libert" initials="M" surname="Libert">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Garris" initials="M." surname="Garris">
+    <author fullname="Michael Garris" initials="D" surname="Garris">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Grantham" initials="J." surname="Grantham">
+    <author fullname="John Grantham" initials="D" surname="Grantham">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Frederick Byers" initials="F." surname="Byers">
+    <author fullname="Frederick Byers" initials="R" surname="Byers">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-300"/>
+  <seriesInfo name="NIST" value="NIST SP 500-300"/>
 </reference>

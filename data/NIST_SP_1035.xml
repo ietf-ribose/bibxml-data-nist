@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.1035" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1035.pdf">
   <front>
     <title>Coatings for corrosion protection</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1035"/>
-    <seriesInfo name="NIST" value="NIST SP 1035"/>
-    <author fullname="Charles Smith" initials="C." surname="Smith"/>
-    <author fullname="Charles Smith" initials="C." surname="Smith"/>
-    <author fullname="Tom Siewert" initials="T." surname="Siewert"/>
-    <author fullname="Brajendra Mishra" initials="B." surname="Mishra"/>
-    <author fullname="David Olson" initials="D." surname="Olson"/>
-    <author fullname="Angelique Lassiegne" initials="A." surname="Lassiegne"/>
+    <author fullname="Charles Smith" initials="C." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Charles Smith" initials="C." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Tom Siewert" initials="T." surname="Siewert">
+      <organization/>
+    </author>
+    <author fullname="Brajendra Mishra" initials="B." surname="Mishra">
+      <organization/>
+    </author>
+    <author fullname="David Olson" initials="D." surname="Olson">
+      <organization/>
+    </author>
+    <author fullname="Angelique Lassiegne" initials="A." surname="Lassiegne">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1035"/>
+  <seriesInfo name="NIST" value="NIST SP 1035"/>
 </reference>

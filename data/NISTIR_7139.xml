@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7139" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7139.pdf">
   <front>
     <title>Evaluation of salivaoral fluid as an alternate drug testing specimen</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7139"/>
-    <seriesInfo name="NIST" value="NIST IR 7139"/>
-    <author fullname="Dennis Crouch" initials="D." surname="Crouch"/>
-    <author fullname="Jayme Day" initials="J." surname="Day"/>
-    <author fullname="Jakub Baudys" initials="J." surname="Baudys"/>
+    <author fullname="Dennis Crouch" initials="J" surname="Crouch">
+      <organization/>
+    </author>
+    <author fullname="Jayme Day" initials="J." surname="Day">
+      <organization/>
+    </author>
+    <author fullname="Jakub Baudys" initials="J." surname="Baudys">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7139"/>
+  <seriesInfo name="NIST" value="NIST IR 7139"/>
 </reference>

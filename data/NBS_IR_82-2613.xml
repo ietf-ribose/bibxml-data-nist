@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2613" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2613.pdf">
   <front>
     <title>Materials research for the clean utilization of coal :quarterly progress report July</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2613"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2613"/>
-    <author surname="Schneider"/>
+    <author initials="SJ" surname="Schneider">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2613"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2613"/>
 </reference>

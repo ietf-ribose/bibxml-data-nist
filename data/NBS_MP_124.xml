@@ -1,12 +1,18 @@
 <reference anchor="NBS.MP.124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub124.pdf">
   <front>
     <title>Paper pulp from cereal straws by a modified sulfate process</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.124"/>
-    <seriesInfo name="NIST" value="NBS MP 124"/>
-    <author surname="Acree"/>
-    <author surname="Sweeney"/>
-    <author surname="Whittemore"/>
-    <author fullname="Baker Wingfield" initials="B." surname="Wingfield"/>
+    <author initials="SF" surname="Acree">
+      <organization/>
+    </author>
+    <author initials="OR" surname="Sweeney">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Whittemore">
+      <organization/>
+    </author>
+    <author fullname="Baker Wingfield" initials="B." surname="Wingfield">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.124"/>
+  <seriesInfo name="NIST" value="NBS MP 124"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4766" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4766.pdf">
   <front>
     <title>Optimization of neural network topology and information content using Boltzmann methods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4766"/>
-    <seriesInfo name="NIST" value="NIST IR 4766"/>
-    <author surname="Wilson"/>
-    <author surname="Omidvar"/>
+    <author initials="CL" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="OM" surname="Omidvar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4766"/>
+  <seriesInfo name="NIST" value="NIST IR 4766"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.AMS.600-4" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-4.pdf">
   <front>
     <title>Network charter: Manufacturing USA program (2018)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-4"/>
-    <seriesInfo name="NIST" value="NIST AMS 600-4"/>
-    <author fullname="Michael Molnar" initials="M." surname="Molnar">
+    <author fullname="Michael Molnar" initials="F" surname="Molnar">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-4"/>
+  <seriesInfo name="NIST" value="NIST AMS 600-4"/>
 </reference>

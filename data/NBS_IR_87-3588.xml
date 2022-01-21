@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3588" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3588.pdf">
   <front>
     <title>RADCNBS international workshop moisture measurement and control for microelectronics (IV) :proceedings of the RADCNBS workshop held at the National Bureau of Standards Gaithersburg, MD November 12-14, 1986</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3588"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3588"/>
-    <author fullname="Didier Kane" initials="D." surname="Kane"/>
-    <author fullname="Benjamin Moore" initials="B." surname="Moore"/>
-    <author fullname="Janes Walters" initials="J." surname="Walters"/>
+    <author fullname="Didier Kane" initials="D." surname="Kane">
+      <organization/>
+    </author>
+    <author fullname="Benjamin Moore" initials="A" surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="Janes Walters" initials="W" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3588"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3588"/>
 </reference>

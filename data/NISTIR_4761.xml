@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4761" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4761.pdf">
   <front>
     <title>The Federal move to metric:Public Law, DOC, and NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4761"/>
-    <seriesInfo name="NIST" value="NIST IR 4761"/>
-    <author fullname="Dennis Swyt" initials="D." surname="Swyt"/>
+    <author fullname="Dennis Swyt" initials="A" surname="Swyt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4761"/>
+  <seriesInfo name="NIST" value="NIST IR 4761"/>
 </reference>

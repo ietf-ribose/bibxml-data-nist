@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2032r1" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2032r1.pdf">
   <front>
     <title>Building for Environmental and Economic Sustainability (BEES) Online 2.1 technical manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2032r1"/>
-    <seriesInfo name="NIST" value="NIST TN 2032r1"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2032r1"/>
+  <seriesInfo name="NIST" value="NIST TN 2032r1"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.5785" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5785.pdf">
   <front>
     <title>Distribution of mail by destination at the San Francisco, Los Angeles, and Baltimore post offices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5785"/>
-    <seriesInfo name="NIST" value="NBS RPT 5785"/>
-    <author fullname="Arthur Newman" initials="A." surname="Newman"/>
+    <author fullname="Arthur Newman" initials="E" surname="Newman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5785"/>
+  <seriesInfo name="NIST" value="NBS RPT 5785"/>
 </reference>

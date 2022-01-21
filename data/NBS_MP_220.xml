@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.220" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub220.pdf">
   <front>
     <title>Annual Report 1956 National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.220"/>
-    <seriesInfo name="NIST" value="NBS MP 220"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.220"/>
+  <seriesInfo name="NIST" value="NBS MP 220"/>
 </reference>

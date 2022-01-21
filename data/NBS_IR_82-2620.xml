@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2620.pdf">
   <front>
     <title>Annual report 1982 :Center for Analytical Chemistry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2620"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2620"/>
-    <author surname="Reimann"/>
-    <author surname="Velapoldi"/>
-    <author surname="Taylor"/>
+    <author initials="CW" surname="Reimann">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Velapoldi">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2620"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2620"/>
 </reference>

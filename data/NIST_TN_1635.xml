@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1635" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1635.pdf">
   <front>
     <title>A case study of a community affected by the witch and guejito fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1635"/>
-    <seriesInfo name="NIST" value="NIST TN 1635"/>
-    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
-    <author fullname="William Mell" initials="W." surname="Mell"/>
+    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
+      <organization/>
+    </author>
+    <author fullname="William Mell" initials="E" surname="Mell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1635"/>
+  <seriesInfo name="NIST" value="NIST TN 1635"/>
 </reference>

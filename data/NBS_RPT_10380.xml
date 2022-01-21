@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10380" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10380.pdf">
   <front>
     <title>Truck tire noise investigation:</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10380"/>
-    <seriesInfo name="NIST" value="NBS RPT 10380"/>
-    <author fullname="WilliamA,Jr Leasure" initials="W.A.J." surname="Leasure"/>
-    <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
+    <author fullname="WilliamA,Jr Leasure" initials="W.A.J." surname="Leasure">
+      <organization/>
+    </author>
+    <author fullname="Daniel Flynn" initials="R" surname="Flynn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10380"/>
+  <seriesInfo name="NIST" value="NBS RPT 10380"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.831e1999" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication831e1999.pdf">
   <front>
     <title>Directory of professionaltrade organization laboratory accreditationdesignation programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.831e1999"/>
-    <seriesInfo name="NIST" value="NIST SP 831e1999"/>
-    <author fullname="Charles Hyer" initials="C." surname="Hyer"/>
-    <author fullname="Charles Hyer" initials="C." surname="Hyer"/>
+    <author fullname="Charles Hyer" initials="W" surname="Hyer">
+      <organization/>
+    </author>
+    <author fullname="Charles Hyer" initials="W" surname="Hyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.831e1999"/>
+  <seriesInfo name="NIST" value="NIST SP 831e1999"/>
 </reference>

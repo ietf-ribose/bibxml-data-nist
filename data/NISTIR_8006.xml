@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8006" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8006.pdf">
   <front>
     <title>NIST cloud computing forensic science challenges</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8006"/>
-    <seriesInfo name="NIST" value="NIST IR 8006"/>
     <author fullname="Martin Herman" initials="M." surname="Herman">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -12,10 +10,10 @@
     <author fullname="AhsenMichael Salim" initials="A.M." surname="Salim">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Robert Jackson" initials="R." surname="Jackson">
+    <author fullname="Robert Jackson" initials="H" surname="Jackson">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mark Hurst" initials="M." surname="Hurst">
+    <author fullname="Mark Hurst" initials="R" surname="Hurst">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Ross Leo" initials="R." surname="Leo">
@@ -24,7 +22,7 @@
     <author fullname="Richard Lee" initials="R." surname="Lee">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Nancy Landreville" initials="N." surname="Landreville">
+    <author fullname="Nancy Landreville" initials="M" surname="Landreville">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="AnandKumar Mishra" initials="A.K." surname="Mishra">
@@ -48,4 +46,6 @@
     </author>
     <date year="2020" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8006"/>
+  <seriesInfo name="NIST" value="NIST IR 8006"/>
 </reference>

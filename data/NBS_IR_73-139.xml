@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-139" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-139.pdf">
   <front>
     <title>A preliminary investigation of the effect of humidity on the ignition, heat release, and smoke density tests for typical room finishing materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-139"/>
-    <seriesInfo name="NIST" value="NBS IR 73-139"/>
-    <author surname="Parker"/>
-    <author surname="Brackett"/>
-    <author surname="Willard"/>
-    <author surname="Zile"/>
+    <author initials="WJ" surname="Parker">
+      <organization/>
+    </author>
+    <author initials="DC" surname="Brackett">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Willard">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Zile">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-139"/>
+  <seriesInfo name="NIST" value="NBS IR 73-139"/>
 </reference>

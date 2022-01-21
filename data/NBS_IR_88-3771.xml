@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3771" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3771.pdf">
   <front>
     <title>Small flame ignitability and flammability behavior of upholstered furniture materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3771"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3771"/>
-    <author fullname="John Krasny" initials="J." surname="Krasny"/>
-    <author fullname="Dingyi Huang" initials="D." surname="Huang"/>
+    <author fullname="John Krasny" initials="F" surname="Krasny">
+      <organization/>
+    </author>
+    <author fullname="Dingyi Huang" initials="D." surname="Huang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3771"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3771"/>
 </reference>

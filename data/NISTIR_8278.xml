@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8278" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8278.pdf">
   <front>
     <title>National Online Informative References (OLIR) Program: Program Overview and OLIR Uses</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8278"/>
-    <seriesInfo name="NIST" value="NIST IR 8278"/>
     <author fullname="Nicole Keller" initials="N." surname="Keller">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Matthew Smith" initials="M." surname="Smith">
+    <author fullname="Matthew Smith" initials="C" surname="Smith">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Vincent Johnson" initials="V." surname="Johnson">
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="November" day="19"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8278"/>
+  <seriesInfo name="NIST" value="NIST IR 8278"/>
 </reference>

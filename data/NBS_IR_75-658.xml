@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-658" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-658.pdf">
   <front>
     <title>Electron microscopic observations of microcracking about indentations in aluminum oxide and silicone carbide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-658"/>
-    <seriesInfo name="NIST" value="NBS IR 75-658"/>
-    <author surname="Hockey"/>
-    <author surname="Lawn"/>
+    <author initials="BJ" surname="Hockey">
+      <organization/>
+    </author>
+    <author initials="BR" surname="Lawn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-658"/>
+  <seriesInfo name="NIST" value="NBS IR 75-658"/>
 </reference>

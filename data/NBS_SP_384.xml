@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.384" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication384.pdf">
   <front>
     <title>Annotated bibliography of the literature on resource sharing computer networks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.384"/>
-    <seriesInfo name="NIST" value="NBS SP 384"/>
-    <author fullname="Robert Blanc" initials="R." surname="Blanc"/>
-    <author surname="Cotton"/>
-    <author surname="Pyke"/>
-    <author surname="Watkins"/>
+    <author fullname="Robert Blanc" initials="P" surname="Blanc">
+      <organization/>
+    </author>
+    <author initials="IW" surname="Cotton">
+      <organization/>
+    </author>
+    <author initials="TN" surname="Pyke">
+      <organization/>
+    </author>
+    <author initials="SW" surname="Watkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.384"/>
+  <seriesInfo name="NIST" value="NBS SP 384"/>
 </reference>

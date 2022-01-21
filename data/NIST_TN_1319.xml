@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1319" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1319.pdf">
   <front>
     <title>Generation of standard electromagnetic fields in a TEM cell</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1319"/>
-    <seriesInfo name="NIST" value="NIST TN 1319"/>
-    <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
+    <author fullname="Motohisa Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1319"/>
+  <seriesInfo name="NIST" value="NIST TN 1319"/>
 </reference>

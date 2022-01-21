@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.85-3166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3166.pdf">
   <front>
     <title>Studies of porous metal coated surgical implants</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3166"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3166"/>
-    <author surname="Fraker"/>
-    <author surname="Ruff"/>
-    <author surname="Van Orden"/>
-    <author surname="Hahn"/>
-    <author surname="Bailey"/>
-    <author surname="Olson"/>
+    <author initials="AC" surname="Fraker">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
+    <author initials="AC" surname="Van Orden">
+      <organization/>
+    </author>
+    <author initials="H" surname="Hahn">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="Bailey">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Olson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3166"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3166"/>
 </reference>

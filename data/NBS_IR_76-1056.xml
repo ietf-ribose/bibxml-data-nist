@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.76-1056" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1056.pdf">
   <front>
     <title>Analysis of solar energy system for the GSA demonstration office building at Manchester, New Hampshire</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1056"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1056"/>
-    <author fullname="Tamami Kusuda" initials="T." surname="Kusuda"/>
-    <author fullname="Stanley Liu" initials="S." surname="Liu"/>
-    <author fullname="John Bean" initials="J." surname="Bean"/>
-    <author fullname="James Barnett" initials="J." surname="Barnett"/>
+    <author fullname="Tamami Kusuda" initials="T." surname="Kusuda">
+      <organization/>
+    </author>
+    <author fullname="Stanley Liu" initials="T" surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="John Bean" initials="W" surname="Bean">
+      <organization/>
+    </author>
+    <author fullname="James Barnett" initials="P" surname="Barnett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1056"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1056"/>
 </reference>

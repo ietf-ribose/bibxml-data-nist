@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.2268" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2268.pdf">
   <front>
     <title>Thermal conductivities of two specimens of ferrous alloys at temperatures from 100 degrees C to 700 degrees C</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2268"/>
-    <seriesInfo name="NIST" value="NBS RPT 2268"/>
-    <author fullname="Henry Robinson" initials="H." surname="Robinson"/>
-    <author surname="Katz"/>
+    <author fullname="Henry Robinson" initials="E" surname="Robinson">
+      <organization/>
+    </author>
+    <author initials="S" surname="Katz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2268"/>
+  <seriesInfo name="NIST" value="NBS RPT 2268"/>
 </reference>

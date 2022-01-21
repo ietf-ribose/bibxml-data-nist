@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6425" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6425.pdf">
   <front>
     <title>An information system to support calibration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6425"/>
-    <seriesInfo name="NIST" value="NIST IR 6425"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
+    <author fullname="Kevin Brady" initials="G" surname="Brady">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6425"/>
+  <seriesInfo name="NIST" value="NIST IR 6425"/>
 </reference>

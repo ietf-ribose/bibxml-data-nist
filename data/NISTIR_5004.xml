@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5004" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5004.pdf">
   <front>
     <title>Cryogenic mechanical testing of Al-Li alloys at NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5004"/>
-    <seriesInfo name="NIST" value="NIST IR 5004"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5004"/>
+  <seriesInfo name="NIST" value="NIST IR 5004"/>
 </reference>

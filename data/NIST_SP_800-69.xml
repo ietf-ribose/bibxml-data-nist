@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-69" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-69.pdf">
   <front>
     <title>Guidance for securing Microsoft Windows XP Home Edition :a NIST security configuration checklist</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-69"/>
-    <seriesInfo name="NIST" value="NIST SP 800-69"/>
-    <author surname="Kent">
+    <author initials="K" surname="Kent">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Souppaya">
+    <author initials="MP" surname="Souppaya">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Connor">
+    <author initials="J" surname="Connor">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-69"/>
+  <seriesInfo name="NIST" value="NIST SP 800-69"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1064" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1064.pdf">
   <front>
     <title>Existing architectural information indexing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1064"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1064"/>
-    <author fullname="Robert Kapsch" initials="R." surname="Kapsch"/>
+    <author fullname="Robert Kapsch" initials="J" surname="Kapsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1064"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1064"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-181" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-181.pdf">
   <front>
     <title>Fine structure in thermal growth patterns of bacteria by microcalorimetry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-181"/>
-    <seriesInfo name="NIST" value="NBS IR 73-181"/>
-    <author surname="Staples"/>
-    <author surname="Prosen"/>
-    <author surname="Goldberg"/>
+    <author initials="BR" surname="Staples">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Prosen">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Goldberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-181"/>
+  <seriesInfo name="NIST" value="NBS IR 73-181"/>
 </reference>

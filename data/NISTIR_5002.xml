@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5002" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5002.pdf">
   <front>
     <title>TEMreverberating chamber electromagnetic radiation test facility at Rome laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5002"/>
-    <seriesInfo name="NIST" value="NIST IR 5002"/>
-    <author fullname="Dennis Camell" initials="D." surname="Camell"/>
+    <author fullname="Dennis Camell" initials="G" surname="Camell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5002"/>
+  <seriesInfo name="NIST" value="NIST IR 5002"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1800-21" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-21.pdf">
   <front>
     <title>Mobile Device Security: Corporate-Owned Personally-Enabled (COPE)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-21"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-21"/>
-    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+    <author fullname="Joshua Franklin" initials="M" surname="Franklin">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Gema Howell" initials="G." surname="Howell">
@@ -21,13 +19,13 @@
     <author fullname="Behnam Shariati" initials="B." surname="Shariati">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jason Ajmo" initials="J." surname="Ajmo">
+    <author fullname="Jason Ajmo" initials="G" surname="Ajmo">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Christopher Brown" initials="C." surname="Brown">
+    <author fullname="Christopher Brown" initials="J" surname="Brown">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Spike Dog" initials="S." surname="Dog">
+    <author fullname="Spike Dog" initials="E" surname="Dog">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Frank Javar" initials="F." surname="Javar">
@@ -36,7 +34,7 @@
     <author fullname="Michael Peck" initials="M." surname="Peck">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Kenneth Sandlin" initials="K." surname="Sandlin">
+    <author fullname="Kenneth Sandlin" initials="F" surname="Sandlin">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -44,4 +42,6 @@
     </author>
     <date year="2020" month="September" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-21"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-21"/>
 </reference>

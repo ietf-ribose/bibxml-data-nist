@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1200-18" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-18.pdf">
   <front>
     <title>GC/MS Measurement of Nanomaterial-Induced DNA Modifications in Isolated DNA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-18"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-18"/>
-    <author fullname="Bryant Nelson" initials="B." surname="Nelson">
+    <author fullname="Bryant Nelson" initials="C" surname="Nelson">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Elijah Petersen" initials="E." surname="Petersen">
+    <author fullname="Elijah Petersen" initials="J" surname="Petersen">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Pawel Jaruga" initials="P." surname="Jaruga">
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-18"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-18"/>
 </reference>

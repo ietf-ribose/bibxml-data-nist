@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2718" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2718.pdf">
   <front>
     <title>A model of multiroom fire spread</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2718"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2718"/>
-    <author fullname="Takeyoshi Tanaka" initials="T." surname="Tanaka"/>
+    <author fullname="Takeyoshi Tanaka" initials="T." surname="Tanaka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2718"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2718"/>
 </reference>

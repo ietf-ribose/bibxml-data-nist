@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6536" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6536.pdf">
   <front>
     <title>High speed network applications and implications for fiberoptic and copper connections</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6536"/>
-    <seriesInfo name="NIST" value="NIST IR 6536"/>
-    <author fullname="Dean Collins" initials="D." surname="Collins"/>
-    <author fullname="John Antonishek" initials="J." surname="Antonishek"/>
-    <author fullname="Sean Sell" initials="S." surname="Sell"/>
-    <author fullname="Alan Mink" initials="A." surname="Mink"/>
+    <author fullname="Dean Collins" initials="D." surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="John Antonishek" initials="J." surname="Antonishek">
+      <organization/>
+    </author>
+    <author fullname="Sean Sell" initials="S." surname="Sell">
+      <organization/>
+    </author>
+    <author fullname="Alan Mink" initials="A." surname="Mink">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6536"/>
+  <seriesInfo name="NIST" value="NIST IR 6536"/>
 </reference>

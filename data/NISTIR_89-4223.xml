@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4223" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4223.pdf">
   <front>
     <title>Electrical design of the infraredultrasonic sensing for a robot gripper</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4223"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4223"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4223"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4223"/>
 </reference>

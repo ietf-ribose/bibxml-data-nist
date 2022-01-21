@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4226" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4226.pdf">
   <front>
     <title>A suprathreshold visibility meter to directly assess the conspicuity of office tasks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4226"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4226"/>
-    <author fullname="Gary Yonemura" initials="G." surname="Yonemura"/>
-    <author fullname="Karen Lister" initials="K." surname="Lister"/>
+    <author fullname="Gary Yonemura" initials="T" surname="Yonemura">
+      <organization/>
+    </author>
+    <author fullname="Karen Lister" initials="K." surname="Lister">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4226"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4226"/>
 </reference>

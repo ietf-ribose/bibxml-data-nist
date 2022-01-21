@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6569" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6569.pdf">
   <front>
     <title>Fair selection of jury panels from jury pools</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6569"/>
-    <seriesInfo name="NIST" value="NIST IR 6569"/>
-    <author fullname="James Blue" initials="J." surname="Blue"/>
+    <author fullname="James Blue" initials="L" surname="Blue">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6569"/>
+  <seriesInfo name="NIST" value="NIST IR 6569"/>
 </reference>

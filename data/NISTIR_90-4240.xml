@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4240" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4240.pdf">
   <front>
     <title>Architectures for future multigigabit lightwave networks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4240"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4240"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
+    <author fullname="William Burr" initials="E" surname="Burr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4240"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4240"/>
 </reference>

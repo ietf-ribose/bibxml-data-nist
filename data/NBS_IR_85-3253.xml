@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3253" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3253.pdf">
   <front>
     <title>A life-cycle cost data base for assessing acid deposition damage to common building materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3253"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3253"/>
-    <author fullname="Stepehn Weber" initials="S." surname="Weber"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
-    <author fullname="Matthew Wiener" initials="M." surname="Wiener"/>
+    <author fullname="Stepehn Weber" initials="F" surname="Weber">
+      <organization/>
+    </author>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
+    <author fullname="Matthew Wiener" initials="M." surname="Wiener">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3253"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3253"/>
 </reference>

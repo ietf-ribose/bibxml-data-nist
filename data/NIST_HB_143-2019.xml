@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.143-2019" target="https://nvlpubs.nist.gov/nistpubs/hb/2019/NIST.HB.143-2019.pdf">
   <front>
     <title>State weights and measures laboratories program handbook:6th edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.143-2019"/>
-    <seriesInfo name="NIST" value="NIST HB 143-2019"/>
     <author fullname="Elizabeth Gentry" initials="E." surname="Gentry">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.143-2019"/>
+  <seriesInfo name="NIST" value="NIST HB 143-2019"/>
 </reference>

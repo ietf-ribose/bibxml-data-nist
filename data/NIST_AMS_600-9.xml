@@ -1,12 +1,10 @@
 <reference anchor="NIST.AMS.600-9" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-9.pdf">
   <front>
     <title>Manufacturing USA Highlights Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-9"/>
-    <seriesInfo name="NIST" value="NIST AMS 600-9"/>
     <author fullname="Zahraha Brunner" initials="Z." surname="Brunner">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Frank Gayle" initials="F." surname="Gayle">
+    <author fullname="Frank Gayle" initials="W" surname="Gayle">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="November" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-9"/>
+  <seriesInfo name="NIST" value="NIST AMS 600-9"/>
 </reference>

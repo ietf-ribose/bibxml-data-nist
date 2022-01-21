@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.814" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication814.pdf">
   <front>
     <title>Interpretation of the SI for the United States and metric conversion policy for federal agencies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.814"/>
-    <seriesInfo name="NIST" value="NIST SP 814"/>
-    <author fullname="Barry Taylor" initials="B." surname="Taylor"/>
-    <author fullname="Barry Taylor" initials="B." surname="Taylor"/>
+    <author fullname="Barry Taylor" initials="N" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Barry Taylor" initials="N" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.814"/>
+  <seriesInfo name="NIST" value="NIST SP 814"/>
 </reference>

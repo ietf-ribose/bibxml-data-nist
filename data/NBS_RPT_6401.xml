@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.6401" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6401.pdf">
   <front>
     <title>Capacity tests of a remote air-cooled size B, Class I refrigerant condenser</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6401"/>
-    <seriesInfo name="NIST" value="NBS RPT 6401"/>
-    <author fullname="Jerome Drapeau" initials="J." surname="Drapeau"/>
-    <author fullname="Carl Phillips" initials="C." surname="Phillips"/>
+    <author fullname="Jerome Drapeau" initials="FJ" surname="Drapeau">
+      <organization/>
+    </author>
+    <author fullname="Carl Phillips" initials="W" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6401"/>
+  <seriesInfo name="NIST" value="NBS RPT 6401"/>
 </reference>

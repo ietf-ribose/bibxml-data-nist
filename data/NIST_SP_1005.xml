@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1005.pdf">
   <front>
     <title>SEAC programmable computer in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1005"/>
-    <seriesInfo name="NIST" value="NIST SP 1005"/>
-    <author fullname="Russell Kirsch" initials="R." surname="Kirsch"/>
-    <author fullname="Russell Kirsch" initials="R." surname="Kirsch"/>
+    <author fullname="Russell Kirsch" initials="A" surname="Kirsch">
+      <organization/>
+    </author>
+    <author fullname="Russell Kirsch" initials="A" surname="Kirsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1005"/>
+  <seriesInfo name="NIST" value="NIST SP 1005"/>
 </reference>

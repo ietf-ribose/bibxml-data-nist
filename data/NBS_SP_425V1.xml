@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.425v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication425v1.pdf">
   <front>
     <title>Nuclear cross sections and technology Volume I</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.425v1"/>
-    <seriesInfo name="NIST" value="NBS SP 425v1"/>
-    <author surname="Schrack"/>
-    <author surname="Bowman"/>
+    <author initials="RA" surname="Schrack">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Bowman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.425v1"/>
+  <seriesInfo name="NIST" value="NBS SP 425v1"/>
 </reference>

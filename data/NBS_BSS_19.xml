@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.19" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience19.pdf">
   <front>
     <title>A study of the variables involved in the saturating of roofing felts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.19"/>
-    <seriesInfo name="NIST" value="NBS BSS 19"/>
-    <author fullname="Sidney Greenfeld" initials="S." surname="Greenfeld"/>
+    <author fullname="Sidney Greenfeld" initials="H" surname="Greenfeld">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.19"/>
+  <seriesInfo name="NIST" value="NBS BSS 19"/>
 </reference>

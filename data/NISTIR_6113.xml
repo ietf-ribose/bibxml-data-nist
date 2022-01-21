@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6113" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6113.pdf">
   <front>
     <title>Parallel algorithms for entropy-coding techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6113"/>
-    <seriesInfo name="NIST" value="NIST IR 6113"/>
-    <author fullname="Abdou Youssef" initials="A." surname="Youssef"/>
+    <author fullname="Abdou Youssef" initials="A." surname="Youssef">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6113"/>
+  <seriesInfo name="NIST" value="NIST IR 6113"/>
 </reference>

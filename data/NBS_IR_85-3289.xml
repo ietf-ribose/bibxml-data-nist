@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.85-3289" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3289.pdf">
   <front>
     <title>Wide plate crack arrest tests: instrumentation for dynamic strain measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3289"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3289"/>
-    <author surname="Danko"/>
-    <author fullname="R,III Low" initials="R.I." surname="Low"/>
-    <author surname="deWit"/>
-    <author surname="Fields"/>
+    <author initials="GA" surname="Danko">
+      <organization/>
+    </author>
+    <author fullname="R,III Low" initials="S" surname="Low">
+      <organization/>
+    </author>
+    <author initials="R" surname="deWit">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3289"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3289"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7256.pdf">
   <front>
     <title>A simulation and gaming architecture for manufacturing research, testing and traning</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7256"/>
-    <seriesInfo name="NIST" value="NIST IR 7256"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Sanjay, Jain" initials="S." surname="Jain"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Frank Riddick" initials="F." surname="Riddick"/>
+    <author fullname="Charles McLean" initials="R" surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Sanjay, Jain" initials="S." surname="Jain">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Frank Riddick" initials="H" surname="Riddick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7256"/>
+  <seriesInfo name="NIST" value="NIST IR 7256"/>
 </reference>

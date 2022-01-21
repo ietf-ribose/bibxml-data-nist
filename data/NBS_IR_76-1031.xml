@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1031" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1031.pdf">
   <front>
     <title>Shape dependence of light-scattering behavior of dust particles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1031"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1031"/>
-    <author surname="Zerull"/>
+    <author initials="R" surname="Zerull">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1031"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1031"/>
 </reference>

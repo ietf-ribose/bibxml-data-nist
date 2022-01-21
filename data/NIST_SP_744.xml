@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.744" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication744.pdf">
   <front>
     <title>Formation of lubricating films at elevated temperatures from the gas phase</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.744"/>
-    <seriesInfo name="NIST" value="NIST SP 744"/>
-    <author surname="Klaus"/>
-    <author surname="Klaus"/>
-    <author surname="Duda"/>
-    <author surname="Naidu"/>
+    <author initials="EE" surname="Klaus">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Klaus">
+      <organization/>
+    </author>
+    <author initials="JL" surname="Duda">
+      <organization/>
+    </author>
+    <author initials="SK" surname="Naidu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.744"/>
+  <seriesInfo name="NIST" value="NIST SP 744"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.211" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub211.pdf">
   <front>
     <title>American standard building code requirements for masonry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.211"/>
-    <seriesInfo name="NIST" value="NBS MP 211"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.211"/>
+  <seriesInfo name="NIST" value="NBS MP 211"/>
 </reference>

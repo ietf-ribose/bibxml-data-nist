@@ -1,12 +1,18 @@
 <reference anchor="NBS.HB.122" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook122.pdf">
   <front>
     <title>Noise emission measurements for regulatory purposes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.122"/>
-    <seriesInfo name="NIST" value="NBS HB 122"/>
-    <author surname="Flynn"/>
-    <author fullname="A,Jr Leasure" initials="A.J." surname="Leasure"/>
-    <author surname="Rubin"/>
-    <author surname="Cadoff"/>
+    <author initials="DR" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="A,Jr Leasure" initials="W" surname="Leasure">
+      <organization/>
+    </author>
+    <author initials="AI" surname="Rubin">
+      <organization/>
+    </author>
+    <author initials="MA" surname="Cadoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.122"/>
+  <seriesInfo name="NIST" value="NBS HB 122"/>
 </reference>

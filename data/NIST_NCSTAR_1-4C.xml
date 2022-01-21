@@ -1,10 +1,12 @@
 <reference anchor="NIST.NCSTAR.1-4c" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-4c.pdf">
   <front>
     <title>Fire alarm systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-4c"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-4c"/>
-    <author fullname="Robert Keough" initials="R." surname="Keough"/>
-    <author fullname="Raymond Grill" initials="R." surname="Grill"/>
+    <author fullname="Robert Keough" initials="J" surname="Keough">
+      <organization/>
+    </author>
+    <author fullname="Raymond Grill" initials="A" surname="Grill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-4c"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-4c"/>
 </reference>

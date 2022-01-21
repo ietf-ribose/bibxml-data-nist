@@ -1,15 +1,13 @@
 <reference anchor="NIST.AMS.300-4" target="http://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-4.pdf">
   <front>
     <title>Guide to industrial wireless systems deployments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-4"/>
-    <seriesInfo name="NIST" value="NIST AMS 300-4"/>
     <author fullname="Richard Candell" initials="R." surname="Candell">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Mohamed Hany" initials="M." surname="Hany">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Kang Lee" initials="K." surname="Lee">
+    <author fullname="Kang Lee" initials="B" surname="Lee">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Yongkang Liu" initials="Y." surname="Liu">
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-4"/>
+  <seriesInfo name="NIST" value="NIST AMS 300-4"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-976" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-976.pdf">
   <front>
     <title>Standards and measurement capabilities in the Kingdom of Saudi Arabia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-976"/>
-    <seriesInfo name="NIST" value="NBS IR 75-976"/>
-    <author fullname="Allan Bates" initials="A." surname="Bates"/>
+    <author fullname="Allan Bates" initials="A" surname="Bates">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-976"/>
+  <seriesInfo name="NIST" value="NBS IR 75-976"/>
 </reference>

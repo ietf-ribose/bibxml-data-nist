@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4214" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4214.pdf">
   <front>
     <title>Factors significant to precracking of fracture specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4214"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4214"/>
-    <author fullname="Charles Interrante" initials="C." surname="Interrante"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
+    <author fullname="Charles Interrante" initials="G" surname="Interrante">
+      <organization/>
+    </author>
+    <author fullname="James Filliben" initials="J" surname="Filliben">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4214"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4214"/>
 </reference>

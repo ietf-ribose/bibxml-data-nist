@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6598" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6598.pdf">
   <front>
     <title>NIST Center for Neutron Research, FY 2000 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6598"/>
-    <seriesInfo name="NIST" value="NIST IR 6598"/>
-    <author fullname="Michael Rowe" initials="M." surname="Rowe"/>
-    <author fullname="Ronald Cappelletti" initials="R." surname="Cappelletti"/>
-    <author fullname="Linda Clutter" initials="L." surname="Clutter"/>
+    <author fullname="Michael Rowe" initials="J" surname="Rowe">
+      <organization/>
+    </author>
+    <author fullname="Ronald Cappelletti" initials="L" surname="Cappelletti">
+      <organization/>
+    </author>
+    <author fullname="Linda Clutter" initials="K" surname="Clutter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6598"/>
+  <seriesInfo name="NIST" value="NIST IR 6598"/>
 </reference>

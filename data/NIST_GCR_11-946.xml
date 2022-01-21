@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.11-946" target="https://nvlpubs.nist.gov/nistpubs/gcr/2011/NIST.GCR.11-946.pdf">
   <front>
     <title>NIST NCPDP analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.11-946"/>
-    <seriesInfo name="NIST" value="NIST GCR 11-946"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2011" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.11-946"/>
+  <seriesInfo name="NIST" value="NIST GCR 11-946"/>
 </reference>

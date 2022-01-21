@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3730" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3730.pdf">
   <front>
     <title>Certification of NBS SRM 1691 :0.3-[mu]m-diameter polystyrene spheres</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3730"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3730"/>
-    <author fullname="Thomas Lettleri" initials="T." surname="Lettleri"/>
-    <author fullname="Gary Hembree" initials="G." surname="Hembree"/>
+    <author fullname="Thomas Lettleri" initials="R" surname="Lettleri">
+      <organization/>
+    </author>
+    <author fullname="Gary Hembree" initials="G" surname="Hembree">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3730"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3730"/>
 </reference>

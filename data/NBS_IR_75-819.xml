@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-819" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-819.pdf">
   <front>
     <title>Sensitive isotropic antenna with fiber-optic link to a conventional receiver</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-819"/>
-    <seriesInfo name="NIST" value="NBS IR 75-819"/>
-    <author surname="Larsen"/>
-    <author surname="Andrews"/>
-    <author surname="Baldwin"/>
+    <author initials="EB" surname="Larsen">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Andrews">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Baldwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-819"/>
+  <seriesInfo name="NIST" value="NBS IR 75-819"/>
 </reference>

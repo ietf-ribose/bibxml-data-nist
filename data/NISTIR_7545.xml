@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7545" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7545.pdf">
   <front>
     <title>An independent measurement system for testing automotive crash warning systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7545"/>
-    <seriesInfo name="NIST" value="NIST IR 7545"/>
-    <author fullname="Sandor Szabo" initials="S." surname="Szabo"/>
-    <author fullname="Joseph Falco" initials="J." surname="Falco"/>
-    <author fullname="Richard Norcross" initials="R." surname="Norcross"/>
+    <author fullname="Sandor Szabo" initials="S." surname="Szabo">
+      <organization/>
+    </author>
+    <author fullname="Joseph Falco" initials="J." surname="Falco">
+      <organization/>
+    </author>
+    <author fullname="Richard Norcross" initials="R." surname="Norcross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7545"/>
+  <seriesInfo name="NIST" value="NIST IR 7545"/>
 </reference>

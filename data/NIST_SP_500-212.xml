@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-212" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-212.pdf">
   <front>
     <title>Planning for the fiber distributed data interface (FDDI)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-212"/>
-    <seriesInfo name="NIST" value="NIST SP 500-212"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
+    <author fullname="William Burr" initials="E" surname="Burr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-212"/>
+  <seriesInfo name="NIST" value="NIST SP 500-212"/>
 </reference>

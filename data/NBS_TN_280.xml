@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.280" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote280.pdf">
   <front>
     <title>A peak AC-DC voltage comparator for use in a standards laboratory.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.280"/>
-    <seriesInfo name="NIST" value="NBS TN 280"/>
-    <author surname="Marzetta"/>
+    <author initials="LA" surname="Marzetta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.280"/>
+  <seriesInfo name="NIST" value="NBS TN 280"/>
 </reference>

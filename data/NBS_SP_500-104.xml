@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-104" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-104.pdf">
   <front>
     <title>Proceedings of the Computer Performance Evaluation Users Group (CPEUG) 19th Meeting</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-104"/>
-    <seriesInfo name="NIST" value="NBS SP 500-104"/>
-    <author fullname="Deborah Mobray" initials="D." surname="Mobray"/>
+    <author fullname="Deborah Mobray" initials="D." surname="Mobray">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-104"/>
+  <seriesInfo name="NIST" value="NBS SP 500-104"/>
 </reference>

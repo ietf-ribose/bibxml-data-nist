@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.1020-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1020-1.pdf">
   <front>
     <title>Consumer package labeling guide :selling by weight</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1020-1"/>
-    <seriesInfo name="NIST" value="NIST SP 1020-1"/>
-    <author fullname="Kathryn Dresser" initials="K." surname="Dresser"/>
+    <author fullname="Kathryn Dresser" initials="M" surname="Dresser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1020-1"/>
+  <seriesInfo name="NIST" value="NIST SP 1020-1"/>
 </reference>

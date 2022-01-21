@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.784" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication784.pdf">
   <front>
     <title>DOENIST Workshop on Common Architectures for Robotic Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.784"/>
-    <seriesInfo name="NIST" value="NIST SP 784"/>
-    <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
-    <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
+    <author fullname="Richard Quintero" initials="R." surname="Quintero">
+      <organization/>
+    </author>
+    <author fullname="Richard Quintero" initials="R." surname="Quintero">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.784"/>
+  <seriesInfo name="NIST" value="NIST SP 784"/>
 </reference>

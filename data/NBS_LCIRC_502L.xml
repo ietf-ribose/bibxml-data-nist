@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.502L" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular502L.pdf">
   <front>
     <title>Letter Circular 502L:heating equipment as related to low-cost housing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.502L"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 502L"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.502L"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 502L"/>
 </reference>

@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.5602" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5602.pdf">
   <front>
     <title>Interim testing artifact (ITA), a performance evaluation system for coordinate measuring machines (CMMs):user manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5602"/>
-    <seriesInfo name="NIST" value="NIST IR 5602"/>
-    <author surname="Singer"/>
-    <author surname="Land"/>
-    <author surname="Phillips"/>
-    <author surname="Sawyer"/>
-    <author surname="Borchardt"/>
-    <author surname="Caskey"/>
-    <author surname="Ward"/>
-    <author surname="Snoots"/>
-    <author surname="Faust"/>
+    <author initials="AT" surname="Singer">
+      <organization/>
+    </author>
+    <author initials="JL" surname="Land">
+      <organization/>
+    </author>
+    <author initials="SD" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="D" surname="Sawyer">
+      <organization/>
+    </author>
+    <author initials="B" surname="Borchardt">
+      <organization/>
+    </author>
+    <author initials="G" surname="Caskey">
+      <organization/>
+    </author>
+    <author initials="D" surname="Ward">
+      <organization/>
+    </author>
+    <author initials="P" surname="Snoots">
+      <organization/>
+    </author>
+    <author initials="B" surname="Faust">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5602"/>
+  <seriesInfo name="NIST" value="NIST IR 5602"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.400-71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-71.pdf">
   <front>
     <title>Differential capacitance-voltage profiling of Schottky barrier diodes for measuring implanted depth distributions in silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-71"/>
-    <seriesInfo name="NIST" value="NBS SP 400-71"/>
-    <author surname="Wilson"/>
-    <author surname="Jamba"/>
+    <author initials="RG" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="DM" surname="Jamba">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-71"/>
+  <seriesInfo name="NIST" value="NBS SP 400-71"/>
 </reference>

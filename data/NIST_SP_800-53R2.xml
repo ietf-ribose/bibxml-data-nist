@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-53r2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53r2.pdf">
   <front>
     <title>Recommended security controls for federal information systems and organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53r2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-53r2"/>
-    <author surname="Ross">
+    <author initials="R" surname="Ross">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Katzke">
+    <author initials="S" surname="Katzke">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Johnson">
+    <author initials="LA" surname="Johnson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Swanson">
+    <author initials="M" surname="Swanson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Stoneburner">
+    <author initials="G" surname="Stoneburner">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Rogers">
+    <author initials="G" surname="Rogers">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53r2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-53r2"/>
 </reference>

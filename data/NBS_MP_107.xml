@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.107" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub107.pdf">
   <front>
     <title>Safety code for brakes and brake testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.107"/>
-    <seriesInfo name="NIST" value="NBS MP 107"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1930"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.107"/>
+  <seriesInfo name="NIST" value="NBS MP 107"/>
 </reference>

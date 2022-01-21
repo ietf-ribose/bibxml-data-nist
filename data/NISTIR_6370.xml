@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6370" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6370.pdf">
   <front>
     <title>Benchmark experimental database for multiphase combustion model input and validation:characterization of the inlet combustion air</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6370"/>
-    <seriesInfo name="NIST" value="NIST IR 6370"/>
-    <author fullname="John Widmann" initials="J." surname="Widmann"/>
-    <author fullname="Rao Charagundla" initials="R." surname="Charagundla"/>
-    <author fullname="Cary Presser" initials="C." surname="Presser"/>
+    <author fullname="John Widmann" initials="F" surname="Widmann">
+      <organization/>
+    </author>
+    <author fullname="Rao Charagundla" initials="S" surname="Charagundla">
+      <organization/>
+    </author>
+    <author fullname="Cary Presser" initials="C." surname="Presser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6370"/>
+  <seriesInfo name="NIST" value="NIST IR 6370"/>
 </reference>

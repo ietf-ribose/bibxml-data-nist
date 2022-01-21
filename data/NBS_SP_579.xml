@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.579" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication579.pdf">
   <front>
     <title>Symposium on International Standards Information and ISONET</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.579"/>
-    <seriesInfo name="NIST" value="NBS SP 579"/>
-    <author fullname="Charles Phucas" initials="C." surname="Phucas"/>
+    <author fullname="Charles Phucas" initials="B" surname="Phucas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.579"/>
+  <seriesInfo name="NIST" value="NBS SP 579"/>
 </reference>

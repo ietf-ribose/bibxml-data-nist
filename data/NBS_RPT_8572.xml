@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8572" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8572.pdf">
   <front>
     <title>Report on Latin American travel (V) concerning Latin American standards:and standards for iron and steel Sept. 26</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8572"/>
-    <seriesInfo name="NIST" value="NBS RPT 8572"/>
-    <author fullname="LeRoy Wyman" initials="L." surname="Wyman"/>
+    <author fullname="LeRoy Wyman" initials="L" surname="Wyman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8572"/>
+  <seriesInfo name="NIST" value="NBS RPT 8572"/>
 </reference>

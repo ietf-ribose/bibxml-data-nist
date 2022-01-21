@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1109.pdf">
   <front>
     <title>Characterization of electrical ignition sources within television receivers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1109"/>
-    <seriesInfo name="NIST" value="NBS TN 1109"/>
-    <author fullname="George Rogers" initials="G." surname="Rogers"/>
+    <author fullname="George Rogers" initials="J" surname="Rogers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1109"/>
+  <seriesInfo name="NIST" value="NBS TN 1109"/>
 </reference>

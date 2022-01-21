@@ -1,16 +1,30 @@
 <reference anchor="NBS.IR.87-3630" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3630.pdf">
   <front>
     <title>Composite materials interface characterization</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3630"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3630"/>
-    <author surname="Wadley"/>
-    <author surname="Simmons"/>
-    <author surname="Clough"/>
-    <author surname="Biancaniello"/>
-    <author surname="Drescher-Krasicka"/>
-    <author surname="Rosen"/>
-    <author surname="Hsieh"/>
-    <author surname="Hirschman"/>
+    <author initials="HNG" surname="Wadley">
+      <organization/>
+    </author>
+    <author initials="JA" surname="Simmons">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Clough">
+      <organization/>
+    </author>
+    <author initials="F" surname="Biancaniello">
+      <organization/>
+    </author>
+    <author initials="E" surname="Drescher-Krasicka">
+      <organization/>
+    </author>
+    <author initials="M" surname="Rosen">
+      <organization/>
+    </author>
+    <author initials="T" surname="Hsieh">
+      <organization/>
+    </author>
+    <author initials="K" surname="Hirschman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3630"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3630"/>
 </reference>

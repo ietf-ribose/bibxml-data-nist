@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.810" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote810.pdf">
   <front>
     <title>Fire incidents involving sleepwear worn by children ages 6-12</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.810"/>
-    <seriesInfo name="NIST" value="NBS TN 810"/>
-    <author fullname="James Slater" initials="J." surname="Slater"/>
+    <author fullname="James Slater" initials="A" surname="Slater">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.810"/>
+  <seriesInfo name="NIST" value="NBS TN 810"/>
 </reference>

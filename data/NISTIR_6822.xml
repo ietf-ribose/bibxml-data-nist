@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6822" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6822.pdf">
   <front>
     <title>Pel-recursive motion estimation algorithm</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6822"/>
-    <seriesInfo name="NIST" value="NIST IR 6822"/>
-    <author surname="Gharavi"/>
-    <author surname="Reza-Alikhani"/>
+    <author initials="H" surname="Gharavi">
+      <organization/>
+    </author>
+    <author initials="H" surname="Reza-Alikhani">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6822"/>
+  <seriesInfo name="NIST" value="NIST IR 6822"/>
 </reference>

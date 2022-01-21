@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6159.pdf">
   <front>
     <title>NIST design repository workshop, 19-20 November, 1996:workshop proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6159"/>
-    <seriesInfo name="NIST" value="NIST IR 6159"/>
-    <author fullname="Simon Szykman" initials="S." surname="Szykman"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Stephen Smith" initials="S." surname="Smith"/>
+    <author fullname="Simon Szykman" initials="S." surname="Szykman">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Stephen Smith" initials="JJ" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6159"/>
+  <seriesInfo name="NIST" value="NIST IR 6159"/>
 </reference>

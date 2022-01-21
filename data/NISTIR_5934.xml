@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5934" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5934.pdf">
   <front>
     <title>Fire performance of high-strength concrete:a report of the state-of-the-art</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5934"/>
-    <seriesInfo name="NIST" value="NIST IR 5934"/>
-    <author surname="Phan"/>
+    <author initials="LT" surname="Phan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5934"/>
+  <seriesInfo name="NIST" value="NIST IR 5934"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph151.pdf">
   <front>
     <title>Automatic measurement of networks parameters- a survey</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.151"/>
-    <seriesInfo name="NIST" value="NBS MONO 151"/>
-    <author surname="Beatty"/>
+    <author initials="RW" surname="Beatty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.151"/>
+  <seriesInfo name="NIST" value="NBS MONO 151"/>
 </reference>

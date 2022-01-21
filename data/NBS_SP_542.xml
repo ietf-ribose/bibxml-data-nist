@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.542" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication542.pdf">
   <front>
     <title>Possible contributions of cement and concrete technology to energy conservation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.542"/>
-    <seriesInfo name="NIST" value="NBS SP 542"/>
-    <author fullname="Geoffrey Frohnsdorff" initials="G." surname="Frohnsdorff"/>
-    <author fullname="Paul Brown" initials="P." surname="Brown"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="Geoffrey Frohnsdorff" initials="G." surname="Frohnsdorff">
+      <organization/>
+    </author>
+    <author fullname="Paul Brown" initials="W" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.542"/>
+  <seriesInfo name="NIST" value="NBS SP 542"/>
 </reference>

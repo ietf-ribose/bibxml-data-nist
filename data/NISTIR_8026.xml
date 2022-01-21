@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.8026" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.8026.pdf">
   <front>
     <title>Investigations of near-edge ballistic impacts on law enforcement body armor</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8026"/>
-    <seriesInfo name="NIST" value="NIST IR 8026"/>
-    <author fullname="Kirk Rice" initials="K." surname="Rice"/>
-    <author fullname="Amanda Forster" initials="A." surname="Forster"/>
-    <author fullname="Michael Riley" initials="M." surname="Riley"/>
-    <author fullname="Nicholas Paulter" initials="N." surname="Paulter"/>
+    <author fullname="Kirk Rice" initials="D" surname="Rice">
+      <organization/>
+    </author>
+    <author fullname="Amanda Forster" initials="L" surname="Forster">
+      <organization/>
+    </author>
+    <author fullname="Michael Riley" initials="A" surname="Riley">
+      <organization/>
+    </author>
+    <author fullname="Nicholas Paulter" initials="G" surname="Paulter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2014"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8026"/>
+  <seriesInfo name="NIST" value="NIST IR 8026"/>
 </reference>

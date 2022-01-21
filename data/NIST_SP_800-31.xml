@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-31" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-31.pdf">
   <front>
     <title>Intrusion detection systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-31"/>
-    <seriesInfo name="NIST" value="NIST SP 800-31"/>
     <author fullname="Rebecca Bace" initials="R." surname="Bace">
       <organization>Computer Security Division.</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-31"/>
+  <seriesInfo name="NIST" value="NIST SP 800-31"/>
 </reference>

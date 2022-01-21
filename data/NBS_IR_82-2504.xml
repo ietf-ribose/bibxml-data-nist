@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.82-2504" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2504.pdf">
   <front>
     <title>Effects of crack growth on the load-displacement characteristics of precracked specimens under bending</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2504"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2504"/>
-    <author surname="Chuang"/>
-    <author surname="Fuller"/>
-    <author surname="Fields"/>
-    <author surname="Chuck"/>
+    <author initials="TJ" surname="Chuang">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Fuller">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
+    <author initials="L" surname="Chuck">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2504"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2504"/>
 </reference>

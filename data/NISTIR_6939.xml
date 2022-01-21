@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6939" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6939.pdf">
   <front>
     <title>MatML version 3.0 schema</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6939"/>
-    <seriesInfo name="NIST" value="NIST IR 6939"/>
-    <author surname="Begley"/>
+    <author initials="EF" surname="Begley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6939"/>
+  <seriesInfo name="NIST" value="NIST IR 6939"/>
 </reference>

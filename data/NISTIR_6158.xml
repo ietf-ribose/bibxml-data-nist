@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6158" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6158.pdf">
   <front>
     <title>Cargo container transfer requirements for the mobile offshore base</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6158"/>
-    <seriesInfo name="NIST" value="NIST IR 6158"/>
-    <author fullname="Ken Goodwin" initials="K." surname="Goodwin"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
+    <author fullname="Ken Goodwin" initials="K." surname="Goodwin">
+      <organization/>
+    </author>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6158"/>
+  <seriesInfo name="NIST" value="NIST IR 6158"/>
 </reference>

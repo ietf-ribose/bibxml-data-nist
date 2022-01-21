@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-980" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-980.pdf">
   <front>
     <title>NBS space processing research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-980"/>
-    <seriesInfo name="NIST" value="NBS IR 76-980"/>
-    <author surname="Passaglia"/>
-    <author surname="Parker"/>
+    <author initials="E" surname="Passaglia">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-980"/>
+  <seriesInfo name="NIST" value="NBS IR 76-980"/>
 </reference>

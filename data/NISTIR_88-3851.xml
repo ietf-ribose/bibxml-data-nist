@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3851" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3851.pdf">
   <front>
     <title>Document interchange standards :description and status of major document and graphics standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3851"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3851"/>
-    <author fullname="Judi Moline" initials="J." surname="Moline"/>
+    <author fullname="Judi Moline" initials="J." surname="Moline">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3851"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3851"/>
 </reference>

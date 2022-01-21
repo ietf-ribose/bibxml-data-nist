@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.100-40" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-40.pdf">
   <front>
     <title>Agile for Model-Based-Standards Development</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-40"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-40"/>
     <author fullname="Brandon Sapp" initials="B." surname="Sapp">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2021" month="March" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-40"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-40"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.HB.150" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: procedures and general requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150"/>
-    <seriesInfo name="NIST" value="NIST HB 150"/>
-    <author fullname="James Cigler" initials="J." surname="Cigler"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
+    <author fullname="James Cigler" initials="L" surname="Cigler">
+      <organization/>
+    </author>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150"/>
+  <seriesInfo name="NIST" value="NIST HB 150"/>
 </reference>

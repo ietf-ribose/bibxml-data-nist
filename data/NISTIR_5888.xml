@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5888" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5888.pdf">
   <front>
     <title>Materials aspects of fiber-reinforced polymer composites in infrastructure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5888"/>
-    <seriesInfo name="NIST" value="NIST IR 5888"/>
-    <author fullname="Joannie Chin" initials="J." surname="Chin"/>
+    <author fullname="Joannie Chin" initials="W" surname="Chin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5888"/>
+  <seriesInfo name="NIST" value="NIST IR 5888"/>
 </reference>

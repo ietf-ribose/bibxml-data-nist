@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.4364" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4364.pdf">
   <front>
     <title>A new test method for evaluating flammability of interior finishes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4364"/>
-    <seriesInfo name="NIST" value="NBS RPT 4364"/>
-    <author surname="Robertson"/>
-    <author fullname="Daniel Gross" initials="D." surname="Gross"/>
-    <author surname="Loftus"/>
+    <author initials="AF" surname="Robertson">
+      <organization/>
+    </author>
+    <author fullname="Daniel Gross" initials="D." surname="Gross">
+      <organization/>
+    </author>
+    <author initials="J" surname="Loftus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4364"/>
+  <seriesInfo name="NIST" value="NBS RPT 4364"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.972" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication972.pdf">
   <front>
     <title>Highly charged ions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.972"/>
-    <seriesInfo name="NIST" value="NIST SP 972"/>
-    <author fullname="John Gillaspy" initials="J." surname="Gillaspy"/>
-    <author fullname="John Gillaspy" initials="J." surname="Gillaspy"/>
-    <author fullname="Laura Ratliff" initials="L." surname="Ratliff"/>
-    <author fullname="James Roberts" initials="J." surname="Roberts"/>
-    <author fullname="Endre Takacs" initials="E." surname="Takacs"/>
+    <author fullname="John Gillaspy" initials="D" surname="Gillaspy">
+      <organization/>
+    </author>
+    <author fullname="John Gillaspy" initials="D" surname="Gillaspy">
+      <organization/>
+    </author>
+    <author fullname="Laura Ratliff" initials="P" surname="Ratliff">
+      <organization/>
+    </author>
+    <author fullname="James Roberts" initials="R" surname="Roberts">
+      <organization/>
+    </author>
+    <author fullname="Endre Takacs" initials="E." surname="Takacs">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.972"/>
+  <seriesInfo name="NIST" value="NIST SP 972"/>
 </reference>

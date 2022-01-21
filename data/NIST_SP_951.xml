@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.951" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication951.pdf">
   <front>
     <title>A guide to EU standards and conformity assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.951"/>
-    <seriesInfo name="NIST" value="NIST SP 951"/>
-    <author fullname="Helen Delaney" initials="H." surname="Delaney"/>
-    <author fullname="Helen Delaney" initials="H." surname="Delaney"/>
-    <author fullname="Rene van de Zande" initials="R." surname="van de Zande"/>
+    <author fullname="Helen Delaney" initials="H." surname="Delaney">
+      <organization/>
+    </author>
+    <author fullname="Helen Delaney" initials="H." surname="Delaney">
+      <organization/>
+    </author>
+    <author fullname="Rene van de Zande" initials="R." surname="van de Zande">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.951"/>
+  <seriesInfo name="NIST" value="NIST SP 951"/>
 </reference>

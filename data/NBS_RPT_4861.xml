@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.4861" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4861.pdf">
   <front>
     <title>The chemical changes occurring during the degradation of two coating asphalts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4861"/>
-    <seriesInfo name="NIST" value="NBS RPT 4861"/>
-    <author fullname="Sidney Greenfeld" initials="S." surname="Greenfeld"/>
+    <author fullname="Sidney Greenfeld" initials="H" surname="Greenfeld">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4861"/>
+  <seriesInfo name="NIST" value="NBS RPT 4861"/>
 </reference>

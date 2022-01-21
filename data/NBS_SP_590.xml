@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.590" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication590.pdf">
   <front>
     <title>The technological importance of accurate thermophysical property information</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.590"/>
-    <seriesInfo name="NIST" value="NBS SP 590"/>
-    <author surname="Sengers"/>
-    <author fullname="Max Klein" initials="M." surname="Klein"/>
+    <author initials="JV" surname="Sengers">
+      <organization/>
+    </author>
+    <author fullname="Max Klein" initials="M." surname="Klein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.590"/>
+  <seriesInfo name="NIST" value="NBS SP 590"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1532" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1532.pdf">
   <front>
     <title>Environmental and safety considerations for solar heating and cooling applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1532"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1532"/>
-    <author fullname="David Waksman" initials="D." surname="Waksman"/>
-    <author fullname="John Holton" initials="J." surname="Holton"/>
+    <author fullname="David Waksman" initials="D." surname="Waksman">
+      <organization/>
+    </author>
+    <author fullname="John Holton" initials="J." surname="Holton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1532"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1532"/>
 </reference>

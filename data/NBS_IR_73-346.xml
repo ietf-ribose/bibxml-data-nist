@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-346" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-346.pdf">
   <front>
     <title>RF total mass gauging in large storage containers :empty tank modes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-346"/>
-    <seriesInfo name="NIST" value="NBS IR 73-346"/>
-    <author surname="Collier"/>
-    <author fullname="Doyle Ellerbruch" initials="D." surname="Ellerbruch"/>
+    <author initials="RS" surname="Collier">
+      <organization/>
+    </author>
+    <author fullname="Doyle Ellerbruch" initials="D." surname="Ellerbruch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-346"/>
+  <seriesInfo name="NIST" value="NBS IR 73-346"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.85-3027" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3027.pdf">
   <front>
     <title>development of standards for superconductors interim report January 1982</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3027"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3027"/>
-    <author surname="Goodrich"/>
-    <author surname="Minervini"/>
-    <author surname="Clark"/>
-    <author surname="Fickett"/>
-    <author surname="Ekin"/>
-    <author surname="Pittman"/>
+    <author initials="LF" surname="Goodrich">
+      <organization/>
+    </author>
+    <author initials="JV" surname="Minervini">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Clark">
+      <organization/>
+    </author>
+    <author initials="FR" surname="Fickett">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Ekin">
+      <organization/>
+    </author>
+    <author initials="ES" surname="Pittman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3027"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3027"/>
 </reference>

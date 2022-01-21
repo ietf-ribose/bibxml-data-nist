@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5776.pdf">
   <front>
     <title>Santa Ana Fire Department experiments at South Bristol Street</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5776"/>
-    <seriesInfo name="NIST" value="NIST IR 5776"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="AnthonyJr Putorti" initials="A.J." surname="Putorti"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
-    <author fullname="James Albers" initials="J." surname="Albers"/>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="AnthonyJr Putorti" initials="D" surname="Putorti">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
+    <author fullname="James Albers" initials="C" surname="Albers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5776"/>
+  <seriesInfo name="NIST" value="NIST IR 5776"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7647" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7647.pdf">
   <front>
     <title>An enabler for supplier discovery in virtual supply chains :a shared terminology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7647"/>
-    <seriesInfo name="NIST" value="NIST IR 7647"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Mahesh Mani" initials="M." surname="Mani"/>
-    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
-    <author fullname="Albert Jones" initials="A." surname="Jones"/>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Mahesh Mani" initials="M." surname="Mani">
+      <organization/>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization/>
+    </author>
+    <author fullname="Albert Jones" initials="T" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7647"/>
+  <seriesInfo name="NIST" value="NIST IR 7647"/>
 </reference>

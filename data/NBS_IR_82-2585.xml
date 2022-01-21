@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2585" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2585.pdf">
   <front>
     <title>Thermal comfort in passive solar buildings -- an annotated bibliography</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2585"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2585"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
+    <author fullname="Arthur Rubin" initials="A." surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2585"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2585"/>
 </reference>

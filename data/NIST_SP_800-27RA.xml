@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.800-27ra" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-27ra.pdf">
   <front>
     <title>Engineering principles for information technology security (a baseline for achieving security), revision a</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-27ra"/>
-    <seriesInfo name="NIST" value="NIST SP 800-27ra"/>
-    <author surname="Stoneburner"/>
-    <author surname="Hayden"/>
-    <author surname="Feringa"/>
+    <author initials="G" surname="Stoneburner">
+      <organization/>
+    </author>
+    <author initials="C" surname="Hayden">
+      <organization/>
+    </author>
+    <author initials="A" surname="Feringa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-27ra"/>
+  <seriesInfo name="NIST" value="NIST SP 800-27ra"/>
 </reference>

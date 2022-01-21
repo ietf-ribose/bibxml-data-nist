@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-206" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-206.pdf">
   <front>
     <title>NIST/ITL Cybersecurity Program: Annual Report 2018</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-206"/>
-    <seriesInfo name="NIST" value="NIST SP 800-206"/>
     <author role="editor" fullname="Patrick O'Reilly" initials="P." surname="O'Reilly">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2020" month="March" day="13"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-206"/>
+  <seriesInfo name="NIST" value="NIST SP 800-206"/>
 </reference>

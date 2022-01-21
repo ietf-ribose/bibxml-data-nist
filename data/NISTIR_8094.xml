@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8094" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8094.pdf">
   <front>
     <title>Analysis and Optimization based on Reusable Knowledge Base of Process Performance Models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8094"/>
-    <seriesInfo name="NIST" value="NIST IR 8094"/>
     <author fullname="Alexander Brodsky" initials="A." surname="Brodsky">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8094"/>
+  <seriesInfo name="NIST" value="NIST IR 8094"/>
 </reference>

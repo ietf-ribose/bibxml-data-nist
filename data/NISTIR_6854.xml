@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6854" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6854.pdf">
   <front>
     <title>Simulation of the dynamics of a fire in a two-story duplex</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6854"/>
-    <seriesInfo name="NIST" value="NIST IR 6854"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6854"/>
+  <seriesInfo name="NIST" value="NIST IR 6854"/>
 </reference>

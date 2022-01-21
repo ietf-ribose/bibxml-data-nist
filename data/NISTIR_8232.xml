@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8232" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8232.pdf">
   <front>
     <title>Tattoo Recognition Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8232"/>
-    <seriesInfo name="NIST" value="NIST IR 8232"/>
     <author fullname="Mei Ngan" initials="M." surname="Ngan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8232"/>
+  <seriesInfo name="NIST" value="NIST IR 8232"/>
 </reference>

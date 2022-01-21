@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1090" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1090.pdf">
   <front>
     <title>Performance metrics for intelligent systems (PERMIS) workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1090"/>
-    <seriesInfo name="NIST" value="NIST SP 1090"/>
-    <author surname="Madhavan"/>
-    <author surname="Messina"/>
+    <author initials="R" surname="Madhavan">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Messina">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1090"/>
+  <seriesInfo name="NIST" value="NIST SP 1090"/>
 </reference>

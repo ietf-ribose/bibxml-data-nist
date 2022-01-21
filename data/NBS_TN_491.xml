@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.491" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote491.pdf">
   <front>
     <title>Gravity measurements and the Standards Laboratory.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.491"/>
-    <seriesInfo name="NIST" value="NBS TN 491"/>
-    <author surname="Tate"/>
+    <author initials="DR" surname="Tate">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.491"/>
+  <seriesInfo name="NIST" value="NBS TN 491"/>
 </reference>

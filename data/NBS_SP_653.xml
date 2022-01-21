@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.653" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication653.pdf">
   <front>
     <title>Laser-cooled and trapped atoms</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.653"/>
-    <seriesInfo name="NIST" value="NBS SP 653"/>
-    <author fullname="William Phillips" initials="W." surname="Phillips"/>
+    <author fullname="William Phillips" initials="D" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.653"/>
+  <seriesInfo name="NIST" value="NBS SP 653"/>
 </reference>

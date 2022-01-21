@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIS.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CIS/nbscis7.pdf">
   <front>
     <title>Consumer Information Series 7: what about metric?</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIS.7"/>
-    <seriesInfo name="NIST" value="NBS CIS 7"/>
-    <author fullname="Louis Barbrow" initials="L." surname="Barbrow"/>
+    <author fullname="Louis Barbrow" initials="E" surname="Barbrow">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIS.7"/>
+  <seriesInfo name="NIST" value="NBS CIS 7"/>
 </reference>

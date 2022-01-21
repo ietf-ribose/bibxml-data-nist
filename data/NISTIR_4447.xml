@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4447" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4447.pdf">
   <front>
     <title>Implementing fast part probing and error compensation on machine tools</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4447"/>
-    <seriesInfo name="NIST" value="NIST IR 4447"/>
-    <author fullname="Kenneth Yee" initials="K." surname="Yee"/>
-    <author fullname="Robert Gavin" initials="R." surname="Gavin"/>
+    <author fullname="Kenneth Yee" initials="W" surname="Yee">
+      <organization/>
+    </author>
+    <author fullname="Robert Gavin" initials="J" surname="Gavin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4447"/>
+  <seriesInfo name="NIST" value="NIST IR 4447"/>
 </reference>

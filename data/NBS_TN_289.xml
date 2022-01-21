@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.289" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote289.pdf">
   <front>
     <title>Status report:National Standard Reference Data System, April 1966.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.289"/>
-    <seriesInfo name="NIST" value="NBS TN 289"/>
-    <author fullname="Edward Brady" initials="E." surname="Brady"/>
+    <author fullname="Edward Brady" initials="L" surname="Brady">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.289"/>
+  <seriesInfo name="NIST" value="NBS TN 289"/>
 </reference>

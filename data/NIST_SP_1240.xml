@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1240" target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.1240.pdf">
   <front>
     <title>Data, information, and tools needed for community resilience planning and decision-making</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1240"/>
-    <seriesInfo name="NIST" value="NIST SP 1240"/>
     <author fullname="Therese McAllister" initials="T." surname="McAllister">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1240"/>
+  <seriesInfo name="NIST" value="NIST SP 1240"/>
 </reference>

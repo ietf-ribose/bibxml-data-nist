@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.2188" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2188.pdf">
   <front>
     <title>Quantum dynamics :part I</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2188"/>
-    <seriesInfo name="NIST" value="NBS RPT 2188"/>
-    <author fullname="Julian Schwinger" initials="J." surname="Schwinger"/>
+    <author fullname="Julian Schwinger" initials="J." surname="Schwinger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2188"/>
+  <seriesInfo name="NIST" value="NBS RPT 2188"/>
 </reference>

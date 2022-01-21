@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4415" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4415.pdf">
   <front>
     <title>Ventilation characterization of the Consumer Product Safety Commission combustion test chamber facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4415"/>
-    <seriesInfo name="NIST" value="NIST IR 4415"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4415"/>
+  <seriesInfo name="NIST" value="NIST IR 4415"/>
 </reference>

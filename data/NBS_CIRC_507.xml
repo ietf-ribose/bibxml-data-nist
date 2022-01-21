@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.507" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular507.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 507:x-ray calibration of radiation survey meters, pocket chambers, and dosimeters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.507"/>
-    <seriesInfo name="NIST" value="NBS CIRC 507"/>
-    <author fullname="Frank Day" initials="F." surname="Day"/>
+    <author fullname="Frank Day" initials="H" surname="Day">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.507"/>
+  <seriesInfo name="NIST" value="NBS CIRC 507"/>
 </reference>

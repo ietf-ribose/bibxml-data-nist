@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.585" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication585.pdf">
   <front>
     <title>Fire and life safety for the handicapped</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.585"/>
-    <seriesInfo name="NIST" value="NBS SP 585"/>
-    <author surname="Levin"/>
+    <author initials="BM" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.585"/>
+  <seriesInfo name="NIST" value="NBS SP 585"/>
 </reference>

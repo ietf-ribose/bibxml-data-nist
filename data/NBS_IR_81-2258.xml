@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2258.pdf">
   <front>
     <title>A methodology for evaluating housing in use :a case study approach</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2258"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2258"/>
-    <author fullname="Stephen Margulis" initials="S." surname="Margulis"/>
+    <author fullname="Stephen Margulis" initials="T" surname="Margulis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2258"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2258"/>
 </reference>

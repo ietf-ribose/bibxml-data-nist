@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.33" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote33.pdf">
   <front>
     <title>Distribution of incoming lettermail at the Baltimore, Maryland city post office</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.33"/>
-    <seriesInfo name="NIST" value="NBS TN 33"/>
-    <author surname="Levin"/>
+    <author initials="BM" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.33"/>
+  <seriesInfo name="NIST" value="NBS TN 33"/>
 </reference>

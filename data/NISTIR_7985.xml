@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7985" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7985.pdf">
   <front>
     <title>Towards a Classification System of Manufacturing Objects for the Evaluation of Perception Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7985"/>
-    <seriesInfo name="NIST" value="NIST IR 7985"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok">
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Marek Franaszek" initials="M." surname="Franaszek">
@@ -12,7 +10,7 @@
     <author fullname="Afzal Godil" initials="A." surname="Godil">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Kamel Saidi" initials="K." surname="Saidi">
+    <author fullname="Kamel Saidi" initials="S" surname="Saidi">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Roger Eastman" initials="R." surname="Eastman">
@@ -26,4 +24,6 @@
     </author>
     <date year="2014" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7985"/>
+  <seriesInfo name="NIST" value="NIST IR 7985"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.2116" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2116.pdf">
   <front>
     <title>Seismic Evaluation of a 2-Story Cold-Formed Steel Framed Building using ASCE 41-17</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2116"/>
-    <seriesInfo name="NIST" value="NIST TN 2116"/>
-    <author fullname="Matthew Speicher" initials="M." surname="Speicher">
+    <author fullname="Matthew Speicher" initials="S" surname="Speicher">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Ivana Olivares" initials="I." surname="Olivares">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Benjamin Schafer" initials="B." surname="Schafer">
+    <author fullname="Benjamin Schafer" initials="W" surname="Schafer">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2020" month="September" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2116"/>
+  <seriesInfo name="NIST" value="NIST TN 2116"/>
 </reference>

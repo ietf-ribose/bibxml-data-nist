@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2687" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2687.pdf">
   <front>
     <title>An overview of computer-based natural language processing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2687"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2687"/>
-    <author fullname="William Gevarter" initials="W." surname="Gevarter"/>
+    <author fullname="William Gevarter" initials="B" surname="Gevarter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2687"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2687"/>
 </reference>

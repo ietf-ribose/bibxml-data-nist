@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-147.pdf">
   <front>
     <title>Proof testing of ceramic materials :an analytical basis for failure prediction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-147"/>
-    <seriesInfo name="NIST" value="NBS IR 73-147"/>
-    <author surname="Evans"/>
-    <author surname="Wiederhorn"/>
+    <author initials="AG" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Wiederhorn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-147"/>
+  <seriesInfo name="NIST" value="NBS IR 73-147"/>
 </reference>

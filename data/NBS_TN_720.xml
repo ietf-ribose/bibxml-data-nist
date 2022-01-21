@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.720" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote720.pdf">
   <front>
     <title>A simple hydraulic sinusoidal pressure calibrator</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.720"/>
-    <seriesInfo name="NIST" value="NBS TN 720"/>
-    <author fullname="John Hilton" initials="J." surname="Hilton"/>
+    <author fullname="John Hilton" initials="S" surname="Hilton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.720"/>
+  <seriesInfo name="NIST" value="NBS TN 720"/>
 </reference>

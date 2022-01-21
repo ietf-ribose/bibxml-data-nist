@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8023" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8023.pdf">
   <front>
     <title>Risk Management for Replication Devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8023"/>
-    <seriesInfo name="NIST" value="NIST IR 8023"/>
-    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
+    <author fullname="Kelley Dempsey" initials="L" surname="Dempsey">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8023"/>
+  <seriesInfo name="NIST" value="NIST IR 8023"/>
 </reference>

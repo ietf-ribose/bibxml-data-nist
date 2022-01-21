@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.48" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph48.pdf">
   <front>
     <title>Determination of total x-ray beam energy with a calibrated ionization chamber</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.48"/>
-    <seriesInfo name="NIST" value="NBS MONO 48"/>
-    <author fullname="John Pruitt" initials="J." surname="Pruitt"/>
-    <author fullname="Steve Domen" initials="S." surname="Domen"/>
+    <author fullname="John Pruitt" initials="S" surname="Pruitt">
+      <organization/>
+    </author>
+    <author fullname="Steve Domen" initials="R" surname="Domen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.48"/>
+  <seriesInfo name="NIST" value="NBS MONO 48"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1881" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1881.pdf">
   <front>
     <title>Self-training of a fault-free model for residential air conditioner fault detection and diagnostics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1881"/>
-    <seriesInfo name="NIST" value="NIST TN 1881"/>
     <author fullname="Jaehyeok Heo" initials="J." surname="Heo">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Vance Payne" initials="V." surname="Payne">
+    <author fullname="Vance Payne" initials="W" surname="Payne">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski">
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Zhimin Du" initials="Z." surname="Du">
@@ -27,4 +25,6 @@
     </author>
     <date year="2015" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1881"/>
+  <seriesInfo name="NIST" value="NIST TN 1881"/>
 </reference>

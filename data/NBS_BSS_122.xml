@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.122" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience122.pdf">
   <front>
     <title>A Study of lumber used for bracing trenches in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.122"/>
-    <seriesInfo name="NIST" value="NBS BSS 122"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
-    <author fullname="William Galligan" initials="W." surname="Galligan"/>
-    <author surname="Bendtsen"/>
-    <author fullname="John Senft" initials="J." surname="Senft"/>
+    <author fullname="Lawrence Knab" initials="I" surname="Knab">
+      <organization/>
+    </author>
+    <author fullname="William Galligan" initials="L" surname="Galligan">
+      <organization/>
+    </author>
+    <author initials="BA" surname="Bendtsen">
+      <organization/>
+    </author>
+    <author fullname="John Senft" initials="F" surname="Senft">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.122"/>
+  <seriesInfo name="NIST" value="NBS BSS 122"/>
 </reference>

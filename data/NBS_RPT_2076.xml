@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.2076" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2076.pdf">
   <front>
     <title>Solving linear algebraic equations can be interesting</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2076"/>
-    <seriesInfo name="NIST" value="NBS RPT 2076"/>
-    <author fullname="George Forsythe" initials="G." surname="Forsythe"/>
+    <author fullname="George Forsythe" initials="E" surname="Forsythe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2076"/>
+  <seriesInfo name="NIST" value="NBS RPT 2076"/>
 </reference>

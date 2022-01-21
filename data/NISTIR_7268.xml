@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7268" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7268.pdf">
   <front>
     <title>Workshop on the evaluation of a tactical decision aid display</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7268"/>
-    <seriesInfo name="NIST" value="NIST IR 7268"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="Robert Vettori" initials="R." surname="Vettori"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Lori Brassell" initials="L." surname="Brassell"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
-    <author fullname="Jodi Kostecki" initials="J." surname="Kostecki"/>
-    <author fullname="Jessica Kratchman" initials="J." surname="Kratchman"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Robert Vettori" initials="R." surname="Vettori">
+      <organization/>
+    </author>
+    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+      <organization/>
+    </author>
+    <author fullname="Lori Brassell" initials="L." surname="Brassell">
+      <organization/>
+    </author>
+    <author fullname="David Holmberg" initials="G" surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="Jodi Kostecki" initials="J." surname="Kostecki">
+      <organization/>
+    </author>
+    <author fullname="Jessica Kratchman" initials="J." surname="Kratchman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7268"/>
+  <seriesInfo name="NIST" value="NIST IR 7268"/>
 </reference>

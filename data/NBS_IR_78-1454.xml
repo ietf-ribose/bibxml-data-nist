@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1454" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1454.pdf">
   <front>
     <title>The evaluation of search units used for ultrasonic reference block calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1454"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1454"/>
-    <author fullname="Daniel Chwirut" initials="D." surname="Chwirut"/>
-    <author fullname="Gary Boswell" initials="G." surname="Boswell"/>
+    <author fullname="Daniel Chwirut" initials="J" surname="Chwirut">
+      <organization/>
+    </author>
+    <author fullname="Gary Boswell" initials="D" surname="Boswell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1454"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1454"/>
 </reference>

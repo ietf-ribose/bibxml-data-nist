@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2287" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2287.pdf">
   <front>
     <title>Laboratory tests of a residential unitary water-source heat pump</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2287"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2287"/>
-    <author fullname="William Mulroy" initials="W." surname="Mulroy"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
+    <author fullname="William Mulroy" initials="J" surname="Mulroy">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2287"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2287"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.83-2760" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2760.pdf">
   <front>
     <title>Comparison of energy measurements in the standard penetration test using the cathead and rope method :phases I and II : final report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2760"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2760"/>
-    <author surname="Kovacs"/>
-    <author surname="Salmone"/>
-    <author surname="Yokel"/>
+    <author initials="WD" surname="Kovacs">
+      <organization/>
+    </author>
+    <author initials="LA" surname="Salmone">
+      <organization/>
+    </author>
+    <author initials="FY" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2760"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2760"/>
 </reference>

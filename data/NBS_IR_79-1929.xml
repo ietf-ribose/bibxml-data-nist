@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1929" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1929.pdf">
   <front>
     <title>A computerized approach for identifying cost-effective fire safety retrofits in health care facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1929"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1929"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="William Hall" initials="W." surname="Hall"/>
-    <author fullname="Phillip Chen" initials="P." surname="Chen"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="William Hall" initials="G" surname="Hall">
+      <organization/>
+    </author>
+    <author fullname="Phillip Chen" initials="T" surname="Chen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1929"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1929"/>
 </reference>

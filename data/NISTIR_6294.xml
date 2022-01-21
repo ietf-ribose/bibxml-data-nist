@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6294" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6294.pdf">
   <front>
     <title>Initial CAALS device capability dataset, version 1.0.7</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6294"/>
-    <seriesInfo name="NIST" value="NIST IR 6294"/>
-    <author fullname="Torsten Staab" initials="T." surname="Staab"/>
-    <author fullname="Gary Kramer" initials="G." surname="Kramer"/>
+    <author fullname="Torsten Staab" initials="A" surname="Staab">
+      <organization/>
+    </author>
+    <author fullname="Gary Kramer" initials="W" surname="Kramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6294"/>
+  <seriesInfo name="NIST" value="NIST IR 6294"/>
 </reference>

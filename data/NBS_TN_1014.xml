@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.1014" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1014.pdf">
   <front>
     <title>Electromagnetic interference (EMI) radiative measurements for automotive applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1014"/>
-    <seriesInfo name="NIST" value="NBS TN 1014"/>
-    <author surname="Adams"/>
-    <author surname="Kanda"/>
-    <author surname="Shafer"/>
-    <author surname="Taggart"/>
+    <author initials="JW" surname="Adams">
+      <organization/>
+    </author>
+    <author initials="M" surname="Kanda">
+      <organization/>
+    </author>
+    <author initials="J" surname="Shafer">
+      <organization/>
+    </author>
+    <author initials="HE" surname="Taggart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1014"/>
+  <seriesInfo name="NIST" value="NBS TN 1014"/>
 </reference>

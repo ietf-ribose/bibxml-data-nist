@@ -1,19 +1,39 @@
 <reference anchor="NBS.MONO.33" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph33.pdf">
   <front>
     <title>An experimental study of phase variations in line-of-sight microwave transmissions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.33"/>
-    <seriesInfo name="NIST" value="NBS MONO 33"/>
-    <author surname="Norton"/>
-    <author surname="Herbstreit"/>
-    <author surname="Janes"/>
-    <author surname="Hornberg"/>
-    <author surname="Peterson"/>
-    <author surname="Barghausen"/>
-    <author surname="Johnson"/>
-    <author surname="Wells"/>
-    <author surname="Thompson"/>
-    <author surname="Vetter"/>
-    <author surname="Kirkpatrick"/>
+    <author initials="KA" surname="Norton">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Herbstreit">
+      <organization/>
+    </author>
+    <author initials="HB" surname="Janes">
+      <organization/>
+    </author>
+    <author initials="KO" surname="Hornberg">
+      <organization/>
+    </author>
+    <author initials="CF" surname="Peterson">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Barghausen">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Johnson">
+      <organization/>
+    </author>
+    <author initials="PI" surname="Wells">
+      <organization/>
+    </author>
+    <author initials="MC" surname="Thompson">
+      <organization/>
+    </author>
+    <author initials="MJ" surname="Vetter">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Kirkpatrick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.33"/>
+  <seriesInfo name="NIST" value="NBS MONO 33"/>
 </reference>

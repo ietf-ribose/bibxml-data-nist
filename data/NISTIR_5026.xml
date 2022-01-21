@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5026" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5026.pdf">
   <front>
     <title>Thermal hydraulic tests of a liquid hydrogen cold neutron source</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5026"/>
-    <seriesInfo name="NIST" value="NIST IR 5026"/>
-    <author surname="Lewis"/>
-    <author surname="Rowe"/>
-    <author surname="Williams"/>
-    <author surname="Kopetka"/>
+    <author initials="MA" surname="Lewis">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Rowe">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Williams">
+      <organization/>
+    </author>
+    <author initials="P" surname="Kopetka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5026"/>
+  <seriesInfo name="NIST" value="NIST IR 5026"/>
 </reference>

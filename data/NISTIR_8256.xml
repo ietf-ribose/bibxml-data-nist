@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8256" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8256.pdf">
   <front>
     <title>Measurement of airborne emissions from extinguished cigarettes:final report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8256"/>
-    <seriesInfo name="NIST" value="NIST IR 8256"/>
     <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8256"/>
+  <seriesInfo name="NIST" value="NIST IR 8256"/>
 </reference>

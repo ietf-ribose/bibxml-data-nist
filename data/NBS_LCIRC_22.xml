@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.22" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular22.pdf">
   <front>
     <title>Letter Circular 22 (Communication B522):the measurement of taper gages</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.22"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 22"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1919"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.22"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 22"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.821" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication821.pdf">
   <front>
     <title>Wavenumber calibration tables from heterodyne frequency measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.821"/>
-    <seriesInfo name="NIST" value="NIST SP 821"/>
-    <author fullname="Arthur Maki" initials="A." surname="Maki"/>
-    <author fullname="Arthur Maki" initials="A." surname="Maki"/>
-    <author fullname="Joseph Wells" initials="J." surname="Wells"/>
+    <author fullname="Arthur Maki" initials="G" surname="Maki">
+      <organization/>
+    </author>
+    <author fullname="Arthur Maki" initials="G" surname="Maki">
+      <organization/>
+    </author>
+    <author fullname="Joseph Wells" initials="S" surname="Wells">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.821"/>
+  <seriesInfo name="NIST" value="NIST SP 821"/>
 </reference>

@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.1188" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1188.pdf">
   <front>
     <title>International R and D Roadmap for Fire Resistance of Structures Summary of NIST/CIB Workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1188"/>
-    <seriesInfo name="NIST" value="NIST SP 1188"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang">
+    <author fullname="Jiann Yang" initials="C" surname="Yang">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+    <author fullname="Matthew Bundy" initials="F" surname="Bundy">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="John Gross" initials="J." surname="Gross">
+    <author fullname="John Gross" initials="L" surname="Gross">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+    <author fullname="Anthony Hamins" initials="P" surname="Hamins">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+    <author fullname="Fahim Sadek" initials="H" surname="Sadek">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Anand Raghunathan" initials="A." surname="Raghunathan">
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1188"/>
+  <seriesInfo name="NIST" value="NIST SP 1188"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.216" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote216.pdf">
   <front>
     <title>Computation of Hankel functions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.216"/>
-    <seriesInfo name="NIST" value="NBS TN 216"/>
-    <author surname="Berry"/>
+    <author initials="LA" surname="Berry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.216"/>
+  <seriesInfo name="NIST" value="NBS TN 216"/>
 </reference>

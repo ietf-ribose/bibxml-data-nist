@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6826" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6826.pdf">
   <front>
     <title>A knowledge-navigation system for dimensional metrology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6826"/>
-    <seriesInfo name="NIST" value="NIST IR 6826"/>
-    <author surname="Moncarz"/>
+    <author initials="HT" surname="Moncarz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6826"/>
+  <seriesInfo name="NIST" value="NIST IR 6826"/>
 </reference>

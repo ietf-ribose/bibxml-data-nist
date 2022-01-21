@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5989" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5989.pdf">
   <front>
     <title>Insulating concretes :interim report no. 2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5989"/>
-    <seriesInfo name="NIST" value="NBS RPT 5989"/>
-    <author surname="Reichard"/>
-    <author surname="Watstein"/>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
+    <author initials="D" surname="Watstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5989"/>
+  <seriesInfo name="NIST" value="NBS RPT 5989"/>
 </reference>

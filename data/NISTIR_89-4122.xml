@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4122" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4122.pdf">
   <front>
     <title>Estimating the environment and the response of sprinkler links in compartment fires with draft curtains and fusible-link-actuated ceiling vents</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4122"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4122"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4122"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4122"/>
 </reference>

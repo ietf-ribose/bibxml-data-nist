@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6351" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6351.pdf">
   <front>
     <title>Dynamic contact angle of a liquid spreading on a heated plate</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6351"/>
-    <seriesInfo name="NIST" value="NIST IR 6351"/>
-    <author fullname="Dean Ripple" initials="D." surname="Ripple"/>
+    <author fullname="Dean Ripple" initials="D." surname="Ripple">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6351"/>
+  <seriesInfo name="NIST" value="NIST IR 6351"/>
 </reference>

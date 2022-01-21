@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.81-2348" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2348.pdf">
   <front>
     <title>Materials for instrumentation for fossil energy technologies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2348"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2348"/>
-    <author surname="Frederickse"/>
-    <author surname="Schenk"/>
-    <author surname="Burns"/>
-    <author surname="Dils"/>
-    <author surname="Whetstone"/>
+    <author initials="HPR" surname="Frederickse">
+      <organization/>
+    </author>
+    <author initials="PK" surname="Schenk">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Burns">
+      <organization/>
+    </author>
+    <author initials="RR" surname="Dils">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Whetstone">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2348"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2348"/>
 </reference>

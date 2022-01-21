@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.253" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub253.pdf">
   <front>
     <title>Recommended unit prefixes, Defined values and conversion factors (card 1), General physical constants recommended by NAS-NRC (card 2)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.253"/>
-    <seriesInfo name="NIST" value="NBS MP 253"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.253"/>
+  <seriesInfo name="NIST" value="NBS MP 253"/>
 </reference>

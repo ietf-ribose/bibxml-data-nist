@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1498" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1498.pdf">
   <front>
     <title>Fracture of brittle materials at high temperature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1498"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1498"/>
-    <author surname="Tighe"/>
-    <author surname="Wiederhorn"/>
+    <author initials="NJ" surname="Tighe">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Wiederhorn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1498"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1498"/>
 </reference>

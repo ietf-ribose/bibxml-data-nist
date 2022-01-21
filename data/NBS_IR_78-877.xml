@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.78-877" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-877.pdf">
   <front>
     <title>Helium heat transfer and refrigeration in support of magnetic fusion energy systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-877"/>
-    <seriesInfo name="NIST" value="NBS IR 78-877"/>
-    <author surname="Arp"/>
-    <author surname="Brennan"/>
-    <author surname="Parrish"/>
-    <author surname="Steward"/>
-    <author surname="Steward"/>
-    <author surname="Strobridge"/>
-    <author surname="Voth"/>
+    <author initials="V" surname="Arp">
+      <organization/>
+    </author>
+    <author initials="JA" surname="Brennan">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Parrish">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Steward">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Steward">
+      <organization/>
+    </author>
+    <author initials="TR" surname="Strobridge">
+      <organization/>
+    </author>
+    <author initials="RO" surname="Voth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-877"/>
+  <seriesInfo name="NIST" value="NBS IR 78-877"/>
 </reference>

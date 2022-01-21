@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.89-4207" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4207.pdf">
   <front>
     <title>Overview of the IGESPDES testing project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4207"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4207"/>
-    <author fullname="Mark Pearson" initials="M." surname="Pearson"/>
-    <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
-    <author fullname="Jesse Crusey" initials="J." surname="Crusey"/>
-    <author fullname="Constance Bracken" initials="C." surname="Bracken"/>
-    <author fullname="Larry Mankins" initials="L." surname="Mankins"/>
-    <author fullname="David Remington" initials="D." surname="Remington"/>
+    <author fullname="Mark Pearson" initials="R" surname="Pearson">
+      <organization/>
+    </author>
+    <author fullname="Mark Palmer" initials="E" surname="Palmer">
+      <organization/>
+    </author>
+    <author fullname="Jesse Crusey" initials="L" surname="Crusey">
+      <organization/>
+    </author>
+    <author fullname="Constance Bracken" initials="L" surname="Bracken">
+      <organization/>
+    </author>
+    <author fullname="Larry Mankins" initials="A" surname="Mankins">
+      <organization/>
+    </author>
+    <author fullname="David Remington" initials="O" surname="Remington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4207"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4207"/>
 </reference>

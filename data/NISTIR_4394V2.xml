@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4394v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4394v2.pdf">
   <front>
     <title>The design and development of an information retrieval system of the EAMATE data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4394v2"/>
-    <seriesInfo name="NIST" value="NIST IR 4394v2"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4394v2"/>
+  <seriesInfo name="NIST" value="NIST IR 4394v2"/>
 </reference>

@@ -1,27 +1,25 @@
 <reference anchor="NIST.SP.1256" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1256.pdf">
   <front>
     <title>A NIST-hosted virtual workshop on measuring SARS-CoV-2 in wastewater and fecal Material:a call for standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1256"/>
-    <seriesInfo name="NIST" value="NIST SP 1256"/>
-    <author fullname="Sandra Da Silva" initials="S." surname="Da Silva">
+    <author fullname="Sandra Da Silva" initials="M" surname="Da Silva">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Paulina Piotrowski" initials="P." surname="Piotrowski">
+    <author fullname="Paulina Piotrowski" initials="K" surname="Piotrowski">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Christina Jones" initials="C." surname="Jones">
+    <author fullname="Christina Jones" initials="M" surname="Jones">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Stephanie Servetas" initials="S." surname="Servetas">
+    <author fullname="Stephanie Servetas" initials="L" surname="Servetas">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Nancy Lin" initials="N." surname="Lin">
+    <author fullname="Nancy Lin" initials="J" surname="Lin">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Katrice Lippa" initials="K." surname="Lippa">
+    <author fullname="Katrice Lippa" initials="A" surname="Lippa">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Scott Jackson" initials="S." surname="Jackson">
+    <author fullname="Scott Jackson" initials="A" surname="Jackson">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1256"/>
+  <seriesInfo name="NIST" value="NIST SP 1256"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds4.pdf">
   <front>
     <title>Atomic transition probabilities :volume 1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.4"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 4"/>
-    <author surname="Wiese"/>
-    <author surname="Smith"/>
-    <author surname="Glennon"/>
+    <author initials="WL" surname="Wiese">
+      <organization/>
+    </author>
+    <author initials="MW" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Glennon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.4"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 4"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8225" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8225.pdf">
   <front>
     <title>NIST Scientific Foundation Reviews</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8225"/>
-    <seriesInfo name="NIST" value="NIST IR 8225"/>
-    <author fullname="John Butler" initials="J." surname="Butler">
+    <author fullname="John Butler" initials="M" surname="Butler">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="Hari Iyer" initials="H." surname="Iyer">
@@ -12,10 +10,10 @@
     <author fullname="Rich Press" initials="R." surname="Press">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Melissa Taylor" initials="M." surname="Taylor">
+    <author fullname="Melissa Taylor" initials="K" surname="Taylor">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Peter Vallone" initials="P." surname="Vallone">
+    <author fullname="Peter Vallone" initials="M" surname="Vallone">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="Sheila Willis" initials="S." surname="Willis">
@@ -26,4 +24,6 @@
     </author>
     <date year="2020" month="December" day="18"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8225"/>
+  <seriesInfo name="NIST" value="NIST IR 8225"/>
 </reference>

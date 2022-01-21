@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6028" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6028.pdf">
   <front>
     <title>Molecular dynamics and hydrogen bonds in water</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6028"/>
-    <seriesInfo name="NIST" value="NIST IR 6028"/>
-    <author fullname="Raymond Mountain" initials="R." surname="Mountain"/>
+    <author fullname="Raymond Mountain" initials="D" surname="Mountain">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6028"/>
+  <seriesInfo name="NIST" value="NIST IR 6028"/>
 </reference>

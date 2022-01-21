@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.392" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication392.pdf">
   <front>
     <title>Vibrationally excited hydrogen halides :a bibliography on chemical kinetics of chemiexcitation and energy transfer processes (1958 through 1973)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.392"/>
-    <seriesInfo name="NIST" value="NBS SP 392"/>
-    <author fullname="Francis Westley" initials="F." surname="Westley"/>
+    <author fullname="Francis Westley" initials="F." surname="Westley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.392"/>
+  <seriesInfo name="NIST" value="NBS SP 392"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.LCIRC.918" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular918.pdf">
   <front>
     <title>Letter Circular 918:leather (supersedes Letter Circular 788)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.918"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 918"/>
-    <author fullname="CW Mann" initials="C." surname="Mann"/>
+    <author fullname="CW Mann" initials="C." surname="Mann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.918"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 918"/>
 </reference>

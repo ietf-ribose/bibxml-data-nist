@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.105e2" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular105e2.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 105 2nd edition:United States government specification for liquid paint drier</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.105e2"/>
-    <seriesInfo name="NIST" value="NBS CIRC 105e2"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.105e2"/>
+  <seriesInfo name="NIST" value="NBS CIRC 105e2"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6861" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6861.pdf">
   <front>
     <title>NIST stray light elimination tube prototype</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6861"/>
-    <seriesInfo name="NIST" value="NIST IR 6861"/>
-    <author surname="Boynton"/>
-    <author surname="Kelley"/>
+    <author initials="PA" surname="Boynton">
+      <organization/>
+    </author>
+    <author initials="EF" surname="Kelley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6861"/>
+  <seriesInfo name="NIST" value="NIST IR 6861"/>
 </reference>

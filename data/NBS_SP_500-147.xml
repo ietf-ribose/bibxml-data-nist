@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.500-147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-147.pdf">
   <front>
     <title>Guidance on requirements analysis for office automation systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-147"/>
-    <seriesInfo name="NIST" value="NBS SP 500-147"/>
-    <author fullname="Lynne Rosenthal" initials="L." surname="Rosenthal"/>
-    <author fullname="Elizabeth Parker" initials="E." surname="Parker"/>
-    <author fullname="Ted Landberg" initials="T." surname="Landberg"/>
-    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins"/>
+    <author fullname="Lynne Rosenthal" initials="S" surname="Rosenthal">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Parker" initials="G" surname="Parker">
+      <organization/>
+    </author>
+    <author fullname="Ted Landberg" initials="T." surname="Landberg">
+      <organization/>
+    </author>
+    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-147"/>
+  <seriesInfo name="NIST" value="NBS SP 500-147"/>
 </reference>

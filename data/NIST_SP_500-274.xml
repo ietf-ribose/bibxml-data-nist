@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-274" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-274.pdf">
   <front>
     <title>The sixteenth text retrieval conference TREC 2007</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-274"/>
-    <seriesInfo name="NIST" value="NIST SP 500-274"/>
-    <author fullname="Ellen Voorhees" initials="E." surname="Voorhees"/>
-    <author fullname="Lori Buckland" initials="L." surname="Buckland"/>
+    <author fullname="Ellen Voorhees" initials="M" surname="Voorhees">
+      <organization/>
+    </author>
+    <author fullname="Lori Buckland" initials="P" surname="Buckland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-274"/>
+  <seriesInfo name="NIST" value="NIST SP 500-274"/>
 </reference>

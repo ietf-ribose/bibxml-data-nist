@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7134.pdf">
   <front>
     <title>Submillimeter and thz detection of dimethyl methyl phosphate in air</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7134"/>
-    <seriesInfo name="NIST" value="NIST IR 7134"/>
-    <author fullname="Vyacheslav Podobedov" initials="V." surname="Podobedov"/>
-    <author fullname="Richard Lavrich" initials="R." surname="Lavrich"/>
-    <author fullname="Timothy Korter" initials="T." surname="Korter"/>
-    <author fullname="Gerald Fraser" initials="G." surname="Fraser"/>
-    <author fullname="David Plusquellic" initials="D." surname="Plusquellic"/>
-    <author fullname="Alan Samuels" initials="A." surname="Samuels"/>
+    <author fullname="Vyacheslav Podobedov" initials="B" surname="Podobedov">
+      <organization/>
+    </author>
+    <author fullname="Richard Lavrich" initials="R." surname="Lavrich">
+      <organization/>
+    </author>
+    <author fullname="Timothy Korter" initials="M" surname="Korter">
+      <organization/>
+    </author>
+    <author fullname="Gerald Fraser" initials="T" surname="Fraser">
+      <organization/>
+    </author>
+    <author fullname="David Plusquellic" initials="F" surname="Plusquellic">
+      <organization/>
+    </author>
+    <author fullname="Alan Samuels" initials="C" surname="Samuels">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7134"/>
+  <seriesInfo name="NIST" value="NIST IR 7134"/>
 </reference>

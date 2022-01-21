@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6414" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6414.pdf">
   <front>
     <title>Characterization and identification of super-effective thermal fire extinguishing agents</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6414"/>
-    <seriesInfo name="NIST" value="NIST IR 6414"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
-    <author fullname="Linda Blevins" initials="L." surname="Blevins"/>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
+    <author fullname="Jiann Yang" initials="C" surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Marcia Huber" initials="L" surname="Huber">
+      <organization/>
+    </author>
+    <author fullname="Linda Blevins" initials="G" surname="Blevins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6414"/>
+  <seriesInfo name="NIST" value="NIST IR 6414"/>
 </reference>

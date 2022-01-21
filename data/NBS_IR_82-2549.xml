@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2549" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2549.pdf">
   <front>
     <title>Planning report :NBS and industrial biotechnology : technical developments and future measurement needs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2549"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2549"/>
-    <author fullname="Thomas O'Brien" initials="T." surname="O'Brien"/>
+    <author fullname="Thomas O'Brien" initials="C" surname="O'Brien">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2549"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2549"/>
 </reference>

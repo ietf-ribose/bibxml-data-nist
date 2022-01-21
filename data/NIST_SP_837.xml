@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.837" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication837.pdf">
   <front>
     <title>Science, technology and competitiveness</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.837"/>
-    <seriesInfo name="NIST" value="NIST SP 837"/>
-    <author surname="Hixenbaugh"/>
-    <author surname="Hixenbaugh"/>
+    <author initials="GW" surname="Hixenbaugh">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Hixenbaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.837"/>
+  <seriesInfo name="NIST" value="NIST SP 837"/>
 </reference>

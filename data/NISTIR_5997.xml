@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5997" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5997.pdf">
   <front>
     <title>Use of computational fluid dynamics to analyze indoor air quality issues</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5997"/>
-    <seriesInfo name="NIST" value="NIST IR 5997"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5997"/>
+  <seriesInfo name="NIST" value="NIST IR 5997"/>
 </reference>

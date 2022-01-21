@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.84-2949" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2949.pdf">
   <front>
     <title>Advanced thin film thermocouples</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2949"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2949"/>
-    <author fullname="Kenneth Kreider" initials="K." surname="Kreider"/>
-    <author fullname="Stephen Semancik" initials="S." surname="Semancik"/>
-    <author fullname="Craig Olson" initials="C." surname="Olson"/>
+    <author fullname="Kenneth Kreider" initials="G" surname="Kreider">
+      <organization/>
+    </author>
+    <author fullname="Stephen Semancik" initials="S." surname="Semancik">
+      <organization/>
+    </author>
+    <author fullname="Craig Olson" initials="C." surname="Olson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2949"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2949"/>
 </reference>

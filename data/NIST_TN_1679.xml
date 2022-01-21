@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1679" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1679.pdf">
   <front>
     <title>Repeatability and reproducibility of compression strength measurements conducted according to ASTM E9</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1679"/>
-    <seriesInfo name="NIST" value="NIST TN 1679"/>
-    <author fullname="Petrina Potts" initials="P." surname="Potts">
+    <author fullname="Petrina Potts" initials="C" surname="Potts">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
     <author fullname="Li Ma" initials="L." surname="Ma">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
-    <author fullname="Stephen Graham" initials="S." surname="Graham">
+    <author fullname="Stephen Graham" initials="M" surname="Graham">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Adler" initials="M." surname="Adler">
+    <author fullname="Matthew Adler" initials="A" surname="Adler">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2009" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1679"/>
+  <seriesInfo name="NIST" value="NIST TN 1679"/>
 </reference>

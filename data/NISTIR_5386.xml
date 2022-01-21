@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.5386" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5386.pdf">
   <front>
     <title>Proceedings of the workshop of the Federal Criteria for information technology security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5386"/>
-    <seriesInfo name="NIST" value="NIST IR 5386"/>
-    <author fullname="Gene Troy" initials="G." surname="Troy"/>
-    <author fullname="Lynne Ambuel" initials="L." surname="Ambuel"/>
-    <author fullname="Frank Mayer" initials="F." surname="Mayer"/>
-    <author fullname="Terry Mayfield" initials="T." surname="Mayfield"/>
-    <author fullname="Marshall Abrams" initials="M." surname="Abrams"/>
-    <author fullname="Les Fraime" initials="L." surname="Fraime"/>
-    <author fullname="Virgil Gligor" initials="V." surname="Gligor"/>
+    <author fullname="Gene Troy" initials="G." surname="Troy">
+      <organization/>
+    </author>
+    <author fullname="Lynne Ambuel" initials="M" surname="Ambuel">
+      <organization/>
+    </author>
+    <author fullname="Frank Mayer" initials="F." surname="Mayer">
+      <organization/>
+    </author>
+    <author fullname="Terry Mayfield" initials="T." surname="Mayfield">
+      <organization/>
+    </author>
+    <author fullname="Marshall Abrams" initials="M." surname="Abrams">
+      <organization/>
+    </author>
+    <author fullname="Les Fraime" initials="L." surname="Fraime">
+      <organization/>
+    </author>
+    <author fullname="Virgil Gligor" initials="V." surname="Gligor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5386"/>
+  <seriesInfo name="NIST" value="NIST IR 5386"/>
 </reference>

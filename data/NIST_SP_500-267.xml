@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.500-267" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-267.pdf">
   <front>
     <title>A profile for IPv6 in the U.S. Government</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-267"/>
-    <seriesInfo name="NIST" value="NIST SP 500-267"/>
-    <author fullname="Doug Montgomery" initials="D." surname="Montgomery"/>
-    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale"/>
-    <author fullname="Sheila Frankel" initials="S." surname="Frankel"/>
-    <author fullname="Mark Carson" initials="M." surname="Carson"/>
+    <author fullname="Doug Montgomery" initials="D." surname="Montgomery">
+      <organization/>
+    </author>
+    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale">
+      <organization/>
+    </author>
+    <author fullname="Sheila Frankel" initials="S." surname="Frankel">
+      <organization/>
+    </author>
+    <author fullname="Mark Carson" initials="M." surname="Carson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-267"/>
+  <seriesInfo name="NIST" value="NIST SP 500-267"/>
 </reference>

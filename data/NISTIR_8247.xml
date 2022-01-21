@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8247" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8247.pdf">
   <front>
     <title>Guidelines for generating public safety benchmark scenario set</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8247"/>
-    <seriesInfo name="NIST" value="NIST IR 8247"/>
     <author fullname="Richard Rouil" initials="R." surname="Rouil">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8247"/>
+  <seriesInfo name="NIST" value="NIST IR 8247"/>
 </reference>

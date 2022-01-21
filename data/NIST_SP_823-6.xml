@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.823-6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication823-6.pdf">
   <front>
     <title>ISDN conformance testing guidelines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.823-6"/>
-    <seriesInfo name="NIST" value="NIST SP 823-6"/>
-    <author fullname="Leslie Collica" initials="L." surname="Collica"/>
-    <author fullname="Leslie Collica" initials="L." surname="Collica"/>
-    <author fullname="Dawn Hoffman" initials="D." surname="Hoffman"/>
+    <author fullname="Leslie Collica" initials="A" surname="Collica">
+      <organization/>
+    </author>
+    <author fullname="Leslie Collica" initials="A" surname="Collica">
+      <organization/>
+    </author>
+    <author fullname="Dawn Hoffman" initials="M" surname="Hoffman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.823-6"/>
+  <seriesInfo name="NIST" value="NIST SP 823-6"/>
 </reference>

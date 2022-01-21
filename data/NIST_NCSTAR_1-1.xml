@@ -1,11 +1,15 @@
 <reference anchor="NIST.NCSTAR.1-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-1.pdf">
   <front>
     <title>Design, construction, and maintenance of structural and life safety systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-1"/>
-    <author fullname="HS Lew" initials="H." surname="Lew"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
-    <author fullname="Nicholas Carino" initials="N." surname="Carino"/>
+    <author fullname="HS Lew" initials="H." surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
+    <author fullname="Nicholas Carino" initials="J" surname="Carino">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-1"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-5.pdf">
   <front>
     <title>Standard Reference Materials :Accuracy of solution x-ray spectrometric analysis of copper-base alloys/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-5"/>
-    <seriesInfo name="NIST" value="NBS SP 260-5"/>
-    <author fullname="Richard Flitsch" initials="R." surname="Flitsch"/>
-    <author fullname="Robert Alvarez" initials="R." surname="Alvarez"/>
+    <author fullname="Richard Flitsch" initials="R." surname="Flitsch">
+      <organization/>
+    </author>
+    <author fullname="Robert Alvarez" initials="R." surname="Alvarez">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-5"/>
+  <seriesInfo name="NIST" value="NBS SP 260-5"/>
 </reference>

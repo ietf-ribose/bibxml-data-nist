@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9988" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9988.pdf">
   <front>
     <title>Noncombustibility of mineral wool and glass fiber insulation materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9988"/>
-    <seriesInfo name="NIST" value="NBS RPT 9988"/>
-    <author surname="Loftus"/>
+    <author initials="JJ" surname="Loftus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9988"/>
+  <seriesInfo name="NIST" value="NBS RPT 9988"/>
 </reference>

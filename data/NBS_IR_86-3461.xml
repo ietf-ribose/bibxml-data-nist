@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.86-3461" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3461.pdf">
   <front>
     <title>Bibliography of photon total cross section (attenuation coefficient) measurements 10 eV to 13.5 GeV</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3461"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3461"/>
-    <author surname="Hubbell"/>
-    <author surname="Gerstenberg"/>
-    <author surname="Saloman"/>
+    <author initials="JH" surname="Hubbell">
+      <organization/>
+    </author>
+    <author initials="HM" surname="Gerstenberg">
+      <organization/>
+    </author>
+    <author initials="EB" surname="Saloman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3461"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3461"/>
 </reference>

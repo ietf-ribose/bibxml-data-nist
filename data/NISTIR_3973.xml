@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3973" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3973.pdf">
   <front>
     <title>A bibliography of the NIST Electromagnetic Fields Division publications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3973"/>
-    <seriesInfo name="NIST" value="NIST IR 3973"/>
-    <author fullname="RuthMarie Lyons" initials="R.M." surname="Lyons"/>
-    <author fullname="KathrynAs Gibson" initials="K.A." surname="Gibson"/>
+    <author fullname="RuthMarie Lyons" initials="R.M." surname="Lyons">
+      <organization/>
+    </author>
+    <author fullname="KathrynAs Gibson" initials="K.A." surname="Gibson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3973"/>
+  <seriesInfo name="NIST" value="NIST IR 3973"/>
 </reference>

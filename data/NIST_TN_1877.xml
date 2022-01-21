@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1877" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1877.pdf">
   <front>
     <title>Quantitative Imaging of Clinker and Cement Microstructure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1877"/>
-    <seriesInfo name="NIST" value="NIST TN 1877"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman">
+    <author fullname="Paul Stutzman" initials="E" surname="Stutzman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Jeffrey Bullard" initials="J." surname="Bullard">
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1877"/>
+  <seriesInfo name="NIST" value="NIST TN 1877"/>
 </reference>

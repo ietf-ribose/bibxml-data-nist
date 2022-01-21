@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6989" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6989.pdf">
   <front>
     <title>Comparison of ISOIEC 17025 with the NUPIC audit checklist</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6989"/>
-    <seriesInfo name="NIST" value="NIST IR 6989"/>
-    <author fullname="Douglas Faison" initials="D." surname="Faison"/>
+    <author fullname="Douglas Faison" initials="C" surname="Faison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6989"/>
+  <seriesInfo name="NIST" value="NIST IR 6989"/>
 </reference>

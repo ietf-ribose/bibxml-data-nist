@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.781" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication781.pdf">
   <front>
     <title>Computerization of welding information</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.781"/>
-    <seriesInfo name="NIST" value="NIST SP 781"/>
-    <author surname="Siewert"/>
-    <author surname="Siewert"/>
-    <author surname="Jones"/>
-    <author surname="Ziegenfuss"/>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Jones">
+      <organization/>
+    </author>
+    <author initials="HG" surname="Ziegenfuss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.781"/>
+  <seriesInfo name="NIST" value="NIST SP 781"/>
 </reference>

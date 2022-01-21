@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.960-15" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-15.pdf">
   <front>
     <title>NIST recommended practice guideDTA and heat-flix DSC measurements of alloy melting and freezing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.960-15"/>
-    <seriesInfo name="NIST" value="NBS SP 960-15"/>
-    <author surname="Kattner"/>
-    <author surname="Perepezko"/>
-    <author surname="Boettinger"/>
+    <author initials="UR" surname="Kattner">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Perepezko">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Boettinger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.960-15"/>
+  <seriesInfo name="NIST" value="NBS SP 960-15"/>
 </reference>

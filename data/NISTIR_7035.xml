@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7035" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7035.pdf">
   <front>
     <title>Comparison of measured and predicted tracer gas concentrations in a townhouse</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7035"/>
-    <seriesInfo name="NIST" value="NIST IR 7035"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Steven Nabinger" initials="S." surname="Nabinger"/>
-    <author fullname="Arpita Gupte" initials="A." surname="Gupte"/>
-    <author fullname="Cynthia Howard-Reed" initials="C." surname="Howard-Reed"/>
-    <author fullname="Lance Wallace" initials="L." surname="Wallace"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Steven Nabinger" initials="J" surname="Nabinger">
+      <organization/>
+    </author>
+    <author fullname="Arpita Gupte" initials="A." surname="Gupte">
+      <organization/>
+    </author>
+    <author fullname="Cynthia Howard-Reed" initials="C." surname="Howard-Reed">
+      <organization/>
+    </author>
+    <author fullname="Lance Wallace" initials="L." surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7035"/>
+  <seriesInfo name="NIST" value="NIST IR 7035"/>
 </reference>

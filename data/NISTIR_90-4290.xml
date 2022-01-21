@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.90-4290" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4290.pdf">
   <front>
     <title>An experimental evaluation of two nonazeotropic refrigerant mixtures in a water-to-water, breadboard heat pump</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4290"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4290"/>
-    <author fullname="Michael Kauffeld" initials="M." surname="Kauffeld"/>
-    <author fullname="William Mulroy" initials="W." surname="Mulroy"/>
-    <author fullname="Mark McLinden" initials="M." surname="McLinden"/>
-    <author fullname="David Didion" initials="D." surname="Didion"/>
+    <author fullname="Michael Kauffeld" initials="M." surname="Kauffeld">
+      <organization/>
+    </author>
+    <author fullname="William Mulroy" initials="W." surname="Mulroy">
+      <organization/>
+    </author>
+    <author fullname="Mark McLinden" initials="M." surname="McLinden">
+      <organization/>
+    </author>
+    <author fullname="David Didion" initials="D." surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4290"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4290"/>
 </reference>

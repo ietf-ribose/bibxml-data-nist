@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-168" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-168.pdf">
   <front>
     <title>Approximate matching : definition and terminology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-168"/>
-    <seriesInfo name="NIST" value="NIST SP 800-168"/>
     <author fullname="Frank Breitinger" initials="F." surname="Breitinger">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2014" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-168"/>
+  <seriesInfo name="NIST" value="NIST SP 800-168"/>
 </reference>

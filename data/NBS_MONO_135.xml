@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph135.pdf">
   <front>
     <title>Properties of glasses in some ternary systems containing BaO and SiO₂</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.135"/>
-    <seriesInfo name="NIST" value="NBS MONO 135"/>
-    <author fullname="Given Cleek" initials="G." surname="Cleek"/>
-    <author surname="Babcock"/>
+    <author fullname="Given Cleek" initials="W" surname="Cleek">
+      <organization/>
+    </author>
+    <author initials="CL" surname="Babcock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.135"/>
+  <seriesInfo name="NIST" value="NBS MONO 135"/>
 </reference>

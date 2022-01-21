@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds5.pdf">
   <front>
     <title>The band spectrum of carbon monoxide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.5"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 5"/>
-    <author fullname="Paul Krupenie" initials="P." surname="Krupenie"/>
+    <author fullname="Paul Krupenie" initials="H" surname="Krupenie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.5"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 5"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.15" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular15.pdf">
   <front>
     <title>Letter Circular 15 (Communication B512):interchangeability of U.S. standards and British standard Whitworth threads by diameter modification</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.15"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 15"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1919"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.15"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 15"/>
 </reference>

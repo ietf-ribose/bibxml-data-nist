@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.85-3252" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3252.pdf">
   <front>
     <title>A program for the development of a benchmark compartment fire model computer code</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3252"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3252"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
-    <author fullname="John Rockett" initials="J." surname="Rockett"/>
-    <author fullname="Henry Mitler" initials="H." surname="Mitler"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="John Rockett" initials="A" surname="Rockett">
+      <organization/>
+    </author>
+    <author fullname="Henry Mitler" initials="E" surname="Mitler">
+      <organization/>
+    </author>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3252"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3252"/>
 </reference>

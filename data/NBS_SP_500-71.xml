@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-71.pdf">
   <front>
     <title>Remote record access</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-71"/>
-    <seriesInfo name="NIST" value="NBS SP 500-71"/>
-    <author fullname="Helen Wood" initials="H." surname="Wood"/>
-    <author fullname="Stephen Kimbleton" initials="S." surname="Kimbleton"/>
+    <author fullname="Helen Wood" initials="M" surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="Stephen Kimbleton" initials="R" surname="Kimbleton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-71"/>
+  <seriesInfo name="NIST" value="NBS SP 500-71"/>
 </reference>

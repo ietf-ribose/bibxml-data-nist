@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.43" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience43.pdf">
   <front>
     <title>Paper honeycomb sandwich panels as lightweight structural components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.43"/>
-    <seriesInfo name="NIST" value="NBS BSS 43"/>
-    <author surname="Reichard"/>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.43"/>
+  <seriesInfo name="NIST" value="NBS BSS 43"/>
 </reference>

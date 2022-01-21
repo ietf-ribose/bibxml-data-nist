@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6460" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6460.pdf">
   <front>
     <title>Thermal spray coatings workshop:sensors, modeling and control strategies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6460"/>
-    <seriesInfo name="NIST" value="NIST IR 6460"/>
-    <author fullname="Frank Biancaniello" initials="F." surname="Biancaniello"/>
-    <author fullname="Stephen Ridder" initials="S." surname="Ridder"/>
+    <author fullname="Frank Biancaniello" initials="S" surname="Biancaniello">
+      <organization/>
+    </author>
+    <author fullname="Stephen Ridder" initials="D" surname="Ridder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6460"/>
+  <seriesInfo name="NIST" value="NIST IR 6460"/>
 </reference>

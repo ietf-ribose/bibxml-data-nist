@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1495" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1495.pdf">
   <front>
     <title>Assessment of a medium-scale polyurethane foam flammability test</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1495"/>
-    <seriesInfo name="NIST" value="NIST TN 1495"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="John Shields" initials="J." surname="Shields"/>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="John Shields" initials="R" surname="Shields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1495"/>
+  <seriesInfo name="NIST" value="NIST TN 1495"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.960-10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-10.pdf">
   <front>
     <title>X-ray topography</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.960-10"/>
-    <seriesInfo name="NIST" value="NIST SP 960-10"/>
-    <author fullname="David Black" initials="D." surname="Black"/>
-    <author fullname="Gabrielle Long" initials="G." surname="Long"/>
+    <author fullname="David Black" initials="R" surname="Black">
+      <organization/>
+    </author>
+    <author fullname="Gabrielle Long" initials="G" surname="Long">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.960-10"/>
+  <seriesInfo name="NIST" value="NIST SP 960-10"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-1658" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-1658.pdf">
   <front>
     <title>Mechanical properties of concrete mortar at low temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1658"/>
-    <seriesInfo name="NIST" value="NBS IR 82-1658"/>
-    <author surname="Arvidson"/>
-    <author fullname="LL Sparks" initials="L." surname="Sparks"/>
-    <author surname="Steketee"/>
+    <author initials="JM" surname="Arvidson">
+      <organization/>
+    </author>
+    <author fullname="LL Sparks" initials="L." surname="Sparks">
+      <organization/>
+    </author>
+    <author initials="E" surname="Steketee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1658"/>
+  <seriesInfo name="NIST" value="NBS IR 82-1658"/>
 </reference>

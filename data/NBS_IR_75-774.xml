@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-774" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-774.pdf">
   <front>
     <title>Calibration of Kerr systems used to measure high voltage pulses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-774"/>
-    <seriesInfo name="NIST" value="NBS IR 75-774"/>
-    <author fullname="Robert Hebner" initials="R." surname="Hebner"/>
+    <author fullname="Robert Hebner" initials="E" surname="Hebner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-774"/>
+  <seriesInfo name="NIST" value="NBS IR 75-774"/>
 </reference>

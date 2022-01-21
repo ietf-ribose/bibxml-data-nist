@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.25" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds25.pdf">
   <front>
     <title>Electron impact excitation of atoms</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.25"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 25"/>
-    <author surname="Moiseiwitsch"/>
-    <author surname="Smith"/>
+    <author initials="BL" surname="Moiseiwitsch">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.25"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 25"/>
 </reference>

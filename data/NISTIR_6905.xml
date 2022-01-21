@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6905" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6905.pdf">
   <front>
     <title>Materials reliability division, FY 2002 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6905"/>
-    <seriesInfo name="NIST" value="NIST IR 6905"/>
-    <author fullname="Fred Fickett" initials="F." surname="Fickett"/>
-    <author fullname="Thomas Siewert" initials="T." surname="Siewert"/>
+    <author fullname="Fred Fickett" initials="R" surname="Fickett">
+      <organization/>
+    </author>
+    <author fullname="Thomas Siewert" initials="A" surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6905"/>
+  <seriesInfo name="NIST" value="NIST IR 6905"/>
 </reference>

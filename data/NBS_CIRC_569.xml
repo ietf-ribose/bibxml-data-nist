@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.569" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular569.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 569:fused-quartz fibers- a survey of properties, applications, and production methods</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.569"/>
-    <seriesInfo name="NIST" value="NBS CIRC 569"/>
-    <author fullname="Nancy Tighe" initials="N." surname="Tighe"/>
+    <author fullname="Nancy Tighe" initials="J" surname="Tighe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.569"/>
+  <seriesInfo name="NIST" value="NBS CIRC 569"/>
 </reference>

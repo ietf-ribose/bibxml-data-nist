@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1885" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1885.pdf">
   <front>
     <title>Interference and Coexistence of Wireless Systems in Critical Infrastructure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1885"/>
-    <seriesInfo name="NIST" value="NIST TN 1885"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke">
+    <author fullname="Galen Koepke" initials="H" surname="Koepke">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="William Young" initials="W." surname="Young">
+    <author fullname="William Young" initials="F" surname="Young">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury">
+    <author fullname="John Ladbury" initials="M" surname="Ladbury">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Jason Coder" initials="J." surname="Coder">
+    <author fullname="Jason Coder" initials="B" surname="Coder">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1885"/>
+  <seriesInfo name="NIST" value="NIST TN 1885"/>
 </reference>

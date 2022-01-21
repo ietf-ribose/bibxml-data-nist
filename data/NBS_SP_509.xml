@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication509.pdf">
   <front>
     <title>Laser induced damage in optical materials :1977</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.509"/>
-    <seriesInfo name="NIST" value="NBS SP 509"/>
-    <author fullname="Alexander Glass" initials="A." surname="Glass"/>
-    <author fullname="Arthur Guenther" initials="A." surname="Guenther"/>
+    <author fullname="Alexander Glass" initials="J" surname="Glass">
+      <organization/>
+    </author>
+    <author fullname="Arthur Guenther" initials="H" surname="Guenther">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.509"/>
+  <seriesInfo name="NIST" value="NBS SP 509"/>
 </reference>

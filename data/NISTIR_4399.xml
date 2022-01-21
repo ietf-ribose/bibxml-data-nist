@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4399" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4399.pdf">
   <front>
     <title>Evaluation of exit signs in clear and smoke conditions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4399"/>
-    <seriesInfo name="NIST" value="NIST IR 4399"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="Mubarak Dahir" initials="M." surname="Dahir"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="Mubarak Dahir" initials="S" surname="Dahir">
+      <organization/>
+    </author>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4399"/>
+  <seriesInfo name="NIST" value="NIST IR 4399"/>
 </reference>

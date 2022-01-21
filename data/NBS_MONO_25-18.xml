@@ -1,15 +1,27 @@
 <reference anchor="NBS.MONO.25-18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph25-18.pdf">
   <front>
     <title>Standard x-ray diffraction powder patterns :section 18- data for 58 substances</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.25-18"/>
-    <seriesInfo name="NIST" value="NBS MONO 25-18"/>
-    <author fullname="Marlene Morris" initials="M." surname="Morris"/>
-    <author fullname="Howard McMurdie" initials="H." surname="McMurdie"/>
-    <author fullname="Eloise Evans" initials="E." surname="Evans"/>
-    <author fullname="Boris Paretzkin" initials="B." surname="Paretzkin"/>
-    <author fullname="Harry Parker" initials="H." surname="Parker"/>
-    <author fullname="Nicolas Panagiotopoulos" initials="N." surname="Panagiotopoulos"/>
-    <author fullname="Camden Hubbard" initials="C." surname="Hubbard"/>
+    <author fullname="Marlene Morris" initials="C" surname="Morris">
+      <organization/>
+    </author>
+    <author fullname="Howard McMurdie" initials="F" surname="McMurdie">
+      <organization/>
+    </author>
+    <author fullname="Eloise Evans" initials="H" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Boris Paretzkin" initials="B." surname="Paretzkin">
+      <organization/>
+    </author>
+    <author fullname="Harry Parker" initials="S" surname="Parker">
+      <organization/>
+    </author>
+    <author fullname="Nicolas Panagiotopoulos" initials="C" surname="Panagiotopoulos">
+      <organization/>
+    </author>
+    <author fullname="Camden Hubbard" initials="C." surname="Hubbard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.25-18"/>
+  <seriesInfo name="NIST" value="NBS MONO 25-18"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.5603" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5603.pdf">
   <front>
     <title>Tables of Coulomb wave functions of order zero</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5603"/>
-    <seriesInfo name="NIST" value="NBS RPT 5603"/>
-    <author fullname="Milton Abramowitz" initials="M." surname="Abramowitz"/>
+    <author fullname="Milton Abramowitz" initials="M." surname="Abramowitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5603"/>
+  <seriesInfo name="NIST" value="NBS RPT 5603"/>
 </reference>

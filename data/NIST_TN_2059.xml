@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2059" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2059.pdf">
   <front>
     <title>NIST-NPL bilateral comparison of guarded-hot-plate laboratories from 20 °C to 160 °C</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2059"/>
-    <seriesInfo name="NIST" value="NIST TN 2059"/>
-    <author fullname="Robert Zarr" initials="R." surname="Zarr">
+    <author fullname="Robert Zarr" initials="R" surname="Zarr">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Jiyu Wu" initials="J." surname="Wu">
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2059"/>
+  <seriesInfo name="NIST" value="NIST TN 2059"/>
 </reference>

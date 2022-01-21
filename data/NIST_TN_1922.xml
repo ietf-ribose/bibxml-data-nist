@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1922" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1922.pdf">
   <front>
     <title>Implementation guidelines for executive order 13717: establishing a federal earthquake risk management standard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1922"/>
-    <seriesInfo name="NIST" value="NIST TN 1922"/>
-    <author fullname="John Hayes Jr." initials="J." surname="Hayes Jr.">
+    <author fullname="John Hayes Jr." initials="R" surname="Hayes Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Steven McCabe" initials="S." surname="McCabe">
+    <author fullname="Steven McCabe" initials="L" surname="McCabe">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Michael Mahoney" initials="M." surname="Mahoney">
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1922"/>
+  <seriesInfo name="NIST" value="NIST TN 1922"/>
 </reference>

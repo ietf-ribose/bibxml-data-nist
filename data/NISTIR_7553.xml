@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7553" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7553.pdf">
   <front>
     <title>SlapsSegII</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7553"/>
-    <seriesInfo name="NIST" value="NIST IR 7553"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan"/>
-    <author fullname="Brian Cochran" initials="B." surname="Cochran"/>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+      <organization/>
+    </author>
+    <author fullname="Brian Cochran" initials="B." surname="Cochran">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7553"/>
+  <seriesInfo name="NIST" value="NIST IR 7553"/>
 </reference>

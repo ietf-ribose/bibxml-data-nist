@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4408" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4408.pdf">
   <front>
     <title>Hospital Energy Analysis Toolkit (HEAT):user manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4408"/>
-    <seriesInfo name="NIST" value="NIST IR 4408"/>
-    <author fullname="Stephen Weber" initials="S." surname="Weber"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
+    <author fullname="Stephen Weber" initials="F" surname="Weber">
+      <organization/>
+    </author>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4408"/>
+  <seriesInfo name="NIST" value="NIST IR 4408"/>
 </reference>

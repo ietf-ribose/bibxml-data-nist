@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9846" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9846.pdf">
   <front>
     <title>Microbial corrosion :technical summary report number 1 for the period May 1, 1967 to April 30, 1968</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9846"/>
-    <seriesInfo name="NIST" value="NBS RPT 9846"/>
-    <author fullname="Warren Iverson" initials="W." surname="Iverson"/>
+    <author fullname="Warren Iverson" initials="P" surname="Iverson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9846"/>
+  <seriesInfo name="NIST" value="NBS RPT 9846"/>
 </reference>

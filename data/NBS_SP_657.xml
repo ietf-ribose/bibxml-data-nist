@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.657" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication657.pdf">
   <front>
     <title>The resource recovery planning model</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.657"/>
-    <seriesInfo name="NIST" value="NBS SP 657"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="Edward Berman" initials="E." surname="Berman"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="Edward Berman" initials="B" surname="Berman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.657"/>
+  <seriesInfo name="NIST" value="NBS SP 657"/>
 </reference>

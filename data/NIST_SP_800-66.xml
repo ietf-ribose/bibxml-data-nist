@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.800-66" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66.pdf">
   <front>
     <title>An introductory resource guide for implementing the Health Insurance Portability and Accountability Act (HIPAA) security rule</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-66"/>
-    <seriesInfo name="NIST" value="NIST SP 800-66"/>
-    <author surname="Hash">
+    <author initials="J" surname="Hash">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Bowen">
+    <author initials="P" surname="Bowen">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Johnson">
+    <author initials="LA" surname="Johnson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Smith">
+    <author initials="CD" surname="Smith">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Steingberg">
+    <author initials="DI" surname="Steingberg">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-66"/>
+  <seriesInfo name="NIST" value="NIST SP 800-66"/>
 </reference>

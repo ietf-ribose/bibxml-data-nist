@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6180.pdf">
   <front>
     <title>User guide to CADMUS, a simplified parallel code for Laplacian-fractal growth</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6180"/>
-    <seriesInfo name="NIST" value="NIST IR 6180"/>
-    <author fullname="Howland Fowler" initials="H." surname="Fowler"/>
-    <author fullname="Judith Devaney" initials="J." surname="Devaney"/>
-    <author fullname="John Hagedorn" initials="J." surname="Hagedorn"/>
+    <author fullname="Howland Fowler" initials="A" surname="Fowler">
+      <organization/>
+    </author>
+    <author fullname="Judith Devaney" initials="E" surname="Devaney">
+      <organization/>
+    </author>
+    <author fullname="John Hagedorn" initials="G" surname="Hagedorn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6180"/>
+  <seriesInfo name="NIST" value="NIST IR 6180"/>
 </reference>

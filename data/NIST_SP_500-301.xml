@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.500-301" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-301.pdf">
   <front>
     <title>Simple Guide for Evaluating and Expressing the Uncertainty of NIST MeasuremenMaps of Non-hurricane Non-tornadic Wind Speeds With Specified Mean Recurrence Intervals for the Contiguous United States Using a Two-Dimensional Poisson Process Extreme Value Model and Local Regressiont Results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-301"/>
-    <seriesInfo name="NIST" value="NIST SP 500-301"/>
-    <author fullname="Adam Pintar" initials="A." surname="Pintar">
+    <author fullname="Adam Pintar" initials="L" surname="Pintar">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Emil Simiu" initials="E." surname="Simiu">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Franklin Lombardo" initials="F." surname="Lombardo">
+    <author fullname="Franklin Lombardo" initials="T" surname="Lombardo">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Marc Levitan" initials="M." surname="Levitan">
+    <author fullname="Marc Levitan" initials="L" surname="Levitan">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-301"/>
+  <seriesInfo name="NIST" value="NIST SP 500-301"/>
 </reference>

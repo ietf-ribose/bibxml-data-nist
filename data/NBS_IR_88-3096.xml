@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3096" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3096.pdf">
   <front>
     <title>Measurement of adapter loss, mismatch, and efficiency using the dual six-point</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3096"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3096"/>
-    <author fullname="George Counas" initials="G." surname="Counas"/>
-    <author fullname="Bill Yates" initials="B." surname="Yates"/>
+    <author fullname="George Counas" initials="J" surname="Counas">
+      <organization/>
+    </author>
+    <author fullname="Bill Yates" initials="C" surname="Yates">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3096"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3096"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7850" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7850.pdf">
   <front>
     <title>A prototype web-based user interface for sustainability modeling and optimization</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7850"/>
-    <seriesInfo name="NIST" value="NIST IR 7850"/>
-    <author fullname="Guodong Shao" initials="G." surname="Shao"/>
-    <author fullname="David Westbrook" initials="D." surname="Westbrook"/>
-    <author fullname="Alexander Brodsky" initials="A." surname="Brodsky"/>
+    <author fullname="Guodong Shao" initials="G." surname="Shao">
+      <organization/>
+    </author>
+    <author fullname="David Westbrook" initials="D." surname="Westbrook">
+      <organization/>
+    </author>
+    <author fullname="Alexander Brodsky" initials="A." surname="Brodsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7850"/>
+  <seriesInfo name="NIST" value="NIST IR 7850"/>
 </reference>

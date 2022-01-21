@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2334" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2334.pdf">
   <front>
     <title>Development of power system measurements -- Quarterly report April 1, 1981 to June 30, 1981</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2334"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2334"/>
-    <author surname="Hebner"/>
+    <author initials="RE" surname="Hebner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2334"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2334"/>
 </reference>

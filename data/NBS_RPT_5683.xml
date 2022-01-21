@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.5683" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5683.pdf">
   <front>
     <title>Use of a D.C. amplifier and recorder to balance a high precision resistance bridge</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5683"/>
-    <seriesInfo name="NIST" value="NBS RPT 5683"/>
-    <author fullname="George Armstrong" initials="G." surname="Armstrong"/>
-    <author surname="Wong"/>
-    <author surname="Krieger"/>
+    <author fullname="George Armstrong" initials="T" surname="Armstrong">
+      <organization/>
+    </author>
+    <author initials="PK" surname="Wong">
+      <organization/>
+    </author>
+    <author initials="LA" surname="Krieger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1957" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5683"/>
+  <seriesInfo name="NIST" value="NBS RPT 5683"/>
 </reference>

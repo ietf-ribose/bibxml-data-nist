@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.439" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote439.pdf">
   <front>
     <title>Laser-source integrating sphere reflectometer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.439"/>
-    <seriesInfo name="NIST" value="NBS TN 439"/>
-    <author fullname="Gerhart Kneissl" initials="G." surname="Kneissl"/>
+    <author fullname="Gerhart Kneissl" initials="J" surname="Kneissl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.439"/>
+  <seriesInfo name="NIST" value="NBS TN 439"/>
 </reference>

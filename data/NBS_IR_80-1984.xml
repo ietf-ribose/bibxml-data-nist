@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-1984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1984.pdf">
   <front>
     <title>Static pressures produced by room fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1984"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1984"/>
-    <author surname="Fang"/>
+    <author initials="JB" surname="Fang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1984"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1984"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.105" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures105.pdf">
   <front>
     <title>Paint manual</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.105"/>
-    <seriesInfo name="NIST" value="NBS BMS 105"/>
-    <author fullname="Percy Walker" initials="P." surname="Walker"/>
-    <author fullname="Eugene Hickson" initials="E." surname="Hickson"/>
+    <author fullname="Percy Walker" initials="H" surname="Walker">
+      <organization/>
+    </author>
+    <author fullname="Eugene Hickson" initials="F" surname="Hickson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.105"/>
+  <seriesInfo name="NIST" value="NBS BMS 105"/>
 </reference>

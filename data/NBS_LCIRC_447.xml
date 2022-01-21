@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.447" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular447.pdf">
   <front>
     <title>Letter Circular 447:publications on paper and paper research by the staff of the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.447"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 447"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1935"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.447"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 447"/>
 </reference>

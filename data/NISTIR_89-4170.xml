@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4170" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4170.pdf">
   <front>
     <title>Measurements of tribological behavior of advanced materials:summary of U. S. results on Vamas round-robin no. 2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4170"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4170"/>
-    <author surname="Ruff"/>
-    <author surname="Jahanmir"/>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
+    <author initials="S" surname="Jahanmir">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4170"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4170"/>
 </reference>

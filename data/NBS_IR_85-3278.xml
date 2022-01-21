@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.85-3278" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3278.pdf">
   <front>
     <title>A self-evaluative laboratory quality system :an NBS research associate's report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3278"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3278"/>
-    <author fullname="Carol Kelly" initials="C." surname="Kelly"/>
-    <author fullname="Kim Bruley" initials="K." surname="Bruley"/>
-    <author fullname="David Craig" initials="D." surname="Craig"/>
-    <author fullname="Dale Pangonis" initials="D." surname="Pangonis"/>
-    <author fullname="John Locke" initials="J." surname="Locke"/>
+    <author fullname="Carol Kelly" initials="J" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Kim Bruley" initials="D" surname="Bruley">
+      <organization/>
+    </author>
+    <author fullname="David Craig" initials="H" surname="Craig">
+      <organization/>
+    </author>
+    <author fullname="Dale Pangonis" initials="J" surname="Pangonis">
+      <organization/>
+    </author>
+    <author fullname="John Locke" initials="W" surname="Locke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3278"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3278"/>
 </reference>

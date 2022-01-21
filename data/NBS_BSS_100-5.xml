@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.100-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience100-5.pdf">
   <front>
     <title>Building to resist the effect of wind in five volumes volume 5. housing in extreme winds :socio-economic and architectural considerations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.100-5"/>
-    <seriesInfo name="NIST" value="NBS BSS 100-5"/>
-    <author fullname="Stephen Kliment" initials="S." surname="Kliment"/>
+    <author fullname="Stephen Kliment" initials="A" surname="Kliment">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.100-5"/>
+  <seriesInfo name="NIST" value="NBS BSS 100-5"/>
 </reference>

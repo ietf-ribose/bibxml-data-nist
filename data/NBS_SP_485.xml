@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.485" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication485.pdf">
   <front>
     <title>A bibliography of sources of experimental data leading to activity or osmotic coefficients for polyvalent electrolytes in aqueous solution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.485"/>
-    <seriesInfo name="NIST" value="NBS SP 485"/>
-    <author surname="Goldberg"/>
-    <author surname="Staples"/>
-    <author surname="Nuttall"/>
-    <author surname="Arbuckle"/>
+    <author initials="RN" surname="Goldberg">
+      <organization/>
+    </author>
+    <author initials="BR" surname="Staples">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Nuttall">
+      <organization/>
+    </author>
+    <author initials="R" surname="Arbuckle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.485"/>
+  <seriesInfo name="NIST" value="NBS SP 485"/>
 </reference>

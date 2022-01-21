@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.333" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote333.pdf">
   <front>
     <title>The viscosity and thermal conductivity coefficients of dilute Argon between 100 nd 2000 K</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.333"/>
-    <seriesInfo name="NIST" value="NBS TN 333"/>
-    <author surname="Hanley"/>
+    <author initials="HJM" surname="Hanley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.333"/>
+  <seriesInfo name="NIST" value="NBS TN 333"/>
 </reference>

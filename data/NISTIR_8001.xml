@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8001" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.8001.pdf">
   <front>
     <title>Seventeenth Annual Report on Federal Agency Use of Voluntary Consensus Standards and Conformity Assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8001"/>
-    <seriesInfo name="NIST" value="NIST IR 8001"/>
     <author fullname="Nathalie Rioux" initials="N." surname="Rioux">
       <organization>Laboratory Programs</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8001"/>
+  <seriesInfo name="NIST" value="NIST IR 8001"/>
 </reference>

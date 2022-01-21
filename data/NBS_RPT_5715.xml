@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5715" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5715.pdf">
   <front>
     <title>Operating characteristics of a prototype multi-layer cloth air filter for Army aircraft</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5715"/>
-    <seriesInfo name="NIST" value="NBS RPT 5715"/>
-    <author surname="Coblentz"/>
-    <author surname="Achenbach"/>
+    <author initials="CW" surname="Coblentz">
+      <organization/>
+    </author>
+    <author initials="PR" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5715"/>
+  <seriesInfo name="NIST" value="NBS RPT 5715"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.HB.130-2008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook130-2008.pdf">
   <front>
     <title>Uniform laws and regulations in the areas of legal metrology and engine fuel quality</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2008"/>
-    <seriesInfo name="NIST" value="NIST HB 130-2008"/>
-    <author fullname="Tom Coleman" initials="T." surname="Coleman"/>
-    <author fullname="Linda Crown" initials="L." surname="Crown"/>
-    <author fullname="Lynn Sebring" initials="L." surname="Sebring"/>
-    <author fullname="Lisa Warfield" initials="L." surname="Warfield"/>
+    <author fullname="Tom Coleman" initials="T." surname="Coleman">
+      <organization/>
+    </author>
+    <author fullname="Linda Crown" initials="L." surname="Crown">
+      <organization/>
+    </author>
+    <author fullname="Lynn Sebring" initials="L." surname="Sebring">
+      <organization/>
+    </author>
+    <author fullname="Lisa Warfield" initials="L." surname="Warfield">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2008"/>
+  <seriesInfo name="NIST" value="NIST HB 130-2008"/>
 </reference>

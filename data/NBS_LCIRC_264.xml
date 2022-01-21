@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.264" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular264.pdf">
   <front>
     <title>Letter Circular 264:specifications for proving rings for calibrating testing machines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.264"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 264"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1929"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.264"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 264"/>
 </reference>

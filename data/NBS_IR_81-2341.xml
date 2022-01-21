@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2341" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2341.pdf">
   <front>
     <title>Chemical thermodynamic data banks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2341"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2341"/>
-    <author fullname="David Garvin" initials="D." surname="Garvin"/>
-    <author fullname="Vivian Parker" initials="V." surname="Parker"/>
-    <author fullname="Donald Wagman" initials="D." surname="Wagman"/>
+    <author fullname="David Garvin" initials="D." surname="Garvin">
+      <organization/>
+    </author>
+    <author fullname="Vivian Parker" initials="B" surname="Parker">
+      <organization/>
+    </author>
+    <author fullname="Donald Wagman" initials="D" surname="Wagman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2341"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2341"/>
 </reference>

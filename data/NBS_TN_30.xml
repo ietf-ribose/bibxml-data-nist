@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.30" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote30.pdf">
   <front>
     <title>Aerodynamic phenomena in stellar atmospheres, a bibliography</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.30"/>
-    <seriesInfo name="NIST" value="NBS TN 30"/>
-    <author fullname="RichardNelson Thomas" initials="R.N." surname="Thomas"/>
+    <author fullname="RichardNelson Thomas" initials="R.N." surname="Thomas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.30"/>
+  <seriesInfo name="NIST" value="NBS TN 30"/>
 </reference>

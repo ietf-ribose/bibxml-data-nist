@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2996" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2996.pdf">
   <front>
     <title>HVACSIM? building systems and equipment simulation program reference manual</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2996"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2996"/>
-    <author fullname="Daniel Clark" initials="D." surname="Clark"/>
+    <author fullname="Daniel Clark" initials="R" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2996"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2996"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6594" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6594.pdf">
   <front>
     <title>Ceramics division, FY 2000 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6594"/>
-    <seriesInfo name="NIST" value="NIST IR 6594"/>
-    <author fullname="Stephen Freiman" initials="S." surname="Freiman"/>
-    <author fullname="Stanley Dapkunas" initials="S." surname="Dapkunas"/>
+    <author fullname="Stephen Freiman" initials="W" surname="Freiman">
+      <organization/>
+    </author>
+    <author fullname="Stanley Dapkunas" initials="J" surname="Dapkunas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6594"/>
+  <seriesInfo name="NIST" value="NIST IR 6594"/>
 </reference>

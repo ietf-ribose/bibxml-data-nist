@@ -1,14 +1,24 @@
 <reference anchor="NBS.SP.260-69" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-69.pdf">
   <front>
     <title>Standard Reference MaterialsA reference method for the determination of lithium in serum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-69"/>
-    <seriesInfo name="NIST" value="NBS SP 260-69"/>
-    <author fullname="Ernest Garner" initials="E." surname="Garner"/>
-    <author fullname="Lawrence Machlan" initials="L." surname="Machlan"/>
-    <author fullname="John Mandel" initials="J." surname="Mandel"/>
-    <author fullname="Robert Paule" initials="R." surname="Paule"/>
-    <author fullname="Theodore Rains" initials="T." surname="Rains"/>
-    <author fullname="Rance Velapoldi" initials="R." surname="Velapoldi"/>
+    <author fullname="Ernest Garner" initials="L" surname="Garner">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Machlan" initials="A" surname="Machlan">
+      <organization/>
+    </author>
+    <author fullname="John Mandel" initials="J." surname="Mandel">
+      <organization/>
+    </author>
+    <author fullname="Robert Paule" initials="C" surname="Paule">
+      <organization/>
+    </author>
+    <author fullname="Theodore Rains" initials="C" surname="Rains">
+      <organization/>
+    </author>
+    <author fullname="Rance Velapoldi" initials="A" surname="Velapoldi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-69"/>
+  <seriesInfo name="NIST" value="NBS SP 260-69"/>
 </reference>

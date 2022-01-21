@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-776.pdf">
   <front>
     <title>Investigation of two techniques for application in test methods for detecting defects in spacecraft thermal-protection material</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-776"/>
-    <seriesInfo name="NIST" value="NBS IR 75-776"/>
-    <author fullname="Seymour Edelman" initials="S." surname="Edelman"/>
-    <author fullname="Steven Roth" initials="S." surname="Roth"/>
-    <author fullname="Franklin Mayo-Wells" initials="F." surname="Mayo-Wells"/>
+    <author fullname="Seymour Edelman" initials="S." surname="Edelman">
+      <organization/>
+    </author>
+    <author fullname="Steven Roth" initials="C" surname="Roth">
+      <organization/>
+    </author>
+    <author fullname="Franklin Mayo-Wells" initials="J" surname="Mayo-Wells">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-776"/>
+  <seriesInfo name="NIST" value="NBS IR 75-776"/>
 </reference>

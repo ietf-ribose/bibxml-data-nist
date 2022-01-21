@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.83-2785" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2785.pdf">
   <front>
     <title>Density effect for the ionization loss of charged particles in various substances</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2785"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2785"/>
-    <author surname="Sternheimer"/>
-    <author surname="Berger"/>
-    <author surname="Seltzer"/>
+    <author initials="RM" surname="Sternheimer">
+      <organization/>
+    </author>
+    <author initials="MJ" surname="Berger">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Seltzer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2785"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2785"/>
 </reference>

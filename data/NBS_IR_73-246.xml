@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-246" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-246.pdf">
   <front>
     <title>Fire research publications, 1969-1972</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-246"/>
-    <seriesInfo name="NIST" value="NBS IR 73-246"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
-    <author fullname="Richard Katz" initials="R." surname="Katz"/>
-    <author fullname="Pamela Powell" initials="P." surname="Powell"/>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
+    <author fullname="Richard Katz" initials="G" surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="Pamela Powell" initials="A" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-246"/>
+  <seriesInfo name="NIST" value="NBS IR 73-246"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-172" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf">
   <front>
     <title>Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171A Supplement to NIST Special Publication 800-171</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-172"/>
-    <seriesInfo name="NIST" value="NIST SP 800-172"/>
     <author fullname="RON ROSS" initials="R." surname="ROSS">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2021" month="January" day="28"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-172"/>
+  <seriesInfo name="NIST" value="NIST SP 800-172"/>
 </reference>

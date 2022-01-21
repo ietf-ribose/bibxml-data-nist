@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1500-9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1500-9.pdf">
   <front>
     <title>Charpy verification program :reports covering 1989-2002</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1500-9"/>
-    <seriesInfo name="NIST" value="NIST TN 1500-9"/>
-    <author surname="McCowan"/>
+    <author initials="CN" surname="McCowan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1500-9"/>
+  <seriesInfo name="NIST" value="NIST TN 1500-9"/>
 </reference>

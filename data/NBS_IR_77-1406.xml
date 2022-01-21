@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1406" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1406.pdf">
   <front>
     <title>Studies pf the flash fire potential of aircraft cabin interior materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1406"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1406"/>
-    <author fullname="Michael Manka" initials="M." surname="Manka"/>
-    <author fullname="Henry Pierce" initials="H." surname="Pierce"/>
-    <author fullname="Clayton Huggett" initials="C." surname="Huggett"/>
+    <author fullname="Michael Manka" initials="J" surname="Manka">
+      <organization/>
+    </author>
+    <author fullname="Henry Pierce" initials="H." surname="Pierce">
+      <organization/>
+    </author>
+    <author fullname="Clayton Huggett" initials="C." surname="Huggett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1406"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1406"/>
 </reference>

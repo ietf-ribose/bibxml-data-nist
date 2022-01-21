@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.88-3084" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3084.pdf">
   <front>
     <title>Possible designs for electric-field-strength probes for millimeter waves</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3084"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3084"/>
-    <author surname="Randa"/>
-    <author surname="Kanda"/>
-    <author surname="Melquist"/>
+    <author initials="J" surname="Randa">
+      <organization/>
+    </author>
+    <author initials="M" surname="Kanda">
+      <organization/>
+    </author>
+    <author initials="D" surname="Melquist">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3084"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3084"/>
 </reference>

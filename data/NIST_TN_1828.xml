@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1828" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1828.pdf">
   <front>
     <title>Software independent data mapping tool for structural fire analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1828"/>
-    <seriesInfo name="NIST" value="NIST TN 1828"/>
-    <author fullname="Dilip Banerjee" initials="D." surname="Banerjee">
+    <author fullname="Dilip Banerjee" initials="K" surname="Banerjee">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1828"/>
+  <seriesInfo name="NIST" value="NIST TN 1828"/>
 </reference>

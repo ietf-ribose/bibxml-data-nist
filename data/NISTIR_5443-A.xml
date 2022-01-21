@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5443-A" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5443-A.pdf">
   <front>
     <title>Program of the Subcommittee on Construction and Building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5443-A"/>
-    <seriesInfo name="NIST" value="NIST IR 5443-A"/>
-    <author fullname="Andrew Fowell" initials="A." surname="Fowell"/>
+    <author fullname="Andrew Fowell" initials="J" surname="Fowell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5443-A"/>
+  <seriesInfo name="NIST" value="NIST IR 5443-A"/>
 </reference>

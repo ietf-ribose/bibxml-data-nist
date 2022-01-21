@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.742" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote742.pdf">
   <front>
     <title>United States and Canadian fabric flammability standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.742"/>
-    <seriesInfo name="NIST" value="NBS TN 742"/>
-    <author fullname="Richard Katz" initials="R." surname="Katz"/>
+    <author fullname="Richard Katz" initials="G" surname="Katz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.742"/>
+  <seriesInfo name="NIST" value="NBS TN 742"/>
 </reference>

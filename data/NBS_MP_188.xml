@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.188" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub188.pdf">
   <front>
     <title>Microbiological deterioration of organic materials :its prevention and methods of test/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.188"/>
-    <seriesInfo name="NIST" value="NBS MP 188"/>
-    <author fullname="Edward Abrams" initials="E." surname="Abrams"/>
+    <author fullname="Edward Abrams" initials="E." surname="Abrams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.188"/>
+  <seriesInfo name="NIST" value="NBS MP 188"/>
 </reference>

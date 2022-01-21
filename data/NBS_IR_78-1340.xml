@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1340" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1340.pdf">
   <front>
     <title>Container board :collaborative reference program for containerboard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1340"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1340"/>
-    <author surname="Randall"/>
-    <author surname="Stevenson"/>
+    <author initials="EB" surname="Randall">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Stevenson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1340"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1340"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6376" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6376.pdf">
   <front>
     <title>OOMMF user's guide, version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6376"/>
-    <seriesInfo name="NIST" value="NIST IR 6376"/>
-    <author surname="Donahue"/>
-    <author surname="Porter"/>
+    <author initials="MJ" surname="Donahue">
+      <organization/>
+    </author>
+    <author initials="DG" surname="Porter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6376"/>
+  <seriesInfo name="NIST" value="NIST IR 6376"/>
 </reference>

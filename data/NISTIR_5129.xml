@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5129" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5129.pdf">
   <front>
     <title>Methods for evaluating the performance of systems intended to recognize characters from image data scanned from forms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5129"/>
-    <seriesInfo name="NIST" value="NIST IR 5129"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5129"/>
+  <seriesInfo name="NIST" value="NIST IR 5129"/>
 </reference>

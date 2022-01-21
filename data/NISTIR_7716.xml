@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7716" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7716.pdf">
   <front>
     <title>Recommended practice extensions for GD&amp;T in STEP-AP210 in the context of electronic connectors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7716"/>
-    <seriesInfo name="NIST" value="NIST IR 7716"/>
-    <author fullname="Jamie Stori" initials="J." surname="Stori"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
+    <author fullname="Jamie Stori" initials="J." surname="Stori">
+      <organization/>
+    </author>
+    <author fullname="Kevin Brady" initials="K." surname="Brady">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7716"/>
+  <seriesInfo name="NIST" value="NIST IR 7716"/>
 </reference>

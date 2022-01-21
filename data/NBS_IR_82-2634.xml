@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2634" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2634.pdf">
   <front>
     <title>Workshop on combustion product toxicity summary of presentations, September 10, 1982</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2634"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2634"/>
-    <author surname="Snell"/>
-    <author surname="Levin"/>
-    <author surname="Fowell"/>
+    <author initials="JE" surname="Snell">
+      <organization/>
+    </author>
+    <author initials="BC" surname="Levin">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="Fowell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2634"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2634"/>
 </reference>

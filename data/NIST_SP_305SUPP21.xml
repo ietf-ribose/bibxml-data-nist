@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.305supp21" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication305supp21.pdf">
   <front>
     <title>Publications of the National Institute of Standards and Technology 1989 Catalog</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.305supp21"/>
-    <seriesInfo name="NIST" value="NIST SP 305supp21"/>
-    <author fullname="Rebecca Pardee" initials="R." surname="Pardee"/>
-    <author fullname="Rebecca Pardee" initials="R." surname="Pardee"/>
-    <author fullname="Ernestine Gladden" initials="E." surname="Gladden"/>
+    <author fullname="Rebecca Pardee" initials="J" surname="Pardee">
+      <organization/>
+    </author>
+    <author fullname="Rebecca Pardee" initials="J" surname="Pardee">
+      <organization/>
+    </author>
+    <author fullname="Ernestine Gladden" initials="T" surname="Gladden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.305supp21"/>
+  <seriesInfo name="NIST" value="NIST SP 305supp21"/>
 </reference>

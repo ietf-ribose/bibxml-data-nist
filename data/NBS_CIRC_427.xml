@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.427" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular427.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 427:synthetic rubbers- a review of their compositions, properties and uses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.427"/>
-    <seriesInfo name="NIST" value="NBS CIRC 427"/>
-    <author fullname="Lawrence Wood" initials="L." surname="Wood"/>
+    <author fullname="Lawrence Wood" initials="A" surname="Wood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.427"/>
+  <seriesInfo name="NIST" value="NBS CIRC 427"/>
 </reference>

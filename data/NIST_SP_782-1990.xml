@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.782-1990" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication782-1990.pdf">
   <front>
     <title>NIST standard refernce data products 1990 catalog</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.782-1990"/>
-    <seriesInfo name="NIST" value="NIST SP 782-1990"/>
-    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase"/>
-    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase"/>
+    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase">
+      <organization/>
+    </author>
+    <author fullname="MalcolmW,Jr Chase" initials="M.W.J." surname="Chase">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.782-1990"/>
+  <seriesInfo name="NIST" value="NIST SP 782-1990"/>
 </reference>

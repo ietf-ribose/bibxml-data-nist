@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4144" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4144.pdf">
   <front>
     <title>Bibliography and current status of K, L, and higher shell fluorescence yields for computations of photon energy-absorption coefficients</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4144"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4144"/>
-    <author fullname="John Hubbell" initials="J." surname="Hubbell"/>
+    <author fullname="John Hubbell" initials="H" surname="Hubbell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4144"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4144"/>
 </reference>

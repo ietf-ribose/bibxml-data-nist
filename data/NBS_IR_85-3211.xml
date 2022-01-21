@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3211" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3211.pdf">
   <front>
     <title>Validation test of the thermal analysis research program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3211"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3211"/>
-    <author fullname="George Walton" initials="G." surname="Walton"/>
-    <author fullname="Kevin Cavanaugh" initials="K." surname="Cavanaugh"/>
+    <author fullname="George Walton" initials="N" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Kevin Cavanaugh" initials="K." surname="Cavanaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3211"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3211"/>
 </reference>

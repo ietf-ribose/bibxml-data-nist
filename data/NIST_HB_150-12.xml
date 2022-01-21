@@ -1,11 +1,15 @@
 <reference anchor="NIST.HB.150-12" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-12.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: GOSIP: Government Open Systems Interconnection Profile</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-12"/>
-    <seriesInfo name="NIST" value="NIST HB 150-12"/>
-    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
-    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale"/>
-    <author surname="Favreau"/>
+    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick">
+      <organization/>
+    </author>
+    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale">
+      <organization/>
+    </author>
+    <author initials="JP" surname="Favreau">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-12"/>
+  <seriesInfo name="NIST" value="NIST HB 150-12"/>
 </reference>

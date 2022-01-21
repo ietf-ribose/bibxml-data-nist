@@ -1,12 +1,18 @@
 <reference anchor="NIST.HB.150-6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook150-6.pdf">
   <front>
     <title>National voluntary laboratory accreditation program: carpet and carpet cushion</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-6"/>
-    <seriesInfo name="NIST" value="NIST HB 150-6"/>
-    <author fullname="Lawrence Galowin" initials="L." surname="Galowin"/>
-    <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter"/>
-    <author fullname="Wiley Hall" initials="W." surname="Hall"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
+    <author fullname="Lawrence Galowin" initials="S" surname="Galowin">
+      <organization/>
+    </author>
+    <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Wiley Hall" initials="A" surname="Hall">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Knab" initials="I" surname="Knab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-6"/>
+  <seriesInfo name="NIST" value="NIST HB 150-6"/>
 </reference>

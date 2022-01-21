@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2493" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2493.pdf">
   <front>
     <title>Relationship between morphology and mechanical properties of ultra high molecular weight polythylene :second annual report forthe period October 1, 1980</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2493"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2493"/>
-    <author surname="Crissman"/>
-    <author surname="Khoury"/>
-    <author surname="McKenna"/>
+    <author initials="JM" surname="Crissman">
+      <organization/>
+    </author>
+    <author initials="FA" surname="Khoury">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McKenna">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2493"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2493"/>
 </reference>

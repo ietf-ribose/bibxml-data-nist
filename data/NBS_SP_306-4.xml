@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.306-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication306-4.pdf">
   <front>
     <title>Bibliography on the analyses of optical atomic spectra :section 4, 57La</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.306-4"/>
-    <seriesInfo name="NIST" value="NBS SP 306-4"/>
-    <author fullname="Charlotte Moore" initials="C." surname="Moore"/>
+    <author fullname="Charlotte Moore" initials="E" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.306-4"/>
+  <seriesInfo name="NIST" value="NBS SP 306-4"/>
 </reference>

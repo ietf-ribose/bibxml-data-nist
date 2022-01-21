@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-1648" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-1648.pdf">
   <front>
     <title>Interim progress report :J-integral method for fitness-for-service assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1648"/>
-    <seriesInfo name="NIST" value="NBS IR 81-1648"/>
-    <author surname="Read"/>
-    <author surname="McHenry"/>
+    <author initials="DT" surname="Read">
+      <organization/>
+    </author>
+    <author initials="HI" surname="McHenry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1648"/>
+  <seriesInfo name="NIST" value="NBS IR 81-1648"/>
 </reference>

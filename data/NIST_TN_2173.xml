@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2173" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2173.pdf">
   <front>
     <title>Validation Capabilities of the NIST Campus Power System to Evaluate Distributed Control of Grid-Edge Distributed Energy Resources</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2173"/>
-    <seriesInfo name="NIST" value="NIST TN 2173"/>
     <author fullname="Dhananjay Anand" initials="D." surname="Anand">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="August" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2173"/>
+  <seriesInfo name="NIST" value="NIST TN 2173"/>
 </reference>

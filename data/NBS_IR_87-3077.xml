@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3077" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3077.pdf">
   <front>
     <title>Time-domain system for identification of the natural resonant frequencies of aircraft relevant to electromagnetic compatibility testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3077"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3077"/>
-    <author fullname="John Adams" initials="J." surname="Adams"/>
-    <author fullname="Arthur Ondrejka" initials="A." surname="Ondrejka"/>
-    <author fullname="Herbert Medley" initials="H." surname="Medley"/>
+    <author fullname="John Adams" initials="W" surname="Adams">
+      <organization/>
+    </author>
+    <author fullname="Arthur Ondrejka" initials="R" surname="Ondrejka">
+      <organization/>
+    </author>
+    <author fullname="Herbert Medley" initials="W" surname="Medley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3077"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3077"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-125A" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-125A.pdf">
   <front>
     <title>Security recommendations for hypervisor deployment on servers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125A"/>
-    <seriesInfo name="NIST" value="NIST SP 800-125A"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="January" day="23"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125A"/>
+  <seriesInfo name="NIST" value="NIST SP 800-125A"/>
 </reference>

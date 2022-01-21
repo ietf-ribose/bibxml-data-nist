@@ -1,8 +1,6 @@
 <reference anchor="NIST.EAB.11" target="https://nvlpubs.nist.gov/nistpubs/eab/NIST.EAB.11.pdf">
   <front>
     <title>NIST customer demographics: calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.EAB.11"/>
-    <seriesInfo name="NIST" value="NIST EAB 11"/>
     <author fullname="Nicole Gingrich" initials="N." surname="Gingrich">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.EAB.11"/>
+  <seriesInfo name="NIST" value="NIST EAB 11"/>
 </reference>

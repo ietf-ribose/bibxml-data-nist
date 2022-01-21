@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1460" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1460.pdf">
   <front>
     <title>The degradation of gas-fired water heaters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1460"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1460"/>
-    <author fullname="George Sushinsky" initials="G." surname="Sushinsky"/>
+    <author fullname="George Sushinsky" initials="F" surname="Sushinsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1460"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1460"/>
 </reference>

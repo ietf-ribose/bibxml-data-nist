@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.53" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook53.pdf">
   <front>
     <title>Recommendations for the disposal of carbon-14 wastes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.53"/>
-    <seriesInfo name="NIST" value="NBS HB 53"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.53"/>
+  <seriesInfo name="NIST" value="NBS HB 53"/>
 </reference>

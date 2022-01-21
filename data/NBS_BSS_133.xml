@@ -1,16 +1,30 @@
 <reference anchor="NBS.BSS.133" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience133.pdf">
   <front>
     <title>Performance of the Norris Cotton federal office building for the first 3 years of operation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.133"/>
-    <seriesInfo name="NIST" value="NBS BSS 133"/>
-    <author fullname="James Hill" initials="J." surname="Hill"/>
-    <author fullname="William May" initials="W." surname="May"/>
-    <author fullname="Thomas Richtmyer" initials="T." surname="Richtmyer"/>
-    <author fullname="Jacqueline Elder" initials="J." surname="Elder"/>
-    <author fullname="Robert Tibbott" initials="R." surname="Tibbott"/>
-    <author fullname="Gary Yonemura" initials="G." surname="Yonemura"/>
-    <author fullname="Charles Hunt" initials="C." surname="Hunt"/>
-    <author fullname="Phillip Chen" initials="P." surname="Chen"/>
+    <author fullname="James Hill" initials="E" surname="Hill">
+      <organization/>
+    </author>
+    <author fullname="William May" initials="B" surname="May">
+      <organization/>
+    </author>
+    <author fullname="Thomas Richtmyer" initials="E" surname="Richtmyer">
+      <organization/>
+    </author>
+    <author fullname="Jacqueline Elder" initials="J." surname="Elder">
+      <organization/>
+    </author>
+    <author fullname="Robert Tibbott" initials="L" surname="Tibbott">
+      <organization/>
+    </author>
+    <author fullname="Gary Yonemura" initials="T" surname="Yonemura">
+      <organization/>
+    </author>
+    <author fullname="Charles Hunt" initials="M" surname="Hunt">
+      <organization/>
+    </author>
+    <author fullname="Phillip Chen" initials="T" surname="Chen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.133"/>
+  <seriesInfo name="NIST" value="NBS BSS 133"/>
 </reference>

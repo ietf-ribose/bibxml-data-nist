@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7616" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7616.pdf">
   <front>
     <title>Sensitivities and variances for fitted parameters of spheres</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7616"/>
-    <seriesInfo name="NIST" value="NIST IR 7616"/>
-    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
-    <author fullname="Marek Franaszek" initials="M." surname="Franaszek"/>
+    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall">
+      <organization/>
+    </author>
+    <author fullname="Marek Franaszek" initials="M." surname="Franaszek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7616"/>
+  <seriesInfo name="NIST" value="NIST IR 7616"/>
 </reference>

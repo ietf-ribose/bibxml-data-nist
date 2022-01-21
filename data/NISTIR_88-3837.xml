@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3837" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3837.pdf">
   <front>
     <title>On-line concurrent simulation in production scheduling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3837"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3837"/>
-    <author fullname="Wayne Davis" initials="W." surname="Davis"/>
-    <author fullname="Albert Jones" initials="A." surname="Jones"/>
+    <author fullname="Wayne Davis" initials="J" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Albert Jones" initials="T" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3837"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3837"/>
 </reference>

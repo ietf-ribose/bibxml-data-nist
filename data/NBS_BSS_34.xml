@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.34" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience34.pdf">
   <front>
     <title>Strength of masonry walls under compressive and transverse loads</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.34"/>
-    <seriesInfo name="NIST" value="NBS BSS 34"/>
-    <author surname="Yokel"/>
-    <author surname="Mathey"/>
-    <author surname="Dikkers"/>
+    <author initials="FY" surname="Yokel">
+      <organization/>
+    </author>
+    <author initials="RG" surname="Mathey">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Dikkers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.34"/>
+  <seriesInfo name="NIST" value="NBS BSS 34"/>
 </reference>

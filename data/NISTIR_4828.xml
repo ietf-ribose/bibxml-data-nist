@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4828" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4828.pdf">
   <front>
     <title>Workshop on the measurement of transient pressure and temperature:proceedings 23-24 April 1991</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4828"/>
-    <seriesInfo name="NIST" value="NIST IR 4828"/>
-    <author fullname="Vern Bean" initials="V." surname="Bean"/>
-    <author fullname="Gregory Rosasco" initials="G." surname="Rosasco"/>
+    <author fullname="Vern Bean" initials="E" surname="Bean">
+      <organization/>
+    </author>
+    <author fullname="Gregory Rosasco" initials="J" surname="Rosasco">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4828"/>
+  <seriesInfo name="NIST" value="NIST IR 4828"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6080" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6080.pdf">
   <front>
     <title>High resolution grating-assisted acousto-optic tunable filter</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6080"/>
-    <seriesInfo name="NIST" value="NIST IR 6080"/>
-    <author fullname="EungGi Paek" initials="E.G." surname="Paek"/>
-    <author fullname="Joon Choe" initials="J." surname="Choe"/>
-    <author fullname="Tae Oh" initials="T." surname="Oh"/>
+    <author fullname="EungGi Paek" initials="E.G." surname="Paek">
+      <organization/>
+    </author>
+    <author fullname="Joon Choe" initials="Y" surname="Choe">
+      <organization/>
+    </author>
+    <author fullname="Tae Oh" initials="K" surname="Oh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6080"/>
+  <seriesInfo name="NIST" value="NIST IR 6080"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.35r1924" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular35r1924.pdf">
   <front>
     <title>Letter Circular 35:publications relating to petroleum products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.35r1924"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 35r1924"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1924"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.35r1924"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 35r1924"/>
 </reference>

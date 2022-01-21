@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6744" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6744.pdf">
   <front>
     <title>NIST sparse BLAS user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6744"/>
-    <seriesInfo name="NIST" value="NIST IR 6744"/>
-    <author fullname="Roldan Pozo" initials="R." surname="Pozo"/>
-    <author fullname="Karin Remington" initials="K." surname="Remington"/>
+    <author fullname="Roldan Pozo" initials="R." surname="Pozo">
+      <organization/>
+    </author>
+    <author fullname="Karin Remington" initials="A" surname="Remington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6744"/>
+  <seriesInfo name="NIST" value="NIST IR 6744"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.82-2631" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2631.pdf">
   <front>
     <title>Initial Graphics Exchange Specification (IGES), version 2.0</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2631"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2631"/>
-    <author fullname="Bradford Smith" initials="B." surname="Smith"/>
-    <author fullname="Kalman Brauner" initials="K." surname="Brauner"/>
-    <author fullname="Phillip Kennicott" initials="P." surname="Kennicott"/>
-    <author fullname="Michael Liewald" initials="M." surname="Liewald"/>
-    <author fullname="Joan Wellington" initials="J." surname="Wellington"/>
+    <author fullname="Bradford Smith" initials="M" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Kalman Brauner" initials="M" surname="Brauner">
+      <organization/>
+    </author>
+    <author fullname="Phillip Kennicott" initials="R" surname="Kennicott">
+      <organization/>
+    </author>
+    <author fullname="Michael Liewald" initials="M." surname="Liewald">
+      <organization/>
+    </author>
+    <author fullname="Joan Wellington" initials="J." surname="Wellington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2631"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2631"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote123.pdf">
   <front>
     <title>Functional and design problems of the NBS RF voltage bridge</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.123"/>
-    <seriesInfo name="NIST" value="NBS TN 123"/>
-    <author surname="Behrent"/>
+    <author initials="LF" surname="Behrent">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.123"/>
+  <seriesInfo name="NIST" value="NBS TN 123"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7840" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7840.pdf">
   <front>
     <title>Thermal properties and thermal modeling of ballistic clay box</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7840"/>
-    <seriesInfo name="NIST" value="NIST IR 7840"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
-    <author fullname="Amanda Forster" initials="A." surname="Forster"/>
-    <author fullname="Kirk Rice" initials="K." surname="Rice"/>
-    <author fullname="Michael Riley" initials="M." surname="Riley"/>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
+    <author fullname="Amanda Forster" initials="A." surname="Forster">
+      <organization/>
+    </author>
+    <author fullname="Kirk Rice" initials="K." surname="Rice">
+      <organization/>
+    </author>
+    <author fullname="Michael Riley" initials="M." surname="Riley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7840"/>
+  <seriesInfo name="NIST" value="NIST IR 7840"/>
 </reference>

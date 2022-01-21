@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.433" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote433.pdf">
   <front>
     <title>Input</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.433"/>
-    <seriesInfo name="NIST" value="NBS TN 433"/>
-    <author fullname="Paul De Maine" initials="P." surname="De Maine"/>
+    <author fullname="Paul De Maine" initials="AD" surname="De Maine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.433"/>
+  <seriesInfo name="NIST" value="NBS TN 433"/>
 </reference>

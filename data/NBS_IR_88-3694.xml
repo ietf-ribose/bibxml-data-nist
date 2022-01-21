@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.88-3694" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3694.pdf">
   <front>
     <title>In situ fluorescence monitoring of the viscosities of particle-filled polymers in flow</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3694"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3694"/>
-    <author fullname="Anthony Bur" initials="A." surname="Bur"/>
-    <author fullname="Francis Wang" initials="F." surname="Wang"/>
-    <author fullname="Ronald Dehl" initials="R." surname="Dehl"/>
+    <author fullname="Anthony Bur" initials="J" surname="Bur">
+      <organization/>
+    </author>
+    <author fullname="Francis Wang" initials="W" surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Ronald Dehl" initials="E" surname="Dehl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3694"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3694"/>
 </reference>

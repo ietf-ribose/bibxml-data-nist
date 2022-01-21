@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.15" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote15.pdf">
   <front>
     <title>Prediction of the cumulative distribution with time of ground wave and tropospheric wave transmission loss</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.15"/>
-    <seriesInfo name="NIST" value="NBS TN 15"/>
-    <author surname="Rice"/>
+    <author initials="PL" surname="Rice">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.15"/>
+  <seriesInfo name="NIST" value="NBS TN 15"/>
 </reference>

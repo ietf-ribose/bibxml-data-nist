@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2144" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2144.pdf">
   <front>
     <title>Residential Solar Data Center MIRADS user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2144"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2144"/>
-    <author fullname="Patricia Christopher" initials="P." surname="Christopher"/>
-    <author fullname="Michael Vogt" initials="M." surname="Vogt"/>
-    <author fullname="Douglas Hall" initials="D." surname="Hall"/>
+    <author fullname="Patricia Christopher" initials="M" surname="Christopher">
+      <organization/>
+    </author>
+    <author fullname="Michael Vogt" initials="M." surname="Vogt">
+      <organization/>
+    </author>
+    <author fullname="Douglas Hall" initials="D." surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2144"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2144"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.260-29" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-29.pdf">
   <front>
     <title>Standard Reference Materials :Calibration of NBS secondary standard magnetic tape (computer amplitude reference) SRM 3200 using the reference tape amplitude measurement Process A model II/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-29"/>
-    <seriesInfo name="NIST" value="NBS SP 260-29"/>
-    <author fullname="Sidney Geller" initials="S." surname="Geller"/>
+    <author fullname="Sidney Geller" initials="B" surname="Geller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-29"/>
+  <seriesInfo name="NIST" value="NBS SP 260-29"/>
 </reference>

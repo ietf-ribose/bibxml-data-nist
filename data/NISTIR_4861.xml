@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.4861" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4861.pdf">
   <front>
     <title>NIST Structural Ceramics Database:version 2.0, user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4861"/>
-    <seriesInfo name="NIST" value="NIST IR 4861"/>
-    <author surname="Baker"/>
-    <author surname="Munro"/>
-    <author surname="Hubbard"/>
-    <author surname="Ondik"/>
-    <author surname="Messina"/>
-    <author surname="Hearing"/>
-    <author surname="Young"/>
-    <author surname="Cranmer"/>
-    <author surname="Freiman"/>
-    <author surname="White"/>
+    <author initials="T" surname="Baker">
+      <organization/>
+    </author>
+    <author initials="R" surname="Munro">
+      <organization/>
+    </author>
+    <author initials="C" surname="Hubbard">
+      <organization/>
+    </author>
+    <author initials="H" surname="Ondik">
+      <organization/>
+    </author>
+    <author initials="C" surname="Messina">
+      <organization/>
+    </author>
+    <author initials="E" surname="Hearing">
+      <organization/>
+    </author>
+    <author initials="N" surname="Young">
+      <organization/>
+    </author>
+    <author initials="D" surname="Cranmer">
+      <organization/>
+    </author>
+    <author initials="S" surname="Freiman">
+      <organization/>
+    </author>
+    <author initials="G" surname="White">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4861"/>
+  <seriesInfo name="NIST" value="NIST IR 4861"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4814" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4814.pdf">
   <front>
     <title>NIST express working form programmer's reference</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4814"/>
-    <seriesInfo name="NIST" value="NIST IR 4814"/>
-    <author fullname="StephenNowland Clark" initials="S.N." surname="Clark"/>
-    <author fullname="Don Libes" initials="D." surname="Libes"/>
+    <author fullname="StephenNowland Clark" initials="S.N." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Don Libes" initials="D." surname="Libes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4814"/>
+  <seriesInfo name="NIST" value="NIST IR 4814"/>
 </reference>

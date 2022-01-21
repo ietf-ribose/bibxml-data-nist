@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.838-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication838-2.pdf">
   <front>
     <title>Publications :1992 NIST Building &amp; Fire Research Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.838-2"/>
-    <seriesInfo name="NIST" value="NIST SP 838-2"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.838-2"/>
+  <seriesInfo name="NIST" value="NIST SP 838-2"/>
 </reference>

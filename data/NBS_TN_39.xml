@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.39" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote39.pdf">
   <front>
     <title>Helium refrigeration and liquefaction using a liquid hydrogen refrigerator for precooling</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.39"/>
-    <seriesInfo name="NIST" value="NBS TN 39"/>
-    <author fullname="Dudley Chelton" initials="D." surname="Chelton"/>
+    <author fullname="Dudley Chelton" initials="B" surname="Chelton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.39"/>
+  <seriesInfo name="NIST" value="NBS TN 39"/>
 </reference>

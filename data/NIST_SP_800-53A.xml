@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-53a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53a.pdf">
   <front>
     <title>Guide for assessing the security controls in federal information systems and organizations :building effective security assessment plans</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53a"/>
-    <seriesInfo name="NIST" value="NIST SP 800-53a"/>
-    <author surname="Ross">
+    <author initials="R" surname="Ross">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Johnson">
+    <author initials="LA" surname="Johnson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Katzke">
+    <author initials="S" surname="Katzke">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Toth">
+    <author initials="P" surname="Toth">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Stoneburner">
+    <author initials="G" surname="Stoneburner">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Rogers">
+    <author initials="G" surname="Rogers">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53a"/>
+  <seriesInfo name="NIST" value="NIST SP 800-53a"/>
 </reference>

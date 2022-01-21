@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.82-2618" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2618.pdf">
   <front>
     <title>Process control sensors for the steel industry :report of workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2618"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2618"/>
-    <author surname="Mehrabian"/>
-    <author surname="Whitely"/>
-    <author surname="vanReuth"/>
-    <author surname="Wadley"/>
+    <author initials="R" surname="Mehrabian">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Whitely">
+      <organization/>
+    </author>
+    <author initials="EC" surname="vanReuth">
+      <organization/>
+    </author>
+    <author initials="HNG" surname="Wadley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2618"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2618"/>
 </reference>

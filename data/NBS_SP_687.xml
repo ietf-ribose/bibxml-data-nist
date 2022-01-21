@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.687" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication687.pdf">
   <front>
     <title>1984 NAVLAP directory of accredited laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.687"/>
-    <seriesInfo name="NIST" value="NBS SP 687"/>
-    <author fullname="Harvey Berger" initials="H." surname="Berger"/>
+    <author fullname="Harvey Berger" initials="W" surname="Berger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.687"/>
+  <seriesInfo name="NIST" value="NBS SP 687"/>
 </reference>

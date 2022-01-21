@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.150" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph150.pdf">
   <front>
     <title>Liquid-in-glass thermometry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.150"/>
-    <seriesInfo name="NIST" value="NBS MONO 150"/>
-    <author fullname="Jacquelyn Wise" initials="J." surname="Wise"/>
+    <author fullname="Jacquelyn Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.150"/>
+  <seriesInfo name="NIST" value="NBS MONO 150"/>
 </reference>

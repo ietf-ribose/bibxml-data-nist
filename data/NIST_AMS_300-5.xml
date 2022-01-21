@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.300-5" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-5.pdf">
   <front>
     <title>Model-based approach towards integrating manufacturing design and analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-5"/>
-    <seriesInfo name="NIST" value="NIST AMS 300-5"/>
     <author fullname="Anantha Narayanan" initials="A." surname="Narayanan">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-5"/>
+  <seriesInfo name="NIST" value="NIST AMS 300-5"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2087" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2087.pdf">
   <front>
     <title>Smoldering propensity in upholstered furniture:using computational and experimental methods to aid the selection of an appropriate smoldering scenario</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2087"/>
-    <seriesInfo name="NIST" value="NIST TN 2087"/>
     <author fullname="Jiuling Yang" initials="J." surname="Yang">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2020" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2087"/>
+  <seriesInfo name="NIST" value="NIST TN 2087"/>
 </reference>

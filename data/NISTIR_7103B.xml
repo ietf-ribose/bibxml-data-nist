@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7103b" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7103b.pdf">
   <front>
     <title>Modeling quantum information systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7103b"/>
-    <seriesInfo name="NIST" value="NIST IR 7103b"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Andrew Lane" initials="A." surname="Lane"/>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
+    <author fullname="Andrew Lane" initials="W" surname="Lane">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7103b"/>
+  <seriesInfo name="NIST" value="NIST IR 7103b"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-239" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-239.pdf">
   <front>
     <title>Gage block flatness and parallelism measurement</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-239"/>
-    <seriesInfo name="NIST" value="NBS IR 73-239"/>
-    <author surname="Beers"/>
-    <author surname="Tucker"/>
+    <author initials="JS" surname="Beers">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Tucker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-239"/>
+  <seriesInfo name="NIST" value="NBS IR 73-239"/>
 </reference>

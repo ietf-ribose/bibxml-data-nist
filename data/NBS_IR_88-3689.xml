@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3689" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3689.pdf">
   <front>
     <title>A prototype expert system :an automated advisor to select data sources from chemical information databases</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3689"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3689"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
-    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski"/>
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="Christopher Dabrowski" initials="E" surname="Dabrowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3689"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3689"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-90Ar1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf">
   <front>
     <title>Recommendation for Random Number Generation Using Deterministic Random Bit Generators</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-90Ar1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-90Ar1"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker">
+    <author fullname="Elaine Barker" initials="B" surname="Barker">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Kelsey" initials="J." surname="Kelsey">
+    <author fullname="John Kelsey" initials="M" surname="Kelsey">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-90Ar1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-90Ar1"/>
 </reference>

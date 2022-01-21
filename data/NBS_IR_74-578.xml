@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-578" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-578.pdf">
   <front>
     <title>Development of microwave hygrometer model III</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-578"/>
-    <seriesInfo name="NIST" value="NBS IR 74-578"/>
-    <author fullname="Daniel Stokesberry" initials="D." surname="Stokesberry"/>
-    <author fullname="Saburo Hasegawa" initials="S." surname="Hasegawa"/>
+    <author fullname="Daniel Stokesberry" initials="P" surname="Stokesberry">
+      <organization/>
+    </author>
+    <author fullname="Saburo Hasegawa" initials="S." surname="Hasegawa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-578"/>
+  <seriesInfo name="NIST" value="NBS IR 74-578"/>
 </reference>

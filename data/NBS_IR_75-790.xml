@@ -1,17 +1,33 @@
 <reference anchor="NBS.IR.75-790" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-790.pdf">
   <front>
     <title>FY75 progress report on design criteria and methodology for construction of low-rise buildings to better resist typhoons and hurricanes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-790"/>
-    <seriesInfo name="NIST" value="NBS IR 75-790"/>
-    <author fullname="Richard Marshall" initials="R." surname="Marshall"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="George Fattal" initials="G." surname="Fattal"/>
-    <author fullname="Joseph Kowalski" initials="J." surname="Kowalski"/>
-    <author fullname="Steven Kliment" initials="S." surname="Kliment"/>
-    <author fullname="Gerald Sherwood" initials="G." surname="Sherwood"/>
-    <author fullname="Thomas Wilkenson" initials="T." surname="Wilkenson"/>
-    <author fullname="Jamilur Choudhury" initials="J." surname="Choudhury"/>
+    <author fullname="Richard Marshall" initials="D" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="George Fattal" initials="S" surname="Fattal">
+      <organization/>
+    </author>
+    <author fullname="Joseph Kowalski" initials="J." surname="Kowalski">
+      <organization/>
+    </author>
+    <author fullname="Steven Kliment" initials="S." surname="Kliment">
+      <organization/>
+    </author>
+    <author fullname="Gerald Sherwood" initials="G." surname="Sherwood">
+      <organization/>
+    </author>
+    <author fullname="Thomas Wilkenson" initials="T." surname="Wilkenson">
+      <organization/>
+    </author>
+    <author fullname="Jamilur Choudhury" initials="R" surname="Choudhury">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-790"/>
+  <seriesInfo name="NIST" value="NBS IR 75-790"/>
 </reference>

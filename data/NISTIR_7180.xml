@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7180.pdf">
   <front>
     <title>Integrated supply chain simulation system (ISSS)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7180"/>
-    <seriesInfo name="NIST" value="NIST IR 7180"/>
-    <author fullname="Shigeki Umeda" initials="S." surname="Umeda"/>
-    <author fullname="Sanjay Jain" initials="S." surname="Jain"/>
+    <author fullname="Shigeki Umeda" initials="S." surname="Umeda">
+      <organization/>
+    </author>
+    <author fullname="Sanjay Jain" initials="S." surname="Jain">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7180"/>
+  <seriesInfo name="NIST" value="NIST IR 7180"/>
 </reference>

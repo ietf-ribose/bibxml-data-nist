@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1962" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1962.pdf">
   <front>
     <title>Test &amp; evaluation of the safety app from 911Cellular, LLC at NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1962"/>
-    <seriesInfo name="NIST" value="NIST TN 1962"/>
     <author fullname="Nader Moayeri" initials="N." surname="Moayeri">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1962"/>
+  <seriesInfo name="NIST" value="NIST TN 1962"/>
 </reference>

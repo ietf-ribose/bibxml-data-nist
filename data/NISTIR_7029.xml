@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.7029" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7029.pdf">
   <front>
     <title>Seabird Tissue Archival and Monitoring Project:egg collections and analytical results for 1999</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7029"/>
-    <seriesInfo name="NIST" value="NIST IR 7029"/>
-    <author fullname="StacyVander Pol" initials="S.V." surname="Pol"/>
-    <author fullname="Steven Christopher" initials="S." surname="Christopher"/>
-    <author fullname="David Roseneau" initials="D." surname="Roseneau"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Russell Day" initials="R." surname="Day"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Kristin Simac" initials="K." surname="Simac"/>
-    <author fullname="Geoff York" initials="G." surname="York"/>
+    <author fullname="StacyVander Pol" initials="S" surname="Pol">
+      <organization/>
+    </author>
+    <author fullname="Steven Christopher" initials="J" surname="Christopher">
+      <organization/>
+    </author>
+    <author fullname="David Roseneau" initials="G" surname="Roseneau">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Russell Day" initials="D" surname="Day">
+      <organization/>
+    </author>
+    <author fullname="John Kucklick" initials="R" surname="Kucklick">
+      <organization/>
+    </author>
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="Kristin Simac" initials="S" surname="Simac">
+      <organization/>
+    </author>
+    <author fullname="Geoff York" initials="W" surname="York">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7029"/>
+  <seriesInfo name="NIST" value="NIST IR 7029"/>
 </reference>

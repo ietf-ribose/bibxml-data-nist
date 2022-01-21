@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8195" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8195.pdf">
   <front>
     <title>Requirements for spectrum monitoring in industrial environments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8195"/>
-    <seriesInfo name="NIST" value="NIST IR 8195"/>
     <author fullname="Murat Aksu" initials="M." surname="Aksu">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="November" day="16"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8195"/>
+  <seriesInfo name="NIST" value="NIST IR 8195"/>
 </reference>

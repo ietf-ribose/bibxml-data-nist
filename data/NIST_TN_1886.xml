@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1886" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1886.pdf">
   <front>
     <title>An Experimental and Computational Study of Precast Concrete Moment Frames under a Column Removal Scenario</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1886"/>
-    <seriesInfo name="NIST" value="NIST TN 1886"/>
-    <author fullname="Joseph Main" initials="J." surname="Main">
+    <author fullname="Joseph Main" initials="A" surname="Main">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Yihai Bao" initials="Y." surname="Bao">
@@ -12,13 +10,13 @@
     <author fullname="Hai Lew" initials="H." surname="Lew">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+    <author fullname="Fahim Sadek" initials="H" surname="Sadek">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Vincent Chiarito" initials="V." surname="Chiarito">
+    <author fullname="Vincent Chiarito" initials="P" surname="Chiarito">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Stephen Robert" initials="S." surname="Robert">
+    <author fullname="Stephen Robert" initials="D" surname="Robert">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1886"/>
+  <seriesInfo name="NIST" value="NIST TN 1886"/>
 </reference>

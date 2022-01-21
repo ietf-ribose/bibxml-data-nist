@@ -1,18 +1,36 @@
 <reference anchor="NBS.IR.80-1980" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1980.pdf">
   <front>
     <title>Task 1 :investigation of the performance of solar heating and cooling systems : data requirements and thermal performance evaluation procedures for solar heating and cooling systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1980"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1980"/>
-    <author fullname="Andre Pilatte" initials="A." surname="Pilatte"/>
-    <author surname="Lemming"/>
-    <author fullname="Ove Jorgensen" initials="O." surname="Jorgensen"/>
-    <author fullname="David Curtis" initials="D." surname="Curtis"/>
-    <author fullname="Richard Bruno" initials="R." surname="Bruno"/>
-    <author fullname="Tatsuo Inooka" initials="T." surname="Inooka"/>
-    <author fullname="Chris van Koppen" initials="C." surname="van Koppen"/>
-    <author fullname="Per Isakson" initials="P." surname="Isakson"/>
-    <author fullname="Guy-Roland Perrin" initials="G." surname="Perrin"/>
-    <author fullname="Andre Faist" initials="A." surname="Faist"/>
+    <author fullname="Andre Pilatte" initials="A." surname="Pilatte">
+      <organization/>
+    </author>
+    <author initials="J" surname="Lemming">
+      <organization/>
+    </author>
+    <author fullname="Ove Jorgensen" initials="O." surname="Jorgensen">
+      <organization/>
+    </author>
+    <author fullname="David Curtis" initials="D." surname="Curtis">
+      <organization/>
+    </author>
+    <author fullname="Richard Bruno" initials="R." surname="Bruno">
+      <organization/>
+    </author>
+    <author fullname="Tatsuo Inooka" initials="T." surname="Inooka">
+      <organization/>
+    </author>
+    <author fullname="Chris van Koppen" initials="C." surname="van Koppen">
+      <organization/>
+    </author>
+    <author fullname="Per Isakson" initials="P." surname="Isakson">
+      <organization/>
+    </author>
+    <author fullname="Guy-Roland Perrin" initials="G." surname="Perrin">
+      <organization/>
+    </author>
+    <author fullname="Andre Faist" initials="A." surname="Faist">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1980"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1980"/>
 </reference>

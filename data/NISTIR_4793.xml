@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4793" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4793.pdf">
   <front>
     <title>Considerations for the transformation of STEP physical files</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4793"/>
-    <seriesInfo name="NIST" value="NIST IR 4793"/>
-    <author fullname="Robert Kohout" initials="R." surname="Kohout"/>
+    <author fullname="Robert Kohout" initials="R." surname="Kohout">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4793"/>
+  <seriesInfo name="NIST" value="NIST IR 4793"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.7880-47" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.7880-47.pdf">
   <front>
     <title>NIST micronutrients measurement quality assurance program winter and summer 2016 comparability studies: results for round robin LXXIX and LXXX fat-soluble vitamins and carotenoids in human serum</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7880-47"/>
-    <seriesInfo name="NIST" value="NIST IR 7880-47"/>
-    <author fullname="David Duewer" initials="D." surname="Duewer">
+    <author fullname="David Duewer" initials="L" surname="Duewer">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas">
+    <author fullname="Jeanice Brown Thomas" initials="M" surname="Brown Thomas">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7880-47"/>
+  <seriesInfo name="NIST" value="NIST IR 7880-47"/>
 </reference>

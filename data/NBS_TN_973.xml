@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.973" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote973.pdf">
   <front>
     <title>Smoke dectector design and smoke properties</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.973"/>
-    <seriesInfo name="NIST" value="NBS TN 973"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
+    <author fullname="Richard Bukowski" initials="R." surname="Bukowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.973"/>
+  <seriesInfo name="NIST" value="NBS TN 973"/>
 </reference>

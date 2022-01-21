@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.260-121" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-121.pdf">
   <front>
     <title>Standard Reference Materials :Certification of a standard reference material for the determination of interstitial oxygen concentration in semiconductor silicon by infrared spectrophotometry/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-121"/>
-    <seriesInfo name="NIST" value="NIST SP 260-121"/>
-    <author fullname="Brian Rennex" initials="B." surname="Rennex"/>
+    <author fullname="Brian Rennex" initials="G" surname="Rennex">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-121"/>
+  <seriesInfo name="NIST" value="NIST SP 260-121"/>
 </reference>

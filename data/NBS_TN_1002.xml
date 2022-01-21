@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1002" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1002.pdf">
   <front>
     <title>Measurements of combined axial mass and heat transport in He II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1002"/>
-    <seriesInfo name="NIST" value="NBS TN 1002"/>
-    <author fullname="Warren Johnson" initials="W." surname="Johnson"/>
+    <author fullname="Warren Johnson" initials="W" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1002"/>
+  <seriesInfo name="NIST" value="NBS TN 1002"/>
 </reference>

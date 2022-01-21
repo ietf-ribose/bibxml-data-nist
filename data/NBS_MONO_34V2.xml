@@ -1,22 +1,48 @@
 <reference anchor="NBS.MONO.34v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph34v2.pdf">
   <front>
     <title>Tables of chemical kinetics homogeneous reactions (supplementary tables)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.34v2"/>
-    <seriesInfo name="NIST" value="NBS MONO 34v2"/>
-    <author surname="Astin"/>
-    <author surname="Bigeleisen"/>
-    <author surname="Noyes"/>
-    <author surname="Satterfield"/>
-    <author surname="Taube"/>
-    <author surname="Wallenstein"/>
-    <author surname="Amell"/>
-    <author surname="Buncel"/>
-    <author surname="Feldman"/>
-    <author surname="Johnston"/>
-    <author surname="Kern"/>
-    <author surname="Kuivila"/>
-    <author surname="Merritt"/>
-    <author surname="Taube"/>
+    <author initials="AV" surname="Astin">
+      <organization/>
+    </author>
+    <author initials="J" surname="Bigeleisen">
+      <organization/>
+    </author>
+    <author initials="R" surname="Noyes">
+      <organization/>
+    </author>
+    <author initials="C" surname="Satterfield">
+      <organization/>
+    </author>
+    <author initials="H" surname="Taube">
+      <organization/>
+    </author>
+    <author initials="M" surname="Wallenstein">
+      <organization/>
+    </author>
+    <author initials="AR" surname="Amell">
+      <organization/>
+    </author>
+    <author initials="E" surname="Buncel">
+      <organization/>
+    </author>
+    <author initials="HB" surname="Feldman">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Johnston">
+      <organization/>
+    </author>
+    <author initials="DM" surname="Kern">
+      <organization/>
+    </author>
+    <author initials="HG" surname="Kuivila">
+      <organization/>
+    </author>
+    <author initials="PE" surname="Merritt">
+      <organization/>
+    </author>
+    <author initials="H" surname="Taube">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -29,4 +55,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.34v2"/>
+  <seriesInfo name="NIST" value="NBS MONO 34v2"/>
 </reference>

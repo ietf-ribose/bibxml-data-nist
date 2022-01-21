@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.80" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph80.pdf">
   <front>
     <title>Ionospheric radio propagation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.80"/>
-    <seriesInfo name="NIST" value="NBS MONO 80"/>
-    <author fullname="Kenneth Davies" initials="K." surname="Davies"/>
+    <author fullname="Kenneth Davies" initials="K." surname="Davies">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.80"/>
+  <seriesInfo name="NIST" value="NBS MONO 80"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1253" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1253.pdf">
   <front>
     <title>Costbenefit analysis of automated transit information systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1253"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1253"/>
-    <author fullname="Douglas Shier" initials="D." surname="Shier"/>
-    <author fullname="Judith Gilsinn" initials="J." surname="Gilsinn"/>
+    <author fullname="Douglas Shier" initials="R" surname="Shier">
+      <organization/>
+    </author>
+    <author fullname="Judith Gilsinn" initials="F" surname="Gilsinn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1253"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1253"/>
 </reference>

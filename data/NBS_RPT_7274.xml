@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.7274" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7274.pdf">
   <front>
     <title>National Bureau of Standards measurement program on UHF airborne television</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7274"/>
-    <seriesInfo name="NIST" value="NBS RPT 7274"/>
-    <author surname="Kirby"/>
-    <author surname="Barsis"/>
-    <author surname="McQuate"/>
+    <author initials="RS" surname="Kirby">
+      <organization/>
+    </author>
+    <author initials="AP" surname="Barsis">
+      <organization/>
+    </author>
+    <author initials="PL" surname="McQuate">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7274"/>
+  <seriesInfo name="NIST" value="NBS RPT 7274"/>
 </reference>

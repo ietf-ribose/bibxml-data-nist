@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5038" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5038.pdf">
   <front>
     <title>Report no. 28:</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5038"/>
-    <seriesInfo name="NIST" value="NIST IR 5038"/>
-    <author fullname="AlfredV,Jr Clark" initials="A.V.J." surname="Clark"/>
+    <author fullname="AlfredV,Jr Clark" initials="A.V.J." surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5038"/>
+  <seriesInfo name="NIST" value="NIST IR 5038"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7611" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7611.pdf">
   <front>
     <title>Use of ISOIEC 24727</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7611"/>
-    <seriesInfo name="NIST" value="NIST IR 7611"/>
-    <author fullname="Hung Dang" initials="H." surname="Dang"/>
-    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo"/>
-    <author fullname="William MacGregor" initials="W." surname="MacGregor"/>
-    <author fullname="Ketan Mehta" initials="K." surname="Mehta"/>
-    <author fullname="Teresa Schwarzhoff" initials="T." surname="Schwarzhoff"/>
+    <author fullname="Hung Dang" initials="H." surname="Dang">
+      <organization/>
+    </author>
+    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
+      <organization/>
+    </author>
+    <author fullname="William MacGregor" initials="W." surname="MacGregor">
+      <organization/>
+    </author>
+    <author fullname="Ketan Mehta" initials="K." surname="Mehta">
+      <organization/>
+    </author>
+    <author fullname="Teresa Schwarzhoff" initials="T." surname="Schwarzhoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7611"/>
+  <seriesInfo name="NIST" value="NIST IR 7611"/>
 </reference>

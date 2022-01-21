@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.85-3274" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3274.pdf">
   <front>
     <title>An exploration of combustion limitations and alternatives to the NBS toxicity test method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3274"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3274"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
-    <author fullname="Joshua Gurman" initials="J." surname="Gurman"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
+    <author fullname="Joshua Gurman" initials="J." surname="Gurman">
+      <organization/>
+    </author>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3274"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3274"/>
 </reference>

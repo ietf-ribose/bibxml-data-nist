@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6149" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6149.pdf">
   <front>
     <title>Summary report of NISTMSC Workshop on Traceability in Length</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6149"/>
-    <seriesInfo name="NIST" value="NIST IR 6149"/>
-    <author fullname="Dennis Swyt" initials="D." surname="Swyt"/>
+    <author fullname="Dennis Swyt" initials="A" surname="Swyt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6149"/>
+  <seriesInfo name="NIST" value="NIST IR 6149"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.580" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular580.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 580:bibliography on ignition and spark-ignition systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.580"/>
-    <seriesInfo name="NIST" value="NBS CIRC 580"/>
-    <author fullname="George Blackburn" initials="G." surname="Blackburn"/>
+    <author fullname="George Blackburn" initials="F" surname="Blackburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.580"/>
+  <seriesInfo name="NIST" value="NBS CIRC 580"/>
 </reference>

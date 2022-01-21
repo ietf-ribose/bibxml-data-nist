@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8169" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8169.pdf">
   <front>
     <title>NISTNIH vitamin D metabolites quality assurance program report of participant results: summer 2016 comparability study (exercise 12)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8169"/>
-    <seriesInfo name="NIST" value="NIST IR 8169"/>
     <author fullname="Mary Bedner" initials="M." surname="Bedner">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Carolyn Burdette" initials="C." surname="Burdette">
+    <author fullname="Carolyn Burdette" initials="Q" surname="Burdette">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8169"/>
+  <seriesInfo name="NIST" value="NIST IR 8169"/>
 </reference>

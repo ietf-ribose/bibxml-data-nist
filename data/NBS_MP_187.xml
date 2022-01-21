@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.187" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub187.pdf">
   <front>
     <title>Directory of commercial and college laboratories/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.187"/>
-    <seriesInfo name="NIST" value="NBS MP 187"/>
-    <author fullname="George Thompson" initials="G." surname="Thompson"/>
-    <author fullname="Ann Rapuzzi" initials="A." surname="Rapuzzi"/>
+    <author fullname="George Thompson" initials="N" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Ann Rapuzzi" initials="E" surname="Rapuzzi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.187"/>
+  <seriesInfo name="NIST" value="NBS MP 187"/>
 </reference>

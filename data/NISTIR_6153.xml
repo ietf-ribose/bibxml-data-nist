@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6153" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6153.pdf">
   <front>
     <title>Fracture toughness data for brittle materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6153"/>
-    <seriesInfo name="NIST" value="NIST IR 6153"/>
-    <author surname="Munro"/>
-    <author surname="Freiman"/>
-    <author surname="Baker"/>
+    <author initials="RG" surname="Munro">
+      <organization/>
+    </author>
+    <author initials="SW" surname="Freiman">
+      <organization/>
+    </author>
+    <author initials="TL" surname="Baker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6153"/>
+  <seriesInfo name="NIST" value="NIST IR 6153"/>
 </reference>

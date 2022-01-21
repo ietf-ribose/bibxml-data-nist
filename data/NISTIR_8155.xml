@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8155" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8155.pdf">
   <front>
     <title>Measuring Temperature in Emission Testing Micro-Chambers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8155"/>
-    <seriesInfo name="NIST" value="NIST IR 8155"/>
-    <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
+    <author fullname="Dustin Poppendieck" initials="G" surname="Poppendieck">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Edwin Guillermo" initials="E." surname="Guillermo">
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8155"/>
+  <seriesInfo name="NIST" value="NIST IR 8155"/>
 </reference>

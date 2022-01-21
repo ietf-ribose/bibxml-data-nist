@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.168" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph168.pdf">
   <front>
     <title>Selected properties of hydrogen (engineering design data)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.168"/>
-    <seriesInfo name="NIST" value="NBS MONO 168"/>
-    <author surname="McCarty"/>
-    <author surname="Hord"/>
-    <author surname="Roder"/>
+    <author initials="RD" surname="McCarty">
+      <organization/>
+    </author>
+    <author initials="J" surname="Hord">
+      <organization/>
+    </author>
+    <author initials="HM" surname="Roder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.168"/>
+  <seriesInfo name="NIST" value="NBS MONO 168"/>
 </reference>

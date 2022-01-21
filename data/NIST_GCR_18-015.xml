@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.18-015" target="https://nvlpubs.nist.gov/nistpubs/gcr/2018/NIST.GCR.18-015.pdf">
   <front>
     <title>Extending and Evaluating the Model-based Product Definition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-015"/>
-    <seriesInfo name="NIST" value="NIST GCR 18-015"/>
-    <author fullname="Nathan Hartman" initials="N." surname="Hartman">
+    <author fullname="Nathan Hartman" initials="W" surname="Hartman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Jesse Zahner" initials="J." surname="Zahner">
@@ -14,4 +12,6 @@
     </author>
     <date year="2017" month="December" day="22"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-015"/>
+  <seriesInfo name="NIST" value="NIST GCR 18-015"/>
 </reference>

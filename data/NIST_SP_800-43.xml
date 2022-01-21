@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.800-43" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-43.pdf">
   <front>
     <title>Systems administration guidance for securing Windows 2000 Professional system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-43"/>
-    <seriesInfo name="NIST" value="NIST SP 800-43"/>
-    <author surname="Souppaya"/>
-    <author surname="Harris"/>
-    <author surname="McLarnon"/>
-    <author surname="Selimis"/>
+    <author initials="MP" surname="Souppaya">
+      <organization/>
+    </author>
+    <author initials="AB" surname="Harris">
+      <organization/>
+    </author>
+    <author initials="M" surname="McLarnon">
+      <organization/>
+    </author>
+    <author initials="N" surname="Selimis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-43"/>
+  <seriesInfo name="NIST" value="NIST SP 800-43"/>
 </reference>

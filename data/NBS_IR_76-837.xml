@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.76-837" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-837.pdf">
   <front>
     <title>Characterization of a superconducting coil composite and its components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-837"/>
-    <seriesInfo name="NIST" value="NBS IR 76-837"/>
-    <author surname="Clark"/>
-    <author surname="Weston"/>
-    <author surname="Arp"/>
-    <author surname="Hust"/>
-    <author surname="Trapani"/>
+    <author initials="AF" surname="Clark">
+      <organization/>
+    </author>
+    <author initials="WF" surname="Weston">
+      <organization/>
+    </author>
+    <author initials="VD" surname="Arp">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Hust">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Trapani">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-837"/>
+  <seriesInfo name="NIST" value="NBS IR 76-837"/>
 </reference>

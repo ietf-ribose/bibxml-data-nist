@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.554" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote554.pdf">
   <front>
     <title>Annotated accession list of data compilations of the office of standard reference data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.554"/>
-    <seriesInfo name="NIST" value="NBS TN 554"/>
-    <author fullname="Herman Weisman" initials="H." surname="Weisman"/>
+    <author fullname="Herman Weisman" initials="M" surname="Weisman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.554"/>
+  <seriesInfo name="NIST" value="NBS TN 554"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.85-3256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3256.pdf">
   <front>
     <title>Building energy analysis with BLAST and CEL-1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3256"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3256"/>
-    <author fullname="Stephen Treado" initials="S." surname="Treado"/>
-    <author fullname="Douglas Holland" initials="D." surname="Holland"/>
-    <author fullname="William Remmert" initials="W." surname="Remmert"/>
-    <author fullname="William Pierpoint" initials="W." surname="Pierpoint"/>
+    <author fullname="Stephen Treado" initials="J" surname="Treado">
+      <organization/>
+    </author>
+    <author fullname="Douglas Holland" initials="B" surname="Holland">
+      <organization/>
+    </author>
+    <author fullname="William Remmert" initials="E" surname="Remmert">
+      <organization/>
+    </author>
+    <author fullname="William Pierpoint" initials="W." surname="Pierpoint">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3256"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3256"/>
 </reference>

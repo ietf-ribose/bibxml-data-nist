@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-511" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-511.pdf">
   <front>
     <title>Fire Research publications, 1973</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-511"/>
-    <seriesInfo name="NIST" value="NBS IR 74-511"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-511"/>
+  <seriesInfo name="NIST" value="NBS IR 74-511"/>
 </reference>

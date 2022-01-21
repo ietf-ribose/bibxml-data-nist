@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-113" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-113.pdf">
   <front>
     <title>Guide to SSL VPNs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-113"/>
-    <seriesInfo name="NIST" value="NIST SP 800-113"/>
-    <author surname="Frankel">
+    <author initials="SE" surname="Frankel">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Hoffman">
+    <author initials="P" surname="Hoffman">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Orebaugh">
+    <author initials="AD" surname="Orebaugh">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Park">
+    <author initials="R" surname="Park">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-113"/>
+  <seriesInfo name="NIST" value="NIST SP 800-113"/>
 </reference>

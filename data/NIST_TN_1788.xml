@@ -1,21 +1,19 @@
 <reference anchor="NIST.TN.1788" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1788.pdf">
   <front>
     <title>Neutron Test Results of Preliminary Measurements and Calculations Using a Handheld Instrument</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1788"/>
-    <seriesInfo name="NIST" value="NIST TN 1788"/>
-    <author surname="Pibida">
+    <author initials="L" surname="Pibida">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
-    <author surname="Heimbach">
+    <author initials="C" surname="Heimbach">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
-    <author surname="Norman">
+    <author initials="B" surname="Norman">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
-    <author surname="Thompson">
+    <author initials="A" surname="Thompson">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
-    <author surname="Dewey">
+    <author initials="S" surname="Dewey">
       <organization>Physical Measurement Laboratory, Radiation and Biomolecular Physics Division</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1788"/>
+  <seriesInfo name="NIST" value="NIST TN 1788"/>
 </reference>

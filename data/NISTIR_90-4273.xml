@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4273" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4273.pdf">
   <front>
     <title>A radiation energy-angle algorithm for use in personnel dosimetry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4273"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4273"/>
-    <author fullname="Margarete Ehrlich" initials="M." surname="Ehrlich"/>
+    <author fullname="Margarete Ehrlich" initials="M." surname="Ehrlich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4273"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4273"/>
 </reference>

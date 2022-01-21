@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote776.pdf">
   <front>
     <title>A new method for generating waterdrops of specified mass</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.776"/>
-    <seriesInfo name="NIST" value="NBS TN 776"/>
-    <author fullname="James Potzick" initials="J." surname="Potzick"/>
+    <author fullname="James Potzick" initials="E" surname="Potzick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.776"/>
+  <seriesInfo name="NIST" value="NBS TN 776"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.HB.130-1990" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook130-1990.pdf">
   <front>
     <title>Uniform laws and regulations in the areas of legal metrology and motor fuel quality</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.130-1990"/>
-    <seriesInfo name="NIST" value="NIST HB 130-1990"/>
-    <author surname="Brickenkamp"/>
-    <author fullname="Joan Koenig" initials="J." surname="Koenig"/>
+    <author initials="CS" surname="Brickenkamp">
+      <organization/>
+    </author>
+    <author fullname="Joan Koenig" initials="A" surname="Koenig">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.130-1990"/>
+  <seriesInfo name="NIST" value="NIST HB 130-1990"/>
 </reference>

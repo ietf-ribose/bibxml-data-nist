@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.30" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures30.pdf">
   <front>
     <title>Structural properties of a wood-frame wall construction sponsored by the Douglas Fir Plywood Association</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.30"/>
-    <seriesInfo name="NIST" value="NBS BMS 30"/>
-    <author fullname="Herbert Whittemore" initials="H." surname="Whittemore"/>
-    <author fullname="Ambrose Stang" initials="A." surname="Stang"/>
+    <author fullname="Herbert Whittemore" initials="L" surname="Whittemore">
+      <organization/>
+    </author>
+    <author fullname="Ambrose Stang" initials="H" surname="Stang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1939"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.30"/>
+  <seriesInfo name="NIST" value="NBS BMS 30"/>
 </reference>

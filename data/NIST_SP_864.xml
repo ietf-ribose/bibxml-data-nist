@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.864" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication864.pdf">
   <front>
     <title>Technical digest</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.864"/>
-    <seriesInfo name="NIST" value="NIST SP 864"/>
-    <author surname="Day"/>
-    <author surname="Day"/>
-    <author surname="Franzen"/>
-    <author surname="Hickernell"/>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Franzen">
+      <organization/>
+    </author>
+    <author initials="RK" surname="Hickernell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.864"/>
+  <seriesInfo name="NIST" value="NIST SP 864"/>
 </reference>

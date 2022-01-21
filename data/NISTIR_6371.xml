@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6371" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6371.pdf">
   <front>
     <title>An efficient large eddy simulation algorithm for computational wind engineering:application to surface pressure computations on a single building</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6371"/>
-    <seriesInfo name="NIST" value="NIST IR 6371"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6371"/>
+  <seriesInfo name="NIST" value="NIST IR 6371"/>
 </reference>

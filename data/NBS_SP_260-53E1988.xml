@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-53e1988" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-53e1988.pdf">
   <front>
     <title>Standard reference materials :standardization of pH measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-53e1988"/>
-    <seriesInfo name="NIST" value="NBS SP 260-53e1988"/>
-    <author fullname="YungChi Wu" initials="Y.C." surname="Wu"/>
-    <author fullname="William Koch" initials="W." surname="Koch"/>
-    <author fullname="Richard Durst" initials="R." surname="Durst"/>
+    <author fullname="YungChi Wu" initials="Y.C." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="William Koch" initials="F" surname="Koch">
+      <organization/>
+    </author>
+    <author fullname="Richard Durst" initials="A" surname="Durst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-53e1988"/>
+  <seriesInfo name="NIST" value="NBS SP 260-53e1988"/>
 </reference>

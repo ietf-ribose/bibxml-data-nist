@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5272" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5272.pdf">
   <front>
     <title>Control entity interface specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5272"/>
-    <seriesInfo name="NIST" value="NIST IR 5272"/>
-    <author fullname="Ed Barkmeyer" initials="E." surname="Barkmeyer"/>
-    <author fullname="Steven Ray" initials="S." surname="Ray"/>
-    <author fullname="Evan Wallace" initials="E." surname="Wallace"/>
+    <author fullname="Ed Barkmeyer" initials="E." surname="Barkmeyer">
+      <organization/>
+    </author>
+    <author fullname="Steven Ray" initials="S." surname="Ray">
+      <organization/>
+    </author>
+    <author fullname="Evan Wallace" initials="K" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5272"/>
+  <seriesInfo name="NIST" value="NIST IR 5272"/>
 </reference>

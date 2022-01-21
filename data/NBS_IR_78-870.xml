@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-870" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-870.pdf">
   <front>
     <title>Evaluation of low-losslow-reflection two-port devices or adapters by automated measurement techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-870"/>
-    <seriesInfo name="NIST" value="NBS IR 78-870"/>
-    <author fullname="Ramon Jesch" initials="R." surname="Jesch"/>
+    <author fullname="Ramon Jesch" initials="L" surname="Jesch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-870"/>
+  <seriesInfo name="NIST" value="NBS IR 78-870"/>
 </reference>

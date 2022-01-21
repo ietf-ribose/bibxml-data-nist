@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.88-3095" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3095.pdf">
   <front>
     <title>Dielectric mixing rules for background test soils</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3095"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3095"/>
-    <author fullname="Richard Geyer" initials="R." surname="Geyer"/>
+    <author fullname="Richard Geyer" initials="G" surname="Geyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3095"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3095"/>
 </reference>

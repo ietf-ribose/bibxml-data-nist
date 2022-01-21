@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-888" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-888.pdf">
   <front>
     <title>SHF impulse generator</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-888"/>
-    <seriesInfo name="NIST" value="NBS IR 78-888"/>
-    <author fullname="James Andrews" initials="J." surname="Andrews"/>
-    <author fullname="Eugene Baldwin" initials="E." surname="Baldwin"/>
+    <author fullname="James Andrews" initials="R" surname="Andrews">
+      <organization/>
+    </author>
+    <author fullname="Eugene Baldwin" initials="E" surname="Baldwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-888"/>
+  <seriesInfo name="NIST" value="NBS IR 78-888"/>
 </reference>

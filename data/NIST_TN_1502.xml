@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1502" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1502.pdf">
   <front>
     <title>Uncertainties in NIST noises-temperature measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1502"/>
-    <seriesInfo name="NIST" value="NIST TN 1502"/>
-    <author fullname="James Randa" initials="J." surname="Randa"/>
+    <author fullname="James Randa" initials="J." surname="Randa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1502"/>
+  <seriesInfo name="NIST" value="NIST TN 1502"/>
 </reference>

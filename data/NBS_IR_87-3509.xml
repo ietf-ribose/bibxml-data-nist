@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3509.pdf">
   <front>
     <title>Cigarette ignition of soft furnishings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3509"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3509"/>
-    <author fullname="John Krasny" initials="J." surname="Krasny"/>
+    <author fullname="John Krasny" initials="F" surname="Krasny">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3509"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3509"/>
 </reference>

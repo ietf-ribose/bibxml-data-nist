@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6640" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6640.pdf">
   <front>
     <title>Thermochemical and thermophysical properties of JP-10</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6640"/>
-    <seriesInfo name="NIST" value="NIST IR 6640"/>
-    <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
-    <author fullname="Arno Laesecke" initials="A." surname="Laesecke"/>
-    <author fullname="Eric Lemmon" initials="E." surname="Lemmon"/>
-    <author fullname="Richard Perkins" initials="R." surname="Perkins"/>
+    <author fullname="Thomas Bruno" initials="J" surname="Bruno">
+      <organization/>
+    </author>
+    <author fullname="Marcia Huber" initials="L" surname="Huber">
+      <organization/>
+    </author>
+    <author fullname="Arno Laesecke" initials="A." surname="Laesecke">
+      <organization/>
+    </author>
+    <author fullname="Eric Lemmon" initials="W" surname="Lemmon">
+      <organization/>
+    </author>
+    <author fullname="Richard Perkins" initials="A" surname="Perkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6640"/>
+  <seriesInfo name="NIST" value="NIST IR 6640"/>
 </reference>

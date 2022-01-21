@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8183A-2" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-2.pdf">
   <front>
     <title>Cybersecurity framework manufacturing profile low impact level example implementations guide :volume 2 process-based manufacturing system use case</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8183A-2"/>
-    <seriesInfo name="NIST" value="NIST IR 8183A-2"/>
     <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8183A-2"/>
+  <seriesInfo name="NIST" value="NIST IR 8183A-2"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.447" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication447.pdf">
   <front>
     <title>Weights and measures standards of the United States :a brief history</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.447"/>
-    <seriesInfo name="NIST" value="NBS SP 447"/>
-    <author fullname="Lewis Judson" initials="L." surname="Judson"/>
+    <author fullname="Lewis Judson" initials="V" surname="Judson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.447"/>
+  <seriesInfo name="NIST" value="NBS SP 447"/>
 </reference>

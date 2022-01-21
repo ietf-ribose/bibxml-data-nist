@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.8673" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8673.pdf">
   <front>
     <title>Performance tests of two deep-bed high efficiency air filters :manufactured by Continental Air Filters, Inc. Louisville, Kentucky</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8673"/>
-    <seriesInfo name="NIST" value="NBS RPT 8673"/>
-    <author fullname="Joseph Davis" initials="J." surname="Davis"/>
-    <author fullname="Charles Hunt" initials="C." surname="Hunt"/>
+    <author fullname="Joseph Davis" initials="C" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Charles Hunt" initials="M" surname="Hunt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8673"/>
+  <seriesInfo name="NIST" value="NBS RPT 8673"/>
 </reference>

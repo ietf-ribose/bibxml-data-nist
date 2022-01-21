@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.4880" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4880.pdf">
   <front>
     <title>Massively parallel neural network fingerprint classification system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4880"/>
-    <seriesInfo name="NIST" value="NIST IR 4880"/>
-    <author surname="Wilson"/>
-    <author surname="Candela"/>
-    <author surname="Grother"/>
-    <author surname="Watson"/>
-    <author surname="Wilkinson"/>
+    <author initials="CL" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="G" surname="Candela">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Grother">
+      <organization/>
+    </author>
+    <author initials="CI" surname="Watson">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Wilkinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4880"/>
+  <seriesInfo name="NIST" value="NIST IR 4880"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1718" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1718.pdf">
   <front>
     <title>A measurement of sound levels associated with the operation of a portable pneumatic pavement breaker equipped with a mufflercase enclosure and dampened moils</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1718"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1718"/>
-    <author fullname="Robert Hosier" initials="R." surname="Hosier"/>
+    <author fullname="Robert Hosier" initials="N" surname="Hosier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1718"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1718"/>
 </reference>

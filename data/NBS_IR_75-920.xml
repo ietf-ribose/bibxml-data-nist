@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-920" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-920.pdf">
   <front>
     <title>Distribution of water through a vertical plane from automatic sprinkler heads</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-920"/>
-    <seriesInfo name="NIST" value="NBS IR 75-920"/>
-    <author fullname="Richard Custer" initials="R." surname="Custer"/>
-    <author fullname="Klaus Wahle" initials="K." surname="Wahle"/>
+    <author fullname="Richard Custer" initials="LP" surname="Custer">
+      <organization/>
+    </author>
+    <author fullname="Klaus Wahle" initials="K." surname="Wahle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-920"/>
+  <seriesInfo name="NIST" value="NBS IR 75-920"/>
 </reference>

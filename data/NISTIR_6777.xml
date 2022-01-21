@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6777.pdf">
   <front>
     <title>Model checkers in software testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6777"/>
-    <seriesInfo name="NIST" value="NIST IR 6777"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Paul Ammann" initials="P." surname="Ammann"/>
-    <author fullname="Wei Ding" initials="W." surname="Ding"/>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
+    <author fullname="Paul Ammann" initials="P." surname="Ammann">
+      <organization/>
+    </author>
+    <author fullname="Wei Ding" initials="W." surname="Ding">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6777"/>
+  <seriesInfo name="NIST" value="NIST IR 6777"/>
 </reference>

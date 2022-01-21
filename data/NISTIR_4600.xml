@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4600" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4600.pdf">
   <front>
     <title>IGES 5.0 recommended practices guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4600"/>
-    <seriesInfo name="NIST" value="NIST IR 4600"/>
-    <author fullname="Linda Martino" initials="L." surname="Martino"/>
-    <author fullname="DennetteJr Harrod" initials="D.J." surname="Harrod"/>
-    <author fullname="William Conroy" initials="W." surname="Conroy"/>
-    <author fullname="Joan Wellington" initials="J." surname="Wellington"/>
+    <author fullname="Linda Martino" initials="L." surname="Martino">
+      <organization/>
+    </author>
+    <author fullname="DennetteJr Harrod" initials="A" surname="Harrod">
+      <organization/>
+    </author>
+    <author fullname="William Conroy" initials="W." surname="Conroy">
+      <organization/>
+    </author>
+    <author fullname="Joan Wellington" initials="J." surname="Wellington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4600"/>
+  <seriesInfo name="NIST" value="NIST IR 4600"/>
 </reference>

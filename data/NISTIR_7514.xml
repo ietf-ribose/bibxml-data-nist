@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7514" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7514.pdf">
   <front>
     <title>HVACSIM user's gude update</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7514"/>
-    <seriesInfo name="NIST" value="NIST IR 7514"/>
-    <author fullname="Cheol Park" initials="C." surname="Park"/>
+    <author fullname="Cheol Park" initials="C." surname="Park">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7514"/>
+  <seriesInfo name="NIST" value="NIST IR 7514"/>
 </reference>

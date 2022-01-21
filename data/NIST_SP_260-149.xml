@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-149" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-149.pdf">
   <front>
     <title>Standard Reference Materials :Value assignment and uncertainty estimation of selected light stable isotope reference materials /</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-149"/>
-    <seriesInfo name="NIST" value="NIST SP 260-149"/>
-    <author fullname="Donna Klinedinst" initials="D." surname="Klinedinst"/>
-    <author fullname="Michael Verkouteren" initials="M." surname="Verkouteren"/>
+    <author fullname="Donna Klinedinst" initials="B" surname="Klinedinst">
+      <organization/>
+    </author>
+    <author fullname="Michael Verkouteren" initials="R" surname="Verkouteren">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-149"/>
+  <seriesInfo name="NIST" value="NIST SP 260-149"/>
 </reference>

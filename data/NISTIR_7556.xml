@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7556" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7556.pdf">
   <front>
     <title>Report of findings :use of language in ballot instructions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7556"/>
-    <seriesInfo name="NIST" value="NIST IR 7556"/>
-    <author fullname="Janice(Ginny) Redish" initials="J.(." surname="Redish"/>
-    <author fullname="Dana Chisnell" initials="D." surname="Chisnell"/>
-    <author fullname="Ethan Newby" initials="E." surname="Newby"/>
-    <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
-    <author fullname="Svetlana Lowry" initials="S." surname="Lowry"/>
+    <author fullname="Janice(Ginny) Redish" initials="J.(." surname="Redish">
+      <organization/>
+    </author>
+    <author fullname="Dana Chisnell" initials="E" surname="Chisnell">
+      <organization/>
+    </author>
+    <author fullname="Ethan Newby" initials="E." surname="Newby">
+      <organization/>
+    </author>
+    <author fullname="Sharon Laskowski" initials="J" surname="Laskowski">
+      <organization/>
+    </author>
+    <author fullname="Svetlana Lowry" initials="S." surname="Lowry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7556"/>
+  <seriesInfo name="NIST" value="NIST IR 7556"/>
 </reference>

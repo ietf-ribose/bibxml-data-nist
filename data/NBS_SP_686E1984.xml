@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.686e1984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication686e1984.pdf">
   <front>
     <title>State weights and measures laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.686e1984"/>
-    <seriesInfo name="NIST" value="NBS SP 686e1984"/>
-    <author surname="Oppermann"/>
+    <author initials="HV" surname="Oppermann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.686e1984"/>
+  <seriesInfo name="NIST" value="NBS SP 686e1984"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.FIPS.159-1990" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub159-1990.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: detail specification for 62.5?m core diameter125-?m cladding diameter class IA multimode, graded-index optical waveguide fibers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.FIPS.159-1990"/>
-    <seriesInfo name="NIST" value="NIST FIPS 159-1990"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.FIPS.159-1990"/>
+  <seriesInfo name="NIST" value="NIST FIPS 159-1990"/>
 </reference>

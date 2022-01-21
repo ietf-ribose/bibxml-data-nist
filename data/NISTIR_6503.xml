@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6503" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6503.pdf">
   <front>
     <title>Proceedings of the symposium on the foundations of interactive digital tv application software environment (DASE)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6503"/>
-    <seriesInfo name="NIST" value="NIST IR 6503"/>
-    <author fullname="Alan Mink" initials="A." surname="Mink"/>
-    <author fullname="Rob Snelick" initials="R." surname="Snelick"/>
+    <author fullname="Alan Mink" initials="A." surname="Mink">
+      <organization/>
+    </author>
+    <author fullname="Rob Snelick" initials="R." surname="Snelick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6503"/>
+  <seriesInfo name="NIST" value="NIST IR 6503"/>
 </reference>

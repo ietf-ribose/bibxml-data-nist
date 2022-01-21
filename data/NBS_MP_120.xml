@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.120" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub120.pdf">
   <front>
     <title>Standards and specifications for metals and metal products/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.120"/>
-    <seriesInfo name="NIST" value="NBS MP 120"/>
-    <author fullname="George Wardlaw" initials="G." surname="Wardlaw"/>
+    <author fullname="George Wardlaw" initials="A" surname="Wardlaw">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.120"/>
+  <seriesInfo name="NIST" value="NBS MP 120"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.352" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote352.pdf">
   <front>
     <title>The viscosity and thermal conductivity coefficients of dilute neon, krpton, and xenon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.352"/>
-    <seriesInfo name="NIST" value="NBS TN 352"/>
-    <author surname="Hanley"/>
+    <author initials="HJM" surname="Hanley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.352"/>
+  <seriesInfo name="NIST" value="NBS TN 352"/>
 </reference>

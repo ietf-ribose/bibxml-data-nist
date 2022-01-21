@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-816" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-816.pdf">
   <front>
     <title>Performance characteristics of a liquid helium pump</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-816"/>
-    <seriesInfo name="NIST" value="NBS IR 75-816"/>
-    <author surname="Ludtke"/>
+    <author initials="PR" surname="Ludtke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-816"/>
+  <seriesInfo name="NIST" value="NBS IR 75-816"/>
 </reference>

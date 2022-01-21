@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1944" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1944.pdf">
   <front>
     <title>OpenFOAM large-eddy simulations of atmospheric boundary layer turbulence for wind engineering applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1944"/>
-    <seriesInfo name="NIST" value="NIST TN 1944"/>
     <author fullname="Liang Shi" initials="L." surname="Shi">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1944"/>
+  <seriesInfo name="NIST" value="NIST TN 1944"/>
 </reference>

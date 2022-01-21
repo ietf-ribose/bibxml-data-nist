@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.66" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub66.pdf">
   <front>
     <title>Second technical conference of state utility commission engineers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.66"/>
-    <seriesInfo name="NIST" value="NBS MP 66"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.66"/>
+  <seriesInfo name="NIST" value="NBS MP 66"/>
 </reference>

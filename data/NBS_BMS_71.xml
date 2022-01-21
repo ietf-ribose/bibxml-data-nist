@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures71.pdf">
   <front>
     <title>Fire tests of wood- and metal-framed partitions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.71"/>
-    <seriesInfo name="NIST" value="NBS BMS 71"/>
-    <author surname="Ingberg"/>
-    <author fullname="Nolan Mitchell" initials="N." surname="Mitchell"/>
+    <author initials="SH" surname="Ingberg">
+      <organization/>
+    </author>
+    <author fullname="Nolan Mitchell" initials="D" surname="Mitchell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1941"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.71"/>
+  <seriesInfo name="NIST" value="NBS BMS 71"/>
 </reference>

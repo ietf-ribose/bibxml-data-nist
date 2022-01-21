@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4742" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4742.pdf">
   <front>
     <title>Architecture for Validation Testing System Software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4742"/>
-    <seriesInfo name="NIST" value="NIST IR 4742"/>
-    <author fullname="Katherine Morris" initials="K." surname="Morris"/>
+    <author fullname="Katherine Morris" initials="C" surname="Morris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4742"/>
+  <seriesInfo name="NIST" value="NIST IR 4742"/>
 </reference>

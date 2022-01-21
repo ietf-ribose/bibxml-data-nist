@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5102" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5102.pdf">
   <front>
     <title>Diffusion of cations beneath organic coatings on steel substrate</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5102"/>
-    <seriesInfo name="NIST" value="NIST IR 5102"/>
-    <author fullname="Zhouhong Zhang" initials="Z." surname="Zhang"/>
-    <author fullname="Changjian Lin" initials="C." surname="Lin"/>
+    <author fullname="Zhouhong Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="Changjian Lin" initials="C." surname="Lin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5102"/>
+  <seriesInfo name="NIST" value="NIST IR 5102"/>
 </reference>

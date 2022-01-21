@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9533" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9533.pdf">
   <front>
     <title>The adherence of porcelain enamel to aluminum:progress report August 1, 1966 through April 30, 1967</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9533"/>
-    <seriesInfo name="NIST" value="NBS RPT 9533"/>
-    <author fullname="Albert Gugeler" initials="A." surname="Gugeler"/>
+    <author fullname="Albert Gugeler" initials="L" surname="Gugeler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9533"/>
+  <seriesInfo name="NIST" value="NBS RPT 9533"/>
 </reference>

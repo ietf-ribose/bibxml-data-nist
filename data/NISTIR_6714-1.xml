@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6714-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6714-1.pdf">
   <front>
     <title>Surge protection in low-voltage AC power circuits</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6714-1"/>
-    <seriesInfo name="NIST" value="NIST IR 6714-1"/>
-    <author fullname="Francois Martzloff" initials="F." surname="Martzloff"/>
+    <author fullname="Francois Martzloff" initials="D" surname="Martzloff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6714-1"/>
+  <seriesInfo name="NIST" value="NIST IR 6714-1"/>
 </reference>

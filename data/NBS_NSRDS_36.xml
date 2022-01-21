@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.36" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds36.pdf">
   <front>
     <title>Critical micelle concentrations of aqueous surfactant systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.36"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 36"/>
-    <author fullname="Pasupati Mukerjee" initials="P." surname="Mukerjee"/>
-    <author fullname="Karol Mysels" initials="K." surname="Mysels"/>
+    <author fullname="Pasupati Mukerjee" initials="P." surname="Mukerjee">
+      <organization/>
+    </author>
+    <author fullname="Karol Mysels" initials="K." surname="Mysels">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.36"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 36"/>
 </reference>

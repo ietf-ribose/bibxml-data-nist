@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.90-571" target="https://nvlpubs.nist.gov/nistpubs/gcr/1990/gcr90-571.pdf">
   <front>
     <title>How due process in the development of voluntary standards can reduce the risk of anti-trust liability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.90-571"/>
-    <seriesInfo name="NIST" value="NIST GCR 90-571"/>
-    <author fullname="David Swankin" initials="D." surname="Swankin">
+    <author fullname="David Swankin" initials="A" surname="Swankin">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1990" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.90-571"/>
+  <seriesInfo name="NIST" value="NIST GCR 90-571"/>
 </reference>

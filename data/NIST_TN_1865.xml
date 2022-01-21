@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1865" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1865.pdf">
   <front>
     <title>Impact characterization of line pipe steels by means of standard, sub-size and miniaturized charpy specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1865"/>
-    <seriesInfo name="NIST" value="NIST TN 1865"/>
-    <author fullname="Enrico Lucon" initials="E." surname="Lucon"/>
-    <author fullname="Chris McCowan" initials="C." surname="McCowan"/>
-    <author fullname="Ray Santoyo" initials="R." surname="Santoyo"/>
+    <author fullname="Enrico Lucon" initials="E." surname="Lucon">
+      <organization/>
+    </author>
+    <author fullname="Chris McCowan" initials="N" surname="McCowan">
+      <organization/>
+    </author>
+    <author fullname="Ray Santoyo" initials="L" surname="Santoyo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2015"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1865"/>
+  <seriesInfo name="NIST" value="NIST TN 1865"/>
 </reference>

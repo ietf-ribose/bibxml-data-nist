@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2789" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2789.pdf">
   <front>
     <title>A buoyant source in the lower of two, homogeneous, stably stratified layers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2789"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2789"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2789"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2789"/>
 </reference>

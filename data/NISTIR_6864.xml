@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6864" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6864.pdf">
   <front>
     <title>Survey of FY 2001 nanotechnology related research at the National Institute of Standards and Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6864"/>
-    <seriesInfo name="NIST" value="NIST IR 6864"/>
-    <author fullname="Chad Snyder" initials="C." surname="Snyder"/>
-    <author fullname="Patrick Looney" initials="P." surname="Looney"/>
-    <author fullname="Michael Casassa" initials="M." surname="Casassa"/>
+    <author fullname="Chad Snyder" initials="R" surname="Snyder">
+      <organization/>
+    </author>
+    <author fullname="Patrick Looney" initials="J" surname="Looney">
+      <organization/>
+    </author>
+    <author fullname="Michael Casassa" initials="P" surname="Casassa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6864"/>
+  <seriesInfo name="NIST" value="NIST IR 6864"/>
 </reference>

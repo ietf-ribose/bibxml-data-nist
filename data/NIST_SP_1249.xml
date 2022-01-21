@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1249" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1249.pdf">
   <front>
     <title>Workshop on applied category theory:bridging theory and practice</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1249"/>
-    <seriesInfo name="NIST" value="NIST SP 1249"/>
     <author fullname="Spencer Breiner" initials="S." surname="Breiner">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1249"/>
+  <seriesInfo name="NIST" value="NIST SP 1249"/>
 </reference>

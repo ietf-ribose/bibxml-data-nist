@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1920" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1920.pdf">
   <front>
     <title>Predicting the Effects of Barrier Fabrics on Residential Upholstered Furniture Fire Hazard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1920"/>
-    <seriesInfo name="NIST" value="NIST TN 1920"/>
-    <author fullname="Morgan Bruns" initials="M." surname="Bruns">
+    <author fullname="Morgan Bruns" initials="C" surname="Bruns">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1920"/>
+  <seriesInfo name="NIST" value="NIST TN 1920"/>
 </reference>

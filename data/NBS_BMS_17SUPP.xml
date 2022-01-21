@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.17supp" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures17supp.pdf">
   <front>
     <title>Sound insulation of wall and floor constructions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.17supp"/>
-    <seriesInfo name="NIST" value="NBS BMS 17supp"/>
-    <author surname="Chrisler"/>
+    <author initials="VL" surname="Chrisler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.17supp"/>
+  <seriesInfo name="NIST" value="NBS BMS 17supp"/>
 </reference>

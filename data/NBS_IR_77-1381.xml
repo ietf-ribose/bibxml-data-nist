@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1381" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1381.pdf">
   <front>
     <title>Preliminary report on evaluating alternatives for reducing upholstered furniture fire losses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1381"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1381"/>
-    <author fullname="Benjamin Buchbinder" initials="B." surname="Buchbinder"/>
-    <author fullname="SusanGodby Helzer" initials="S.G." surname="Helzer"/>
-    <author fullname="Fred Offensend" initials="F." surname="Offensend"/>
+    <author fullname="Benjamin Buchbinder" initials="B." surname="Buchbinder">
+      <organization/>
+    </author>
+    <author fullname="SusanGodby Helzer" initials="S.G." surname="Helzer">
+      <organization/>
+    </author>
+    <author fullname="Fred Offensend" initials="L" surname="Offensend">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1381"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1381"/>
 </reference>

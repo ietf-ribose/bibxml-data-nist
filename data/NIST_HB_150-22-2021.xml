@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.150-22-2021" target="https://nvlpubs.nist.gov/nistpubs/hb/2021/NIST.HB.150-22-2021.pdf">
   <front>
     <title>NVLAP Voting System Testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-22-2021"/>
-    <seriesInfo name="NIST" value="NIST HB 150-22-2021"/>
     <author fullname="Bradley Moore" initials="B." surname="Moore">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="October" day="19"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-22-2021"/>
+  <seriesInfo name="NIST" value="NIST HB 150-22-2021"/>
 </reference>

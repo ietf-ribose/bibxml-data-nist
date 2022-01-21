@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.603" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular603.pdf">
   <front>
     <title>Letter Circular 603:outside house painting</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.603"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 603"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.603"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 603"/>
 </reference>

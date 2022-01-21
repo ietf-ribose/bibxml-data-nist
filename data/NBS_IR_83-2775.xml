@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.83-2775" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2775.pdf">
   <front>
     <title>Conference on standards, measurements, quality control and production for economic support and growth :a record of the U.S. papers to be presented at the conference on standards, measurements, quality control and production for economic support and growth to be held in Cairo, Egypt. October 29-31, 1983</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2775"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2775"/>
-    <author fullname="Ernest Ambler" initials="E." surname="Ambler"/>
-    <author fullname="Richard Goodemote" initials="R." surname="Goodemote"/>
-    <author fullname="John Donaldson" initials="J." surname="Donaldson"/>
-    <author fullname="Richard Ronk" initials="R." surname="Ronk"/>
-    <author fullname="Jack Snell" initials="J." surname="Snell"/>
-    <author surname="Rasberry"/>
-    <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
+    <author fullname="Ernest Ambler" initials="E." surname="Ambler">
+      <organization/>
+    </author>
+    <author fullname="Richard Goodemote" initials="R." surname="Goodemote">
+      <organization/>
+    </author>
+    <author fullname="John Donaldson" initials="L" surname="Donaldson">
+      <organization/>
+    </author>
+    <author fullname="Richard Ronk" initials="R." surname="Ronk">
+      <organization/>
+    </author>
+    <author fullname="Jack Snell" initials="E" surname="Snell">
+      <organization/>
+    </author>
+    <author initials="SD" surname="Rasberry">
+      <organization/>
+    </author>
+    <author fullname="Kurt Heinrich" initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2775"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2775"/>
 </reference>

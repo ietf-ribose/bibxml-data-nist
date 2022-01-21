@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.480-40" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-40.pdf">
   <front>
     <title>Paint solubility testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-40"/>
-    <seriesInfo name="NIST" value="NBS SP 480-40"/>
-    <author fullname="John Thornton" initials="J." surname="Thornton"/>
-    <author fullname="Shmuel Kraus" initials="S." surname="Kraus"/>
-    <author fullname="Bruce Lerner" initials="B." surname="Lerner"/>
-    <author fullname="Beth Hendrickson" initials="B." surname="Hendrickson"/>
+    <author fullname="John Thornton" initials="I" surname="Thornton">
+      <organization/>
+    </author>
+    <author fullname="Shmuel Kraus" initials="S." surname="Kraus">
+      <organization/>
+    </author>
+    <author fullname="Bruce Lerner" initials="B." surname="Lerner">
+      <organization/>
+    </author>
+    <author fullname="Beth Hendrickson" initials="B." surname="Hendrickson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-40"/>
+  <seriesInfo name="NIST" value="NBS SP 480-40"/>
 </reference>

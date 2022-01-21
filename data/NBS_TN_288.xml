@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.288" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote288.pdf">
   <front>
     <title>Measurement philosophy of the pilot program for mass calibration.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.288"/>
-    <seriesInfo name="NIST" value="NBS TN 288"/>
-    <author fullname="Paul Pontius" initials="P." surname="Pontius"/>
+    <author fullname="Paul Pontius" initials="E" surname="Pontius">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.288"/>
+  <seriesInfo name="NIST" value="NBS TN 288"/>
 </reference>

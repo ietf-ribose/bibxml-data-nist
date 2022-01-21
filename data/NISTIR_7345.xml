@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7345" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7345.pdf">
   <front>
     <title>Screening candidates for 30 nm spheres</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7345"/>
-    <seriesInfo name="NIST" value="NIST IR 7345"/>
-    <author fullname="Michelle Donnelly" initials="M." surname="Donnelly"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
+    <author fullname="Michelle Donnelly" initials="K" surname="Donnelly">
+      <organization/>
+    </author>
+    <author fullname="Jiann Yang" initials="C" surname="Yang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7345"/>
+  <seriesInfo name="NIST" value="NIST IR 7345"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.79-1746" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1746.pdf">
   <front>
     <title>Mathematical modeling and new experiments on durability of paper :a progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1746"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1746"/>
-    <author fullname="Jeffrey Fong" initials="J." surname="Fong"/>
-    <author fullname="Ivan Fong" initials="I." surname="Fong"/>
-    <author fullname="Elizabeth Toth" initials="E." surname="Toth"/>
-    <author fullname="Edmond Graminski" initials="E." surname="Graminski"/>
+    <author fullname="Jeffrey Fong" initials="T" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="Ivan Fong" initials="K" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Toth" initials="E" surname="Toth">
+      <organization/>
+    </author>
+    <author fullname="Edmond Graminski" initials="L" surname="Graminski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1746"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1746"/>
 </reference>

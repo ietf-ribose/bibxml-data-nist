@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3498" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3498.pdf">
   <front>
     <title>Summaries of Center for Fire Research grants and in-house programs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3498"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3498"/>
-    <author fullname="Sonya Cherry" initials="S." surname="Cherry"/>
+    <author fullname="Sonya Cherry" initials="M" surname="Cherry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3498"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3498"/>
 </reference>

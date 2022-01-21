@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-1977" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1977.pdf">
   <front>
     <title>Forecasting lead paint abatement costs :a computerized approach</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1977"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1977"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="Kimberly Barnes" initials="K." surname="Barnes"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="Kimberly Barnes" initials="A" surname="Barnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1977"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1977"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-726" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-726.pdf">
   <front>
     <title>The evaluation of the Shirley Highway Express-Bus-on-Freeway Demonstration Project- final report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-726"/>
-    <seriesInfo name="NIST" value="NBS IR 75-726"/>
-    <author fullname="James McQueen" initials="J." surname="McQueen"/>
-    <author fullname="David Levinsohn" initials="D." surname="Levinsohn"/>
-    <author fullname="Robert Waksman" initials="R." surname="Waksman"/>
-    <author fullname="Gerald Miller" initials="G." surname="Miller"/>
+    <author fullname="James McQueen" initials="T" surname="McQueen">
+      <organization/>
+    </author>
+    <author fullname="David Levinsohn" initials="M" surname="Levinsohn">
+      <organization/>
+    </author>
+    <author fullname="Robert Waksman" initials="R." surname="Waksman">
+      <organization/>
+    </author>
+    <author fullname="Gerald Miller" initials="K" surname="Miller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-726"/>
+  <seriesInfo name="NIST" value="NBS IR 75-726"/>
 </reference>

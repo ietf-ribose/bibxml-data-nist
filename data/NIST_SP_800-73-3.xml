@@ -1,15 +1,27 @@
 <reference anchor="NIST.SP.800-73-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-73-3.pdf">
   <front>
     <title>Interfaces for personal identity verification :end-point PIV card application namespace, data model and representation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-3"/>
-    <seriesInfo name="NIST" value="NIST SP 800-73-3"/>
-    <author surname="Chandramouli"/>
-    <author surname="Cooper"/>
-    <author surname="Dray"/>
-    <author surname="Ferraiolo"/>
-    <author surname="Guthery"/>
-    <author surname="MacGregor"/>
-    <author surname="Mehta"/>
+    <author initials="R" surname="Chandramouli">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Cooper">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Dray">
+      <organization/>
+    </author>
+    <author initials="H" surname="Ferraiolo">
+      <organization/>
+    </author>
+    <author initials="SB" surname="Guthery">
+      <organization/>
+    </author>
+    <author initials="WI" surname="MacGregor">
+      <organization/>
+    </author>
+    <author initials="K" surname="Mehta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-3"/>
+  <seriesInfo name="NIST" value="NIST SP 800-73-3"/>
 </reference>

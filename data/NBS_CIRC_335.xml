@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.335" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular335.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 335:United States government master specification for packing, hard fiber sheet</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.335"/>
-    <seriesInfo name="NIST" value="NBS CIRC 335"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1927"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.335"/>
+  <seriesInfo name="NIST" value="NBS CIRC 335"/>
 </reference>

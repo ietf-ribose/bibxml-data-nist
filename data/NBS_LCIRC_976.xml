@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.976" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular976.pdf">
   <front>
     <title>Letter Circular 976:publications by the staff of the x-ray section</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.976"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 976"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.976"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 976"/>
 </reference>

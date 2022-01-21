@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-189" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189.pdf">
   <front>
     <title>Resilient interdomain traffic exchange:BGP security and DDos mitigation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-189"/>
-    <seriesInfo name="NIST" value="NIST SP 800-189"/>
     <author fullname="Kotikalapudi Sriram" initials="K." surname="Sriram">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-189"/>
+  <seriesInfo name="NIST" value="NIST SP 800-189"/>
 </reference>

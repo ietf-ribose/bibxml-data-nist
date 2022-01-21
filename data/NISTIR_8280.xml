@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8280" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf">
   <front>
     <title>Face recognition vendor test part 3:demographic effects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8280"/>
-    <seriesInfo name="NIST" value="NIST IR 8280"/>
     <author fullname="Patrick Grother" initials="P." surname="Grother">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8280"/>
+  <seriesInfo name="NIST" value="NIST IR 8280"/>
 </reference>

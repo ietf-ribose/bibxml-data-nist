@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook64.pdf">
   <front>
     <title>Design of free-air ionization chambers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.64"/>
-    <seriesInfo name="NIST" value="NBS HB 64"/>
-    <author surname="Wyckoff"/>
-    <author surname="Attix"/>
+    <author initials="HO" surname="Wyckoff">
+      <organization/>
+    </author>
+    <author initials="FH" surname="Attix">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.64"/>
+  <seriesInfo name="NIST" value="NBS HB 64"/>
 </reference>

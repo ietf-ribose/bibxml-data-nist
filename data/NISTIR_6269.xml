@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6269" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6269.pdf">
   <front>
     <title>Finite element and finite difference programs for computing the linear electric and elastic properties of detail images of random materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6269"/>
-    <seriesInfo name="NIST" value="NIST IR 6269"/>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6269"/>
+  <seriesInfo name="NIST" value="NIST IR 6269"/>
 </reference>

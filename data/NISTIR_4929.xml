@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4929" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4929.pdf">
   <front>
     <title>Electronics and Electrical Engineering Laboratory:technical publications announcements covering laboratory programs, October to December 1991, with 19921993 EEEL events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4929"/>
-    <seriesInfo name="NIST" value="NIST IR 4929"/>
-    <author surname="Gonzalez"/>
+    <author initials="JA" surname="Gonzalez">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4929"/>
+  <seriesInfo name="NIST" value="NIST IR 4929"/>
 </reference>

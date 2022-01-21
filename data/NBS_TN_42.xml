@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote42.pdf">
   <front>
     <title>Analog-digital conversion equipment for electrocardiographic data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.42"/>
-    <seriesInfo name="NIST" value="NBS TN 42"/>
-    <author fullname="Leonard Taback" initials="L." surname="Taback"/>
+    <author fullname="Leonard Taback" initials="L." surname="Taback">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.42"/>
+  <seriesInfo name="NIST" value="NBS TN 42"/>
 </reference>

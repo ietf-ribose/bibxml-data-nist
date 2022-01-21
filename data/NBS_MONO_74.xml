@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.74" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph74.pdf">
   <front>
     <title>Creep and drying shrinkage of lightweight and normal-weight concretes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.74"/>
-    <seriesInfo name="NIST" value="NBS MONO 74"/>
-    <author surname="Reichard"/>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.74"/>
+  <seriesInfo name="NIST" value="NBS MONO 74"/>
 </reference>

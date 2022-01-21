@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-249" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-249.pdf">
   <front>
     <title>The ninth text REtrieval conference (TREC-9)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-249"/>
-    <seriesInfo name="NIST" value="NIST SP 500-249"/>
-    <author surname="Voorhees"/>
-    <author surname="Harman"/>
+    <author initials="EM" surname="Voorhees">
+      <organization/>
+    </author>
+    <author initials="DK" surname="Harman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-249"/>
+  <seriesInfo name="NIST" value="NIST SP 500-249"/>
 </reference>

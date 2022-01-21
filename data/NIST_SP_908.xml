@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.908" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication908.pdf">
   <front>
     <title>Third International Green Building Conference and Exposition-1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.908"/>
-    <seriesInfo name="NIST" value="NIST SP 908"/>
-    <author surname="Fanney"/>
-    <author surname="Fanney"/>
-    <author surname="Svincek"/>
+    <author initials="AH" surname="Fanney">
+      <organization/>
+    </author>
+    <author initials="AH" surname="Fanney">
+      <organization/>
+    </author>
+    <author initials="PR" surname="Svincek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.908"/>
+  <seriesInfo name="NIST" value="NIST SP 908"/>
 </reference>

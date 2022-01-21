@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.788" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication788.pdf">
   <front>
     <title>Proceedings of the Workshop on Evaluation of Cement and Concrete Laboratory Performance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.788"/>
-    <seriesInfo name="NIST" value="NIST SP 788"/>
-    <author fullname="James Pielert" initials="J." surname="Pielert"/>
-    <author fullname="James Pielert" initials="J." surname="Pielert"/>
+    <author fullname="James Pielert" initials="H" surname="Pielert">
+      <organization/>
+    </author>
+    <author fullname="James Pielert" initials="H" surname="Pielert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.788"/>
+  <seriesInfo name="NIST" value="NIST SP 788"/>
 </reference>

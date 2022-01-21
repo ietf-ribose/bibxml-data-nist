@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1523" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1523.pdf">
   <front>
     <title>Numerical solution of the electron slowing-down equation for molecular hydrogen</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1523"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1523"/>
-    <author surname="Spencer"/>
-    <author surname="Pal"/>
+    <author initials="LV" surname="Spencer">
+      <organization/>
+    </author>
+    <author initials="R" surname="Pal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1523"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1523"/>
 </reference>

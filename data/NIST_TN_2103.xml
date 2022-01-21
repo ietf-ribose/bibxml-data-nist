@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2103" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2103.pdf">
   <front>
     <title>Evacuation decision-making in the 2016 chimney tops 2 fire: results of a household survey</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2103"/>
-    <seriesInfo name="NIST" value="NIST TN 2103"/>
-    <author fullname="Emily Walpole" initials="E." surname="Walpole">
+    <author fullname="Emily Walpole" initials="H" surname="Walpole">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Lauren Cain" initials="L." surname="Cain">
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2103"/>
+  <seriesInfo name="NIST" value="NIST TN 2103"/>
 </reference>

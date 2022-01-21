@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1216" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1216.pdf">
   <front>
     <title>Materials research for clean utilization of coal</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1216"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1216"/>
-    <author fullname="Samuel Schneider" initials="S." surname="Schneider"/>
+    <author fullname="Samuel Schneider" initials="J" surname="Schneider">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1216"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1216"/>
 </reference>

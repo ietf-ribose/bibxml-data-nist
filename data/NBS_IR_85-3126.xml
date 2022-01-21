@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3126" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3126.pdf">
   <front>
     <title>Monitoring of dynamic response of florr in "D" wing of the main building, Bureau of Engraving and Printing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3126"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3126"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="Paul Mayne" initials="P." surname="Mayne"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="Paul Mayne" initials="W" surname="Mayne">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3126"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3126"/>
 </reference>

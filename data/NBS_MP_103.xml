@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.103" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub103.pdf">
   <front>
     <title>Weights and measures references/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.103"/>
-    <seriesInfo name="NIST" value="NBS MP 103"/>
-    <author fullname="Ralph Smith" initials="R." surname="Smith"/>
+    <author fullname="Ralph Smith" initials="W" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1930"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.103"/>
+  <seriesInfo name="NIST" value="NBS MP 103"/>
 </reference>

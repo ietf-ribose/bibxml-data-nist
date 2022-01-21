@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.83-2744" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2744.pdf">
   <front>
     <title>Advanced sensor development program for the pulp and paper industry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2744"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2744"/>
-    <author surname="Whetstone"/>
-    <author surname="Sumerjian"/>
-    <author surname="Presser"/>
-    <author surname="Gaigalas"/>
-    <author surname="Potzick"/>
+    <author initials="JR" surname="Whetstone">
+      <organization/>
+    </author>
+    <author initials="HG" surname="Sumerjian">
+      <organization/>
+    </author>
+    <author initials="C" surname="Presser">
+      <organization/>
+    </author>
+    <author initials="A" surname="Gaigalas">
+      <organization/>
+    </author>
+    <author initials="J" surname="Potzick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2744"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2744"/>
 </reference>

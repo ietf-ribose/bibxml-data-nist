@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.971" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote971.pdf">
   <front>
     <title>Guidelines for cost-effective lead paint abatement</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.971"/>
-    <seriesInfo name="NIST" value="NBS TN 971"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.971"/>
+  <seriesInfo name="NIST" value="NBS TN 971"/>
 </reference>

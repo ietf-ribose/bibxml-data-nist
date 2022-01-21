@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8080" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8080.pdf">
   <front>
     <title>Usability and Security Considerations for Public Safety Mobile Authentication</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8080"/>
-    <seriesInfo name="NIST" value="NIST IR 8080"/>
     <author fullname="Yee-Yin Choong" initials="Y." surname="Choong">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+    <author fullname="Joshua Franklin" initials="M" surname="Franklin">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Kristen Greene" initials="K." surname="Greene">
+    <author fullname="Kristen Greene" initials="K" surname="Greene">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8080"/>
+  <seriesInfo name="NIST" value="NIST IR 8080"/>
 </reference>

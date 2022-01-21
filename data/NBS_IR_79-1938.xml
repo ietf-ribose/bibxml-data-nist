@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1938" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1938.pdf">
   <front>
     <title>Performance of plastic packaging for hazardous materials transportation :part V. mechanical properties</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1938"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1938"/>
-    <author fullname="John Crissman" initials="J." surname="Crissman"/>
-    <author fullname="Louis Zapas" initials="L." surname="Zapas"/>
-    <author fullname="Gordon Martin" initials="G." surname="Martin"/>
+    <author fullname="John Crissman" initials="M" surname="Crissman">
+      <organization/>
+    </author>
+    <author fullname="Louis Zapas" initials="J" surname="Zapas">
+      <organization/>
+    </author>
+    <author fullname="Gordon Martin" initials="M" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1938"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1938"/>
 </reference>

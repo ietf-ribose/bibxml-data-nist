@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4630" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4630.pdf">
   <front>
     <title>Performance evaluation of hypercube applications:using a global clock and time dilation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4630"/>
-    <seriesInfo name="NIST" value="NIST IR 4630"/>
-    <author fullname="Robert Snelick" initials="R." surname="Snelick"/>
+    <author fullname="Robert Snelick" initials="D" surname="Snelick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4630"/>
+  <seriesInfo name="NIST" value="NIST IR 4630"/>
 </reference>

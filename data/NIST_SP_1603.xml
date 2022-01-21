@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1603" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1603.pdf">
   <front>
     <title>Comparing the Energy and Economic Performance of the NIST NZERTF Design across the Mixed-Humid Climate Zone</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1603"/>
-    <seriesInfo name="NIST" value="NIST SP 1603"/>
-    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
+    <author fullname="Joshua Kneifel" initials="D" surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Eric O'Rear" initials="E." surname="O'Rear">
+    <author fullname="Eric O'Rear" initials="G" surname="O'Rear">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1603"/>
+  <seriesInfo name="NIST" value="NIST SP 1603"/>
 </reference>

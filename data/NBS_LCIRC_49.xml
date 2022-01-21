@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.49" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular49.pdf">
   <front>
     <title>Letter Circular 49:description and operation of an audio-frequency amplifier unit for simple radio receiving outfits</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.49"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 49"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.49"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 49"/>
 </reference>

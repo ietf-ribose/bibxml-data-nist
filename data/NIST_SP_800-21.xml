@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-21" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-21.pdf">
   <front>
     <title>Guideline for implementing cryptography in the federal government</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-21"/>
-    <seriesInfo name="NIST" value="NIST SP 800-21"/>
     <author fullname="Annabelle Lee" initials="A." surname="Lee">
       <organization>Computer Security Division.</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-21"/>
+  <seriesInfo name="NIST" value="NIST SP 800-21"/>
 </reference>

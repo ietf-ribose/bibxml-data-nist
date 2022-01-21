@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7110.pdf">
   <front>
     <title>Matching performance for the US-VISIT IDENT system using flat fingerprints</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7110"/>
-    <seriesInfo name="NIST" value="NIST IR 7110"/>
-    <author surname="Wilson"/>
-    <author surname="Garris"/>
-    <author surname="Watson"/>
+    <author initials="CL" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="MD" surname="Garris">
+      <organization/>
+    </author>
+    <author initials="CI" surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7110"/>
+  <seriesInfo name="NIST" value="NIST IR 7110"/>
 </reference>

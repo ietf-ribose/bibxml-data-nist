@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.6365" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6365.pdf">
   <front>
     <title>Distribution of outgoing first class lettermail at the Washington, D.C. Post Office</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6365"/>
-    <seriesInfo name="NIST" value="NBS RPT 6365"/>
-    <author fullname="Arthur Newman" initials="A." surname="Newman"/>
+    <author fullname="Arthur Newman" initials="E" surname="Newman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6365"/>
+  <seriesInfo name="NIST" value="NBS RPT 6365"/>
 </reference>

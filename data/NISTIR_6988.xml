@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6988" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6988.pdf">
   <front>
     <title>NVLAP partnerships with NIST technical units</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6988"/>
-    <seriesInfo name="NIST" value="NIST IR 6988"/>
-    <author fullname="Hazel Richmond" initials="H." surname="Richmond"/>
-    <author fullname="Douglas Faison" initials="D." surname="Faison"/>
+    <author fullname="Hazel Richmond" initials="M" surname="Richmond">
+      <organization/>
+    </author>
+    <author fullname="Douglas Faison" initials="C" surname="Faison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6988"/>
+  <seriesInfo name="NIST" value="NIST IR 6988"/>
 </reference>

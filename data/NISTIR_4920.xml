@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4920" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4920.pdf">
   <front>
     <title>Workshop on federal programs involving supercritical water oxidation:proceedings 6-7 July 1992</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4920"/>
-    <seriesInfo name="NIST" value="NIST IR 4920"/>
-    <author fullname="Gregory Rosasco" initials="G." surname="Rosasco"/>
+    <author fullname="Gregory Rosasco" initials="J" surname="Rosasco">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4920"/>
+  <seriesInfo name="NIST" value="NIST IR 4920"/>
 </reference>

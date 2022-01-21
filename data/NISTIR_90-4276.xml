@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-4276" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4276.pdf">
   <front>
     <title>Quality assurance tests for adhesion of paint on tactical rigid wall shelters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4276"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4276"/>
-    <author fullname="Hiroshi Watanabe" initials="H." surname="Watanabe"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
-    <author fullname="JamesJr Seiler" initials="J.J." surname="Seiler"/>
+    <author fullname="Hiroshi Watanabe" initials="H." surname="Watanabe">
+      <organization/>
+    </author>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
+    <author fullname="JamesJr Seiler" initials="F" surname="Seiler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4276"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4276"/>
 </reference>

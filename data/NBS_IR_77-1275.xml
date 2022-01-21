@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1275" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1275.pdf">
   <front>
     <title>Examination of cap screws from currency printing press flanges</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1275"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1275"/>
-    <author fullname="Robert Shives" initials="R." surname="Shives"/>
+    <author fullname="Robert Shives" initials="T" surname="Shives">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1275"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1275"/>
 </reference>

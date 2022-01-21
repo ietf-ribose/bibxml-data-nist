@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-3928" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3928.pdf">
   <front>
     <title>Facilities for improving evaluations of electromagnetic susceptibilities of weapon systems and electronic equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3928"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3928"/>
-    <author surname="Ma"/>
-    <author surname="Crawford"/>
+    <author initials="MT" surname="Ma">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Crawford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3928"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3928"/>
 </reference>

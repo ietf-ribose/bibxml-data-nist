@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2372" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2372.pdf">
   <front>
     <title>Development of an energy test method for a dedicated water-heating heat pump</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2372"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2372"/>
-    <author fullname="Andrew Wan" initials="A." surname="Wan"/>
-    <author fullname="Robert Palla" initials="R." surname="Palla"/>
-    <author fullname="James Harris" initials="J." surname="Harris"/>
+    <author fullname="Andrew Wan" initials="C" surname="Wan">
+      <organization/>
+    </author>
+    <author fullname="Robert Palla" initials="L" surname="Palla">
+      <organization/>
+    </author>
+    <author fullname="James Harris" initials="E" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2372"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2372"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-51" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-51.pdf">
   <front>
     <title>Use of the Common Vulnerabilities and Exposures (CVE) vulnerability naming scheme</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-51"/>
-    <seriesInfo name="NIST" value="NIST SP 800-51"/>
-    <author surname="Mell">
+    <author initials="P" surname="Mell">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Grance">
+    <author initials="T" surname="Grance">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-51"/>
+  <seriesInfo name="NIST" value="NIST SP 800-51"/>
 </reference>

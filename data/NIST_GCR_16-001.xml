@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.16-001" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-001.pdf">
   <front>
     <title>A Conceptual Framework for Assessing Resilience at the Community Scale</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-001"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-001"/>
     <author fullname="Alexis Kwasinski" initials="A." surname="Kwasinski">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Brian Wolshon" initials="B." surname="Wolshon">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Francis Lavelle" initials="F." surname="Lavelle">
+    <author fullname="Francis Lavelle" initials="M" surname="Lavelle">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-001"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-001"/>
 </reference>

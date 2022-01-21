@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.334" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular334.pdf">
   <front>
     <title>Letter Circular 334:spray painting</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.334"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 334"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.334"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 334"/>
 </reference>

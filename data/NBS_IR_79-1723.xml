@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1723" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1723.pdf">
   <front>
     <title>Standard procedure for use of thermoluminescence dosimetry in radiation-hardness testing of electronic devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1723"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1723"/>
-    <author surname="Humphreys"/>
-    <author surname="Chappell"/>
+    <author initials="JC" surname="Humphreys">
+      <organization/>
+    </author>
+    <author initials="SE" surname="Chappell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1723"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1723"/>
 </reference>

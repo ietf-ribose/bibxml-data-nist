@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.819" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication819.pdf">
   <front>
     <title>A procedure for the effective recalibration of liquid-in-glass thermometers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.819"/>
-    <seriesInfo name="NIST" value="NIST SP 819"/>
-    <author fullname="Jacquelyn Wise" initials="J." surname="Wise"/>
-    <author fullname="Jacquelyn Wise" initials="J." surname="Wise"/>
+    <author fullname="Jacquelyn Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
+    <author fullname="Jacquelyn Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.819"/>
+  <seriesInfo name="NIST" value="NIST SP 819"/>
 </reference>

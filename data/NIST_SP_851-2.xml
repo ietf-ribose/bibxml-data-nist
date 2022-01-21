@@ -1,16 +1,30 @@
 <reference anchor="NIST.SP.851-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication851-2.pdf">
   <front>
     <title>Test methods for quantifying the propensity of cigarettes to ignite soft furnishings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.851-2"/>
-    <seriesInfo name="NIST" value="NIST SP 851-2"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="Kay Villa" initials="K." surname="Villa"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
-    <author fullname="Keith Eberhardt" initials="K." surname="Eberhardt"/>
-    <author fullname="RichardH,Jr Harris" initials="R.H.J." surname="Harris"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="Kay Villa" initials="M" surname="Villa">
+      <organization/>
+    </author>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
+    <author fullname="Keith Eberhardt" initials="R" surname="Eberhardt">
+      <organization/>
+    </author>
+    <author fullname="RichardH,Jr Harris" initials="R.H.J." surname="Harris">
+      <organization/>
+    </author>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.851-2"/>
+  <seriesInfo name="NIST" value="NIST SP 851-2"/>
 </reference>

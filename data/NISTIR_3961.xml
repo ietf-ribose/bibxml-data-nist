@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3961" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3961.pdf">
   <front>
     <title>Experimental thermal conductivity, thermal diffusivity, and specific heat values for mixtures of nitrogen, oxygen, and argon</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3961"/>
-    <seriesInfo name="NIST" value="NIST IR 3961"/>
-    <author surname="Perkins"/>
-    <author surname="Ciezkiewicz"/>
+    <author initials="RA" surname="Perkins">
+      <organization/>
+    </author>
+    <author initials="MT" surname="Ciezkiewicz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3961"/>
+  <seriesInfo name="NIST" value="NIST IR 3961"/>
 </reference>

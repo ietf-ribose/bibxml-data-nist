@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2559" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2559.pdf">
   <front>
     <title>Evaluation of chain saw kickback motion using an optoelectronic measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2559"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2559"/>
-    <author fullname="Donald Robinson" initials="D." surname="Robinson"/>
-    <author fullname="Charles Federman" initials="C." surname="Federman"/>
+    <author fullname="Donald Robinson" initials="D." surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="Charles Federman" initials="C." surname="Federman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2559"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2559"/>
 </reference>

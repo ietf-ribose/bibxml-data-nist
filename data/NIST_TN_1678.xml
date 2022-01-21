@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1678" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1678.pdf">
   <front>
     <title>Safety assessment of parallel wire suspension bridge cables under thermal effects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1678"/>
-    <seriesInfo name="NIST" value="NIST TN 1678"/>
-    <author fullname="Joseph Main" initials="J." surname="Main">
+    <author fullname="Joseph Main" initials="A" surname="Main">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="William Luecke" initials="W." surname="Luecke">
+    <author fullname="William Luecke" initials="E" surname="Luecke">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2010" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1678"/>
+  <seriesInfo name="NIST" value="NIST TN 1678"/>
 </reference>

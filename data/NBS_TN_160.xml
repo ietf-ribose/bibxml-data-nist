@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.160" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote160.pdf">
   <front>
     <title>Emission stabilization of thermionic diode noise sources</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.160"/>
-    <seriesInfo name="NIST" value="NBS TN 160"/>
-    <author surname="Randall"/>
+    <author initials="MW" surname="Randall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.160"/>
+  <seriesInfo name="NIST" value="NBS TN 160"/>
 </reference>

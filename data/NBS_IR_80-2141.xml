@@ -1,16 +1,30 @@
 <reference anchor="NBS.IR.80-2141" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2141.pdf">
   <front>
     <title>Estimated accuracy of calibration of some membrane-type LNG transport tanks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2141"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2141"/>
-    <author surname="Haight"/>
-    <author surname="Hocken"/>
-    <author surname="Borchardt"/>
-    <author surname="Carroll"/>
-    <author surname="Hartsock"/>
-    <author surname="Reeve"/>
-    <author surname="Scire"/>
-    <author surname="Veale"/>
+    <author initials="WC" surname="Haight">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Hocken">
+      <organization/>
+    </author>
+    <author initials="BR" surname="Borchardt">
+      <organization/>
+    </author>
+    <author initials="CL" surname="Carroll">
+      <organization/>
+    </author>
+    <author initials="RG" surname="Hartsock">
+      <organization/>
+    </author>
+    <author initials="CP" surname="Reeve">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Scire">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Veale">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2141"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2141"/>
 </reference>

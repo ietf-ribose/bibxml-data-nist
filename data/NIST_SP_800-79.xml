@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-79.pdf">
   <front>
     <title>Guidelines for the certification and accreditation of PIV card issuing organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-79"/>
-    <seriesInfo name="NIST" value="NIST SP 800-79"/>
-    <author surname="Branstad">
+    <author initials="DK" surname="Branstad">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Clay">
+    <author initials="A" surname="Clay">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Hash">
+    <author initials="J" surname="Hash">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-79"/>
+  <seriesInfo name="NIST" value="NIST SP 800-79"/>
 </reference>

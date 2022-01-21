@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-124.pdf">
   <front>
     <title>Evaluation of currency and stamp papers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-124"/>
-    <seriesInfo name="NIST" value="NBS IR 73-124"/>
-    <author surname="Graminski"/>
-    <author surname="Toth"/>
+    <author initials="EL" surname="Graminski">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Toth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-124"/>
+  <seriesInfo name="NIST" value="NBS IR 73-124"/>
 </reference>

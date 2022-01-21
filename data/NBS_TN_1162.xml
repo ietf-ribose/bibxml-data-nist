@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1162.pdf">
   <front>
     <title>Transportable 1000 pF standard for the NBS capacitance measurement assurance program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1162"/>
-    <seriesInfo name="NIST" value="NBS TN 1162"/>
-    <author fullname="George Free" initials="G." surname="Free"/>
+    <author fullname="George Free" initials="M" surname="Free">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1162"/>
+  <seriesInfo name="NIST" value="NBS TN 1162"/>
 </reference>

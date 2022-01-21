@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-132" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-132.pdf">
   <front>
     <title>Benchmark analysis of database architictures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-132"/>
-    <seriesInfo name="NIST" value="NBS SP 500-132"/>
-    <author fullname="Daniel Benigni" initials="D." surname="Benigni"/>
+    <author fullname="Daniel Benigni" initials="R" surname="Benigni">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-132"/>
+  <seriesInfo name="NIST" value="NBS SP 500-132"/>
 </reference>

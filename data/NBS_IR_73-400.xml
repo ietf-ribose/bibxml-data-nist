@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-400" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-400.pdf">
   <front>
     <title>Preparation of simulated environmental filters containing quartz and clay</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-400"/>
-    <seriesInfo name="NIST" value="NBS IR 73-400"/>
-    <author surname="Taylor"/>
-    <author surname="Deardorff"/>
-    <author surname="Olson"/>
-    <author surname="Burke"/>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Deardorff">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Olson">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Burke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-400"/>
+  <seriesInfo name="NIST" value="NBS IR 73-400"/>
 </reference>

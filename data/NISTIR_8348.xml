@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8348" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8348.pdf">
   <front>
     <title>National Institute of Standards and Technology Environmental Scan 2020</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8348"/>
-    <seriesInfo name="NIST" value="NIST IR 8348"/>
     <author fullname="Heather Evans" initials="H." surname="Evans">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2021" month="February" day="9"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8348"/>
+  <seriesInfo name="NIST" value="NIST IR 8348"/>
 </reference>

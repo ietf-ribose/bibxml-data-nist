@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.942" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication942.pdf">
   <front>
     <title>Report of the 84th National Conference on Weights and Measures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.942"/>
-    <seriesInfo name="NIST" value="NIST SP 942"/>
-    <author fullname="Gilbert Ugiansky" initials="G." surname="Ugiansky"/>
+    <author fullname="Gilbert Ugiansky" initials="M" surname="Ugiansky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.942"/>
+  <seriesInfo name="NIST" value="NIST SP 942"/>
 </reference>

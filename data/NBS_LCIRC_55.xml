@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.55" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular55.pdf">
   <front>
     <title>Letter Circular 55:equipment for testing and adjusting railroad track scales</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.55"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 55"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.55"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 55"/>
 </reference>

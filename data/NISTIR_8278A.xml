@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8278A" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8278A.pdf">
   <front>
     <title>National Online Informative References (OLIR) Program: Submission Guidance for OLIR Developers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8278A"/>
-    <seriesInfo name="NIST" value="NIST IR 8278A"/>
     <author fullname="Matthew Barrett" initials="M." surname="Barrett">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Stephen Quinn" initials="S." surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Matthew Smith" initials="M." surname="Smith">
+    <author fullname="Matthew Smith" initials="C" surname="Smith">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="November" day="19"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8278A"/>
+  <seriesInfo name="NIST" value="NIST IR 8278A"/>
 </reference>

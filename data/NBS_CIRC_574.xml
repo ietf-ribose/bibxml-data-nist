@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.574" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular574.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 574:amplitude and phase curves for ground-wave propagation in the band 200 cycles per second to 500 kilocycles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.574"/>
-    <seriesInfo name="NIST" value="NBS CIRC 574"/>
-    <author fullname="James Wait" initials="J." surname="Wait"/>
+    <author fullname="James Wait" initials="R" surname="Wait">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.574"/>
+  <seriesInfo name="NIST" value="NBS CIRC 574"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures136.pdf">
   <front>
     <title>Properties of cavity walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.136"/>
-    <seriesInfo name="NIST" value="NBS BMS 136"/>
-    <author fullname="Daniel Goalwin" initials="D." surname="Goalwin"/>
+    <author fullname="Daniel Goalwin" initials="S" surname="Goalwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.136"/>
+  <seriesInfo name="NIST" value="NBS BMS 136"/>
 </reference>

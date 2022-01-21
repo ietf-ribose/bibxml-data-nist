@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.2840" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2840.pdf">
   <front>
     <title>Some properties of lightweight aggregate concretes containing entrained air in place of fine aggregate</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2840"/>
-    <seriesInfo name="NIST" value="NBS RPT 2840"/>
-    <author fullname="Rudolph Valore" initials="R." surname="Valore"/>
-    <author fullname="Joan De Mattei" initials="J." surname="De Mattei"/>
-    <author fullname="Leopold Skoda" initials="L." surname="Skoda"/>
+    <author fullname="Rudolph Valore" initials="C" surname="Valore">
+      <organization/>
+    </author>
+    <author fullname="Joan De Mattei" initials="M" surname="De Mattei">
+      <organization/>
+    </author>
+    <author fullname="Leopold Skoda" initials="F" surname="Skoda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2840"/>
+  <seriesInfo name="NIST" value="NBS RPT 2840"/>
 </reference>

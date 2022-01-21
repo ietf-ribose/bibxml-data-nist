@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1888" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1888.pdf">
   <front>
     <title>Hydrogen Field Test Standard Design, Operating Instructions, and Specifications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1888"/>
-    <seriesInfo name="NIST" value="NIST TN 1888"/>
-    <author fullname="Jodie Pope" initials="J." surname="Pope">
+    <author fullname="Jodie Pope" initials="G" surname="Pope">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1888"/>
+  <seriesInfo name="NIST" value="NIST TN 1888"/>
 </reference>

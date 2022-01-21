@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-84" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-84.pdf">
   <front>
     <title>Standard Reference MaterialsSampling, materials handling, processing, and packaging of NBS sulfur in coal standard reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-84"/>
-    <seriesInfo name="NIST" value="NBS SP 260-84"/>
-    <author surname="Seward"/>
-    <author surname="Webster"/>
-    <author surname="Gills"/>
+    <author initials="RW" surname="Seward">
+      <organization/>
+    </author>
+    <author initials="WC" surname="Webster">
+      <organization/>
+    </author>
+    <author initials="TE" surname="Gills">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-84"/>
+  <seriesInfo name="NIST" value="NBS SP 260-84"/>
 </reference>

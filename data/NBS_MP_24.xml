@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.24" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub24.pdf">
   <front>
     <title>Annual report of the director of the Bureau of Standards to the secretary of Commerce and Labor for the fiscal year ended June 30, 1904</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.24"/>
-    <seriesInfo name="NIST" value="NBS MP 24"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1905"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.24"/>
+  <seriesInfo name="NIST" value="NBS MP 24"/>
 </reference>

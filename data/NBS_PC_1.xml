@@ -1,10 +1,12 @@
 <reference anchor="NBS.PC.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/PC/nbsphotographiccircular.pdf">
   <front>
     <title>A proposed atlas of photographic negative emulsions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.PC.1"/>
-    <seriesInfo name="NIST" value="NBS PC 1"/>
-    <author fullname="Raymond Davis" initials="R." surname="Davis"/>
-    <author surname="Walters, Jr."/>
+    <author fullname="Raymond Davis" initials="R." surname="Davis">
+      <organization/>
+    </author>
+    <author initials="FM" surname="Walters, Jr.">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1920" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.PC.1"/>
+  <seriesInfo name="NIST" value="NBS PC 1"/>
 </reference>

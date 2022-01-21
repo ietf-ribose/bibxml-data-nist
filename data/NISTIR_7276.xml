@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7276" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7276.pdf">
   <front>
     <title>The impact of RAID on disk imaging</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7276"/>
-    <seriesInfo name="NIST" value="NIST IR 7276"/>
-    <author fullname="Steve Mead" initials="S." surname="Mead"/>
+    <author fullname="Steve Mead" initials="S." surname="Mead">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7276"/>
+  <seriesInfo name="NIST" value="NIST IR 7276"/>
 </reference>

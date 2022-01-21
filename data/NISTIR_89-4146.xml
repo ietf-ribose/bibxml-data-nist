@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4146.pdf">
   <front>
     <title>Annual report, 1989</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4146"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4146"/>
-    <author surname="Schwartz"/>
-    <author surname="Rook"/>
+    <author initials="LH" surname="Schwartz">
+      <organization/>
+    </author>
+    <author initials="HL" surname="Rook">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4146"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4146"/>
 </reference>

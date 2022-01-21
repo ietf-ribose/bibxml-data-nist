@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.5927" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5927.pdf">
   <front>
     <title>Effect of variation of emissivity of internal surfaces of heated box beams on temperature distribution, thermal stress and deflection</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5927"/>
-    <seriesInfo name="NIST" value="NBS RPT 5927"/>
-    <author surname="Goodman"/>
-    <author surname="Russell"/>
-    <author surname="Noble"/>
+    <author initials="S" surname="Goodman">
+      <organization/>
+    </author>
+    <author initials="SB" surname="Russell">
+      <organization/>
+    </author>
+    <author initials="CE" surname="Noble">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1958" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5927"/>
+  <seriesInfo name="NIST" value="NBS RPT 5927"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.105" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience105.pdf">
   <front>
     <title>Retrofitting an existing wood-frame residence for energy conservation- an experimental study</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.105"/>
-    <seriesInfo name="NIST" value="NBS BSS 105"/>
-    <author surname="Burch"/>
-    <author surname="Hunt"/>
+    <author initials="DM" surname="Burch">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Hunt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.105"/>
+  <seriesInfo name="NIST" value="NBS BSS 105"/>
 </reference>

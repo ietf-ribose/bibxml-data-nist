@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.88-4021" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4021.pdf">
   <front>
     <title>Electrical performance tests for hand-held digital multimeters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4021"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4021"/>
-    <author surname="Leedy"/>
-    <author surname="Lentner"/>
-    <author surname="Laug"/>
-    <author surname="Bell"/>
+    <author initials="TF" surname="Leedy">
+      <organization/>
+    </author>
+    <author initials="KJ" surname="Lentner">
+      <organization/>
+    </author>
+    <author initials="OB" surname="Laug">
+      <organization/>
+    </author>
+    <author initials="BA" surname="Bell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4021"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4021"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2131" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2131.pdf">
   <front>
     <title>Fire Hazards of Dry Versus Watered Christmas Trees</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2131"/>
-    <seriesInfo name="NIST" value="NIST TN 2131"/>
-    <author fullname="Matthew Hoehler" initials="M." surname="Hoehler">
+    <author fullname="Matthew Hoehler" initials="S" surname="Hoehler">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+    <author fullname="Matthew Bundy" initials="F" surname="Bundy">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Laurean DeLauter" initials="L." surname="DeLauter">
@@ -26,4 +24,6 @@
     </author>
     <date year="2020" month="December" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2131"/>
+  <seriesInfo name="NIST" value="NIST TN 2131"/>
 </reference>

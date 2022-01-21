@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.83-2711" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2711.pdf">
   <front>
     <title>Trial combustions of kilogram-size samples of municipal solid waste</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2711"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2711"/>
-    <author surname="Ledford"/>
-    <author surname="Reilly"/>
-    <author surname="Domalski"/>
-    <author surname="Churney"/>
+    <author initials="AE" surname="Ledford">
+      <organization/>
+    </author>
+    <author initials="ML" surname="Reilly">
+      <organization/>
+    </author>
+    <author initials="ES" surname="Domalski">
+      <organization/>
+    </author>
+    <author initials="KL" surname="Churney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2711"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2711"/>
 </reference>

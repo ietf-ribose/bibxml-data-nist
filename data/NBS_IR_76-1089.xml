@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1089" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1089.pdf">
   <front>
     <title>an analysis of inertial seisometer-galvanometer combinations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1089"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1089"/>
-    <author surname="Johnson"/>
-    <author surname="Matheson"/>
+    <author initials="DP" surname="Johnson">
+      <organization/>
+    </author>
+    <author initials="H" surname="Matheson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1089"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1089"/>
 </reference>

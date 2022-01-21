@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6515e2003" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6515e2003.pdf">
   <front>
     <title>Directory of accredited North American Quality System Registration Organizations (NAQSRO)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6515e2003"/>
-    <seriesInfo name="NIST" value="NIST IR 6515e2003"/>
-    <author fullname="Michael Squires" initials="M." surname="Squires"/>
+    <author fullname="Michael Squires" initials="E" surname="Squires">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6515e2003"/>
+  <seriesInfo name="NIST" value="NIST IR 6515e2003"/>
 </reference>

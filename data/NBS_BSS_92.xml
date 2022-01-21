@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.92" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience92.pdf">
   <front>
     <title>The Viscosities of roofing asphalts at application temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.92"/>
-    <seriesInfo name="NIST" value="NBS BSS 92"/>
-    <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
+    <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.92"/>
+  <seriesInfo name="NIST" value="NBS BSS 92"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6647" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6647.pdf">
   <front>
     <title>Properties of a 5050 mixture of jet-A + S-8</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6647"/>
-    <seriesInfo name="NIST" value="NIST IR 6647"/>
-    <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
-    <author fullname="Arno Laesecke" initials="A." surname="Laesecke"/>
-    <author fullname="Stephanie Outcalt" initials="S." surname="Outcalt"/>
-    <author fullname="Hans-Dieter Seelig" initials="H." surname="Seelig"/>
-    <author fullname="Beverly Smith" initials="B." surname="Smith"/>
+    <author fullname="Thomas Bruno" initials="J" surname="Bruno">
+      <organization/>
+    </author>
+    <author fullname="Arno Laesecke" initials="A." surname="Laesecke">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Outcalt" initials="L" surname="Outcalt">
+      <organization/>
+    </author>
+    <author fullname="Hans-Dieter Seelig" initials="H." surname="Seelig">
+      <organization/>
+    </author>
+    <author fullname="Beverly Smith" initials="L" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6647"/>
+  <seriesInfo name="NIST" value="NIST IR 6647"/>
 </reference>

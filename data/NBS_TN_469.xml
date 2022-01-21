@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.469" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote469.pdf">
   <front>
     <title>NBS InterAgency Transducer Project.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.469"/>
-    <seriesInfo name="NIST" value="NBS TN 469"/>
-    <author fullname="Paul Lederer" initials="P." surname="Lederer"/>
+    <author fullname="Paul Lederer" initials="S" surname="Lederer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.469"/>
+  <seriesInfo name="NIST" value="NBS TN 469"/>
 </reference>

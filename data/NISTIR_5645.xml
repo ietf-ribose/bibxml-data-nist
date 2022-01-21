@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5645" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5645.pdf">
   <front>
     <title>Evaluation of thermal wave imaging for detection of machining damage in ceramics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5645"/>
-    <seriesInfo name="NIST" value="NIST IR 5645"/>
-    <author surname="Wei"/>
-    <author surname="Xu"/>
-    <author surname="Jahanmir"/>
+    <author initials="L" surname="Wei">
+      <organization/>
+    </author>
+    <author initials="HHK" surname="Xu">
+      <organization/>
+    </author>
+    <author initials="S" surname="Jahanmir">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5645"/>
+  <seriesInfo name="NIST" value="NIST IR 5645"/>
 </reference>

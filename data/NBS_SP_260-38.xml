@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-38" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-38.pdf">
   <front>
     <title>Standard Reference Materials :Preparation and calibration of standards of spectral specular reflectance/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-38"/>
-    <seriesInfo name="NIST" value="NBS SP 260-38"/>
-    <author surname="Hsia"/>
-    <author surname="Richmond"/>
+    <author initials="JJ" surname="Hsia">
+      <organization/>
+    </author>
+    <author initials="JC" surname="Richmond">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-38"/>
+  <seriesInfo name="NIST" value="NBS SP 260-38"/>
 </reference>

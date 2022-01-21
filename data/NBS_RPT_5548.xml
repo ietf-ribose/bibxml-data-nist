@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.5548" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5548.pdf">
   <front>
     <title>A precision frequency standard for x-band</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5548"/>
-    <seriesInfo name="NIST" value="NBS RPT 5548"/>
-    <author fullname="Jr Thompson" initials="J." surname="Thompson"/>
-    <author surname="Vetter"/>
-    <author fullname="Donald Waters" initials="D." surname="Waters"/>
+    <author fullname="Jr Thompson" initials="MC" surname="Thompson">
+      <organization/>
+    </author>
+    <author initials="MJ" surname="Vetter">
+      <organization/>
+    </author>
+    <author fullname="Donald Waters" initials="M" surname="Waters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1958" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5548"/>
+  <seriesInfo name="NIST" value="NBS RPT 5548"/>
 </reference>

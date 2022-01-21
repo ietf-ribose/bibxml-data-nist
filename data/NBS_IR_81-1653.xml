@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-1653" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-1653.pdf">
   <front>
     <title>Modelling of oil shale retorts for electromagnetic sensing techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1653"/>
-    <seriesInfo name="NIST" value="NBS IR 81-1653"/>
-    <author surname="Chew"/>
+    <author initials="H" surname="Chew">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1653"/>
+  <seriesInfo name="NIST" value="NBS IR 81-1653"/>
 </reference>

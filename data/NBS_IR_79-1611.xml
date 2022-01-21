@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1611" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1611.pdf">
   <front>
     <title>Thermodynamic properties of nitrogen gas derived from measurements of sound speed</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1611"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1611"/>
-    <author fullname="Ben Younglove" initials="B." surname="Younglove"/>
-    <author surname="McCarty"/>
+    <author fullname="Ben Younglove" initials="B." surname="Younglove">
+      <organization/>
+    </author>
+    <author initials="RD" surname="McCarty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1611"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1611"/>
 </reference>

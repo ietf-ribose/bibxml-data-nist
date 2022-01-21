@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIS.9" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CIS/nbscis9.pdf">
   <front>
     <title>Consumer Information Series 9: corrosion, facts for the consumer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIS.9"/>
-    <seriesInfo name="NIST" value="NBS CIS 9"/>
-    <author fullname="Jerome Kruger" initials="J." surname="Kruger"/>
+    <author fullname="Jerome Kruger" initials="J." surname="Kruger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIS.9"/>
+  <seriesInfo name="NIST" value="NBS CIS 9"/>
 </reference>

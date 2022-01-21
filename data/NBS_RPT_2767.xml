@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.2767" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2767.pdf">
   <front>
     <title>Thermal conductivities of no. 430 stainless steel and 2S aluminum specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2767"/>
-    <seriesInfo name="NIST" value="NBS RPT 2767"/>
-    <author fullname="Henry Robinson" initials="H." surname="Robinson"/>
-    <author surname="Katz"/>
+    <author fullname="Henry Robinson" initials="E" surname="Robinson">
+      <organization/>
+    </author>
+    <author initials="S" surname="Katz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2767"/>
+  <seriesInfo name="NIST" value="NBS RPT 2767"/>
 </reference>

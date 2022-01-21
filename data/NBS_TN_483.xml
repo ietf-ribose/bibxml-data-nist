@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.483" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote483.pdf">
   <front>
     <title>Construction and operation of a simple high-precision copper-point blackbody and furnace</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.483"/>
-    <seriesInfo name="NIST" value="NBS TN 483"/>
-    <author surname="Lee"/>
+    <author initials="RD" surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.483"/>
+  <seriesInfo name="NIST" value="NBS TN 483"/>
 </reference>

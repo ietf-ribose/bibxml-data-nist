@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6286" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6286.pdf">
   <front>
     <title>Benchmark experimental database for multiphase combustion model input and validation:baseline case, progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6286"/>
-    <seriesInfo name="NIST" value="NIST IR 6286"/>
-    <author fullname="John Widmann" initials="J." surname="Widmann"/>
-    <author fullname="Rao Charagundla" initials="R." surname="Charagundla"/>
-    <author fullname="Cary Presser" initials="C." surname="Presser"/>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert"/>
+    <author fullname="John Widmann" initials="F" surname="Widmann">
+      <organization/>
+    </author>
+    <author fullname="Rao Charagundla" initials="S" surname="Charagundla">
+      <organization/>
+    </author>
+    <author fullname="Cary Presser" initials="C." surname="Presser">
+      <organization/>
+    </author>
+    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6286"/>
+  <seriesInfo name="NIST" value="NIST IR 6286"/>
 </reference>

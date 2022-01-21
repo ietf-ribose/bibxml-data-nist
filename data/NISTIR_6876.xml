@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6876" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6876.pdf">
   <front>
     <title>Understanding part fabrication errors in closed-loop machining systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6876"/>
-    <seriesInfo name="NIST" value="NIST IR 6876"/>
-    <author fullname="Herbert Brandy" initials="H." surname="Brandy"/>
-    <author fullname="Lawrence Welsch" initials="L." surname="Welsch"/>
+    <author fullname="Herbert Brandy" initials="T" surname="Brandy">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Welsch" initials="A" surname="Welsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6876"/>
+  <seriesInfo name="NIST" value="NIST IR 6876"/>
 </reference>

@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.82-2607" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2607.pdf">
   <front>
     <title>Polymer Science and Standards Division :annual report 1982</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2607"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2607"/>
-    <author surname="Eby"/>
-    <author surname="Broadhurst"/>
-    <author surname="Davis"/>
-    <author surname="Wang"/>
-    <author surname="Fanconi"/>
-    <author surname="Cassel"/>
-    <author surname="Sanchez"/>
+    <author initials="RK" surname="Eby">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Broadhurst">
+      <organization/>
+    </author>
+    <author initials="GT" surname="Davis">
+      <organization/>
+    </author>
+    <author initials="FW" surname="Wang">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Fanconi">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Cassel">
+      <organization/>
+    </author>
+    <author initials="IC" surname="Sanchez">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2607"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2607"/>
 </reference>

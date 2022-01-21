@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.644" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication644.pdf">
   <front>
     <title>Expression of the uncertainties of final measurement results</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.644"/>
-    <seriesInfo name="NIST" value="NBS SP 644"/>
-    <author fullname="Churchill Eisenhart" initials="C." surname="Eisenhart"/>
-    <author fullname="Harry Ku" initials="H." surname="Ku"/>
-    <author surname="ColleÌ"/>
+    <author fullname="Churchill Eisenhart" initials="C." surname="Eisenhart">
+      <organization/>
+    </author>
+    <author fullname="Harry Ku" initials="H" surname="Ku">
+      <organization/>
+    </author>
+    <author initials="R" surname="ColleÌ">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.644"/>
+  <seriesInfo name="NIST" value="NBS SP 644"/>
 </reference>

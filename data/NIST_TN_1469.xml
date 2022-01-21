@@ -1,12 +1,18 @@
 <reference anchor="NIST.TN.1469" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1469.pdf">
   <front>
     <title>Precise theory of levels of hydrogen and deuterium :the one-photon self energy correction</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1469"/>
-    <seriesInfo name="NIST" value="NIST TN 1469"/>
-    <author fullname="Ulrich Jantschura" initials="U." surname="Jantschura"/>
-    <author fullname="Svetlana Kotochigova" initials="S." surname="Kotochigova"/>
-    <author fullname="Eric-Olivier Le Bigot" initials="E." surname="Le Bigot"/>
-    <author fullname="Peter Mohr" initials="P." surname="Mohr"/>
+    <author fullname="Ulrich Jantschura" initials="D" surname="Jantschura">
+      <organization/>
+    </author>
+    <author fullname="Svetlana Kotochigova" initials="S." surname="Kotochigova">
+      <organization/>
+    </author>
+    <author fullname="Eric-Olivier Le Bigot" initials="E." surname="Le Bigot">
+      <organization/>
+    </author>
+    <author fullname="Peter Mohr" initials="J" surname="Mohr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1469"/>
+  <seriesInfo name="NIST" value="NIST TN 1469"/>
 </reference>

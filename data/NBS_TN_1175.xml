@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1175" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1175.pdf">
   <front>
     <title>Extension of a reference spectrophotometer into the near infrared</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1175"/>
-    <seriesInfo name="NIST" value="NBS TN 1175"/>
-    <author fullname="Kenneth Eckerle" initials="K." surname="Eckerle"/>
+    <author fullname="Kenneth Eckerle" initials="L" surname="Eckerle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1175"/>
+  <seriesInfo name="NIST" value="NBS TN 1175"/>
 </reference>

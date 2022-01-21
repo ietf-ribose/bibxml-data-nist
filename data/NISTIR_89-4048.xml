@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.89-4048" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4048.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4048"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4048"/>
-    <author surname="Tesk"/>
-    <author surname="Antonucci"/>
-    <author surname="de Rijk"/>
-    <author surname="McKinney"/>
-    <author surname="Stansbury"/>
-    <author surname="Venz"/>
-    <author surname="Lee"/>
-    <author surname="Sugawara"/>
-    <author surname="Asaoka"/>
+    <author initials="JA" surname="Tesk">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Antonucci">
+      <organization/>
+    </author>
+    <author initials="WG" surname="de Rijk">
+      <organization/>
+    </author>
+    <author initials="JE" surname="McKinney">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Stansbury">
+      <organization/>
+    </author>
+    <author initials="S" surname="Venz">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Lee">
+      <organization/>
+    </author>
+    <author initials="A" surname="Sugawara">
+      <organization/>
+    </author>
+    <author initials="KK" surname="Asaoka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4048"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4048"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1022" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1022.pdf">
   <front>
     <title>Evaluation of thrown objects tests for proposed safety standard for power lawn mowers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1022"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1022"/>
-    <author fullname="Donald Robinson" initials="D." surname="Robinson"/>
-    <author fullname="Roger Clough" initials="R." surname="Clough"/>
+    <author fullname="Donald Robinson" initials="C" surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="Roger Clough" initials="B" surname="Clough">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1022"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1022"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="NBS.SP.419" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication419.pdf">
   <front>
     <title>Selected topics on hydrogen fuel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.419"/>
-    <seriesInfo name="NIST" value="NBS SP 419"/>
-    <author surname="Parrish"/>
-    <author surname="Voth"/>
-    <author surname="Hust"/>
-    <author surname="Flynn"/>
-    <author surname="Sindt"/>
-    <author surname="Olien"/>
+    <author initials="WR" surname="Parrish">
+      <organization/>
+    </author>
+    <author initials="RO" surname="Voth">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Hust">
+      <organization/>
+    </author>
+    <author initials="TM" surname="Flynn">
+      <organization/>
+    </author>
+    <author initials="CF" surname="Sindt">
+      <organization/>
+    </author>
+    <author initials="NA" surname="Olien">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.419"/>
+  <seriesInfo name="NIST" value="NBS SP 419"/>
 </reference>

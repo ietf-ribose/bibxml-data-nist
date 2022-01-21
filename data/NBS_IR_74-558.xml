@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-558" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-558.pdf">
   <front>
     <title>Acoustical performance of fiscal 1975 hearing aids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-558"/>
-    <seriesInfo name="NIST" value="NBS IR 74-558"/>
-    <author surname="Burnett"/>
-    <author surname="Bassin"/>
+    <author initials="ED" surname="Burnett">
+      <organization/>
+    </author>
+    <author initials="MA" surname="Bassin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-558"/>
+  <seriesInfo name="NIST" value="NBS IR 74-558"/>
 </reference>

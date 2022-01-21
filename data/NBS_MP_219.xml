@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.219" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub219.pdf">
   <front>
     <title>Report of the 41st National Conference on Weights and Measures 1956</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.219"/>
-    <seriesInfo name="NIST" value="NBS MP 219"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.219"/>
+  <seriesInfo name="NIST" value="NBS MP 219"/>
 </reference>

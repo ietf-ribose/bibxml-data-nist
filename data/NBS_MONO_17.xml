@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph17.pdf">
   <front>
     <title>New description of thorium spectra</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.17"/>
-    <seriesInfo name="NIST" value="NBS MONO 17"/>
-    <author fullname="Romuald Zalubas" initials="R." surname="Zalubas"/>
+    <author fullname="Romuald Zalubas" initials="R." surname="Zalubas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.17"/>
+  <seriesInfo name="NIST" value="NBS MONO 17"/>
 </reference>

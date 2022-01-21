@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1637" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1637.pdf">
   <front>
     <title>Modeling the effects of outdoor gasonline powered generator use on indoor carbon monoxide exposures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1637"/>
-    <seriesInfo name="NIST" value="NIST TN 1637"/>
-    <author fullname="Liangzhu(Leon) Wang" initials="L.(." surname="Wang"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
+    <author fullname="Liangzhu(Leon) Wang" initials="L.(." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1637"/>
+  <seriesInfo name="NIST" value="NIST TN 1637"/>
 </reference>

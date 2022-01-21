@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.941" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication941.pdf">
   <front>
     <title>Free Trade Area of the Americas (FTAA) conformity assessment infrastructure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.941"/>
-    <seriesInfo name="NIST" value="NIST SP 941"/>
-    <author fullname="Carmina Londono" initials="C." surname="Londono"/>
-    <author fullname="Carmina Londono" initials="C." surname="Londono"/>
+    <author fullname="Carmina Londono" initials="C." surname="Londono">
+      <organization/>
+    </author>
+    <author fullname="Carmina Londono" initials="C." surname="Londono">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.941"/>
+  <seriesInfo name="NIST" value="NIST SP 941"/>
 </reference>

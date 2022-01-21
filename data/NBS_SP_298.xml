@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.298" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication298.pdf">
   <front>
     <title>Quantitative electron probe microanalysis :Proceedings of a seminar held at the National Bureau of Standards, Gaithersburg, Maryland, June 12-13, 1967</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.298"/>
-    <seriesInfo name="NIST" value="NBS SP 298"/>
-    <author surname="Heinrich"/>
+    <author initials="KFJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.298"/>
+  <seriesInfo name="NIST" value="NBS SP 298"/>
 </reference>

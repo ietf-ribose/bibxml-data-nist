@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4134" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4134.pdf">
   <front>
     <title>Quantification of heat losses through structural supports for shallow trench heat distribution system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4134"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4134"/>
-    <author fullname="Jin Fang" initials="J." surname="Fang"/>
+    <author fullname="Jin Fang" initials="B" surname="Fang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4134"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4134"/>
 </reference>

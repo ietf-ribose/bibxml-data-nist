@@ -1,11 +1,15 @@
 <reference anchor="NBS.TN.449" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote449.pdf">
   <front>
     <title>Research on laser standards and materials at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.449"/>
-    <seriesInfo name="NIST" value="NBS TN 449"/>
-    <author fullname="Elio Passaglia" initials="E." surname="Passaglia"/>
-    <author fullname="Nicholas Winogradoff" initials="N." surname="Winogradoff"/>
-    <author fullname="Karl Kessler" initials="K." surname="Kessler"/>
+    <author fullname="Elio Passaglia" initials="E." surname="Passaglia">
+      <organization/>
+    </author>
+    <author fullname="Nicholas Winogradoff" initials="N" surname="Winogradoff">
+      <organization/>
+    </author>
+    <author fullname="Karl Kessler" initials="G" surname="Kessler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.449"/>
+  <seriesInfo name="NIST" value="NBS TN 449"/>
 </reference>

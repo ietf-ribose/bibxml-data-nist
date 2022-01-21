@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1190GB-2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1190GB-2.pdf">
   <front>
     <title>NIST SP 1190 Guide Brief 2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-2"/>
-    <seriesInfo name="NIST" value="NIST SP 1190GB-2"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister">
+    <author fullname="Therese McAllister" initials="P" surname="McAllister">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-2"/>
+  <seriesInfo name="NIST" value="NIST SP 1190GB-2"/>
 </reference>

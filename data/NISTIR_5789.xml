@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5789" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5789.pdf">
   <front>
     <title>Using S-Check, alpha release 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5789"/>
-    <seriesInfo name="NIST" value="NIST IR 5789"/>
-    <author fullname="Robert Snelick" initials="R." surname="Snelick"/>
-    <author fullname="Nathalie Drouin" initials="N." surname="Drouin"/>
-    <author fullname="John Antonishek" initials="J." surname="Antonishek"/>
+    <author fullname="Robert Snelick" initials="R." surname="Snelick">
+      <organization/>
+    </author>
+    <author fullname="Nathalie Drouin" initials="N." surname="Drouin">
+      <organization/>
+    </author>
+    <author fullname="John Antonishek" initials="J." surname="Antonishek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5789"/>
+  <seriesInfo name="NIST" value="NIST IR 5789"/>
 </reference>

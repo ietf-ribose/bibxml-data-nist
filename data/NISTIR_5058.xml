@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5058" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5058.pdf">
   <front>
     <title>Noncontact measurement of the exit temperature of sheet metal in an operating rolling mill</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5058"/>
-    <seriesInfo name="NIST" value="NIST IR 5058"/>
-    <author fullname="Arnold Kahn" initials="A." surname="Kahn"/>
-    <author fullname="Louis Phillips" initials="L." surname="Phillips"/>
-    <author fullname="Stephen Schaps" initials="S." surname="Schaps"/>
-    <author fullname="George Alers" initials="G." surname="Alers"/>
+    <author fullname="Arnold Kahn" initials="A." surname="Kahn">
+      <organization/>
+    </author>
+    <author fullname="Louis Phillips" initials="C" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Stephen Schaps" initials="R" surname="Schaps">
+      <organization/>
+    </author>
+    <author fullname="George Alers" initials="A" surname="Alers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5058"/>
+  <seriesInfo name="NIST" value="NIST IR 5058"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.6649" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6649.pdf">
   <front>
     <title>NIST Workshop on Materials Test Procedures for Hydrogen PipelinesThe proceedings of a workshop held August 21-22, 2007 at the National Institute of Standards and Technology, Boulder, CO 80305</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6649"/>
-    <seriesInfo name="NIST" value="NIST IR 6649"/>
-    <author role="editor" fullname="Thomas Siewert" initials="T." surname="Siewert">
+    <author role="editor" fullname="Thomas Siewert" initials="A" surname="Siewert">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
-    <author role="editor" fullname="David McColskey" initials="D." surname="McColskey">
+    <author role="editor" fullname="David McColskey" initials="J" surname="McColskey">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
-    <author fullname="Richard Ricker" initials="R." surname="Ricker">
+    <author fullname="Richard Ricker" initials="E" surname="Ricker">
       <organization>Materials Science and Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6649"/>
+  <seriesInfo name="NIST" value="NIST IR 6649"/>
 </reference>

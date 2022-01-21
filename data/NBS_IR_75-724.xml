@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-724" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-724.pdf">
   <front>
     <title>Piezoelectric polymer films for fuze applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-724"/>
-    <seriesInfo name="NIST" value="NBS IR 75-724"/>
-    <author fullname="Philip Bloomfield" initials="P." surname="Bloomfield"/>
+    <author fullname="Philip Bloomfield" initials="E" surname="Bloomfield">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-724"/>
+  <seriesInfo name="NIST" value="NBS IR 75-724"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-241" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-241.pdf">
   <front>
     <title>Comparison of photon interaction cross section data sets. VII. Biggs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-241"/>
-    <seriesInfo name="NIST" value="NBS IR 73-241"/>
-    <author surname="Simmons"/>
-    <author surname="Hubbell"/>
+    <author initials="GL" surname="Simmons">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Hubbell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-241"/>
+  <seriesInfo name="NIST" value="NBS IR 73-241"/>
 </reference>

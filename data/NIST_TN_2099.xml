@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2099" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2099.pdf">
   <front>
     <title>Quasi-static position calibration of the galvanometer scanner on the additive manufacturing metrology testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2099"/>
-    <seriesInfo name="NIST" value="NIST TN 2099"/>
     <author fullname="Brandon Lane" initials="B." surname="Lane">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2099"/>
+  <seriesInfo name="NIST" value="NIST TN 2099"/>
 </reference>

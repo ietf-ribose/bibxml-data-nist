@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1556" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1556.pdf">
   <front>
     <title>Kitchen range energy consumption</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1556"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1556"/>
-    <author surname="Fechter"/>
-    <author surname="Porter"/>
+    <author initials="JV" surname="Fechter">
+      <organization/>
+    </author>
+    <author initials="LG" surname="Porter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1556"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1556"/>
 </reference>

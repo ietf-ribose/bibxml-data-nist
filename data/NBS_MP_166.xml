@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub166.pdf">
   <front>
     <title>Charts for testing lens resolution/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.166"/>
-    <seriesInfo name="NIST" value="NBS MP 166"/>
-    <author fullname="Irvine Gardner" initials="I." surname="Gardner"/>
+    <author fullname="Irvine Gardner" initials="C" surname="Gardner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.166"/>
+  <seriesInfo name="NIST" value="NBS MP 166"/>
 </reference>

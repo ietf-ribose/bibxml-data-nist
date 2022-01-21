@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.250-43" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-43.pdf">
   <front>
     <title>Radiance temperature calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-43"/>
-    <seriesInfo name="NIST" value="NIST SP 250-43"/>
-    <author fullname="Charles Gibson" initials="C." surname="Gibson"/>
-    <author fullname="Benjamin Tsai" initials="B." surname="Tsai"/>
-    <author fullname="Albert Parr" initials="A." surname="Parr"/>
+    <author fullname="Charles Gibson" initials="E" surname="Gibson">
+      <organization/>
+    </author>
+    <author fullname="Benjamin Tsai" initials="K" surname="Tsai">
+      <organization/>
+    </author>
+    <author fullname="Albert Parr" initials="C" surname="Parr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-43"/>
+  <seriesInfo name="NIST" value="NIST SP 250-43"/>
 </reference>

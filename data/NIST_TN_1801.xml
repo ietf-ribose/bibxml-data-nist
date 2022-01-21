@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1801" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1801.pdf">
   <front>
     <title>Lessons learned in establishing the NIST metal additive manufacturing laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1801"/>
-    <seriesInfo name="NIST" value="NIST TN 1801"/>
     <author fullname="Shawn Moylan" initials="S." surname="Moylan">
       <organization>Intelligent Systems Division, Engineering Laboratory</organization>
     </author>
@@ -15,7 +13,7 @@
     <author fullname="Kevin Jurrens" initials="K." surname="Jurrens">
       <organization>Intelligent Systems Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="Alkan Donmez" initials="A." surname="Donmez">
+    <author fullname="Alkan Donmez" initials="M" surname="Donmez">
       <organization>Intelligent Systems Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1801"/>
+  <seriesInfo name="NIST" value="NIST TN 1801"/>
 </reference>

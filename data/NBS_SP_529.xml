@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.529" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication529.pdf">
   <front>
     <title>Interagency comparison of ultraviolet photometric standards for measuring ozone concentrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.529"/>
-    <seriesInfo name="NIST" value="NBS SP 529"/>
-    <author surname="Wendt"/>
+    <author initials="J" surname="Wendt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.529"/>
+  <seriesInfo name="NIST" value="NBS SP 529"/>
 </reference>

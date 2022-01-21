@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6868" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6868.pdf">
   <front>
     <title>Comparative statistical analysis of test parts manufactured in production environments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6868"/>
-    <seriesInfo name="NIST" value="NIST IR 6868"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Alice Ling" initials="A." surname="Ling"/>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Alice Ling" initials="V" surname="Ling">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6868"/>
+  <seriesInfo name="NIST" value="NIST IR 6868"/>
 </reference>

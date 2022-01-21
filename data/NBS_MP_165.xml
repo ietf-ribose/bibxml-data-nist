@@ -1,15 +1,27 @@
 <reference anchor="NBS.MP.165" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub165.pdf">
   <front>
     <title>Standardization of packages</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.165"/>
-    <seriesInfo name="NIST" value="NBS MP 165"/>
-    <author fullname="Carlos Campbell" initials="C." surname="Campbell"/>
-    <author fullname="Hazel Kyrk" initials="H." surname="Kyrk"/>
-    <author surname="William"/>
-    <author surname="Algeo"/>
-    <author fullname="Charles Cosby" initials="C." surname="Cosby"/>
-    <author surname="Fitzgerald"/>
-    <author fullname="Alex Pisciotta" initials="A." surname="Pisciotta"/>
+    <author fullname="Carlos Campbell" initials="C." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="Hazel Kyrk" initials="H." surname="Kyrk">
+      <organization/>
+    </author>
+    <author initials="RC" surname="William">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Algeo">
+      <organization/>
+    </author>
+    <author fullname="Charles Cosby" initials="R" surname="Cosby">
+      <organization/>
+    </author>
+    <author initials="FF" surname="Fitzgerald">
+      <organization/>
+    </author>
+    <author fullname="Alex Pisciotta" initials="A." surname="Pisciotta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.165"/>
+  <seriesInfo name="NIST" value="NBS MP 165"/>
 </reference>

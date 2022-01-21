@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-637" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-637.pdf">
   <front>
     <title>Note on simplified estimators for Type I extreme-value distribution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-637"/>
-    <seriesInfo name="NIST" value="NBS IR 75-637"/>
-    <author fullname="Julius Lieblein" initials="J." surname="Lieblein"/>
+    <author fullname="Julius Lieblein" initials="J." surname="Lieblein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-637"/>
+  <seriesInfo name="NIST" value="NBS IR 75-637"/>
 </reference>

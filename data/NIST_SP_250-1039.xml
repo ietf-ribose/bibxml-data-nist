@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.250-1039" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-1039.pdf">
   <front>
     <title>Hydrocarbon liquid flow calibration service</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-1039"/>
-    <seriesInfo name="NIST" value="NIST SP 250-1039"/>
-    <author surname="Yeh"/>
-    <author fullname="Jes�s Aguilera" initials="J." surname="Aguilera"/>
-    <author fullname="John Wright" initials="J." surname="Wright"/>
+    <author initials="TT" surname="Yeh">
+      <organization/>
+    </author>
+    <author fullname="Jes�s Aguilera" initials="J." surname="Aguilera">
+      <organization/>
+    </author>
+    <author fullname="John Wright" initials="D" surname="Wright">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-1039"/>
+  <seriesInfo name="NIST" value="NIST SP 250-1039"/>
 </reference>

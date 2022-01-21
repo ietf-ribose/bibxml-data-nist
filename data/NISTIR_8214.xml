@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8214" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8214.pdf">
   <front>
     <title>Threshold schemes for cryptographic primitives:challenges and opportunities in standardization and validation of threshold cryptography</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8214"/>
-    <seriesInfo name="NIST" value="NIST IR 8214"/>
     <author fullname="LuísT.A.N. Brandão" initials="L.T." surname="Brandão">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8214"/>
+  <seriesInfo name="NIST" value="NIST IR 8214"/>
 </reference>

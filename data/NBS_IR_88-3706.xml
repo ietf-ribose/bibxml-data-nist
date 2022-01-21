@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.88-3706" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3706.pdf">
   <front>
     <title>Advanced ceramics :a critical assessment of database needs for the natural gas industry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3706"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3706"/>
-    <author surname="Hubbard"/>
-    <author surname="Dapkunas"/>
-    <author surname="Munro"/>
-    <author surname="Hsu"/>
+    <author initials="CR" surname="Hubbard">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Dapkunas">
+      <organization/>
+    </author>
+    <author initials="RG" surname="Munro">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Hsu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3706"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3706"/>
 </reference>

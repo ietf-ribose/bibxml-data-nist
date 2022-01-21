@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2246" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2246.pdf">
   <front>
     <title>Biodeterioration of standard reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2246"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2246"/>
-    <author surname="Olson"/>
-    <author surname="Iverson"/>
-    <author surname="Brinckman"/>
+    <author initials="GJ" surname="Olson">
+      <organization/>
+    </author>
+    <author initials="WP" surname="Iverson">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Brinckman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2246"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2246"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.83-2643" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2643.pdf">
   <front>
     <title>Wave form simulations for Josephson junction circuits used for noise thermometry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2643"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2643"/>
-    <author surname="Sullivan"/>
-    <author surname="Kahaner"/>
-    <author surname="Fowler"/>
-    <author surname="Knapp-Cordes"/>
+    <author initials="F" surname="Sullivan">
+      <organization/>
+    </author>
+    <author initials="D" surname="Kahaner">
+      <organization/>
+    </author>
+    <author initials="HA" surname="Fowler">
+      <organization/>
+    </author>
+    <author initials="J" surname="Knapp-Cordes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2643"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2643"/>
 </reference>

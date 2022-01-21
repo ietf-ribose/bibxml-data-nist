@@ -1,15 +1,23 @@
 <reference anchor="NIST.GCR.04-867" target="https://nvlpubs.nist.gov/nistpubs/gcr/2004/NIST.GCR.04-867.pdf">
   <front>
     <title>Cost Analysis of Inadequate Interoperability in the U.S. Capital Facilities Industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.04-867"/>
-    <seriesInfo name="NIST" value="NIST GCR 04-867"/>
-    <author fullname="Michael Gallaher" initials="M." surname="Gallaher"/>
-    <author fullname="Alan O'Connor" initials="A." surname="O'Connor"/>
-    <author fullname="John Dettbarn, Jr." initials="J." surname="Dettbarn, Jr."/>
-    <author fullname="Linda Gilday" initials="L." surname="Gilday"/>
+    <author fullname="Michael Gallaher" initials="P" surname="Gallaher">
+      <organization/>
+    </author>
+    <author fullname="Alan O'Connor" initials="C" surname="O'Connor">
+      <organization/>
+    </author>
+    <author fullname="John Dettbarn, Jr." initials="L" surname="Dettbarn, Jr.">
+      <organization/>
+    </author>
+    <author fullname="Linda Gilday" initials="T" surname="Gilday">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2004" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.04-867"/>
+  <seriesInfo name="NIST" value="NIST GCR 04-867"/>
 </reference>

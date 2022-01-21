@@ -1,8 +1,6 @@
 <reference anchor="NBS.BMS.87" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures87.pdf">
   <front>
     <title>A method for developing specifications for building construction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.87"/>
-    <seriesInfo name="NIST" value="NBS BMS 87"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.87"/>
+  <seriesInfo name="NIST" value="NBS BMS 87"/>
 </reference>

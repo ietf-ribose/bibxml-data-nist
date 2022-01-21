@@ -1,22 +1,48 @@
 <reference anchor="NIST.IR.5939" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5939.pdf">
   <front>
     <title>SIMA reference architecture, part 1:activity models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5939"/>
-    <seriesInfo name="NIST" value="NIST IR 5939"/>
-    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
-    <author fullname="Neil Christopher" initials="N." surname="Christopher"/>
-    <author fullname="Shaw Feng" initials="S." surname="Feng"/>
-    <author fullname="James Fowler" initials="J." surname="Fowler"/>
-    <author fullname="Simon Frechette" initials="S." surname="Frechette"/>
-    <author fullname="Albert Jones" initials="A." surname="Jones"/>
-    <author fullname="Kevin Jurrens" initials="K." surname="Jurrens"/>
-    <author fullname="Kevin Lyons" initials="K." surname="Lyons"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Michael Pratt" initials="M." surname="Pratt"/>
-    <author fullname="Harry Scott" initials="H." surname="Scott"/>
-    <author fullname="Kate Senehi" initials="K." surname="Senehi"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Evan Wallace" initials="E." surname="Wallace"/>
+    <author fullname="Edward Barkmeyer" initials="J" surname="Barkmeyer">
+      <organization/>
+    </author>
+    <author fullname="Neil Christopher" initials="N." surname="Christopher">
+      <organization/>
+    </author>
+    <author fullname="Shaw Feng" initials="C" surname="Feng">
+      <organization/>
+    </author>
+    <author fullname="James Fowler" initials="E" surname="Fowler">
+      <organization/>
+    </author>
+    <author fullname="Simon Frechette" initials="P" surname="Frechette">
+      <organization/>
+    </author>
+    <author fullname="Albert Jones" initials="A." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Kevin Jurrens" initials="K." surname="Jurrens">
+      <organization/>
+    </author>
+    <author fullname="Kevin Lyons" initials="K." surname="Lyons">
+      <organization/>
+    </author>
+    <author fullname="Charles McLean" initials="R" surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Michael Pratt" initials="M." surname="Pratt">
+      <organization/>
+    </author>
+    <author fullname="Harry Scott" initials="A" surname="Scott">
+      <organization/>
+    </author>
+    <author fullname="Kate Senehi" initials="M" surname="Senehi">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Evan Wallace" initials="K" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -29,4 +55,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5939"/>
+  <seriesInfo name="NIST" value="NIST IR 5939"/>
 </reference>

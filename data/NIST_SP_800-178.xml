@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-178" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-178.pdf">
   <front>
     <title>A Comparison of Attribute Based Access Control (ABAC) Standards for Data Service Applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-178"/>
-    <seriesInfo name="NIST" value="NIST SP 800-178"/>
-    <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo">
+    <author fullname="David Ferraiolo" initials="F" surname="Ferraiolo">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Vincent Hu" initials="V." surname="Hu">
+    <author fullname="Vincent Hu" initials="C" surname="Hu">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Richard Kuhn" initials="R." surname="Kuhn">
+    <author fullname="Richard Kuhn" initials="DR" surname="Kuhn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-178"/>
+  <seriesInfo name="NIST" value="NIST SP 800-178"/>
 </reference>

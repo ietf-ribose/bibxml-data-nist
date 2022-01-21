@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7592" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7592.pdf">
   <front>
     <title>Study of acid generation from copolymer fibers based on 5-amino-2-(p-aminophenyl)-benzimidazole</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7592"/>
-    <seriesInfo name="NIST" value="NIST IR 7592"/>
-    <author fullname="Amanda Forster" initials="A." surname="Forster"/>
-    <author fullname="Guillaume Messin" initials="G." surname="Messin"/>
-    <author fullname="Kirk Rice" initials="K." surname="Rice"/>
-    <author fullname="Michael Riley" initials="M." surname="Riley"/>
-    <author fullname="Stephanie Watson" initials="S." surname="Watson"/>
+    <author fullname="Amanda Forster" initials="L" surname="Forster">
+      <organization/>
+    </author>
+    <author fullname="Guillaume Messin" initials="HR" surname="Messin">
+      <organization/>
+    </author>
+    <author fullname="Kirk Rice" initials="D" surname="Rice">
+      <organization/>
+    </author>
+    <author fullname="Michael Riley" initials="A" surname="Riley">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Watson" initials="S" surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7592"/>
+  <seriesInfo name="NIST" value="NIST IR 7592"/>
 </reference>

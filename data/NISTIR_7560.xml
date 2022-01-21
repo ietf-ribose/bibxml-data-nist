@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7560" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7560.pdf">
   <front>
     <title>Carbon weight analysis for machining operation and allocation for redesign</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7560"/>
-    <seriesInfo name="NIST" value="NIST IR 7560"/>
-    <author fullname="Gaurav Ameta" initials="G." surname="Ameta"/>
-    <author fullname="Mahesh Mani" initials="M." surname="Mani"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
-    <author fullname="Shaw Feng" initials="S." surname="Feng"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Kevin Lyons" initials="K." surname="Lyons"/>
+    <author fullname="Gaurav Ameta" initials="G." surname="Ameta">
+      <organization/>
+    </author>
+    <author fullname="Mahesh Mani" initials="M." surname="Mani">
+      <organization/>
+    </author>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
+    <author fullname="Shaw Feng" initials="C" surname="Feng">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Kevin Lyons" initials="W" surname="Lyons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7560"/>
+  <seriesInfo name="NIST" value="NIST IR 7560"/>
 </reference>

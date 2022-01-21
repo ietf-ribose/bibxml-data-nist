@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.439" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular439.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 439:acoustic performance of 16-millimeter sound motion-picture projectors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.439"/>
-    <seriesInfo name="NIST" value="NBS CIRC 439"/>
-    <author fullname="Wilbert Snyder" initials="W." surname="Snyder"/>
+    <author fullname="Wilbert Snyder" initials="F" surname="Snyder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.439"/>
+  <seriesInfo name="NIST" value="NBS CIRC 439"/>
 </reference>

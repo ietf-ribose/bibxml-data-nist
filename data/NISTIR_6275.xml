@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6275" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6275.pdf">
   <front>
     <title>The molecular level design of fire retardants and suppressants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6275"/>
-    <seriesInfo name="NIST" value="NIST IR 6275"/>
-    <author fullname="Marc Nyden" initials="M." surname="Nyden"/>
+    <author fullname="Marc Nyden" initials="R" surname="Nyden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6275"/>
+  <seriesInfo name="NIST" value="NIST IR 6275"/>
 </reference>

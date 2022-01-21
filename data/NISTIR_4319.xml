@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4319" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4319.pdf">
   <front>
     <title>Energy related inventions program:a joint program of the Department of Energy and the National Institute of Standards and Technology, status report for recommendations 1 through 250</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4319"/>
-    <seriesInfo name="NIST" value="NIST IR 4319"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4319"/>
+  <seriesInfo name="NIST" value="NIST IR 4319"/>
 </reference>

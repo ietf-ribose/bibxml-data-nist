@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7965" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7965.pdf">
   <front>
     <title>A methodology for handling standards terminology for sustainable manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7965"/>
-    <seriesInfo name="NIST" value="NIST IR 7965"/>
     <author fullname="Anantha Narayanan" initials="A." surname="Narayanan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7965"/>
+  <seriesInfo name="NIST" value="NIST IR 7965"/>
 </reference>

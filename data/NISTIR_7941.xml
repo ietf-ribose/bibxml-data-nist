@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7941" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7941.pdf">
   <front>
     <title>Forensic science laboratories : handbook for facility planning, design, construction, and relocation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7941"/>
-    <seriesInfo name="NIST" value="NIST IR 7941"/>
     <author fullname="James Aguilar" initials="J." surname="Aguilar">
       <organization>Law Enforcement Standards Office, Office of Special Programs</organization>
     </author>
@@ -74,4 +72,6 @@
     </author>
     <date year="2013" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7941"/>
+  <seriesInfo name="NIST" value="NIST IR 7941"/>
 </reference>

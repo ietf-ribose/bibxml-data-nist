@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.500-262" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-262.pdf">
   <front>
     <title>Proceedings of the static analysis summit</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-262"/>
-    <seriesInfo name="NIST" value="NIST SP 500-262"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
-    <author fullname="Helen Gill" initials="H." surname="Gill"/>
-    <author fullname="Bradley Martin" initials="B." surname="Martin"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
+    <author fullname="Helen Gill" initials="H." surname="Gill">
+      <organization/>
+    </author>
+    <author fullname="Bradley Martin" initials="W" surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-262"/>
+  <seriesInfo name="NIST" value="NIST SP 500-262"/>
 </reference>

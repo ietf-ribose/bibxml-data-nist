@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4373" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4373.pdf">
   <front>
     <title>EXPOSURE:an expert system fire code</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4373"/>
-    <seriesInfo name="NIST" value="NIST IR 4373"/>
-    <author fullname="Richard Smith" initials="R." surname="Smith"/>
+    <author fullname="Richard Smith" initials="L" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4373"/>
+  <seriesInfo name="NIST" value="NIST IR 4373"/>
 </reference>

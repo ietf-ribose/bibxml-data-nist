@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.250-26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-26.pdf">
   <front>
     <title>NBS phase angle calibration services</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-26"/>
-    <seriesInfo name="NIST" value="NBS SP 250-26"/>
-    <author surname="Turgel"/>
-    <author surname="Mulrow"/>
-    <author surname="Vecchia"/>
+    <author initials="RS" surname="Turgel">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Mulrow">
+      <organization/>
+    </author>
+    <author initials="DF" surname="Vecchia">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-26"/>
+  <seriesInfo name="NIST" value="NBS SP 250-26"/>
 </reference>

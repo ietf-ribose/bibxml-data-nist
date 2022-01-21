@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8333" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8333.pdf">
   <front>
     <title>Workshop Summary Report for “Cybersecurity Risks in Consumer Home Internet of Things (IoT) Devices” Virtual Workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8333"/>
-    <seriesInfo name="NIST" value="NIST IR 8333"/>
-    <author fullname="Katerina Megas" initials="K." surname="Megas">
+    <author fullname="Katerina Megas" initials="N" surname="Megas">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Michael Fagan" initials="M." surname="Fagan">
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="March" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8333"/>
+  <seriesInfo name="NIST" value="NIST IR 8333"/>
 </reference>

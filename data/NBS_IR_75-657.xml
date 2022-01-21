@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-657" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-657.pdf">
   <front>
     <title>Report No. 7 :a metallurgical investigation of a full-scale insulated rail tank car filled with LPG subjected to a fire environment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-657"/>
-    <seriesInfo name="NIST" value="NBS IR 75-657"/>
-    <author surname="Early"/>
-    <author surname="Interrante"/>
+    <author initials="JG" surname="Early">
+      <organization/>
+    </author>
+    <author initials="CG" surname="Interrante">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-657"/>
+  <seriesInfo name="NIST" value="NBS IR 75-657"/>
 </reference>

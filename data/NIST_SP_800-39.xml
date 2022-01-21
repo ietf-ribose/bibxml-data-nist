@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-39" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf">
   <front>
     <title>Managing information security risk :organization, mission, and information system view</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-39"/>
-    <seriesInfo name="NIST" value="NIST SP 800-39"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-39"/>
+  <seriesInfo name="NIST" value="NIST SP 800-39"/>
 </reference>

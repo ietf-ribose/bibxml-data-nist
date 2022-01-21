@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-710" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-710.pdf">
   <front>
     <title>A small-scale enclosure for characterizing the fire buildup potential of a room</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-710"/>
-    <seriesInfo name="NIST" value="NBS IR 75-710"/>
-    <author surname="Parker"/>
-    <author surname="Lee"/>
+    <author initials="WJ" surname="Parker">
+      <organization/>
+    </author>
+    <author initials="BT" surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-710"/>
+  <seriesInfo name="NIST" value="NBS IR 75-710"/>
 </reference>

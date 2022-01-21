@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-3010" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-3010.pdf">
   <front>
     <title>Comparison of measured and calculated mutual coupling in the near field between microwave antennas</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3010"/>
-    <seriesInfo name="NIST" value="NBS IR 84-3010"/>
-    <author fullname="Carl Stubenrauch" initials="C." surname="Stubenrauch"/>
-    <author fullname="Michael Francis" initials="M." surname="Francis"/>
+    <author fullname="Carl Stubenrauch" initials="F" surname="Stubenrauch">
+      <organization/>
+    </author>
+    <author fullname="Michael Francis" initials="H" surname="Francis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3010"/>
+  <seriesInfo name="NIST" value="NBS IR 84-3010"/>
 </reference>

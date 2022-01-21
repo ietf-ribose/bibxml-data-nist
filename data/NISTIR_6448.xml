@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6448" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6448.pdf">
   <front>
     <title>Comparison of algorithms to calculate plume centerline temperature and ceiling jet temperature with experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6448"/>
-    <seriesInfo name="NIST" value="NIST IR 6448"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6448"/>
+  <seriesInfo name="NIST" value="NIST IR 6448"/>
 </reference>

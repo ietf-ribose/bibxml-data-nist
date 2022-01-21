@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.74-439" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-439.pdf">
   <front>
     <title>Preparation of reference materials for stationary source emission analysis :beryllium</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-439"/>
-    <seriesInfo name="NIST" value="NBS IR 74-439"/>
-    <author surname="Rains"/>
-    <author surname="Olson"/>
-    <author surname="Velapoldi"/>
-    <author surname="Wicks"/>
-    <author surname="Menis"/>
-    <author surname="Taylor"/>
+    <author initials="TC" surname="Rains">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Olson">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Velapoldi">
+      <organization/>
+    </author>
+    <author initials="SA" surname="Wicks">
+      <organization/>
+    </author>
+    <author initials="O" surname="Menis">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-439"/>
+  <seriesInfo name="NIST" value="NBS IR 74-439"/>
 </reference>

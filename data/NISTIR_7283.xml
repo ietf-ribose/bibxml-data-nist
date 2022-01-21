@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7283" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7283.pdf">
   <front>
     <title>APEX blind deconvolution of color hubble space telescope imagery and other astronomical data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7283"/>
-    <seriesInfo name="NIST" value="NIST IR 7283"/>
-    <author fullname="Alfred Carasso" initials="A." surname="Carasso"/>
+    <author fullname="Alfred Carasso" initials="S" surname="Carasso">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7283"/>
+  <seriesInfo name="NIST" value="NIST IR 7283"/>
 </reference>

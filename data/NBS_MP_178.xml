@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.178" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub178.pdf">
   <front>
     <title>National directory of commodity specifications/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.178"/>
-    <seriesInfo name="NIST" value="NBS MP 178"/>
-    <author fullname="Ann Rapuzzi" initials="A." surname="Rapuzzi"/>
-    <author fullname="Paul Cooley" initials="P." surname="Cooley"/>
+    <author fullname="Ann Rapuzzi" initials="E" surname="Rapuzzi">
+      <organization/>
+    </author>
+    <author fullname="Paul Cooley" initials="A" surname="Cooley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.178"/>
+  <seriesInfo name="NIST" value="NBS MP 178"/>
 </reference>

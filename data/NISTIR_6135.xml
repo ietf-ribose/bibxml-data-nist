@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6135.pdf">
   <front>
     <title>Workspace variation of a hexapod machine tool</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6135"/>
-    <seriesInfo name="NIST" value="NIST IR 6135"/>
-    <author fullname="Joseph Conti" initials="J." surname="Conti"/>
-    <author fullname="Charles Clinton" initials="C." surname="Clinton"/>
-    <author fullname="Guangming Zhang" initials="G." surname="Zhang"/>
-    <author fullname="Albert Wavering" initials="A." surname="Wavering"/>
+    <author fullname="Joseph Conti" initials="P" surname="Conti">
+      <organization/>
+    </author>
+    <author fullname="Charles Clinton" initials="M" surname="Clinton">
+      <organization/>
+    </author>
+    <author fullname="Guangming Zhang" initials="G." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="Albert Wavering" initials="J" surname="Wavering">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6135"/>
+  <seriesInfo name="NIST" value="NIST IR 6135"/>
 </reference>

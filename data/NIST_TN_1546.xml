@@ -1,21 +1,45 @@
 <reference anchor="NIST.TN.1546" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1546.pdf">
   <front>
     <title>Measurements to support broadband modulated-signal radio transmissions for the public-safety sector</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1546"/>
-    <seriesInfo name="NIST" value="NIST TN 1546"/>
-    <author fullname="Yann Becquet" initials="Y." surname="Becquet"/>
-    <author surname="Camell"/>
-    <author fullname="Chriss Grosvenor" initials="C." surname="Grosvenor"/>
-    <author fullname="Christopher Holloway" initials="C." surname="Holloway"/>
-    <author fullname="George Hough" initials="G." surname="Hough"/>
-    <author fullname="Robert Johnk" initials="R." surname="Johnk"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
-    <author fullname="John Korsnes" initials="J." surname="Korsnes"/>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury"/>
-    <author fullname="Michael McKinley" initials="M." surname="McKinley"/>
-    <author fullname="David Novotny" initials="D." surname="Novotny"/>
-    <author fullname="William Young" initials="W." surname="Young"/>
-    <author fullname="Kate Remley" initials="K." surname="Remley"/>
+    <author fullname="Yann Becquet" initials="Y." surname="Becquet">
+      <organization/>
+    </author>
+    <author initials="DG" surname="Camell">
+      <organization/>
+    </author>
+    <author fullname="Chriss Grosvenor" initials="A" surname="Grosvenor">
+      <organization/>
+    </author>
+    <author fullname="Christopher Holloway" initials="L" surname="Holloway">
+      <organization/>
+    </author>
+    <author fullname="George Hough" initials="G." surname="Hough">
+      <organization/>
+    </author>
+    <author fullname="Robert Johnk" initials="T" surname="Johnk">
+      <organization/>
+    </author>
+    <author fullname="Galen Koepke" initials="H" surname="Koepke">
+      <organization/>
+    </author>
+    <author fullname="John Korsnes" initials="J." surname="Korsnes">
+      <organization/>
+    </author>
+    <author fullname="John Ladbury" initials="M" surname="Ladbury">
+      <organization/>
+    </author>
+    <author fullname="Michael McKinley" initials="D" surname="McKinley">
+      <organization/>
+    </author>
+    <author fullname="David Novotny" initials="R" surname="Novotny">
+      <organization/>
+    </author>
+    <author fullname="William Young" initials="F" surname="Young">
+      <organization/>
+    </author>
+    <author fullname="Kate Remley" initials="A" surname="Remley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -28,4 +52,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1546"/>
+  <seriesInfo name="NIST" value="NIST TN 1546"/>
 </reference>

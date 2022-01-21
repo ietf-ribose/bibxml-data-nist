@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-621" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-621.pdf">
   <front>
     <title>Stability and strength of home playground equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-621"/>
-    <seriesInfo name="NIST" value="NBS IR 74-621"/>
-    <author fullname="Bal Mahajan" initials="B." surname="Mahajan"/>
+    <author fullname="Bal Mahajan" initials="M" surname="Mahajan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-621"/>
+  <seriesInfo name="NIST" value="NBS IR 74-621"/>
 </reference>

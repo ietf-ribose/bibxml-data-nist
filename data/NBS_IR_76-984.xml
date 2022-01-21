@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.76-984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-984.pdf">
   <front>
     <title>Improved ultrasonic standard reference blocks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-984"/>
-    <seriesInfo name="NIST" value="NBS IR 76-984"/>
-    <author surname="Sushinsky"/>
-    <author surname="Eitzen"/>
-    <author surname="Chwirut"/>
-    <author surname="Bechtholdt"/>
-    <author surname="Ruff"/>
+    <author initials="GF" surname="Sushinsky">
+      <organization/>
+    </author>
+    <author initials="DG" surname="Eitzen">
+      <organization/>
+    </author>
+    <author initials="DJ" surname="Chwirut">
+      <organization/>
+    </author>
+    <author initials="CJ" surname="Bechtholdt">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-984"/>
+  <seriesInfo name="NIST" value="NBS IR 76-984"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1676" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1676.pdf">
   <front>
     <title>Fabrication, characterization, and flammability testing of multi-walled carbon nanotube layer-by-layer coated polyurethane foam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1676"/>
-    <seriesInfo name="NIST" value="NIST TN 1676"/>
-    <author fullname="Rick Davis" initials="R." surname="Davis"/>
-    <author fullname="YeonSeok Kim" initials="Y.S." surname="Kim"/>
+    <author fullname="Rick Davis" initials="R." surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="YeonSeok Kim" initials="Y.S." surname="Kim">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1676"/>
+  <seriesInfo name="NIST" value="NIST TN 1676"/>
 </reference>

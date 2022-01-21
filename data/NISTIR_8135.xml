@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8135" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8135.pdf">
   <front>
     <title>Identifying and Categorizing Data Types for Public Safety Mobile Applications: Workshop Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8135"/>
-    <seriesInfo name="NIST" value="NIST IR 8135"/>
     <author fullname="Michael Ogata" initials="M." surname="Ogata">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8135"/>
+  <seriesInfo name="NIST" value="NIST IR 8135"/>
 </reference>

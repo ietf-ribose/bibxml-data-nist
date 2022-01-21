@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6322" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6322.pdf">
   <front>
     <title>Gray calibration of digital cameras to meet NIST mugshot best practice</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6322"/>
-    <seriesInfo name="NIST" value="NIST IR 6322"/>
-    <author fullname="Mike Rubinfeld" initials="M." surname="Rubinfeld"/>
-    <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
+    <author fullname="Mike Rubinfeld" initials="M." surname="Rubinfeld">
+      <organization/>
+    </author>
+    <author fullname="Charles Wilson" initials="C." surname="Wilson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6322"/>
+  <seriesInfo name="NIST" value="NIST IR 6322"/>
 </reference>

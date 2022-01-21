@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub145.pdf">
   <front>
     <title>Preservation of newspaper records/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.145"/>
-    <seriesInfo name="NIST" value="NBS MP 145"/>
-    <author surname="Scribner"/>
+    <author initials="BW" surname="Scribner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1934"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.145"/>
+  <seriesInfo name="NIST" value="NBS MP 145"/>
 </reference>

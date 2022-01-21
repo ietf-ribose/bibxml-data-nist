@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2188" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2188.pdf">
   <front>
     <title>Report on High Energy Arcing Fault Experiments: Experimental Results from Medium Voltage Electrical Enclosures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2188"/>
-    <seriesInfo name="NIST" value="NIST TN 2188"/>
-    <author fullname="Anthony Putorti Jr." initials="A." surname="Putorti Jr.">
+    <author fullname="Anthony Putorti Jr." initials="D" surname="Putorti Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Scott Bareham" initials="S." surname="Bareham">
@@ -62,4 +60,6 @@
     </author>
     <date year="2021" month="November" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2188"/>
+  <seriesInfo name="NIST" value="NIST TN 2188"/>
 </reference>

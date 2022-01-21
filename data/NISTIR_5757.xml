@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5757" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5757.pdf">
   <front>
     <title>Sharing information via the internet</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5757"/>
-    <seriesInfo name="NIST" value="NIST IR 5757"/>
-    <author fullname="Robert Bagwill" initials="R." surname="Bagwill"/>
+    <author fullname="Robert Bagwill" initials="H" surname="Bagwill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5757"/>
+  <seriesInfo name="NIST" value="NIST IR 5757"/>
 </reference>

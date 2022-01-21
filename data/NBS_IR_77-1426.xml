@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1426" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1426.pdf">
   <front>
     <title>Comparison of the performance of three algorithms for use in an Automated Transit Information System (ATIS)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1426"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1426"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Elizabeth Leyendecker" initials="E." surname="Leyendecker"/>
-    <author fullname="Douglas Shier" initials="D." surname="Shier"/>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Leyendecker" initials="L" surname="Leyendecker">
+      <organization/>
+    </author>
+    <author fullname="Douglas Shier" initials="R" surname="Shier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1426"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1426"/>
 </reference>

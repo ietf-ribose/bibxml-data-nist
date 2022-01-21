@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-1663" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-1663.pdf">
   <front>
     <title>Improved coal interface detector</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1663"/>
-    <seriesInfo name="NIST" value="NBS IR 82-1663"/>
-    <author fullname="Keith Roe" initials="K." surname="Roe"/>
-    <author fullname="Ronald Wittmann" initials="R." surname="Wittmann"/>
+    <author fullname="Keith Roe" initials="C" surname="Roe">
+      <organization/>
+    </author>
+    <author fullname="Ronald Wittmann" initials="C" surname="Wittmann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1663"/>
+  <seriesInfo name="NIST" value="NBS IR 82-1663"/>
 </reference>

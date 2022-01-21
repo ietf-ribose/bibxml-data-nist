@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6439" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6439.pdf">
   <front>
     <title>Reduced-scale experiments to characterize the suppression of rack-storage commodity fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6439"/>
-    <seriesInfo name="NIST" value="NIST IR 6439"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6439"/>
+  <seriesInfo name="NIST" value="NIST IR 6439"/>
 </reference>

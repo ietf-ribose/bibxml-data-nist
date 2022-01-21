@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.300v10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication300v10.pdf">
   <front>
     <title>Precision measurement and calibration :selected NBS papers on image optics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.300v10"/>
-    <seriesInfo name="NIST" value="NBS SP 300v10"/>
-    <author fullname="Calvin McCamy" initials="C." surname="McCamy"/>
+    <author fullname="Calvin McCamy" initials="S" surname="McCamy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.300v10"/>
+  <seriesInfo name="NIST" value="NBS SP 300v10"/>
 </reference>

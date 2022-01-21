@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.481" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication481.pdf">
   <front>
     <title>The gallium melting-point standard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.481"/>
-    <seriesInfo name="NIST" value="NBS SP 481"/>
-    <author surname="Mangum"/>
-    <author surname="Thornton"/>
+    <author initials="BW" surname="Mangum">
+      <organization/>
+    </author>
+    <author initials="DD" surname="Thornton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.481"/>
+  <seriesInfo name="NIST" value="NBS SP 481"/>
 </reference>

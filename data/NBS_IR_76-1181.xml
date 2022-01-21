@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1181" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1181.pdf">
   <front>
     <title>Metallurgical evaluation and fracture analysis of a pneumatically-burst seamless steel compressed gas cylinder</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1181"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1181"/>
-    <author fullname="Bruce Christ" initials="B." surname="Christ"/>
-    <author fullname="John Smith" initials="J." surname="Smith"/>
+    <author fullname="Bruce Christ" initials="W" surname="Christ">
+      <organization/>
+    </author>
+    <author fullname="John Smith" initials="H" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1181"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1181"/>
 </reference>

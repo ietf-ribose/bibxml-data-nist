@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-662" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-662.pdf">
   <front>
     <title>Sulphur dioxide reference materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-662"/>
-    <seriesInfo name="NIST" value="NBS IR 75-662"/>
-    <author surname="Taylor"/>
-    <author surname="Deardorff"/>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Deardorff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-662"/>
+  <seriesInfo name="NIST" value="NBS IR 75-662"/>
 </reference>

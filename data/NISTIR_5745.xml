@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5745" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5745.pdf">
   <front>
     <title>Product realization process modeling:a study of requirements, methods and research issues</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5745"/>
-    <seriesInfo name="NIST" value="NIST IR 5745"/>
-    <author fullname="Kevin Lyons" initials="K." surname="Lyons"/>
-    <author fullname="Michael Duffey" initials="M." surname="Duffey"/>
-    <author fullname="Richard Anderson" initials="R." surname="Anderson"/>
+    <author fullname="Kevin Lyons" initials="W" surname="Lyons">
+      <organization/>
+    </author>
+    <author fullname="Michael Duffey" initials="R" surname="Duffey">
+      <organization/>
+    </author>
+    <author fullname="Richard Anderson" initials="C" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5745"/>
+  <seriesInfo name="NIST" value="NIST IR 5745"/>
 </reference>

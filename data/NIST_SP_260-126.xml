@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.260-126" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-126.pdf">
   <front>
     <title>Standard Reference MaterialsThe NIST traceable reference material program for gas standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-126"/>
-    <seriesInfo name="NIST" value="NIST SP 260-126"/>
-    <author fullname="William Dorko" initials="W." surname="Dorko"/>
-    <author fullname="George Rhoderick" initials="G." surname="Rhoderick"/>
-    <author fullname="Franklin Guenther" initials="F." surname="Guenther"/>
+    <author fullname="William Dorko" initials="D" surname="Dorko">
+      <organization/>
+    </author>
+    <author fullname="George Rhoderick" initials="C" surname="Rhoderick">
+      <organization/>
+    </author>
+    <author fullname="Franklin Guenther" initials="R" surname="Guenther">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-126"/>
+  <seriesInfo name="NIST" value="NIST SP 260-126"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.HR.14A" target="https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hr14A.pdf">
   <front>
     <title>Hydraulic research in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HR.14A"/>
-    <seriesInfo name="NIST" value="NBS HR 14A"/>
-    <author fullname="Dorothy Sisson" initials="D." surname="Sisson"/>
-    <author fullname="Thelma Smith" initials="T." surname="Smith"/>
+    <author fullname="Dorothy Sisson" initials="F" surname="Sisson">
+      <organization/>
+    </author>
+    <author fullname="Thelma Smith" initials="T." surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HR.14A"/>
+  <seriesInfo name="NIST" value="NBS HR 14A"/>
 </reference>

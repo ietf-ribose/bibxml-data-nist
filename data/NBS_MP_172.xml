@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.172" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub172.pdf">
   <front>
     <title>Index to the reports of the National Conference on Weights and Measures :from the first (1905) to the thirty-first (1941), inclusive/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.172"/>
-    <seriesInfo name="NIST" value="NBS MP 172"/>
-    <author fullname="William McCormac" initials="W." surname="McCormac"/>
-    <author fullname="Ralph Smith" initials="R." surname="Smith"/>
+    <author fullname="William McCormac" initials="T" surname="McCormac">
+      <organization/>
+    </author>
+    <author fullname="Ralph Smith" initials="W" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.172"/>
+  <seriesInfo name="NIST" value="NBS MP 172"/>
 </reference>

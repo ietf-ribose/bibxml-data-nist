@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1858" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1858.pdf">
   <front>
     <title>Impact Characterization of 4340 and T200 Steels by Means of Standard, Sub Size and Miniaturized Charpy Specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1858"/>
-    <seriesInfo name="NIST" value="NIST TN 1858"/>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Christopher McCowan" initials="C." surname="McCowan">
+    <author fullname="Christopher McCowan" initials="N" surname="McCowan">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Raymond Santoyo" initials="R." surname="Santoyo">
+    <author fullname="Raymond Santoyo" initials="L" surname="Santoyo">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1858"/>
+  <seriesInfo name="NIST" value="NIST TN 1858"/>
 </reference>

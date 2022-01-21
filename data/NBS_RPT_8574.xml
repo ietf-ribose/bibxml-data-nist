@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.8574" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8574.pdf">
   <front>
     <title>Thermal conductivity of five epoxy resin specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8574"/>
-    <seriesInfo name="NIST" value="NBS RPT 8574"/>
-    <author surname="Watson"/>
-    <author surname="Robinson"/>
+    <author initials="TW" surname="Watson">
+      <organization/>
+    </author>
+    <author initials="HE" surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8574"/>
+  <seriesInfo name="NIST" value="NBS RPT 8574"/>
 </reference>

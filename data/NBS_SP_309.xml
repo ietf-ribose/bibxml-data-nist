@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.309" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication309.pdf">
   <front>
     <title>Computer literature bibliography, volume 2 1964-1967</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.309"/>
-    <seriesInfo name="NIST" value="NBS SP 309"/>
-    <author surname="Youden"/>
+    <author initials="WW" surname="Youden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.309"/>
+  <seriesInfo name="NIST" value="NBS SP 309"/>
 </reference>

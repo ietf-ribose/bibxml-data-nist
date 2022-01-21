@@ -1,9 +1,7 @@
 <reference anchor="NIST.NSRDS.64" target="https://nvlpubs.nist.gov/nistpubs/NSRDS/NIST.NSRDS.64.pdf">
   <front>
     <title>NIST Electron Elastic-Scattering Cross-Section Database, Version 4.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.64"/>
-    <seriesInfo name="NIST" value="NIST NSRDS 64"/>
-    <author fullname="Cedric Powell" initials="C." surname="Powell">
+    <author fullname="Cedric Powell" initials="J" surname="Powell">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author fullname="Aleksander Jablonski" initials="A." surname="Jablonski">
@@ -12,7 +10,7 @@
     <author fullname="Francesc Salvat" initials="F." surname="Salvat">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Angela Lee" initials="A." surname="Lee">
+    <author fullname="Angela Lee" initials="Y" surname="Lee">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.64"/>
+  <seriesInfo name="NIST" value="NIST NSRDS 64"/>
 </reference>

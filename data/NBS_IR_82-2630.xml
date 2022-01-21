@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2630" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2630.pdf">
   <front>
     <title>Development and evaluation of a test method for shower heads</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2630"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2630"/>
-    <author fullname="Paul Kopetka" initials="P." surname="Kopetka"/>
-    <author fullname="Lawrence Galowin" initials="L." surname="Galowin"/>
+    <author fullname="Paul Kopetka" initials="P." surname="Kopetka">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Galowin" initials="L." surname="Galowin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2630"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2630"/>
 </reference>

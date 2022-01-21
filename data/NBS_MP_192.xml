@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.192" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub192.pdf">
   <front>
     <title>New advances in printed circuits/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.192"/>
-    <seriesInfo name="NIST" value="NBS MP 192"/>
-    <author fullname="Cledo Brunetti" initials="C." surname="Brunetti"/>
+    <author fullname="Cledo Brunetti" initials="C." surname="Brunetti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.192"/>
+  <seriesInfo name="NIST" value="NBS MP 192"/>
 </reference>

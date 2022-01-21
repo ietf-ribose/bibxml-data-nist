@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.85-3295" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3295.pdf">
   <front>
     <title>A comprehensive method for the determination of aquatic butyltin species at ultratrace levels using simultaneous hybridizationextraction with GC-FPD</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3295"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3295"/>
-    <author surname="Olson"/>
-    <author surname="Brinckman"/>
-    <author surname="Matthias"/>
-    <author surname="Bellama"/>
+    <author initials="GJ" surname="Olson">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Brinckman">
+      <organization/>
+    </author>
+    <author initials="CL" surname="Matthias">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Bellama">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3295"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3295"/>
 </reference>

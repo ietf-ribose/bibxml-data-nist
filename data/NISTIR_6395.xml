@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6395" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6395.pdf">
   <front>
     <title>Transport properties and durability of concrete:literature review and research plan</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6395"/>
-    <seriesInfo name="NIST" value="NIST IR 6395"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6395"/>
+  <seriesInfo name="NIST" value="NIST IR 6395"/>
 </reference>

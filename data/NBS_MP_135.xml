@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub135.pdf">
   <front>
     <title>The international metric system of weights and measures/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.135"/>
-    <seriesInfo name="NIST" value="NBS MP 135"/>
-    <author fullname="William Parry" initials="W." surname="Parry"/>
+    <author fullname="William Parry" initials="W." surname="Parry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.135"/>
+  <seriesInfo name="NIST" value="NBS MP 135"/>
 </reference>

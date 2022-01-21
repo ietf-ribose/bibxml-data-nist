@@ -1,19 +1,39 @@
 <reference anchor="NIST.SP.260-156" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-156.pdf">
   <front>
     <title>Certification of NIST Standard Reference Material 1575a pine needles and results of an international laboratory comparison</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-156"/>
-    <seriesInfo name="NIST" value="NIST SP 260-156"/>
-    <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
-    <author fullname="Donala Becker" initials="D." surname="Becker"/>
-    <author fullname="Rabia Oflaz" initials="R." surname="Oflaz"/>
-    <author fullname="Rick Paul" initials="R." surname="Paul"/>
-    <author fullname="Robert Greenberg" initials="R." surname="Greenberg"/>
-    <author fullname="Richard Lindstrom" initials="R." surname="Lindstrom"/>
-    <author fullname="Lee Yu" initials="L." surname="Yu"/>
-    <author fullname="Laura Wood" initials="L." surname="Wood"/>
-    <author fullname="Stephen Long" initials="S." surname="Long"/>
-    <author fullname="Robert Kelley" initials="R." surname="Kelley"/>
-    <author fullname="Jacqueline Mann" initials="J." surname="Mann"/>
+    <author fullname="Elizabeth Mackey" initials="A" surname="Mackey">
+      <organization/>
+    </author>
+    <author fullname="Donala Becker" initials="A" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Rabia Oflaz" initials="D" surname="Oflaz">
+      <organization/>
+    </author>
+    <author fullname="Rick Paul" initials="L" surname="Paul">
+      <organization/>
+    </author>
+    <author fullname="Robert Greenberg" initials="R" surname="Greenberg">
+      <organization/>
+    </author>
+    <author fullname="Richard Lindstrom" initials="M" surname="Lindstrom">
+      <organization/>
+    </author>
+    <author fullname="Lee Yu" initials="L" surname="Yu">
+      <organization/>
+    </author>
+    <author fullname="Laura Wood" initials="J" surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="Stephen Long" initials="E" surname="Long">
+      <organization/>
+    </author>
+    <author fullname="Robert Kelley" initials="W" surname="Kelley">
+      <organization/>
+    </author>
+    <author fullname="Jacqueline Mann" initials="L" surname="Mann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-156"/>
+  <seriesInfo name="NIST" value="NIST SP 260-156"/>
 </reference>

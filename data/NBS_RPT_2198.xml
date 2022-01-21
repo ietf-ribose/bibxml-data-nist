@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.2198" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2198.pdf">
   <front>
     <title>Evaluation of refractory qualities of concretes for jet aircraft warm up, power check, and maintenance aprons, quarterly report on</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2198"/>
-    <seriesInfo name="NIST" value="NBS RPT 2198"/>
-    <author surname="Pendergast"/>
-    <author fullname="CR Enoch" initials="C." surname="Enoch"/>
-    <author surname="Heindl"/>
-    <author surname="Clevenger"/>
+    <author initials="WL" surname="Pendergast">
+      <organization/>
+    </author>
+    <author fullname="CR Enoch" initials="C." surname="Enoch">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Heindl">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Clevenger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2198"/>
+  <seriesInfo name="NIST" value="NBS RPT 2198"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7830" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7830.pdf">
   <front>
     <title>Performance of face recognition algorithms on compressed images</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7830"/>
-    <seriesInfo name="NIST" value="NIST IR 7830"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
+    <author fullname="George Quinn" initials="W" surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7830"/>
+  <seriesInfo name="NIST" value="NIST IR 7830"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7711" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7711.pdf">
   <front>
     <title>Security best practices for the electronic transmission of election materials for UOCAVA voters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7711"/>
-    <seriesInfo name="NIST" value="NIST IR 7711"/>
-    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid"/>
-    <author fullname="Geoff Beier" initials="G." surname="Beier"/>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization/>
+    </author>
+    <author fullname="Geoff Beier" initials="G." surname="Beier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7711"/>
+  <seriesInfo name="NIST" value="NIST IR 7711"/>
 </reference>

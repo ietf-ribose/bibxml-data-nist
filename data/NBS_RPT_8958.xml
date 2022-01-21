@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.8958" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8958.pdf">
   <front>
     <title>The structure and properties of dental amalgam alloys prepared with controlled packing pressures:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8958"/>
-    <seriesInfo name="NIST" value="NBS RPT 8958"/>
-    <author surname="Eden"/>
-    <author surname="Moore"/>
+    <author initials="GT" surname="Eden">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8958"/>
+  <seriesInfo name="NIST" value="NBS RPT 8958"/>
 </reference>

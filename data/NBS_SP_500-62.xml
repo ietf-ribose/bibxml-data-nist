@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-62" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-62.pdf">
   <front>
     <title>Conversion of federal ADP systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-62"/>
-    <seriesInfo name="NIST" value="NBS SP 500-62"/>
-    <author fullname="Joseph Collica" initials="J." surname="Collica"/>
-    <author fullname="Mark Skall" initials="M." surname="Skall"/>
-    <author fullname="Gloria Bolotsky" initials="G." surname="Bolotsky"/>
+    <author fullname="Joseph Collica" initials="J." surname="Collica">
+      <organization/>
+    </author>
+    <author fullname="Mark Skall" initials="M." surname="Skall">
+      <organization/>
+    </author>
+    <author fullname="Gloria Bolotsky" initials="G." surname="Bolotsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-62"/>
+  <seriesInfo name="NIST" value="NBS SP 500-62"/>
 </reference>

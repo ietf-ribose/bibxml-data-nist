@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.310" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication310.pdf">
   <front>
     <title>Nuclear standards for chemistry and technology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.310"/>
-    <seriesInfo name="NIST" value="NBS SP 310"/>
-    <author fullname="Hugh Beeghly" initials="H." surname="Beeghly"/>
-    <author fullname="Paul Cali" initials="P." surname="Cali"/>
-    <author fullname="Wayne Meinke" initials="W." surname="Meinke"/>
+    <author fullname="Hugh Beeghly" initials="F" surname="Beeghly">
+      <organization/>
+    </author>
+    <author fullname="Paul Cali" initials="J" surname="Cali">
+      <organization/>
+    </author>
+    <author fullname="Wayne Meinke" initials="W" surname="Meinke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.310"/>
+  <seriesInfo name="NIST" value="NBS SP 310"/>
 </reference>

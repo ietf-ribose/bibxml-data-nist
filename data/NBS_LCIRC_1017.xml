@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.1017" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1017.pdf">
   <front>
     <title>Letter Circular 1017:standards for checking the calibration of spectrophotometers (200 to 1000 m?)+J1051:L1051</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1017"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1017"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1017"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1017"/>
 </reference>

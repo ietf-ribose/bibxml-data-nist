@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8396" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8396.pdf">
   <front>
     <title>Open Media Forensics Challenge (OpenMFC) 2020-2021: Past, Present, and Future</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8396"/>
-    <seriesInfo name="NIST" value="NIST IR 8396"/>
     <author fullname="Haiying Guan" initials="H." surname="Guan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Lukas Diduch" initials="L." surname="Diduch">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jesse Zhang" initials="J." surname="Zhang">
+    <author fullname="Jesse Zhang" initials="G" surname="Zhang">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Ilia Ghorbanian" initials="I." surname="Ghorbanian">
@@ -21,7 +19,7 @@
     <author fullname="Timothee Kheyrkhah" initials="T." surname="Kheyrkhah">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Peter Fontana" initials="P." surname="Fontana">
+    <author fullname="Peter Fontana" initials="C" surname="Fontana">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Jon Fiscus" initials="J." surname="Fiscus">
@@ -35,4 +33,6 @@
     </author>
     <date year="2021" month="September" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8396"/>
+  <seriesInfo name="NIST" value="NIST IR 8396"/>
 </reference>

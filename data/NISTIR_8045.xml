@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8045" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8045.pdf">
   <front>
     <title>Performance Evaluation Methods for Human Detection and Tracking Systems for Robotic Applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8045"/>
-    <seriesInfo name="NIST" value="NIST IR 8045"/>
-    <author fullname="Michael Shneier" initials="M." surname="Shneier">
+    <author fullname="Michael Shneier" initials="O" surname="Shneier">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Tsai Hong" initials="T." surname="Hong">
@@ -23,4 +21,6 @@
     </author>
     <date year="2014" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8045"/>
+  <seriesInfo name="NIST" value="NIST IR 8045"/>
 </reference>

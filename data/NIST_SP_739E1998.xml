@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.739e1998" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication739e1998.pdf">
   <front>
     <title>Directory of federal government certification and related programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.739e1998"/>
-    <seriesInfo name="NIST" value="NIST SP 739e1998"/>
-    <author fullname="Maureen Breitenberg" initials="M." surname="Breitenberg"/>
-    <author fullname="Maureen Breitenberg" initials="M." surname="Breitenberg"/>
+    <author fullname="Maureen Breitenberg" initials="M." surname="Breitenberg">
+      <organization/>
+    </author>
+    <author fullname="Maureen Breitenberg" initials="M." surname="Breitenberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.739e1998"/>
+  <seriesInfo name="NIST" value="NIST SP 739e1998"/>
 </reference>

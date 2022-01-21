@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-162.pdf">
   <front>
     <title>Executive summary of a proficiency test assessment of clinical laboratory capability in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-162"/>
-    <seriesInfo name="NIST" value="NBS IR 73-162"/>
-    <author fullname="Peter Finkel" initials="P." surname="Finkel"/>
-    <author fullname="Ted Miller" initials="T." surname="Miller"/>
+    <author fullname="Peter Finkel" initials="W" surname="Finkel">
+      <organization/>
+    </author>
+    <author fullname="Ted Miller" initials="R" surname="Miller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-162"/>
+  <seriesInfo name="NIST" value="NBS IR 73-162"/>
 </reference>

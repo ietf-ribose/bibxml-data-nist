@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2942" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2942.pdf">
   <front>
     <title>An evaluation of ettringite and related compounds for use in solar energy storage</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2942"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2942"/>
-    <author surname="Struble"/>
-    <author surname="Brown"/>
+    <author initials="LJ" surname="Struble">
+      <organization/>
+    </author>
+    <author initials="PW" surname="Brown">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2942"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2942"/>
 </reference>

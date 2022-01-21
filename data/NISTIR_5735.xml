@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5735" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5735.pdf">
   <front>
     <title>Distributed systems:survey of open management approaches</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5735"/>
-    <seriesInfo name="NIST" value="NIST IR 5735"/>
-    <author fullname="Joseph Hungate" initials="J." surname="Hungate"/>
-    <author fullname="Geraldina Fernandes" initials="G." surname="Fernandes"/>
+    <author fullname="Joseph Hungate" initials="J." surname="Hungate">
+      <organization/>
+    </author>
+    <author fullname="Geraldina Fernandes" initials="G." surname="Fernandes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5735"/>
+  <seriesInfo name="NIST" value="NIST IR 5735"/>
 </reference>

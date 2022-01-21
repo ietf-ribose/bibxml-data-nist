@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2413" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2413.pdf">
   <front>
     <title>Production-compatible microelectronic test structures for the measurement of interface state density and neutral trap density</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2413"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2413"/>
-    <author surname="Russell"/>
+    <author initials="TJ" surname="Russell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2413"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2413"/>
 </reference>

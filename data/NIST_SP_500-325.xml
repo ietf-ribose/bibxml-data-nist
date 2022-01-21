@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.500-325" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-325.pdf">
   <front>
     <title>Fog computing conceptual model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-325"/>
-    <seriesInfo name="NIST" value="NIST SP 500-325"/>
     <author fullname="Michaela Iorga" initials="M." surname="Iorga">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Robert Barton" initials="R." surname="Barton">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Martin" initials="M." surname="Martin">
+    <author fullname="Michael Martin" initials="J" surname="Martin">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Ned Goren" initials="N." surname="Goren">
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-325"/>
+  <seriesInfo name="NIST" value="NIST SP 500-325"/>
 </reference>

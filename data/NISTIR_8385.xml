@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8385" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8385.pdf">
   <front>
     <title>Cannabis Quality Assurance Program: Exercise 1 Final Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8385"/>
-    <seriesInfo name="NIST" value="NIST IR 8385"/>
     <author fullname="Maryam Abdur-Rahman" initials="M." surname="Abdur-Rahman">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+    <author fullname="Melissa Phillips" initials="M" surname="Phillips">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Walter Wilson" initials="W." surname="Wilson">
+    <author fullname="Walter Wilson" initials="B" surname="Wilson">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="July" day="27"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8385"/>
+  <seriesInfo name="NIST" value="NIST IR 8385"/>
 </reference>

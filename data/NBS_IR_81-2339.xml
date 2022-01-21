@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2339" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2339.pdf">
   <front>
     <title>Simulated service testing for corrosion in solar heating and cooling systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2339"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2339"/>
-    <author fullname="PaulWencil Brown" initials="P.W." surname="Brown"/>
-    <author fullname="John Grimes" initials="J." surname="Grimes"/>
+    <author fullname="PaulWencil Brown" initials="P.W." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="John Grimes" initials="W" surname="Grimes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2339"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2339"/>
 </reference>

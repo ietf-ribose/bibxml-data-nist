@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.912" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication912.pdf">
   <front>
     <title>Profiles of national standards-related activities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.912"/>
-    <seriesInfo name="NIST" value="NIST SP 912"/>
-    <author fullname="Robert Toth" initials="R." surname="Toth"/>
-    <author fullname="Robert Toth" initials="R." surname="Toth"/>
+    <author fullname="Robert Toth" initials="B" surname="Toth">
+      <organization/>
+    </author>
+    <author fullname="Robert Toth" initials="B" surname="Toth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.912"/>
+  <seriesInfo name="NIST" value="NIST SP 912"/>
 </reference>

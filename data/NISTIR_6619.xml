@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6619" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6619.pdf">
   <front>
     <title>Failure analysis of the WWVB tower</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6619"/>
-    <seriesInfo name="NIST" value="NIST IR 6619"/>
-    <author surname="McCloskey"/>
-    <author surname="McCowan"/>
-    <author surname="Santoyo"/>
+    <author initials="JD" surname="McCloskey">
+      <organization/>
+    </author>
+    <author initials="CN" surname="McCowan">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Santoyo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6619"/>
+  <seriesInfo name="NIST" value="NIST IR 6619"/>
 </reference>

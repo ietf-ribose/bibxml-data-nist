@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.500-116" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-116.pdf">
   <front>
     <title>Toward an improved FIPS cost-benefit methodology, phase II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-116"/>
-    <seriesInfo name="NIST" value="NBS SP 500-116"/>
-    <author fullname="MaryLou Chipman" initials="M.L." surname="Chipman"/>
-    <author fullname="Marc Fiorello" initials="M." surname="Fiorello"/>
-    <author fullname="Peg Kay" initials="P." surname="Kay"/>
-    <author fullname="Patricia Powell" initials="P." surname="Powell"/>
+    <author fullname="MaryLou Chipman" initials="M.L." surname="Chipman">
+      <organization/>
+    </author>
+    <author fullname="Marc Fiorello" initials="M." surname="Fiorello">
+      <organization/>
+    </author>
+    <author fullname="Peg Kay" initials="P." surname="Kay">
+      <organization/>
+    </author>
+    <author fullname="Patricia Powell" initials="P." surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-116"/>
+  <seriesInfo name="NIST" value="NBS SP 500-116"/>
 </reference>

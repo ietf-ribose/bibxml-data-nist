@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.98" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience98.pdf">
   <front>
     <title>Design methods for reducing the risk of progressive collapse in buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.98"/>
-    <seriesInfo name="NIST" value="NBS BSS 98"/>
-    <author fullname="Edgar Leyendecker" initials="E." surname="Leyendecker"/>
-    <author fullname="Bruce Ellingwood" initials="B." surname="Ellingwood"/>
+    <author fullname="Edgar Leyendecker" initials="V" surname="Leyendecker">
+      <organization/>
+    </author>
+    <author fullname="Bruce Ellingwood" initials="R" surname="Ellingwood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.98"/>
+  <seriesInfo name="NIST" value="NBS BSS 98"/>
 </reference>

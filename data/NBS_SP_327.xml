@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.327" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication327.pdf">
   <front>
     <title>Equilibrium critical phenomena in fluids and mixtures :a comprehensive bibliography with key-word descriptors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.327"/>
-    <seriesInfo name="NIST" value="NBS SP 327"/>
-    <author fullname="Stella Michaels" initials="S." surname="Michaels"/>
-    <author fullname="Melville Green" initials="M." surname="Green"/>
-    <author fullname="Sigurd Larsen" initials="S." surname="Larsen"/>
+    <author fullname="Stella Michaels" initials="S." surname="Michaels">
+      <organization/>
+    </author>
+    <author fullname="Melville Green" initials="S" surname="Green">
+      <organization/>
+    </author>
+    <author fullname="Sigurd Larsen" initials="Y" surname="Larsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.327"/>
+  <seriesInfo name="NIST" value="NBS SP 327"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2054" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2054.pdf">
   <front>
     <title>Compartment fire experiments on long-span composite-beams with simple shear connections part 1:experimental design and beam behavior at ambient temperature</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2054"/>
-    <seriesInfo name="NIST" value="NIST TN 2054"/>
     <author fullname="Selvarajah Ramesh" initials="S." surname="Ramesh">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -54,4 +52,6 @@
     </author>
     <date year="2019" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2054"/>
+  <seriesInfo name="NIST" value="NIST TN 2054"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4473" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4473.pdf">
   <front>
     <title>Guide to the use of cement and concrete research Remote Bulletin Board System (RBBS) computer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4473"/>
-    <seriesInfo name="NIST" value="NIST IR 4473"/>
-    <author fullname="Lawrence Kaetzel" initials="L." surname="Kaetzel"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="Lawrence Kaetzel" initials="J" surname="Kaetzel">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4473"/>
+  <seriesInfo name="NIST" value="NIST IR 4473"/>
 </reference>

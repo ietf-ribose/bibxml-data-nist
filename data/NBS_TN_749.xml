@@ -1,8 +1,6 @@
 <reference anchor="NBS.TN.749" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote749.pdf">
   <front>
     <title>The flammable fabrics program 1971</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.749"/>
-    <seriesInfo name="NIST" value="NBS TN 749"/>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.749"/>
+  <seriesInfo name="NIST" value="NBS TN 749"/>
 </reference>

@@ -1,27 +1,25 @@
 <reference anchor="NIST.SP.1246" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1246.pdf">
   <front>
     <title>Assessing the predictive capability for real-scale residential upholstered furniture mock-up fires using cone calorimeter measurements:part 1, real-scale experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1246"/>
-    <seriesInfo name="NIST" value="NIST SP 1246"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts">
+    <author fullname="William Pitts" initials="M" surname="Pitts">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Martin Werrel" initials="M." surname="Werrel">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Marco Fernandez" initials="M." surname="Fernandez">
+    <author fullname="Marco Fernandez" initials="G" surname="Fernandez">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Mary Long" initials="M." surname="Long">
+    <author fullname="Mary Long" initials="A" surname="Long">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Evan Eisenberg" initials="E." surname="Eisenberg">
+    <author fullname="Evan Eisenberg" initials="A" surname="Eisenberg">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="James Filliben" initials="J." surname="Filliben">
+    <author fullname="James Filliben" initials="J" surname="Filliben">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Cory Runyon" initials="C." surname="Runyon">
+    <author fullname="Cory Runyon" initials="D" surname="Runyon">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2020" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1246"/>
+  <seriesInfo name="NIST" value="NIST SP 1246"/>
 </reference>

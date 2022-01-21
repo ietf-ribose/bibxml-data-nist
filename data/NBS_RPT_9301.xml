@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9301" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9301.pdf">
   <front>
     <title>Exposure test of porcelain enamels on aluminum :progress report, six months report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9301"/>
-    <seriesInfo name="NIST" value="NBS RPT 9301"/>
-    <author fullname="Margaret Rushmer" initials="M." surname="Rushmer"/>
+    <author fullname="Margaret Rushmer" initials="A" surname="Rushmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9301"/>
+  <seriesInfo name="NIST" value="NBS RPT 9301"/>
 </reference>

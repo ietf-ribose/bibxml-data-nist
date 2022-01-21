@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.400-80" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-80.pdf">
   <front>
     <title>Silicon-on-insulator</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-80"/>
-    <seriesInfo name="NIST" value="NBS SP 400-80"/>
-    <author surname="Baghdadi"/>
-    <author surname="Walters"/>
+    <author initials="A" surname="Baghdadi">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-80"/>
+  <seriesInfo name="NIST" value="NBS SP 400-80"/>
 </reference>

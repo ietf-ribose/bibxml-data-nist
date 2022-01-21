@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6290" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6290.pdf">
   <front>
     <title>Toward a national standards strategy:conference report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6290"/>
-    <seriesInfo name="NIST" value="NIST IR 6290"/>
-    <author fullname="KristaJohnsen Leuteritz" initials="K.J." surname="Leuteritz"/>
-    <author fullname="Walter Leight" initials="W." surname="Leight"/>
+    <author fullname="KristaJohnsen Leuteritz" initials="J" surname="Leuteritz">
+      <organization/>
+    </author>
+    <author fullname="Walter Leight" initials="G" surname="Leight">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6290"/>
+  <seriesInfo name="NIST" value="NIST IR 6290"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5719" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5719.pdf">
   <front>
     <title>Mapping Integration Definition for Function Modeling (IDEFO) model into CASE Data Interchange Format (CDIF) transfer file</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5719"/>
-    <seriesInfo name="NIST" value="NIST IR 5719"/>
-    <author fullname="Igor Simakhodskiy" initials="I." surname="Simakhodskiy"/>
+    <author fullname="Igor Simakhodskiy" initials="I." surname="Simakhodskiy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5719"/>
+  <seriesInfo name="NIST" value="NIST IR 5719"/>
 </reference>

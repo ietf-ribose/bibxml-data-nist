@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.3967" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3967.pdf">
   <front>
     <title>Report no. 22- thread crack detection on railroad wheels :an ultrasonic system using EMATS</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3967"/>
-    <seriesInfo name="NIST" value="NIST IR 3967"/>
-    <author fullname="Raymond Schramm" initials="R." surname="Schramm"/>
-    <author fullname="Alfred Clark" initials="A." surname="Clark"/>
-    <author fullname="Dragan Mitrakovic" initials="D." surname="Mitrakovic"/>
-    <author fullname="Yossef Cohen" initials="Y." surname="Cohen"/>
-    <author fullname="Peter Schull" initials="P." surname="Schull"/>
-    <author fullname="Stephen Schaps" initials="S." surname="Schaps"/>
+    <author fullname="Raymond Schramm" initials="E" surname="Schramm">
+      <organization/>
+    </author>
+    <author fullname="Alfred Clark" initials="V" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Dragan Mitrakovic" initials="V" surname="Mitrakovic">
+      <organization/>
+    </author>
+    <author fullname="Yossef Cohen" initials="Y." surname="Cohen">
+      <organization/>
+    </author>
+    <author fullname="Peter Schull" initials="J" surname="Schull">
+      <organization/>
+    </author>
+    <author fullname="Stephen Schaps" initials="R" surname="Schaps">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3967"/>
+  <seriesInfo name="NIST" value="NIST IR 3967"/>
 </reference>

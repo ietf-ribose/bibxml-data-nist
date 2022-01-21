@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.411" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication411.pdf">
   <front>
     <title>Fire safety research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.411"/>
-    <seriesInfo name="NIST" value="NBS SP 411"/>
-    <author fullname="MaryJo Butler" initials="M.J." surname="Butler"/>
-    <author fullname="James Slater" initials="J." surname="Slater"/>
+    <author fullname="MaryJo Butler" initials="M.J." surname="Butler">
+      <organization/>
+    </author>
+    <author fullname="James Slater" initials="A" surname="Slater">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.411"/>
+  <seriesInfo name="NIST" value="NBS SP 411"/>
 </reference>

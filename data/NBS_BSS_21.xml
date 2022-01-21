@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.21" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience21.pdf">
   <front>
     <title>Algorithms for psychometric calculations (skeleton tables for the thermodynamic properties of moist air)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.21"/>
-    <seriesInfo name="NIST" value="NBS BSS 21"/>
-    <author surname="Kusuda"/>
+    <author initials="T" surname="Kusuda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.21"/>
+  <seriesInfo name="NIST" value="NBS BSS 21"/>
 </reference>

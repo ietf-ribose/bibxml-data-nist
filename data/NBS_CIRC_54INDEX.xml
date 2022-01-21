@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.54index" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular54index.pdf">
   <front>
     <title>Index to parts 1. 2, and 3 of Circular no. 54, the national electrical safety code, second edition</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.54index"/>
-    <seriesInfo name="NIST" value="NBS CIRC 54index"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1917"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.54index"/>
+  <seriesInfo name="NIST" value="NBS CIRC 54index"/>
 </reference>

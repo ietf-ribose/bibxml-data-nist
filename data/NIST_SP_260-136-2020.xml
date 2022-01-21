@@ -1,42 +1,40 @@
 <reference anchor="NIST.SP.260-136-2020" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-136-2020.pdf">
   <front>
     <title>Metrological tools for the reference materials and reference instruments of the NIST material measurement laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-136-2020"/>
-    <seriesInfo name="NIST" value="NIST SP 260-136-2020"/>
-    <author fullname="Carlos Beauchamp" initials="C." surname="Beauchamp">
+    <author fullname="Carlos Beauchamp" initials="R" surname="Beauchamp">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Johanna Camara" initials="J." surname="Camara">
+    <author fullname="Johanna Camara" initials="E" surname="Camara">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jennifer Carney" initials="J." surname="Carney">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Steven Choquette" initials="S." surname="Choquette">
+    <author fullname="Steven Choquette" initials="J" surname="Choquette">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Kenneth Cole" initials="K." surname="Cole">
+    <author fullname="Kenneth Cole" initials="D" surname="Cole">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Paul DeRose" initials="P." surname="DeRose">
+    <author fullname="Paul DeRose" initials="C" surname="DeRose">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="David Duewer" initials="D." surname="Duewer">
+    <author fullname="David Duewer" initials="L" surname="Duewer">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Michael Epstein" initials="M." surname="Epstein">
+    <author fullname="Michael Epstein" initials="S" surname="Epstein">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Margaret Kline" initials="M." surname="Kline">
+    <author fullname="Margaret Kline" initials="C" surname="Kline">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Katrice Lippa" initials="K." surname="Lippa">
+    <author fullname="Katrice Lippa" initials="A" surname="Lippa">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Karen Phinney" initials="K." surname="Phinney">
+    <author fullname="Karen Phinney" initials="W" surname="Phinney">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Maria Polakoski" initials="M." surname="Polakoski">
@@ -45,10 +43,10 @@
     <author fullname="Antonio Possolo" initials="A." surname="Possolo">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Katherine Sharpless" initials="K." surname="Sharpless">
+    <author fullname="Katherine Sharpless" initials="E" surname="Sharpless">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="John Sieber" initials="J." surname="Sieber">
+    <author fullname="John Sieber" initials="R" surname="Sieber">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -63,4 +61,6 @@
     </author>
     <date year="2020" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-136-2020"/>
+  <seriesInfo name="NIST" value="NIST SP 260-136-2020"/>
 </reference>

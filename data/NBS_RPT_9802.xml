@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9802" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9802.pdf">
   <front>
     <title>Silver oxidation in atomic oxygen</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9802"/>
-    <seriesInfo name="NIST" value="NBS RPT 9802"/>
-    <author fullname="Michael McBee" initials="M." surname="McBee"/>
+    <author fullname="Michael McBee" initials="J" surname="McBee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9802"/>
+  <seriesInfo name="NIST" value="NBS RPT 9802"/>
 </reference>

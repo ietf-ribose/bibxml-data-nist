@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6295" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6295.pdf">
   <front>
     <title>Curing of high-performance concrete:report of the state-of-the-art</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6295"/>
-    <seriesInfo name="NIST" value="NIST IR 6295"/>
-    <author fullname="Kenneth Meeks" initials="K." surname="Meeks"/>
-    <author fullname="Nicholas Carino" initials="N." surname="Carino"/>
+    <author fullname="Kenneth Meeks" initials="W" surname="Meeks">
+      <organization/>
+    </author>
+    <author fullname="Nicholas Carino" initials="J" surname="Carino">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6295"/>
+  <seriesInfo name="NIST" value="NIST IR 6295"/>
 </reference>

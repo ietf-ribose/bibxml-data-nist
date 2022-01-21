@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.250-62" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-62.pdf">
   <front>
     <title>High-accuracy laser power and energy meter calibration service</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-62"/>
-    <seriesInfo name="NIST" value="NIST SP 250-62"/>
-    <author fullname="David Livigni" initials="D." surname="Livigni"/>
+    <author fullname="David Livigni" initials="D." surname="Livigni">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-62"/>
+  <seriesInfo name="NIST" value="NIST SP 250-62"/>
 </reference>

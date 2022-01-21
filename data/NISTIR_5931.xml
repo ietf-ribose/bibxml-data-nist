@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5931" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5931.pdf">
   <front>
     <title>X-ray scattering by dislocations in crystals:I. general theory and application to screw dislocations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5931"/>
-    <seriesInfo name="NIST" value="NIST IR 5931"/>
-    <author surname="Levine"/>
-    <author fullname="RobbEmeritus Thomson" initials="R.E." surname="Thomson"/>
+    <author initials="LE" surname="Levine">
+      <organization/>
+    </author>
+    <author fullname="RobbEmeritus Thomson" initials="R.E." surname="Thomson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5931"/>
+  <seriesInfo name="NIST" value="NIST IR 5931"/>
 </reference>

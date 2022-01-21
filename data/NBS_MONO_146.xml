@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph146.pdf">
   <front>
     <title>The Theory of the optical wedge beam splitter</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.146"/>
-    <seriesInfo name="NIST" value="NBS MONO 146"/>
-    <author fullname="Yardley Beers" initials="Y." surname="Beers"/>
+    <author fullname="Yardley Beers" initials="Y." surname="Beers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.146"/>
+  <seriesInfo name="NIST" value="NBS MONO 146"/>
 </reference>

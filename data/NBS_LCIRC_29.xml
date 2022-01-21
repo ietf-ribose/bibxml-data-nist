@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.29" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular29.pdf">
   <front>
     <title>Letter Circular 29:the ideal wall construction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.29"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 29"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1921"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.29"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 29"/>
 </reference>

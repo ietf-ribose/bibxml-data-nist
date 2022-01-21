@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.678" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote678.pdf">
   <front>
     <title>An electrically calibrated pyroelectric radiometer system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.678"/>
-    <seriesInfo name="NIST" value="NBS TN 678"/>
-    <author fullname="CA Hamilton" initials="C." surname="Hamilton"/>
+    <author fullname="CA Hamilton" initials="C." surname="Hamilton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.678"/>
+  <seriesInfo name="NIST" value="NBS TN 678"/>
 </reference>

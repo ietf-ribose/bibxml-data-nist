@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7752" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7752.pdf">
   <front>
     <title>Empirical evidence for increased false reject rate with time lapse in ICE 2006</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7752"/>
-    <seriesInfo name="NIST" value="NIST IR 7752"/>
-    <author surname="Baker"/>
-    <author surname="Bowyer"/>
-    <author surname="Flynn"/>
-    <author surname="Phillips"/>
+    <author initials="SE" surname="Baker">
+      <organization/>
+    </author>
+    <author initials="KW" surname="Bowyer">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Flynn">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7752"/>
+  <seriesInfo name="NIST" value="NIST IR 7752"/>
 </reference>

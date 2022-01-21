@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6047" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6047.pdf">
   <front>
     <title>Acceleration of technology development by the advanced technology program:the experience of 28 projects funded in 1991</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6047"/>
-    <seriesInfo name="NIST" value="NIST IR 6047"/>
-    <author fullname="FrancesJean Laidlaw" initials="F.J." surname="Laidlaw"/>
+    <author fullname="FrancesJean Laidlaw" initials="F.J." surname="Laidlaw">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6047"/>
+  <seriesInfo name="NIST" value="NIST IR 6047"/>
 </reference>

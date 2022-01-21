@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.87-3506" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3506.pdf">
   <front>
     <title>Reference standard polyethylene resins and piping materials :final report (October 1, 1985</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3506"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3506"/>
-    <author surname="Crissman"/>
-    <author surname="Wang"/>
-    <author surname="Guttman"/>
-    <author surname="Maurey"/>
-    <author surname="Wagner"/>
-    <author surname="Fanconi"/>
-    <author surname="VanderHart"/>
+    <author initials="JM" surname="Crissman">
+      <organization/>
+    </author>
+    <author initials="FW" surname="Wang">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Guttman">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Maurey">
+      <organization/>
+    </author>
+    <author initials="HL" surname="Wagner">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Fanconi">
+      <organization/>
+    </author>
+    <author initials="DL" surname="VanderHart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3506"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3506"/>
 </reference>

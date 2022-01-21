@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience131.pdf">
   <front>
     <title>Laboratory evaluation of nondestructive methods to measure moisture in built-up roofing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.131"/>
-    <seriesInfo name="NIST" value="NBS BSS 131"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
-    <author fullname="Robert Matheu" initials="R." surname="Matheu"/>
-    <author fullname="David Jenkins" initials="D." surname="Jenkins"/>
+    <author fullname="Lawrence Knab" initials="L." surname="Knab">
+      <organization/>
+    </author>
+    <author fullname="Robert Matheu" initials="R." surname="Matheu">
+      <organization/>
+    </author>
+    <author fullname="David Jenkins" initials="D." surname="Jenkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.131"/>
+  <seriesInfo name="NIST" value="NBS BSS 131"/>
 </reference>

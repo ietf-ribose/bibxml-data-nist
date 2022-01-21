@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-90B" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90B.pdf">
   <front>
     <title>Recommendation for the entropy sources used for random bit generation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-90B"/>
-    <seriesInfo name="NIST" value="NIST SP 800-90B"/>
     <author fullname="MeltemSönmez Turan" initials="M.S." surname="Turan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -12,10 +10,10 @@
     <author fullname="John Kelsey" initials="J." surname="Kelsey">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Kerry McKay" initials="K." surname="McKay">
+    <author fullname="Kerry McKay" initials="A" surname="McKay">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mary Baish" initials="M." surname="Baish">
+    <author fullname="Mary Baish" initials="L" surname="Baish">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Mike Boyle" initials="M." surname="Boyle">
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-90B"/>
+  <seriesInfo name="NIST" value="NIST SP 800-90B"/>
 </reference>

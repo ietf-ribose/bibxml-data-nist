@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.995v2r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication995v2r1.pdf">
   <front>
     <title>In situ burning of oil spills :resource collection NIST Special Publication 995 volume 2 rev 1</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.995v2r1"/>
-    <seriesInfo name="NIST" value="NIST SP 995v2r1"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.995v2r1"/>
+  <seriesInfo name="NIST" value="NIST SP 995v2r1"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-305" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-305.pdf">
   <front>
     <title>Single strand model computer programs for the transmission line properties of the Mooring Line Data Line</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-305"/>
-    <seriesInfo name="NIST" value="NBS IR 73-305"/>
-    <author surname="Holt"/>
-    <author surname="Nahman"/>
+    <author initials="DR" surname="Holt">
+      <organization/>
+    </author>
+    <author initials="NS" surname="Nahman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-305"/>
+  <seriesInfo name="NIST" value="NBS IR 73-305"/>
 </reference>

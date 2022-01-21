@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7131.pdf">
   <front>
     <title>Proposed test methodology and performance rating standard for residential fuel cell systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7131"/>
-    <seriesInfo name="NIST" value="NIST IR 7131"/>
-    <author fullname="Mark Davis" initials="M." surname="Davis"/>
-    <author fullname="Michael Ellis" initials="M." surname="Ellis"/>
-    <author fullname="Brian Dougherty" initials="B." surname="Dougherty"/>
+    <author fullname="Mark Davis" initials="W" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Michael Ellis" initials="W" surname="Ellis">
+      <organization/>
+    </author>
+    <author fullname="Brian Dougherty" initials="P" surname="Dougherty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7131"/>
+  <seriesInfo name="NIST" value="NIST IR 7131"/>
 </reference>

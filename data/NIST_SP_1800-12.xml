@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-12" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-12.pdf">
   <front>
     <title>Derived Personal Identity Verification (PIV) credentials:includes executive summary (A); approach, architecture, and security characteristics (B); and how-to guides (C)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-12"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-12"/>
     <author fullname="William Newhouse" initials="W." surname="Newhouse">
       <organization>Information Technology Laboratory.</organization>
     </author>
@@ -21,7 +19,7 @@
     <author fullname="Christopher Brown" initials="C." surname="Brown">
       <organization>Information Technology Laboratory.</organization>
     </author>
-    <author fullname="Spike Dog" initials="S." surname="Dog">
+    <author fullname="Spike Dog" initials="E" surname="Dog">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author fullname="Susan Prince" initials="S." surname="Prince">
@@ -42,4 +40,6 @@
     </author>
     <date year="2019" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-12"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-12"/>
 </reference>

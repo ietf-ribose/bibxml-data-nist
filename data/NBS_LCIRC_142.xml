@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.142" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular142.pdf">
   <front>
     <title>Letter Circular 142:the principal requirements of the Portland cement specifications of various countries</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.142"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 142"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1921"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.142"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 142"/>
 </reference>

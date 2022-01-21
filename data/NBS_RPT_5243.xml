@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.5243" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5243.pdf">
   <front>
     <title>Maintenance of airfield lighting systems:part III, troubleshooting procedures for series circuits</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5243"/>
-    <seriesInfo name="NIST" value="NBS RPT 5243"/>
-    <author fullname="John Simeroth" initials="J." surname="Simeroth"/>
+    <author fullname="John Simeroth" initials="W" surname="Simeroth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5243"/>
+  <seriesInfo name="NIST" value="NBS RPT 5243"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-2265" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2265.pdf">
   <front>
     <title>Review of technical information on scaffolds</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2265"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2265"/>
-    <author surname="Hunt"/>
-    <author surname="Fattal"/>
+    <author initials="BJ" surname="Hunt">
+      <organization/>
+    </author>
+    <author initials="SG" surname="Fattal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2265"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2265"/>
 </reference>

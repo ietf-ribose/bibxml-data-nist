@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1981" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1981.pdf">
   <front>
     <title>Users guide to HVAC-Cx v2.2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1981"/>
-    <seriesInfo name="NIST" value="NIST TN 1981"/>
-    <author fullname="Michael Galler" initials="M." surname="Galler">
+    <author fullname="Michael Galler" initials="A" surname="Galler">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Natascha Milesi-Ferretti" initials="N." surname="Milesi-Ferretti">
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1981"/>
+  <seriesInfo name="NIST" value="NIST TN 1981"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.603" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular603.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 603:stark broadening functions for the hydrogen lines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.603"/>
-    <seriesInfo name="NIST" value="NBS CIRC 603"/>
-    <author fullname="Anne Underhill" initials="A." surname="Underhill"/>
+    <author fullname="Anne Underhill" initials="B" surname="Underhill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.603"/>
+  <seriesInfo name="NIST" value="NBS CIRC 603"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4465" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4465.pdf">
   <front>
     <title>Outline of a national plan on high-performance concrete:report on the NISTACI workshop, May 16-18, 1990</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4465"/>
-    <seriesInfo name="NIST" value="NIST IR 4465"/>
-    <author fullname="Nicholas Carino" initials="N." surname="Carino"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="Nicholas Carino" initials="J" surname="Carino">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4465"/>
+  <seriesInfo name="NIST" value="NIST IR 4465"/>
 </reference>

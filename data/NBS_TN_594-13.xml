@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.594-13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote594-13.pdf">
   <front>
     <title>Optical radiation measurements :the 1973 NBS scale of spectral irradiance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.594-13"/>
-    <seriesInfo name="NIST" value="NBS TN 594-13"/>
-    <author surname="Saunders"/>
-    <author surname="Shumaker"/>
+    <author initials="RD" surname="Saunders">
+      <organization/>
+    </author>
+    <author initials="JB" surname="Shumaker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.594-13"/>
+  <seriesInfo name="NIST" value="NBS TN 594-13"/>
 </reference>

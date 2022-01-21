@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.8983" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8983.pdf">
   <front>
     <title>The opportunity for building systems innovation in the military construction program of the Department of Defense</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8983"/>
-    <seriesInfo name="NIST" value="NBS RPT 8983"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1965" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8983"/>
+  <seriesInfo name="NIST" value="NBS RPT 8983"/>
 </reference>

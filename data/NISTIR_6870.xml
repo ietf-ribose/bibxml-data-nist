@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6870" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6870.pdf">
   <front>
     <title>Baseline measures for improving housing durability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6870"/>
-    <seriesInfo name="NIST" value="NIST IR 6870"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="Christine Izzo" initials="C." surname="Izzo"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="Christine Izzo" initials="A" surname="Izzo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6870"/>
+  <seriesInfo name="NIST" value="NIST IR 6870"/>
 </reference>

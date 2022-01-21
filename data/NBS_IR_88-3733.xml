@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.88-3733" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3733.pdf">
   <front>
     <title>Cone calorimeter evaluation of the flammability of composite materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3733"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3733"/>
-    <author fullname="James Brown" initials="J." surname="Brown"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
+    <author fullname="James Brown" initials="E" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3733"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3733"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6940" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6940.pdf">
   <front>
     <title>National calibration facility for retroreflective traffic control materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6940"/>
-    <seriesInfo name="NIST" value="NIST IR 6940"/>
-    <author fullname="Cameron Miller" initials="C." surname="Miller"/>
-    <author fullname="Todd Heimer" initials="T." surname="Heimer"/>
-    <author fullname="Edward Early" initials="E." surname="Early"/>
+    <author fullname="Cameron Miller" initials="C" surname="Miller">
+      <organization/>
+    </author>
+    <author fullname="Todd Heimer" initials="T." surname="Heimer">
+      <organization/>
+    </author>
+    <author fullname="Edward Early" initials="E." surname="Early">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6940"/>
+  <seriesInfo name="NIST" value="NIST IR 6940"/>
 </reference>

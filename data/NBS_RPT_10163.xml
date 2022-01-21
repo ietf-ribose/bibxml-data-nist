@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10163" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10163.pdf">
   <front>
     <title>Test and evaluation of the prefabricated Lewis Building and its components:phase I part I evaluation of sandwich panel components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10163"/>
-    <seriesInfo name="NIST" value="NBS RPT 10163"/>
-    <author fullname="Thomas Reichard" initials="T." surname="Reichard"/>
+    <author fullname="Thomas Reichard" initials="W" surname="Reichard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10163"/>
+  <seriesInfo name="NIST" value="NBS RPT 10163"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.500-322" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-322.pdf">
   <front>
     <title>Evaluation of cloud computing services based on NIST SP 800-145</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-322"/>
-    <seriesInfo name="NIST" value="NIST SP 500-322"/>
     <author fullname="Eric Simmon" initials="E." surname="Simmon">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="February" day="23"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-322"/>
+  <seriesInfo name="NIST" value="NIST SP 500-322"/>
 </reference>

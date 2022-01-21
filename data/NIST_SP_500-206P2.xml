@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-206p2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-206p2.pdf">
   <front>
     <title>Stable implementation agreements for open systems interconnection protocols Version 6 Edition 1 December 1992</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-206p2"/>
-    <seriesInfo name="NIST" value="NIST SP 500-206p2"/>
-    <author fullname="Tim Boland" initials="T." surname="Boland"/>
-    <author fullname="Brenda Gray" initials="B." surname="Gray"/>
+    <author fullname="Tim Boland" initials="T." surname="Boland">
+      <organization/>
+    </author>
+    <author fullname="Brenda Gray" initials="B." surname="Gray">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-206p2"/>
+  <seriesInfo name="NIST" value="NIST SP 500-206p2"/>
 </reference>

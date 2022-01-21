@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.6060" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6060.pdf">
   <front>
     <title>Atmospheric limitations on electronic distance measuring equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6060"/>
-    <seriesInfo name="NIST" value="NBS RPT 6060"/>
-    <author fullname="MoodyJr Thompson" initials="M.J." surname="Thompson"/>
-    <author fullname="Harris Janes" initials="H." surname="Janes"/>
-    <author fullname="Frank Freethey" initials="F." surname="Freethey"/>
+    <author fullname="MoodyJr Thompson" initials="C" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Harris Janes" initials="B" surname="Janes">
+      <organization/>
+    </author>
+    <author fullname="Frank Freethey" initials="E" surname="Freethey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1959" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6060"/>
+  <seriesInfo name="NIST" value="NBS RPT 6060"/>
 </reference>

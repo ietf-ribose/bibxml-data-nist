@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1146.pdf">
   <front>
     <title>A study of personal fall-safety equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1146"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1146"/>
-    <author fullname="Harold Steinberg" initials="H." surname="Steinberg"/>
+    <author fullname="Harold Steinberg" initials="L" surname="Steinberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1146"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1146"/>
 </reference>

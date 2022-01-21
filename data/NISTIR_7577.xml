@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7577" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7577.pdf">
   <front>
     <title>ELFT phase II :an evaluation of automated latent fingerprint identification technologies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7577"/>
-    <seriesInfo name="NIST" value="NIST IR 7577"/>
-    <author surname="Indovina"/>
-    <author surname="Dvornychenko"/>
-    <author surname="Tabassi"/>
-    <author surname="Quinn"/>
-    <author surname="Grother"/>
-    <author surname="Garris"/>
-    <author surname="Meagher"/>
+    <author initials="M" surname="Indovina">
+      <organization/>
+    </author>
+    <author initials="V" surname="Dvornychenko">
+      <organization/>
+    </author>
+    <author initials="E" surname="Tabassi">
+      <organization/>
+    </author>
+    <author initials="G" surname="Quinn">
+      <organization/>
+    </author>
+    <author initials="P" surname="Grother">
+      <organization/>
+    </author>
+    <author initials="M" surname="Garris">
+      <organization/>
+    </author>
+    <author initials="S" surname="Meagher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7577"/>
+  <seriesInfo name="NIST" value="NIST IR 7577"/>
 </reference>

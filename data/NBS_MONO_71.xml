@@ -1,12 +1,18 @@
 <reference anchor="NBS.MONO.71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph71.pdf">
   <front>
     <title>Line parameters and computed spectra for water vapor bands at 2.7µ</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.71"/>
-    <seriesInfo name="NIST" value="NBS MONO 71"/>
-    <author fullname="David Gates" initials="D." surname="Gates"/>
-    <author fullname="Robert Calfee" initials="R." surname="Calfee"/>
-    <author fullname="David Hansen" initials="D." surname="Hansen"/>
-    <author surname="Benedict"/>
+    <author fullname="David Gates" initials="M" surname="Gates">
+      <organization/>
+    </author>
+    <author fullname="Robert Calfee" initials="F" surname="Calfee">
+      <organization/>
+    </author>
+    <author fullname="David Hansen" initials="W" surname="Hansen">
+      <organization/>
+    </author>
+    <author initials="WS" surname="Benedict">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.71"/>
+  <seriesInfo name="NIST" value="NBS MONO 71"/>
 </reference>

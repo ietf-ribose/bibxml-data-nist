@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.1164" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1164.pdf">
   <front>
     <title>Preliminary Reconnaissance of the May 20, 2013, Newcastle-Moore Tornado in Oklahoma</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1164"/>
-    <seriesInfo name="NIST" value="NIST SP 1164"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Long Phan" initials="L." surname="Phan">
+    <author fullname="Long Phan" initials="T" surname="Phan">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Marc Levitan" initials="M." surname="Levitan">
+    <author fullname="Marc Levitan" initials="L" surname="Levitan">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Jorgensen" initials="D." surname="Jorgensen">
+    <author fullname="David Jorgensen" initials="P" surname="Jorgensen">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1164"/>
+  <seriesInfo name="NIST" value="NIST SP 1164"/>
 </reference>

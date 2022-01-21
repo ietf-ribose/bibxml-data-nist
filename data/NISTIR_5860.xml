@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5860" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5860.pdf">
   <front>
     <title>IML++ v.1.2 iterative methods library, reference guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5860"/>
-    <seriesInfo name="NIST" value="NIST IR 5860"/>
-    <author fullname="Jack Dongarra" initials="J." surname="Dongarra"/>
-    <author fullname="Andrew Lumsdaine" initials="A." surname="Lumsdaine"/>
-    <author fullname="Rolan Pozo" initials="R." surname="Pozo"/>
-    <author fullname="Karin Remington" initials="K." surname="Remington"/>
+    <author fullname="Jack Dongarra" initials="J." surname="Dongarra">
+      <organization/>
+    </author>
+    <author fullname="Andrew Lumsdaine" initials="A." surname="Lumsdaine">
+      <organization/>
+    </author>
+    <author fullname="Rolan Pozo" initials="R." surname="Pozo">
+      <organization/>
+    </author>
+    <author fullname="Karin Remington" initials="A" surname="Remington">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5860"/>
+  <seriesInfo name="NIST" value="NIST IR 5860"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5865" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5865.pdf">
   <front>
     <title>Development of a test method for measuring water-stripping resistance of asphaltsiliceous aggregate mixtures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5865"/>
-    <seriesInfo name="NIST" value="NIST IR 5865"/>
-    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen"/>
-    <author fullname="Eric Byrd" initials="E." surname="Byrd"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
-    <author fullname="Jim Seiler" initials="J." surname="Seiler"/>
+    <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
+      <organization/>
+    </author>
+    <author fullname="Eric Byrd" initials="E." surname="Byrd">
+      <organization/>
+    </author>
+    <author fullname="Dale Bentz" initials="D." surname="Bentz">
+      <organization/>
+    </author>
+    <author fullname="Jim Seiler" initials="J." surname="Seiler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5865"/>
+  <seriesInfo name="NIST" value="NIST IR 5865"/>
 </reference>

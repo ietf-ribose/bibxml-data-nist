@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2060" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2060.pdf">
   <front>
     <title>BGP Secure Routing Extension (BGP-SRx): Reference Implementation and Test Tools for Emerging BGP Security Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2060"/>
-    <seriesInfo name="NIST" value="NIST TN 2060"/>
     <author fullname="Oliver Borchert" initials="O." surname="Borchert">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2021" month="September" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2060"/>
+  <seriesInfo name="NIST" value="NIST TN 2060"/>
 </reference>

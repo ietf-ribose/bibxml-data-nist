@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4652" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4652.pdf">
   <front>
     <title>Cone Calorimeter rate of heat release measurements for upholstered composites of polyurethane foams</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4652"/>
-    <seriesInfo name="NIST" value="NIST IR 4652"/>
-    <author fullname="Kay Villa" initials="K." surname="Villa"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
+    <author fullname="Kay Villa" initials="M" surname="Villa">
+      <organization/>
+    </author>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4652"/>
+  <seriesInfo name="NIST" value="NIST IR 4652"/>
 </reference>

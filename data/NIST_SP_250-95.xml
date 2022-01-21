@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.250-95" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-95.pdf">
   <front>
     <title>NIST measurement services: photometric calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-95"/>
-    <seriesInfo name="NIST" value="NIST SP 250-95"/>
     <author fullname="Yuqin Zong" initials="Y." surname="Zong">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Maria Nadal" initials="M." surname="Nadal">
+    <author fullname="Maria Nadal" initials="E" surname="Nadal">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Benjamin Tsai" initials="B." surname="Tsai">
+    <author fullname="Benjamin Tsai" initials="K" surname="Tsai">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Cameron Miller" initials="C." surname="Miller">
+    <author fullname="Cameron Miller" initials="C" surname="Miller">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-95"/>
+  <seriesInfo name="NIST" value="NIST SP 250-95"/>
 </reference>

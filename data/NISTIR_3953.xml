@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.3953" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3953.pdf">
   <front>
     <title>Tables of experimental data used for the correlation of the thermophysical properties of ethane</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3953"/>
-    <seriesInfo name="NIST" value="NIST IR 3953"/>
-    <author fullname="Daniel Friend" initials="D." surname="Friend"/>
-    <author fullname="James Ely" initials="J." surname="Ely"/>
-    <author fullname="Hepburn Ingham" initials="H." surname="Ingham"/>
+    <author fullname="Daniel Friend" initials="G" surname="Friend">
+      <organization/>
+    </author>
+    <author fullname="James Ely" initials="F" surname="Ely">
+      <organization/>
+    </author>
+    <author fullname="Hepburn Ingham" initials="H." surname="Ingham">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3953"/>
+  <seriesInfo name="NIST" value="NIST IR 3953"/>
 </reference>

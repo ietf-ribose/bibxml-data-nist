@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.87-3640" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3640.pdf">
   <front>
     <title>Investigation of L'Ambiance Plaza Building collapse in Bridgeport, Connecticut</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3640"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3640"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
-    <author fullname="Charles Scribner" initials="C." surname="Scribner"/>
-    <author fullname="Richard Marshall" initials="R." surname="Marshall"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
-    <author fullname="Charles Yancey" initials="C." surname="Yancey"/>
-    <author fullname="Erik Hendrickson" initials="E." surname="Hendrickson"/>
+    <author fullname="Charles Culver" initials="G" surname="Culver">
+      <organization/>
+    </author>
+    <author fullname="Charles Scribner" initials="F" surname="Scribner">
+      <organization/>
+    </author>
+    <author fullname="Richard Marshall" initials="D" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="Charles Yancey" initials="WC" surname="Yancey">
+      <organization/>
+    </author>
+    <author fullname="Erik Hendrickson" initials="M" surname="Hendrickson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3640"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3640"/>
 </reference>

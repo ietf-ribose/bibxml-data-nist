@@ -1,15 +1,27 @@
 <reference anchor="NBS.BH.2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing2.pdf">
   <front>
     <title>Recommended minimum requirements for plumbing in dwellings and similar buildings :final report of subcommittee on plumbing of the building code committee July 3, 1923</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BH.2"/>
-    <seriesInfo name="NIST" value="NBS BH 2"/>
-    <author fullname="George Whipple" initials="G." surname="Whipple"/>
-    <author fullname="Harry Carson" initials="H." surname="Carson"/>
-    <author fullname="Thomas Hanley" initials="T." surname="Hanley"/>
-    <author fullname="William Groeninger" initials="W." surname="Groeninger"/>
-    <author fullname="John Gries" initials="J." surname="Gries"/>
-    <author fullname="Frank Cartwright" initials="F." surname="Cartwright"/>
-    <author surname="Hunter"/>
+    <author fullname="George Whipple" initials="C" surname="Whipple">
+      <organization/>
+    </author>
+    <author fullname="Harry Carson" initials="Y" surname="Carson">
+      <organization/>
+    </author>
+    <author fullname="Thomas Hanley" initials="F" surname="Hanley">
+      <organization/>
+    </author>
+    <author fullname="William Groeninger" initials="C" surname="Groeninger">
+      <organization/>
+    </author>
+    <author fullname="John Gries" initials="M" surname="Gries">
+      <organization/>
+    </author>
+    <author fullname="Frank Cartwright" initials="P" surname="Cartwright">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Hunter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1924"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BH.2"/>
+  <seriesInfo name="NIST" value="NBS BH 2"/>
 </reference>

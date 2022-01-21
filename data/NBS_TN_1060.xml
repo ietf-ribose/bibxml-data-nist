@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1060" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1060.pdf">
   <front>
     <title>Measurement of multimode optical fiber attenuation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1060"/>
-    <seriesInfo name="NIST" value="NBS TN 1060"/>
-    <author surname="Gallawa"/>
+    <author initials="RL" surname="Gallawa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1060"/>
+  <seriesInfo name="NIST" value="NBS TN 1060"/>
 </reference>

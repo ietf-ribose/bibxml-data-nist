@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3282" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3282.pdf">
   <front>
     <title>Survey of alternate stored chemical energy reactions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3282"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3282"/>
-    <author surname="Cook"/>
-    <author surname="Plante"/>
+    <author initials="LP" surname="Cook">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Plante">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3282"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3282"/>
 </reference>

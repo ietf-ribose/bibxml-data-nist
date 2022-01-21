@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.250-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-14.pdf">
   <front>
     <title>Activation foil irradiation by reactor cavity fission sources</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-14"/>
-    <seriesInfo name="NIST" value="NBS SP 250-14"/>
-    <author fullname="George Lamaze" initials="G." surname="Lamaze"/>
-    <author fullname="James Grundl" initials="J." surname="Grundl"/>
+    <author fullname="George Lamaze" initials="P" surname="Lamaze">
+      <organization/>
+    </author>
+    <author fullname="James Grundl" initials="A" surname="Grundl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-14"/>
+  <seriesInfo name="NIST" value="NBS SP 250-14"/>
 </reference>

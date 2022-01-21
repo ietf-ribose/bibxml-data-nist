@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.100-4" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-4.pdf">
   <front>
     <title>Findings from the NISTASTM workshop on mechanical behavior of additive manufacturing components</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-4"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-4"/>
     <author fullname="Nikolas Hrabe" initials="N." surname="Hrabe">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-4"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-4"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-187" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf">
   <front>
     <title>Guide to LTE security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-187"/>
-    <seriesInfo name="NIST" value="NIST SP 800-187"/>
     <author fullname="Jeffrey Cichonski" initials="J." surname="Cichonski">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+    <author fullname="Joshua Franklin" initials="M" surname="Franklin">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Michael Bartock" initials="M." surname="Bartock">
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="December" day="21"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-187"/>
+  <seriesInfo name="NIST" value="NIST SP 800-187"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.7148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7148.pdf">
   <front>
     <title>Handling of adapted and compound words in the National Bureau of Standards' scheme of mechanical translation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7148"/>
-    <seriesInfo name="NIST" value="NBS RPT 7148"/>
-    <author fullname="Owen McArdle" initials="O." surname="McArdle"/>
+    <author fullname="Owen McArdle" initials="O." surname="McArdle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7148"/>
+  <seriesInfo name="NIST" value="NBS RPT 7148"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-205" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205.pdf">
   <front>
     <title>Attribute considerations for access control systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-205"/>
-    <seriesInfo name="NIST" value="NIST SP 800-205"/>
-    <author fullname="Vincent Hu" initials="V." surname="Hu">
+    <author fullname="Vincent Hu" initials="C" surname="Hu">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo">
+    <author fullname="David Ferraiolo" initials="F" surname="Ferraiolo">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Richard Kuhn" initials="R." surname="Kuhn">
+    <author fullname="Richard Kuhn" initials="D" surname="Kuhn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-205"/>
+  <seriesInfo name="NIST" value="NIST SP 800-205"/>
 </reference>

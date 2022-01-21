@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7136.pdf">
   <front>
     <title>The NIST road network database:version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7136"/>
-    <seriesInfo name="NIST" value="NIST IR 7136"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
-    <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky"/>
-    <author fullname="Anthony Barbera" initials="A." surname="Barbera"/>
-    <author fullname="Chris Scrapper" initials="C." surname="Scrapper"/>
-    <author fullname="Jerome Ajot" initials="J." surname="Ajot"/>
-    <author fullname="Eric Hui" initials="E." surname="Hui"/>
-    <author fullname="Martin Paredes" initials="M." surname="Paredes"/>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization/>
+    </author>
+    <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky">
+      <organization/>
+    </author>
+    <author fullname="Anthony Barbera" initials="A." surname="Barbera">
+      <organization/>
+    </author>
+    <author fullname="Chris Scrapper" initials="C." surname="Scrapper">
+      <organization/>
+    </author>
+    <author fullname="Jerome Ajot" initials="J." surname="Ajot">
+      <organization/>
+    </author>
+    <author fullname="Eric Hui" initials="E." surname="Hui">
+      <organization/>
+    </author>
+    <author fullname="Martin Paredes" initials="M." surname="Paredes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7136"/>
+  <seriesInfo name="NIST" value="NIST IR 7136"/>
 </reference>

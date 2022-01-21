@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5704" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5704.pdf">
   <front>
     <title>EMISS:a program for estimating local air pollution emission factors related to energy use in buildings, user's guide and reference manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5704"/>
-    <seriesInfo name="NIST" value="NIST IR 5704"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5704"/>
+  <seriesInfo name="NIST" value="NIST IR 5704"/>
 </reference>

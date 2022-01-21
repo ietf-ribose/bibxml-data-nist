@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.2332" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2332.pdf">
   <front>
     <title>On the accuracy of the numerical solution of the Dirichlet problem by finite differences</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2332"/>
-    <seriesInfo name="NIST" value="NBS RPT 2332"/>
-    <author surname="Walsh"/>
-    <author fullname="David Young" initials="D." surname="Young"/>
+    <author initials="JL" surname="Walsh">
+      <organization/>
+    </author>
+    <author fullname="David Young" initials="D." surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2332"/>
+  <seriesInfo name="NIST" value="NBS RPT 2332"/>
 </reference>

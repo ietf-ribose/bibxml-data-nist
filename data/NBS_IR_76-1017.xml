@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.76-1017" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1017.pdf">
   <front>
     <title>Interaction of blood proteins with solid surfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1017"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1017"/>
-    <author surname="Stromberg"/>
-    <author surname="Morrisey"/>
-    <author surname="Smith"/>
-    <author surname="Grant"/>
-    <author surname="Dehl"/>
+    <author initials="RR" surname="Stromberg">
+      <organization/>
+    </author>
+    <author initials="BW" surname="Morrisey">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Grant">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Dehl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1017"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1017"/>
 </reference>

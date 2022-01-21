@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5699" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5699.pdf">
   <front>
     <title>Computer-Aided Manufacturing Engineering Forum, first technical meeting proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5699"/>
-    <seriesInfo name="NIST" value="NIST IR 5699"/>
-    <author fullname="Mike Smith" initials="M." surname="Smith"/>
-    <author fullname="Swee Leong" initials="S." surname="Leong"/>
+    <author fullname="Mike Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Swee Leong" initials="S." surname="Leong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5699"/>
+  <seriesInfo name="NIST" value="NIST IR 5699"/>
 </reference>

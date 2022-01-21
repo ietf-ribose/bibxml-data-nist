@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.89-4084" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4084.pdf">
   <front>
     <title>Studies on some failure modes in latex barrier films</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4084"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4084"/>
-    <author fullname="Charles Guttman" initials="C." surname="Guttman"/>
-    <author fullname="Gregory McKenna" initials="G." surname="McKenna"/>
-    <author fullname="Kathleen Flynn" initials="K." surname="Flynn"/>
-    <author fullname="Todd Trout" initials="T." surname="Trout"/>
+    <author fullname="Charles Guttman" initials="M" surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="Gregory McKenna" initials="B" surname="McKenna">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Flynn" initials="M" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="Todd Trout" initials="K" surname="Trout">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4084"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4084"/>
 </reference>

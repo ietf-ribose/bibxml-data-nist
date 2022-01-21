@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7047" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7047.pdf">
   <front>
     <title>Satellite instrument calibration for measuring global climate change</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7047"/>
-    <seriesInfo name="NIST" value="NIST IR 7047"/>
-    <author fullname="George Ohring" initials="G." surname="Ohring"/>
-    <author fullname="Bruce Wielicki" initials="B." surname="Wielicki"/>
-    <author fullname="Roy Spencer" initials="R." surname="Spencer"/>
-    <author fullname="Bill Emery" initials="B." surname="Emery"/>
-    <author fullname="Raju Datla" initials="R." surname="Datla"/>
+    <author fullname="George Ohring" initials="G." surname="Ohring">
+      <organization/>
+    </author>
+    <author fullname="Bruce Wielicki" initials="B." surname="Wielicki">
+      <organization/>
+    </author>
+    <author fullname="Roy Spencer" initials="R." surname="Spencer">
+      <organization/>
+    </author>
+    <author fullname="Bill Emery" initials="B." surname="Emery">
+      <organization/>
+    </author>
+    <author fullname="Raju Datla" initials="R." surname="Datla">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7047"/>
+  <seriesInfo name="NIST" value="NIST IR 7047"/>
 </reference>

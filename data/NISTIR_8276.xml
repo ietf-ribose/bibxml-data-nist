@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8276" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8276.pdf">
   <front>
     <title>Key Practices in Cyber Supply Chain Risk Management: Observations from Industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8276"/>
-    <seriesInfo name="NIST" value="NIST IR 8276"/>
     <author fullname="Jon Boyens" initials="J." surname="Boyens">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="February" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8276"/>
+  <seriesInfo name="NIST" value="NIST IR 8276"/>
 </reference>

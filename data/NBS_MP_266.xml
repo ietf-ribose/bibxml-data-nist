@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.266" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub266.pdf">
   <front>
     <title>Computer literature bibliography 1946 to 1963/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.266"/>
-    <seriesInfo name="NIST" value="NBS MP 266"/>
-    <author surname="Youden"/>
+    <author initials="WW" surname="Youden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.266"/>
+  <seriesInfo name="NIST" value="NBS MP 266"/>
 </reference>

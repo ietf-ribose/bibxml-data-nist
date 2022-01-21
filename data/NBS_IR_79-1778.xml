@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1778" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1778.pdf">
   <front>
     <title>A perspective of a workshop on stability of (thin film) solar cells and materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1778"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1778"/>
-    <author surname="Schafft"/>
-    <author surname="Sawyer"/>
+    <author initials="HA" surname="Schafft">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Sawyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1778"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1778"/>
 </reference>

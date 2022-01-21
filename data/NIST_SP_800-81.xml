@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-81" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-81.pdf">
   <front>
     <title>Secure Domain Name System (DNS) deployment guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-81"/>
-    <seriesInfo name="NIST" value="NIST SP 800-81"/>
-    <author surname="Chandramouli">
+    <author initials="R" surname="Chandramouli">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Rose">
+    <author initials="SW" surname="Rose">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-81"/>
+  <seriesInfo name="NIST" value="NIST SP 800-81"/>
 </reference>

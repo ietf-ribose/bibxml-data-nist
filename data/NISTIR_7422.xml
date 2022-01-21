@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7422" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7422.pdf">
   <front>
     <title>Quality summarization :recommendations on biometric quality summarization across the application domain</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7422"/>
-    <seriesInfo name="NIST" value="NIST IR 7422"/>
-    <author fullname="Elham Tabassi" initials="E." surname="Tabassi"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
+    <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
+      <organization/>
+    </author>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7422"/>
+  <seriesInfo name="NIST" value="NIST IR 7422"/>
 </reference>

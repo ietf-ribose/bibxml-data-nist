@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7013" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7013.pdf">
   <front>
     <title>The global combustion behavior of 1 MW to 3 MW hydrocarbon spray fires burning in an open environment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7013"/>
-    <seriesInfo name="NIST" value="NIST IR 7013"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
-    <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
+      <organization/>
+    </author>
+    <author fullname="George Mulholland" initials="G." surname="Mulholland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7013"/>
+  <seriesInfo name="NIST" value="NIST IR 7013"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.823-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication823-5.pdf">
   <front>
     <title>North American ISDN users' forum agreements on integrated services digital network</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.823-5"/>
-    <seriesInfo name="NIST" value="NIST SP 823-5"/>
-    <author fullname="Daniel Stokesberry" initials="D." surname="Stokesberry"/>
-    <author fullname="Daniel Stokesberry" initials="D." surname="Stokesberry"/>
-    <author fullname="Tish Antonishek" initials="T." surname="Antonishek"/>
+    <author fullname="Daniel Stokesberry" initials="P" surname="Stokesberry">
+      <organization/>
+    </author>
+    <author fullname="Daniel Stokesberry" initials="P" surname="Stokesberry">
+      <organization/>
+    </author>
+    <author fullname="Tish Antonishek" initials="A" surname="Antonishek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.823-5"/>
+  <seriesInfo name="NIST" value="NIST SP 823-5"/>
 </reference>

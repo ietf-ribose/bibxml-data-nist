@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6393" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6393.pdf">
   <front>
     <title>Large- and small-scale structures and their interactions in an axisymmetric jet</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6393"/>
-    <seriesInfo name="NIST" value="NIST IR 6393"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Cecilia Richards" initials="C." surname="Richards"/>
-    <author fullname="Mark Levenson" initials="M." surname="Levenson"/>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
+    <author fullname="Cecilia Richards" initials="D" surname="Richards">
+      <organization/>
+    </author>
+    <author fullname="Mark Levenson" initials="S" surname="Levenson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6393"/>
+  <seriesInfo name="NIST" value="NIST IR 6393"/>
 </reference>

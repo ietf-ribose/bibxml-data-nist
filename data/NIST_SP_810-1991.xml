@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.810-1991" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication810-1991.pdf">
   <front>
     <title>1991 Directory of accredited laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.810-1991"/>
-    <seriesInfo name="NIST" value="NIST SP 810-1991"/>
-    <author fullname="Nancy Trahey" initials="N." surname="Trahey"/>
-    <author fullname="Nancy Trahey" initials="N." surname="Trahey"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
-    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
+    <author fullname="Nancy Trahey" initials="M" surname="Trahey">
+      <organization/>
+    </author>
+    <author fullname="Nancy Trahey" initials="M" surname="Trahey">
+      <organization/>
+    </author>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.810-1991"/>
+  <seriesInfo name="NIST" value="NIST SP 810-1991"/>
 </reference>

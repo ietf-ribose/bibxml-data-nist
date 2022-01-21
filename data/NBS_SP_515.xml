@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.515" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication515.pdf">
   <front>
     <title>International project catalog of modular integrated utility systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.515"/>
-    <seriesInfo name="NIST" value="NBS SP 515"/>
-    <author surname="Nimmo"/>
-    <author surname="Phillips"/>
+    <author initials="MH" surname="Nimmo">
+      <organization/>
+    </author>
+    <author initials="CW" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.515"/>
+  <seriesInfo name="NIST" value="NBS SP 515"/>
 </reference>

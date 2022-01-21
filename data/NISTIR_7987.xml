@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7987" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7987.pdf">
   <front>
     <title>Policy machine : features, architecture, and specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7987"/>
-    <seriesInfo name="NIST" value="NIST IR 7987"/>
     <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2014" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7987"/>
+  <seriesInfo name="NIST" value="NIST IR 7987"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5399" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5399.pdf">
   <front>
     <title>Measurement and determination of radon source potential:a literature review</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5399"/>
-    <seriesInfo name="NIST" value="NIST IR 5399"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5399"/>
+  <seriesInfo name="NIST" value="NIST IR 5399"/>
 </reference>

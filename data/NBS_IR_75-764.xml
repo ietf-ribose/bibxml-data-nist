@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-764.pdf">
   <front>
     <title>Pyramidal slip and basal twinning in aluminum oxide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-764"/>
-    <seriesInfo name="NIST" value="NBS IR 75-764"/>
-    <author surname="Hockey"/>
+    <author initials="BJ" surname="Hockey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-764"/>
+  <seriesInfo name="NIST" value="NBS IR 75-764"/>
 </reference>

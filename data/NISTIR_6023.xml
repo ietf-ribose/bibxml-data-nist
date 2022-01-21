@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6023" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6023.pdf">
   <front>
     <title>The external review of the NIST Precision Engineering Division's NAMT project on nanomanufacturing of atom-based dimensional standard, held at NIST on August 15, 1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6023"/>
-    <seriesInfo name="NIST" value="NIST IR 6023"/>
-    <author fullname="Janet Land" initials="J." surname="Land"/>
-    <author fullname="Dennis Swyt" initials="D." surname="Swyt"/>
+    <author fullname="Janet Land" initials="L" surname="Land">
+      <organization/>
+    </author>
+    <author fullname="Dennis Swyt" initials="A" surname="Swyt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6023"/>
+  <seriesInfo name="NIST" value="NIST IR 6023"/>
 </reference>

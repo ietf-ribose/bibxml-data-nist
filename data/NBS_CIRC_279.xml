@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.279" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular279.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 279:relations between the temperatures, pressures, and densities of gases</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.279"/>
-    <seriesInfo name="NIST" value="NBS CIRC 279"/>
-    <author fullname="SamuelFisher Pickering" initials="S.F." surname="Pickering"/>
+    <author fullname="SamuelFisher Pickering" initials="S.F." surname="Pickering">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.279"/>
+  <seriesInfo name="NIST" value="NBS CIRC 279"/>
 </reference>

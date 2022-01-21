@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.74-497" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-497.pdf">
   <front>
     <title>USUK joint complementary research program in building, (wind loads, water supply, fire detection), July 1972- June 1973</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-497"/>
-    <seriesInfo name="NIST" value="NBS IR 74-497"/>
-    <author surname="Raley"/>
-    <author surname="Benjamin"/>
-    <author surname="Marshall"/>
-    <author surname="Snell"/>
+    <author initials="CC" surname="Raley">
+      <organization/>
+    </author>
+    <author initials="IA" surname="Benjamin">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Marshall">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Snell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-497"/>
+  <seriesInfo name="NIST" value="NBS IR 74-497"/>
 </reference>

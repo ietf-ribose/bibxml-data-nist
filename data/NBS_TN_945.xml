@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.945" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote945.pdf">
   <front>
     <title>An investigation of the fire environment in the ASTM E 84 tunnel test</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.945"/>
-    <seriesInfo name="NIST" value="NBS TN 945"/>
-    <author surname="Parker"/>
+    <author initials="WJ" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.945"/>
+  <seriesInfo name="NIST" value="NBS TN 945"/>
 </reference>

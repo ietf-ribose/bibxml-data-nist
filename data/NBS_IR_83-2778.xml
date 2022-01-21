@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2778" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2778.pdf">
   <front>
     <title>Discovery of heavy hydrogen and heavy water</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2778"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2778"/>
-    <author fullname="Charles Saylor" initials="C." surname="Saylor"/>
+    <author fullname="Charles Saylor" initials="P" surname="Saylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2778"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2778"/>
 </reference>

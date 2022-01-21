@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook135.pdf">
   <front>
     <title>Life-cycle costing manual for the federal energy management programs: a guide for evaluating the cost effectiveness of energy conservation and renewable energy projects for new and existing federally owned and leased buildings and facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.135"/>
-    <seriesInfo name="NIST" value="NBS HB 135"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.135"/>
+  <seriesInfo name="NIST" value="NBS HB 135"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.88-3824" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3824.pdf">
   <front>
     <title>Ongoing implementation agreements for open systems interconnection protocols volume 2 :continuing agreements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3824"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3824"/>
-    <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal"/>
+    <author fullname="Robert Rosenthal" initials="R." surname="Rosenthal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3824"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3824"/>
 </reference>

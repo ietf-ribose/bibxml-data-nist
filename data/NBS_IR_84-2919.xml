@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2919" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2919.pdf">
   <front>
     <title>Review of test methods, performance requirements and materials for consolidating degraded masonry surfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2919"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2919"/>
-    <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
+    <author fullname="Mary McKnight" initials="E" surname="McKnight">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2919"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2919"/>
 </reference>

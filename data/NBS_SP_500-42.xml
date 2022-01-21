@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-42.pdf">
   <front>
     <title>A survey of remote monitoring</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-42"/>
-    <seriesInfo name="NIST" value="NBS SP 500-42"/>
-    <author fullname="Gary Nutt" initials="G." surname="Nutt"/>
+    <author fullname="Gary Nutt" initials="J" surname="Nutt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-42"/>
+  <seriesInfo name="NIST" value="NBS SP 500-42"/>
 </reference>

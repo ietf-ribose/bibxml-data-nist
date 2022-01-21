@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.981" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication981.pdf">
   <front>
     <title>Aid for decontamination of fire and rescue service protective clothing and equipment after chemical, biological, and radiological exposures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.981"/>
-    <seriesInfo name="NIST" value="NIST SP 981"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="Theodore Jarboe" initials="T." surname="Jarboe"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="Theodore Jarboe" initials="L" surname="Jarboe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.981"/>
+  <seriesInfo name="NIST" value="NIST SP 981"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-118.pdf">
   <front>
     <title>A guide to performance evaluation of database systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-118"/>
-    <seriesInfo name="NIST" value="NBS SP 500-118"/>
-    <author fullname="Daniel Benigni" initials="D." surname="Benigni"/>
+    <author fullname="Daniel Benigni" initials="R" surname="Benigni">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-118"/>
+  <seriesInfo name="NIST" value="NBS SP 500-118"/>
 </reference>

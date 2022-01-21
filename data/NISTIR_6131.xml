@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6131.pdf">
   <front>
     <title>Truncating the singular value decomposition for ILL-posed problems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6131"/>
-    <seriesInfo name="NIST" value="NIST IR 6131"/>
-    <author fullname="Bert Rust" initials="B." surname="Rust"/>
+    <author fullname="Bert Rust" initials="W" surname="Rust">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6131"/>
+  <seriesInfo name="NIST" value="NIST IR 6131"/>
 </reference>

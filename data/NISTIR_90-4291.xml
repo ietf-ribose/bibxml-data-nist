@@ -1,21 +1,45 @@
 <reference anchor="NIST.IR.90-4291" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4291.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4291"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4291"/>
-    <author surname="Tesk"/>
-    <author surname="Antonucci"/>
-    <author surname="Brauer"/>
-    <author fullname="JE McKinney" initials="J." surname="McKinney"/>
-    <author surname="Stansbury"/>
-    <author surname="deRijk"/>
-    <author surname="Venz"/>
-    <author surname="Chiang"/>
-    <author surname="Keeny"/>
-    <author surname="Miyazaki"/>
-    <author surname="Cheng"/>
-    <author surname="Sato"/>
-    <author surname="Asaoka"/>
+    <author initials="JA" surname="Tesk">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Antonucci">
+      <organization/>
+    </author>
+    <author initials="GM" surname="Brauer">
+      <organization/>
+    </author>
+    <author fullname="JE McKinney" initials="J." surname="McKinney">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Stansbury">
+      <organization/>
+    </author>
+    <author initials="WE" surname="deRijk">
+      <organization/>
+    </author>
+    <author initials="S" surname="Venz">
+      <organization/>
+    </author>
+    <author initials="S" surname="Chiang">
+      <organization/>
+    </author>
+    <author initials="MYM" surname="Keeny">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Miyazaki">
+      <organization/>
+    </author>
+    <author initials="K" surname="Cheng">
+      <organization/>
+    </author>
+    <author initials="Y" surname="Sato">
+      <organization/>
+    </author>
+    <author initials="K" surname="Asaoka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -28,4 +52,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4291"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4291"/>
 </reference>

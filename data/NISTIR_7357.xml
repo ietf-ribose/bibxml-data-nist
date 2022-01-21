@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7357" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7357.pdf">
   <front>
     <title>Proceedings of the 3rd NIST workshop on the performance evaluation of 3D imaging systems, March 2-3, 2006</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7357"/>
-    <seriesInfo name="NIST" value="NIST IR 7357"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7357"/>
+  <seriesInfo name="NIST" value="NIST IR 7357"/>
 </reference>

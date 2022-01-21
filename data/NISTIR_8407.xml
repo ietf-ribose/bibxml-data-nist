@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8407" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8407.pdf">
   <front>
     <title>Experiments to Test the A-UGV Capabilities Standard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8407"/>
-    <seriesInfo name="NIST" value="NIST IR 8407"/>
     <author fullname="Soocheol Yoon" initials="S." surname="Yoon">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="December" day="8"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8407"/>
+  <seriesInfo name="NIST" value="NIST IR 8407"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7886" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7886.pdf">
   <front>
     <title>Finite-element models of the National Fire Research Laboratory (NFRL) and modular support structure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7886"/>
-    <seriesInfo name="NIST" value="NIST IR 7886"/>
     <author fullname="Dat Duthinh" initials="D." surname="Duthinh">
       <organization>Materials and Structural Systems Division, Engineering Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2012" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7886"/>
+  <seriesInfo name="NIST" value="NIST IR 7886"/>
 </reference>

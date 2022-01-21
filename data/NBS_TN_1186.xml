@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1186" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1186.pdf">
   <front>
     <title>Interpolation formulas for viscosity of six gases :air, nitrogen, carbon dioxide, helium, argon, and oxygen</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1186"/>
-    <seriesInfo name="NIST" value="NBS TN 1186"/>
-    <author fullname="Frank Jones" initials="F." surname="Jones"/>
+    <author fullname="Frank Jones" initials="E" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1186"/>
+  <seriesInfo name="NIST" value="NBS TN 1186"/>
 </reference>

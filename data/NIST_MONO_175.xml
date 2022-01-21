@@ -1,13 +1,21 @@
 <reference anchor="NIST.MONO.175" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nistmonograph175.pdf">
   <front>
     <title>Temperature-electromotive force reference functions and tables for the letter-designated thermocouple types based on the ITS-90</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.MONO.175"/>
-    <seriesInfo name="NIST" value="NIST MONO 175"/>
-    <author surname="Burns"/>
-    <author surname="Scroger"/>
-    <author surname="Strouse"/>
-    <author surname="Croarkin"/>
-    <author surname="Guthrie"/>
+    <author initials="GW" surname="Burns">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Scroger">
+      <organization/>
+    </author>
+    <author initials="GF" surname="Strouse">
+      <organization/>
+    </author>
+    <author initials="MC" surname="Croarkin">
+      <organization/>
+    </author>
+    <author initials="WF" surname="Guthrie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.MONO.175"/>
+  <seriesInfo name="NIST" value="NIST MONO 175"/>
 </reference>

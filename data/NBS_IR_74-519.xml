@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.74-519" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-519.pdf">
   <front>
     <title>Photometric tests of vehicle glazing materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-519"/>
-    <seriesInfo name="NIST" value="NBS IR 74-519"/>
-    <author surname="Hall"/>
-    <author surname="Walters"/>
-    <author surname="Mineroff"/>
-    <author surname="Douglas"/>
+    <author initials="WA" surname="Hall">
+      <organization/>
+    </author>
+    <author initials="EL" surname="Walters">
+      <organization/>
+    </author>
+    <author initials="I" surname="Mineroff">
+      <organization/>
+    </author>
+    <author initials="CA" surname="Douglas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-519"/>
+  <seriesInfo name="NIST" value="NBS IR 74-519"/>
 </reference>

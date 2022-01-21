@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.8044-09" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8044-09.pdf">
   <front>
     <title>NIST time and frequency bulletin</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8044-09"/>
-    <seriesInfo name="NIST" value="NIST IR 8044-09"/>
-    <author fullname="KarenHansen Lichtfuss" initials="K.H." surname="Lichtfuss"/>
+    <author fullname="KarenHansen Lichtfuss" initials="K.H." surname="Lichtfuss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2015"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8044-09"/>
+  <seriesInfo name="NIST" value="NIST IR 8044-09"/>
 </reference>

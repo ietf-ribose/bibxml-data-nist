@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-181" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf">
   <front>
     <title>National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-181"/>
-    <seriesInfo name="NIST" value="NIST SP 800-181"/>
     <author fullname="William Newhouse" initials="W." surname="Newhouse">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="August" day="7"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-181"/>
+  <seriesInfo name="NIST" value="NIST SP 800-181"/>
 </reference>

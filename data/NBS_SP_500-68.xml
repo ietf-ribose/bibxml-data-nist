@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-68" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-68.pdf">
   <front>
     <title>The expert assistance system for the NBS network access machine</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-68"/>
-    <seriesInfo name="NIST" value="NBS SP 500-68"/>
-    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins"/>
+    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-68"/>
+  <seriesInfo name="NIST" value="NBS SP 500-68"/>
 </reference>

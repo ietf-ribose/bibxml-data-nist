@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8178port" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8178port.pdf">
   <front>
     <title>Guia para os requisitos de conformidade de produtos cosmeticos dos estados unidos</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8178port"/>
-    <seriesInfo name="NIST" value="NIST IR 8178port"/>
-    <author fullname="Lisa Benson" initials="L." surname="Benson">
+    <author fullname="Lisa Benson" initials="M" surname="Benson">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
     <author fullname="Karen Reczek" initials="K." surname="Reczek">
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8178port"/>
+  <seriesInfo name="NIST" value="NIST IR 8178port"/>
 </reference>

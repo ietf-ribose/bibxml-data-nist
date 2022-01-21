@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1356" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1356.pdf">
   <front>
     <title>Flow conditioner location effects in orifice flowmeters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1356"/>
-    <seriesInfo name="NIST" value="NIST TN 1356"/>
-    <author fullname="Michael Lewis" initials="M." surname="Lewis"/>
-    <author fullname="Charles Sindt" initials="C." surname="Sindt"/>
-    <author fullname="Jennifer Scott" initials="J." surname="Scott"/>
+    <author fullname="Michael Lewis" initials="A" surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="Charles Sindt" initials="F" surname="Sindt">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Scott" initials="L" surname="Scott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1356"/>
+  <seriesInfo name="NIST" value="NIST TN 1356"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.789" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication789.pdf">
   <front>
     <title>Proceedings of the International Symposium on Correlation and Polarization in electronic and atomic collisions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.789"/>
-    <seriesInfo name="NIST" value="NIST SP 789"/>
-    <author fullname="Paul Neill" initials="P." surname="Neill"/>
-    <author fullname="Paul Neill" initials="P." surname="Neill"/>
-    <author fullname="Kurt Becker" initials="K." surname="Becker"/>
-    <author fullname="Michael Kelley" initials="M." surname="Kelley"/>
+    <author fullname="Paul Neill" initials="A" surname="Neill">
+      <organization/>
+    </author>
+    <author fullname="Paul Neill" initials="A" surname="Neill">
+      <organization/>
+    </author>
+    <author fullname="Kurt Becker" initials="H" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Michael Kelley" initials="H" surname="Kelley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.789"/>
+  <seriesInfo name="NIST" value="NIST SP 789"/>
 </reference>

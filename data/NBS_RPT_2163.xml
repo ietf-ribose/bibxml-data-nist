@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.2163" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2163.pdf">
   <front>
     <title>Moisture-resistant coatings for walls of structures used for storage</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2163"/>
-    <seriesInfo name="NIST" value="NBS RPT 2163"/>
-    <author fullname="Edward Oglio" initials="E." surname="Oglio"/>
-    <author fullname="William Cullen" initials="W." surname="Cullen"/>
+    <author fullname="Edward Oglio" initials="R" surname="Oglio">
+      <organization/>
+    </author>
+    <author fullname="William Cullen" initials="C" surname="Cullen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2163"/>
+  <seriesInfo name="NIST" value="NBS RPT 2163"/>
 </reference>

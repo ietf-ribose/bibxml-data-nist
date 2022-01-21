@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-476" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-476.pdf">
   <front>
     <title>Stable pressure transducer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-476"/>
-    <seriesInfo name="NIST" value="NBS IR 74-476"/>
-    <author surname="Colwell"/>
+    <author initials="JH" surname="Colwell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-476"/>
+  <seriesInfo name="NIST" value="NBS IR 74-476"/>
 </reference>

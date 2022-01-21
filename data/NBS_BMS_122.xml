@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.122" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures122.pdf">
   <front>
     <title>Physical properties of some samples of asbestos-cement siding</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.122"/>
-    <seriesInfo name="NIST" value="NBS BMS 122"/>
-    <author fullname="Cyrus Fishburn" initials="C." surname="Fishburn"/>
+    <author fullname="Cyrus Fishburn" initials="C" surname="Fishburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.122"/>
+  <seriesInfo name="NIST" value="NBS BMS 122"/>
 </reference>

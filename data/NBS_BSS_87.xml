@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.87" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience87.pdf">
   <front>
     <title>Model documents for the evaluation, approval, and inspection of manufactured buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.87"/>
-    <seriesInfo name="NIST" value="NBS BSS 87"/>
-    <author surname="Cooke"/>
-    <author surname="Dikkers"/>
-    <author surname="Treschsel"/>
-    <author surname="Zelenka"/>
+    <author initials="PW" surname="Cooke">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Dikkers">
+      <organization/>
+    </author>
+    <author initials="HK" surname="Treschsel">
+      <organization/>
+    </author>
+    <author initials="LP" surname="Zelenka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.87"/>
+  <seriesInfo name="NIST" value="NBS BSS 87"/>
 </reference>

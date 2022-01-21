@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4471" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4471.pdf">
   <front>
     <title>The TROI [Telerobotic Operator Interface] user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4471"/>
-    <seriesInfo name="NIST" value="NIST IR 4471"/>
-    <author fullname="Barry Warsaw" initials="B." surname="Warsaw"/>
-    <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
+    <author fullname="Barry Warsaw" initials="B." surname="Warsaw">
+      <organization/>
+    </author>
+    <author fullname="John Michaloski" initials="J." surname="Michaloski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4471"/>
+  <seriesInfo name="NIST" value="NIST IR 4471"/>
 </reference>

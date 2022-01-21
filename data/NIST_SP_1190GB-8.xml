@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1190GB-8" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1190GB-8.pdf">
   <front>
     <title>Guide Brief 8: overcoming myths about community resilience planning</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-8"/>
-    <seriesInfo name="NIST" value="NIST SP 1190GB-8"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister">
+    <author fullname="Therese McAllister" initials="P" surname="McAllister">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-8"/>
+  <seriesInfo name="NIST" value="NIST SP 1190GB-8"/>
 </reference>

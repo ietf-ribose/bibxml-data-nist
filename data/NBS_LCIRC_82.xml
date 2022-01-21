@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.82" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular82.pdf">
   <front>
     <title>Letter Circular 82:control of acidity in nickel deposition</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.82"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 82"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.82"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 82"/>
 </reference>

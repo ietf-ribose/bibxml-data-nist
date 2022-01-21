@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5963" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5963.pdf">
   <front>
     <title>Materials reliability, technical activities 1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5963"/>
-    <seriesInfo name="NIST" value="NIST IR 5963"/>
-    <author surname="McHenry"/>
-    <author surname="Siewert"/>
+    <author initials="HI" surname="McHenry">
+      <organization/>
+    </author>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5963"/>
+  <seriesInfo name="NIST" value="NIST IR 5963"/>
 </reference>

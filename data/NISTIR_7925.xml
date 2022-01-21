@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7925" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7925.pdf">
   <front>
     <title>Method for measuring axis orthogonality in MEMS accelerometers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7925"/>
-    <seriesInfo name="NIST" value="NIST IR 7925"/>
-    <author fullname="Craig McGray" initials="C." surname="McGray">
+    <author fullname="Craig McGray" initials="D" surname="McGray">
       <organization>Semiconductor and Dimensional Metrology Division, Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Yaqub Afridi" initials="Y." surname="Afridi">
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7925"/>
+  <seriesInfo name="NIST" value="NIST IR 7925"/>
 </reference>

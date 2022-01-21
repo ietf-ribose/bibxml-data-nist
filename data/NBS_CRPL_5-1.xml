@@ -1,12 +1,10 @@
 <reference anchor="NBS.CRPL.5-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-5-1.pdf">
   <front>
     <title>Interim report on the measurement of atmospheric noise level</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.5-1"/>
-    <seriesInfo name="NIST" value="NBS CRPL 5-1"/>
-    <author surname="Thomas">
+    <author initials="HA" surname="Thomas">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
-    <author surname="Cottony">
+    <author initials="HV" surname="Cottony">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.5-1"/>
+  <seriesInfo name="NIST" value="NBS CRPL 5-1"/>
 </reference>

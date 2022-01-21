@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-100.pdf">
   <front>
     <title>Toward an improved FIPS cost-benefit methodology, Phase I</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-100"/>
-    <seriesInfo name="NIST" value="NBS SP 500-100"/>
-    <author fullname="Marco Fiorello" initials="M." surname="Fiorello"/>
-    <author fullname="Peter Eirich" initials="P." surname="Eirich"/>
-    <author fullname="Kay Peg" initials="K." surname="Peg"/>
+    <author fullname="Marco Fiorello" initials="M." surname="Fiorello">
+      <organization/>
+    </author>
+    <author fullname="Peter Eirich" initials="L" surname="Eirich">
+      <organization/>
+    </author>
+    <author fullname="Kay Peg" initials="K." surname="Peg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-100"/>
+  <seriesInfo name="NIST" value="NBS SP 500-100"/>
 </reference>

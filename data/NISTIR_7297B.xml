@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7297b" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7297b.pdf">
   <front>
     <title>FS-TST 2.0 :forensic software testing support tools test summary report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7297b"/>
-    <seriesInfo name="NIST" value="NIST IR 7297b"/>
-    <author fullname="Serban Gavrila" initials="S." surname="Gavrila"/>
+    <author fullname="Serban Gavrila" initials="I" surname="Gavrila">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7297b"/>
+  <seriesInfo name="NIST" value="NIST IR 7297b"/>
 </reference>

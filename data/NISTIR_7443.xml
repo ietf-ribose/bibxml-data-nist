@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7443" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7443.pdf">
   <front>
     <title>Maze hypothesis development in assessing robot performance during teleoperation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7443"/>
-    <seriesInfo name="NIST" value="NIST IR 7443"/>
-    <author fullname="Salvatore Schipani" initials="S." surname="Schipani"/>
-    <author fullname="Elena Messina" initials="E." surname="Messina"/>
+    <author fullname="Salvatore Schipani" initials="P" surname="Schipani">
+      <organization/>
+    </author>
+    <author fullname="Elena Messina" initials="R" surname="Messina">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7443"/>
+  <seriesInfo name="NIST" value="NIST IR 7443"/>
 </reference>

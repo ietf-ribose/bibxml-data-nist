@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6657" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6657.pdf">
   <front>
     <title>A rational methodology for estimating the luminous flux based upon color primaries from digital projection displays</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6657"/>
-    <seriesInfo name="NIST" value="NIST IR 6657"/>
-    <author fullname="Edward Kelley" initials="E." surname="Kelley"/>
-    <author fullname="Karl Lang" initials="K." surname="Lang"/>
-    <author fullname="Louis Silverstein" initials="L." surname="Silverstein"/>
-    <author fullname="Michael Brill" initials="M." surname="Brill"/>
+    <author fullname="Edward Kelley" initials="F" surname="Kelley">
+      <organization/>
+    </author>
+    <author fullname="Karl Lang" initials="K." surname="Lang">
+      <organization/>
+    </author>
+    <author fullname="Louis Silverstein" initials="D" surname="Silverstein">
+      <organization/>
+    </author>
+    <author fullname="Michael Brill" initials="H" surname="Brill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6657"/>
+  <seriesInfo name="NIST" value="NIST IR 6657"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1976" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1976.pdf">
   <front>
     <title>Building industry reporting and design for sustainability (BIRDS) neutral environment software tool (NEST) technical manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1976"/>
-    <seriesInfo name="NIST" value="NIST TN 1976"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1976"/>
+  <seriesInfo name="NIST" value="NIST TN 1976"/>
 </reference>

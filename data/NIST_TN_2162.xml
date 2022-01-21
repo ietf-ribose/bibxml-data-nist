@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2162" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2162.pdf">
   <front>
     <title>Velocity and Temperature Structure of Medium-Scale Pool Fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2162"/>
-    <seriesInfo name="NIST" value="NIST TN 2162"/>
     <author fullname="Kunhyuk Sung" initials="K." surname="Sung">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="June" day="22"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2162"/>
+  <seriesInfo name="NIST" value="NIST TN 2162"/>
 </reference>

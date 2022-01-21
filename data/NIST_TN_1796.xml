@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1796" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1796.pdf">
   <front>
     <title>A case study of a community affected by the Witch and Guejito fires : report #2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1796"/>
-    <seriesInfo name="NIST" value="NIST TN 1796"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
       <organization>Fire Research Division, Engineering Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1796"/>
+  <seriesInfo name="NIST" value="NIST TN 1796"/>
 </reference>

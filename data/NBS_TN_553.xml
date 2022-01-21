@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.553" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote553.pdf">
   <front>
     <title>Critical evaluation of data in the physical sciences--a status report on the National Standard Reference Data System, June 1970. David R. Lide, Jr., editor.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.553"/>
-    <seriesInfo name="NIST" value="NBS TN 553"/>
-    <author fullname="David Lide" initials="D." surname="Lide"/>
+    <author fullname="David Lide" initials="R" surname="Lide">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.553"/>
+  <seriesInfo name="NIST" value="NBS TN 553"/>
 </reference>

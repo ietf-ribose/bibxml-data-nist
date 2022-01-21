@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.231" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote231.pdf">
   <front>
     <title>Solar heating, radiative cooling and thermal movement:their effects on built-up roofing.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.231"/>
-    <seriesInfo name="NIST" value="NBS TN 231"/>
-    <author fullname="William Cullen" initials="W." surname="Cullen"/>
+    <author fullname="William Cullen" initials="C" surname="Cullen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.231"/>
+  <seriesInfo name="NIST" value="NBS TN 231"/>
 </reference>

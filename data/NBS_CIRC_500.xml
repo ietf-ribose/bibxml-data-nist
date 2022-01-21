@@ -1,13 +1,21 @@
 <reference anchor="NBS.CIRC.500" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular500.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 500:selected values of chemical thermodynamic properties</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.500"/>
-    <seriesInfo name="NIST" value="NBS CIRC 500"/>
-    <author fullname="Frederick Rossini" initials="F." surname="Rossini"/>
-    <author fullname="Donald Wagman" initials="D." surname="Wagman"/>
-    <author fullname="William Evans" initials="W." surname="Evans"/>
-    <author fullname="Samuel Levine" initials="S." surname="Levine"/>
-    <author fullname="Irving Jaffe" initials="I." surname="Jaffe"/>
+    <author fullname="Frederick Rossini" initials="D" surname="Rossini">
+      <organization/>
+    </author>
+    <author fullname="Donald Wagman" initials="D" surname="Wagman">
+      <organization/>
+    </author>
+    <author fullname="William Evans" initials="H" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Samuel Levine" initials="S." surname="Levine">
+      <organization/>
+    </author>
+    <author fullname="Irving Jaffe" initials="I." surname="Jaffe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.500"/>
+  <seriesInfo name="NIST" value="NBS CIRC 500"/>
 </reference>

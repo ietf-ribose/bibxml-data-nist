@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph166.pdf">
   <front>
     <title>Evaluating the impact of securities regulation on venture capital markets</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.166"/>
-    <seriesInfo name="NIST" value="NBS MONO 166"/>
-    <author fullname="James Barth" initials="J." surname="Barth"/>
-    <author fullname="Joseph Cordes" initials="J." surname="Cordes"/>
-    <author fullname="Gregory Tassey" initials="G." surname="Tassey"/>
+    <author fullname="James Barth" initials="R" surname="Barth">
+      <organization/>
+    </author>
+    <author fullname="Joseph Cordes" initials="J" surname="Cordes">
+      <organization/>
+    </author>
+    <author fullname="Gregory Tassey" initials="G." surname="Tassey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.166"/>
+  <seriesInfo name="NIST" value="NBS MONO 166"/>
 </reference>

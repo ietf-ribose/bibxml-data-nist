@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6489" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6489.pdf">
   <front>
     <title>Distortion-tolerant filter for elastic-distorted fingerprint matching</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6489"/>
-    <seriesInfo name="NIST" value="NIST IR 6489"/>
-    <author surname="Watson"/>
-    <author surname="Grother"/>
-    <author surname="Casasent"/>
+    <author initials="CI" surname="Watson">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Grother">
+      <organization/>
+    </author>
+    <author initials="DP" surname="Casasent">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6489"/>
+  <seriesInfo name="NIST" value="NIST IR 6489"/>
 </reference>

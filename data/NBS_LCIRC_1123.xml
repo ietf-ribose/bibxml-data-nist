@@ -1,11 +1,15 @@
 <reference anchor="NBS.LCIRC.1123" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1123.pdf">
   <front>
     <title>Letter Circular 1123:energy design economics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1123"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1123"/>
-    <author fullname="Harold Marshall" initials="H." surname="Marshall"/>
-    <author fullname="Roasalie Ruegg" initials="R." surname="Ruegg"/>
-    <author fullname="Forrest Wilson" initials="F." surname="Wilson"/>
+    <author fullname="Harold Marshall" initials="E" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Roasalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
+    <author fullname="Forrest Wilson" initials="F." surname="Wilson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1123"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1123"/>
 </reference>

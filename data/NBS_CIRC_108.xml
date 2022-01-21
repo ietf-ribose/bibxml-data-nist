@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.108" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular108.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 108:gypsum-properties, definitions and uses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.108"/>
-    <seriesInfo name="NIST" value="NBS CIRC 108"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1921"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.108"/>
+  <seriesInfo name="NIST" value="NBS CIRC 108"/>
 </reference>

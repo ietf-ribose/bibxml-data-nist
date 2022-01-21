@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.40r1928" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular40r1928.pdf">
   <front>
     <title>Letter Circular 40:radio publications of the Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.40r1928"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 40r1928"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1928"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.40r1928"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 40r1928"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-108" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-108.pdf">
   <front>
     <title>Guide on data models in the selection and use of database management systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-108"/>
-    <seriesInfo name="NIST" value="NBS SP 500-108"/>
-    <author fullname="Leonard Gallagher" initials="L." surname="Gallagher"/>
-    <author fullname="Jesse Draper" initials="J." surname="Draper"/>
+    <author fullname="Leonard Gallagher" initials="J" surname="Gallagher">
+      <organization/>
+    </author>
+    <author fullname="Jesse Draper" initials="M" surname="Draper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-108"/>
+  <seriesInfo name="NIST" value="NBS SP 500-108"/>
 </reference>

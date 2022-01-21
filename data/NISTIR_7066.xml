@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7066" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7066.pdf">
   <front>
     <title>Parallel programming with interoperable MPI</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7066"/>
-    <seriesInfo name="NIST" value="NIST IR 7066"/>
-    <author fullname="William George" initials="W." surname="George"/>
-    <author fullname="John Hagedorn" initials="J." surname="Hagedorn"/>
-    <author fullname="Judith Devaney" initials="J." surname="Devaney"/>
+    <author fullname="William George" initials="L" surname="George">
+      <organization/>
+    </author>
+    <author fullname="John Hagedorn" initials="G" surname="Hagedorn">
+      <organization/>
+    </author>
+    <author fullname="Judith Devaney" initials="E" surname="Devaney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7066"/>
+  <seriesInfo name="NIST" value="NIST IR 7066"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication531.pdf">
   <front>
     <title>Summary report on the Workshop on High Temperature Chemical Kinetics :Applications to Combustion Research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.531"/>
-    <seriesInfo name="NIST" value="NBS SP 531"/>
-    <author fullname="David Garvin" initials="D." surname="Garvin"/>
+    <author fullname="David Garvin" initials="D." surname="Garvin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.531"/>
+  <seriesInfo name="NIST" value="NBS SP 531"/>
 </reference>

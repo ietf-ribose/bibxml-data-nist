@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4174.pdf">
   <front>
     <title>Tensile tests of type 305 stainless steel mine sweeping wire rope</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4174"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4174"/>
-    <author fullname="Robert Shives" initials="R." surname="Shives"/>
-    <author fullname="SamuelIII Low" initials="S.I." surname="Low"/>
+    <author fullname="Robert Shives" initials="T" surname="Shives">
+      <organization/>
+    </author>
+    <author fullname="SamuelIII Low" initials="R" surname="Low">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4174"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4174"/>
 </reference>

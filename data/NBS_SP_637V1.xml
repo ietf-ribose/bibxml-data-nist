@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.637v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication637v1.pdf">
   <front>
     <title>Optical fiber characterization</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.637v1"/>
-    <seriesInfo name="NIST" value="NBS SP 637v1"/>
-    <author surname="Danielson"/>
+    <author initials="BL" surname="Danielson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.637v1"/>
+  <seriesInfo name="NIST" value="NBS SP 637v1"/>
 </reference>

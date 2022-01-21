@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-33" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-33.pdf">
   <front>
     <title>The dopant density and temperature dependence of electron mobility and resistivity in N-type silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-33"/>
-    <seriesInfo name="NIST" value="NBS SP 400-33"/>
-    <author fullname="Sheng Li" initials="S." surname="Li"/>
+    <author fullname="Sheng Li" initials="S" surname="Li">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-33"/>
+  <seriesInfo name="NIST" value="NBS SP 400-33"/>
 </reference>

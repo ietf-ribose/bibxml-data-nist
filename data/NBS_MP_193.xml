@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub193.pdf">
   <front>
     <title>Laboratory and service tests of hand luggage/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.193"/>
-    <seriesInfo name="NIST" value="NBS MP 193"/>
-    <author fullname="Robert Hobbs" initials="R." surname="Hobbs"/>
-    <author fullname="Edward Steiner" initials="E." surname="Steiner"/>
+    <author fullname="Robert Hobbs" initials="B" surname="Hobbs">
+      <organization/>
+    </author>
+    <author fullname="Edward Steiner" initials="T" surname="Steiner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.193"/>
+  <seriesInfo name="NIST" value="NBS MP 193"/>
 </reference>

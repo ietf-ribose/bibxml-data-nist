@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.800-38b" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38b.pdf">
   <front>
     <title>Recommendation for block cipher modes of operation :the CMAC mode for authentication</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38b"/>
-    <seriesInfo name="NIST" value="NIST SP 800-38b"/>
-    <author surname="Dworkin"/>
+    <author initials="MJ" surname="Dworkin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2016"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38b"/>
+  <seriesInfo name="NIST" value="NIST SP 800-38b"/>
 </reference>

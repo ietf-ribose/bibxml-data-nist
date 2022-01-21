@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.9984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9984.pdf">
   <front>
     <title>The particle size and shape of silver alloys for dental amalgam :progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9984"/>
-    <seriesInfo name="NIST" value="NBS RPT 9984"/>
-    <author surname="Caul"/>
-    <author surname="Barton"/>
-    <author surname="Manuszewski"/>
+    <author initials="HJ" surname="Caul">
+      <organization/>
+    </author>
+    <author initials="JA" surname="Barton">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Manuszewski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9984"/>
+  <seriesInfo name="NIST" value="NBS RPT 9984"/>
 </reference>

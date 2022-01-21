@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.19-022" target="https://nvlpubs.nist.gov/nistpubs/gcr/2019/NIST.GCR.19-022.pdf">
   <front>
     <title>Formalizing ISA-95 level 3 control with smart manufacturing system models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.19-022"/>
-    <seriesInfo name="NIST" value="NIST GCR 19-022"/>
-    <author fullname="Leon McGinnis" initials="L." surname="McGinnis">
+    <author fullname="Leon McGinnis" initials="F" surname="McGinnis">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.19-022"/>
+  <seriesInfo name="NIST" value="NIST GCR 19-022"/>
 </reference>

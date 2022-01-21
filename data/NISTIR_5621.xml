@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5621" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5621.pdf">
   <front>
     <title>Early streamer emission lightning projection systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5621"/>
-    <seriesInfo name="NIST" value="NIST IR 5621"/>
-    <author fullname="RichardVan Brunt" initials="R.V." surname="Brunt"/>
-    <author fullname="Thomas Nelson" initials="T." surname="Nelson"/>
-    <author fullname="Samara Firebaugh" initials="S." surname="Firebaugh"/>
+    <author fullname="RichardVan Brunt" initials="J" surname="Brunt">
+      <organization/>
+    </author>
+    <author fullname="Thomas Nelson" initials="L" surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="Samara Firebaugh" initials="L" surname="Firebaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5621"/>
+  <seriesInfo name="NIST" value="NIST IR 5621"/>
 </reference>

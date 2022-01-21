@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6140" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6140.pdf">
   <front>
     <title>Fault classes and error detection in specification based testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6140"/>
-    <seriesInfo name="NIST" value="NIST IR 6140"/>
-    <author fullname="Richard Kuhn" initials="R." surname="Kuhn"/>
+    <author fullname="Richard Kuhn" initials="D" surname="Kuhn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6140"/>
+  <seriesInfo name="NIST" value="NIST IR 6140"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.2485" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2485.pdf">
   <front>
     <title>Evaluation of flooring materials in Army installations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2485"/>
-    <seriesInfo name="NIST" value="NBS RPT 2485"/>
-    <author fullname="Thomas Boone" initials="T." surname="Boone"/>
-    <author fullname="Percy Sigler" initials="P." surname="Sigler"/>
-    <author fullname="Hubert Snoke" initials="H." surname="Snoke"/>
+    <author fullname="Thomas Boone" initials="H" surname="Boone">
+      <organization/>
+    </author>
+    <author fullname="Percy Sigler" initials="A" surname="Sigler">
+      <organization/>
+    </author>
+    <author fullname="Hubert Snoke" initials="R" surname="Snoke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2485"/>
+  <seriesInfo name="NIST" value="NBS RPT 2485"/>
 </reference>

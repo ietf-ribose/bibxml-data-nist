@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1857" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1857.pdf">
   <front>
     <title>Assessing Effects of Asymmetries, Dynamics, and Failures on a Cloud Simulator</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1857"/>
-    <seriesInfo name="NIST" value="NIST TN 1857"/>
     <author fullname="Kevin Mills" initials="K." surname="Mills">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1857"/>
+  <seriesInfo name="NIST" value="NIST TN 1857"/>
 </reference>

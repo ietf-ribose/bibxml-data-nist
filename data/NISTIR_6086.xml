@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.6086" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6086.pdf">
   <front>
     <title>Using voluntary standards in the federal government:conference summary and view graphs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6086"/>
-    <seriesInfo name="NIST" value="NIST IR 6086"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6086"/>
+  <seriesInfo name="NIST" value="NIST IR 6086"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.160" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph160.pdf">
   <front>
     <title>Geometrical considerations and nomenclature for reflectance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.160"/>
-    <seriesInfo name="NIST" value="NBS MONO 160"/>
-    <author surname="Nicodemus"/>
-    <author surname="Richmond"/>
-    <author surname="Hsia"/>
-    <author surname="Ginsberg"/>
-    <author surname="Limperis"/>
+    <author initials="FE" surname="Nicodemus">
+      <organization/>
+    </author>
+    <author initials="JC" surname="Richmond">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Hsia">
+      <organization/>
+    </author>
+    <author initials="IW" surname="Ginsberg">
+      <organization/>
+    </author>
+    <author initials="T" surname="Limperis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.160"/>
+  <seriesInfo name="NIST" value="NBS MONO 160"/>
 </reference>

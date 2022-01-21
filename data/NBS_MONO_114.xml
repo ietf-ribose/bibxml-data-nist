@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph114.pdf">
   <front>
     <title>Survey of micromanometers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.114"/>
-    <seriesInfo name="NIST" value="NBS MONO 114"/>
-    <author surname="Brombacher"/>
+    <author initials="WG" surname="Brombacher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.114"/>
+  <seriesInfo name="NIST" value="NBS MONO 114"/>
 </reference>

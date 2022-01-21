@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.65" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph65.pdf">
   <front>
     <title>Reduction of data for piston gage pressure measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.65"/>
-    <seriesInfo name="NIST" value="NBS MONO 65"/>
-    <author surname="Cross"/>
+    <author initials="JL" surname="Cross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.65"/>
+  <seriesInfo name="NIST" value="NBS MONO 65"/>
 </reference>

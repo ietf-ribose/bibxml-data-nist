@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.1167" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1167.pdf">
   <front>
     <title>A computer data base system for indexing research papers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1167"/>
-    <seriesInfo name="NIST" value="NBS TN 1167"/>
-    <author fullname="Judith Calabrese" initials="J." surname="Calabrese"/>
-    <author fullname="Lawrence Kaetzel" initials="L." surname="Kaetzel"/>
-    <author fullname="Robert Glass" initials="R." surname="Glass"/>
-    <author fullname="George Smith" initials="G." surname="Smith"/>
+    <author fullname="Judith Calabrese" initials="T" surname="Calabrese">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Kaetzel" initials="J" surname="Kaetzel">
+      <organization/>
+    </author>
+    <author fullname="Robert Glass" initials="A" surname="Glass">
+      <organization/>
+    </author>
+    <author fullname="George Smith" initials="R" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1167"/>
+  <seriesInfo name="NIST" value="NBS TN 1167"/>
 </reference>

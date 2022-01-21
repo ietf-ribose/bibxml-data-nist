@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3896" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3896.pdf">
   <front>
     <title>Proceedings of the Federal Information Processing Standards (FIPS) Workshop on Information Resource Dictionary System (IRDS) applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3896"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3896"/>
-    <author fullname="Alan Goldfine" initials="A." surname="Goldfine"/>
+    <author fullname="Alan Goldfine" initials="A." surname="Goldfine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3896"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3896"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.386" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote386.pdf">
   <front>
     <title>A precision, high frequency calibration facility for coaxial capacitance standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.386"/>
-    <seriesInfo name="NIST" value="NBS TN 386"/>
-    <author fullname="RaymondNelson Jones" initials="R.N." surname="Jones"/>
+    <author fullname="RaymondNelson Jones" initials="R.N." surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.386"/>
+  <seriesInfo name="NIST" value="NBS TN 386"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.132-1987" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub132-1987.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: guideline for software verification and validation plans</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.132-1987"/>
-    <seriesInfo name="NIST" value="NBS FIPS 132-1987"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.132-1987"/>
+  <seriesInfo name="NIST" value="NBS FIPS 132-1987"/>
 </reference>

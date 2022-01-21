@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6871" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6871.pdf">
   <front>
     <title>Monte Carlo modeling for intravascular brachytherapy sources</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6871"/>
-    <seriesInfo name="NIST" value="NIST IR 6871"/>
-    <author fullname="Stephen Seltzer" initials="S." surname="Seltzer"/>
+    <author fullname="Stephen Seltzer" initials="M" surname="Seltzer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6871"/>
+  <seriesInfo name="NIST" value="NIST IR 6871"/>
 </reference>

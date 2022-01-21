@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.74" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook74.pdf">
   <front>
     <title>Building code requirements for reinforced masonry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.74"/>
-    <seriesInfo name="NIST" value="NBS HB 74"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.74"/>
+  <seriesInfo name="NIST" value="NBS HB 74"/>
 </reference>

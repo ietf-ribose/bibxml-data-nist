@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5609" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5609.pdf">
   <front>
     <title>Calculating time-to-contact using real-time quantized optical flow</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5609"/>
-    <seriesInfo name="NIST" value="NIST IR 5609"/>
-    <author fullname="Ted Camus" initials="T." surname="Camus"/>
+    <author fullname="Ted Camus" initials="T." surname="Camus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5609"/>
+  <seriesInfo name="NIST" value="NIST IR 5609"/>
 </reference>

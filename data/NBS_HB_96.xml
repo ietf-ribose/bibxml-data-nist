@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.96" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook96.pdf">
   <front>
     <title>Inspection of processed photographic record films for aging blemishes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.96"/>
-    <seriesInfo name="NIST" value="NBS HB 96"/>
-    <author surname="McCamy"/>
+    <author initials="CS" surname="McCamy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.96"/>
+  <seriesInfo name="NIST" value="NBS HB 96"/>
 </reference>

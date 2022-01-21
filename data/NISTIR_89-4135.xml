@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4135.pdf">
   <front>
     <title>Supercomputers need super arithmetic</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4135"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4135"/>
-    <author surname="Lozier"/>
-    <author surname="Turner"/>
+    <author initials="DW" surname="Lozier">
+      <organization/>
+    </author>
+    <author initials="PR" surname="Turner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4135"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4135"/>
 </reference>

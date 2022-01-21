@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience145.pdf">
   <front>
     <title>Investigation of construction failure of Harbour Cay Condominium in Cocoa Beach, Florida</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.145"/>
-    <seriesInfo name="NIST" value="NBS BSS 145"/>
-    <author surname="Lew"/>
-    <author surname="Carino"/>
-    <author surname="Fattal"/>
-    <author surname="Batts"/>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author initials="NJ" surname="Carino">
+      <organization/>
+    </author>
+    <author initials="SG" surname="Fattal">
+      <organization/>
+    </author>
+    <author initials="ME" surname="Batts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.145"/>
+  <seriesInfo name="NIST" value="NBS BSS 145"/>
 </reference>

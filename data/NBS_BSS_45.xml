@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.45" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience45.pdf">
   <front>
     <title>Dynamic thermal performance of an experimental masonry building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.45"/>
-    <seriesInfo name="NIST" value="NBS BSS 45"/>
-    <author fullname="Bradley Peavy" initials="B." surname="Peavy"/>
-    <author fullname="Frank Powell" initials="F." surname="Powell"/>
-    <author fullname="Douglas Burch" initials="D." surname="Burch"/>
+    <author fullname="Bradley Peavy" initials="A" surname="Peavy">
+      <organization/>
+    </author>
+    <author fullname="Frank Powell" initials="J" surname="Powell">
+      <organization/>
+    </author>
+    <author fullname="Douglas Burch" initials="M" surname="Burch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.45"/>
+  <seriesInfo name="NIST" value="NBS BSS 45"/>
 </reference>

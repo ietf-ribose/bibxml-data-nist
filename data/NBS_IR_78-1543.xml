@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-1543" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1543.pdf">
   <front>
     <title>Recommended testing and calculation procedures for determining the seasonal performance of residential central furnaces and boilers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1543"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1543"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
-    <author fullname="Joseph Chi" initials="J." surname="Chi"/>
-    <author fullname="Mark Kuklewicz" initials="M." surname="Kuklewicz"/>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Joseph Chi" initials="J." surname="Chi">
+      <organization/>
+    </author>
+    <author fullname="Mark Kuklewicz" initials="E" surname="Kuklewicz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1543"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1543"/>
 </reference>

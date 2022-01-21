@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.281" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub281.pdf">
   <front>
     <title>Bibliography on flame spectroscopy analytical applications 1800-1966/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.281"/>
-    <seriesInfo name="NIST" value="NBS MP 281"/>
-    <author surname="Mavrodineanu"/>
+    <author initials="R" surname="Mavrodineanu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.281"/>
+  <seriesInfo name="NIST" value="NBS MP 281"/>
 </reference>

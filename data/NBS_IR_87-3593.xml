@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.87-3593" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3593.pdf">
   <front>
     <title>A survey of OSI network management standards activities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3593"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3593"/>
-    <author fullname="Michael Chernick" initials="M." surname="Chernick"/>
-    <author fullname="Kevin Mills" initials="K." surname="Mills"/>
-    <author fullname="Robert Aronoff" initials="R." surname="Aronoff"/>
-    <author fullname="John Strauch" initials="J." surname="Strauch"/>
+    <author fullname="Michael Chernick" initials="C" surname="Chernick">
+      <organization/>
+    </author>
+    <author fullname="Kevin Mills" initials="K." surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="Robert Aronoff" initials="R." surname="Aronoff">
+      <organization/>
+    </author>
+    <author fullname="John Strauch" initials="W" surname="Strauch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3593"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3593"/>
 </reference>

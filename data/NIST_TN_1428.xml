@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1428" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1428.pdf">
   <front>
     <title>High-dimensional empirical linear prediction (HELP) toolbox</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1428"/>
-    <seriesInfo name="NIST" value="NIST TN 1428"/>
-    <author fullname="Andrew Koffman" initials="A." surname="Koffman"/>
+    <author fullname="Andrew Koffman" initials="D" surname="Koffman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1428"/>
+  <seriesInfo name="NIST" value="NIST TN 1428"/>
 </reference>

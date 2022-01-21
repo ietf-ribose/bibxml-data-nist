@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1871" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1871.pdf">
   <front>
     <title>xothermic Reaction of Halogenated Hydrocarbons: WORKSHOP PROCEEDINGS</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1871"/>
-    <seriesInfo name="NIST" value="NIST TN 1871"/>
-    <author fullname="Gregory Linteris" initials="G." surname="Linteris">
+    <author fullname="Gregory Linteris" initials="T" surname="Linteris">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Jeffrey Manion" initials="J." surname="Manion">
+    <author fullname="Jeffrey Manion" initials="A" surname="Manion">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1871"/>
+  <seriesInfo name="NIST" value="NIST TN 1871"/>
 </reference>

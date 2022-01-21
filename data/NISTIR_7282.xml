@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7282" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7282.pdf">
   <front>
     <title>Estimates of thermal properties for fire fighters' protective clothing materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7282"/>
-    <seriesInfo name="NIST" value="NIST IR 7282"/>
-    <author fullname="Randall Lawson" initials="R." surname="Lawson"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="Francine Amon" initials="F." surname="Amon"/>
+    <author fullname="Randall Lawson" initials="J" surname="Lawson">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="Francine Amon" initials="K" surname="Amon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7282"/>
+  <seriesInfo name="NIST" value="NIST IR 7282"/>
 </reference>

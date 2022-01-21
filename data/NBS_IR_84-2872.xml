@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2872" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2872.pdf">
   <front>
     <title>Containment of dioxin emissions from refuse fired thermal processing units</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2872"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2872"/>
-    <author fullname="Walter Shaub" initials="W." surname="Shaub"/>
+    <author fullname="Walter Shaub" initials="M" surname="Shaub">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2872"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2872"/>
 </reference>

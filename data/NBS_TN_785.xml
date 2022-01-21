@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.785" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote785.pdf">
   <front>
     <title>Scanning electron microscope examination of wire bonds from high-reliability devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.785"/>
-    <seriesInfo name="NIST" value="NBS TN 785"/>
-    <author fullname="Kathryn Leedy" initials="K." surname="Leedy"/>
+    <author fullname="Kathryn Leedy" initials="O" surname="Leedy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.785"/>
+  <seriesInfo name="NIST" value="NBS TN 785"/>
 </reference>

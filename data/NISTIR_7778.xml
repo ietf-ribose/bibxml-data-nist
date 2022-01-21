@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7778" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7778.pdf">
   <front>
     <title>Effects of JPEG 2000 image compression on 1000 ppi fingerprint imagery</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7778"/>
-    <seriesInfo name="NIST" value="NIST IR 7778"/>
-    <author fullname="Shahram Orandi" initials="S." surname="Orandi"/>
-    <author fullname="John Libert" initials="J." surname="Libert"/>
-    <author fullname="John Grantham" initials="J." surname="Grantham"/>
-    <author fullname="Kenneth Ko" initials="K." surname="Ko"/>
-    <author fullname="Stephen Wood" initials="S." surname="Wood"/>
-    <author fullname="JinChu Wu" initials="J.C." surname="Wu"/>
+    <author fullname="Shahram Orandi" initials="S." surname="Orandi">
+      <organization/>
+    </author>
+    <author fullname="John Libert" initials="M" surname="Libert">
+      <organization/>
+    </author>
+    <author fullname="John Grantham" initials="D" surname="Grantham">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Ko" initials="K." surname="Ko">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wood" initials="S" surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="JinChu Wu" initials="J.C." surname="Wu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7778"/>
+  <seriesInfo name="NIST" value="NIST IR 7778"/>
 </reference>

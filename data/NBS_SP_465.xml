@@ -1,16 +1,30 @@
 <reference anchor="NBS.SP.465" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication465.pdf">
   <front>
     <title>Science and technology in America :an assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.465"/>
-    <seriesInfo name="NIST" value="NBS SP 465"/>
-    <author fullname="Edward Teller" initials="E." surname="Teller"/>
-    <author fullname="Norman Ramsey" initials="N." surname="Ramsey"/>
-    <author fullname="William Baker" initials="W." surname="Baker"/>
-    <author fullname="Henry Eyring" initials="H." surname="Eyring"/>
-    <author fullname="Garrett Birkhoff" initials="G." surname="Birkhoff"/>
-    <author fullname="Alan Perlis" initials="A." surname="Perlis"/>
-    <author fullname="Robert Seamans" initials="R." surname="Seamans"/>
-    <author fullname="Simon Ramo" initials="S." surname="Ramo"/>
+    <author fullname="Edward Teller" initials="E." surname="Teller">
+      <organization/>
+    </author>
+    <author fullname="Norman Ramsey" initials="N." surname="Ramsey">
+      <organization/>
+    </author>
+    <author fullname="William Baker" initials="O" surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="Henry Eyring" initials="H." surname="Eyring">
+      <organization/>
+    </author>
+    <author fullname="Garrett Birkhoff" initials="G." surname="Birkhoff">
+      <organization/>
+    </author>
+    <author fullname="Alan Perlis" initials="A." surname="Perlis">
+      <organization/>
+    </author>
+    <author fullname="Robert Seamans" initials="C" surname="Seamans">
+      <organization/>
+    </author>
+    <author fullname="Simon Ramo" initials="S." surname="Ramo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.465"/>
+  <seriesInfo name="NIST" value="NBS SP 465"/>
 </reference>

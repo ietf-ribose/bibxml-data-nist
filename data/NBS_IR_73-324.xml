@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-324" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-324.pdf">
   <front>
     <title>Voice privacy equipment for law enforcement communication systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-324"/>
-    <seriesInfo name="NIST" value="NBS IR 73-324"/>
-    <author fullname="George Sugar" initials="G." surname="Sugar"/>
+    <author fullname="George Sugar" initials="R" surname="Sugar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-324"/>
+  <seriesInfo name="NIST" value="NBS IR 73-324"/>
 </reference>

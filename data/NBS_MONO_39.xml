@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.39" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph39.pdf">
   <front>
     <title>Calibration procedures for direct-current resistance apparatus</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.39"/>
-    <seriesInfo name="NIST" value="NBS MONO 39"/>
-    <author fullname="Paul Brooks" initials="P." surname="Brooks"/>
+    <author fullname="Paul Brooks" initials="PB" surname="Brooks">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.39"/>
+  <seriesInfo name="NIST" value="NBS MONO 39"/>
 </reference>

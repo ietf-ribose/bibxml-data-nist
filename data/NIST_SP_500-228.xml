@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-228" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-228.pdf">
   <front>
     <title>Guidelines for the evaluation of X.500 directory products</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-228"/>
-    <seriesInfo name="NIST" value="NIST SP 500-228"/>
-    <author fullname="John Tebbutt" initials="J." surname="Tebbutt"/>
+    <author fullname="John Tebbutt" initials="J." surname="Tebbutt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-228"/>
+  <seriesInfo name="NIST" value="NIST SP 500-228"/>
 </reference>

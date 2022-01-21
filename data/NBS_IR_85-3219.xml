@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3219" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3219.pdf">
   <front>
     <title>The application of models to the assessment of fire hazard from consumer products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3219"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3219"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3219"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3219"/>
 </reference>

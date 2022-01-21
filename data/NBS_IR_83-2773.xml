@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.83-2773" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2773.pdf">
   <front>
     <title>Characterization of millscale steel wastes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2773"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2773"/>
-    <author surname="Domalski"/>
-    <author surname="MacCrehan"/>
-    <author surname="Moody"/>
-    <author surname="Tewari"/>
-    <author surname="Walker"/>
+    <author initials="ES" surname="Domalski">
+      <organization/>
+    </author>
+    <author initials="WA" surname="MacCrehan">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Moody">
+      <organization/>
+    </author>
+    <author initials="YB" surname="Tewari">
+      <organization/>
+    </author>
+    <author initials="JA" surname="Walker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2773"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2773"/>
 </reference>

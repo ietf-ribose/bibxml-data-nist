@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1933" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1933.pdf">
   <front>
     <title>Intelligent Building Agents Laboratory: Hydronic System Design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1933"/>
-    <seriesInfo name="NIST" value="NIST TN 1933"/>
-    <author fullname="Amanda Pertzborn" initials="A." surname="Pertzborn">
+    <author fullname="Amanda Pertzborn" initials="J" surname="Pertzborn">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1933"/>
+  <seriesInfo name="NIST" value="NIST TN 1933"/>
 </reference>

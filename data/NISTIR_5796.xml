@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5796" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5796.pdf">
   <front>
     <title>Guide to a format for data on chemical admixtures in a materials property database</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5796"/>
-    <seriesInfo name="NIST" value="NIST IR 5796"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5796"/>
+  <seriesInfo name="NIST" value="NIST IR 5796"/>
 </reference>

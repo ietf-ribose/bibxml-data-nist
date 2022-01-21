@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.85-3209" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3209.pdf">
   <front>
     <title>Radiation measurements on a portable 1.5 MeV electron linac</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3209"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3209"/>
-    <author surname="Dick"/>
-    <author surname="Polansky"/>
-    <author surname="Soares"/>
-    <author surname="Seltzer"/>
+    <author initials="CE" surname="Dick">
+      <organization/>
+    </author>
+    <author initials="D" surname="Polansky">
+      <organization/>
+    </author>
+    <author initials="CG" surname="Soares">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Seltzer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3209"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3209"/>
 </reference>

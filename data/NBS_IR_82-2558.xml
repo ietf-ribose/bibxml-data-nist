@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2558" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2558.pdf">
   <front>
     <title>A life-cycle cost analysis methodology for fire protection systems in new health care facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2558"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2558"/>
-    <author fullname="Louis Clark" initials="L." surname="Clark"/>
+    <author fullname="Louis Clark" initials="P" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2558"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2558"/>
 </reference>

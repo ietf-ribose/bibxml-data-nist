@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7750" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7750.pdf">
   <front>
     <title>Biological cell feature identification by a modified watershed-merging algorithm</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7750"/>
-    <seriesInfo name="NIST" value="NIST IR 7750"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Kiran Bhadriraju" initials="K." surname="Bhadriraju"/>
-    <author fullname="John Elliott" initials="J." surname="Elliott"/>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Kiran Bhadriraju" initials="K." surname="Bhadriraju">
+      <organization/>
+    </author>
+    <author fullname="John Elliott" initials="T" surname="Elliott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7750"/>
+  <seriesInfo name="NIST" value="NIST IR 7750"/>
 </reference>

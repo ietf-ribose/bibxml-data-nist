@@ -1,11 +1,15 @@
 <reference anchor="NIST.NCSTAR.1-5f" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-5f.pdf">
   <front>
     <title>Computer simulation of the fires in the World Trade Center towers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5f"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-5f"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Charles Bouldin" initials="C." surname="Bouldin"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Charles Bouldin" initials="C." surname="Bouldin">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5f"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-5f"/>
 </reference>

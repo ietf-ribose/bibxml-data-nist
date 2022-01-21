@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-142.pdf">
   <front>
     <title>Standard Reference Materials :Primary standards and standard reference materials for electrolytic conductivity/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-142"/>
-    <seriesInfo name="NIST" value="NIST SP 260-142"/>
-    <author surname="Wu"/>
-    <author surname="Jameel"/>
+    <author initials="YC" surname="Wu">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Jameel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-142"/>
+  <seriesInfo name="NIST" value="NIST SP 260-142"/>
 </reference>

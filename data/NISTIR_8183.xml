@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8183" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8183.pdf">
   <front>
     <title>Cybersecurity framework manufacturing profile</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8183"/>
-    <seriesInfo name="NIST" value="NIST IR 8183"/>
     <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2017" month="September" day="8"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8183"/>
+  <seriesInfo name="NIST" value="NIST IR 8183"/>
 </reference>

@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.800-16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-16.pdf">
   <front>
     <title>Information technology security training requirements :a role- and performance-based model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-16"/>
-    <seriesInfo name="NIST" value="NIST SP 800-16"/>
     <author fullname="Mark Wilson" initials="M." surname="Wilson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author fullname="Dorothea de Zafra" initials="D." surname="de Zafra">
+    <author fullname="Dorothea de Zafra" initials="E" surname="de Zafra">
       <organization>Computer Security Division.</organization>
     </author>
-    <author fullname="Sadie Pitcher" initials="S." surname="Pitcher">
+    <author fullname="Sadie Pitcher" initials="I" surname="Pitcher">
       <organization>Computer Security Division.</organization>
     </author>
-    <author fullname="John Tressler" initials="J." surname="Tressler">
+    <author fullname="John Tressler" initials="D" surname="Tressler">
       <organization>Computer Security Division.</organization>
     </author>
-    <author fullname="John Ippolito" initials="J." surname="Ippolito">
+    <author fullname="John Ippolito" initials="B" surname="Ippolito">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-16"/>
+  <seriesInfo name="NIST" value="NIST SP 800-16"/>
 </reference>

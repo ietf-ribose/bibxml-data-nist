@@ -1,18 +1,16 @@
 <reference anchor="NBS.CRPL.8-1_9-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-8-1_9-4.pdf">
   <front>
     <title>The microwave frequency standard at the Central Radio Propagation Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.8-1_9-4"/>
-    <seriesInfo name="NIST" value="NBS CRPL 8-1_9-4"/>
-    <author surname="George">
+    <author initials="WD" surname="George">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
-    <author surname="Lyons">
+    <author initials="H" surname="Lyons">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
-    <author surname="Freeman">
+    <author initials="JJ" surname="Freeman">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
-    <author surname="Shaull">
+    <author initials="JM" surname="Shaull">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.8-1_9-4"/>
+  <seriesInfo name="NIST" value="NBS CRPL 8-1_9-4"/>
 </reference>

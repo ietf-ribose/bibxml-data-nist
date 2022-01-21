@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.1201" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1201.pdf">
   <front>
     <title>Measurement Challenges and Metrology for Monitoring CO2 Emissions from Smokestacks – Workshop Summary</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1201"/>
-    <seriesInfo name="NIST" value="NIST SP 1201"/>
-    <author fullname="Aaron Johnson" initials="A." surname="Johnson">
+    <author fullname="Aaron Johnson" initials="N" surname="Johnson">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Rodney Bryant" initials="R." surname="Bryant">
+    <author fullname="Rodney Bryant" initials="A" surname="Bryant">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="TamaeMaeda Wong" initials="T.M." surname="Wong">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="James Whetstone" initials="J." surname="Whetstone">
+    <author fullname="James Whetstone" initials="R" surname="Whetstone">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Toralf Dietz" initials="T." surname="Dietz">
@@ -53,4 +51,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1201"/>
+  <seriesInfo name="NIST" value="NIST SP 1201"/>
 </reference>

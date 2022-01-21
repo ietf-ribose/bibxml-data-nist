@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4748" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4748.pdf">
   <front>
     <title>The performance of chlorine-free binary zeotropic refrigerant mixtures in a heat pump</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4748"/>
-    <seriesInfo name="NIST" value="NIST IR 4748"/>
-    <author fullname="Jurgen Pannock" initials="J." surname="Pannock"/>
-    <author fullname="David Didion" initials="D." surname="Didion"/>
+    <author fullname="Jurgen Pannock" initials="J." surname="Pannock">
+      <organization/>
+    </author>
+    <author fullname="David Didion" initials="A" surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4748"/>
+  <seriesInfo name="NIST" value="NIST IR 4748"/>
 </reference>

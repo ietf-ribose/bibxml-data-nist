@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-36" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-36.pdf">
   <front>
     <title>Standard Reference MaterialsA reference method for the determination of calcium in serum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-36"/>
-    <seriesInfo name="NIST" value="NBS SP 260-36"/>
-    <author fullname="John Mandel" initials="J." surname="Mandel"/>
-    <author fullname="Donald Young" initials="D." surname="Young"/>
-    <author fullname="Paul Cali" initials="P." surname="Cali"/>
+    <author fullname="John Mandel" initials="J." surname="Mandel">
+      <organization/>
+    </author>
+    <author fullname="Donald Young" initials="S" surname="Young">
+      <organization/>
+    </author>
+    <author fullname="Paul Cali" initials="J" surname="Cali">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-36"/>
+  <seriesInfo name="NIST" value="NBS SP 260-36"/>
 </reference>

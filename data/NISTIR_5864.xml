@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5864" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5864.pdf">
   <front>
     <title>The economics of new-technology materials:a case study of FRP bridge decking</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5864"/>
-    <seriesInfo name="NIST" value="NIST IR 5864"/>
-    <author fullname="Mark Ehlen" initials="M." surname="Ehlen"/>
-    <author fullname="Harold Marshall" initials="H." surname="Marshall"/>
+    <author fullname="Mark Ehlen" initials="A" surname="Ehlen">
+      <organization/>
+    </author>
+    <author fullname="Harold Marshall" initials="E" surname="Marshall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5864"/>
+  <seriesInfo name="NIST" value="NIST IR 5864"/>
 </reference>

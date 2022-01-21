@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4847" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4847.pdf">
   <front>
     <title>The influence of ignition source on the flaming fire hazard of upholstered furniture</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4847"/>
-    <seriesInfo name="NIST" value="NIST IR 4847"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="Kay Villa" initials="K." surname="Villa"/>
+    <author fullname="Thomas Cleary" initials="G" surname="Cleary">
+      <organization/>
+    </author>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="Kay Villa" initials="M" surname="Villa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4847"/>
+  <seriesInfo name="NIST" value="NIST IR 4847"/>
 </reference>

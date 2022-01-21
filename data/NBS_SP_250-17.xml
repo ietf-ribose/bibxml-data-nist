@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.250-17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-17.pdf">
   <front>
     <title>The NBS photodetector spectral response calibration transfer program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-17"/>
-    <seriesInfo name="NIST" value="NBS SP 250-17"/>
-    <author fullname="Edward Zalewski" initials="E." surname="Zalewski"/>
+    <author fullname="Edward Zalewski" initials="F" surname="Zalewski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-17"/>
+  <seriesInfo name="NIST" value="NBS SP 250-17"/>
 </reference>

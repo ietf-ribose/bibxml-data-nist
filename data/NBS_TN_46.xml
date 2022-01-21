@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.46" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote46.pdf">
   <front>
     <title>Experimental plating of gun bores to retard erosion</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.46"/>
-    <seriesInfo name="NIST" value="NBS TN 46"/>
-    <author fullname="Vernon Lamb" initials="V." surname="Lamb"/>
+    <author fullname="Vernon Lamb" initials="A" surname="Lamb">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.46"/>
+  <seriesInfo name="NIST" value="NBS TN 46"/>
 </reference>

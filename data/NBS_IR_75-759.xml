@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.75-759" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-759.pdf">
   <front>
     <title>Standard reference materials and data for Raman spectroscopy, electron paramagnetic resonance, and magnetic moment measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-759"/>
-    <seriesInfo name="NIST" value="NBS IR 75-759"/>
-    <author surname="Bennett"/>
-    <author surname="Candela"/>
-    <author surname="Chang"/>
-    <author surname="Mundy"/>
-    <author surname="Rosasco"/>
+    <author initials="HS" surname="Bennett">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Candela">
+      <organization/>
+    </author>
+    <author initials="T" surname="Chang">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Mundy">
+      <organization/>
+    </author>
+    <author initials="GJ" surname="Rosasco">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-759"/>
+  <seriesInfo name="NIST" value="NBS IR 75-759"/>
 </reference>

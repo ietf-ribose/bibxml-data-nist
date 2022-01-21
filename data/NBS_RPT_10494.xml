@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10494" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10494.pdf">
   <front>
     <title>Fire endurance thermal analysis of construction walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10494"/>
-    <seriesInfo name="NIST" value="NBS RPT 10494"/>
-    <author fullname="Francis Fung" initials="F." surname="Fung"/>
+    <author fullname="Francis Fung" initials="CW" surname="Fung">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10494"/>
+  <seriesInfo name="NIST" value="NBS RPT 10494"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.16-917-39" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-917-39.pdf">
   <front>
     <title>Critical Assessment of Lifeline System Performance: Understanding Societal Needs in Disaster Recovery</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-39"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-917-39"/>
     <author fullname="AppliedTechnology Council" initials="A.T." surname="Council">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-39"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-917-39"/>
 </reference>

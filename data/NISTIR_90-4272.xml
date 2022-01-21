@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4272" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4272.pdf">
   <front>
     <title>Selected publications for the EMAP workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4272"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4272"/>
-    <author surname="Ku"/>
+    <author initials="HH" surname="Ku">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4272"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4272"/>
 </reference>

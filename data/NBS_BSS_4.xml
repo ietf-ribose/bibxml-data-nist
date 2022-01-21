@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience4.pdf">
   <front>
     <title>Weather resistance of porcelain enamels</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.4"/>
-    <seriesInfo name="NIST" value="NBS BSS 4"/>
-    <author fullname="Margaret Rushmer" initials="M." surname="Rushmer"/>
-    <author fullname="Milton Burdick" initials="M." surname="Burdick"/>
+    <author fullname="Margaret Rushmer" initials="A" surname="Rushmer">
+      <organization/>
+    </author>
+    <author fullname="Milton Burdick" initials="D" surname="Burdick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.4"/>
+  <seriesInfo name="NIST" value="NBS BSS 4"/>
 </reference>

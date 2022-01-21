@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5851" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5851.pdf">
   <front>
     <title>National Semiconductor Metrology Program:project portfolio, FY 1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5851"/>
-    <seriesInfo name="NIST" value="NIST IR 5851"/>
-    <author fullname="David Yaney" initials="D." surname="Yaney"/>
-    <author fullname="Alice Settle-Raskin" initials="A." surname="Settle-Raskin"/>
+    <author fullname="David Yaney" initials="S" surname="Yaney">
+      <organization/>
+    </author>
+    <author fullname="Alice Settle-Raskin" initials="D" surname="Settle-Raskin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5851"/>
+  <seriesInfo name="NIST" value="NIST IR 5851"/>
 </reference>

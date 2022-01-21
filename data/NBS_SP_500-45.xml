@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-45" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-45.pdf">
   <front>
     <title>Computer peripheral memory system forecast</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-45"/>
-    <seriesInfo name="NIST" value="NBS SP 500-45"/>
-    <author fullname="Robert Warnar" initials="R." surname="Warnar"/>
-    <author fullname="Peter Calomeris" initials="P." surname="Calomeris"/>
-    <author fullname="Steve Recicar" initials="S." surname="Recicar"/>
+    <author fullname="Robert Warnar" initials="BJ" surname="Warnar">
+      <organization/>
+    </author>
+    <author fullname="Peter Calomeris" initials="J" surname="Calomeris">
+      <organization/>
+    </author>
+    <author fullname="Steve Recicar" initials="A" surname="Recicar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-45"/>
+  <seriesInfo name="NIST" value="NBS SP 500-45"/>
 </reference>

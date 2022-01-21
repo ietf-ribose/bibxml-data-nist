@@ -1,11 +1,15 @@
 <reference anchor="NBS.TN.252" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote252.pdf">
   <front>
     <title>Procedures for precise determination of thermal radiation properties, November 1962 to October 1963</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.252"/>
-    <seriesInfo name="NIST" value="NBS TN 252"/>
-    <author fullname="Davis DeWitt" initials="D." surname="DeWitt"/>
-    <author fullname="Warren Hayes" initials="W." surname="Hayes"/>
-    <author fullname="Joseph Richmond" initials="J." surname="Richmond"/>
+    <author fullname="Davis DeWitt" initials="P" surname="DeWitt">
+      <organization/>
+    </author>
+    <author fullname="Warren Hayes" initials="D" surname="Hayes">
+      <organization/>
+    </author>
+    <author fullname="Joseph Richmond" initials="C" surname="Richmond">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.252"/>
+  <seriesInfo name="NIST" value="NBS TN 252"/>
 </reference>

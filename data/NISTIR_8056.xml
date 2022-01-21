@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8056" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8056.pdf">
   <front>
     <title>Applied and Computational Mathematics Division : Summary of Activities for Fiscal Year 2014</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8056"/>
-    <seriesInfo name="NIST" value="NIST IR 8056"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert">
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8056"/>
+  <seriesInfo name="NIST" value="NIST IR 8056"/>
 </reference>

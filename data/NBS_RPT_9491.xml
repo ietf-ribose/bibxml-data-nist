@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.9491" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9491.pdf">
   <front>
     <title>Investigation of the directional effects in the stress corrosion of aluminum alloys:annual status report for the period ending 123166</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9491"/>
-    <seriesInfo name="NIST" value="NBS RPT 9491"/>
-    <author fullname="Jerome Kruger" initials="J." surname="Kruger"/>
-    <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
-    <author fullname="Hugh Logan" initials="H." surname="Logan"/>
+    <author fullname="Jerome Kruger" initials="J." surname="Kruger">
+      <organization/>
+    </author>
+    <author fullname="Wayne Stiefel" initials="S" surname="Stiefel">
+      <organization/>
+    </author>
+    <author fullname="Hugh Logan" initials="L" surname="Logan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9491"/>
+  <seriesInfo name="NIST" value="NBS RPT 9491"/>
 </reference>

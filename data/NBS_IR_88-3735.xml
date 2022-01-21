@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.88-3735" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3735.pdf">
   <front>
     <title>Coordinated joint motion for an industrial robot</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3735"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3735"/>
-    <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
+    <author fullname="John Michaloski" initials="L" surname="Michaloski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3735"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3735"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.260-175" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-175.pdf">
   <front>
     <title>Standard Reference Materials: SRM 1453, Expanded Polystyrene Board, for Thermal Conductivity from 281 K to 313 K</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-175"/>
-    <seriesInfo name="NIST" value="NIST SP 260-175"/>
-    <author fullname="Robert Zarr" initials="R." surname="Zarr">
+    <author fullname="Robert Zarr" initials="R" surname="Zarr">
       <organization>Energy and Environment Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="Adam Pintar" initials="A." surname="Pintar">
+    <author fullname="Adam Pintar" initials="L" surname="Pintar">
       <organization>Energy and Environment Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2012" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-175"/>
+  <seriesInfo name="NIST" value="NIST SP 260-175"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.964" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication964.pdf">
   <front>
     <title>Index to the reports of the National Conference on Weights and Measures :from the first to the eighty-fifth (1905 to 2000)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.964"/>
-    <seriesInfo name="NIST" value="NIST SP 964"/>
-    <author fullname="Joan Koenig" initials="J." surname="Koenig"/>
-    <author fullname="Gail Newrock" initials="G." surname="Newrock"/>
-    <author fullname="Terry Grimes" initials="T." surname="Grimes"/>
-    <author fullname="Henry Oppermann" initials="H." surname="Oppermann"/>
+    <author fullname="Joan Koenig" initials="J." surname="Koenig">
+      <organization/>
+    </author>
+    <author fullname="Gail Newrock" initials="G." surname="Newrock">
+      <organization/>
+    </author>
+    <author fullname="Terry Grimes" initials="T." surname="Grimes">
+      <organization/>
+    </author>
+    <author fullname="Henry Oppermann" initials="V" surname="Oppermann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.964"/>
+  <seriesInfo name="NIST" value="NIST SP 964"/>
 </reference>

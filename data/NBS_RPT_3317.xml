@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.3317" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3317.pdf">
   <front>
     <title>Report on cracking in concrete block masonry construction at Naval Supply Depot, Mechanicsburg, PA</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3317"/>
-    <seriesInfo name="NIST" value="NBS RPT 3317"/>
-    <author surname="McBurney"/>
+    <author initials="JW" surname="McBurney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3317"/>
+  <seriesInfo name="NIST" value="NBS RPT 3317"/>
 </reference>

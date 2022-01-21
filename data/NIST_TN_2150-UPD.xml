@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2150-upd" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2150-upd.pdf">
   <front>
     <title>Single-Zone Simulations Using FaTIMA for Reducing Aerosol Exposure in Educational Spaces</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2150-upd"/>
-    <seriesInfo name="NIST" value="NIST TN 2150-upd"/>
     <author fullname="Lisa Ng" initials="L." surname="Ng">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Brian Polidoro" initials="B." surname="Polidoro">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Stuart Dols" initials="S." surname="Dols">
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
@@ -26,4 +24,6 @@
     </author>
     <date year="2021" month="September" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2150-upd"/>
+  <seriesInfo name="NIST" value="NIST TN 2150-upd"/>
 </reference>

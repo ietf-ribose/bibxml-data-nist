@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.356" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular356.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 356:United States government master specification for carpets and rugs, Wilton</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.356"/>
-    <seriesInfo name="NIST" value="NBS CIRC 356"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1927"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.356"/>
+  <seriesInfo name="NIST" value="NBS CIRC 356"/>
 </reference>

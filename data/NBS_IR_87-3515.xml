@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3515" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3515.pdf">
   <front>
     <title>Thermal performance of masonry chimneys and fireplaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3515"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3515"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3515"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3515"/>
 </reference>

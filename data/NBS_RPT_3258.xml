@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.3258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3258.pdf">
   <front>
     <title>A multi-channel pulse height analyzer using a CR storage tube</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3258"/>
-    <seriesInfo name="NIST" value="NBS RPT 3258"/>
-    <author fullname="James Cunningham" initials="J." surname="Cunningham"/>
+    <author fullname="James Cunningham" initials="A" surname="Cunningham">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3258"/>
+  <seriesInfo name="NIST" value="NBS RPT 3258"/>
 </reference>

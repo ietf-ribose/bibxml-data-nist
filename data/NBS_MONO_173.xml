@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.173" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph173.pdf">
   <front>
     <title>Fire Behavior of upholstered furniture</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.173"/>
-    <seriesInfo name="NIST" value="NBS MONO 173"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
-    <author fullname="John Krasny" initials="J." surname="Krasny"/>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
+    <author fullname="John Krasny" initials="J." surname="Krasny">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.173"/>
+  <seriesInfo name="NIST" value="NBS MONO 173"/>
 </reference>

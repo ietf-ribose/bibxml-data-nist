@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.50" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote50.pdf">
   <front>
     <title>Magnetic drum directory and programming system for codesorting letter mail</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.50"/>
-    <seriesInfo name="NIST" value="NBS TN 50"/>
-    <author fullname="Peter Tosini" initials="P." surname="Tosini"/>
+    <author fullname="Peter Tosini" initials="C" surname="Tosini">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.50"/>
+  <seriesInfo name="NIST" value="NBS TN 50"/>
 </reference>

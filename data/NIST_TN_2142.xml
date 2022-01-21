@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2142" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2142.pdf">
   <front>
     <title>An Evaluation Design for Comparing Netflow Based Network Anomaly Detection Systems Using Synthetic Malicious Traffic</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2142"/>
-    <seriesInfo name="NIST" value="NIST TN 2142"/>
     <author fullname="Shuvo Bardhan" initials="S." surname="Bardhan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="March" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2142"/>
+  <seriesInfo name="NIST" value="NIST TN 2142"/>
 </reference>

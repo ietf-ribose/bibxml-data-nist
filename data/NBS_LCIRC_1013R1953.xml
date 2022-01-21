@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.1013r1953" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1013r1953.pdf">
   <front>
     <title>Letter Circular 1013:methods for electroplating metals on nonconducting materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1013r1953"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1013r1953"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1013r1953"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1013r1953"/>
 </reference>

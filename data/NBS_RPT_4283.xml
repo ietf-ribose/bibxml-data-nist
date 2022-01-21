@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.4283" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4283.pdf">
   <front>
     <title>Characterization of metal-insulator laminates :progress report period of January 1955 through December 1955</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4283"/>
-    <seriesInfo name="NIST" value="NBS RPT 4283"/>
-    <author surname="Hoynes"/>
+    <author initials="DS" surname="Hoynes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4283"/>
+  <seriesInfo name="NIST" value="NBS RPT 4283"/>
 </reference>

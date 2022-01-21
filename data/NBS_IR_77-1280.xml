@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1280" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1280.pdf">
   <front>
     <title>Development, testing and evaluation of MHD-materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1280"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1280"/>
-    <author surname="Frederikse"/>
-    <author surname="Negas"/>
-    <author surname="Schneider"/>
+    <author initials="HPR" surname="Frederikse">
+      <organization/>
+    </author>
+    <author initials="T" surname="Negas">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Schneider">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1280"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1280"/>
 </reference>

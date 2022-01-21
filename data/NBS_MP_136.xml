@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub136.pdf">
   <front>
     <title>Bibliography on standardization/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.136"/>
-    <seriesInfo name="NIST" value="NBS MP 136"/>
-    <author fullname="Ann Baden" initials="A." surname="Baden"/>
+    <author fullname="Ann Baden" initials="L" surname="Baden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.136"/>
+  <seriesInfo name="NIST" value="NBS MP 136"/>
 </reference>

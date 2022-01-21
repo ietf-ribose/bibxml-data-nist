@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6066" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6066.pdf">
   <front>
     <title>Metallurgy, technical activities 1997</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6066"/>
-    <seriesInfo name="NIST" value="NIST IR 6066"/>
-    <author fullname="CA Handwerker" initials="C." surname="Handwerker"/>
-    <author surname="Schaefer"/>
+    <author fullname="CA Handwerker" initials="C." surname="Handwerker">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Schaefer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6066"/>
+  <seriesInfo name="NIST" value="NIST IR 6066"/>
 </reference>

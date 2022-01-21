@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1744" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1744.pdf">
   <front>
     <title>Annex 47 Report 2: Commissioning Tools for Existing and Low Energy Buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1744"/>
-    <seriesInfo name="NIST" value="NIST TN 1744"/>
     <author fullname="Christian Neumann" initials="C." surname="Neumann">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -48,4 +46,6 @@
     </author>
     <date year="2012" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1744"/>
+  <seriesInfo name="NIST" value="NIST TN 1744"/>
 </reference>

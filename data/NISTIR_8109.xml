@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8109" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8109.pdf">
   <front>
     <title>Tattoo Recognition Technology – Best Practices (Tatt-BP) Guidelines for Tattoo Image Collection</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8109"/>
-    <seriesInfo name="NIST" value="NIST IR 8109"/>
     <author fullname="Mei Ngan" initials="M." surname="Ngan">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Patrick Grother" initials="P." surname="Grother">
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8109"/>
+  <seriesInfo name="NIST" value="NIST IR 8109"/>
 </reference>

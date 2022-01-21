@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7198" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7198.pdf">
   <front>
     <title>Shop data model and interface specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7198"/>
-    <seriesInfo name="NIST" value="NIST IR 7198"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Guodong Shao" initials="G." surname="Shao"/>
-    <author fullname="Frank Riddick" initials="F." surname="Riddick"/>
+    <author fullname="Charles McLean" initials="C." surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Guodong Shao" initials="G." surname="Shao">
+      <organization/>
+    </author>
+    <author fullname="Frank Riddick" initials="F." surname="Riddick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7198"/>
+  <seriesInfo name="NIST" value="NIST IR 7198"/>
 </reference>

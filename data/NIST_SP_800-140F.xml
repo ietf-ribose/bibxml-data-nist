@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-140F" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140F.pdf">
   <front>
     <title>CMVP approved non-invasive attack mitigation test metrics:CMVP validation authority updates to ISOIEC 24759:2014(E)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140F"/>
-    <seriesInfo name="NIST" value="NIST SP 800-140F"/>
     <author fullname="Kim Schaffer" initials="K." surname="Schaffer">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140F"/>
+  <seriesInfo name="NIST" value="NIST SP 800-140F"/>
 </reference>

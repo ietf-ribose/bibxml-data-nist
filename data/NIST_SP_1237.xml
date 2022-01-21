@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1237" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1237.pdf">
   <front>
     <title>Carbon dioxide biogenic vs anthropogenic sectoral contribution for the Indianapolis Flux Experiment (INFLUX)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1237"/>
-    <seriesInfo name="NIST" value="NIST SP 1237"/>
     <author fullname="Israel Lopez-Coto" initials="I." surname="Lopez-Coto">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="James Whetstone" initials="J." surname="Whetstone">
+    <author fullname="James Whetstone" initials="R" surname="Whetstone">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1237"/>
+  <seriesInfo name="NIST" value="NIST SP 1237"/>
 </reference>

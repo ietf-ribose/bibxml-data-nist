@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5172" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5172.pdf">
   <front>
     <title>Building and Fire Research Laboratory publications, 1992</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5172"/>
-    <seriesInfo name="NIST" value="NIST IR 5172"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5172"/>
+  <seriesInfo name="NIST" value="NIST IR 5172"/>
 </reference>

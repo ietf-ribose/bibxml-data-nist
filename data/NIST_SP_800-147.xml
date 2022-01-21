@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.800-147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-147.pdf">
   <front>
     <title>BIOS protection guidelines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-147"/>
-    <seriesInfo name="NIST" value="NIST SP 800-147"/>
-    <author surname="Cooper"/>
-    <author surname="Polk"/>
-    <author surname="Regenscheid"/>
-    <author surname="Souppaya"/>
+    <author initials="DA" surname="Cooper">
+      <organization/>
+    </author>
+    <author initials="WT" surname="Polk">
+      <organization/>
+    </author>
+    <author initials="AR" surname="Regenscheid">
+      <organization/>
+    </author>
+    <author initials="MP" surname="Souppaya">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-147"/>
+  <seriesInfo name="NIST" value="NIST SP 800-147"/>
 </reference>

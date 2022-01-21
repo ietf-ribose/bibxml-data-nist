@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.926" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication926.pdf">
   <front>
     <title>Poster Papers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.926"/>
-    <seriesInfo name="NIST" value="NIST SP 926"/>
-    <author fullname="Wolfgang Wiese" initials="W." surname="Wiese"/>
-    <author fullname="Wolfgang Wiese" initials="W." surname="Wiese"/>
-    <author fullname="Peter Mohr" initials="P." surname="Mohr"/>
+    <author fullname="Wolfgang Wiese" initials="L" surname="Wiese">
+      <organization/>
+    </author>
+    <author fullname="Wolfgang Wiese" initials="L" surname="Wiese">
+      <organization/>
+    </author>
+    <author fullname="Peter Mohr" initials="J" surname="Mohr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.926"/>
+  <seriesInfo name="NIST" value="NIST SP 926"/>
 </reference>

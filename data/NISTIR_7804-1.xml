@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7804-1" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7804-1.pdf">
   <front>
     <title>Technical Evaluation, Testing, and Validation of the Usability of Electronic Health Records: Empirically Based Use Cases for Validating Safety-Enhanced Usability and Guidelines for Standardization</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7804-1"/>
-    <seriesInfo name="NIST" value="NIST IR 7804-1"/>
-    <author fullname="Svetlana Lowry" initials="S." surname="Lowry">
+    <author fullname="Svetlana Lowry" initials="Z" surname="Lowry">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Mala Ramaiah" initials="M." surname="Ramaiah">
@@ -12,7 +10,7 @@
     <author fullname="Sheryl Taylor" initials="S." surname="Taylor">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Emily Patterson" initials="E." surname="Patterson">
+    <author fullname="Emily Patterson" initials="S" surname="Patterson">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Sandra Spickard Prettyman" initials="S." surname="Spickard Prettyman">
@@ -27,7 +25,7 @@
     <author fullname="Paul Latkany" initials="P." surname="Latkany">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Gibbons" initials="M." surname="Gibbons">
+    <author fullname="Michael Gibbons" initials="C" surname="Gibbons">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -35,4 +33,6 @@
     </author>
     <date year="2015" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7804-1"/>
+  <seriesInfo name="NIST" value="NIST IR 7804-1"/>
 </reference>

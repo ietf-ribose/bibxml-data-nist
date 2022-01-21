@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5379" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5379.pdf">
   <front>
     <title>U.S. Navy coordinate measuring machines:a study of needs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5379"/>
-    <seriesInfo name="NIST" value="NIST IR 5379"/>
-    <author fullname="Howard Harary" initials="H." surname="Harary"/>
-    <author fullname="Shaw Feng" initials="S." surname="Feng"/>
+    <author fullname="Howard Harary" initials="H." surname="Harary">
+      <organization/>
+    </author>
+    <author fullname="Shaw Feng" initials="S." surname="Feng">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5379"/>
+  <seriesInfo name="NIST" value="NIST IR 5379"/>
 </reference>

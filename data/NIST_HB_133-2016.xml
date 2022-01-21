@@ -1,12 +1,10 @@
 <reference anchor="NIST.HB.133-2016" target="https://nvlpubs.nist.gov/nistpubs/hb/2016/NIST.HB.133-2016.pdf">
   <front>
     <title>Checking the Net Contents of Packaged Goods (NIST HB 133-2016)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.133-2016"/>
-    <seriesInfo name="NIST" value="NIST HB 133-2016"/>
-    <author fullname="Linda Crown" initials="L." surname="Crown">
+    <author fullname="Linda Crown" initials="D" surname="Crown">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="David Sefcik" initials="D." surname="Sefcik">
+    <author fullname="David Sefcik" initials="A" surname="Sefcik">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Lisa Warfield" initials="L." surname="Warfield">
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.133-2016"/>
+  <seriesInfo name="NIST" value="NIST HB 133-2016"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-596" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-596.pdf">
   <front>
     <title>Radiative heat transfer from products of combustion in building corridor fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-596"/>
-    <seriesInfo name="NIST" value="NBS IR 74-596"/>
-    <author surname="Bromberg"/>
-    <author surname="Quintere"/>
+    <author initials="K" surname="Bromberg">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Quintere">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-596"/>
+  <seriesInfo name="NIST" value="NBS IR 74-596"/>
 </reference>

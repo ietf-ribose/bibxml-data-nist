@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.4540" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4540.pdf">
   <front>
     <title>A Boussinesq algorithm for enclosed buoyant convection in two dimensions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4540"/>
-    <seriesInfo name="NIST" value="NIST IR 4540"/>
-    <author surname="Rehm"/>
-    <author surname="Tang"/>
-    <author surname="Sims"/>
-    <author surname="Baum"/>
-    <author surname="Corley"/>
+    <author initials="RG" surname="Rehm">
+      <organization/>
+    </author>
+    <author initials="HC" surname="Tang">
+      <organization/>
+    </author>
+    <author initials="HR" surname="Sims">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Baum">
+      <organization/>
+    </author>
+    <author initials="DM" surname="Corley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4540"/>
+  <seriesInfo name="NIST" value="NIST IR 4540"/>
 </reference>

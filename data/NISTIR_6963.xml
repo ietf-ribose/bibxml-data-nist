@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6963" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6963.pdf">
   <front>
     <title>Standard reference photometer for the assay of ozone in calibration atmospheres</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6963"/>
-    <seriesInfo name="NIST" value="NIST IR 6963"/>
-    <author surname="Paur"/>
-    <author surname="Bass"/>
-    <author surname="Norris"/>
-    <author surname="Buckley"/>
+    <author initials="RJ" surname="Paur">
+      <organization/>
+    </author>
+    <author initials="AM" surname="Bass">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Norris">
+      <organization/>
+    </author>
+    <author initials="TJ" surname="Buckley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6963"/>
+  <seriesInfo name="NIST" value="NIST IR 6963"/>
 </reference>

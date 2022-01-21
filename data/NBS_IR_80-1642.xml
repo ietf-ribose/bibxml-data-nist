@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-1642" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1642.pdf">
   <front>
     <title>Development of standards for superconductors :annual report FY 80</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1642"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1642"/>
-    <author surname="Fickett"/>
-    <author surname="Goodrich"/>
-    <author surname="Clark"/>
+    <author initials="FR" surname="Fickett">
+      <organization/>
+    </author>
+    <author initials="LF" surname="Goodrich">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1642"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1642"/>
 </reference>

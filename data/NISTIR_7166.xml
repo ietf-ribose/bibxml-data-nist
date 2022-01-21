@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7166.pdf">
   <front>
     <title>Achieving intelligent performance in autonomous driving</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7166"/>
-    <seriesInfo name="NIST" value="NIST IR 7166"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
-    <author fullname="John Evans" initials="J." surname="Evans"/>
-    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff"/>
-    <author fullname="Tony Barbera" initials="T." surname="Barbera"/>
-    <author fullname="Elena Messina" initials="E." surname="Messina"/>
-    <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky"/>
+    <author fullname="James Albus" initials="J." surname="Albus">
+      <organization/>
+    </author>
+    <author fullname="John Evans" initials="J." surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization/>
+    </author>
+    <author fullname="Tony Barbera" initials="T." surname="Barbera">
+      <organization/>
+    </author>
+    <author fullname="Elena Messina" initials="E." surname="Messina">
+      <organization/>
+    </author>
+    <author fullname="Stephen Balakirsky" initials="S." surname="Balakirsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7166"/>
+  <seriesInfo name="NIST" value="NIST IR 7166"/>
 </reference>

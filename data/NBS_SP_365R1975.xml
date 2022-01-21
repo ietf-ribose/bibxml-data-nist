@@ -1,8 +1,6 @@
 <reference anchor="NBS.SP.365r1975" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication365r1975.pdf">
   <front>
     <title>Matric conversion card</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.365r1975"/>
-    <seriesInfo name="NIST" value="NBS SP 365r1975"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.365r1975"/>
+  <seriesInfo name="NIST" value="NBS SP 365r1975"/>
 </reference>

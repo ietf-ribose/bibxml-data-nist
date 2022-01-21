@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote984.pdf">
   <front>
     <title>Evaluation of plastic wallcovering materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.984"/>
-    <seriesInfo name="NIST" value="NBS TN 984"/>
-    <author fullname="Elizabeth Clark" initials="E." surname="Clark"/>
+    <author fullname="Elizabeth Clark" initials="J" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.984"/>
+  <seriesInfo name="NIST" value="NBS TN 984"/>
 </reference>

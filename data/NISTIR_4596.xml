@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4596" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4596.pdf">
   <front>
     <title>Task decomposition and algorithm development for real-time motion control of a continuous mining machine</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4596"/>
-    <seriesInfo name="NIST" value="NIST IR 4596"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
-    <author fullname="JohnAlbert Horst" initials="J.A." surname="Horst"/>
-    <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="JohnAlbert Horst" initials="J.A." surname="Horst">
+      <organization/>
+    </author>
+    <author fullname="Richard Quintero" initials="R." surname="Quintero">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4596"/>
+  <seriesInfo name="NIST" value="NIST IR 4596"/>
 </reference>

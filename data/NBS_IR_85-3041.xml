@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3041" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3041.pdf">
   <front>
     <title>Rasmussen, Alvin L.; Franzen, Douglas L.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3041"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3041"/>
-    <author surname="Rasmussen"/>
-    <author fullname="Douglas Franzen" initials="D." surname="Franzen"/>
+    <author initials="AL" surname="Rasmussen">
+      <organization/>
+    </author>
+    <author fullname="Douglas Franzen" initials="L" surname="Franzen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3041"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3041"/>
 </reference>

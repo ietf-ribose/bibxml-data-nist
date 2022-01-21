@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.77-1380" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1380.pdf">
   <front>
     <title>Experimental determinations of temperatures and power losses at the electrical connections of some duplex receptacles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1380"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1380"/>
-    <author surname="Burns"/>
-    <author surname="Scroger"/>
-    <author surname="Evans"/>
-    <author surname="Beausoliel"/>
-    <author surname="Meese"/>
+    <author initials="GW" surname="Burns">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Scroger">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Beausoliel">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Meese">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1380"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1380"/>
 </reference>

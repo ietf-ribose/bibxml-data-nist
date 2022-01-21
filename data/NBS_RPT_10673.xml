@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10673" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10673.pdf">
   <front>
     <title>A method for evaluating and testing the sharpness of points</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10673"/>
-    <seriesInfo name="NIST" value="NBS RPT 10673"/>
-    <author fullname="John Moore" initials="J." surname="Moore"/>
+    <author fullname="John Moore" initials="D" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10673"/>
+  <seriesInfo name="NIST" value="NBS RPT 10673"/>
 </reference>

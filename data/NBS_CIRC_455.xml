@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.455" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular455.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 455:flameproofing of textiles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.455"/>
-    <seriesInfo name="NIST" value="NBS CIRC 455"/>
-    <author fullname="Marjorie Sandholzer" initials="M." surname="Sandholzer"/>
+    <author fullname="Marjorie Sandholzer" initials="W" surname="Sandholzer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1946"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.455"/>
+  <seriesInfo name="NIST" value="NBS CIRC 455"/>
 </reference>

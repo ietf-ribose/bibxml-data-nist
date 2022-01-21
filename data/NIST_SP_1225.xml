@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1225" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1225.pdf">
   <front>
     <title>Standard reference data workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1225"/>
-    <seriesInfo name="NIST" value="NIST SP 1225"/>
     <author fullname="Debra Kaiser" initials="D." surname="Kaiser">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -45,4 +43,6 @@
     </author>
     <date year="2018" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1225"/>
+  <seriesInfo name="NIST" value="NIST SP 1225"/>
 </reference>

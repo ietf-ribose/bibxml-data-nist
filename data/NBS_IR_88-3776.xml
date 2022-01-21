@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3776.pdf">
   <front>
     <title>The GRAMPS operating system :user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3776"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3776"/>
-    <author fullname="Peter Manbach" initials="P." surname="Manbach"/>
-    <author fullname="Michael Shneier" initials="M." surname="Shneier"/>
+    <author fullname="Peter Manbach" initials="P." surname="Manbach">
+      <organization/>
+    </author>
+    <author fullname="Michael Shneier" initials="M." surname="Shneier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3776"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3776"/>
 </reference>

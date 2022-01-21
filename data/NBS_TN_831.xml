@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.831" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote831.pdf">
   <front>
     <title>Introduction to liquid flow metering and calibration of liquid flowmeters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.831"/>
-    <seriesInfo name="NIST" value="NBS TN 831"/>
-    <author fullname="Lief Olsen" initials="L." surname="Olsen"/>
+    <author fullname="Lief Olsen" initials="O" surname="Olsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.831"/>
+  <seriesInfo name="NIST" value="NBS TN 831"/>
 </reference>

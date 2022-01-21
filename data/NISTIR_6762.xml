@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6762" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6762.pdf">
   <front>
     <title>Standards for seismic safety for existing federally owned and leased buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6762"/>
-    <seriesInfo name="NIST" value="NIST IR 6762"/>
-    <author fullname="Stephen Cauffman" initials="S." surname="Cauffman"/>
-    <author surname="Lew"/>
+    <author fullname="Stephen Cauffman" initials="A" surname="Cauffman">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6762"/>
+  <seriesInfo name="NIST" value="NIST IR 6762"/>
 </reference>

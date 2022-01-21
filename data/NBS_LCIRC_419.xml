@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.419" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular419.pdf">
   <front>
     <title>Letter Circular 419:information on refrigeration (replaces Letter Circular 30)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.419"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 419"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1934"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.419"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 419"/>
 </reference>

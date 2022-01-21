@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7911" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7911.pdf">
   <front>
     <title>Assessment of Real-Time Factory Performance Through the Application of Multi-Relationship Evaluation Design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7911"/>
-    <seriesInfo name="NIST" value="NIST IR 7911"/>
-    <author fullname="Brian Weiss" initials="B." surname="Weiss">
+    <author fullname="Brian Weiss" initials="A" surname="Weiss">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="John Horst" initials="J." surname="Horst">
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7911"/>
+  <seriesInfo name="NIST" value="NIST IR 7911"/>
 </reference>

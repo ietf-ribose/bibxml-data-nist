@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7496" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7496.pdf">
   <front>
     <title>Long term sustainment workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7496"/>
-    <seriesInfo name="NIST" value="NIST IR 7496"/>
-    <author fullname="Joshua Lubell" initials="J." surname="Lubell"/>
-    <author fullname="Mahesh Mani" initials="M." surname="Mani"/>
-    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
+    <author fullname="Joshua Lubell" initials="J." surname="Lubell">
+      <organization/>
+    </author>
+    <author fullname="Mahesh Mani" initials="M." surname="Mani">
+      <organization/>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization/>
+    </author>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7496"/>
+  <seriesInfo name="NIST" value="NIST IR 7496"/>
 </reference>

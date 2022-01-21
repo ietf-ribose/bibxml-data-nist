@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.98" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures98.pdf">
   <front>
     <title>Physical properties of terrazzo aggregates</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.98"/>
-    <seriesInfo name="NIST" value="NBS BMS 98"/>
-    <author fullname="Daniel Kessler" initials="D." surname="Kessler"/>
-    <author fullname="Arthur Hockman" initials="A." surname="Hockman"/>
-    <author fullname="Ross Anderson" initials="R." surname="Anderson"/>
+    <author fullname="Daniel Kessler" initials="W" surname="Kessler">
+      <organization/>
+    </author>
+    <author fullname="Arthur Hockman" initials="A." surname="Hockman">
+      <organization/>
+    </author>
+    <author fullname="Ross Anderson" initials="E" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1943"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.98"/>
+  <seriesInfo name="NIST" value="NBS BMS 98"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5873" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5873.pdf">
   <front>
     <title>Intracycle evaporative cooling in a vapor compression cycle</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5873"/>
-    <seriesInfo name="NIST" value="NIST IR 5873"/>
-    <author fullname="ByungSoon Kim" initials="B.S." surname="Kim"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
+    <author fullname="ByungSoon Kim" initials="B.S." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5873"/>
+  <seriesInfo name="NIST" value="NIST IR 5873"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6715" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6715.pdf">
   <front>
     <title>MSID's virtual library &amp; office automation continuous improvement projects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6715"/>
-    <seriesInfo name="NIST" value="NIST IR 6715"/>
-    <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
-    <author fullname="Kristy Thompson" initials="K." surname="Thompson"/>
+    <author fullname="Sharon Kemmerer" initials="J" surname="Kemmerer">
+      <organization/>
+    </author>
+    <author fullname="Kristy Thompson" initials="D" surname="Thompson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6715"/>
+  <seriesInfo name="NIST" value="NIST IR 6715"/>
 </reference>

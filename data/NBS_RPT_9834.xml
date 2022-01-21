@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.9834" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9834.pdf">
   <front>
     <title>Surface protection of maraging steel :quarterly progress report no. 9</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9834"/>
-    <seriesInfo name="NIST" value="NBS RPT 9834"/>
-    <author surname="Lamb"/>
-    <author surname="Young"/>
-    <author surname="Reid"/>
+    <author initials="VA" surname="Lamb">
+      <organization/>
+    </author>
+    <author initials="JP" surname="Young">
+      <organization/>
+    </author>
+    <author initials="GI" surname="Reid">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9834"/>
+  <seriesInfo name="NIST" value="NBS RPT 9834"/>
 </reference>

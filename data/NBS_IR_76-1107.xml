@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1107" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1107.pdf">
   <front>
     <title>Considerations in developing test methods for protective headgear</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1107"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1107"/>
-    <author fullname="Robert Berger" initials="R." surname="Berger"/>
+    <author fullname="Robert Berger" initials="E" surname="Berger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1107"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1107"/>
 </reference>

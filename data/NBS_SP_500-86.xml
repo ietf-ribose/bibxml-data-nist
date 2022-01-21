@@ -1,8 +1,6 @@
 <reference anchor="NBS.SP.500-86" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-86.pdf">
   <front>
     <title>An architecture for database management standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-86"/>
-    <seriesInfo name="NIST" value="NBS SP 500-86"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-86"/>
+  <seriesInfo name="NIST" value="NBS SP 500-86"/>
 </reference>

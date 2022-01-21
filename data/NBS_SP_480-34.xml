@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.480-34" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-34.pdf">
   <front>
     <title>Test method for the evaluation of metallic window foil for intrusion alarm systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-34"/>
-    <seriesInfo name="NIST" value="NBS SP 480-34"/>
-    <author fullname="Gerald Stenbakken" initials="G." surname="Stenbakken"/>
+    <author fullname="Gerald Stenbakken" initials="N" surname="Stenbakken">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-34"/>
+  <seriesInfo name="NIST" value="NBS SP 480-34"/>
 </reference>

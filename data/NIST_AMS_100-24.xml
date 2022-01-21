@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.100-24" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-24.pdf">
   <front>
     <title>Proceedings of the 10th model-based enterprise summit (MBE 2019)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-24"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-24"/>
     <author fullname="Thomas Hedberg" initials="T." surname="Hedberg">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-24"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-24"/>
 </reference>

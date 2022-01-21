@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-102" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-102.pdf">
   <front>
     <title>Standard Reference MaterialsHolmium oxide solution wavelength standard from 240 to 640 nm</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-102"/>
-    <seriesInfo name="NIST" value="NBS SP 260-102"/>
-    <author surname="Eckerle"/>
-    <author surname="Mavrodineanu"/>
-    <author surname="Velapoldi"/>
-    <author surname="Adams"/>
-    <author surname="Weidner"/>
+    <author initials="KL" surname="Eckerle">
+      <organization/>
+    </author>
+    <author initials="R" surname="Mavrodineanu">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Velapoldi">
+      <organization/>
+    </author>
+    <author initials="B" surname="Adams">
+      <organization/>
+    </author>
+    <author initials="VR" surname="Weidner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-102"/>
+  <seriesInfo name="NIST" value="NBS SP 260-102"/>
 </reference>

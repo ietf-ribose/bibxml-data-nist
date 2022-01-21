@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-692" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-692.pdf">
   <front>
     <title>A minicomputer-based system for the measurement and analysis of community noise</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-692"/>
-    <seriesInfo name="NIST" value="NBS IR 75-692"/>
-    <author surname="Fisher"/>
-    <author surname="Blomquist"/>
-    <author surname="Forrer"/>
-    <author surname="Corley"/>
+    <author initials="RL" surname="Fisher">
+      <organization/>
+    </author>
+    <author initials="DS" surname="Blomquist">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Forrer">
+      <organization/>
+    </author>
+    <author initials="DM" surname="Corley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-692"/>
+  <seriesInfo name="NIST" value="NBS IR 75-692"/>
 </reference>

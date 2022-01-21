@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-67" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-67.pdf">
   <front>
     <title>The SRI hierarchical development methodology (HDM) and its application to the development of secure software</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-67"/>
-    <seriesInfo name="NIST" value="NBS SP 500-67"/>
-    <author fullname="Karl Levitt" initials="K." surname="Levitt"/>
-    <author fullname="Peter Neumann" initials="P." surname="Neumann"/>
-    <author fullname="Lawrence Robinson" initials="L." surname="Robinson"/>
+    <author fullname="Karl Levitt" initials="N" surname="Levitt">
+      <organization/>
+    </author>
+    <author fullname="Peter Neumann" initials="P." surname="Neumann">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Robinson" initials="L." surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-67"/>
+  <seriesInfo name="NIST" value="NBS SP 500-67"/>
 </reference>

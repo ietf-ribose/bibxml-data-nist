@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8104-12" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8104-12.pdf">
   <front>
     <title>NIST time and frequency bulletin-December 2016</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8104-12"/>
-    <seriesInfo name="NIST" value="NIST IR 8104-12"/>
     <author fullname="Karen Hansen Lichtfuss" initials="K." surname="Hansen Lichtfuss">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8104-12"/>
+  <seriesInfo name="NIST" value="NIST IR 8104-12"/>
 </reference>

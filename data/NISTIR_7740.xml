@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7740" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7740.pdf">
   <front>
     <title>Comparison of confidence intervals for large operational biometric data by parametric and non-parametric methods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7740"/>
-    <seriesInfo name="NIST" value="NIST IR 7740"/>
-    <author fullname="SuLan Cheng" initials="S.L." surname="Cheng"/>
-    <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
-    <author fullname="John Lu" initials="J." surname="Lu"/>
+    <author fullname="SuLan Cheng" initials="S.L." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="Ross Micheals" initials="J" surname="Micheals">
+      <organization/>
+    </author>
+    <author fullname="John Lu" initials="ZQ" surname="Lu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7740"/>
+  <seriesInfo name="NIST" value="NIST IR 7740"/>
 </reference>

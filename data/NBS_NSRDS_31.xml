@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.31" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds31.pdf">
   <front>
     <title>Bond dissociation energies in simple molecules</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.31"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 31"/>
-    <author fullname="deB Darwent" initials="d." surname="Darwent"/>
+    <author fullname="deB Darwent" initials="B" surname="Darwent">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.31"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 31"/>
 </reference>

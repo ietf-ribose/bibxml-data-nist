@@ -1,10 +1,12 @@
 <reference anchor="NIST.NCSTAR.1-2a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-2a.pdf">
   <front>
     <title>Reference structural models and baseline performance analysis of the World Trade Center towers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-2a"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-2a"/>
-    <author fullname="William Faschan" initials="W." surname="Faschan"/>
-    <author fullname="Richard Garlock" initials="R." surname="Garlock"/>
+    <author fullname="William Faschan" initials="J" surname="Faschan">
+      <organization/>
+    </author>
+    <author fullname="Richard Garlock" initials="B" surname="Garlock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-2a"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-2a"/>
 </reference>

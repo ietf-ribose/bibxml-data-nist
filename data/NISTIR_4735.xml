@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4735" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4735.pdf">
   <front>
     <title>Validating STEP application models at the National PDES Testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4735"/>
-    <seriesInfo name="NIST" value="NIST IR 4735"/>
-    <author fullname="Katherine Morris" initials="K." surname="Morris"/>
-    <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
-    <author fullname="David Sauder" initials="D." surname="Sauder"/>
+    <author fullname="Katherine Morris" initials="C" surname="Morris">
+      <organization/>
+    </author>
+    <author fullname="Mary Mitchell" initials="J" surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="David Sauder" initials="A" surname="Sauder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4735"/>
+  <seriesInfo name="NIST" value="NIST IR 4735"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5972" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5972.pdf">
   <front>
     <title>A method for application of powders to test fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5972"/>
-    <seriesInfo name="NIST" value="NBS RPT 5972"/>
-    <author surname="Robertson"/>
-    <author surname="Lee"/>
+    <author initials="AF" surname="Robertson">
+      <organization/>
+    </author>
+    <author initials="TG" surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5972"/>
+  <seriesInfo name="NIST" value="NBS RPT 5972"/>
 </reference>

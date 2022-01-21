@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.66" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph66.pdf">
   <front>
     <title>Electron optical studies of low-pressure gases</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.66"/>
-    <seriesInfo name="NIST" value="NBS MONO 66"/>
-    <author surname="Marton"/>
-    <author fullname="David Schubert" initials="D." surname="Schubert"/>
-    <author surname="Mielczarek"/>
+    <author initials="L" surname="Marton">
+      <organization/>
+    </author>
+    <author fullname="David Schubert" initials="C" surname="Schubert">
+      <organization/>
+    </author>
+    <author initials="SR" surname="Mielczarek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.66"/>
+  <seriesInfo name="NIST" value="NBS MONO 66"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.627" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote627.pdf">
   <front>
     <title>Computation of spectral data for a Josephson junction circuit</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.627"/>
-    <seriesInfo name="NIST" value="NBS TN 627"/>
-    <author fullname="EricGunnar Johnson" initials="E.G." surname="Johnson"/>
+    <author fullname="EricGunnar Johnson" initials="E.G." surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.627"/>
+  <seriesInfo name="NIST" value="NBS TN 627"/>
 </reference>

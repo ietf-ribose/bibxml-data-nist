@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-503" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-503.pdf">
   <front>
     <title>Development of a dynamic pressure calibration technique :a progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-503"/>
-    <seriesInfo name="NIST" value="NBS IR 74-503"/>
-    <author fullname="Carol Vezzetti" initials="C." surname="Vezzetti"/>
-    <author fullname="Paul Lederer" initials="P." surname="Lederer"/>
-    <author fullname="John Hilten" initials="J." surname="Hilten"/>
+    <author fullname="Carol Vezzetti" initials="F" surname="Vezzetti">
+      <organization/>
+    </author>
+    <author fullname="Paul Lederer" initials="S" surname="Lederer">
+      <organization/>
+    </author>
+    <author fullname="John Hilten" initials="S" surname="Hilten">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-503"/>
+  <seriesInfo name="NIST" value="NBS IR 74-503"/>
 </reference>

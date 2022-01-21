@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6287" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6287.pdf">
   <front>
     <title>Benchmark development for the evaluation of visualization for data mining</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6287"/>
-    <seriesInfo name="NIST" value="NIST IR 6287"/>
-    <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
-    <author fullname="Georges Grinstein" initials="G." surname="Grinstein"/>
-    <author fullname="Patrick Hoffman" initials="P." surname="Hoffman"/>
-    <author fullname="Ronald Pickett" initials="R." surname="Pickett"/>
+    <author fullname="Sharon Laskowski" initials="J" surname="Laskowski">
+      <organization/>
+    </author>
+    <author fullname="Georges Grinstein" initials="G" surname="Grinstein">
+      <organization/>
+    </author>
+    <author fullname="Patrick Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Ronald Pickett" initials="M" surname="Pickett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6287"/>
+  <seriesInfo name="NIST" value="NIST IR 6287"/>
 </reference>

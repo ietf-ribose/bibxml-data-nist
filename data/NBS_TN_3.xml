@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote3.pdf">
   <front>
     <title>Detwinning quartz crystals.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.3"/>
-    <seriesInfo name="NIST" value="NBS TN 3"/>
-    <author fullname="FrancisPhilo Phelps" initials="F.P." surname="Phelps"/>
+    <author fullname="FrancisPhilo Phelps" initials="F.P." surname="Phelps">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.3"/>
+  <seriesInfo name="NIST" value="NBS TN 3"/>
 </reference>

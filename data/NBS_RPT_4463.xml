@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.4463" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4463.pdf">
   <front>
     <title>Current-intensity, voltage-intensity, and current-voltage characteristics of runway- and approach-light lamps</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4463"/>
-    <seriesInfo name="NIST" value="NBS RPT 4463"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4463"/>
+  <seriesInfo name="NIST" value="NBS RPT 4463"/>
 </reference>

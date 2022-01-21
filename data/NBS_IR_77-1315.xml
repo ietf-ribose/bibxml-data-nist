@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1315" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1315.pdf">
   <front>
     <title>Simulated precipitation reference materials II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1315"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1315"/>
-    <author surname="Taylor"/>
-    <author surname="Deardorff"/>
-    <author surname="Rains"/>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Deardorff">
+      <organization/>
+    </author>
+    <author initials="TC" surname="Rains">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1315"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1315"/>
 </reference>

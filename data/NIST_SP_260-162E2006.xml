@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-162e2006" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-162e2006.pdf">
   <front>
     <title>Standard Reference Materials :Compilation of NIST higher-order methods for the determination of electrolytes in clinical materials/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-162e2006"/>
-    <seriesInfo name="NIST" value="NIST SP 260-162e2006"/>
-    <author fullname="Karen Murphy" initials="K." surname="Murphy"/>
-    <author fullname="Stephen Long" initials="S." surname="Long"/>
+    <author fullname="Karen Murphy" initials="E" surname="Murphy">
+      <organization/>
+    </author>
+    <author fullname="Stephen Long" initials="E" surname="Long">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-162e2006"/>
+  <seriesInfo name="NIST" value="NIST SP 260-162e2006"/>
 </reference>

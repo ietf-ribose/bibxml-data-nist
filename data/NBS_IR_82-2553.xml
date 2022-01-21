@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2553" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2553.pdf">
   <front>
     <title>Development of interim performance criteria for restoration coatings for porcelain enamel surfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2553"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2553"/>
-    <author fullname="James Seiler" initials="J." surname="Seiler"/>
-    <author fullname="Paul Campbell" initials="P." surname="Campbell"/>
+    <author fullname="James Seiler" initials="F" surname="Seiler">
+      <organization/>
+    </author>
+    <author fullname="Paul Campbell" initials="G" surname="Campbell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2553"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2553"/>
 </reference>

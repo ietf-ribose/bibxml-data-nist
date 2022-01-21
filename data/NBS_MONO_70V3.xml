@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.70v3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph70v3.pdf">
   <front>
     <title>Microwave spectral tables :volume III. polyatomic molecules with internal rotation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v3"/>
-    <seriesInfo name="NIST" value="NBS MONO 70v3"/>
-    <author fullname="Paul Wacker" initials="P." surname="Wacker"/>
-    <author fullname="Marian Cord" initials="M." surname="Cord"/>
-    <author fullname="Donald Burkhard" initials="D." surname="Burkhard"/>
-    <author fullname="Jean Petersen" initials="J." surname="Petersen"/>
-    <author fullname="Raymond Kukol" initials="R." surname="Kukol"/>
+    <author fullname="Paul Wacker" initials="F" surname="Wacker">
+      <organization/>
+    </author>
+    <author fullname="Marian Cord" initials="S" surname="Cord">
+      <organization/>
+    </author>
+    <author fullname="Donald Burkhard" initials="G" surname="Burkhard">
+      <organization/>
+    </author>
+    <author fullname="Jean Petersen" initials="D" surname="Petersen">
+      <organization/>
+    </author>
+    <author fullname="Raymond Kukol" initials="F" surname="Kukol">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v3"/>
+  <seriesInfo name="NIST" value="NBS MONO 70v3"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.154sup" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular154sup.pdf">
   <front>
     <title>Supplement to Circular no. 154:abridged volume correction table for petroleum oils</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.154sup"/>
-    <seriesInfo name="NIST" value="NBS CIRC 154sup"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.154sup"/>
+  <seriesInfo name="NIST" value="NBS CIRC 154sup"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.CIRC.562sup1" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular562sup1.pdf">
   <front>
     <title>Supplement to National Bureau of Standards Circular no. 562:bibliography of research on deuterium and tritium compounds 1953 and 1954</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.562sup1"/>
-    <seriesInfo name="NIST" value="NBS CIRC 562sup1"/>
-    <author fullname="Virginia Johnson" initials="V." surname="Johnson"/>
-    <author fullname="Lawrence Brown" initials="L." surname="Brown"/>
-    <author fullname="Abraham Friedman" initials="A." surname="Friedman"/>
+    <author fullname="Virginia Johnson" initials="R" surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Brown" initials="M" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Abraham Friedman" initials="S" surname="Friedman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.562sup1"/>
+  <seriesInfo name="NIST" value="NBS CIRC 562sup1"/>
 </reference>

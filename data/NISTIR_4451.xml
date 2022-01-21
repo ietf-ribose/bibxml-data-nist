@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4451" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4451.pdf">
   <front>
     <title>U.S. Department of Commerce:methodology for certifying sensitive computer applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4451"/>
-    <seriesInfo name="NIST" value="NIST IR 4451"/>
-    <author fullname="Edward Roback" initials="E." surname="Roback"/>
+    <author fullname="Edward Roback" initials="E." surname="Roback">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4451"/>
+  <seriesInfo name="NIST" value="NIST IR 4451"/>
 </reference>

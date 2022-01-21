@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7340" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7340.pdf">
   <front>
     <title>NIST intercomparison exercise program for organic contaminants in the marine environment:description and results of 2005 organic intercomparison exercises</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7340"/>
-    <seriesInfo name="NIST" value="NIST IR 7340"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Reenie Parris" initials="R." surname="Parris"/>
-    <author fullname="Dianne Poster" initials="D." surname="Poster"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="John Kucklick" initials="R" surname="Kucklick">
+      <organization/>
+    </author>
+    <author fullname="Reenie Parris" initials="M" surname="Parris">
+      <organization/>
+    </author>
+    <author fullname="Dianne Poster" initials="L" surname="Poster">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7340"/>
+  <seriesInfo name="NIST" value="NIST IR 7340"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1780" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1780.pdf">
   <front>
     <title>Towards Smart Fire Panels</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1780"/>
-    <seriesInfo name="NIST" value="NIST TN 1780"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1780"/>
+  <seriesInfo name="NIST" value="NIST TN 1780"/>
 </reference>

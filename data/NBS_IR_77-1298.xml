@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1298" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1298.pdf">
   <front>
     <title>Power lawn mowers :ease of pull</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1298"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1298"/>
-    <author surname="Pezoldt"/>
-    <author surname="Persensky"/>
+    <author initials="VJ" surname="Pezoldt">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Persensky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1298"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1298"/>
 </reference>

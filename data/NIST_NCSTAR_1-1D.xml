@@ -1,10 +1,12 @@
 <reference anchor="NIST.NCSTAR.1-1d" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-1d.pdf">
   <front>
     <title>Fire protection and life safety provisions applied to the design and construction of WTC 1, 2, and 7 and post-construction provisions applied after occupancy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1d"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-1d"/>
-    <author fullname="Raymond Grill" initials="R." surname="Grill"/>
-    <author fullname="Duane Johnson" initials="D." surname="Johnson"/>
+    <author fullname="Raymond Grill" initials="A" surname="Grill">
+      <organization/>
+    </author>
+    <author fullname="Duane Johnson" initials="A" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1d"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-1d"/>
 </reference>

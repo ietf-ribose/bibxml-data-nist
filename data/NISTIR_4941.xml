@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4941" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4941.pdf">
   <front>
     <title>Selected publications for the Advanced Mass Measurements Workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4941"/>
-    <seriesInfo name="NIST" value="NIST IR 4941"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4941"/>
+  <seriesInfo name="NIST" value="NIST IR 4941"/>
 </reference>

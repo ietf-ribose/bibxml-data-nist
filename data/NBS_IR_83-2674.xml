@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2674" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2674.pdf">
   <front>
     <title>Error analysis for the National Bureau of Standards 1016 mm guarded hot plate</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2674"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2674"/>
-    <author fullname="Brian Rennex" initials="B." surname="Rennex"/>
+    <author fullname="Brian Rennex" initials="B." surname="Rennex">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2674"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2674"/>
 </reference>

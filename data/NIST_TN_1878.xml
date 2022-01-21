@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1878" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1878.pdf">
   <front>
     <title>Building Industry Reporting and Design for Sustainability (BIRDS) New Residential Database Technical Manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1878"/>
-    <seriesInfo name="NIST" value="NIST TN 1878"/>
-    <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
+    <author fullname="Joshua Kneifel" initials="D" surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Priya Lavappa" initials="P." surname="Lavappa">
+    <author fullname="Priya Lavappa" initials="D" surname="Lavappa">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Anne Greig" initials="A." surname="Greig">
+    <author fullname="Anne Greig" initials="L" surname="Greig">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Sangwon Suh" initials="S." surname="Suh">
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1878"/>
+  <seriesInfo name="NIST" value="NIST TN 1878"/>
 </reference>

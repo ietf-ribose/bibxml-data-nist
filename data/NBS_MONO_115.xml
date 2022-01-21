@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.115" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph115.pdf">
   <front>
     <title>The Calculation of rotational energy levels and rotational line intensities in diatomic molecules</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.115"/>
-    <seriesInfo name="NIST" value="NBS MONO 115"/>
-    <author fullname="Jon Hougen" initials="J." surname="Hougen"/>
+    <author fullname="Jon Hougen" initials="T" surname="Hougen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.115"/>
+  <seriesInfo name="NIST" value="NBS MONO 115"/>
 </reference>

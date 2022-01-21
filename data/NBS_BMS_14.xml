@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures14.pdf">
   <front>
     <title>Indentation and recovery of low-cost floor coverings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.14"/>
-    <seriesInfo name="NIST" value="NBS BMS 14"/>
-    <author surname="Sigler"/>
-    <author fullname="Myrtle Woodward" initials="M." surname="Woodward"/>
+    <author initials="PA" surname="Sigler">
+      <organization/>
+    </author>
+    <author fullname="Myrtle Woodward" initials="B" surname="Woodward">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1939"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.14"/>
+  <seriesInfo name="NIST" value="NBS BMS 14"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6176" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6176.pdf">
   <front>
     <title>Process measurement assurance program for U.S. State Metrology Laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6176"/>
-    <seriesInfo name="NIST" value="NIST IR 6176"/>
-    <author fullname="Jerry Everhart" initials="J." surname="Everhart"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris"/>
+    <author fullname="Jerry Everhart" initials="L" surname="Everhart">
+      <organization/>
+    </author>
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6176"/>
+  <seriesInfo name="NIST" value="NIST IR 6176"/>
 </reference>

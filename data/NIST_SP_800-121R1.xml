@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-121r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-121r1.pdf">
   <front>
     <title>Guide to bluetooth security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-121r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-121r1"/>
-    <author surname="Padgette">
+    <author initials="J" surname="Padgette">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Chen">
+    <author initials="L" surname="Chen">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-121r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-121r1"/>
 </reference>

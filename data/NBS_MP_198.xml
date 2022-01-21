@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.198" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub198.pdf">
   <front>
     <title>Annual report 1949 National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.198"/>
-    <seriesInfo name="NIST" value="NBS MP 198"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.198"/>
+  <seriesInfo name="NIST" value="NBS MP 198"/>
 </reference>

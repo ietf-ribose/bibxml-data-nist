@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5998" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5998.pdf">
   <front>
     <title>User's guide for the SQL Test suite, version 6.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5998"/>
-    <seriesInfo name="NIST" value="NIST IR 5998"/>
-    <author fullname="David Flater" initials="D." surname="Flater"/>
-    <author fullname="Leonard Gallagher" initials="L." surname="Gallagher"/>
-    <author fullname="Shirley Hurwitz" initials="S." surname="Hurwitz"/>
-    <author fullname="Joan Sullivan" initials="J." surname="Sullivan"/>
+    <author fullname="David Flater" initials="D." surname="Flater">
+      <organization/>
+    </author>
+    <author fullname="Leonard Gallagher" initials="L." surname="Gallagher">
+      <organization/>
+    </author>
+    <author fullname="Shirley Hurwitz" initials="S." surname="Hurwitz">
+      <organization/>
+    </author>
+    <author fullname="Joan Sullivan" initials="J." surname="Sullivan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5998"/>
+  <seriesInfo name="NIST" value="NIST IR 5998"/>
 </reference>

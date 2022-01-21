@@ -1,8 +1,6 @@
 <reference anchor="NBS.TIBM.18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TIBM/nbstibm18.pdf">
   <front>
     <title>Painting plaster</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TIBM.18"/>
-    <seriesInfo name="NIST" value="NBS TIBM 18"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TIBM.18"/>
+  <seriesInfo name="NIST" value="NBS TIBM 18"/>
 </reference>

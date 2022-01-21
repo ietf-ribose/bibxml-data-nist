@@ -1,12 +1,18 @@
 <reference anchor="NBS.MONO.11" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph11.pdf">
   <front>
     <title>Conductive flooring for hospital operating rooms</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.11"/>
-    <seriesInfo name="NIST" value="NBS MONO 11"/>
-    <author fullname="Thomas Boone" initials="T." surname="Boone"/>
-    <author fullname="Francis Hermach" initials="F." surname="Hermach"/>
-    <author fullname="Edgar MacArthur" initials="E." surname="MacArthur"/>
-    <author fullname="Rita McAuliff" initials="R." surname="McAuliff"/>
+    <author fullname="Thomas Boone" initials="H" surname="Boone">
+      <organization/>
+    </author>
+    <author fullname="Francis Hermach" initials="L" surname="Hermach">
+      <organization/>
+    </author>
+    <author fullname="Edgar MacArthur" initials="H" surname="MacArthur">
+      <organization/>
+    </author>
+    <author fullname="Rita McAuliff" initials="C" surname="McAuliff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.11"/>
+  <seriesInfo name="NIST" value="NBS MONO 11"/>
 </reference>

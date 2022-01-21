@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1409" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1409.pdf">
   <front>
     <title>The equation of state for ammonia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1409"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1409"/>
-    <author fullname="Lester Haar" initials="L." surname="Haar"/>
-    <author fullname="John Gallagher" initials="J." surname="Gallagher"/>
+    <author fullname="Lester Haar" initials="L." surname="Haar">
+      <organization/>
+    </author>
+    <author fullname="John Gallagher" initials="J." surname="Gallagher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1409"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1409"/>
 </reference>

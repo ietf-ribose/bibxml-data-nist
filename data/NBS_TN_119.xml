@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.119" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote119.pdf">
   <front>
     <title>Computer simulation of street traffic.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.119"/>
-    <seriesInfo name="NIST" value="NBS TN 119"/>
-    <author fullname="Martin Stark" initials="M." surname="Stark"/>
+    <author fullname="Martin Stark" initials="C" surname="Stark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.119"/>
+  <seriesInfo name="NIST" value="NBS TN 119"/>
 </reference>

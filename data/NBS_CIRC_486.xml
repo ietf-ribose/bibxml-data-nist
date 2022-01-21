@@ -1,10 +1,12 @@
 <reference anchor="NBS.CIRC.486" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular486.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 486:thermal expansion of solids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.486"/>
-    <seriesInfo name="NIST" value="NBS CIRC 486"/>
-    <author fullname="Peter Hidnert" initials="P." surname="Hidnert"/>
-    <author fullname="Wilmer Souder" initials="W." surname="Souder"/>
+    <author fullname="Peter Hidnert" initials="P." surname="Hidnert">
+      <organization/>
+    </author>
+    <author fullname="Wilmer Souder" initials="W." surname="Souder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.486"/>
+  <seriesInfo name="NIST" value="NBS CIRC 486"/>
 </reference>

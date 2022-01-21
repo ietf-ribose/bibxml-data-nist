@@ -1,9 +1,7 @@
 <reference anchor="NBS.CRPL.4-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-3.pdf">
   <front>
     <title>Sunspots and very high frequency radio transmission</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.4-3"/>
-    <seriesInfo name="NIST" value="NBS CRPL 4-3"/>
-    <author fullname="Kenneth Norton" initials="K." surname="Norton">
+    <author fullname="Kenneth Norton" initials="A" surname="Norton">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.4-3"/>
+  <seriesInfo name="NIST" value="NBS CRPL 4-3"/>
 </reference>

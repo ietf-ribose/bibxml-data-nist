@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1062" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1062.pdf">
   <front>
     <title>Performance metrics for intelligent systems (PERMIS) workshop, 2006</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1062"/>
-    <seriesInfo name="NIST" value="NIST SP 1062"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1062"/>
+  <seriesInfo name="NIST" value="NIST SP 1062"/>
 </reference>

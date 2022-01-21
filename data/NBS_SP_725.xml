@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.725" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication725.pdf">
   <front>
     <title>Report of the 71st National Conference on Weights and Measures 1986</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.725"/>
-    <seriesInfo name="NIST" value="NBS SP 725"/>
-    <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
-    <author fullname="Carroll Brickenkamp" initials="C." surname="Brickenkamp"/>
-    <author fullname="Ann Heffernan" initials="A." surname="Heffernan"/>
+    <author fullname="Albert Tholen" initials="D" surname="Tholen">
+      <organization/>
+    </author>
+    <author fullname="Carroll Brickenkamp" initials="S" surname="Brickenkamp">
+      <organization/>
+    </author>
+    <author fullname="Ann Heffernan" initials="P" surname="Heffernan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.725"/>
+  <seriesInfo name="NIST" value="NBS SP 725"/>
 </reference>

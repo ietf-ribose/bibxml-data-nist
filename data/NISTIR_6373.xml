@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6373" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6373.pdf">
   <front>
     <title>Economic impacts of flow-control machining technologies :early applications in the automobile industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6373"/>
-    <seriesInfo name="NIST" value="NIST IR 6373"/>
-    <author fullname="Mark Ehlen" initials="M." surname="Ehlen"/>
+    <author fullname="Mark Ehlen" initials="A" surname="Ehlen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6373"/>
+  <seriesInfo name="NIST" value="NIST IR 6373"/>
 </reference>

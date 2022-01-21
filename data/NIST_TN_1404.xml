@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1404" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1404.pdf">
   <front>
     <title>Thermodynamic properties of homogeneous mixtures of nitrogen and water from 440 to 1000 K, up to 100 MPa and 0.8 mole fraction N₂</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1404"/>
-    <seriesInfo name="NIST" value="NIST TN 1404"/>
-    <author fullname="John Gallagher" initials="J." surname="Gallagher"/>
+    <author fullname="John Gallagher" initials="S" surname="Gallagher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1404"/>
+  <seriesInfo name="NIST" value="NIST TN 1404"/>
 </reference>

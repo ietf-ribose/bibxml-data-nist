@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4419" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4419.pdf">
   <front>
     <title>Seismic instrumentation of existing buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4419"/>
-    <seriesInfo name="NIST" value="NIST IR 4419"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4419"/>
+  <seriesInfo name="NIST" value="NIST IR 4419"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.AMS.200-4" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.200-4.pdf">
   <front>
     <title>STEP file analyzer user's guide (version 4)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-4"/>
-    <seriesInfo name="NIST" value="NIST AMS 200-4"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="August" day="17"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-4"/>
+  <seriesInfo name="NIST" value="NIST AMS 200-4"/>
 </reference>

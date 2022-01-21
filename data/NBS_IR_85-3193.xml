@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3193.pdf">
   <front>
     <title>Preliminary recommendations for maintenance of factory coated metal siding and roofing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3193"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3193"/>
-    <author fullname="Mary McNight" initials="M." surname="McNight"/>
-    <author fullname="Robert Mathew" initials="R." surname="Mathew"/>
-    <author fullname="Richard Drisko" initials="R." surname="Drisko"/>
+    <author fullname="Mary McNight" initials="C" surname="McNight">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathew" initials="G" surname="Mathew">
+      <organization/>
+    </author>
+    <author fullname="Richard Drisko" initials="W" surname="Drisko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3193"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3193"/>
 </reference>

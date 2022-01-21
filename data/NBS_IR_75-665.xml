@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-665" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-665.pdf">
   <front>
     <title>Point-to-point trip management program (preliminary analysis)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-665"/>
-    <seriesInfo name="NIST" value="NBS IR 75-665"/>
-    <author fullname="William Kienstra" initials="W." surname="Kienstra"/>
-    <author fullname="Daniel Minnick" initials="D." surname="Minnick"/>
+    <author fullname="William Kienstra" initials="G" surname="Kienstra">
+      <organization/>
+    </author>
+    <author fullname="Daniel Minnick" initials="J" surname="Minnick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-665"/>
+  <seriesInfo name="NIST" value="NBS IR 75-665"/>
 </reference>

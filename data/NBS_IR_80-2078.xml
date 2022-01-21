@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-2078" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2078.pdf">
   <front>
     <title>The NBS gage block calibration process using a measurement assurance program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2078"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2078"/>
-    <author fullname="Clyde Tucker" initials="C." surname="Tucker"/>
+    <author fullname="Clyde Tucker" initials="D" surname="Tucker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2078"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2078"/>
 </reference>

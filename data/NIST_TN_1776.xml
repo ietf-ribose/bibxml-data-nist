@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1776" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1776.pdf">
   <front>
     <title>Best Practices for Sample Collection and Transport During an Initial Response to Potential Biothreat Materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1776"/>
-    <seriesInfo name="NIST" value="NIST TN 1776"/>
-    <author fullname="Autumn Downey" initials="A." surname="Downey">
+    <author fullname="Autumn Downey" initials="S" surname="Downey">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Lisa Delaney" initials="L." surname="Delaney">
+    <author fullname="Lisa Delaney" initials="J" surname="Delaney">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jayne Morrow" initials="J." surname="Morrow">
+    <author fullname="Jayne Morrow" initials="B" surname="Morrow">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2012" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1776"/>
+  <seriesInfo name="NIST" value="NIST TN 1776"/>
 </reference>

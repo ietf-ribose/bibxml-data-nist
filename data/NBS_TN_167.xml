@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.167" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote167.pdf">
   <front>
     <title>The error rates in multiple FSK systems and the signal-to-noise characteristics of FM and PCM-FS systems.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.167"/>
-    <seriesInfo name="NIST" value="NBS TN 167"/>
-    <author surname="Akima"/>
+    <author initials="H" surname="Akima">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.167"/>
+  <seriesInfo name="NIST" value="NBS TN 167"/>
 </reference>

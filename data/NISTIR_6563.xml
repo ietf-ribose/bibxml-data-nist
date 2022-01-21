@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.6563" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6563.pdf">
   <front>
     <title>Fire safety of passenger trains; phase III :evaluation of fire hazard analysis using full-scale passenger rail car tests</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6563"/>
-    <seriesInfo name="NIST" value="NIST IR 6563"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Jason Averill" initials="J." surname="Averill"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Jason Averill" initials="D" surname="Averill">
+      <organization/>
+    </author>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
+      <organization/>
+    </author>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6563"/>
+  <seriesInfo name="NIST" value="NIST IR 6563"/>
 </reference>

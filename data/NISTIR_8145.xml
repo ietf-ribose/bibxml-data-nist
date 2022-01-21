@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8145" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8145.pdf">
   <front>
     <title>A Comparative Analysis of NIST Charpy Machines and Internal Reference Materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8145"/>
-    <seriesInfo name="NIST" value="NIST IR 8145"/>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Raymond Santoyo" initials="R." surname="Santoyo">
+    <author fullname="Raymond Santoyo" initials="L" surname="Santoyo">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8145"/>
+  <seriesInfo name="NIST" value="NIST IR 8145"/>
 </reference>

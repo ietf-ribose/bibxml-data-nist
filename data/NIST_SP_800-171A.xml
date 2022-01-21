@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-171A" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171A.pdf">
   <front>
     <title>Assessing security requirements for controlled unclassified information</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-171A"/>
-    <seriesInfo name="NIST" value="NIST SP 800-171A"/>
     <author fullname="Ross Ron" initials="R." surname="Ron">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-171A"/>
+  <seriesInfo name="NIST" value="NIST SP 800-171A"/>
 </reference>

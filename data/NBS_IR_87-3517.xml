@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3517" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3517.pdf">
   <front>
     <title>The cooling effect of a single evaporating droplet on a hot semi-infinite metal body</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3517"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3517"/>
-    <author fullname="Marino di Marzo" initials="M." surname="di Marzo"/>
-    <author fullname="Anil Trehan" initials="A." surname="Trehan"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
+    <author fullname="Marino di Marzo" initials="M." surname="di Marzo">
+      <organization/>
+    </author>
+    <author fullname="Anil Trehan" initials="K" surname="Trehan">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3517"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3517"/>
 </reference>

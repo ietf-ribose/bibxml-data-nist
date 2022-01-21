@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-418" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-418.pdf">
   <front>
     <title>Test methods for determining coaxial cable response to bending strain, bulk compression (hydrostatic pressure), axial strain, and torsional strain</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-418"/>
-    <seriesInfo name="NIST" value="NBS IR 73-418"/>
-    <author surname="Mayo-Wells"/>
-    <author surname="Edelman"/>
+    <author initials="JF" surname="Mayo-Wells">
+      <organization/>
+    </author>
+    <author initials="S" surname="Edelman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-418"/>
+  <seriesInfo name="NIST" value="NBS IR 73-418"/>
 </reference>

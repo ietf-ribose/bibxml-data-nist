@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.716" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote716.pdf">
   <front>
     <title>The ideal lovibond color system for C I E standard illuminants A and C shown in three colorimetric systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.716"/>
-    <seriesInfo name="NIST" value="NBS TN 716"/>
-    <author fullname="GeraldineWalker Haupt" initials="G.W." surname="Haupt"/>
+    <author fullname="GeraldineWalker Haupt" initials="G.W." surname="Haupt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.716"/>
+  <seriesInfo name="NIST" value="NBS TN 716"/>
 </reference>

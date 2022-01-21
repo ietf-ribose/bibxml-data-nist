@@ -1,42 +1,40 @@
 <reference anchor="NIST.SP.800-63b" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf">
   <front>
     <title>Digital identity guidelines: authentication and lifecycle management</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63b"/>
-    <seriesInfo name="NIST" value="NIST SP 800-63b"/>
-    <author fullname="Paul Grassi" initials="P." surname="Grassi">
+    <author fullname="Paul Grassi" initials="A" surname="Grassi">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="James Fenton" initials="J." surname="Fenton">
+    <author fullname="James Fenton" initials="L" surname="Fenton">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Elaine Newton" initials="E." surname="Newton">
+    <author fullname="Elaine Newton" initials="M" surname="Newton">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ray Perlner" initials="R." surname="Perlner">
+    <author fullname="Ray Perlner" initials="A" surname="Perlner">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+    <author fullname="Andrew Regenscheid" initials="R" surname="Regenscheid">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="William Burr" initials="W." surname="Burr">
+    <author fullname="William Burr" initials="E" surname="Burr">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Justin Richer" initials="J." surname="Richer">
+    <author fullname="Justin Richer" initials="P" surname="Richer">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Naomi Lefkovitz" initials="N." surname="Lefkovitz">
+    <author fullname="Naomi Lefkovitz" initials="B" surname="Lefkovitz">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jamie Danker" initials="J." surname="Danker">
+    <author fullname="Jamie Danker" initials="M" surname="Danker">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Yee-Yin Choong" initials="Y." surname="Choong">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Kristen Greene" initials="K." surname="Greene">
+    <author fullname="Kristen Greene" initials="K" surname="Greene">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+    <author fullname="Mary Theofanos" initials="F" surname="Theofanos">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -51,4 +49,6 @@
     </author>
     <date year="2017" month="June" day="22"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63b"/>
+  <seriesInfo name="NIST" value="NIST SP 800-63b"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-147B" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-147B.pdf">
   <front>
     <title>BIOS Protection Guidelines for Servers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-147B"/>
-    <seriesInfo name="NIST" value="NIST SP 800-147B"/>
     <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2008" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-147B"/>
+  <seriesInfo name="NIST" value="NIST SP 800-147B"/>
 </reference>

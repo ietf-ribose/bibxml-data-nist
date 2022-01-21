@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1150" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1150.pdf">
   <front>
     <title>Wildland-Urban Interface Fire Research Needs : Workshop Summary Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1150"/>
-    <seriesInfo name="NIST" value="NIST SP 1150"/>
-    <author fullname="Joan Pellegrino" initials="J." surname="Pellegrino">
+    <author fullname="Joan Pellegrino" initials="L" surname="Pellegrino">
       <organization>Fire Research Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner">
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
       <organization>Fire Research Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="Erik Johnsson" initials="E." surname="Johnsson">
+    <author fullname="Erik Johnsson" initials="L" surname="Johnsson">
       <organization>Fire Research Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1150"/>
+  <seriesInfo name="NIST" value="NIST SP 1150"/>
 </reference>

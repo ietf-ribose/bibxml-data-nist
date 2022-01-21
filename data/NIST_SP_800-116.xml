@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-116" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf">
   <front>
     <title>A recommendation for the use of PIV credentials in Physical Access Control Systems (PACS)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-116"/>
-    <seriesInfo name="NIST" value="NIST SP 800-116"/>
-    <author surname="MacGregor">
+    <author initials="WI" surname="MacGregor">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Mehta">
+    <author initials="K" surname="Mehta">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Cooper">
+    <author initials="DA" surname="Cooper">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-116"/>
+  <seriesInfo name="NIST" value="NIST SP 800-116"/>
 </reference>

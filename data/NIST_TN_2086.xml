@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.2086" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2086.pdf">
   <front>
     <title>A review of social media use during disaster response and recovery phases</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2086"/>
-    <seriesInfo name="NIST" value="NIST TN 2086"/>
-    <author fullname="Camila Young" initials="C." surname="Young">
+    <author fullname="Camila Young" initials="E" surname="Young">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Aashna Pradhan" initials="A." surname="Pradhan">
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2086"/>
+  <seriesInfo name="NIST" value="NIST TN 2086"/>
 </reference>

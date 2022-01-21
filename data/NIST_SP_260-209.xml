@@ -1,33 +1,31 @@
 <reference anchor="NIST.SP.260-209" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-209.pdf">
   <front>
     <title>Certification of Standard Reference Material® 1993 / ERM®-FD306 Zeta Potential – Colloidal Silica (Nominal Mass Fraction 2.2 %)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-209"/>
-    <seriesInfo name="NIST" value="NIST SP 260-209"/>
-    <author surname="Ramaye">
+    <author initials="Y" surname="Ramaye">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Kestens">
+    <author initials="V" surname="Kestens">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Charoud-Got">
+    <author initials="J" surname="Charoud-Got">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Mazoua">
+    <author initials="S" surname="Mazoua">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Auclair">
+    <author initials="G" surname="Auclair">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Cho">
+    <author initials="TJ" surname="Cho">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Toman">
+    <author initials="B" surname="Toman">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Hackley">
+    <author initials="VA" surname="Hackley">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author surname="Linsinger">
+    <author initials="T" surname="Linsinger">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -35,4 +33,6 @@
     </author>
     <date year="2020" month="November" day="24"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-209"/>
+  <seriesInfo name="NIST" value="NIST SP 260-209"/>
 </reference>

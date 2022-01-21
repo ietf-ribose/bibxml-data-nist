@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.1104" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1104.pdf">
   <front>
     <title>The FCC public message services policy change :an ETIP evaluability assessment report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1104"/>
-    <seriesInfo name="NIST" value="NBS TN 1104"/>
-    <author fullname="James Bell" initials="J." surname="Bell"/>
-    <author fullname="Sharon Kirby" initials="S." surname="Kirby"/>
-    <author fullname="Roland Weiss" initials="R." surname="Weiss"/>
-    <author fullname="Steve Watson" initials="S." surname="Watson"/>
+    <author fullname="James Bell" initials="J." surname="Bell">
+      <organization/>
+    </author>
+    <author fullname="Sharon Kirby" initials="S." surname="Kirby">
+      <organization/>
+    </author>
+    <author fullname="Roland Weiss" initials="G" surname="Weiss">
+      <organization/>
+    </author>
+    <author fullname="Steve Watson" initials="S." surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1104"/>
+  <seriesInfo name="NIST" value="NBS TN 1104"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.178-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub178-2.pdf">
   <front>
     <title>Supplement to national directory of commodity specifications/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.178-2"/>
-    <seriesInfo name="NIST" value="NBS MP 178-2"/>
-    <author surname="Thompson"/>
-    <author fullname="Paul Cooley" initials="P." surname="Cooley"/>
+    <author initials="GN" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Paul Cooley" initials="A" surname="Cooley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.178-2"/>
+  <seriesInfo name="NIST" value="NBS MP 178-2"/>
 </reference>

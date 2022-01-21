@@ -1,12 +1,10 @@
 <reference anchor="NIST.GCR.15-1001" target="https://nvlpubs.nist.gov/nistpubs/gcr/2014/NIST.GCR.15-1001.pdf">
   <front>
     <title>The Economic Impacts of Early Stage Consensus Standards Development: A Case Study of Nanotechnology Documentary Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-1001"/>
-    <seriesInfo name="NIST" value="NIST GCR 15-1001"/>
-    <author fullname="John Scott" initials="J." surname="Scott">
+    <author fullname="John Scott" initials="T" surname="Scott">
       <organization>Laboratory Programs</organization>
     </author>
-    <author fullname="David Leech" initials="D." surname="Leech">
+    <author fullname="David Leech" initials="P" surname="Leech">
       <organization>Laboratory Programs</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2014" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-1001"/>
+  <seriesInfo name="NIST" value="NIST GCR 15-1001"/>
 </reference>

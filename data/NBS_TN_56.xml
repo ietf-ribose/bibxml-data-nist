@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.56" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote56.pdf">
   <front>
     <title>A bibliography of the physical equilibria and related properties of some cryogenic systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.56"/>
-    <seriesInfo name="NIST" value="NBS TN 56"/>
-    <author fullname="Thomas Flynn" initials="T." surname="Flynn"/>
+    <author fullname="Thomas Flynn" initials="M" surname="Flynn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.56"/>
+  <seriesInfo name="NIST" value="NBS TN 56"/>
 </reference>

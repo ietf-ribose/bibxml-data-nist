@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.500-334" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-334.pdf">
   <front>
     <title>Contactless Fingerprint Capture and Data Interchange Best Practice Recommendation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-334"/>
-    <seriesInfo name="NIST" value="NIST SP 500-334"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Craig Watson" initials="C." surname="Watson">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Libert" initials="J." surname="Libert">
+    <author fullname="John Libert" initials="M" surname="Libert">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
+    <author fullname="Gregory Fiumara" initials="P" surname="Fiumara">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Grantham" initials="J." surname="Grantham">
+    <author fullname="John Grantham" initials="D" surname="Grantham">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="March" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-334"/>
+  <seriesInfo name="NIST" value="NIST SP 500-334"/>
 </reference>

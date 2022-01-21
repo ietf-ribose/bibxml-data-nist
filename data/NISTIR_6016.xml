@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6016" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6016.pdf">
   <front>
     <title>Non-mechanical image rotation using an AODP (Acousto-Optic Dove Prism)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6016"/>
-    <seriesInfo name="NIST" value="NIST IR 6016"/>
-    <author fullname="EungGi Paek" initials="E.G." surname="Paek"/>
-    <author fullname="Joon Choe" initials="J." surname="Choe"/>
-    <author fullname="Tae Oh" initials="T." surname="Oh"/>
-    <author fullname="John Hong" initials="J." surname="Hong"/>
-    <author fullname="Tallis Chang" initials="T." surname="Chang"/>
+    <author fullname="EungGi Paek" initials="E.G." surname="Paek">
+      <organization/>
+    </author>
+    <author fullname="Joon Choe" initials="Y" surname="Choe">
+      <organization/>
+    </author>
+    <author fullname="Tae Oh" initials="K" surname="Oh">
+      <organization/>
+    </author>
+    <author fullname="John Hong" initials="H" surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="Tallis Chang" initials="Y" surname="Chang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6016"/>
+  <seriesInfo name="NIST" value="NIST IR 6016"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6637" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6637.pdf">
   <front>
     <title>Seamless frusta creation for stray-light management in optical devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6637"/>
-    <seriesInfo name="NIST" value="NIST IR 6637"/>
-    <author fullname="Edward Kelley" initials="E." surname="Kelley"/>
-    <author fullname="Paul Boynton" initials="P." surname="Boynton"/>
+    <author fullname="Edward Kelley" initials="F" surname="Kelley">
+      <organization/>
+    </author>
+    <author fullname="Paul Boynton" initials="A" surname="Boynton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6637"/>
+  <seriesInfo name="NIST" value="NIST IR 6637"/>
 </reference>

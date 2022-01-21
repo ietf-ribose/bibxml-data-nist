@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5542" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5542.pdf">
   <front>
     <title>Binary decision clustering for neural network based optical character recognition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5542"/>
-    <seriesInfo name="NIST" value="NIST IR 5542"/>
-    <author surname="Barnes"/>
+    <author initials="CS" surname="Barnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5542"/>
+  <seriesInfo name="NIST" value="NIST IR 5542"/>
 </reference>

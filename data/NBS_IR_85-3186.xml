@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3186" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3186.pdf">
   <front>
     <title>Development of durcon, an expert system for durable concrete, part I</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3186"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3186"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Bhalchandra Oltikar" initials="B." surname="Oltikar"/>
-    <author fullname="Steven Johnson" initials="S." surname="Johnson"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Bhalchandra Oltikar" initials="C" surname="Oltikar">
+      <organization/>
+    </author>
+    <author fullname="Steven Johnson" initials="K" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3186"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3186"/>
 </reference>

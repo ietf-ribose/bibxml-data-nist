@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-3000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-3000.pdf">
   <front>
     <title>Materials studies for magnetic fusion energy applications at low temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3000"/>
-    <seriesInfo name="NIST" value="NBS IR 84-3000"/>
-    <author surname="Reed"/>
-    <author surname="Simon"/>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="NJ" surname="Simon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3000"/>
+  <seriesInfo name="NIST" value="NBS IR 84-3000"/>
 </reference>

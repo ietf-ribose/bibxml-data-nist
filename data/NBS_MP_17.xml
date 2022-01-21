@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub17.pdf">
   <front>
     <title>Copper wire card</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.17"/>
-    <seriesInfo name="NIST" value="NBS MP 17"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1919"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.17"/>
+  <seriesInfo name="NIST" value="NBS MP 17"/>
 </reference>

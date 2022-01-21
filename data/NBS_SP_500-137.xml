@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-137" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-137.pdf">
   <front>
     <title>Security for dial-up lines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-137"/>
-    <seriesInfo name="NIST" value="NBS SP 500-137"/>
-    <author fullname="Eugene Troy" initials="E." surname="Troy"/>
+    <author fullname="Eugene Troy" initials="F" surname="Troy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-137"/>
+  <seriesInfo name="NIST" value="NBS SP 500-137"/>
 </reference>

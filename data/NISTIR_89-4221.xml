@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4221" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4221.pdf">
   <front>
     <title>Standards committee activities of the National Institute of Standards and Technology, 1988 highlights</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4221"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4221"/>
-    <author fullname="JoAnne Overman" initials="J." surname="Overman"/>
+    <author fullname="JoAnne Overman" initials="J." surname="Overman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4221"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4221"/>
 </reference>

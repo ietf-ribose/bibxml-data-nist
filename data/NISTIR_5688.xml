@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5688" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5688.pdf">
   <front>
     <title>Proceedings of the fourth meeting of the Intergovernmental U.S.-Russian Business Development Committee's Standard Working Group, March 27-31, 1995</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5688"/>
-    <seriesInfo name="NIST" value="NIST IR 5688"/>
-    <author fullname="Eldar Zulfugarzade" initials="E." surname="Zulfugarzade"/>
+    <author fullname="Eldar Zulfugarzade" initials="E" surname="Zulfugarzade">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5688"/>
+  <seriesInfo name="NIST" value="NIST IR 5688"/>
 </reference>

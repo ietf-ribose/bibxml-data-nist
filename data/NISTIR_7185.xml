@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7185" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7185.pdf">
   <front>
     <title>CPM 2:a revised core product model for representing design information</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7185"/>
-    <seriesInfo name="NIST" value="NIST IR 7185"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Sebti Foufou" initials="S." surname="Foufou"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="Rachuri Sudarsan" initials="R." surname="Sudarsan"/>
-    <author fullname="Nicolas Bouillon" initials="N." surname="Bouillon"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Sebti Foufou" initials="S." surname="Foufou">
+      <organization/>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="Rachuri Sudarsan" initials="R." surname="Sudarsan">
+      <organization/>
+    </author>
+    <author fullname="Nicolas Bouillon" initials="N." surname="Bouillon">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7185"/>
+  <seriesInfo name="NIST" value="NIST IR 7185"/>
 </reference>

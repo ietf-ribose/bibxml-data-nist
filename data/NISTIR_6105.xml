@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6105" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6105.pdf">
   <front>
     <title>TBT agreement activities of the National Institute of Standards and Technology 1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6105"/>
-    <seriesInfo name="NIST" value="NIST IR 6105"/>
-    <author fullname="JoAnne Overman" initials="J." surname="Overman"/>
+    <author fullname="JoAnne Overman" initials="R" surname="Overman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6105"/>
+  <seriesInfo name="NIST" value="NIST IR 6105"/>
 </reference>

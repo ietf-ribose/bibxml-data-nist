@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-507" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-507.pdf">
   <front>
     <title>Mercurous chloride polarizer material</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-507"/>
-    <seriesInfo name="NIST" value="NBS IR 74-507"/>
-    <author fullname="Richard Forman" initials="R." surname="Forman"/>
-    <author fullname="William Brower" initials="W." surname="Brower"/>
-    <author fullname="Harry Parker" initials="H." surname="Parker"/>
+    <author fullname="Richard Forman" initials="R." surname="Forman">
+      <organization/>
+    </author>
+    <author fullname="William Brower" initials="S" surname="Brower">
+      <organization/>
+    </author>
+    <author fullname="Harry Parker" initials="S" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-507"/>
+  <seriesInfo name="NIST" value="NBS IR 74-507"/>
 </reference>

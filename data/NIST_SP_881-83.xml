@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.881-83" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication881-83.pdf">
   <front>
     <title>Federal implementation guideline for electronic data interchange</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.881-83"/>
-    <seriesInfo name="NIST" value="NIST SP 881-83"/>
-    <author fullname="Jean-Philippe Favreau" initials="J." surname="Favreau"/>
-    <author fullname="Jean-Philippe Favreau" initials="J." surname="Favreau"/>
+    <author fullname="Jean-Philippe Favreau" initials="J." surname="Favreau">
+      <organization/>
+    </author>
+    <author fullname="Jean-Philippe Favreau" initials="J." surname="Favreau">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.881-83"/>
+  <seriesInfo name="NIST" value="NIST SP 881-83"/>
 </reference>

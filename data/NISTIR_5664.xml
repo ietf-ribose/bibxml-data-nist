@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5664" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5664.pdf">
   <front>
     <title>Recommended performance-based criteria for the design of manufactured home foundation systems to resist wind and seismic loads</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5664"/>
-    <seriesInfo name="NIST" value="NIST IR 5664"/>
-    <author fullname="Richard Marshall" initials="R." surname="Marshall"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
+    <author fullname="Richard Marshall" initials="D" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5664"/>
+  <seriesInfo name="NIST" value="NIST IR 5664"/>
 </reference>

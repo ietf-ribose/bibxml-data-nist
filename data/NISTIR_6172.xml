@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6172" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6172.pdf">
   <front>
     <title>Requirements analysis:process plan specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6172"/>
-    <seriesInfo name="NIST" value="NIST IR 6172"/>
-    <author fullname="Kimberley Ellis" initials="K." surname="Ellis"/>
-    <author fullname="Albert Jones" initials="A." surname="Jones"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
+    <author fullname="Kimberley Ellis" initials="K." surname="Ellis">
+      <organization/>
+    </author>
+    <author fullname="Albert Jones" initials="A." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="T." surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6172"/>
+  <seriesInfo name="NIST" value="NIST IR 6172"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.79-1305a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1305a.pdf">
   <front>
     <title>Provisional flat plate solar collector testing procedures :first revision</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1305a"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1305a"/>
-    <author fullname="David Waksman" initials="D." surname="Waksman"/>
-    <author fullname="Elmer Streed" initials="E." surname="Streed"/>
-    <author fullname="Thomas Reichard" initials="T." surname="Reichard"/>
-    <author fullname="Louis Cattaneo" initials="L." surname="Cattaneo"/>
+    <author fullname="David Waksman" initials="D." surname="Waksman">
+      <organization/>
+    </author>
+    <author fullname="Elmer Streed" initials="R" surname="Streed">
+      <organization/>
+    </author>
+    <author fullname="Thomas Reichard" initials="W" surname="Reichard">
+      <organization/>
+    </author>
+    <author fullname="Louis Cattaneo" initials="E" surname="Cattaneo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1305a"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1305a"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures148.pdf">
   <front>
     <title>Fifteen-year exposure test of porcelain enamels</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.148"/>
-    <seriesInfo name="NIST" value="NBS BMS 148"/>
-    <author fullname="Dwight Moore" initials="D." surname="Moore"/>
-    <author fullname="William Harrison" initials="W." surname="Harrison"/>
+    <author fullname="Dwight Moore" initials="G" surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="William Harrison" initials="N" surname="Harrison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.148"/>
+  <seriesInfo name="NIST" value="NBS BMS 148"/>
 </reference>

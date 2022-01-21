@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.638" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote638.pdf">
   <front>
     <title>A synchronous satellite time delay computer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.638"/>
-    <seriesInfo name="NIST" value="NBS TN 638"/>
-    <author fullname="Wallace Hamilton" initials="W." surname="Hamilton"/>
+    <author fullname="Wallace Hamilton" initials="F" surname="Hamilton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.638"/>
+  <seriesInfo name="NIST" value="NBS TN 638"/>
 </reference>

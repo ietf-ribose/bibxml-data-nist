@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8677" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8677.pdf">
   <front>
     <title>An introduction to the statistical treatment of measurement data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8677"/>
-    <seriesInfo name="NIST" value="NBS RPT 8677"/>
-    <author fullname="Harry Ku" initials="H." surname="Ku"/>
+    <author fullname="Harry Ku" initials="H" surname="Ku">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8677"/>
+  <seriesInfo name="NIST" value="NBS RPT 8677"/>
 </reference>

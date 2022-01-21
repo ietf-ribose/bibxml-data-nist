@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2732" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2732.pdf">
   <front>
     <title>Use of hazard pictorials symbols in the minerals industry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2732"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2732"/>
-    <author fullname="BelindaLowenhaupt Collins" initials="B.L." surname="Collins"/>
+    <author fullname="BelindaLowenhaupt Collins" initials="B.L." surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2732"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2732"/>
 </reference>

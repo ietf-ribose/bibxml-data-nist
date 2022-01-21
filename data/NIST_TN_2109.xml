@@ -1,30 +1,28 @@
 <reference anchor="NIST.TN.2109" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2109.pdf">
   <front>
     <title>Physical Models and Dimensional Traceability of WR15 Rectangular Waveguide Standards for Determining Systematic Uncertainties of Calibrated Scattering-Parameters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2109"/>
-    <seriesInfo name="NIST" value="NIST TN 2109"/>
-    <author fullname="Jeffrey Jargon" initials="J." surname="Jargon">
+    <author fullname="Jeffrey Jargon" initials="A" surname="Jargon">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Dylan Williams" initials="D." surname="Williams">
+    <author fullname="Dylan Williams" initials="F" surname="Williams">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Angela Stelson" initials="A." surname="Stelson">
+    <author fullname="Angela Stelson" initials="C" surname="Stelson">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Christian Long" initials="C." surname="Long">
+    <author fullname="Christian Long" initials="J" surname="Long">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Aaron Hagerstrom" initials="A." surname="Hagerstrom">
+    <author fullname="Aaron Hagerstrom" initials="M" surname="Hagerstrom">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Hale" initials="P." surname="Hale">
+    <author fullname="Paul Hale" initials="D" surname="Hale">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="John Stoup" initials="J." surname="Stoup">
+    <author fullname="John Stoup" initials="R" surname="Stoup">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Eric Stanfield" initials="E." surname="Stanfield">
+    <author fullname="Eric Stanfield" initials="S" surname="Stanfield">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Wei Ren" initials="W." surname="Ren">
@@ -35,4 +33,6 @@
     </author>
     <date year="2020" month="August" day="10"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2109"/>
+  <seriesInfo name="NIST" value="NIST TN 2109"/>
 </reference>

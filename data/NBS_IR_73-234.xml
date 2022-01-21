@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-234" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-234.pdf">
   <front>
     <title>Drapery and curtain fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-234"/>
-    <seriesInfo name="NIST" value="NBS IR 73-234"/>
-    <author fullname="Allan Vickers" initials="A." surname="Vickers"/>
+    <author fullname="Allan Vickers" initials="K" surname="Vickers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-234"/>
+  <seriesInfo name="NIST" value="NBS IR 73-234"/>
 </reference>

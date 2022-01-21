@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4653" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4653.pdf">
   <front>
     <title>Metrology for the semiconductor industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4653"/>
-    <seriesInfo name="NIST" value="NIST IR 4653"/>
-    <author fullname="Robert Scace" initials="R." surname="Scace"/>
+    <author fullname="Robert Scace" initials="I" surname="Scace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4653"/>
+  <seriesInfo name="NIST" value="NIST IR 4653"/>
 </reference>

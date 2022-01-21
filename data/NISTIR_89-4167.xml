@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4167" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4167.pdf">
   <front>
     <title>Research for electric energy systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4167"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4167"/>
-    <author fullname="Van Brunt" initials="V." surname="Brunt"/>
+    <author fullname="Van Brunt" initials="RJ" surname="Brunt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4167"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4167"/>
 </reference>

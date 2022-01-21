@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.1133" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1133.pdf">
   <front>
     <title>Fourth NIST Workshop on Carbon Nanotubes: Chirality MeasurementsSummary, Program and Abstracts</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1133"/>
-    <seriesInfo name="NIST" value="NIST SP 1133"/>
     <author role="editor" fullname="Stephen Freiman" initials="S." surname="Freiman">
       <organization>Polymers Division, Material Measurement Laboratory</organization>
     </author>
-    <author role="editor" fullname="Jeffrey Fagan" initials="J." surname="Fagan">
+    <author role="editor" fullname="Jeffrey Fagan" initials="A" surname="Fagan">
       <organization>Polymers Division, Material Measurement Laboratory</organization>
     </author>
     <author role="editor" fullname="Stephanie Hooker" initials="S." surname="Hooker">
       <organization>Polymers Division, Material Measurement Laboratory</organization>
     </author>
-    <author role="editor" fullname="Kalman Migler" initials="K." surname="Migler">
+    <author role="editor" fullname="Kalman Migler" initials="B" surname="Migler">
       <organization>Polymers Division, Material Measurement Laboratory</organization>
     </author>
-    <author role="editor" fullname="Angela Hight Walker" initials="A." surname="Hight Walker">
+    <author role="editor" fullname="Angela Hight Walker" initials="R" surname="Hight Walker">
       <organization>Polymers Division, Material Measurement Laboratory</organization>
     </author>
     <author role="editor" fullname="Ming Zheng" initials="M." surname="Zheng">
@@ -33,4 +31,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1133"/>
+  <seriesInfo name="NIST" value="NIST SP 1133"/>
 </reference>

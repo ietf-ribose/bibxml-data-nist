@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.93" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote93.pdf">
   <front>
     <title>An experimental study of beta decay using the radiations from oriented nuclei</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.93"/>
-    <seriesInfo name="NIST" value="NBS TN 93"/>
-    <author surname="Hoppes"/>
+    <author initials="DD" surname="Hoppes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.93"/>
+  <seriesInfo name="NIST" value="NBS TN 93"/>
 </reference>

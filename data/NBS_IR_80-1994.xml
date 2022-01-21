@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.80-1994" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1994.pdf">
   <front>
     <title>Household appliance usage data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1994"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1994"/>
-    <author fullname="Alan Davies" initials="A." surname="Davies"/>
-    <author fullname="Rudolph Kelly" initials="R." surname="Kelly"/>
-    <author fullname="Alvin Lewis" initials="A." surname="Lewis"/>
-    <author fullname="Colonel Lovett" initials="C." surname="Lovett"/>
-    <author fullname="Theodore Wang" initials="T." surname="Wang"/>
+    <author fullname="Alan Davies" initials="D" surname="Davies">
+      <organization/>
+    </author>
+    <author fullname="Rudolph Kelly" initials="V" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Alvin Lewis" initials="C" surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="Colonel Lovett" initials="D" surname="Lovett">
+      <organization/>
+    </author>
+    <author fullname="Theodore Wang" initials="J" surname="Wang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1994"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1994"/>
 </reference>

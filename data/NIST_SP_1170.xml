@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1170" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1170.pdf">
   <front>
     <title>Documentation for Reference Material (RM) 8820 : A Versatile, Multipurpose Dimensional Metrology Calibration Standard for Scanned Particle Beam, Scanned Probe and Optical Microscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1170"/>
-    <seriesInfo name="NIST" value="NIST SP 1170"/>
-    <author fullname="Michael Postek" initials="M." surname="Postek">
+    <author fullname="Michael Postek" initials="T" surname="Postek">
       <organization>Physical Technology Laboratory</organization>
     </author>
-    <author fullname="Andras Vladar" initials="A." surname="Vladar">
+    <author fullname="Andras Vladar" initials="E" surname="Vladar">
       <organization>Physical Technology Laboratory</organization>
     </author>
     <author fullname="Bin Ming" initials="B." surname="Ming">
@@ -20,4 +18,6 @@
     </author>
     <date year="2014" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1170"/>
+  <seriesInfo name="NIST" value="NIST SP 1170"/>
 </reference>

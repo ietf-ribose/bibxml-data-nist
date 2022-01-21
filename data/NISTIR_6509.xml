@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6509.pdf">
   <front>
     <title>Large fire research facility (Building 205) exhaust hood heat release rate measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6509"/>
-    <seriesInfo name="NIST" value="NIST IR 6509"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
-    <author fullname="Laurean DeLauter" initials="L." surname="DeLauter"/>
-    <author fullname="Jack Lee" initials="J." surname="Lee"/>
-    <author fullname="Gary Roadarmel" initials="G." surname="Roadarmel"/>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
+    <author fullname="Laurean DeLauter" initials="L." surname="DeLauter">
+      <organization/>
+    </author>
+    <author fullname="Jack Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Gary Roadarmel" initials="G." surname="Roadarmel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6509"/>
+  <seriesInfo name="NIST" value="NIST IR 6509"/>
 </reference>

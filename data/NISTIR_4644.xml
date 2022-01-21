@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4644" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4644.pdf">
   <front>
     <title>New concepts of precision dimensional measurement for modern manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4644"/>
-    <seriesInfo name="NIST" value="NIST IR 4644"/>
-    <author fullname="Dennis Swyt" initials="D." surname="Swyt"/>
+    <author fullname="Dennis Swyt" initials="A" surname="Swyt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4644"/>
+  <seriesInfo name="NIST" value="NIST IR 4644"/>
 </reference>

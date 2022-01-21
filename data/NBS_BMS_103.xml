@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.103" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures103.pdf">
   <front>
     <title>Measurements of heat losses from slab floors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.103"/>
-    <seriesInfo name="NIST" value="NBS BMS 103"/>
-    <author fullname="Richard Dill" initials="R." surname="Dill"/>
-    <author fullname="William Robinson" initials="W." surname="Robinson"/>
-    <author fullname="Henry Robinson" initials="H." surname="Robinson"/>
+    <author fullname="Richard Dill" initials="S" surname="Dill">
+      <organization/>
+    </author>
+    <author fullname="William Robinson" initials="C" surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="Henry Robinson" initials="E" surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.103"/>
+  <seriesInfo name="NIST" value="NBS BMS 103"/>
 </reference>

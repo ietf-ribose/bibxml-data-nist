@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-160" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160.pdf">
   <front>
     <title>Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-160"/>
-    <seriesInfo name="NIST" value="NIST SP 800-160"/>
     <author fullname="Ron Ross" initials="R." surname="Ross">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-160"/>
+  <seriesInfo name="NIST" value="NIST SP 800-160"/>
 </reference>

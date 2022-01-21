@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.346" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication346.pdf">
   <front>
     <title>Hydraulic research in the United States 1970</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.346"/>
-    <seriesInfo name="NIST" value="NBS SP 346"/>
-    <author fullname="Gershon Kulin" initials="G." surname="Kulin"/>
-    <author fullname="Pauline Gurewitz" initials="P." surname="Gurewitz"/>
+    <author fullname="Gershon Kulin" initials="G." surname="Kulin">
+      <organization/>
+    </author>
+    <author fullname="Pauline Gurewitz" initials="H" surname="Gurewitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.346"/>
+  <seriesInfo name="NIST" value="NBS SP 346"/>
 </reference>

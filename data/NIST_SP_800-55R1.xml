@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-55r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-55r1.pdf">
   <front>
     <title>Performance measurement guide for information security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-55r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-55r1"/>
-    <author surname="Chew">
+    <author initials="E" surname="Chew">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Swanson">
+    <author initials="M" surname="Swanson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Stine">
+    <author initials="KM" surname="Stine">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Bartol">
+    <author initials="N" surname="Bartol">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Brown">
+    <author initials="A" surname="Brown">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Robinson">
+    <author initials="W" surname="Robinson">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-55r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-55r1"/>
 </reference>

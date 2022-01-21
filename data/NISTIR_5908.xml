@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5908" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5908.pdf">
   <front>
     <title>Simulating the effects of HVAC induced air flow from slot diffusers on detector response</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5908"/>
-    <seriesInfo name="NIST" value="NIST IR 5908"/>
-    <author fullname="John Klote" initials="J." surname="Klote"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
+    <author fullname="John Klote" initials="H" surname="Klote">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5908"/>
+  <seriesInfo name="NIST" value="NIST IR 5908"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.77-1279" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1279.pdf">
   <front>
     <title>Cross sections and yields for high energy neutron source reactions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1279"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1279"/>
-    <author surname="Lone"/>
-    <author surname="Stewart"/>
-    <author surname="Carlson"/>
-    <author surname="Bowman"/>
+    <author initials="MA" surname="Lone">
+      <organization/>
+    </author>
+    <author initials="L" surname="Stewart">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Carlson">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Bowman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1279"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1279"/>
 </reference>

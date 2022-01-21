@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3542" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3542.pdf">
   <front>
     <title>Preliminary performance criteria for stone treatments for the United States Capitol</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3542"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3542"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3542"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3542"/>
 </reference>

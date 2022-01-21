@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.164" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph164.pdf">
   <front>
     <title>Electromagnetic boundary-value problems based upon a modification of residue calculus and function theoretic techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.164"/>
-    <seriesInfo name="NIST" value="NBS MONO 164"/>
-    <author fullname="JamesPatrick Montgomery" initials="J.P." surname="Montgomery"/>
-    <author fullname="David Chang" initials="D." surname="Chang"/>
+    <author fullname="JamesPatrick Montgomery" initials="J.P." surname="Montgomery">
+      <organization/>
+    </author>
+    <author fullname="David Chang" initials="C" surname="Chang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.164"/>
+  <seriesInfo name="NIST" value="NBS MONO 164"/>
 </reference>

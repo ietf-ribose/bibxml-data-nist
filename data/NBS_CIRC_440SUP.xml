@@ -1,12 +1,18 @@
 <reference anchor="NBS.CIRC.440sup" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular440sup.pdf">
   <front>
     <title>Supplement to National Bureau of Standards Circular no. 440:</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.440sup"/>
-    <seriesInfo name="NIST" value="NBS CIRC 440sup"/>
-    <author surname="Swindells"/>
-    <author surname="Snyder"/>
-    <author surname="Hardy"/>
-    <author surname="Golden"/>
+    <author initials="JF" surname="Swindells">
+      <organization/>
+    </author>
+    <author initials="CF" surname="Snyder">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Hardy">
+      <organization/>
+    </author>
+    <author initials="PE" surname="Golden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.440sup"/>
+  <seriesInfo name="NIST" value="NBS CIRC 440sup"/>
 </reference>

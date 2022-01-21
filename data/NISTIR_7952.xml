@@ -1,30 +1,28 @@
 <reference anchor="NIST.IR.7952" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7952.pdf">
   <front>
     <title>Toward a shared approach for ensuring patient safety with enhanced workflow design for electronic health records</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7952"/>
-    <seriesInfo name="NIST" value="NIST IR 7952"/>
-    <author fullname="Svetlana Lowry" initials="S." surname="Lowry">
+    <author fullname="Svetlana Lowry" initials="Z" surname="Lowry">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
     <author fullname="Mala Ramaiah" initials="M." surname="Ramaiah">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ant Ozok" initials="A." surname="Ozok">
+    <author fullname="Ant Ozok" initials="A" surname="Ozok">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ayse Gurses" initials="A." surname="Gurses">
+    <author fullname="Ayse Gurses" initials="P" surname="Gurses">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Gibbons" initials="M." surname="Gibbons">
+    <author fullname="Michael Gibbons" initials="C" surname="Gibbons">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
     <author fullname="David Brick" initials="D." surname="Brick">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Emily Patterson" initials="E." surname="Patterson">
+    <author fullname="Emily Patterson" initials="S" surname="Patterson">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Vicki Lewis" initials="V." surname="Lewis">
+    <author fullname="Vicki Lewis" initials="R" surname="Lewis">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
     <author fullname="Debora Simmons" initials="D." surname="Simmons">
@@ -35,4 +33,6 @@
     </author>
     <date year="2013" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7952"/>
+  <seriesInfo name="NIST" value="NIST IR 7952"/>
 </reference>

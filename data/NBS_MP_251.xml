@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.251" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub251.pdf">
   <front>
     <title>Bibliography on ignition and spark-ignition systems/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.251"/>
-    <seriesInfo name="NIST" value="NBS MP 251"/>
-    <author surname="Blackburn"/>
+    <author initials="GF" surname="Blackburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.251"/>
+  <seriesInfo name="NIST" value="NBS MP 251"/>
 </reference>

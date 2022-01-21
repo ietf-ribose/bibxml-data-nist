@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1986" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1986.pdf">
   <front>
     <title>Investigation of residential cooktop ignition prevention technologies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1986"/>
-    <seriesInfo name="NIST" value="NIST TN 1986"/>
     <author fullname="Anthony Hamins" initials="A." surname="Hamins">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1986"/>
+  <seriesInfo name="NIST" value="NIST TN 1986"/>
 </reference>

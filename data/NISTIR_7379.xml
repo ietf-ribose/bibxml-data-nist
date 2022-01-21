@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7379" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7379.pdf">
   <front>
     <title>Building retrofits for increased protection against airborne chemical and biological releases</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7379"/>
-    <seriesInfo name="NIST" value="NIST IR 7379"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="StevenEmmerichStuart Dols" initials="S.E.S." surname="Dols"/>
-    <author fullname="HeatherDavisPriya Lavappa" initials="H.D.P." surname="Lavappa"/>
-    <author fullname="Amy Rishing" initials="A." surname="Rishing"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="StevenEmmerichStuart Dols" initials="JW" surname="Dols">
+      <organization/>
+    </author>
+    <author fullname="HeatherDavisPriya Lavappa" initials="H.D.P." surname="Lavappa">
+      <organization/>
+    </author>
+    <author fullname="Amy Rishing" initials="A." surname="Rishing">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7379"/>
+  <seriesInfo name="NIST" value="NIST IR 7379"/>
 </reference>

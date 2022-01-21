@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1018" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1018.pdf">
   <front>
     <title>Evaluation of the fire performance of carpet underlayments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1018"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1018"/>
-    <author fullname="Susan Alderson" initials="S." surname="Alderson"/>
-    <author fullname="Leslie Breden" initials="L." surname="Breden"/>
+    <author fullname="Susan Alderson" initials="S." surname="Alderson">
+      <organization/>
+    </author>
+    <author fullname="Leslie Breden" initials="L." surname="Breden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1018"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1018"/>
 </reference>

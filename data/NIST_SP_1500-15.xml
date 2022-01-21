@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1500-15" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-15.pdf">
   <front>
     <title>Strategic roadmap for interoperable public safety video analytics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-15"/>
-    <seriesInfo name="NIST" value="NIST SP 1500-15"/>
     <author fullname="Diane Simpson" initials="D." surname="Simpson">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-15"/>
+  <seriesInfo name="NIST" value="NIST SP 1500-15"/>
 </reference>

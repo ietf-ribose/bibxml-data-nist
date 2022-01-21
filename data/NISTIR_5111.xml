@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5111.pdf">
   <front>
     <title>Chemical Science and Technology Laboratory, technical activities 1992</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5111"/>
-    <seriesInfo name="NIST" value="NIST IR 5111"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5111"/>
+  <seriesInfo name="NIST" value="NIST IR 5111"/>
 </reference>

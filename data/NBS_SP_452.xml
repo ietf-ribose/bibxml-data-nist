@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.452" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication452.pdf">
   <front>
     <title>The role of coatings in the prevention of mechanical failures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.452"/>
-    <seriesInfo name="NIST" value="NBS SP 452"/>
-    <author surname="Shives"/>
-    <author surname="Willard"/>
+    <author initials="TR" surname="Shives">
+      <organization/>
+    </author>
+    <author initials="WA" surname="Willard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.452"/>
+  <seriesInfo name="NIST" value="NBS SP 452"/>
 </reference>

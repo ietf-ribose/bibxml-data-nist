@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.332" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote332.pdf">
   <front>
     <title>Carbon dioxide spectral line positions and intensities calculated for the 2.05 and 2.7 micron regions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.332"/>
-    <seriesInfo name="NIST" value="NBS TN 332"/>
-    <author fullname="Robert Calfee" initials="R." surname="Calfee"/>
+    <author fullname="Robert Calfee" initials="F" surname="Calfee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.332"/>
+  <seriesInfo name="NIST" value="NBS TN 332"/>
 </reference>

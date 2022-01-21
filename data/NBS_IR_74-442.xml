@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-442" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-442.pdf">
   <front>
     <title>High temperature slow crack growth in ceramic materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-442"/>
-    <seriesInfo name="NIST" value="NBS IR 74-442"/>
-    <author surname="Evans"/>
+    <author initials="AG" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-442"/>
+  <seriesInfo name="NIST" value="NBS IR 74-442"/>
 </reference>

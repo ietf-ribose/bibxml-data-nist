@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.406" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication406.pdf">
   <front>
     <title>Computer performance evaluation :report of the 1973 NBSACM workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.406"/>
-    <seriesInfo name="NIST" value="NBS SP 406"/>
-    <author fullname="Thomas Bell" initials="T." surname="Bell"/>
-    <author fullname="Barry Boehm" initials="B." surname="Boehm"/>
-    <author surname="Jeffery"/>
+    <author fullname="Thomas Bell" initials="E" surname="Bell">
+      <organization/>
+    </author>
+    <author fullname="Barry Boehm" initials="W" surname="Boehm">
+      <organization/>
+    </author>
+    <author initials="S" surname="Jeffery">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.406"/>
+  <seriesInfo name="NIST" value="NBS SP 406"/>
 </reference>

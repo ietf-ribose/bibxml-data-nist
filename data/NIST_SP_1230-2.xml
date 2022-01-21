@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1230-2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1230-2.pdf">
   <front>
     <title>Community Resilience-Focused Technical Investigation of the 2016 Lumberton, North Carolina Flood: Community Recovery One Year Later</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1230-2"/>
-    <seriesInfo name="NIST" value="NIST SP 1230-2"/>
-    <author fullname="Elaina Sutley" initials="E." surname="Sutley">
+    <author fullname="Elaina Sutley" initials="J" surname="Sutley">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Maria Dillard" initials="M." surname="Dillard">
+    <author fullname="Maria Dillard" initials="K" surname="Dillard">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="John van de Lindt" initials="J." surname="van de Lindt">
+    <author fullname="John van de Lindt" initials="W" surname="van de Lindt">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="April" day="21"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1230-2"/>
+  <seriesInfo name="NIST" value="NIST SP 1230-2"/>
 </reference>

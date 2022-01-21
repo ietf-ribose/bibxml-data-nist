@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience146.pdf">
   <front>
     <title>Evaluation of construction loads in multistory concrete buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.146"/>
-    <seriesInfo name="NIST" value="NBS BSS 146"/>
-    <author surname="Fattal"/>
+    <author initials="SG" surname="Fattal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.146"/>
+  <seriesInfo name="NIST" value="NBS BSS 146"/>
 </reference>

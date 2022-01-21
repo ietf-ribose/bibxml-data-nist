@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.6851" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6851.pdf">
   <front>
     <title>Distributed testing of a device-level interface specification for a metrology system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6851"/>
-    <seriesInfo name="NIST" value="NIST IR 6851"/>
-    <author fullname="John Horst" initials="J." surname="Horst"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="Joseph Falco" initials="J." surname="Falco"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
-    <author fullname="Frederick Proctor" initials="F." surname="Proctor"/>
-    <author fullname="Albert Wavering" initials="A." surname="Wavering"/>
+    <author fullname="John Horst" initials="J." surname="Horst">
+      <organization/>
+    </author>
+    <author fullname="Thomas Kramer" initials="T." surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization/>
+    </author>
+    <author fullname="Joseph Falco" initials="J." surname="Falco">
+      <organization/>
+    </author>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="Frederick Proctor" initials="F." surname="Proctor">
+      <organization/>
+    </author>
+    <author fullname="Albert Wavering" initials="A." surname="Wavering">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6851"/>
+  <seriesInfo name="NIST" value="NIST IR 6851"/>
 </reference>

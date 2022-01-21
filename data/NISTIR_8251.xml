@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8251" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8251.pdf">
   <front>
     <title>Applied and computational mathematics division:summary of activities for fiscal year 2018</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8251"/>
-    <seriesInfo name="NIST" value="NIST IR 8251"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert">
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8251"/>
+  <seriesInfo name="NIST" value="NIST IR 8251"/>
 </reference>

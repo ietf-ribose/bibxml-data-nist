@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10422" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10422.pdf">
   <front>
     <title>Determination of the degree of polymerization of a polymeric aromatic amine from MNR data using a "least-squares" approach :progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10422"/>
-    <seriesInfo name="NIST" value="NBS RPT 10422"/>
-    <author surname="Argentar"/>
+    <author initials="H" surname="Argentar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10422"/>
+  <seriesInfo name="NIST" value="NBS RPT 10422"/>
 </reference>

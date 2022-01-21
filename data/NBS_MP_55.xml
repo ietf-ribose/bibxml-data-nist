@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub55.pdf">
   <front>
     <title>Weights and measures sixteenth annual conference</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.55"/>
-    <seriesInfo name="NIST" value="NBS MP 55"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1924"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.55"/>
+  <seriesInfo name="NIST" value="NBS MP 55"/>
 </reference>

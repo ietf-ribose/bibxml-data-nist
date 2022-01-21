@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.415" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote415.pdf">
   <front>
     <title>Thermal radiation property measurement techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.415"/>
-    <seriesInfo name="NIST" value="NBS TN 415"/>
-    <author fullname="Thomas Dunn" initials="T." surname="Dunn"/>
+    <author fullname="Thomas Dunn" initials="S" surname="Dunn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.415"/>
+  <seriesInfo name="NIST" value="NBS TN 415"/>
 </reference>

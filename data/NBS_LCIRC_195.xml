@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.195" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular195.pdf">
   <front>
     <title>Letter Circular 195:testing laboratories equipped for metallurgical tests</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.195"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 195"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.195"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 195"/>
 </reference>

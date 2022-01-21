@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-272" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-272.pdf">
   <front>
     <title>On characterizing master involute profiles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-272"/>
-    <seriesInfo name="NIST" value="NBS IR 73-272"/>
-    <author fullname="Edgar Erber" initials="E." surname="Erber"/>
-    <author fullname="Nelson Norden" initials="N." surname="Norden"/>
+    <author fullname="Edgar Erber" initials="G" surname="Erber">
+      <organization/>
+    </author>
+    <author fullname="Nelson Norden" initials="B" surname="Norden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-272"/>
+  <seriesInfo name="NIST" value="NBS IR 73-272"/>
 </reference>

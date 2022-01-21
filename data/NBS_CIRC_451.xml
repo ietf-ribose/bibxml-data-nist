@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.451" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular451.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 451:factors affecting results obtained with the Mooney viscometer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.451"/>
-    <seriesInfo name="NIST" value="NBS CIRC 451"/>
-    <author fullname="Rolla Taylor" initials="R." surname="Taylor"/>
+    <author fullname="Rolla Taylor" initials="H" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.451"/>
+  <seriesInfo name="NIST" value="NBS CIRC 451"/>
 </reference>

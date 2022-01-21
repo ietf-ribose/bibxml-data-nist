@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.250-39" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-39.pdf">
   <front>
     <title>NIST pressure calibration service</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-39"/>
-    <seriesInfo name="NIST" value="NIST SP 250-39"/>
-    <author fullname="Vern Bean" initials="V." surname="Bean"/>
+    <author fullname="Vern Bean" initials="E" surname="Bean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-39"/>
+  <seriesInfo name="NIST" value="NIST SP 250-39"/>
 </reference>

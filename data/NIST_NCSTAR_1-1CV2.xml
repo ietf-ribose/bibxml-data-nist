@@ -1,11 +1,15 @@
 <reference anchor="NIST.NCSTAR.1-1cv2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-1cv2.pdf">
   <front>
     <title>Maintenance and modifications to structural systems (Appendices A-G)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1cv2"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-1cv2"/>
-    <author fullname="David Fanella" initials="D." surname="Fanella"/>
-    <author fullname="Amaldo Derecho" initials="A." surname="Derecho"/>
-    <author surname="Ghosh"/>
+    <author fullname="David Fanella" initials="A" surname="Fanella">
+      <organization/>
+    </author>
+    <author fullname="Amaldo Derecho" initials="T" surname="Derecho">
+      <organization/>
+    </author>
+    <author initials="SK" surname="Ghosh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-1cv2"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-1cv2"/>
 </reference>

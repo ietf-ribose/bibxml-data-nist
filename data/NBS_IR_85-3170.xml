@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.85-3170" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3170.pdf">
   <front>
     <title>Dosimetry LAP handbook :operational and technical requirements of the laboratory accreditation program for personnel dosimetry processors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3170"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3170"/>
-    <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
-    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick"/>
-    <author fullname="Wiley Hall" initials="W." surname="Hall"/>
-    <author fullname="Harvey Berger" initials="H." surname="Berger"/>
+    <author fullname="Robert Gladhill" initials="L" surname="Gladhill">
+      <organization/>
+    </author>
+    <author fullname="Jeffrey Horlick" initials="J." surname="Horlick">
+      <organization/>
+    </author>
+    <author fullname="Wiley Hall" initials="A" surname="Hall">
+      <organization/>
+    </author>
+    <author fullname="Harvey Berger" initials="W" surname="Berger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3170"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3170"/>
 </reference>

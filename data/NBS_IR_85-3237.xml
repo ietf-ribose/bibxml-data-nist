@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3237" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3237.pdf">
   <front>
     <title>Review of materials for pH sensing for nuclear waste containment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3237"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3237"/>
-    <author fullname="Timothy Dietz" initials="T." surname="Dietz"/>
-    <author fullname="Kenneth Kreider" initials="K." surname="Kreider"/>
+    <author fullname="Timothy Dietz" initials="T." surname="Dietz">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Kreider" initials="G" surname="Kreider">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3237"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3237"/>
 </reference>

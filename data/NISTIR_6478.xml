@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6478" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6478.pdf">
   <front>
     <title>Ceramic coatings metrology workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6478"/>
-    <seriesInfo name="NIST" value="NIST IR 6478"/>
-    <author surname="Dapkunas"/>
+    <author initials="SJ" surname="Dapkunas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6478"/>
+  <seriesInfo name="NIST" value="NIST IR 6478"/>
 </reference>

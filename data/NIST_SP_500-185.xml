@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.500-185" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-185.pdf">
   <front>
     <title>Guide to design, implementation and management of distributed databases</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-185"/>
-    <seriesInfo name="NIST" value="NIST SP 500-185"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
-    <author fullname="Charles Sheppard" initials="C." surname="Sheppard"/>
-    <author fullname="Kathryn Harvill" initials="K." surname="Harvill"/>
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="Charles Sheppard" initials="L" surname="Sheppard">
+      <organization/>
+    </author>
+    <author fullname="Kathryn Harvill" initials="A" surname="Harvill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-185"/>
+  <seriesInfo name="NIST" value="NIST SP 500-185"/>
 </reference>

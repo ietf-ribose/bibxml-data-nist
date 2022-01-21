@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-8" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-8.pdf">
   <front>
     <title>Securing Wireless Infusion Pumps In Healthcare Delivery Organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-8"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-8"/>
     <author fullname="Gavin O'Brien" initials="G." surname="O'Brien">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-8"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-8"/>
 </reference>

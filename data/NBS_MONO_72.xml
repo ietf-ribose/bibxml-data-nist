@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.72" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph72.pdf">
   <front>
     <title>Curves of input impedance change due to ground for dipole antennas</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.72"/>
-    <seriesInfo name="NIST" value="NBS MONO 72"/>
-    <author surname="Vogler"/>
-    <author surname="Noble"/>
+    <author initials="LE" surname="Vogler">
+      <organization/>
+    </author>
+    <author initials="JL" surname="Noble">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.72"/>
+  <seriesInfo name="NIST" value="NBS MONO 72"/>
 </reference>

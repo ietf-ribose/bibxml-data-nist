@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.514" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular514.pdf">
   <front>
     <title>Letter Circular 514:dampness in masonry walls above grade (replaces Letter Circular 391)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.514"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 514"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.514"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 514"/>
 </reference>

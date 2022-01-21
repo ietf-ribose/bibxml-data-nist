@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2088" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2088.pdf">
   <front>
     <title>Measurement science research needs for premise plumbing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2088"/>
-    <seriesInfo name="NIST" value="NIST TN 2088"/>
     <author fullname="Andrew Persily" initials="A." surname="Persily">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2088"/>
+  <seriesInfo name="NIST" value="NIST TN 2088"/>
 </reference>

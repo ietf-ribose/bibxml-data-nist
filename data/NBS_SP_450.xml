@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.450" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication450.pdf">
   <front>
     <title>Blood pH, gases, and electrolytes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.450"/>
-    <seriesInfo name="NIST" value="NBS SP 450"/>
-    <author fullname="Richard Durst" initials="R." surname="Durst"/>
+    <author fullname="Richard Durst" initials="A" surname="Durst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.450"/>
+  <seriesInfo name="NIST" value="NBS SP 450"/>
 </reference>

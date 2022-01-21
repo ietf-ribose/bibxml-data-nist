@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-109.pdf">
   <front>
     <title>Overview of computer security certification and accreditation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-109"/>
-    <seriesInfo name="NIST" value="NBS SP 500-109"/>
-    <author fullname="Zella Ruthberg" initials="Z." surname="Ruthberg"/>
-    <author fullname="William Neugent" initials="W." surname="Neugent"/>
+    <author fullname="Zella Ruthberg" initials="G" surname="Ruthberg">
+      <organization/>
+    </author>
+    <author fullname="William Neugent" initials="W." surname="Neugent">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-109"/>
+  <seriesInfo name="NIST" value="NBS SP 500-109"/>
 </reference>

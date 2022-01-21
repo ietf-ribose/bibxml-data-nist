@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.729" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication729.pdf">
   <front>
     <title>National earthquake engineering experimental facility study</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.729"/>
-    <seriesInfo name="NIST" value="NBS SP 729"/>
-    <author fullname="Charles Scribner" initials="C." surname="Scribner"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
+    <author fullname="Charles Scribner" initials="C." surname="Scribner">
+      <organization/>
+    </author>
+    <author fullname="Charles Culver" initials="G" surname="Culver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.729"/>
+  <seriesInfo name="NIST" value="NBS SP 729"/>
 </reference>

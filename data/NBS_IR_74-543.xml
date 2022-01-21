@@ -1,17 +1,33 @@
 <reference anchor="NBS.IR.74-543" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-543.pdf">
   <front>
     <title>High temperature MHD materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-543"/>
-    <seriesInfo name="NIST" value="NBS IR 74-543"/>
-    <author surname="Schneider"/>
-    <author surname="Capps"/>
-    <author surname="Frederikse"/>
-    <author surname="Hosler"/>
-    <author surname="Kauffman"/>
-    <author surname="Levin"/>
-    <author surname="McDaniel"/>
-    <author surname="Negas"/>
-    <author surname="Plante"/>
+    <author initials="SJ" surname="Schneider">
+      <organization/>
+    </author>
+    <author initials="W" surname="Capps">
+      <organization/>
+    </author>
+    <author initials="PR" surname="Frederikse">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Hosler">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Kauffman">
+      <organization/>
+    </author>
+    <author initials="EM" surname="Levin">
+      <organization/>
+    </author>
+    <author initials="CL" surname="McDaniel">
+      <organization/>
+    </author>
+    <author initials="T" surname="Negas">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Plante">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-543"/>
+  <seriesInfo name="NIST" value="NBS IR 74-543"/>
 </reference>

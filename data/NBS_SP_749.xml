@@ -1,18 +1,36 @@
 <reference anchor="NBS.SP.749" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication749.pdf">
   <front>
     <title>Fire hazard comparison of fire-retarded and non-fire-retarded products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.749"/>
-    <seriesInfo name="NIST" value="NBS SP 749"/>
-    <author fullname="Babrauskas Vytenis" initials="B." surname="Vytenis"/>
-    <author fullname="Jr Harris" initials="J." surname="Harris"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
-    <author fullname="Billy Lee" initials="B." surname="Lee"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
-    <author fullname="Margaret Yoklavich" initials="M." surname="Yoklavich"/>
-    <author fullname="Helene Clark" initials="H." surname="Clark"/>
+    <author fullname="Babrauskas Vytenis" initials="B." surname="Vytenis">
+      <organization/>
+    </author>
+    <author fullname="Jr Harris" initials="J." surname="Harris">
+      <organization/>
+    </author>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Billy Lee" initials="T" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="W." surname="Twilley">
+      <organization/>
+    </author>
+    <author fullname="Margaret Yoklavich" initials="F" surname="Yoklavich">
+      <organization/>
+    </author>
+    <author fullname="Helene Clark" initials="M" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.749"/>
+  <seriesInfo name="NIST" value="NBS SP 749"/>
 </reference>

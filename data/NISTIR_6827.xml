@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6827" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6827.pdf">
   <front>
     <title>Suppression of fires exposed to an external radiant flux</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6827"/>
-    <seriesInfo name="NIST" value="NIST IR 6827"/>
-    <author fullname="Michelle Donnelly" initials="M." surname="Donnelly"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
+    <author fullname="Michelle Donnelly" initials="K" surname="Donnelly">
+      <organization/>
+    </author>
+    <author fullname="William Grosshandler" initials="L" surname="Grosshandler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6827"/>
+  <seriesInfo name="NIST" value="NIST IR 6827"/>
 </reference>

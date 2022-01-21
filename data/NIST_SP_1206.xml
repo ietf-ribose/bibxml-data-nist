@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1206" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1206.pdf">
   <front>
     <title>Proceedings of the 2015 International Symposium on Forensic Science Error Management</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1206"/>
-    <seriesInfo name="NIST" value="NIST SP 1206"/>
-    <author fullname="John Butler" initials="J." surname="Butler">
+    <author fullname="John Butler" initials="M" surname="Butler">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1206"/>
+  <seriesInfo name="NIST" value="NIST SP 1206"/>
 </reference>

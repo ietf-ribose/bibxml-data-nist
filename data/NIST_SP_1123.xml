@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1123.pdf">
   <front>
     <title>Emergency first responder respirator thermal characteristics :workshop proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1123"/>
-    <seriesInfo name="NIST" value="NIST SP 1123"/>
-    <author fullname="Amy Mensch" initials="A." surname="Mensch"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
+    <author fullname="Amy Mensch" initials="A." surname="Mensch">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="N." surname="Bryner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1123"/>
+  <seriesInfo name="NIST" value="NIST SP 1123"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.517" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication517.pdf">
   <front>
     <title>Report of the 62nd national conference on weights and measures 1977</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.517"/>
-    <seriesInfo name="NIST" value="NBS SP 517"/>
-    <author fullname="Harold Wollin" initials="H." surname="Wollin"/>
+    <author fullname="Harold Wollin" initials="F" surname="Wollin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.517"/>
+  <seriesInfo name="NIST" value="NBS SP 517"/>
 </reference>

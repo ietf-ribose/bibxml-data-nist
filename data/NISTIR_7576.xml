@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7576" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7576.pdf">
   <front>
     <title>Thermal performance of fire resistive materials III. Fire test on a bare steel column</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7576"/>
-    <seriesInfo name="NIST" value="NIST IR 7576"/>
-    <author fullname="Dale Bentz" initials="D." surname="Bentz"/>
-    <author fullname="Leonard Hanssen" initials="L." surname="Hanssen"/>
-    <author fullname="Boris Wilthan" initials="B." surname="Wilthan"/>
+    <author fullname="Dale Bentz" initials="P" surname="Bentz">
+      <organization/>
+    </author>
+    <author fullname="Leonard Hanssen" initials="M" surname="Hanssen">
+      <organization/>
+    </author>
+    <author fullname="Boris Wilthan" initials="B." surname="Wilthan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7576"/>
+  <seriesInfo name="NIST" value="NIST IR 7576"/>
 </reference>

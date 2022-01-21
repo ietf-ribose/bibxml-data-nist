@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.611" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication611.pdf">
   <front>
     <title>New technology challenges metrology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.611"/>
-    <seriesInfo name="NIST" value="NBS SP 611"/>
-    <author fullname="Judson French" initials="J." surname="French"/>
+    <author fullname="Judson French" initials="C" surname="French">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.611"/>
+  <seriesInfo name="NIST" value="NBS SP 611"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-125Ar1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-125Ar1.pdf">
   <front>
     <title>Security recommendations for server-based hypervisor platforms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125Ar1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-125Ar1"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125Ar1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-125Ar1"/>
 </reference>

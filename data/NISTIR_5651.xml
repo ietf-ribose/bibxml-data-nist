@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5651" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5651.pdf">
   <front>
     <title>Algorithm testing and evaluation program for coordinate measuring systems:long range plan</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5651"/>
-    <seriesInfo name="NIST" value="NIST IR 5651"/>
-    <author fullname="Cathleen Diaz" initials="C." surname="Diaz"/>
+    <author fullname="Cathleen Diaz" initials="C." surname="Diaz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5651"/>
+  <seriesInfo name="NIST" value="NIST IR 5651"/>
 </reference>

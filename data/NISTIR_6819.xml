@@ -1,19 +1,39 @@
 <reference anchor="NIST.IR.6819" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6819.pdf">
   <front>
     <title>Comparison of concrete rheometers:international test at LCPC (Nantes, France) in October, 2000</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6819"/>
-    <seriesInfo name="NIST" value="NIST IR 6819"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Lynn Brower" initials="L." surname="Brower"/>
-    <author fullname="Phil Banfill" initials="P." surname="Banfill"/>
-    <author fullname="Denis Beaupré" initials="D." surname="Beaupré"/>
-    <author fullname="Frédéric Chapdelaine" initials="F." surname="Chapdelaine"/>
-    <author fullname="Françoisde Larrard" initials="F.d." surname="Larrard"/>
-    <author fullname="Peter Domone" initials="P." surname="Domone"/>
-    <author fullname="Laurent Nachbaur" initials="L." surname="Nachbaur"/>
-    <author fullname="Thierry Sedran" initials="T." surname="Sedran"/>
-    <author fullname="Olaf Wallevik" initials="O." surname="Wallevik"/>
-    <author fullname="Jon Wallevik" initials="J." surname="Wallevik"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Lynn Brower" initials="E" surname="Brower">
+      <organization/>
+    </author>
+    <author fullname="Phil Banfill" initials="P." surname="Banfill">
+      <organization/>
+    </author>
+    <author fullname="Denis Beaupré" initials="D." surname="Beaupré">
+      <organization/>
+    </author>
+    <author fullname="Frédéric Chapdelaine" initials="F." surname="Chapdelaine">
+      <organization/>
+    </author>
+    <author fullname="Françoisde Larrard" initials="F.d." surname="Larrard">
+      <organization/>
+    </author>
+    <author fullname="Peter Domone" initials="P." surname="Domone">
+      <organization/>
+    </author>
+    <author fullname="Laurent Nachbaur" initials="L." surname="Nachbaur">
+      <organization/>
+    </author>
+    <author fullname="Thierry Sedran" initials="T." surname="Sedran">
+      <organization/>
+    </author>
+    <author fullname="Olaf Wallevik" initials="O." surname="Wallevik">
+      <organization/>
+    </author>
+    <author fullname="Jon Wallevik" initials="E" surname="Wallevik">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6819"/>
+  <seriesInfo name="NIST" value="NIST IR 6819"/>
 </reference>

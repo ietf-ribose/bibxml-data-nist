@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.959e2017" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.959e2017.pdf">
   <front>
     <title>2014 CODATA RECOMMENDED VALUES OF THE FUNDAMENTAL CONSTANTS OF PHYSICS AND CHEMISTRY</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.959e2017"/>
-    <seriesInfo name="NIST" value="NIST SP 959e2017"/>
-    <author fullname="Peter Mohr" initials="P." surname="Mohr">
+    <author fullname="Peter Mohr" initials="J" surname="Mohr">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.959e2017"/>
+  <seriesInfo name="NIST" value="NIST SP 959e2017"/>
 </reference>

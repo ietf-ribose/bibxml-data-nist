@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.412" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication412.pdf">
   <front>
     <title>Aerosol measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.412"/>
-    <seriesInfo name="NIST" value="NBS SP 412"/>
-    <author fullname="Wayne Cassatt" initials="W." surname="Cassatt"/>
-    <author fullname="Rosemary Maddock" initials="R." surname="Maddock"/>
+    <author fullname="Wayne Cassatt" initials="A" surname="Cassatt">
+      <organization/>
+    </author>
+    <author fullname="Rosemary Maddock" initials="S" surname="Maddock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.412"/>
+  <seriesInfo name="NIST" value="NBS SP 412"/>
 </reference>

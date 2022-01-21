@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6111.pdf">
   <front>
     <title>Proceedings of the 1997 Knowledge-based Systems Interoperability Workshop:3 &amp; 4 November 1997, Gaithersburg, Maryland</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6111"/>
-    <seriesInfo name="NIST" value="NIST IR 6111"/>
-    <author fullname="Robert Allen" initials="R." surname="Allen"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Robert Allen" initials="H" surname="Allen">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6111"/>
+  <seriesInfo name="NIST" value="NIST IR 6111"/>
 </reference>

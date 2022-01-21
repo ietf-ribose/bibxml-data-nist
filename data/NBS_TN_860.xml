@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.860" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote860.pdf">
   <front>
     <title>NBS Reactor :summary of activities, July 1973 to June 1974</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.860"/>
-    <seriesInfo name="NIST" value="NBS TN 860"/>
-    <author surname="Carter"/>
+    <author initials="RS" surname="Carter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.860"/>
+  <seriesInfo name="NIST" value="NBS TN 860"/>
 </reference>

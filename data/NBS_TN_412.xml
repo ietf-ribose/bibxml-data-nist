@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.412" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote412.pdf">
   <front>
     <title>Quantum mechanical calculations of the second virial coefficients for hydrogen</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.412"/>
-    <seriesInfo name="NIST" value="NBS TN 412"/>
-    <author fullname="Marjorie Boyd" initials="M." surname="Boyd"/>
+    <author fullname="Marjorie Boyd" initials="E" surname="Boyd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.412"/>
+  <seriesInfo name="NIST" value="NBS TN 412"/>
 </reference>

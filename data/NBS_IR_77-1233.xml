@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1233" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1233.pdf">
   <front>
     <title>U.S. team visit to France on health care facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1233"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1233"/>
-    <author fullname="Samuel Kramer" initials="S." surname="Kramer"/>
+    <author fullname="Samuel Kramer" initials="S." surname="Kramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1233"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1233"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph14.pdf">
   <front>
     <title>Bibliography on molecular and crystal structure models</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.14"/>
-    <seriesInfo name="NIST" value="NBS MONO 14"/>
-    <author fullname="Deane Smith" initials="D." surname="Smith"/>
+    <author fullname="Deane Smith" initials="K" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.14"/>
+  <seriesInfo name="NIST" value="NBS MONO 14"/>
 </reference>

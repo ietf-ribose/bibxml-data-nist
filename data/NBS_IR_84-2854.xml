@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2854" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2854.pdf">
   <front>
     <title>Angular distribution of high energy electrons following radiation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2854"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2854"/>
-    <author fullname="Leonard Maximon" initials="L." surname="Maximon"/>
-    <author fullname="Alfred Lepretre" initials="A." surname="Lepretre"/>
+    <author fullname="Leonard Maximon" initials="C" surname="Maximon">
+      <organization/>
+    </author>
+    <author fullname="Alfred Lepretre" initials="A." surname="Lepretre">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2854"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2854"/>
 </reference>

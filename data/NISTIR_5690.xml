@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5690" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5690.pdf">
   <front>
     <title>Long-term performance of engineered concrete barriers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5690"/>
-    <seriesInfo name="NIST" value="NIST IR 5690"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="James Pommersheim" initials="J." surname="Pommersheim"/>
-    <author fullname="Kenneth Snyder" initials="K." surname="Snyder"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="James Pommersheim" initials="M" surname="Pommersheim">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Snyder" initials="K." surname="Snyder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5690"/>
+  <seriesInfo name="NIST" value="NIST IR 5690"/>
 </reference>

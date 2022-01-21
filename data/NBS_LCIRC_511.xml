@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.511" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular511.pdf">
   <front>
     <title>Letter Circular 511:information on ultraviolet transparency of window materials and fabrics (supersedes Letter Circular 235, 429, and 113)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.511"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 511"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.511"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 511"/>
 </reference>

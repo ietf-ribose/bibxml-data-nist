@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4478" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4478.pdf">
   <front>
     <title>Recommended fine positioning test for the Development Test Flight [DTF-1] of the NASA Flight Telerobotic Servicer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4478"/>
-    <seriesInfo name="NIST" value="NIST IR 4478"/>
-    <author fullname="Nicholas Dagalakis" initials="N." surname="Dagalakis"/>
-    <author fullname="Albert Wavering" initials="A." surname="Wavering"/>
-    <author fullname="Peter Spidaliere" initials="P." surname="Spidaliere"/>
+    <author fullname="Nicholas Dagalakis" initials="N." surname="Dagalakis">
+      <organization/>
+    </author>
+    <author fullname="Albert Wavering" initials="J" surname="Wavering">
+      <organization/>
+    </author>
+    <author fullname="Peter Spidaliere" initials="P." surname="Spidaliere">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4478"/>
+  <seriesInfo name="NIST" value="NIST IR 4478"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5752" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5752.pdf">
   <front>
     <title>Summary report:second workshop on industrial applications of scanned probe microscopy, May 2-3, 1995</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5752"/>
-    <seriesInfo name="NIST" value="NIST IR 5752"/>
-    <author surname="Dagata"/>
-    <author surname="Diebold"/>
-    <author surname="Shih"/>
-    <author surname="Colton"/>
+    <author initials="JA" surname="Dagata">
+      <organization/>
+    </author>
+    <author initials="AC" surname="Diebold">
+      <organization/>
+    </author>
+    <author initials="CK" surname="Shih">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Colton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5752"/>
+  <seriesInfo name="NIST" value="NIST IR 5752"/>
 </reference>

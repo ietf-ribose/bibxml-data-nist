@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.858" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote858.pdf">
   <front>
     <title>A program for the survey of fire loads and live loads in office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.858"/>
-    <seriesInfo name="NIST" value="NBS TN 858"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
-    <author fullname="Jill Kushner" initials="J." surname="Kushner"/>
+    <author fullname="Charles Culver" initials="C." surname="Culver">
+      <organization/>
+    </author>
+    <author fullname="Jill Kushner" initials="J." surname="Kushner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.858"/>
+  <seriesInfo name="NIST" value="NBS TN 858"/>
 </reference>

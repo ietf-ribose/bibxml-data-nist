@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1404" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1404.pdf">
   <front>
     <title>Control of mobile-ion contamination in oxidation ambients for MOS device processing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1404"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1404"/>
-    <author fullname="Santos Mayo" initials="S." surname="Mayo"/>
-    <author fullname="Richard Koyama" initials="R." surname="Koyama"/>
-    <author fullname="Thomas Leedy" initials="T." surname="Leedy"/>
+    <author fullname="Santos Mayo" initials="S." surname="Mayo">
+      <organization/>
+    </author>
+    <author fullname="Richard Koyama" initials="Y" surname="Koyama">
+      <organization/>
+    </author>
+    <author fullname="Thomas Leedy" initials="F" surname="Leedy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1404"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1404"/>
 </reference>

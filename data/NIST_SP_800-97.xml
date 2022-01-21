@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-97" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-97.pdf">
   <front>
     <title>Establishing wireless robust security networks :a guide to IEEE 802.11i</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-97"/>
-    <seriesInfo name="NIST" value="NIST SP 800-97"/>
-    <author surname="Frankel">
+    <author initials="SE" surname="Frankel">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Eydt">
+    <author initials="B" surname="Eydt">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Owens">
+    <author initials="L" surname="Owens">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-97"/>
+  <seriesInfo name="NIST" value="NIST SP 800-97"/>
 </reference>

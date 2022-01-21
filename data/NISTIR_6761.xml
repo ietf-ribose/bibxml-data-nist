@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6761" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6761.pdf">
   <front>
     <title>User's guide for smokeview version 2.0 :a tool for visualizing fire dynamics simulation data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6761"/>
-    <seriesInfo name="NIST" value="NIST IR 6761"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6761"/>
+  <seriesInfo name="NIST" value="NIST IR 6761"/>
 </reference>

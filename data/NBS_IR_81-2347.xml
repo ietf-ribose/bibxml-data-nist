@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2347" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2347.pdf">
   <front>
     <title>Field measurement of branch circuit wire temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2347"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2347"/>
-    <author fullname="Thomas Faison" initials="T." surname="Faison"/>
+    <author fullname="Thomas Faison" initials="K" surname="Faison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2347"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2347"/>
 </reference>

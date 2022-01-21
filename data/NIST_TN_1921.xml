@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1921" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1921.pdf">
   <front>
     <title>Characterization of emissions from spray polyurethane foam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1921"/>
-    <seriesInfo name="NIST" value="NIST TN 1921"/>
     <author fullname="Dustin Poppendieck" initials="D." surname="Poppendieck">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="September" day="8"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1921"/>
+  <seriesInfo name="NIST" value="NIST TN 1921"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.648" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote648.pdf">
   <front>
     <title>Thermophysical properties of nitrogen from the fusion line to 3500 R (1944 K) for pressures to 150,000 PSIA (10342 x 10⁵ N</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.648"/>
-    <seriesInfo name="NIST" value="NBS TN 648"/>
-    <author fullname="Richard Jacobsen" initials="R." surname="Jacobsen"/>
+    <author fullname="Richard Jacobsen" initials="T" surname="Jacobsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.648"/>
+  <seriesInfo name="NIST" value="NBS TN 648"/>
 </reference>

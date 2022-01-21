@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.7758" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7758.pdf">
   <front>
     <title>An introduction to the good, the bad, &amp; the ugly face recognition challenge problem</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7758"/>
-    <seriesInfo name="NIST" value="NIST IR 7758"/>
-    <author surname="Phillips"/>
-    <author surname="Sahibzada"/>
-    <author surname="Beveridge"/>
-    <author surname="Draper"/>
-    <author surname="Givens"/>
-    <author surname="Bolme"/>
-    <author surname="Lui"/>
-    <author surname="O'Toole"/>
-    <author surname="Dunlop"/>
-    <author surname="Weimer"/>
+    <author initials="PJ" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="HA" surname="Sahibzada">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Beveridge">
+      <organization/>
+    </author>
+    <author initials="BA" surname="Draper">
+      <organization/>
+    </author>
+    <author initials="GH" surname="Givens">
+      <organization/>
+    </author>
+    <author initials="DS" surname="Bolme">
+      <organization/>
+    </author>
+    <author initials="YM" surname="Lui">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="O'Toole">
+      <organization/>
+    </author>
+    <author initials="J" surname="Dunlop">
+      <organization/>
+    </author>
+    <author initials="S" surname="Weimer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7758"/>
+  <seriesInfo name="NIST" value="NIST IR 7758"/>
 </reference>

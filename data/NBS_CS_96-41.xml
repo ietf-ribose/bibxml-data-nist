@@ -1,8 +1,6 @@
 <reference anchor="NBS.CS.96-41" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cs96-41.pdf">
   <front>
     <title>Lead traps and bends</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CS.96-41"/>
-    <seriesInfo name="NIST" value="NBS CS 96-41"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1941"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CS.96-41"/>
+  <seriesInfo name="NIST" value="NBS CS 96-41"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5955" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5955.pdf">
   <front>
     <title>Combined optical and neural network fingerprint matching</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5955"/>
-    <seriesInfo name="NIST" value="NIST IR 5955"/>
-    <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
-    <author fullname="EungGi Paek" initials="E.G." surname="Paek"/>
+    <author fullname="Charles Wilson" initials="L" surname="Wilson">
+      <organization/>
+    </author>
+    <author fullname="Craig Watson" initials="I" surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="EungGi Paek" initials="E.G." surname="Paek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5955"/>
+  <seriesInfo name="NIST" value="NIST IR 5955"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.1028" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1028.pdf">
   <front>
     <title>Letter Circular 1028:nomenclature of copper alloys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1028"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1028"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1028"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1028"/>
 </reference>

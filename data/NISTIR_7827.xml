@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7827" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7827.pdf">
   <front>
     <title>Integrating jQuery with the 3D descriptive markup of X3DOM</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7827"/>
-    <seriesInfo name="NIST" value="NIST IR 7827"/>
-    <author fullname="Sandy Ressler" initials="S." surname="Ressler"/>
+    <author fullname="Sandy Ressler" initials="S." surname="Ressler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7827"/>
+  <seriesInfo name="NIST" value="NIST IR 7827"/>
 </reference>

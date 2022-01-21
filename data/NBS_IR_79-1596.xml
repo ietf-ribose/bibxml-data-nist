@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1596" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1596.pdf">
   <front>
     <title>Studies of flammability test procedures for curtains and drapes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1596"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1596"/>
-    <author fullname="Donna Hopkins" initials="D." surname="Hopkins"/>
-    <author fullname="John Krasny" initials="J." surname="Krasny"/>
+    <author fullname="Donna Hopkins" initials="E" surname="Hopkins">
+      <organization/>
+    </author>
+    <author fullname="John Krasny" initials="F" surname="Krasny">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1596"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1596"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-862" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-862.pdf">
   <front>
     <title>Studies of hydrogen liquefier efficiency and the recovery of the liquefaction energy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-862"/>
-    <seriesInfo name="NIST" value="NBS IR 77-862"/>
-    <author surname="Voth"/>
-    <author surname="Parrish"/>
+    <author initials="RO" surname="Voth">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Parrish">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-862"/>
+  <seriesInfo name="NIST" value="NBS IR 77-862"/>
 </reference>

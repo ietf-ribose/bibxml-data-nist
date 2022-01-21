@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7077" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7077.pdf">
   <front>
     <title>A database design for the machine shop information model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7077"/>
-    <seriesInfo name="NIST" value="NIST IR 7077"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Yan Luo" initials="Y." surname="Luo"/>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Yan Luo" initials="Y." surname="Luo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7077"/>
+  <seriesInfo name="NIST" value="NIST IR 7077"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-517" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-517.pdf">
   <front>
     <title>Methodology and supporting documentation for the measurement of noise from medium and heavy trucks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-517"/>
-    <seriesInfo name="NIST" value="NBS IR 74-517"/>
-    <author surname="Leasure"/>
-    <author surname="Quindry"/>
+    <author initials="WA" surname="Leasure">
+      <organization/>
+    </author>
+    <author initials="TL" surname="Quindry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-517"/>
+  <seriesInfo name="NIST" value="NBS IR 74-517"/>
 </reference>

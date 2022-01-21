@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5233" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5233.pdf">
   <front>
     <title>Operating principles of the VME MultiKron interface board</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5233"/>
-    <seriesInfo name="NIST" value="NIST IR 5233"/>
-    <author fullname="John Antonishek" initials="J." surname="Antonishek"/>
+    <author fullname="John Antonishek" initials="K" surname="Antonishek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5233"/>
+  <seriesInfo name="NIST" value="NIST IR 5233"/>
 </reference>

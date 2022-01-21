@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7772" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7772.pdf">
   <front>
     <title>Information model for disassembly for reuse, recycle, and remanufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7772"/>
-    <seriesInfo name="NIST" value="NIST IR 7772"/>
-    <author fullname="Shaw Feng" initials="S." surname="Feng"/>
-    <author fullname="Hanmin Lee" initials="H." surname="Lee"/>
-    <author fullname="Che Joung" initials="C." surname="Joung"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
-    <author fullname="Parisa Ghodous" initials="P." surname="Ghodous"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Shaw Feng" initials="C" surname="Feng">
+      <organization/>
+    </author>
+    <author fullname="Hanmin Lee" initials="H." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Che Joung" initials="B" surname="Joung">
+      <organization/>
+    </author>
+    <author fullname="Thomas Kramer" initials="T." surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Parisa Ghodous" initials="P." surname="Ghodous">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7772"/>
+  <seriesInfo name="NIST" value="NIST IR 7772"/>
 </reference>

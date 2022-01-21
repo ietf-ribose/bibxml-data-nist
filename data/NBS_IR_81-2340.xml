@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2340" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2340.pdf">
   <front>
     <title>A glossary of terms for robotics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2340"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2340"/>
-    <author fullname="Bradford Smith" initials="B." surname="Smith"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
-    <author fullname="Anthony Barbara" initials="A." surname="Barbara"/>
+    <author fullname="Bradford Smith" initials="M" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="James Albus" initials="S" surname="Albus">
+      <organization/>
+    </author>
+    <author fullname="Anthony Barbara" initials="J" surname="Barbara">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2340"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2340"/>
 </reference>

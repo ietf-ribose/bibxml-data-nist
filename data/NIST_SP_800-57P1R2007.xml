@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.800-57p1r2007" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-57p1r2007.pdf">
   <front>
     <title>Recommendation for key management, part 1 :general (revised)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-57p1r2007"/>
-    <seriesInfo name="NIST" value="NIST SP 800-57p1r2007"/>
-    <author surname="Barker">
+    <author initials="EB" surname="Barker">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Barker">
+    <author initials="WC" surname="Barker">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Burr">
+    <author initials="WE" surname="Burr">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Polk">
+    <author initials="WT" surname="Polk">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Smid">
+    <author initials="ME" surname="Smid">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-57p1r2007"/>
+  <seriesInfo name="NIST" value="NIST SP 800-57p1r2007"/>
 </reference>

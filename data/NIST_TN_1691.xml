@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1691" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1691.pdf">
   <front>
     <title>Performance of new and aged residential fire smoke alarms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1691"/>
-    <seriesInfo name="NIST" value="NIST TN 1691"/>
-    <author fullname="Jason Averill" initials="J." surname="Averill"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
-    <author fullname="Daniel Murphy" initials="D." surname="Murphy"/>
+    <author fullname="Jason Averill" initials="D" surname="Averill">
+      <organization/>
+    </author>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
+    <author fullname="Daniel Murphy" initials="C" surname="Murphy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1691"/>
+  <seriesInfo name="NIST" value="NIST TN 1691"/>
 </reference>

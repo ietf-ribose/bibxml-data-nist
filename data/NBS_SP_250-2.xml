@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.250-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-2.pdf">
   <front>
     <title>Far ultraviolet detector standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-2"/>
-    <seriesInfo name="NIST" value="NBS SP 250-2"/>
-    <author fullname="Randall Canfield" initials="R." surname="Canfield"/>
-    <author fullname="Nils Swanson" initials="N." surname="Swanson"/>
+    <author fullname="Randall Canfield" initials="L" surname="Canfield">
+      <organization/>
+    </author>
+    <author fullname="Nils Swanson" initials="N." surname="Swanson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-2"/>
+  <seriesInfo name="NIST" value="NBS SP 250-2"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7747" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7747.pdf">
   <front>
     <title>SlapSagII analysis :matching segmented fingerprint images</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7747"/>
-    <seriesInfo name="NIST" value="NIST IR 7747"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
-    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan"/>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Patricia Flanagan" initials="P." surname="Flanagan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7747"/>
+  <seriesInfo name="NIST" value="NIST IR 7747"/>
 </reference>

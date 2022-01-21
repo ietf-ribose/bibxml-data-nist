@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-79-2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-79-2.pdf">
   <front>
     <title>Guidelines for the Authorization of Personal Identity Verification Card Issuers (PCI) and Derived PIV Credential Issuers (DPCI)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-79-2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-79-2"/>
     <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2015" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-79-2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-79-2"/>
 </reference>

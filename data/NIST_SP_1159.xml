@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.1159" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1159.pdf">
   <front>
     <title>Greenhouse Gas Emissions and Dispersion : 2. Comparison of FDS Predictions with Gas Velocity Measurements in the Exhaust Duct of a Stationary Source</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1159"/>
-    <seriesInfo name="NIST" value="NIST SP 1159"/>
     <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
       <organization>Standard Coordination Office, Standards Services</organization>
     </author>
-    <author fullname="Rodney Bryant" initials="R." surname="Bryant">
+    <author fullname="Rodney Bryant" initials="A" surname="Bryant">
       <organization>Standard Coordination Office, Standards Services</organization>
     </author>
     <author fullname="Kevin Li" initials="K." surname="Li">
       <organization>Standard Coordination Office, Standards Services</organization>
     </author>
-    <author fullname="Elizabeth Moore" initials="E." surname="Moore">
+    <author fullname="Elizabeth Moore" initials="F" surname="Moore">
       <organization>Standard Coordination Office, Standards Services</organization>
     </author>
     <author fullname="Aaron Johnson" initials="A." surname="Johnson">
       <organization>Standard Coordination Office, Standards Services</organization>
     </author>
-    <author fullname="James Whetstone" initials="J." surname="Whetstone">
+    <author fullname="James Whetstone" initials="R" surname="Whetstone">
       <organization>Standard Coordination Office, Standards Services</organization>
     </author>
     <author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1159"/>
+  <seriesInfo name="NIST" value="NIST SP 1159"/>
 </reference>

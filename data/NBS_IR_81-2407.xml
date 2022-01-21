@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.81-2407" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2407.pdf">
   <front>
     <title>Intruder tagging and identification using luminescent particles</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2407"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2407"/>
-    <author surname="DeVoe"/>
-    <author surname="Velapoldi"/>
-    <author surname="Langland"/>
-    <author surname="Hancock"/>
+    <author initials="JR" surname="DeVoe">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Velapoldi">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Langland">
+      <organization/>
+    </author>
+    <author initials="DK" surname="Hancock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2407"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2407"/>
 </reference>

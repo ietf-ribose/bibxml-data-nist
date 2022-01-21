@@ -1,27 +1,25 @@
 <reference anchor="NIST.SP.260-212" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-212.pdf">
   <front>
     <title>Certification of Standard Reference Material® 916b: Bilirubin</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-212"/>
-    <seriesInfo name="NIST" value="NIST SP 260-212"/>
-    <author fullname="Michael Nelson" initials="M." surname="Nelson">
+    <author fullname="Michael Nelson" initials="A" surname="Nelson">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Brian Lang" initials="B." surname="Lang">
+    <author fullname="Brian Lang" initials="E" surname="Lang">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jerome Mulloor" initials="J." surname="Mulloor">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="John Sieber" initials="J." surname="Sieber">
+    <author fullname="John Sieber" initials="R" surname="Sieber">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Blaza Toman" initials="B." surname="Toman">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Lee Yu" initials="L." surname="Yu">
+    <author fullname="Lee Yu" initials="L" surname="Yu">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Stanley Lo" initials="S." surname="Lo">
@@ -32,4 +30,6 @@
     </author>
     <date year="2021" month="September" day="20"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-212"/>
+  <seriesInfo name="NIST" value="NIST SP 260-212"/>
 </reference>

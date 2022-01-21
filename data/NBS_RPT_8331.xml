@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.8331" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8331.pdf">
   <front>
     <title>A study of the characteristics of refrigerant-pressure-actuated water regulating valves for refrigerant condensers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8331"/>
-    <seriesInfo name="NIST" value="NBS RPT 8331"/>
-    <author surname="Cole"/>
-    <author fullname="Carl Phillips" initials="C." surname="Phillips"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
+    <author initials="SD" surname="Cole">
+      <organization/>
+    </author>
+    <author fullname="Carl Phillips" initials="W" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8331"/>
+  <seriesInfo name="NIST" value="NBS RPT 8331"/>
 </reference>

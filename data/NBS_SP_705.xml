@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.705" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication705.pdf">
   <front>
     <title>recision measurement and calibration, electricity</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.705"/>
-    <seriesInfo name="NIST" value="NBS SP 705"/>
-    <author surname="McCoubrey"/>
+    <author initials="AO" surname="McCoubrey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.705"/>
+  <seriesInfo name="NIST" value="NBS SP 705"/>
 </reference>

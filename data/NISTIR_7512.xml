@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7512" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7512.pdf">
   <front>
     <title>A report on the certification of an absolute molecular mass distribution polymer standard:standard reference materials 2881</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7512"/>
-    <seriesInfo name="NIST" value="NIST IR 7512"/>
-    <author fullname="Charles Guttman" initials="C." surname="Guttman"/>
-    <author fullname="Kathleen Flynn" initials="K." surname="Flynn"/>
-    <author fullname="William Wallace" initials="W." surname="Wallace"/>
-    <author fullname="Anthony Kearsley" initials="A." surname="Kearsley"/>
+    <author fullname="Charles Guttman" initials="M" surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Flynn" initials="M" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="William Wallace" initials="E" surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Anthony Kearsley" initials="J" surname="Kearsley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7512"/>
+  <seriesInfo name="NIST" value="NIST IR 7512"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1505" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1505.pdf">
   <front>
     <title>Characteristics of helicoid anemometers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1505"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1505"/>
-    <author surname="McMichael"/>
-    <author surname="Cleveland"/>
+    <author initials="JM" surname="McMichael">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Cleveland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1505"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1505"/>
 </reference>

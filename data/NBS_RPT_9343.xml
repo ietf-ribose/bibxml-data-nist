@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9343" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9343.pdf">
   <front>
     <title>Induced accelerated deterioration of portland cement concrete :semiannual progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9343"/>
-    <seriesInfo name="NIST" value="NBS RPT 9343"/>
-    <author fullname="Raymond Blaine" initials="R." surname="Blaine"/>
+    <author fullname="Raymond Blaine" initials="L" surname="Blaine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9343"/>
+  <seriesInfo name="NIST" value="NBS RPT 9343"/>
 </reference>

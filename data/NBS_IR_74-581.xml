@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-581" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-581.pdf">
   <front>
     <title>Development of a solid sorption tube for sampling hydrogen fluoride in the work atmosphere</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-581"/>
-    <seriesInfo name="NIST" value="NBS IR 74-581"/>
-    <author fullname="James Wing" initials="J." surname="Wing"/>
-    <author fullname="John Taylor" initials="J." surname="Taylor"/>
+    <author fullname="James Wing" initials="J." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="John Taylor" initials="K" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-581"/>
+  <seriesInfo name="NIST" value="NBS IR 74-581"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.90-4246" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4246.pdf">
   <front>
     <title>Fire risk assessment method:case study 4, interior finish in restaurants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4246"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4246"/>
-    <author surname="Bukowski"/>
-    <author surname="Jones"/>
-    <author fullname="Jr Hall" initials="J." surname="Hall"/>
-    <author surname="Clarke"/>
+    <author initials="RW" surname="Bukowski">
+      <organization/>
+    </author>
+    <author initials="WW" surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Jr Hall" initials="JR" surname="Hall">
+      <organization/>
+    </author>
+    <author initials="FB" surname="Clarke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4246"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4246"/>
 </reference>

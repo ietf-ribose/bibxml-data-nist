@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7297c" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7297c.pdf">
   <front>
     <title>FS-TST 2.0 :forensic software testing support tools code review report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7297c"/>
-    <seriesInfo name="NIST" value="NIST IR 7297c"/>
-    <author fullname="Paul Black" initials="P." surname="Black"/>
+    <author fullname="Paul Black" initials="E" surname="Black">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7297c"/>
+  <seriesInfo name="NIST" value="NIST IR 7297c"/>
 </reference>

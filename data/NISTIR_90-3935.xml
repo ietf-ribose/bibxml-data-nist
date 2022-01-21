@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-3935" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-3935.pdf">
   <front>
     <title>Development of standards for superconductors- final report January 1988-December 1989</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-3935"/>
-    <seriesInfo name="NIST" value="NIST IR 90-3935"/>
-    <author surname="Goodrich"/>
-    <author surname="Goldfarb"/>
-    <author surname="Bray"/>
+    <author initials="LF" surname="Goodrich">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Goldfarb">
+      <organization/>
+    </author>
+    <author initials="SL" surname="Bray">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-3935"/>
+  <seriesInfo name="NIST" value="NIST IR 90-3935"/>
 </reference>

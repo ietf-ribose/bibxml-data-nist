@@ -1,13 +1,17 @@
 <reference anchor="NIST.IR.7868" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7868.pdf">
   <front>
     <title>A Restricted English for Constructing Ontologies (RECON)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7868"/>
-    <seriesInfo name="NIST" value="NIST IR 7868"/>
-    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
-    <author fullname="Andreas Mattas" initials="A." surname="Mattas"/>
+    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer">
+      <organization/>
+    </author>
+    <author fullname="Andreas Mattas" initials="A." surname="Mattas">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7868"/>
+  <seriesInfo name="NIST" value="NIST IR 7868"/>
 </reference>

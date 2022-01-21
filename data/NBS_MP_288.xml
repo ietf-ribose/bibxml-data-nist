@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.288" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub288.pdf">
   <front>
     <title>Directory of United States standardization activities (supersedes MP230)/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.288"/>
-    <seriesInfo name="NIST" value="NBS MP 288"/>
-    <author fullname="Joan Hartman" initials="J." surname="Hartman"/>
+    <author fullname="Joan Hartman" initials="E" surname="Hartman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.288"/>
+  <seriesInfo name="NIST" value="NBS MP 288"/>
 </reference>

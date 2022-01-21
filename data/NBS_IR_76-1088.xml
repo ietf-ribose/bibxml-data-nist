@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1088" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1088.pdf">
   <front>
     <title>Estimating the energy conservation potential of ventilation control through weather data analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1088"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1088"/>
-    <author surname="Kusuda"/>
-    <author surname="Bean"/>
+    <author initials="T" surname="Kusuda">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Bean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1088"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1088"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.5954" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5954.pdf">
   <front>
     <title>A survey of some problems involved in a study of deluge sprinkler system for fire protection of hangars</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5954"/>
-    <seriesInfo name="NIST" value="NBS RPT 5954"/>
-    <author fullname="Harry Shoub" initials="H." surname="Shoub"/>
-    <author surname="Bender"/>
+    <author fullname="Harry Shoub" initials="H." surname="Shoub">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Bender">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1958"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5954"/>
+  <seriesInfo name="NIST" value="NBS RPT 5954"/>
 </reference>

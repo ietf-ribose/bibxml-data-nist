@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8286A" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8286A.pdf">
   <front>
     <title>Identifying and Estimating Cybersecurity Risk for Enterprise Risk Management</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8286A"/>
-    <seriesInfo name="NIST" value="NIST IR 8286A"/>
     <author fullname="Stephen Quinn" initials="S." surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,7 +16,7 @@
     <author fullname="Greg Witte" initials="G." surname="Witte">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Gardner">
+    <author initials="RK" surname="Gardner">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2021" month="November" day="12"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8286A"/>
+  <seriesInfo name="NIST" value="NIST IR 8286A"/>
 </reference>

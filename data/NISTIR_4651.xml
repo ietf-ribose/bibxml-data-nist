@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.4651" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4651.pdf">
   <front>
     <title>Government Network Management Profile (GNMP):public review version of proposed FIPS</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4651"/>
-    <seriesInfo name="NIST" value="NIST IR 4651"/>
-    <author fullname="Robert Aronoff" initials="R." surname="Aronoff"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
-    <author fullname="Michael Chernick" initials="M." surname="Chernick"/>
-    <author fullname="Jim Fox" initials="J." surname="Fox"/>
-    <author fullname="Karen Hsing" initials="K." surname="Hsing"/>
-    <author fullname="Kevin Mills" initials="K." surname="Mills"/>
-    <author fullname="Fran Nielsen" initials="F." surname="Nielsen"/>
+    <author fullname="Robert Aronoff" initials="R." surname="Aronoff">
+      <organization/>
+    </author>
+    <author fullname="Kevin Brady" initials="K." surname="Brady">
+      <organization/>
+    </author>
+    <author fullname="Michael Chernick" initials="M." surname="Chernick">
+      <organization/>
+    </author>
+    <author fullname="Jim Fox" initials="J." surname="Fox">
+      <organization/>
+    </author>
+    <author fullname="Karen Hsing" initials="K." surname="Hsing">
+      <organization/>
+    </author>
+    <author fullname="Kevin Mills" initials="K." surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="Fran Nielsen" initials="F." surname="Nielsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4651"/>
+  <seriesInfo name="NIST" value="NIST IR 4651"/>
 </reference>

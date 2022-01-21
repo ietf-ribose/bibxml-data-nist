@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1019" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1019.pdf">
   <front>
     <title>Measurement of optical fiber bandwidth in the time domain</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1019"/>
-    <seriesInfo name="NIST" value="NBS TN 1019"/>
-    <author fullname="Douglas Franzen" initials="D." surname="Franzen"/>
+    <author fullname="Douglas Franzen" initials="L" surname="Franzen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1019"/>
+  <seriesInfo name="NIST" value="NBS TN 1019"/>
 </reference>

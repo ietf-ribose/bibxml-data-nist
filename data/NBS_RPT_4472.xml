@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.4472" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4472.pdf">
   <front>
     <title>Water vapor transmission through joints and breaker strips of insulated panels for refrigerated warehouse, panel no. 1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4472"/>
-    <seriesInfo name="NIST" value="NBS RPT 4472"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
-    <author surname="McDorman"/>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
+    <author initials="ON" surname="McDorman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4472"/>
+  <seriesInfo name="NIST" value="NBS RPT 4472"/>
 </reference>

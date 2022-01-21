@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2055" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2055.pdf">
   <front>
     <title>Compartment fire experiments on long-span composite-beams with simple shear connections part 2:test results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2055"/>
-    <seriesInfo name="NIST" value="NIST TN 2055"/>
     <author fullname="Lisa Choe" initials="L." surname="Choe">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2019" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2055"/>
+  <seriesInfo name="NIST" value="NIST TN 2055"/>
 </reference>

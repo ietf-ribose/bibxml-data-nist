@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1943" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1943.pdf">
   <front>
     <title>Architecture for software-assisted quantity calculus</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1943"/>
-    <seriesInfo name="NIST" value="NIST TN 1943"/>
-    <author fullname="David Flater" initials="D." surname="Flater">
+    <author fullname="David Flater" initials="W" surname="Flater">
       <organization>Information Technology Laboratory.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1943"/>
+  <seriesInfo name="NIST" value="NIST TN 1943"/>
 </reference>

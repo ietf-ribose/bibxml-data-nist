@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.88-3724" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3724.pdf">
   <front>
     <title>Flame roll-out study for gas-fired water heaters</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3724"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3724"/>
-    <author fullname="James Kao" initials="J." surname="Kao"/>
-    <author fullname="Donald Ward" initials="D." surname="Ward"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
+    <author fullname="James Kao" initials="Y" surname="Kao">
+      <organization/>
+    </author>
+    <author fullname="Donald Ward" initials="B" surname="Ward">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3724"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3724"/>
 </reference>

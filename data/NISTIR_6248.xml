@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6248" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6248.pdf">
   <front>
     <title>Materials reliability, 1998 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6248"/>
-    <seriesInfo name="NIST" value="NIST IR 6248"/>
-    <author fullname="Harry McHenry" initials="H." surname="McHenry"/>
-    <author fullname="Thomas Siewert" initials="T." surname="Siewert"/>
+    <author fullname="Harry McHenry" initials="I" surname="McHenry">
+      <organization/>
+    </author>
+    <author fullname="Thomas Siewert" initials="A" surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6248"/>
+  <seriesInfo name="NIST" value="NIST IR 6248"/>
 </reference>

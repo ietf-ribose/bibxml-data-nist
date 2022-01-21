@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1260" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1260.pdf">
   <front>
     <title>Economic Decision Guide Software (EDGeWildfire Urban Interface (WUI) case study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1260"/>
-    <seriesInfo name="NIST" value="NIST SP 1260"/>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+    <author fullname="Jennifer Helgeson" initials="F" surname="Helgeson">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Peter Zhang" initials="P." surname="Zhang">
+    <author fullname="Peter Zhang" initials="J" surname="Zhang">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1260"/>
+  <seriesInfo name="NIST" value="NIST SP 1260"/>
 </reference>

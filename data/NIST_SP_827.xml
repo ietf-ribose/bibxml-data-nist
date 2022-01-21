@@ -1,16 +1,30 @@
 <reference anchor="NIST.SP.827" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication827.pdf">
   <front>
     <title>Toxic potency measurement for fire hazard analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.827"/>
-    <seriesInfo name="NIST" value="NIST SP 827"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
-    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
-    <author fullname="RichardH,Jr Harris" initials="R.H.J." surname="Harris"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Shyuitsu Yusa" initials="S." surname="Yusa"/>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
+    <author fullname="Vytenis Babrauskas" initials="V." surname="Babrauskas">
+      <organization/>
+    </author>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
+    <author fullname="RichardH,Jr Harris" initials="R.H.J." surname="Harris">
+      <organization/>
+    </author>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Shyuitsu Yusa" initials="S." surname="Yusa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.827"/>
+  <seriesInfo name="NIST" value="NIST SP 827"/>
 </reference>

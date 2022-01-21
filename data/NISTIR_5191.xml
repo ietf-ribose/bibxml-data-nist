@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5191" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5191.pdf">
   <front>
     <title>Computer graphics metafile (CGM) test requirements document (update)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5191"/>
-    <seriesInfo name="NIST" value="NIST IR 5191"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5191"/>
+  <seriesInfo name="NIST" value="NIST IR 5191"/>
 </reference>

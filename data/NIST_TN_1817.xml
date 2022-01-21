@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1817" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1817.pdf">
   <front>
     <title>Simulating Occupancy in the NIST Net-Zero Energy Residential Test Facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1817"/>
-    <seriesInfo name="NIST" value="NIST TN 1817"/>
     <author fullname="Farhad Omar" initials="F." surname="Omar">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby">
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1817"/>
+  <seriesInfo name="NIST" value="NIST TN 1817"/>
 </reference>

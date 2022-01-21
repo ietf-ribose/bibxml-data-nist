@@ -1,13 +1,21 @@
 <reference anchor="NIST.NCSTAR.1-5c" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-5c.pdf">
   <front>
     <title>Fire tests of single office workstations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5c"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-5c"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
-    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="George Mulholland" initials="W" surname="Mulholland">
+      <organization/>
+    </author>
+    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
+      <organization/>
+    </author>
+    <author fullname="James Filliben" initials="J" surname="Filliben">
+      <organization/>
+    </author>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5c"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-5c"/>
 </reference>

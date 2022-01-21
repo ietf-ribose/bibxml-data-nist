@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7509.pdf">
   <front>
     <title>An ontological modeling platform</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7509"/>
-    <seriesInfo name="NIST" value="NIST IR 7509"/>
-    <author fullname="Vei-Chung Liang" initials="V." surname="Liang"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="XuanFang Zha" initials="X." surname="Zha"/>
+    <author fullname="Vei-Chung Liang" initials="V." surname="Liang">
+      <organization/>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="XuanFang Zha" initials="X." surname="Zha">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7509"/>
+  <seriesInfo name="NIST" value="NIST IR 7509"/>
 </reference>

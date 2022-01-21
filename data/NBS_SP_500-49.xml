@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-49" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-49.pdf">
   <front>
     <title>Modeling and measurement techniques for evaluation of design alternatives in the implementation of database management software</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-49"/>
-    <seriesInfo name="NIST" value="NBS SP 500-49"/>
-    <author fullname="Donald Deutsch" initials="D." surname="Deutsch"/>
+    <author fullname="Donald Deutsch" initials="R" surname="Deutsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-49"/>
+  <seriesInfo name="NIST" value="NBS SP 500-49"/>
 </reference>

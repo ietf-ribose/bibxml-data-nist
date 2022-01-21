@@ -1,21 +1,19 @@
 <reference anchor="NIST.TN.1937" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1937.pdf">
   <front>
     <title>Development of Laboratory Test Methods for RF-Based Electronic Safety Equipment: Guide to the NFPA 1982 Standard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1937"/>
-    <seriesInfo name="NIST" value="NIST TN 1937"/>
-    <author fullname="Audrey Puls" initials="A." surname="Puls">
+    <author fullname="Audrey Puls" initials="K" surname="Puls">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="William Young" initials="W." surname="Young">
+    <author fullname="William Young" initials="F" surname="Young">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Kate Remley" initials="K." surname="Remley">
+    <author fullname="Kate Remley" initials="A" surname="Remley">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Jacob Healy" initials="J." surname="Healy">
+    <author fullname="Jacob Healy" initials="L" surname="Healy">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Luis Gonzalez" initials="L." surname="Gonzalez">
+    <author fullname="Luis Gonzalez" initials="A" surname="Gonzalez">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1937"/>
+  <seriesInfo name="NIST" value="NIST TN 1937"/>
 </reference>

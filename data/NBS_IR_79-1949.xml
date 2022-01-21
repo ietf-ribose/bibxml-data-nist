@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.79-1949" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1949.pdf">
   <front>
     <title>Evaluation of selected Navy equipment for the women-aboard-ship program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1949"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1949"/>
-    <author fullname="Robert Palla" initials="R." surname="Palla"/>
-    <author fullname="Clarke Jones" initials="C." surname="Jones"/>
-    <author fullname="Denver Lovett" initials="D." surname="Lovett"/>
-    <author fullname="Louis Porter" initials="L." surname="Porter"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
+    <author fullname="Robert Palla" initials="L" surname="Palla">
+      <organization/>
+    </author>
+    <author fullname="Clarke Jones" initials="E" surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Denver Lovett" initials="C" surname="Lovett">
+      <organization/>
+    </author>
+    <author fullname="Louis Porter" initials="G" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1949"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1949"/>
 </reference>

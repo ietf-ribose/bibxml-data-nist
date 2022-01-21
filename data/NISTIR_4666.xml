@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4666" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4666.pdf">
   <front>
     <title>A clock for the manufacturing systems integration testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4666"/>
-    <seriesInfo name="NIST" value="NIST IR 4666"/>
-    <author fullname="Don Libes" initials="D." surname="Libes"/>
+    <author fullname="Don Libes" initials="D." surname="Libes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4666"/>
+  <seriesInfo name="NIST" value="NIST IR 4666"/>
 </reference>

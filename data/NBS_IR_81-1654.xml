@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.81-1654" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-1654.pdf">
   <front>
     <title>Low temperature mechanical properties of a polyurethane foam</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1654"/>
-    <seriesInfo name="NIST" value="NBS IR 81-1654"/>
-    <author surname="Arvidson"/>
-    <author fullname="LL Sparks" initials="L." surname="Sparks"/>
+    <author initials="JM" surname="Arvidson">
+      <organization/>
+    </author>
+    <author fullname="LL Sparks" initials="L." surname="Sparks">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-1654"/>
+  <seriesInfo name="NIST" value="NBS IR 81-1654"/>
 </reference>

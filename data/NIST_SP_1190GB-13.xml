@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1190GB-13" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1190GB-13.pdf">
   <front>
     <title>Guide Brief 13</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-13"/>
-    <seriesInfo name="NIST" value="NIST SP 1190GB-13"/>
     <author fullname="CommunityResilienceProgram NIST" initials="C.R.P." surname="NIST">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1190GB-13"/>
+  <seriesInfo name="NIST" value="NIST SP 1190GB-13"/>
 </reference>

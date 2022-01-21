@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.62" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures62.pdf">
   <front>
     <title>Structural properties of a precast joist concrete floor construction sponsored by the Portland Cement Association</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.62"/>
-    <seriesInfo name="NIST" value="NBS BMS 62"/>
-    <author fullname="Herbert Whittemore" initials="H." surname="Whittemore"/>
-    <author fullname="Ambrose Stang" initials="A." surname="Stang"/>
-    <author fullname="Douglas Parsons" initials="D." surname="Parsons"/>
+    <author fullname="Herbert Whittemore" initials="L" surname="Whittemore">
+      <organization/>
+    </author>
+    <author fullname="Ambrose Stang" initials="H" surname="Stang">
+      <organization/>
+    </author>
+    <author fullname="Douglas Parsons" initials="E" surname="Parsons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1940"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.62"/>
+  <seriesInfo name="NIST" value="NBS BMS 62"/>
 </reference>

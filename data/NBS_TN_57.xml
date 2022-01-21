@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.57" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote57.pdf">
   <front>
     <title>Variable capacitor calibration with an inductive voltage divider bridge</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.57"/>
-    <seriesInfo name="NIST" value="NBS TN 57"/>
-    <author fullname="Thomas Zapf" initials="T." surname="Zapf"/>
+    <author fullname="Thomas Zapf" initials="L" surname="Zapf">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.57"/>
+  <seriesInfo name="NIST" value="NBS TN 57"/>
 </reference>

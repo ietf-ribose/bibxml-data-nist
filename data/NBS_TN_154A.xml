@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.154A" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote154A.pdf">
   <front>
     <title>The thermodynamic properties of helium from 6 to 540* R between 10 and 1500 psia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.154A"/>
-    <seriesInfo name="NIST" value="NBS TN 154A"/>
-    <author fullname="Douglas Mann" initials="D." surname="Mann"/>
+    <author fullname="Douglas Mann" initials="B" surname="Mann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.154A"/>
+  <seriesInfo name="NIST" value="NBS TN 154A"/>
 </reference>

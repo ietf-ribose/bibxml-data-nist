@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6706" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6706.pdf">
   <front>
     <title>A phase-field model for high anisotropic interfacial energy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6706"/>
-    <seriesInfo name="NIST" value="NIST IR 6706"/>
-    <author surname="McFadden"/>
-    <author surname="Eggleston"/>
-    <author surname="Voorhees"/>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Eggleston">
+      <organization/>
+    </author>
+    <author initials="PW" surname="Voorhees">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6706"/>
+  <seriesInfo name="NIST" value="NIST IR 6706"/>
 </reference>

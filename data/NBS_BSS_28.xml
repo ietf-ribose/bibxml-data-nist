@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.28" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience28.pdf">
   <front>
     <title>Exploratory studies of early strength development in Portland cement pastes and mortars</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.28"/>
-    <seriesInfo name="NIST" value="NBS BSS 28"/>
-    <author surname="Blaine"/>
-    <author surname="Tomes"/>
+    <author initials="RL" surname="Blaine">
+      <organization/>
+    </author>
+    <author initials="LA" surname="Tomes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.28"/>
+  <seriesInfo name="NIST" value="NBS BSS 28"/>
 </reference>

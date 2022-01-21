@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7511" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7511.pdf">
   <front>
     <title>Security Content Automation Protocol (SCAP) Version 1.2 Validation Program Test Requirements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7511"/>
-    <seriesInfo name="NIST" value="NIST IR 7511"/>
     <author fullname="John Banghart" initials="J." surname="Banghart">
       <organization>Computer Security Division, Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7511"/>
+  <seriesInfo name="NIST" value="NIST IR 7511"/>
 </reference>

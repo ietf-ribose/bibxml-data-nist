@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7084" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7084.pdf">
   <front>
     <title>Chemical science and Technology Laboratory annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7084"/>
-    <seriesInfo name="NIST" value="NIST IR 7084"/>
-    <author fullname="William Koch" initials="W." surname="Koch"/>
+    <author fullname="William Koch" initials="F" surname="Koch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7084"/>
+  <seriesInfo name="NIST" value="NIST IR 7084"/>
 </reference>

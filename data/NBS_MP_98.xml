@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.98" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub98.pdf">
   <front>
     <title>American national screw thread tables for shop use. I. Standard threads (course and fine thread series)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.98"/>
-    <seriesInfo name="NIST" value="NBS MP 98"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1929"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.98"/>
+  <seriesInfo name="NIST" value="NBS MP 98"/>
 </reference>

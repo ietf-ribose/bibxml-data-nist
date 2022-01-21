@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.758" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote758.pdf">
   <front>
     <title>NBS reactor :summary of activities, October 1971 to September 1972</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.758"/>
-    <seriesInfo name="NIST" value="NBS TN 758"/>
-    <author role="editor" fullname="Robert Carter" initials="R." surname="Carter"/>
+    <author role="editor" fullname="Robert Carter" initials="S" surname="Carter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.758"/>
+  <seriesInfo name="NIST" value="NBS TN 758"/>
 </reference>

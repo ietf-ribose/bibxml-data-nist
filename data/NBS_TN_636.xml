@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.636" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote636.pdf">
   <front>
     <title>Modeling of atomic clock performance and detection of abnormal clock behavior</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.636"/>
-    <seriesInfo name="NIST" value="NBS TN 636"/>
-    <author fullname="William Ganter" initials="W." surname="Ganter"/>
+    <author fullname="William Ganter" initials="A" surname="Ganter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.636"/>
+  <seriesInfo name="NIST" value="NBS TN 636"/>
 </reference>

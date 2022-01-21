@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.705r1942" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular705r1942.pdf">
   <front>
     <title>Letter Circular 705:list of commercial standards (supersedes Letter Circular 695)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.705r1942"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 705r1942"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.705r1942"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 705r1942"/>
 </reference>

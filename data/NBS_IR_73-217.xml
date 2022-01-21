@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.73-217" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-217.pdf">
   <front>
     <title>Use of computer networks in support of interactive graphics for computer-aided design and engineering</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-217"/>
-    <seriesInfo name="NIST" value="NBS IR 73-217"/>
-    <author fullname="Marshall Abrams" initials="M." surname="Abrams"/>
-    <author fullname="Jerome Hudson" initials="J." surname="Hudson"/>
-    <author fullname="Paul Meissner" initials="P." surname="Meissner"/>
-    <author fullname="Thomas Pyke" initials="T." surname="Pyke"/>
-    <author fullname="Frank Ulmer" initials="F." surname="Ulmer"/>
+    <author fullname="Marshall Abrams" initials="D" surname="Abrams">
+      <organization/>
+    </author>
+    <author fullname="Jerome Hudson" initials="A" surname="Hudson">
+      <organization/>
+    </author>
+    <author fullname="Paul Meissner" initials="P." surname="Meissner">
+      <organization/>
+    </author>
+    <author fullname="Thomas Pyke" initials="N" surname="Pyke">
+      <organization/>
+    </author>
+    <author fullname="Frank Ulmer" initials="H" surname="Ulmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-217"/>
+  <seriesInfo name="NIST" value="NBS IR 73-217"/>
 </reference>

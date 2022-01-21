@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1147" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1147.pdf">
   <front>
     <title>Benefits and Costs of Energy Standard Adoption in New Commercial Buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1147"/>
-    <seriesInfo name="NIST" value="NIST SP 1147"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Applied Economics Office, Engineering Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1147"/>
+  <seriesInfo name="NIST" value="NIST SP 1147"/>
 </reference>

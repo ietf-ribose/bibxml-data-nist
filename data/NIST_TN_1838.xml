@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1838" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1838.pdf">
   <front>
     <title>Simulation of an Attic Fire in a Wood Frame Residential Structure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1838"/>
-    <seriesInfo name="NIST" value="NIST TN 1838"/>
-    <author fullname="Craig Weinschenk" initials="C." surname="Weinschenk">
+    <author fullname="Craig Weinschenk" initials="G" surname="Weinschenk">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Kristopher Overholt" initials="K." surname="Overholt">
+    <author fullname="Kristopher Overholt" initials="J" surname="Overholt">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
@@ -17,4 +15,6 @@
     </author>
     <date year="2014" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1838"/>
+  <seriesInfo name="NIST" value="NIST TN 1838"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.746" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication746.pdf">
   <front>
     <title>Laser induced damage in optical materials 1985</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.746"/>
-    <seriesInfo name="NIST" value="NBS SP 746"/>
-    <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
-    <author fullname="Arthur Guenther" initials="A." surname="Guenther"/>
-    <author fullname="David Milam" initials="D." surname="Milam"/>
-    <author fullname="Brian Newnam" initials="B." surname="Newnam"/>
+    <author fullname="Harold Bennett" initials="E" surname="Bennett">
+      <organization/>
+    </author>
+    <author fullname="Arthur Guenther" initials="H" surname="Guenther">
+      <organization/>
+    </author>
+    <author fullname="David Milam" initials="D." surname="Milam">
+      <organization/>
+    </author>
+    <author fullname="Brian Newnam" initials="E" surname="Newnam">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.746"/>
+  <seriesInfo name="NIST" value="NBS SP 746"/>
 </reference>

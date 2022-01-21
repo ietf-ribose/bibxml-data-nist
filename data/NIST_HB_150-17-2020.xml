@@ -1,9 +1,7 @@
 <reference anchor="NIST.HB.150-17-2020" target="https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.150-17-2020.pdf">
   <front>
     <title>NVLAP cryptographic and security testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.150-17-2020"/>
-    <seriesInfo name="NIST" value="NIST HB 150-17-2020"/>
-    <author fullname="Bradley Moore" initials="B." surname="Moore">
+    <author fullname="Bradley Moore" initials="W" surname="Moore">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
     <author fullname="Beverly Trapnell" initials="B." surname="Trapnell">
@@ -27,4 +25,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.150-17-2020"/>
+  <seriesInfo name="NIST" value="NIST HB 150-17-2020"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2492" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2492.pdf">
   <front>
     <title>A computer program for analysis of data from microelectronic test structures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2492"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2492"/>
-    <author surname="Mattis"/>
-    <author surname="Till"/>
-    <author surname="Frisch"/>
+    <author initials="RL" surname="Mattis">
+      <organization/>
+    </author>
+    <author initials="LJ" surname="Till">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Frisch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2492"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2492"/>
 </reference>

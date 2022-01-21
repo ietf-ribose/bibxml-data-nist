@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7999" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7999.pdf">
   <front>
     <title>STEP File Analyzer User’s Guide (Version 2)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7999"/>
-    <seriesInfo name="NIST" value="NIST IR 7999"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7999"/>
+  <seriesInfo name="NIST" value="NIST IR 7999"/>
 </reference>

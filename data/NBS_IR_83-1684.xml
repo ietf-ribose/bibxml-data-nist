@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.83-1684" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-1684.pdf">
   <front>
     <title>Tensile, compressive, and shear properties of a 64-kgm? polyurethane foam at low temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1684"/>
-    <seriesInfo name="NIST" value="NBS IR 83-1684"/>
-    <author surname="Arvidson"/>
-    <author surname="Sparks"/>
-    <author fullname="Chen Guobang" initials="C." surname="Guobang"/>
+    <author initials="JM" surname="Arvidson">
+      <organization/>
+    </author>
+    <author initials="LL" surname="Sparks">
+      <organization/>
+    </author>
+    <author fullname="Chen Guobang" initials="C." surname="Guobang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1684"/>
+  <seriesInfo name="NIST" value="NBS IR 83-1684"/>
 </reference>

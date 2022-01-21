@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.922e2020" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.922e2020.pdf">
   <front>
     <title>Polycyclic aromatic hydrocarbon structure index</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.922e2020"/>
-    <seriesInfo name="NIST" value="NIST SP 922e2020"/>
-    <author fullname="Lane Sander" initials="L." surname="Sander">
+    <author fullname="Lane Sander" initials="C" surname="Sander">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Stephen Wise" initials="S." surname="Wise">
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2020" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.922e2020"/>
+  <seriesInfo name="NIST" value="NIST SP 922e2020"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2535" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2535.pdf">
   <front>
     <title>Development of a test apparatus and method and measuring adhesion of protective coatings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2535"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2535"/>
-    <author fullname="James Seiler" initials="J." surname="Seiler"/>
-    <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
+    <author fullname="James Seiler" initials="F" surname="Seiler">
+      <organization/>
+    </author>
+    <author fullname="Mary McKnight" initials="E" surname="McKnight">
+      <organization/>
+    </author>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2535"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2535"/>
 </reference>

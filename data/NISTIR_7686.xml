@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7686" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7686.pdf">
   <front>
     <title>Semiconductor Microelectronics and Nanoelectronics Programs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7686"/>
-    <seriesInfo name="NIST" value="NIST IR 7686"/>
-    <author fullname="Joaquin Martinez de Pinillos" initials="J." surname="Martinez de Pinillos"/>
-    <author fullname="Yaw Obeng" initials="Y." surname="Obeng"/>
-    <author fullname="Michele Buckley" initials="M." surname="Buckley"/>
+    <author fullname="Joaquin Martinez de Pinillos" initials="V" surname="Martinez de Pinillos">
+      <organization/>
+    </author>
+    <author fullname="Yaw Obeng" initials="S" surname="Obeng">
+      <organization/>
+    </author>
+    <author fullname="Michele Buckley" initials="M." surname="Buckley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7686"/>
+  <seriesInfo name="NIST" value="NIST IR 7686"/>
 </reference>

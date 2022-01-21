@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5092" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5092.pdf">
   <front>
     <title>Radio-Frequency Technology Division:programs, activities, and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5092"/>
-    <seriesInfo name="NIST" value="NIST IR 5092"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5092"/>
+  <seriesInfo name="NIST" value="NIST IR 5092"/>
 </reference>

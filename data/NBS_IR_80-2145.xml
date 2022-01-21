@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2145.pdf">
   <front>
     <title>A study of an integrated appliance, the air conditionerheat pump-heat recovery unit-water heater</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2145"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2145"/>
-    <author fullname="King-Mon Tu" initials="K." surname="Tu"/>
-    <author fullname="Alan Davies" initials="A." surname="Davies"/>
-    <author fullname="Sidney Fischler" initials="S." surname="Fischler"/>
+    <author fullname="King-Mon Tu" initials="K." surname="Tu">
+      <organization/>
+    </author>
+    <author fullname="Alan Davies" initials="A." surname="Davies">
+      <organization/>
+    </author>
+    <author fullname="Sidney Fischler" initials="S." surname="Fischler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2145"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2145"/>
 </reference>

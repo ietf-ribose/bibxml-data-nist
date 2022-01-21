@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7526" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7526.pdf">
   <front>
     <title>Determination of wave motion correction values required for comparison calibrations of a new working standard microphone</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7526"/>
-    <seriesInfo name="NIST" value="NIST IR 7526"/>
-    <author fullname="Randall Wagner" initials="R." surname="Wagner"/>
-    <author fullname="Victor Nedzelnitsky" initials="V." surname="Nedzelnitsky"/>
+    <author fullname="Randall Wagner" initials="P" surname="Wagner">
+      <organization/>
+    </author>
+    <author fullname="Victor Nedzelnitsky" initials="V." surname="Nedzelnitsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7526"/>
+  <seriesInfo name="NIST" value="NIST IR 7526"/>
 </reference>

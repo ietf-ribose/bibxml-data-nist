@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.782" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote782.pdf">
   <front>
     <title>Application of systems analysis to the operation of a fire department</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.782"/>
-    <seriesInfo name="NIST" value="NBS TN 782"/>
-    <author fullname="Ernst Nilsson" initials="E." surname="Nilsson"/>
+    <author fullname="Ernst Nilsson" initials="K" surname="Nilsson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.782"/>
+  <seriesInfo name="NIST" value="NBS TN 782"/>
 </reference>

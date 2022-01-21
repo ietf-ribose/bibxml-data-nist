@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.233" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote233.pdf">
   <front>
     <title>Sensitivity indices for Hall generators</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.233"/>
-    <seriesInfo name="NIST" value="NBS TN 233"/>
-    <author fullname="Sherwin Rubin" initials="S." surname="Rubin"/>
+    <author fullname="Sherwin Rubin" initials="S." surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.233"/>
+  <seriesInfo name="NIST" value="NBS TN 233"/>
 </reference>

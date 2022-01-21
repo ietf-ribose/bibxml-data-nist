@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1406" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1406.pdf">
   <front>
     <title>Fire safety of passenger trains :a review of current approaches and of new concepts</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1406"/>
-    <seriesInfo name="NIST" value="NIST TN 1406"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1406"/>
+  <seriesInfo name="NIST" value="NIST TN 1406"/>
 </reference>

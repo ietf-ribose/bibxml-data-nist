@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5726" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5726.pdf">
   <front>
     <title>Generalized form registration using structure-based techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5726"/>
-    <seriesInfo name="NIST" value="NIST IR 5726"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
+    <author fullname="Michael Garris" initials="D" surname="Garris">
+      <organization/>
+    </author>
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5726"/>
+  <seriesInfo name="NIST" value="NIST IR 5726"/>
 </reference>

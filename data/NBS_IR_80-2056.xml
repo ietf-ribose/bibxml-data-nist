@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2056" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2056.pdf">
   <front>
     <title>The numerical solution of a nonseparable elliptic partial differential equation by preconditioned conjugate gradients</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2056"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2056"/>
-    <author fullname="JohnGregg Lewis" initials="J.G." surname="Lewis"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
+    <author fullname="JohnGregg Lewis" initials="J.G." surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2056"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2056"/>
 </reference>

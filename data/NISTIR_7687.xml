@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7687" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7687.pdf">
   <front>
     <title>Test suite for building energy analysis of conceptual spatial layout</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7687"/>
-    <seriesInfo name="NIST" value="NIST IR 7687"/>
-    <author fullname="Kenway Chen" initials="K." surname="Chen"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman"/>
-    <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
+    <author fullname="Kenway Chen" initials="K" surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
+      <organization/>
+    </author>
+    <author fullname="Mark Palmer" initials="E" surname="Palmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7687"/>
+  <seriesInfo name="NIST" value="NIST IR 7687"/>
 </reference>

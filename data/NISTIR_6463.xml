@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6463" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6463.pdf">
   <front>
     <title>Model phase diagrams for an FCC alloy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6463"/>
-    <seriesInfo name="NIST" value="NIST IR 6463"/>
-    <author surname="Braun"/>
-    <author surname="Zhang"/>
-    <author surname="Cahn"/>
-    <author surname="McFadden"/>
-    <author surname="Wheeler"/>
+    <author initials="RJ" surname="Braun">
+      <organization/>
+    </author>
+    <author initials="J" surname="Zhang">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Cahn">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
+    <author initials="AA" surname="Wheeler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6463"/>
+  <seriesInfo name="NIST" value="NIST IR 6463"/>
 </reference>

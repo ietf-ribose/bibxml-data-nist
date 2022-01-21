@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-987" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-987.pdf">
   <front>
     <title>Effect of insulation on the surface temperature of roof membranes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-987"/>
-    <seriesInfo name="NIST" value="NBS IR 76-987"/>
-    <author fullname="Walter Rossiter" initials="W." surname="Rossiter"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
+    <author fullname="Walter Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-987"/>
+  <seriesInfo name="NIST" value="NBS IR 76-987"/>
 </reference>

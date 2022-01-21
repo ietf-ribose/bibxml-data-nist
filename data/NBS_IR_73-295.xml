@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-295" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-295.pdf">
   <front>
     <title>Interim report no. 7. chemical resistance and physical durability testing of coating materials :nonmetallic coatings for concrete reinforcing bars</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-295"/>
-    <seriesInfo name="NIST" value="NBS IR 73-295"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Hugh Beeghly" initials="H." surname="Beeghly"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Hugh Beeghly" initials="F" surname="Beeghly">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-295"/>
+  <seriesInfo name="NIST" value="NBS IR 73-295"/>
 </reference>

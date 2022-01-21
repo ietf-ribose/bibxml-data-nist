@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.362" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote362.pdf">
   <front>
     <title>Thermodynamic properties of He3-He4 solutions with applications to the He3-He4 dilution refrigerator</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.362"/>
-    <seriesInfo name="NIST" value="NBS TN 362"/>
-    <author fullname="Ray Radebaugh" initials="R." surname="Radebaugh"/>
+    <author fullname="Ray Radebaugh" initials="R." surname="Radebaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.362"/>
+  <seriesInfo name="NIST" value="NBS TN 362"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-349" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-349.pdf">
   <front>
     <title>Characterization of superconducting coil composite</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-349"/>
-    <seriesInfo name="NIST" value="NBS IR 73-349"/>
-    <author surname="Fowlkes"/>
-    <author surname="Angerhofer"/>
-    <author surname="Newton"/>
-    <author surname="Clark"/>
+    <author initials="CW" surname="Fowlkes">
+      <organization/>
+    </author>
+    <author initials="PE" surname="Angerhofer">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Newton">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-349"/>
+  <seriesInfo name="NIST" value="NBS IR 73-349"/>
 </reference>

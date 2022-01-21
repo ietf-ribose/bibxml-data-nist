@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.41" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph41.pdf">
   <front>
     <title>Theory and methods of optical pyrometry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.41"/>
-    <seriesInfo name="NIST" value="NBS MONO 41"/>
-    <author surname="Kostkowski"/>
-    <author surname="Lee"/>
+    <author initials="HJ" surname="Kostkowski">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.41"/>
+  <seriesInfo name="NIST" value="NBS MONO 41"/>
 </reference>

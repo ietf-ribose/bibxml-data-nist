@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.434" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication434.pdf">
   <front>
     <title>Hydrocarbons for fuel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.434"/>
-    <seriesInfo name="NIST" value="NBS SP 434"/>
-    <author fullname="George Armstrong" initials="G." surname="Armstrong"/>
+    <author fullname="George Armstrong" initials="T" surname="Armstrong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.434"/>
+  <seriesInfo name="NIST" value="NBS SP 434"/>
 </reference>

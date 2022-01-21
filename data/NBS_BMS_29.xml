@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.29" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures29.pdf">
   <front>
     <title>Survey of roofing materials in the northeastern states</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.29"/>
-    <seriesInfo name="NIST" value="NBS BMS 29"/>
-    <author fullname="Hubert Snoke" initials="H." surname="Snoke"/>
-    <author fullname="Leo Waldron" initials="L." surname="Waldron"/>
+    <author fullname="Hubert Snoke" initials="R" surname="Snoke">
+      <organization/>
+    </author>
+    <author fullname="Leo Waldron" initials="J" surname="Waldron">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1939"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.29"/>
+  <seriesInfo name="NIST" value="NBS BMS 29"/>
 </reference>

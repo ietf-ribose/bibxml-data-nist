@@ -1,21 +1,45 @@
 <reference anchor="NIST.IR.7607" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7607.pdf">
   <front>
     <title>Overview of the multiple biometrics grand challenge</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7607"/>
-    <seriesInfo name="NIST" value="NIST IR 7607"/>
-    <author surname="Phillips"/>
-    <author surname="Sahibzada"/>
-    <author fullname="Patrick Flynn" initials="P." surname="Flynn"/>
-    <author surname="Bowyer"/>
-    <author surname="O'Toole"/>
-    <author surname="Weimer"/>
-    <author surname="Beveridge"/>
-    <author surname="Draper"/>
-    <author surname="Bolme"/>
-    <author surname="Givens"/>
-    <author surname="Lui"/>
-    <author surname="Scallan"/>
-    <author surname="Scruggs"/>
+    <author initials="PJ" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="HA" surname="Sahibzada">
+      <organization/>
+    </author>
+    <author fullname="Patrick Flynn" initials="J" surname="Flynn">
+      <organization/>
+    </author>
+    <author initials="KW" surname="Bowyer">
+      <organization/>
+    </author>
+    <author initials="A" surname="O'Toole">
+      <organization/>
+    </author>
+    <author initials="S" surname="Weimer">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Beveridge">
+      <organization/>
+    </author>
+    <author initials="B" surname="Draper">
+      <organization/>
+    </author>
+    <author initials="D" surname="Bolme">
+      <organization/>
+    </author>
+    <author initials="GH" surname="Givens">
+      <organization/>
+    </author>
+    <author initials="YM" surname="Lui">
+      <organization/>
+    </author>
+    <author initials="JA" surname="Scallan">
+      <organization/>
+    </author>
+    <author initials="WT" surname="Scruggs">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -28,4 +52,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7607"/>
+  <seriesInfo name="NIST" value="NIST IR 7607"/>
 </reference>

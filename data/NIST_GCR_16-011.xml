@@ -1,18 +1,16 @@
 <reference anchor="NIST.GCR.16-011" target="https://nvlpubs.nist.gov/nistpubs/gcr/2017/NIST.GCR.16-011.pdf">
   <front>
     <title>Case Studies of Community Resilience and Disaster Recovery from the 2013 Boulder County Floods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-011"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-011"/>
-    <author fullname="Christopher Clavin" initials="C." surname="Clavin">
+    <author fullname="Christopher Clavin" initials="T" surname="Clavin">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Zoe Petropoulos" initials="Z." surname="Petropoulos">
+    <author fullname="Zoe Petropoulos" initials="E" surname="Petropoulos">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Nayanee Gupta" initials="N." surname="Gupta">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Christopher Tokita" initials="C." surname="Tokita">
+    <author fullname="Christopher Tokita" initials="K" surname="Tokita">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-011"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-011"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-389" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-389.pdf">
   <front>
     <title>Electromagnetic noise in McElroy Mine</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-389"/>
-    <seriesInfo name="NIST" value="NBS IR 74-389"/>
-    <author surname="Kanda"/>
-    <author surname="Adams"/>
-    <author surname="Bensema"/>
+    <author initials="M" surname="Kanda">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Adams">
+      <organization/>
+    </author>
+    <author initials="WD" surname="Bensema">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-389"/>
+  <seriesInfo name="NIST" value="NBS IR 74-389"/>
 </reference>

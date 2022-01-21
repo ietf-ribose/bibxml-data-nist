@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1013" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1013.pdf">
   <front>
     <title>Flame spread of carpet systems involved in room fires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1013"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1013"/>
-    <author fullname="King-Mon Tu" initials="K." surname="Tu"/>
-    <author fullname="Sanford Davis" initials="S." surname="Davis"/>
+    <author fullname="King-Mon Tu" initials="K." surname="Tu">
+      <organization/>
+    </author>
+    <author fullname="Sanford Davis" initials="S." surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1013"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1013"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.978r1950" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular978r1950.pdf">
   <front>
     <title>Letter Circular 978:list of commercial standards (supersedes Letter Circular 956)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.978r1950"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 978r1950"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.978r1950"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 978r1950"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-4013" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4013.pdf">
   <front>
     <title>A round robin flow measurement testing program using hydrocarbon liquids:results for first phase testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4013"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4013"/>
-    <author surname="Mattingly"/>
+    <author initials="GE" surname="Mattingly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4013"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4013"/>
 </reference>

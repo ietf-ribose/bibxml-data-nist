@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph142.pdf">
   <front>
     <title>The Measurement of noise performance factors :a metrology guide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.142"/>
-    <seriesInfo name="NIST" value="NBS MONO 142"/>
-    <author surname="Arthur"/>
-    <author surname="Anson"/>
+    <author initials="MG" surname="Arthur">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Anson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.142"/>
+  <seriesInfo name="NIST" value="NBS MONO 142"/>
 </reference>

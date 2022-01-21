@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.88-3813" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3813.pdf">
   <front>
     <title>Initial Graphics Exchange specification (IGES) version 4.0</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3813"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3813"/>
-    <author fullname="Bradford Smith" initials="B." surname="Smith"/>
-    <author fullname="Gaylen Rinaudot" initials="G." surname="Rinaudot"/>
-    <author fullname="Kent Reed" initials="K." surname="Reed"/>
-    <author fullname="Thomas Wright" initials="T." surname="Wright"/>
+    <author fullname="Bradford Smith" initials="B." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Gaylen Rinaudot" initials="R" surname="Rinaudot">
+      <organization/>
+    </author>
+    <author fullname="Kent Reed" initials="A" surname="Reed">
+      <organization/>
+    </author>
+    <author fullname="Thomas Wright" initials="T." surname="Wright">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3813"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3813"/>
 </reference>

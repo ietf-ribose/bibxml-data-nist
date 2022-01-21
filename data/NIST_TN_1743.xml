@@ -1,14 +1,20 @@
 <reference anchor="NIST.TN.1743" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1743.pdf">
   <front>
     <title>Proposed General Approach to fire-Safety Scenarios</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1743"/>
-    <seriesInfo name="NIST" value="NIST TN 1743"/>
-    <author fullname="A.P. Robbins" initials="A." surname="Robbins"/>
-    <author fullname="S.M.V. Gwynne" initials="S." surname="Gwynne"/>
-    <author fullname="E.D. Kuligowski" initials="E." surname="Kuligowski"/>
+    <author fullname="A.P. Robbins" initials="A." surname="Robbins">
+      <organization/>
+    </author>
+    <author fullname="S.M.V. Gwynne" initials="S." surname="Gwynne">
+      <organization/>
+    </author>
+    <author fullname="E.D. Kuligowski" initials="E." surname="Kuligowski">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1743"/>
+  <seriesInfo name="NIST" value="NIST TN 1743"/>
 </reference>

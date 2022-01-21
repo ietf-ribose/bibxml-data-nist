@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.6667" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6667.pdf">
   <front>
     <title>Surface roughness of dental gold castings:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6667"/>
-    <seriesInfo name="NIST" value="NBS RPT 6667"/>
-    <author fullname="Joseph Barone" initials="J." surname="Barone"/>
-    <author fullname="George Dickson" initials="G." surname="Dickson"/>
+    <author fullname="Joseph Barone" initials="J" surname="Barone">
+      <organization/>
+    </author>
+    <author fullname="George Dickson" initials="G." surname="Dickson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6667"/>
+  <seriesInfo name="NIST" value="NBS RPT 6667"/>
 </reference>

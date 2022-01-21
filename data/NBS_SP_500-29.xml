@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-29" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-29.pdf">
   <front>
     <title>NBSRIA robotics research workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-29"/>
-    <seriesInfo name="NIST" value="NBS SP 500-29"/>
-    <author fullname="John Evans" initials="J." surname="Evans"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
-    <author fullname="Anthony Barbera" initials="A." surname="Barbera"/>
+    <author fullname="John Evans" initials="M" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="James Albus" initials="S" surname="Albus">
+      <organization/>
+    </author>
+    <author fullname="Anthony Barbera" initials="J" surname="Barbera">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-29"/>
+  <seriesInfo name="NIST" value="NBS SP 500-29"/>
 </reference>

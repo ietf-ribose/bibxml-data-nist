@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1525" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1525.pdf">
   <front>
     <title>Climate data abbreviation for the computerized calculation of heating and cooling requirements in building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1525"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1525"/>
-    <author fullname="Edward Arens" initials="E." surname="Arens"/>
-    <author fullname="Daniel Nall" initials="D." surname="Nall"/>
+    <author fullname="Edward Arens" initials="A" surname="Arens">
+      <organization/>
+    </author>
+    <author fullname="Daniel Nall" initials="H" surname="Nall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1525"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1525"/>
 </reference>

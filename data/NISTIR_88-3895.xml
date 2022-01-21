@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3895" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3895.pdf">
   <front>
     <title>Center for Electronics and Electrical Engineering technical publication announcements covering center programs, April to June 1988, with 1988 CEEE events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3895"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3895"/>
-    <author surname="Walters"/>
+    <author initials="EJ" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3895"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3895"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.9084" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9084.pdf">
   <front>
     <title>The new tungsten-filament lamp standards of total irradiance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9084"/>
-    <seriesInfo name="NIST" value="NBS RPT 9084"/>
-    <author fullname="Ralph Stair" initials="R." surname="Stair"/>
-    <author fullname="William Fussell" initials="W." surname="Fussell"/>
+    <author fullname="Ralph Stair" initials="R." surname="Stair">
+      <organization/>
+    </author>
+    <author fullname="William Fussell" initials="B" surname="Fussell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9084"/>
+  <seriesInfo name="NIST" value="NBS RPT 9084"/>
 </reference>

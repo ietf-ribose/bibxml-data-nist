@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.7470" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7470.pdf">
   <front>
     <title>The effect of insulation on the durability of a smooth-surfaced, built-up roof</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7470"/>
-    <seriesInfo name="NIST" value="NBS RPT 7470"/>
-    <author fullname="William Cullen" initials="W." surname="Cullen"/>
-    <author fullname="William Appleton" initials="W." surname="Appleton"/>
+    <author fullname="William Cullen" initials="C" surname="Cullen">
+      <organization/>
+    </author>
+    <author fullname="William Appleton" initials="H" surname="Appleton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7470"/>
+  <seriesInfo name="NIST" value="NBS RPT 7470"/>
 </reference>

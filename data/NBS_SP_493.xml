@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.493" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication493.pdf">
   <front>
     <title>Neutron standards and applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.493"/>
-    <seriesInfo name="NIST" value="NBS SP 493"/>
-    <author surname="Bowman"/>
-    <author surname="Carlson"/>
-    <author surname="Liskien"/>
-    <author surname="Stewart"/>
+    <author initials="CD" surname="Bowman">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Carlson">
+      <organization/>
+    </author>
+    <author initials="HO" surname="Liskien">
+      <organization/>
+    </author>
+    <author initials="L" surname="Stewart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.493"/>
+  <seriesInfo name="NIST" value="NBS SP 493"/>
 </reference>

@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8162" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8162.pdf">
   <front>
     <title>Automation of piston gauge calibration services: phase I results</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8162"/>
-    <seriesInfo name="NIST" value="NIST IR 8162"/>
     <author fullname="Katie Schlatter" initials="K." surname="Schlatter">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
     <author fullname="John Quintavalle" initials="J." surname="Quintavalle">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
-    <author fullname="Dawn Cross" initials="D." surname="Cross">
+    <author fullname="Dawn Cross" initials="C" surname="Cross">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
-    <author fullname="Gregory Driver" initials="G." surname="Driver">
+    <author fullname="Gregory Driver" initials="R" surname="Driver">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
     <author fullname="Julia Scherschligt" initials="J." surname="Scherschligt">
@@ -30,4 +28,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8162"/>
+  <seriesInfo name="NIST" value="NIST IR 8162"/>
 </reference>

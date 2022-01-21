@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7125.pdf">
   <front>
     <title>Materials Reliability Division FY 2004 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7125"/>
-    <seriesInfo name="NIST" value="NIST IR 7125"/>
-    <author fullname="Alan Clark" initials="A." surname="Clark"/>
-    <author fullname="Thomas Siewert" initials="T." surname="Siewert"/>
+    <author fullname="Alan Clark" initials="F" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Thomas Siewert" initials="A" surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7125"/>
+  <seriesInfo name="NIST" value="NIST IR 7125"/>
 </reference>

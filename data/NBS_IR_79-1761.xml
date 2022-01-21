@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1761" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1761.pdf">
   <front>
     <title>Fabrication of piezoelectric polymer film</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1761"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1761"/>
-    <author fullname="James Kenney" initials="J." surname="Kenney"/>
-    <author fullname="Steven Roth" initials="S." surname="Roth"/>
-    <author fullname="Martin Broadhurst" initials="M." surname="Broadhurst"/>
+    <author fullname="James Kenney" initials="M" surname="Kenney">
+      <organization/>
+    </author>
+    <author fullname="Steven Roth" initials="C" surname="Roth">
+      <organization/>
+    </author>
+    <author fullname="Martin Broadhurst" initials="G" surname="Broadhurst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1761"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1761"/>
 </reference>

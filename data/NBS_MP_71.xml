@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub71.pdf">
   <front>
     <title>Compressibilities of gases</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.71"/>
-    <seriesInfo name="NIST" value="NBS MP 71"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.71"/>
+  <seriesInfo name="NIST" value="NBS MP 71"/>
 </reference>

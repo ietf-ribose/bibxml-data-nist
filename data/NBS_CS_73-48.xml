@@ -1,8 +1,6 @@
 <reference anchor="NBS.CS.73-48" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cs73-48.pdf">
   <front>
     <title>"Old growth Douglas fir, Sitka spruce, and western hemlock standard stock doors (fourth edition)"</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CS.73-48"/>
-    <seriesInfo name="NIST" value="NBS CS 73-48"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CS.73-48"/>
+  <seriesInfo name="NIST" value="NBS CS 73-48"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6188" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6188.pdf">
   <front>
     <title>A hybrid manufacturing system modeling environment using VRML</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6188"/>
-    <seriesInfo name="NIST" value="NIST IR 6188"/>
-    <author fullname="Rangan Krishnamurthy" initials="R." surname="Krishnamurthy"/>
-    <author surname="Shewchuk"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
+    <author fullname="Rangan Krishnamurthy" initials="K" surname="Krishnamurthy">
+      <organization/>
+    </author>
+    <author initials="JP" surname="Shewchuk">
+      <organization/>
+    </author>
+    <author fullname="Charles McLean" initials="R" surname="McLean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6188"/>
+  <seriesInfo name="NIST" value="NIST IR 6188"/>
 </reference>

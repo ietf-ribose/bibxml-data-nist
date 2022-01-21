@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.483" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular483.pdf">
   <front>
     <title>Letter Circular 483:classification of acoustic materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.483"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 483"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.483"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 483"/>
 </reference>

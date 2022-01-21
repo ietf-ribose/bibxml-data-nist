@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-208" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf">
   <front>
     <title>Recommendation for Stateful Hash-Based Signature Schemes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-208"/>
-    <seriesInfo name="NIST" value="NIST SP 800-208"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper">
+    <author fullname="David Cooper" initials="A" surname="Cooper">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Daniel Apon" initials="D." surname="Apon">
+    <author fullname="Daniel Apon" initials="C" surname="Apon">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Quynh Dang" initials="Q." surname="Dang">
+    <author fullname="Quynh Dang" initials="H" surname="Dang">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Davidson" initials="M." surname="Davidson">
+    <author fullname="Michael Davidson" initials="S" surname="Davidson">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Morris Dworkin" initials="M." surname="Dworkin">
+    <author fullname="Morris Dworkin" initials="J" surname="Dworkin">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Carl Miller" initials="C." surname="Miller">
+    <author fullname="Carl Miller" initials="A" surname="Miller">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     <date year="2020" month="October" day="29"/>
     <abstract>This recommendation specifies two algorithms that can be used to generate a digital signature, both of which are stateful hash-based signature schemes: the Leighton-Micali Signature (LMS) system and the eXtended Merkle Signature Scheme (XMSS), along with their multi-tree variants, the Hierarchical Signature System (HSS) and multi-tree XMSS (XMSSMT).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-208"/>
+  <seriesInfo name="NIST" value="NIST SP 800-208"/>
 </reference>

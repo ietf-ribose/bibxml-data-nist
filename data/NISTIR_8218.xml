@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8218" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8218.pdf">
   <front>
     <title>Bootstrap method versus analytical approach for estimating uncertainty of measures in ROC analysis on large datasets</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8218"/>
-    <seriesInfo name="NIST" value="NIST IR 8218"/>
     <author fullname="JinChu Wu" initials="J.C." surname="Wu">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Alvin Martin" initials="A." surname="Martin">
+    <author fullname="Alvin Martin" initials="F" surname="Martin">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Gregory Sanders" initials="G." surname="Sanders">
+    <author fullname="Gregory Sanders" initials="A" surname="Sanders">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker">
+    <author fullname="Raghu Kacker" initials="N" surname="Kacker">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8218"/>
+  <seriesInfo name="NIST" value="NIST IR 8218"/>
 </reference>

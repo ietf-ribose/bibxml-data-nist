@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8300" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8300.pdf">
   <front>
     <title>Improving 3D vision-robot registration for assembly tasks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8300"/>
-    <seriesInfo name="NIST" value="NIST IR 8300"/>
     <author fullname="Marek Franaszek" initials="M." surname="Franaszek">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok">
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Karl van Wyk" initials="K." surname="van Wyk">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Jeremy Marvel" initials="J." surname="Marvel">
+    <author fullname="Jeremy Marvel" initials="A" surname="Marvel">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8300"/>
+  <seriesInfo name="NIST" value="NIST IR 8300"/>
 </reference>

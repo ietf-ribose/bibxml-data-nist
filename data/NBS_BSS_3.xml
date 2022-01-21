@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience3.pdf">
   <front>
     <title>Doors as barriers to fire and smoke</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.3"/>
-    <seriesInfo name="NIST" value="NBS BSS 3"/>
-    <author surname="Shoub"/>
-    <author surname="Gross"/>
+    <author initials="H" surname="Shoub">
+      <organization/>
+    </author>
+    <author initials="D" surname="Gross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.3"/>
+  <seriesInfo name="NIST" value="NBS BSS 3"/>
 </reference>

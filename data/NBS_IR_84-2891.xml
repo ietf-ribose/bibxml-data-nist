@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.84-2891" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2891.pdf">
   <front>
     <title>Effect of heat treatment on mechanical properties of microstructure of four different heats of ASTM A710 steel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2891"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2891"/>
-    <author surname="Hicho"/>
-    <author surname="Brady"/>
-    <author surname="Smith"/>
-    <author surname="Fields"/>
+    <author initials="GE" surname="Hicho">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Brady">
+      <organization/>
+    </author>
+    <author initials="LC" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2891"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2891"/>
 </reference>

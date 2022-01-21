@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5100.pdf">
   <front>
     <title>Thermophysical properties of mixtures of natural gas components:a bibliography of experimental data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5100"/>
-    <seriesInfo name="NIST" value="NIST IR 5100"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5100"/>
+  <seriesInfo name="NIST" value="NIST IR 5100"/>
 </reference>

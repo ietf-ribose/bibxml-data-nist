@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.352" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular352.pdf">
   <front>
     <title>Letter Circular 352:color of illuminant and efficiency of the worker</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.352"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 352"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.352"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 352"/>
 </reference>

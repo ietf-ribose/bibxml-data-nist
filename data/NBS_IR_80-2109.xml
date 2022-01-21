@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2109.pdf">
   <front>
     <title>A basis for traceable NDE measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2109"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2109"/>
-    <author surname="Eitzen"/>
-    <author surname="Berger"/>
-    <author surname="Birnbaum"/>
+    <author initials="DG" surname="Eitzen">
+      <organization/>
+    </author>
+    <author initials="H" surname="Berger">
+      <organization/>
+    </author>
+    <author initials="G" surname="Birnbaum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2109"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2109"/>
 </reference>

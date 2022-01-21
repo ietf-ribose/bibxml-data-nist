@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-479" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-479.pdf">
   <front>
     <title>Analysis of cost sharing programs for pollution abatement of municipal wastewater</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-479"/>
-    <seriesInfo name="NIST" value="NBS IR 74-479"/>
-    <author fullname="Harold Marshall" initials="H." surname="Marshall"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
+    <author fullname="Harold Marshall" initials="E" surname="Marshall">
+      <organization/>
+    </author>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-479"/>
+  <seriesInfo name="NIST" value="NBS IR 74-479"/>
 </reference>

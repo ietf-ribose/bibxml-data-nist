@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2110" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2110.pdf">
   <front>
     <title>Users Guide to the HVACSIM+ Configuration Tool</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2110"/>
-    <seriesInfo name="NIST" value="NIST TN 2110"/>
-    <author fullname="Michael Galler" initials="M." surname="Galler">
+    <author fullname="Michael Galler" initials="A" surname="Galler">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2020" month="September" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2110"/>
+  <seriesInfo name="NIST" value="NIST TN 2110"/>
 </reference>

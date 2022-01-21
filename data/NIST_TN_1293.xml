@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1293" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1293.pdf">
   <front>
     <title>A mathematical model of cathodic delamination and blistering processes in paint films on steel</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1293"/>
-    <seriesInfo name="NIST" value="NIST TN 1293"/>
-    <author fullname="James Pommersheim" initials="J." surname="Pommersheim"/>
+    <author fullname="James Pommersheim" initials="M" surname="Pommersheim">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1293"/>
+  <seriesInfo name="NIST" value="NIST TN 1293"/>
 </reference>

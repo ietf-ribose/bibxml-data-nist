@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6203" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6203.pdf">
   <front>
     <title>Project summaries 1998, NIST building and fire research laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6203"/>
-    <seriesInfo name="NIST" value="NIST IR 6203"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6203"/>
+  <seriesInfo name="NIST" value="NIST IR 6203"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.802" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication802.pdf">
   <front>
     <title>Effect of a free surface on stress distribution in a bimaterial composite</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.802"/>
-    <seriesInfo name="NIST" value="NIST SP 802"/>
-    <author surname="Tewary"/>
-    <author surname="Tewary"/>
-    <author surname="Kriz"/>
+    <author initials="VK" surname="Tewary">
+      <organization/>
+    </author>
+    <author initials="VK" surname="Tewary">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Kriz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.802"/>
+  <seriesInfo name="NIST" value="NIST SP 802"/>
 </reference>

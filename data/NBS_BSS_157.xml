@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.157" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience157.pdf">
   <front>
     <title>General guidelines for the on-site calibration of humidity and moisture control systems in buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.157"/>
-    <seriesInfo name="NIST" value="NBS BSS 157"/>
-    <author fullname="Richard Hyland" initials="R." surname="Hyland"/>
-    <author fullname="Warren Hurley" initials="W." surname="Hurley"/>
+    <author fullname="Richard Hyland" initials="W" surname="Hyland">
+      <organization/>
+    </author>
+    <author fullname="Warren Hurley" initials="C" surname="Hurley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.157"/>
+  <seriesInfo name="NIST" value="NBS BSS 157"/>
 </reference>

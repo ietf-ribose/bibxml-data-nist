@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1797" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1797.pdf">
   <front>
     <title>Report on High-Rise Fireground Field Experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1797"/>
-    <seriesInfo name="NIST" value="NIST TN 1797"/>
-    <author fullname="Jason Averill" initials="J." surname="Averill">
+    <author fullname="Jason Averill" initials="D" surname="Averill">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author fullname="Lori Moore-Merrell" initials="L." surname="Moore-Merrell">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
-    <author fullname="RaymondJr. Ranellone" initials="R.J." surname="Ranellone">
+    <author fullname="RaymondJr. Ranellone" initials="T" surname="Ranellone">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author fullname="Craig Weinschenk" initials="C." surname="Weinschenk">
@@ -27,10 +25,10 @@
     <author fullname="Doug Wissoker" initials="D." surname="Wissoker">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
-    <author fullname="Kathy Notarianni" initials="K." surname="Notarianni">
+    <author fullname="Kathy Notarianni" initials="A" surname="Notarianni">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
-    <author fullname="Kathryn Butler" initials="K." surname="Butler">
+    <author fullname="Kathryn Butler" initials="M" surname="Butler">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author>
@@ -38,4 +36,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1797"/>
+  <seriesInfo name="NIST" value="NIST TN 1797"/>
 </reference>

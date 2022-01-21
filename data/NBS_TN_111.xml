@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote111.pdf">
   <front>
     <title>Data reduction instrumentation for radio propagation research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.111"/>
-    <seriesInfo name="NIST" value="NBS TN 111"/>
-    <author fullname="Walter Johnson" initials="W." surname="Johnson"/>
+    <author fullname="Walter Johnson" initials="E" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.111"/>
+  <seriesInfo name="NIST" value="NBS TN 111"/>
 </reference>

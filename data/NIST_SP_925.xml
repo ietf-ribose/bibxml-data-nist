@@ -1,13 +1,17 @@
 <reference anchor="NIST.SP.925" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication925.pdf">
   <front>
     <title>A Unique Institution: The National Bureau of Standards, 1950-1969</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.925"/>
-    <seriesInfo name="NIST" value="NIST SP 925"/>
-    <author fullname="Elio Passaglia" initials="E." surname="Passaglia"/>
-    <author fullname="Karma Beal" initials="K." surname="Beal"/>
+    <author fullname="Elio Passaglia" initials="E." surname="Passaglia">
+      <organization/>
+    </author>
+    <author fullname="Karma Beal" initials="A" surname="Beal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.925"/>
+  <seriesInfo name="NIST" value="NIST SP 925"/>
 </reference>

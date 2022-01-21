@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1950" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1950.pdf">
   <front>
     <title>Outdoor siren systems: a review of technology, usage, and public response during emergencies</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1950"/>
-    <seriesInfo name="NIST" value="NIST TN 1950"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Katrina Wakeman" initials="K." surname="Wakeman">
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1950"/>
+  <seriesInfo name="NIST" value="NIST TN 1950"/>
 </reference>

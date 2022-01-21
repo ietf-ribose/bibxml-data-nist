@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6130" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6130.pdf">
   <front>
     <title>Personal identification from mugshot ear images</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6130"/>
-    <seriesInfo name="NIST" value="NIST IR 6130"/>
-    <author fullname="Frank McFadden" initials="F." surname="McFadden"/>
+    <author fullname="Frank McFadden" initials="E" surname="McFadden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6130"/>
+  <seriesInfo name="NIST" value="NIST IR 6130"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2475" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2475.pdf">
   <front>
     <title>Incentives for technological innovation in air pollution reduction :an ETIP policy research series Volume 9</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2475"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2475"/>
-    <author fullname="MaryEllen Mogee" initials="M.E." surname="Mogee"/>
+    <author fullname="MaryEllen Mogee" initials="M.E." surname="Mogee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2475"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2475"/>
 </reference>

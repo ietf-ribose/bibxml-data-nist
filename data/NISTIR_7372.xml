@@ -1,17 +1,33 @@
 <reference anchor="NIST.IR.7372" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7372.pdf">
   <front>
     <title>The national marine mammal tissue bank specimen inventory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7372"/>
-    <seriesInfo name="NIST" value="NIST IR 7372"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Michael Ellisor" initials="M." surname="Ellisor"/>
-    <author fullname="Amanda Moors" initials="A." surname="Moors"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="Michael Ellisor" initials="B" surname="Ellisor">
+      <organization/>
+    </author>
+    <author fullname="Amanda Moors" initials="J" surname="Moors">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Barbara Porter" initials="J" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Mackey" initials="A" surname="Mackey">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7372"/>
+  <seriesInfo name="NIST" value="NIST IR 7372"/>
 </reference>

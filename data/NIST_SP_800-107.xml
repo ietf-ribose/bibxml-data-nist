@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-107" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-107.pdf">
   <front>
     <title>Recommendation for applications using approved hash algorithms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-107"/>
-    <seriesInfo name="NIST" value="NIST SP 800-107"/>
-    <author surname="Dang">
+    <author initials="QH" surname="Dang">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-107"/>
+  <seriesInfo name="NIST" value="NIST SP 800-107"/>
 </reference>

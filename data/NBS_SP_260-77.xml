@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-77" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-77.pdf">
   <front>
     <title>Standard Reference MaterialsApplication of some metal SRM's as thermometric fixed points</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-77"/>
-    <seriesInfo name="NIST" value="NBS SP 260-77"/>
-    <author fullname="Earl Pfeiffer" initials="E." surname="Pfeiffer"/>
-    <author fullname="John Riddle" initials="J." surname="Riddle"/>
-    <author fullname="George Furukawa" initials="G." surname="Furukawa"/>
+    <author fullname="Earl Pfeiffer" initials="R" surname="Pfeiffer">
+      <organization/>
+    </author>
+    <author fullname="John Riddle" initials="L" surname="Riddle">
+      <organization/>
+    </author>
+    <author fullname="George Furukawa" initials="T" surname="Furukawa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-77"/>
+  <seriesInfo name="NIST" value="NBS SP 260-77"/>
 </reference>

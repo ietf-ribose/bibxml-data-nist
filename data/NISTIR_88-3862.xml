@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.88-3862" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3862.pdf">
   <front>
     <title>Information resource dictionary system :an integration mechanism for product data exchange specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3862"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3862"/>
-    <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
-    <author fullname="Cita Furlani" initials="C." surname="Furlani"/>
-    <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
-    <author fullname="Joan Tyler" initials="J." surname="Tyler"/>
-    <author fullname="David Jefferson" initials="D." surname="Jefferson"/>
+    <author fullname="Howard Bloom" initials="H." surname="Bloom">
+      <organization/>
+    </author>
+    <author fullname="Cita Furlani" initials="C." surname="Furlani">
+      <organization/>
+    </author>
+    <author fullname="Mary Mitchell" initials="M." surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Joan Tyler" initials="J." surname="Tyler">
+      <organization/>
+    </author>
+    <author fullname="David Jefferson" initials="D." surname="Jefferson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3862"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3862"/>
 </reference>

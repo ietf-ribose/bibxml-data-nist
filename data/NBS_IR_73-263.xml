@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-263.pdf">
   <front>
     <title>Fire endurance tests of unprotected wood-floor constructions for single-family residences</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-263"/>
-    <seriesInfo name="NIST" value="NBS IR 73-263"/>
-    <author surname="Son"/>
+    <author initials="BC" surname="Son">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-263"/>
+  <seriesInfo name="NIST" value="NBS IR 73-263"/>
 </reference>

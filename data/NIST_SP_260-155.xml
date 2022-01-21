@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.260-155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-155.pdf">
   <front>
     <title>Standard reference materials :human mitochondrial DNA--amplification and sequencing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-155"/>
-    <seriesInfo name="NIST" value="NIST SP 260-155"/>
-    <author surname="Levin"/>
-    <author surname="Hancock"/>
-    <author surname="Holland"/>
-    <author surname="Cheng"/>
-    <author surname="Richie"/>
+    <author initials="BC" surname="Levin">
+      <organization/>
+    </author>
+    <author initials="DK" surname="Hancock">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Holland">
+      <organization/>
+    </author>
+    <author initials="H" surname="Cheng">
+      <organization/>
+    </author>
+    <author initials="KL" surname="Richie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-155"/>
+  <seriesInfo name="NIST" value="NIST SP 260-155"/>
 </reference>

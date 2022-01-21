@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.143" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook143.pdf">
   <front>
     <title>State weights and measures laboratories: program handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.143"/>
-    <seriesInfo name="NIST" value="NBS HB 143"/>
-    <author surname="Opperman"/>
-    <author surname="Taylor"/>
+    <author initials="HV" surname="Opperman">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.143"/>
+  <seriesInfo name="NIST" value="NBS HB 143"/>
 </reference>

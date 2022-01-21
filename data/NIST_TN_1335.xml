@@ -1,13 +1,21 @@
 <reference anchor="NIST.TN.1335" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1335.pdf">
   <front>
     <title>Generating standard reference electromagnetic fields in the NIST anechoic chamber, 0.2 to 40 GHz</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1335"/>
-    <seriesInfo name="NIST" value="NIST TN 1335"/>
-    <author surname="Hill"/>
-    <author surname="Kanda"/>
-    <author surname="Larsen"/>
-    <author surname="Koepke"/>
-    <author surname="Orr"/>
+    <author initials="DA" surname="Hill">
+      <organization/>
+    </author>
+    <author initials="M" surname="Kanda">
+      <organization/>
+    </author>
+    <author initials="EB" surname="Larsen">
+      <organization/>
+    </author>
+    <author initials="GH" surname="Koepke">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Orr">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1335"/>
+  <seriesInfo name="NIST" value="NIST TN 1335"/>
 </reference>

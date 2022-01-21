@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7625" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7625.pdf">
   <front>
     <title>Three dimensional shape retrieval using scale invariant feature transform and spatial restrictions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7625"/>
-    <seriesInfo name="NIST" value="NIST IR 7625"/>
-    <author fullname="Lydia Lei" initials="L." surname="Lei"/>
+    <author fullname="Lydia Lei" initials="L." surname="Lei">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7625"/>
+  <seriesInfo name="NIST" value="NIST IR 7625"/>
 </reference>

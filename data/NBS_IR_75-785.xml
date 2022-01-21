@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-785" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-785.pdf">
   <front>
     <title>The review of standardization and measurement services at the Ecuadorian Institute for Standardization</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-785"/>
-    <seriesInfo name="NIST" value="NBS IR 75-785"/>
-    <author fullname="Raul Estrada A." initials="R." surname="Estrada A."/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
+    <author fullname="Raul Estrada A." initials="R." surname="Estrada A.">
+      <organization/>
+    </author>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-785"/>
+  <seriesInfo name="NIST" value="NBS IR 75-785"/>
 </reference>

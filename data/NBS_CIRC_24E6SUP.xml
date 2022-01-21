@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.24e6sup" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular24supJuly1922.pdf">
   <front>
     <title>July (1922) supplement to circular 24:publications of the Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.24e6sup"/>
-    <seriesInfo name="NIST" value="NBS CIRC 24e6sup"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1922"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.24e6sup"/>
+  <seriesInfo name="NIST" value="NBS CIRC 24e6sup"/>
 </reference>

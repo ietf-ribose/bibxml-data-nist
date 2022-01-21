@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7774" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7774.pdf">
   <front>
     <title>NIST workshop on ontology evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7774"/>
-    <seriesInfo name="NIST" value="NIST IR 7774"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="Fabian Neuhaus" initials="F." surname="Neuhaus"/>
-    <author fullname="Evan Wallace" initials="E." surname="Wallace"/>
-    <author fullname="Mary Brady" initials="M." surname="Brady"/>
-    <author fullname="Mark Musen" initials="M." surname="Musen"/>
-    <author fullname="Joanne Luciano" initials="J." surname="Luciano"/>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="Fabian Neuhaus" initials="F." surname="Neuhaus">
+      <organization/>
+    </author>
+    <author fullname="Evan Wallace" initials="E." surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Mary Brady" initials="M." surname="Brady">
+      <organization/>
+    </author>
+    <author fullname="Mark Musen" initials="A" surname="Musen">
+      <organization/>
+    </author>
+    <author fullname="Joanne Luciano" initials="S" surname="Luciano">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7774"/>
+  <seriesInfo name="NIST" value="NIST IR 7774"/>
 </reference>

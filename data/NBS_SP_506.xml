@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.506" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication506.pdf">
   <front>
     <title>Proceedings of workshop on asbestos :definitions and measurement methods</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.506"/>
-    <seriesInfo name="NIST" value="NBS SP 506"/>
-    <author surname="Gravatt"/>
-    <author fullname="Philip LaFleur" initials="P." surname="LaFleur"/>
-    <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
+    <author initials="CC" surname="Gravatt">
+      <organization/>
+    </author>
+    <author fullname="Philip LaFleur" initials="D" surname="LaFleur">
+      <organization/>
+    </author>
+    <author fullname="Kurt Heinrich" initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.506"/>
+  <seriesInfo name="NIST" value="NBS SP 506"/>
 </reference>

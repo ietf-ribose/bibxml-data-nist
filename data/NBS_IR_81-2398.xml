@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.81-2398" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2398.pdf">
   <front>
     <title>Investigation of the two-dimensional shape of ion-implanted regions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2398"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2398"/>
-    <author surname="Roitman"/>
-    <author surname="Albers"/>
-    <author surname="Ehrstein"/>
-    <author surname="Myers"/>
+    <author initials="P" surname="Roitman">
+      <organization/>
+    </author>
+    <author initials="J" surname="Albers">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Ehrstein">
+      <organization/>
+    </author>
+    <author initials="DR" surname="Myers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2398"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2398"/>
 </reference>

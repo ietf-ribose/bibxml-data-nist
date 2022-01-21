@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.7161" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7161.pdf">
   <front>
     <title>Evaluation of resistance strain gages at elevated temperatures :progress report no. 12</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7161"/>
-    <seriesInfo name="NIST" value="NBS RPT 7161"/>
-    <author surname="Trumbo"/>
-    <author surname="Melton"/>
-    <author surname="Bloss"/>
+    <author initials="JT" surname="Trumbo">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Melton">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Bloss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1961" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7161"/>
+  <seriesInfo name="NIST" value="NBS RPT 7161"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.239" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular239.pdf">
   <front>
     <title>Letter Circular 239:list of publications giving data on dental research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.239"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 239"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1927"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.239"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 239"/>
 </reference>

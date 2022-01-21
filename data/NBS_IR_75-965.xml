@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-965" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-965.pdf">
   <front>
     <title>An evaluation and assessment of existing data and procedures for the measurement of noise from dozers and loaders</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-965"/>
-    <seriesInfo name="NIST" value="NBS IR 75-965"/>
-    <author fullname="Thomas Quindry" initials="T." surname="Quindry"/>
+    <author fullname="Thomas Quindry" initials="L" surname="Quindry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-965"/>
+  <seriesInfo name="NIST" value="NBS IR 75-965"/>
 </reference>

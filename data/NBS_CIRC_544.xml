@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.544" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular544.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 544:formulas for computing capacitance and inductance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.544"/>
-    <seriesInfo name="NIST" value="NBS CIRC 544"/>
-    <author fullname="Chester Snow" initials="C." surname="Snow"/>
+    <author fullname="Chester Snow" initials="C." surname="Snow">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.544"/>
+  <seriesInfo name="NIST" value="NBS CIRC 544"/>
 </reference>

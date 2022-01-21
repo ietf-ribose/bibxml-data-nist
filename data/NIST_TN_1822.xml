@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1822" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1822.pdf">
   <front>
     <title>The Process of Verification and Validation of Building Fire Evacuation Models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1822"/>
-    <seriesInfo name="NIST" value="NIST TN 1822"/>
     <author fullname="Enrico Ronchi" initials="E." surname="Ronchi">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock">
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Daniel Nilsson" initials="D." surname="Nilsson">
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1822"/>
+  <seriesInfo name="NIST" value="NIST TN 1822"/>
 </reference>

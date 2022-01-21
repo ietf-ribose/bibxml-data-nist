@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1075" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1075.pdf">
   <front>
     <title>Electromagnetic-acoustic-transducer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1075"/>
-    <seriesInfo name="NIST" value="NBS TN 1075"/>
-    <author surname="Fortunko"/>
+    <author initials="CM" surname="Fortunko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1075"/>
+  <seriesInfo name="NIST" value="NBS TN 1075"/>
 </reference>

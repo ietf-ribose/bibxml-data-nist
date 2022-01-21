@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-693" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-693.pdf">
   <front>
     <title>Measurement methodology for determining the sound output of model airplanes and noise producing bicycle attachments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-693"/>
-    <seriesInfo name="NIST" value="NBS IR 75-693"/>
-    <author fullname="Merilyn Cadoff" initials="M." surname="Cadoff"/>
-    <author fullname="William Leasure" initials="W." surname="Leasure"/>
+    <author fullname="Merilyn Cadoff" initials="A" surname="Cadoff">
+      <organization/>
+    </author>
+    <author fullname="William Leasure" initials="A" surname="Leasure">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-693"/>
+  <seriesInfo name="NIST" value="NBS IR 75-693"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.62" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience62.pdf">
   <front>
     <title>Evaluation of structural properties of masonry in existing buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.62"/>
-    <seriesInfo name="NIST" value="NBS BSS 62"/>
-    <author surname="Fattal"/>
-    <author surname="Cattaneo"/>
+    <author initials="SG" surname="Fattal">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Cattaneo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.62"/>
+  <seriesInfo name="NIST" value="NBS BSS 62"/>
 </reference>

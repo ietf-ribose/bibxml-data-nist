@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.1028" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1028.pdf">
   <front>
     <title>Report of the 89th National Conference on Weights and Measures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1028"/>
-    <seriesInfo name="NIST" value="NIST SP 1028"/>
-    <author fullname="Henry Oppermann" initials="H." surname="Oppermann"/>
+    <author fullname="Henry Oppermann" initials="V" surname="Oppermann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1028"/>
+  <seriesInfo name="NIST" value="NIST SP 1028"/>
 </reference>

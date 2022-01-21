@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5903" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5903.pdf">
   <front>
     <title>Mechanical properties of aluminum nitride substrates</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5903"/>
-    <seriesInfo name="NIST" value="NIST IR 5903"/>
-    <author surname="Wallace"/>
-    <author fullname="Jr Fuller" initials="J." surname="Fuller"/>
-    <author surname="Freiman"/>
+    <author initials="JS" surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Jr Fuller" initials="ER" surname="Fuller">
+      <organization/>
+    </author>
+    <author initials="SW" surname="Freiman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5903"/>
+  <seriesInfo name="NIST" value="NIST IR 5903"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience13.pdf">
   <front>
     <title>Shrinkage and creep in prestressed concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.13"/>
-    <seriesInfo name="NIST" value="NBS BSS 13"/>
-    <author fullname="Perry Petersen" initials="P." surname="Petersen"/>
-    <author fullname="David Watstein" initials="D." surname="Watstein"/>
+    <author fullname="Perry Petersen" initials="H" surname="Petersen">
+      <organization/>
+    </author>
+    <author fullname="David Watstein" initials="D." surname="Watstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.13"/>
+  <seriesInfo name="NIST" value="NBS BSS 13"/>
 </reference>

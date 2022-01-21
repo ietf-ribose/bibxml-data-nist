@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4708" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4708.pdf">
   <front>
     <title>Multi-enterprise concurrent engineering through international standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4708"/>
-    <seriesInfo name="NIST" value="NIST IR 4708"/>
-    <author fullname="Gary Carver" initials="G." surname="Carver"/>
-    <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
+    <author fullname="Gary Carver" initials="P" surname="Carver">
+      <organization/>
+    </author>
+    <author fullname="Howard Bloom" initials="M" surname="Bloom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4708"/>
+  <seriesInfo name="NIST" value="NIST IR 4708"/>
 </reference>

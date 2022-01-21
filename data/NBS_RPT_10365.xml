@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10365" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10365.pdf">
   <front>
     <title>Visit to three German fire research facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10365"/>
-    <seriesInfo name="NIST" value="NBS RPT 10365"/>
-    <author surname="Benjamin"/>
+    <author initials="IA" surname="Benjamin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10365"/>
+  <seriesInfo name="NIST" value="NBS RPT 10365"/>
 </reference>

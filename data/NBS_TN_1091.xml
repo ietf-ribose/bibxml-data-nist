@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1091" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1091.pdf">
   <front>
     <title>Interelement interactions in phased arrays :theory, methods of data analysis, and theoretical simulation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1091"/>
-    <seriesInfo name="NIST" value="NBS TN 1091"/>
-    <author fullname="Lorant Muth" initials="L." surname="Muth"/>
+    <author fullname="Lorant Muth" initials="A" surname="Muth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1091"/>
+  <seriesInfo name="NIST" value="NBS TN 1091"/>
 </reference>

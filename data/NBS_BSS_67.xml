@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.67" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience67.pdf">
   <front>
     <title>Abnormal loading on buildings and progressive collapse :an annotated bibliography</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.67"/>
-    <seriesInfo name="NIST" value="NBS BSS 67"/>
-    <author surname="Leyendecker"/>
-    <author surname="Breen"/>
-    <author surname="Somes"/>
-    <author surname="Swatta"/>
+    <author initials="EV" surname="Leyendecker">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Breen">
+      <organization/>
+    </author>
+    <author initials="NF" surname="Somes">
+      <organization/>
+    </author>
+    <author initials="M" surname="Swatta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.67"/>
+  <seriesInfo name="NIST" value="NBS BSS 67"/>
 </reference>

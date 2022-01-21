@@ -1,11 +1,15 @@
 <reference anchor="NIST.MONO.176" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nistmonograph176.pdf">
   <front>
     <title>Modified airy function and WKB solutions to the wave equation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.MONO.176"/>
-    <seriesInfo name="NIST" value="NIST MONO 176"/>
-    <author surname="Ghatak"/>
-    <author surname="Gallawa"/>
-    <author surname="Goyal"/>
+    <author initials="AK" surname="Ghatak">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Gallawa">
+      <organization/>
+    </author>
+    <author initials="IC" surname="Goyal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.MONO.176"/>
+  <seriesInfo name="NIST" value="NIST MONO 176"/>
 </reference>

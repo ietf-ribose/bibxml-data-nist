@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5833" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5833.pdf">
   <front>
     <title>Procedure for product data exchange using STEP developed in the autoSTEP pilot</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5833"/>
-    <seriesInfo name="NIST" value="NIST IR 5833"/>
-    <author fullname="David Rosenfeld" initials="D." surname="Rosenfeld"/>
-    <author fullname="Shantanu Dhar" initials="S." surname="Dhar"/>
+    <author fullname="David Rosenfeld" initials="A" surname="Rosenfeld">
+      <organization/>
+    </author>
+    <author fullname="Shantanu Dhar" initials="S." surname="Dhar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5833"/>
+  <seriesInfo name="NIST" value="NIST IR 5833"/>
 </reference>

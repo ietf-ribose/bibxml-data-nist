@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1200-9" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-9.pdf">
   <front>
     <title>Preparation of Nanoscale Mutli-walled Carbon Nanotube Dispersions in a Polyetheramine Epoxy for Eco-Toxicological Assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-9"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-9"/>
-    <author fullname="Chelsea Davis" initials="C." surname="Davis">
+    <author fullname="Chelsea Davis" initials="S" surname="Davis">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Jeremiah Woodcock" initials="J." surname="Woodcock">
+    <author fullname="Jeremiah Woodcock" initials="W" surname="Woodcock">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Jeffrey Gilman" initials="J." surname="Gilman">
+    <author fullname="Jeffrey Gilman" initials="W" surname="Gilman">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-9"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-9"/>
 </reference>

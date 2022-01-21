@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2096" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2096.pdf">
   <front>
     <title>Small punch testing to estimate mechanical properties of additively manufactured Ti-6Al-4V</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2096"/>
-    <seriesInfo name="NIST" value="NIST TN 2096"/>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2020" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2096"/>
+  <seriesInfo name="NIST" value="NIST TN 2096"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3110.pdf">
   <front>
     <title>Internal combustion engine thin film thermocouples</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3110"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3110"/>
-    <author fullname="Kenneth Kreider" initials="K." surname="Kreider"/>
-    <author fullname="Stephen Samancik" initials="S." surname="Samancik"/>
+    <author fullname="Kenneth Kreider" initials="G" surname="Kreider">
+      <organization/>
+    </author>
+    <author fullname="Stephen Samancik" initials="S." surname="Samancik">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3110"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3110"/>
 </reference>

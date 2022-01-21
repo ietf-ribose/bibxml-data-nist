@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-876" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-876.pdf">
   <front>
     <title>Transients in resistively loaded antennas and their comparison with conical antennas and TEM horns</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-876"/>
-    <seriesInfo name="NIST" value="NBS IR 78-876"/>
-    <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
+    <author fullname="Motohisa Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-876"/>
+  <seriesInfo name="NIST" value="NBS IR 78-876"/>
 </reference>

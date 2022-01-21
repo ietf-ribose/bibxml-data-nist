@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.625" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication625.pdf">
   <front>
     <title>X-Ray measurements and protection, 1913-1964</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.625"/>
-    <seriesInfo name="NIST" value="NBS SP 625"/>
-    <author fullname="LauristonSale Taylor" initials="L.S." surname="Taylor"/>
-    <author fullname="Reeves Tilley" initials="R." surname="Tilley"/>
+    <author fullname="LauristonSale Taylor" initials="L.S." surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Reeves Tilley" initials="W" surname="Tilley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.625"/>
+  <seriesInfo name="NIST" value="NBS SP 625"/>
 </reference>

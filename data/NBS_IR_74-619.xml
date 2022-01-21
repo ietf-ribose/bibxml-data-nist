@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-619" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-619.pdf">
   <front>
     <title>Measurement methodology for determining the sound output of toy guns</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-619"/>
-    <seriesInfo name="NIST" value="NBS IR 74-619"/>
-    <author fullname="Marilyn Cadoff" initials="M." surname="Cadoff"/>
-    <author fullname="Donald Blomquist" initials="D." surname="Blomquist"/>
+    <author fullname="Marilyn Cadoff" initials="A" surname="Cadoff">
+      <organization/>
+    </author>
+    <author fullname="Donald Blomquist" initials="S" surname="Blomquist">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-619"/>
+  <seriesInfo name="NIST" value="NBS IR 74-619"/>
 </reference>

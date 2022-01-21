@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3281" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3281.pdf">
   <front>
     <title>The NBSHarvard Mark VI multi-room fire simulation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3281"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3281"/>
-    <author fullname="John Rockett" initials="J." surname="Rockett"/>
-    <author fullname="Masahiro Morita" initials="M." surname="Morita"/>
+    <author fullname="John Rockett" initials="A" surname="Rockett">
+      <organization/>
+    </author>
+    <author fullname="Masahiro Morita" initials="M." surname="Morita">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3281"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3281"/>
 </reference>

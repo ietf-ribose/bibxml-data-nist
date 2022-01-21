@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1855" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1855.pdf">
   <front>
     <title>Screening for factors affecting application performance in profiling measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1855"/>
-    <seriesInfo name="NIST" value="NIST TN 1855"/>
     <author fullname="David Flater" initials="D." surname="Flater">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2014" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1855"/>
+  <seriesInfo name="NIST" value="NIST TN 1855"/>
 </reference>

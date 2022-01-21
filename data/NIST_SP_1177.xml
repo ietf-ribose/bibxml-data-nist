@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1177" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1177.pdf">
   <front>
     <title>NIST Center for Neutron Research :2014 accomplishments and opportunities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1177"/>
-    <seriesInfo name="NIST" value="NIST SP 1177"/>
-    <author fullname="Robert Dimeo" initials="R." surname="Dimeo"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline"/>
+    <author fullname="Robert Dimeo" initials="M" surname="Dimeo">
+      <organization/>
+    </author>
+    <author fullname="Steven Kline" initials="R" surname="Kline">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2014"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1177"/>
+  <seriesInfo name="NIST" value="NIST SP 1177"/>
 </reference>

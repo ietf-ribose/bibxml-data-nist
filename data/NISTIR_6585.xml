@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6585" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6585.pdf">
   <front>
     <title>Input data for multizone airflow and IAQ analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6585"/>
-    <seriesInfo name="NIST" value="NIST IR 6585"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Elizabeth Ivy" initials="E." surname="Ivy"/>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Ivy" initials="M" surname="Ivy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6585"/>
+  <seriesInfo name="NIST" value="NIST IR 6585"/>
 </reference>

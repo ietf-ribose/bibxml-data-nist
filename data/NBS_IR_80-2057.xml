@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2057" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2057.pdf">
   <front>
     <title>The NBS semiconductor technology program and VLSI</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2057"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2057"/>
-    <author fullname="Murray Bullis" initials="M." surname="Bullis"/>
-    <author surname="Scace"/>
+    <author fullname="Murray Bullis" initials="W" surname="Bullis">
+      <organization/>
+    </author>
+    <author initials="RI" surname="Scace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2057"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2057"/>
 </reference>

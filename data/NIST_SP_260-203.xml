@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.260-203" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-203.pdf">
   <front>
     <title>Certification and Extension of the Period of Validity for Standard Reference Material® 2393 CAG Repeat Length Mutation in Huntington’s Disease</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-203"/>
-    <seriesInfo name="NIST" value="NIST SP 260-203"/>
-    <author fullname="Margaret Kline" initials="M." surname="Kline">
+    <author fullname="Margaret Kline" initials="C" surname="Kline">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Carolyn Steffen" initials="C." surname="Steffen">
+    <author fullname="Carolyn Steffen" initials="R" surname="Steffen">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="David Duewer" initials="D." surname="Duewer">
+    <author fullname="David Duewer" initials="L" surname="Duewer">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2020" month="October" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-203"/>
+  <seriesInfo name="NIST" value="NIST SP 260-203"/>
 </reference>

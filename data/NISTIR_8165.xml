@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8165" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8165.pdf">
   <front>
     <title>Impact of code complexity on software analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8165"/>
-    <seriesInfo name="NIST" value="NIST IR 8165"/>
-    <author fullname="Charles De Oliveira" initials="C." surname="De Oliveira">
+    <author fullname="Charles De Oliveira" initials="D" surname="De Oliveira">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Black" initials="P." surname="Black">
+    <author fullname="Paul Black" initials="E" surname="Black">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8165"/>
+  <seriesInfo name="NIST" value="NIST IR 8165"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-797" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-797.pdf">
   <front>
     <title>An evaluation of a range-top warning light system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-797"/>
-    <seriesInfo name="NIST" value="NBS IR 75-797"/>
-    <author fullname="Mary Stefl" initials="M." surname="Stefl"/>
-    <author surname="Persensky"/>
+    <author fullname="Mary Stefl" initials="E" surname="Stefl">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Persensky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-797"/>
+  <seriesInfo name="NIST" value="NBS IR 75-797"/>
 </reference>

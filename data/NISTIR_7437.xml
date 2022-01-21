@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7437" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7437.pdf">
   <front>
     <title>Demonstration of real-time tactical decision aid displays</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7437"/>
-    <seriesInfo name="NIST" value="NIST IR 7437"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke"/>
-    <author fullname="Lori Brassell" initials="L." surname="Brassell"/>
-    <author fullname="Robert Vettori" initials="R." surname="Vettori"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="David Holmberg" initials="D." surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+      <organization/>
+    </author>
+    <author fullname="Lori Brassell" initials="L." surname="Brassell">
+      <organization/>
+    </author>
+    <author fullname="Robert Vettori" initials="R." surname="Vettori">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7437"/>
+  <seriesInfo name="NIST" value="NIST IR 7437"/>
 </reference>

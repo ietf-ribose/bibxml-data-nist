@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.846" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication846.pdf">
   <front>
     <title>Accuracy in powder diffraction II</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.846"/>
-    <seriesInfo name="NIST" value="NIST SP 846"/>
-    <author surname="Prince"/>
-    <author surname="Prince"/>
-    <author surname="Stalick"/>
+    <author initials="E" surname="Prince">
+      <organization/>
+    </author>
+    <author initials="E" surname="Prince">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Stalick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.846"/>
+  <seriesInfo name="NIST" value="NIST SP 846"/>
 </reference>

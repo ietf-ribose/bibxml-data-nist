@@ -1,8 +1,6 @@
 <reference anchor="NBS.SP.260e1981" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260e1981.pdf">
   <front>
     <title>NBS Standard Reference Materials catalog 1981-83 edition</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260e1981"/>
-    <seriesInfo name="NIST" value="NBS SP 260e1981"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260e1981"/>
+  <seriesInfo name="NIST" value="NBS SP 260e1981"/>
 </reference>

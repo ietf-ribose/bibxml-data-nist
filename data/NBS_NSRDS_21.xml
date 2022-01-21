@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.21" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds21.pdf">
   <front>
     <title>Kinetic data on gas phase unimolecular reactions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.21"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 21"/>
-    <author fullname="Sidney Benson" initials="S." surname="Benson"/>
-    <author fullname="Edward O'Neal" initials="E." surname="O'Neal"/>
+    <author fullname="Sidney Benson" initials="W" surname="Benson">
+      <organization/>
+    </author>
+    <author fullname="Edward O'Neal" initials="H" surname="O'Neal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.21"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 21"/>
 </reference>

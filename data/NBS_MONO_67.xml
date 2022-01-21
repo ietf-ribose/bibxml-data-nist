@@ -1,13 +1,21 @@
 <reference anchor="NBS.MONO.67" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph67.pdf">
   <front>
     <title>Methods for the dynamic calibration of pressure transducers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.67"/>
-    <seriesInfo name="NIST" value="NBS MONO 67"/>
-    <author surname="Schweppe"/>
-    <author surname="Eichberger"/>
-    <author surname="Muster"/>
-    <author surname="Michaels"/>
-    <author surname="Paskusz"/>
+    <author initials="JL" surname="Schweppe">
+      <organization/>
+    </author>
+    <author initials="LC" surname="Eichberger">
+      <organization/>
+    </author>
+    <author initials="DF" surname="Muster">
+      <organization/>
+    </author>
+    <author initials="EL" surname="Michaels">
+      <organization/>
+    </author>
+    <author initials="GF" surname="Paskusz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.67"/>
+  <seriesInfo name="NIST" value="NBS MONO 67"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1900-750" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-750.pdf">
   <front>
     <title>The transactive energy abstract component model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-750"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-750"/>
     <author fullname="Martin Burns" initials="M." surname="Burns">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-750"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-750"/>
 </reference>

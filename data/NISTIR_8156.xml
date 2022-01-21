@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8156" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8156.pdf">
   <front>
     <title>Improving biometric and forensic technology: the future of research datasets symposium report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8156"/>
-    <seriesInfo name="NIST" value="NIST IR 8156"/>
-    <author fullname="Melissa Taylor" initials="M." surname="Taylor">
+    <author fullname="Melissa Taylor" initials="K" surname="Taylor">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="Shannan Williams" initials="S." surname="Williams">
+    <author fullname="Shannan Williams" initials="R" surname="Williams">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="George Kiebuzinski" initials="G." surname="Kiebuzinski">
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8156"/>
+  <seriesInfo name="NIST" value="NIST IR 8156"/>
 </reference>

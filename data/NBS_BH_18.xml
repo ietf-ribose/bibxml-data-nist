@@ -1,17 +1,33 @@
 <reference anchor="NBS.BH.18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing18.pdf">
   <front>
     <title>Recommended minimum requirements for small dwelling construction :report of the Department of Commerce building code committee</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BH.18"/>
-    <seriesInfo name="NIST" value="NBS BH 18"/>
-    <author fullname="William Hatt" initials="W." surname="Hatt"/>
-    <author fullname="Albert Kahn" initials="A." surname="Kahn"/>
-    <author fullname="WilliamArthur Payne" initials="W.A." surname="Payne"/>
-    <author fullname="Rudolph Miller" initials="R." surname="Miller"/>
-    <author surname="Whittlemore"/>
-    <author fullname="John Newlin" initials="J." surname="Newlin"/>
-    <author fullname="Joseph Worcester" initials="J." surname="Worcester"/>
-    <author fullname="George Thompson" initials="G." surname="Thompson"/>
-    <author fullname="James Taylor" initials="J." surname="Taylor"/>
+    <author fullname="William Hatt" initials="K" surname="Hatt">
+      <organization/>
+    </author>
+    <author fullname="Albert Kahn" initials="A." surname="Kahn">
+      <organization/>
+    </author>
+    <author fullname="WilliamArthur Payne" initials="W.A." surname="Payne">
+      <organization/>
+    </author>
+    <author fullname="Rudolph Miller" initials="P" surname="Miller">
+      <organization/>
+    </author>
+    <author initials="HL" surname="Whittlemore">
+      <organization/>
+    </author>
+    <author fullname="John Newlin" initials="A" surname="Newlin">
+      <organization/>
+    </author>
+    <author fullname="Joseph Worcester" initials="R" surname="Worcester">
+      <organization/>
+    </author>
+    <author fullname="George Thompson" initials="N" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="James Taylor" initials="S" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BH.18"/>
+  <seriesInfo name="NIST" value="NBS BH 18"/>
 </reference>

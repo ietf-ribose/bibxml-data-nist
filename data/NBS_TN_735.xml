@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.735" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote735.pdf">
   <front>
     <title>The effects of magnetic fields on magnetic storage media used in computers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.735"/>
-    <seriesInfo name="NIST" value="NBS TN 735"/>
-    <author fullname="Sidney Geller" initials="S." surname="Geller"/>
+    <author fullname="Sidney Geller" initials="B" surname="Geller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.735"/>
+  <seriesInfo name="NIST" value="NBS TN 735"/>
 </reference>

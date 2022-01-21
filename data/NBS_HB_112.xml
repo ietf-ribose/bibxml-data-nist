@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.112" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook112.pdf">
   <front>
     <title>Examination procedure outlines for commercial weighing and measuring devices: a manual for weights and measures officials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.112"/>
-    <seriesInfo name="NIST" value="NBS HB 112"/>
-    <author fullname="Otto Warnlof" initials="O." surname="Warnlof"/>
+    <author fullname="Otto Warnlof" initials="K" surname="Warnlof">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.112"/>
+  <seriesInfo name="NIST" value="NBS HB 112"/>
 </reference>

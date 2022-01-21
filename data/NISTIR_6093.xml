@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6093" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6093.pdf">
   <front>
     <title>Development of manufacturing systems models using VRML</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6093"/>
-    <seriesInfo name="NIST" value="NIST IR 6093"/>
-    <author fullname="Kasthurirangan Krishnamurthy" initials="K." surname="Krishnamurthy"/>
-    <author fullname="Michael Iulian" initials="M." surname="Iulian"/>
-    <author fullname="PCharles McLean" initials="P." surname="McLean"/>
+    <author fullname="Kasthurirangan Krishnamurthy" initials="K." surname="Krishnamurthy">
+      <organization/>
+    </author>
+    <author fullname="Michael Iulian" initials="J" surname="Iulian">
+      <organization/>
+    </author>
+    <author fullname="PCharles McLean" initials="P." surname="McLean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6093"/>
+  <seriesInfo name="NIST" value="NIST IR 6093"/>
 </reference>

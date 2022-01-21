@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2699" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2699.pdf">
   <front>
     <title>Publications of the Mechanical Production Metrology Division in 1980-1982</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2699"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2699"/>
-    <author surname="Cadoff"/>
+    <author initials="MA" surname="Cadoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2699"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2699"/>
 </reference>

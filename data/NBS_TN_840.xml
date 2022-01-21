@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.840" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote840.pdf">
   <front>
     <title>Reference materials for collaborative tests of air quality methods</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.840"/>
-    <seriesInfo name="NIST" value="NBS TN 840"/>
-    <author fullname="Richard Johns" initials="R." surname="Johns"/>
+    <author fullname="Richard Johns" initials="H" surname="Johns">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.840"/>
+  <seriesInfo name="NIST" value="NBS TN 840"/>
 </reference>

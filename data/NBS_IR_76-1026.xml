@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1026" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1026.pdf">
   <front>
     <title>Studies of noble-metal thermocouple stability at high temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1026"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1026"/>
-    <author surname="Freeze"/>
-    <author surname="Thomas"/>
+    <author initials="PD" surname="Freeze">
+      <organization/>
+    </author>
+    <author initials="DB" surname="Thomas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1026"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1026"/>
 </reference>

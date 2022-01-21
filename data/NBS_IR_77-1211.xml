@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1211" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1211.pdf">
   <front>
     <title>Evaluation of x-ray florescence analysis for the determination of arsenic, vanadium, cadmium, lead and mercury in various matrices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1211"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1211"/>
-    <author surname="Pella"/>
-    <author surname="Myklebust"/>
-    <author surname="Heinrich"/>
+    <author initials="PA" surname="Pella">
+      <organization/>
+    </author>
+    <author initials="MM" surname="Myklebust">
+      <organization/>
+    </author>
+    <author initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1211"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1211"/>
 </reference>

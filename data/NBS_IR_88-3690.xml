@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.88-3690" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3690.pdf">
   <front>
     <title>Dynamic mechanical properties of two AAR M128 and one ASTM A212-B steel tank car head plates</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3690"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3690"/>
-    <author surname="Early"/>
-    <author surname="Interrante"/>
-    <author fullname="R,III Low" initials="R.I." surname="Low"/>
-    <author surname="Fields"/>
+    <author initials="JG" surname="Early">
+      <organization/>
+    </author>
+    <author initials="CG" surname="Interrante">
+      <organization/>
+    </author>
+    <author fullname="R,III Low" initials="S" surname="Low">
+      <organization/>
+    </author>
+    <author initials="BA" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3690"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3690"/>
 </reference>

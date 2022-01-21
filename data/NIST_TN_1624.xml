@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1624" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1624.pdf">
   <front>
     <title>Stairwell evacuation from buildings :what we know we don't know</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1624"/>
-    <seriesInfo name="NIST" value="NIST TN 1624"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1624"/>
+  <seriesInfo name="NIST" value="NIST TN 1624"/>
 </reference>

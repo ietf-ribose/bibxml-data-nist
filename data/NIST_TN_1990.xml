@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1990" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1990.pdf">
   <front>
     <title>Software science' revisited: rationalizing Halstead's system using dimensionless units.</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1990"/>
-    <seriesInfo name="NIST" value="NIST TN 1990"/>
     <author fullname="David Flater" initials="D." surname="Flater">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1990"/>
+  <seriesInfo name="NIST" value="NIST TN 1990"/>
 </reference>

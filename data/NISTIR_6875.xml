@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.6875" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6875.pdf">
   <front>
     <title>Final report:effective non-toxic metallic fire suppressants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6875"/>
-    <seriesInfo name="NIST" value="NIST IR 6875"/>
-    <author fullname="Gregory Linteris" initials="G." surname="Linteris"/>
-    <author fullname="Marc Rumminger" initials="M." surname="Rumminger"/>
-    <author fullname="Valeri Babushok" initials="V." surname="Babushok"/>
-    <author fullname="Harsha Chelliah" initials="H." surname="Chelliah"/>
-    <author fullname="Tony Lazzarini" initials="T." surname="Lazzarini"/>
-    <author fullname="Pasan Wanigarathe" initials="P." surname="Wanigarathe"/>
+    <author fullname="Gregory Linteris" initials="G." surname="Linteris">
+      <organization/>
+    </author>
+    <author fullname="Marc Rumminger" initials="M." surname="Rumminger">
+      <organization/>
+    </author>
+    <author fullname="Valeri Babushok" initials="V." surname="Babushok">
+      <organization/>
+    </author>
+    <author fullname="Harsha Chelliah" initials="H." surname="Chelliah">
+      <organization/>
+    </author>
+    <author fullname="Tony Lazzarini" initials="T." surname="Lazzarini">
+      <organization/>
+    </author>
+    <author fullname="Pasan Wanigarathe" initials="P." surname="Wanigarathe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6875"/>
+  <seriesInfo name="NIST" value="NIST IR 6875"/>
 </reference>

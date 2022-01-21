@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.6660" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6660.pdf">
   <front>
     <title>Workshop on quantitative tools for condition assessment of aging infrastructure :May 4-5, 2010, Boulder, Colorado</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6660"/>
-    <seriesInfo name="NIST" value="NIST IR 6660"/>
-    <author fullname="Jessica Terry" initials="J." surname="Terry"/>
-    <author fullname="Tom Siewert" initials="T." surname="Siewert"/>
-    <author fullname="David McColskey" initials="D." surname="McColskey"/>
-    <author fullname="Ward Johnson" initials="W." surname="Johnson"/>
-    <author fullname="William Luecke" initials="W." surname="Luecke"/>
-    <author fullname="Mark Iadicola" initials="M." surname="Iadicola"/>
-    <author fullname="Dat Duthinh" initials="D." surname="Duthinh"/>
+    <author fullname="Jessica Terry" initials="J." surname="Terry">
+      <organization/>
+    </author>
+    <author fullname="Tom Siewert" initials="T." surname="Siewert">
+      <organization/>
+    </author>
+    <author fullname="David McColskey" initials="D." surname="McColskey">
+      <organization/>
+    </author>
+    <author fullname="Ward Johnson" initials="W." surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="William Luecke" initials="W." surname="Luecke">
+      <organization/>
+    </author>
+    <author fullname="Mark Iadicola" initials="M." surname="Iadicola">
+      <organization/>
+    </author>
+    <author fullname="Dat Duthinh" initials="D." surname="Duthinh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6660"/>
+  <seriesInfo name="NIST" value="NIST IR 6660"/>
 </reference>

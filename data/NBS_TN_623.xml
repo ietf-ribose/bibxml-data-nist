@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.623" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote623.pdf">
   <front>
     <title>Invariance of the cross ratio applied to microwave network analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.623"/>
-    <seriesInfo name="NIST" value="NBS TN 623"/>
-    <author fullname="RobertWilliam Beatty" initials="R.W." surname="Beatty"/>
+    <author fullname="RobertWilliam Beatty" initials="R.W." surname="Beatty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.623"/>
+  <seriesInfo name="NIST" value="NBS TN 623"/>
 </reference>

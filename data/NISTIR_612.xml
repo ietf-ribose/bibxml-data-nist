@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.612" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir612.pdf">
   <front>
     <title>4SIGHT manual:a computer program for modelling degradation of underground low level waste concrete vaults</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.612"/>
-    <seriesInfo name="NIST" value="NIST IR 612"/>
-    <author fullname="Kenneth Snyder" initials="K." surname="Snyder"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="Kenneth Snyder" initials="A" surname="Snyder">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.612"/>
+  <seriesInfo name="NIST" value="NIST IR 612"/>
 </reference>

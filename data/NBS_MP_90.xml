@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.90" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub90.pdf">
   <front>
     <title>Directory of commercial testing and college research laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.90"/>
-    <seriesInfo name="NIST" value="NBS MP 90"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1927"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.90"/>
+  <seriesInfo name="NIST" value="NBS MP 90"/>
 </reference>

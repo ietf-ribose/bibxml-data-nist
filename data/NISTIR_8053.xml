@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8053" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8053.pdf">
   <front>
     <title>De-identification of personal information</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8053"/>
-    <seriesInfo name="NIST" value="NIST IR 8053"/>
-    <author fullname="Simson Garfinkel" initials="S." surname="Garfinkel">
+    <author fullname="Simson Garfinkel" initials="L" surname="Garfinkel">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8053"/>
+  <seriesInfo name="NIST" value="NIST IR 8053"/>
 </reference>

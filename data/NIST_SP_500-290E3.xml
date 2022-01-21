@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.500-290e3" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-290e3.pdf">
   <front>
     <title>Data Format for the Interchange of Fingerprint, Facial and Other Biometric Information ANSI/NIST-ITL 1-2011 NIST Special Publication 500-290 Edition 3</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-290e3"/>
-    <seriesInfo name="NIST" value="NIST SP 500-290e3"/>
-    <author fullname="Kevin Mangold" initials="K." surname="Mangold">
+    <author fullname="Kevin Mangold" initials="C" surname="Mangold">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-290e3"/>
+  <seriesInfo name="NIST" value="NIST SP 500-290e3"/>
 </reference>

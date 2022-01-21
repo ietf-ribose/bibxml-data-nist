@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-176" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-176.pdf">
   <front>
     <title>Introduction to heterogeneous computing environments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-176"/>
-    <seriesInfo name="NIST" value="NIST SP 500-176"/>
-    <author fullname="John Barkley" initials="J." surname="Barkley"/>
-    <author fullname="Karen Olsen" initials="K." surname="Olsen"/>
+    <author fullname="John Barkley" initials="F" surname="Barkley">
+      <organization/>
+    </author>
+    <author fullname="Karen Olsen" initials="K." surname="Olsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-176"/>
+  <seriesInfo name="NIST" value="NIST SP 500-176"/>
 </reference>

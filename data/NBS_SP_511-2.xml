@@ -1,15 +1,27 @@
 <reference anchor="NBS.SP.511-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication511-2.pdf">
   <front>
     <title>Economic effects of metallic corrosion in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.511-2"/>
-    <seriesInfo name="NIST" value="NBS SP 511-2"/>
-    <author surname="Payer"/>
-    <author surname="Dippold"/>
-    <author surname="Boyd"/>
-    <author surname="Berry"/>
-    <author surname="Brooman"/>
-    <author surname="Buhr"/>
-    <author surname="Fisher"/>
+    <author initials="JH" surname="Payer">
+      <organization/>
+    </author>
+    <author initials="DG" surname="Dippold">
+      <organization/>
+    </author>
+    <author initials="WK" surname="Boyd">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Berry">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Brooman">
+      <organization/>
+    </author>
+    <author initials="AR" surname="Buhr">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Fisher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.511-2"/>
+  <seriesInfo name="NIST" value="NBS SP 511-2"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-10.pdf">
   <front>
     <title>Keeping your site comfortably secure :an introduction to Internet firewalls</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-10"/>
-    <seriesInfo name="NIST" value="NIST SP 800-10"/>
-    <author fullname="John Wack" initials="J." surname="Wack">
+    <author fullname="John Wack" initials="P" surname="Wack">
       <organization>Computer Security Division.</organization>
     </author>
-    <author fullname="Lisa Carnahan" initials="L." surname="Carnahan">
+    <author fullname="Lisa Carnahan" initials="J" surname="Carnahan">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-10"/>
+  <seriesInfo name="NIST" value="NIST SP 800-10"/>
 </reference>

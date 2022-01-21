@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-105" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-105.pdf">
   <front>
     <title>Guide to software conversion management</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-105"/>
-    <seriesInfo name="NIST" value="NBS SP 500-105"/>
-    <author fullname="Mark Skall" initials="M." surname="Skall"/>
+    <author fullname="Mark Skall" initials="W" surname="Skall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-105"/>
+  <seriesInfo name="NIST" value="NBS SP 500-105"/>
 </reference>

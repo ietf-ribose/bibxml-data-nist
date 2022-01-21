@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.500-293" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-293.pdf">
   <front>
     <title>US Government Cloud Computing Technology Roadmap</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-293"/>
-    <seriesInfo name="NIST" value="NIST SP 500-293"/>
     <author fullname="Lee Badger" initials="L." surname="Badger">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -50,4 +48,6 @@
     </author>
     <date year="2014" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-293"/>
+  <seriesInfo name="NIST" value="NIST SP 500-293"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1155" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1155.pdf">
   <front>
     <title>Writing Guidelines for Requests for Proposals for Automated Fingerprint Identification Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1155"/>
-    <seriesInfo name="NIST" value="NIST SP 1155"/>
     <author fullname="Susan Ballou" initials="S." surname="Ballou">
       <organization>Law Enforcement Standards Office, Office of Special Programs</organization>
     </author>
@@ -15,7 +13,7 @@
     <author fullname="Mike Garris" initials="M." surname="Garris">
       <organization>Law Enforcement Standards Office, Office of Special Programs</organization>
     </author>
-    <author fullname="Peter Higgins" initials="P." surname="Higgins">
+    <author fullname="Peter Higgins" initials="T" surname="Higgins">
       <organization>Law Enforcement Standards Office, Office of Special Programs</organization>
     </author>
     <author fullname="Elizabeth Fong" initials="E." surname="Fong">
@@ -44,4 +42,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1155"/>
+  <seriesInfo name="NIST" value="NIST SP 1155"/>
 </reference>

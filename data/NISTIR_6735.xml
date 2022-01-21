@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.6735" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6735.pdf">
   <front>
     <title>Seabird Tissue and Monitoring Project:protocol for collecting and banking seabird eggs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6735"/>
-    <seriesInfo name="NIST" value="NIST IR 6735"/>
-    <author fullname="GeoffWeston York" initials="G.W." surname="York"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="David Roseneau" initials="D." surname="Roseneau"/>
-    <author fullname="Kristin Simac" initials="K." surname="Simac"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Lyman Thorsteinson" initials="L." surname="Thorsteinson"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="GeoffWeston York" initials="G.W." surname="York">
+      <organization/>
+    </author>
+    <author fullname="Barbara Porter" initials="J" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="David Roseneau" initials="G" surname="Roseneau">
+      <organization/>
+    </author>
+    <author fullname="Kristin Simac" initials="K." surname="Simac">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Lyman Thorsteinson" initials="K" surname="Thorsteinson">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6735"/>
+  <seriesInfo name="NIST" value="NIST IR 6735"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-61" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-61.pdf">
   <front>
     <title>Computer security incident handling guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-61"/>
-    <seriesInfo name="NIST" value="NIST SP 800-61"/>
-    <author surname="Grance">
+    <author initials="T" surname="Grance">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Kent">
+    <author initials="KA" surname="Kent">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Kim">
+    <author initials="B" surname="Kim">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-61"/>
+  <seriesInfo name="NIST" value="NIST SP 800-61"/>
 </reference>

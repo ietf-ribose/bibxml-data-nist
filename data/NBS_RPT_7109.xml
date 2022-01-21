@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.7109" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7109.pdf">
   <front>
     <title>Performance of coating systems when applied to surfaced built-up roofs to facilitate the removal of atomic fallout</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7109"/>
-    <seriesInfo name="NIST" value="NBS RPT 7109"/>
-    <author fullname="William Cullen" initials="W." surname="Cullen"/>
-    <author fullname="Edgar MacArthur" initials="E." surname="MacArthur"/>
+    <author fullname="William Cullen" initials="C" surname="Cullen">
+      <organization/>
+    </author>
+    <author fullname="Edgar MacArthur" initials="H" surname="MacArthur">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7109"/>
+  <seriesInfo name="NIST" value="NBS RPT 7109"/>
 </reference>

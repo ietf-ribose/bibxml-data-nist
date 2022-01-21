@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7098" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7098.pdf">
   <front>
     <title>Feature-based inspection and control system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7098"/>
-    <seriesInfo name="NIST" value="NIST IR 7098"/>
-    <author fullname="Thomas Kramer" initials="T." surname="Kramer"/>
-    <author fullname="John Horst" initials="J." surname="Horst"/>
-    <author fullname="Hui Huang" initials="H." surname="Huang"/>
-    <author fullname="Elena Messina" initials="E." surname="Messina"/>
-    <author fullname="Frederick Proctor" initials="F." surname="Proctor"/>
-    <author fullname="Harry Scott" initials="H." surname="Scott"/>
+    <author fullname="Thomas Kramer" initials="R" surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="John Horst" initials="J." surname="Horst">
+      <organization/>
+    </author>
+    <author fullname="Hui Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="Elena Messina" initials="E." surname="Messina">
+      <organization/>
+    </author>
+    <author fullname="Frederick Proctor" initials="M" surname="Proctor">
+      <organization/>
+    </author>
+    <author fullname="Harry Scott" initials="H." surname="Scott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7098"/>
+  <seriesInfo name="NIST" value="NIST IR 7098"/>
 </reference>

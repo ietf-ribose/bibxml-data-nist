@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3620.pdf">
   <front>
     <title>Center for Electronics and Electrical Engineering :technical publication announcements covering center programs October to December 1986, with 1987 CEEE events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3620"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3620"/>
-    <author fullname="Walter Rossiter" initials="W." surname="Rossiter"/>
-    <author fullname="Willard Roberts" initials="W." surname="Roberts"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
+    <author fullname="Walter Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Willard Roberts" initials="E" surname="Roberts">
+      <organization/>
+    </author>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3620"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3620"/>
 </reference>

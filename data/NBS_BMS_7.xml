@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures7.pdf">
   <front>
     <title>Water permeability of masonry walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.7"/>
-    <seriesInfo name="NIST" value="NBS BMS 7"/>
-    <author fullname="Cyrus Fishburn" initials="C." surname="Fishburn"/>
-    <author fullname="David Watstein" initials="D." surname="Watstein"/>
-    <author fullname="Douglas Parsons" initials="D." surname="Parsons"/>
+    <author fullname="Cyrus Fishburn" initials="C" surname="Fishburn">
+      <organization/>
+    </author>
+    <author fullname="David Watstein" initials="D." surname="Watstein">
+      <organization/>
+    </author>
+    <author fullname="Douglas Parsons" initials="F" surname="Parsons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.7"/>
+  <seriesInfo name="NIST" value="NBS BMS 7"/>
 </reference>

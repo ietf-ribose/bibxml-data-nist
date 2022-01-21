@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-25" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-25.pdf">
   <front>
     <title>An analysis of computer security safeguards for detecting and preventing intentional computer misuse</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-25"/>
-    <seriesInfo name="NIST" value="NBS SP 500-25"/>
-    <author fullname="Brian Ruder" initials="B." surname="Ruder"/>
-    <author surname="Madden"/>
-    <author fullname="Robert Blanc" initials="R." surname="Blanc"/>
+    <author fullname="Brian Ruder" initials="B." surname="Ruder">
+      <organization/>
+    </author>
+    <author initials="JD" surname="Madden">
+      <organization/>
+    </author>
+    <author fullname="Robert Blanc" initials="P" surname="Blanc">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-25"/>
+  <seriesInfo name="NIST" value="NBS SP 500-25"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3899" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3899.pdf">
   <front>
     <title>Elevated temperature deformation of structural steel</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3899"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3899"/>
-    <author surname="Field"/>
-    <author surname="Fields"/>
+    <author initials="BA" surname="Field">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3899"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3899"/>
 </reference>

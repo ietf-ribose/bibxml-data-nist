@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.960-7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-7.pdf">
   <front>
     <title>Capacitance cell measurement of the out-of-plane expansion of thin films</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.960-7"/>
-    <seriesInfo name="NIST" value="NIST SP 960-7"/>
-    <author fullname="Chad Snyder" initials="C." surname="Snyder"/>
-    <author fullname="Frederick Mopsik" initials="F." surname="Mopsik"/>
+    <author fullname="Chad Snyder" initials="R" surname="Snyder">
+      <organization/>
+    </author>
+    <author fullname="Frederick Mopsik" initials="I" surname="Mopsik">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.960-7"/>
+  <seriesInfo name="NIST" value="NIST SP 960-7"/>
 </reference>

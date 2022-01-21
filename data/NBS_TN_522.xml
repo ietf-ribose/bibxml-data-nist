@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.522" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote522.pdf">
   <front>
     <title>Beam handling techniques for electron linear accelerators.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.522"/>
-    <seriesInfo name="NIST" value="NBS TN 522"/>
-    <author fullname="Samuel Penner" initials="S." surname="Penner"/>
+    <author fullname="Samuel Penner" initials="S." surname="Penner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.522"/>
+  <seriesInfo name="NIST" value="NBS TN 522"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.1293" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport1293.pdf">
   <front>
     <title>Introduction to the theory of stochastic processes depending on a continuous parameter</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.1293"/>
-    <seriesInfo name="NIST" value="NBS RPT 1293"/>
-    <author fullname="Henry Mann" initials="H." surname="Mann"/>
+    <author fullname="Henry Mann" initials="B" surname="Mann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.1293"/>
+  <seriesInfo name="NIST" value="NBS RPT 1293"/>
 </reference>

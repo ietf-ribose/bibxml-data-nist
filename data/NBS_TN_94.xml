@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.94" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote94.pdf">
   <front>
     <title>Bibliography on meteoric radio wave propagation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.94"/>
-    <seriesInfo name="NIST" value="NBS TN 94"/>
-    <author fullname="Wilhelm Nupen" initials="W." surname="Nupen"/>
+    <author fullname="Wilhelm Nupen" initials="W." surname="Nupen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.94"/>
+  <seriesInfo name="NIST" value="NBS TN 94"/>
 </reference>

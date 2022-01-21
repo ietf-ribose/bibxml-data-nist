@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1730" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1730.pdf">
   <front>
     <title>Protecting adobe walls from ground water</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1730"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1730"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Frankie Davis" initials="F." surname="Davis"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Frankie Davis" initials="F." surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1730"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1730"/>
 </reference>

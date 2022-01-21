@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3080" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3080.pdf">
   <front>
     <title>EMT test facilities evaluation of reverberating chamber located at RADC, Griffiss AFB Rome, New York</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3080"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3080"/>
-    <author fullname="Myron Crawford" initials="M." surname="Crawford"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
-    <author fullname="John Ladbury" initials="J." surname="Ladbury"/>
+    <author fullname="Myron Crawford" initials="L" surname="Crawford">
+      <organization/>
+    </author>
+    <author fullname="Galen Koepke" initials="H" surname="Koepke">
+      <organization/>
+    </author>
+    <author fullname="John Ladbury" initials="M" surname="Ladbury">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3080"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3080"/>
 </reference>

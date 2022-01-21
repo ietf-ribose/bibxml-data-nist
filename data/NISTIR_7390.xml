@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7390" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7390.pdf">
   <front>
     <title>A guide to printed and electronic resources for developing a cost-effective risk mitigation plan for new and existing constructed facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7390"/>
-    <seriesInfo name="NIST" value="NIST IR 7390"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="Douglas Thomas" initials="S" surname="Thomas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7390"/>
+  <seriesInfo name="NIST" value="NIST IR 7390"/>
 </reference>

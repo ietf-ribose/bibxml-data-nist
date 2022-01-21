@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.4e3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook44e3.pdf">
   <front>
     <title>Specifications, tolerances, and other technical requirements for weighing and measuring devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.4e3"/>
-    <seriesInfo name="NIST" value="NBS HB 4e3"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.4e3"/>
+  <seriesInfo name="NIST" value="NBS HB 4e3"/>
 </reference>

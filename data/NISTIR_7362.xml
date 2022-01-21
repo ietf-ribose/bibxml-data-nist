@@ -1,20 +1,42 @@
 <reference anchor="NIST.IR.7362" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7362.pdf">
   <front>
     <title>Surface topography analysis for a feasibility assessment of a national ballistics imaging database</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7362"/>
-    <seriesInfo name="NIST" value="NIST IR 7362"/>
-    <author surname="Vorburger"/>
-    <author surname="Yen"/>
-    <author surname="Bachrach"/>
-    <author surname="Renegar"/>
-    <author surname="Filliben"/>
-    <author surname="Ma"/>
-    <author surname="Rhee"/>
-    <author surname="Zheng"/>
-    <author surname="Song"/>
-    <author surname="Riley"/>
-    <author surname="Foreman"/>
-    <author surname="Ballou"/>
+    <author initials="TV" surname="Vorburger">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Yen">
+      <organization/>
+    </author>
+    <author initials="B" surname="Bachrach">
+      <organization/>
+    </author>
+    <author initials="TB" surname="Renegar">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Filliben">
+      <organization/>
+    </author>
+    <author initials="L" surname="Ma">
+      <organization/>
+    </author>
+    <author initials="HG" surname="Rhee">
+      <organization/>
+    </author>
+    <author initials="A" surname="Zheng">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Song">
+      <organization/>
+    </author>
+    <author initials="M" surname="Riley">
+      <organization/>
+    </author>
+    <author initials="CD" surname="Foreman">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Ballou">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -27,4 +49,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7362"/>
+  <seriesInfo name="NIST" value="NIST IR 7362"/>
 </reference>

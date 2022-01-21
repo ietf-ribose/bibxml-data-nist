@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.1011" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1011.pdf">
   <front>
     <title>Terminology for specifying the autonomy levels for unmanned systems :version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1011"/>
-    <seriesInfo name="NIST" value="NIST SP 1011"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1011"/>
+  <seriesInfo name="NIST" value="NIST SP 1011"/>
 </reference>

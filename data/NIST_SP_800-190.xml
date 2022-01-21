@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-190" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf">
   <front>
     <title>Application container security guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-190"/>
-    <seriesInfo name="NIST" value="NIST SP 800-190"/>
     <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="September" day="25"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-190"/>
+  <seriesInfo name="NIST" value="NIST SP 800-190"/>
 </reference>

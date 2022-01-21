@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.5777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5777.pdf">
   <front>
     <title>Beyond the technology roadmaps:an assessment of electronic materials research and development</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5777"/>
-    <seriesInfo name="NIST" value="NIST IR 5777"/>
-    <author fullname="Michael Schen" initials="M." surname="Schen"/>
-    <author fullname="Thomas Russell" initials="T." surname="Russell"/>
-    <author fullname="Robert Leheny" initials="R." surname="Leheny"/>
-    <author fullname="Henry Simon" initials="H." surname="Simon"/>
-    <author fullname="Verne Hess" initials="V." surname="Hess"/>
-    <author fullname="Gerald Borsuk" initials="G." surname="Borsuk"/>
+    <author fullname="Michael Schen" initials="A" surname="Schen">
+      <organization/>
+    </author>
+    <author fullname="Thomas Russell" initials="J" surname="Russell">
+      <organization/>
+    </author>
+    <author fullname="Robert Leheny" initials="F" surname="Leheny">
+      <organization/>
+    </author>
+    <author fullname="Henry Simon" initials="H." surname="Simon">
+      <organization/>
+    </author>
+    <author fullname="Verne Hess" initials="V." surname="Hess">
+      <organization/>
+    </author>
+    <author fullname="Gerald Borsuk" initials="G." surname="Borsuk">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5777"/>
+  <seriesInfo name="NIST" value="NIST IR 5777"/>
 </reference>

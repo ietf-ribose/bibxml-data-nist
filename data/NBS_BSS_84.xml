@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.84" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience84.pdf">
   <front>
     <title>Design guide for reducing transportation noise in and around buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.84"/>
-    <seriesInfo name="NIST" value="NBS BSS 84"/>
-    <author fullname="David Pallett" initials="D." surname="Pallett"/>
-    <author fullname="Robert Whrli" initials="R." surname="Whrli"/>
-    <author fullname="Roger Kilmer" initials="R." surname="Kilmer"/>
-    <author fullname="Thomas Qindry" initials="T." surname="Qindry"/>
+    <author fullname="David Pallett" initials="S" surname="Pallett">
+      <organization/>
+    </author>
+    <author fullname="Robert Whrli" initials="R." surname="Whrli">
+      <organization/>
+    </author>
+    <author fullname="Roger Kilmer" initials="D" surname="Kilmer">
+      <organization/>
+    </author>
+    <author fullname="Thomas Qindry" initials="L" surname="Qindry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.84"/>
+  <seriesInfo name="NIST" value="NBS BSS 84"/>
 </reference>

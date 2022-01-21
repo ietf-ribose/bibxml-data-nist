@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.18-017" target="https://nvlpubs.nist.gov/nistpubs/gcr/2018/NIST.GCR.18-017.pdf">
   <front>
     <title>The economic impacts of the advanced encryption standard, 1996?2017</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-017"/>
-    <seriesInfo name="NIST" value="NIST GCR 18-017"/>
-    <author fullname="David Leech" initials="D." surname="Leech">
+    <author fullname="David Leech" initials="P" surname="Leech">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author fullname="Stacey Ferris" initials="S." surname="Ferris">
       <organization>National Institute of Standards and Technology</organization>
     </author>
-    <author fullname="John Scott" initials="J." surname="Scott">
+    <author fullname="John Scott" initials="T" surname="Scott">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.18-017"/>
+  <seriesInfo name="NIST" value="NIST GCR 18-017"/>
 </reference>

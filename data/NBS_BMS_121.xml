@@ -1,12 +1,18 @@
 <reference anchor="NBS.BMS.121" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures121.pdf">
   <front>
     <title>Investigation of failures of white-coat plaster</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.121"/>
-    <seriesInfo name="NIST" value="NBS BMS 121"/>
-    <author fullname="Lansing Wells" initials="L." surname="Wells"/>
-    <author fullname="Walter Clarke" initials="W." surname="Clarke"/>
-    <author fullname="Edwin Newman" initials="E." surname="Newman"/>
-    <author fullname="Dana Bishop" initials="D." surname="Bishop"/>
+    <author fullname="Lansing Wells" initials="S" surname="Wells">
+      <organization/>
+    </author>
+    <author fullname="Walter Clarke" initials="F" surname="Clarke">
+      <organization/>
+    </author>
+    <author fullname="Edwin Newman" initials="S" surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="Dana Bishop" initials="L" surname="Bishop">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.121"/>
+  <seriesInfo name="NIST" value="NBS BMS 121"/>
 </reference>

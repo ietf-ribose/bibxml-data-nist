@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1968" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1968.pdf">
   <front>
     <title>Pool boiling of low-GWP replacements for R134a on a reentrant cavity surface; extensive measurement and analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1968"/>
-    <seriesInfo name="NIST" value="NIST TN 1968"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski">
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Lingnan Lin" initials="L." surname="Lin">
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1968"/>
+  <seriesInfo name="NIST" value="NIST TN 1968"/>
 </reference>

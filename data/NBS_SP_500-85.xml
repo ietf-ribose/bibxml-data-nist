@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-85" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-85.pdf">
   <front>
     <title>Executive guide to ADP contingency planning</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-85"/>
-    <seriesInfo name="NIST" value="NBS SP 500-85"/>
-    <author fullname="James Shaw" initials="J." surname="Shaw"/>
-    <author fullname="Stuart Katzke" initials="S." surname="Katzke"/>
+    <author fullname="James Shaw" initials="K" surname="Shaw">
+      <organization/>
+    </author>
+    <author fullname="Stuart Katzke" initials="W" surname="Katzke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-85"/>
+  <seriesInfo name="NIST" value="NBS SP 500-85"/>
 </reference>

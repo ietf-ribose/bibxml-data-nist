@@ -1,12 +1,18 @@
 <reference anchor="NBS.MONO.161" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph161.pdf">
   <front>
     <title>The Nicrosil versus Nisil thermocouple :properties and thermoelectric reference data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.161"/>
-    <seriesInfo name="NIST" value="NBS MONO 161"/>
-    <author fullname="Noel Burley" initials="N." surname="Burley"/>
-    <author fullname="Robert Powell" initials="R." surname="Powell"/>
-    <author fullname="George Burns" initials="G." surname="Burns"/>
-    <author fullname="Margaret Scroger" initials="M." surname="Scroger"/>
+    <author fullname="Noel Burley" initials="A" surname="Burley">
+      <organization/>
+    </author>
+    <author fullname="Robert Powell" initials="L" surname="Powell">
+      <organization/>
+    </author>
+    <author fullname="George Burns" initials="W" surname="Burns">
+      <organization/>
+    </author>
+    <author fullname="Margaret Scroger" initials="G" surname="Scroger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.161"/>
+  <seriesInfo name="NIST" value="NBS MONO 161"/>
 </reference>

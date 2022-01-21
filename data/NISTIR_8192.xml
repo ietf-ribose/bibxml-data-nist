@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8192" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8192.pdf">
   <front>
     <title>Enhancing resilience of the internet and Ccommunications ecosystem: a NIST workshop proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8192"/>
-    <seriesInfo name="NIST" value="NIST IR 8192"/>
     <author fullname="Tim Polk" initials="T." surname="Polk">
       <organization>Information Technology Laboratory.</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8192"/>
+  <seriesInfo name="NIST" value="NIST IR 8192"/>
 </reference>

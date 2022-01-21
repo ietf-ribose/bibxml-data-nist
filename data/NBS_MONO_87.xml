@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.87" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph87.pdf">
   <front>
     <title>Oxidation of polycyclic, aromatic hydrocarbons :a review of the literature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.87"/>
-    <seriesInfo name="NIST" value="NBS MONO 87"/>
-    <author fullname="Stuart Tipson" initials="S." surname="Tipson"/>
+    <author fullname="Stuart Tipson" initials="R" surname="Tipson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.87"/>
+  <seriesInfo name="NIST" value="NBS MONO 87"/>
 </reference>

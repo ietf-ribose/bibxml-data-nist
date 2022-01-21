@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-3.pdf">
   <front>
     <title>Technical profile of seven data element dictionarydirectory systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-3"/>
-    <seriesInfo name="NIST" value="NBS SP 500-3"/>
-    <author fullname="Belkis Leong-Hong" initials="B." surname="Leong-Hong"/>
-    <author fullname="Beatrice Marron" initials="B." surname="Marron"/>
+    <author fullname="Belkis Leong-Hong" initials="B." surname="Leong-Hong">
+      <organization/>
+    </author>
+    <author fullname="Beatrice Marron" initials="B." surname="Marron">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-3"/>
+  <seriesInfo name="NIST" value="NBS SP 500-3"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-18.pdf">
   <front>
     <title>Guide for developing security plans for information technology systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-18"/>
-    <seriesInfo name="NIST" value="NIST SP 800-18"/>
     <author fullname="Marianne Swanson" initials="M." surname="Swanson">
       <organization>Computer Security Division.</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-18"/>
+  <seriesInfo name="NIST" value="NIST SP 800-18"/>
 </reference>

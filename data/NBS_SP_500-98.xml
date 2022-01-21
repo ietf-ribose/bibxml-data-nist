@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-98" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-98.pdf">
   <front>
     <title>Planning for software validation, verification, and testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-98"/>
-    <seriesInfo name="NIST" value="NBS SP 500-98"/>
-    <author fullname="Patricia Powell" initials="P." surname="Powell"/>
+    <author fullname="Patricia Powell" initials="B" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-98"/>
+  <seriesInfo name="NIST" value="NBS SP 500-98"/>
 </reference>

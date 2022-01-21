@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1288" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1288.pdf">
   <front>
     <title>Video processing with the Princeton engine at NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1288"/>
-    <seriesInfo name="NIST" value="NIST TN 1288"/>
-    <author fullname="Charles Fenimore" initials="C." surname="Fenimore"/>
-    <author fullname="Bruce Field" initials="B." surname="Field"/>
+    <author fullname="Charles Fenimore" initials="C." surname="Fenimore">
+      <organization/>
+    </author>
+    <author fullname="Bruce Field" initials="F" surname="Field">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1288"/>
+  <seriesInfo name="NIST" value="NIST TN 1288"/>
 </reference>

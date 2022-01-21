@@ -1,20 +1,42 @@
 <reference anchor="NIST.NCSTAR.1-5bv2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-5bv2.pdf">
   <front>
     <title>Experiments and modeling of structural steel elements exposed to fire (Appendices D-G)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5bv2"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-5bv2"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Erik Johnsson" initials="E." surname="Johnsson"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="Michelle Dennelly" initials="M." surname="Dennelly"/>
-    <author fullname="Jiann Yang" initials="J." surname="Yang"/>
-    <author fullname="GeorgeW, Mulholland" initials="G.W." surname="Mulholland"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
-    <author fullname="Scott Kukuck" initials="S." surname="Kukuck"/>
-    <author fullname="Robert Anleitner" initials="R." surname="Anleitner"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister"/>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Erik Johnsson" initials="L" surname="Johnsson">
+      <organization/>
+    </author>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="Michelle Dennelly" initials="K" surname="Dennelly">
+      <organization/>
+    </author>
+    <author fullname="Jiann Yang" initials="C" surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="GeorgeW, Mulholland" initials="G.W." surname="Mulholland">
+      <organization/>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="R" surname="Prasad">
+      <organization/>
+    </author>
+    <author fullname="Scott Kukuck" initials="R" surname="Kukuck">
+      <organization/>
+    </author>
+    <author fullname="Robert Anleitner" initials="L" surname="Anleitner">
+      <organization/>
+    </author>
+    <author fullname="Therese McAllister" initials="P" surname="McAllister">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -27,4 +49,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5bv2"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-5bv2"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.260-26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-26.pdf">
   <front>
     <title>Standard Reference Materials :National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-26"/>
-    <seriesInfo name="NIST" value="NBS SP 260-26"/>
-    <author surname="Martin"/>
+    <author initials="JF" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-26"/>
+  <seriesInfo name="NIST" value="NBS SP 260-26"/>
 </reference>

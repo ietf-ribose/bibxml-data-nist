@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1442" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1442.pdf">
   <front>
     <title>Algorithms for image analysis of wood pulp fibers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1442"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1442"/>
-    <author fullname="Russel Kirsch" initials="R." surname="Kirsch"/>
+    <author fullname="Russel Kirsch" initials="A" surname="Kirsch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1442"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1442"/>
 </reference>

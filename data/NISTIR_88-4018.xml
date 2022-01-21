@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.88-4018" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4018.pdf">
   <front>
     <title>Toughening mechanisms in ceramic composites- semi-annual progress report for the period ending September 30, 1988</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4018"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4018"/>
-    <author fullname="Jr Fuller" initials="J." surname="Fuller"/>
-    <author fullname="Jr Krause" initials="J." surname="Krause"/>
-    <author fullname="D, Vaudin" initials="D." surname="Vaudin"/>
-    <author surname="Palamides"/>
+    <author fullname="Jr Fuller" initials="ER" surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="Jr Krause" initials="RF" surname="Krause">
+      <organization/>
+    </author>
+    <author fullname="D, Vaudin" initials="M" surname="Vaudin">
+      <organization/>
+    </author>
+    <author initials="TR" surname="Palamides">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4018"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4018"/>
 </reference>

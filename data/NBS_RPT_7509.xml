@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.7509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7509.pdf">
   <front>
     <title>Fire endurance test of two bulkhead assemblies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7509"/>
-    <seriesInfo name="NIST" value="NBS RPT 7509"/>
-    <author surname="Ryan"/>
-    <author surname="Bender"/>
+    <author initials="JV" surname="Ryan">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Bender">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7509"/>
+  <seriesInfo name="NIST" value="NBS RPT 7509"/>
 </reference>

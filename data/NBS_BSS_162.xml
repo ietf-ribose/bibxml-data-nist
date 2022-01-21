@@ -1,17 +1,33 @@
 <reference anchor="NBS.BSS.162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience162.pdf">
   <front>
     <title>Ring-on-ring tests and load capacity of cladding glass</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.162"/>
-    <seriesInfo name="NIST" value="NBS BSS 162"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="Dorothy Reed" initials="D." surname="Reed"/>
-    <author fullname="Charles Yancey" initials="C." surname="Yancey"/>
-    <author fullname="Jonathan martin" initials="J." surname="martin"/>
-    <author fullname="Erik Hendrickson" initials="E." surname="Hendrickson"/>
-    <author fullname="Armando Gonzalez" initials="A." surname="Gonzalez"/>
-    <author fullname="Masayoshi Koike" initials="M." surname="Koike"/>
-    <author fullname="James Lechner" initials="J." surname="Lechner"/>
-    <author fullname="Martin Batts" initials="M." surname="Batts"/>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="Dorothy Reed" initials="A" surname="Reed">
+      <organization/>
+    </author>
+    <author fullname="Charles Yancey" initials="W" surname="Yancey">
+      <organization/>
+    </author>
+    <author fullname="Jonathan martin" initials="W" surname="martin">
+      <organization/>
+    </author>
+    <author fullname="Erik Hendrickson" initials="M" surname="Hendrickson">
+      <organization/>
+    </author>
+    <author fullname="Armando Gonzalez" initials="C" surname="Gonzalez">
+      <organization/>
+    </author>
+    <author fullname="Masayoshi Koike" initials="M." surname="Koike">
+      <organization/>
+    </author>
+    <author fullname="James Lechner" initials="A" surname="Lechner">
+      <organization/>
+    </author>
+    <author fullname="Martin Batts" initials="E" surname="Batts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.162"/>
+  <seriesInfo name="NIST" value="NBS BSS 162"/>
 </reference>

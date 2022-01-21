@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.559" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication559.pdf">
   <front>
     <title>Time and frequency users' manual</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.559"/>
-    <seriesInfo name="NIST" value="NBS SP 559"/>
-    <author fullname="George Kamas" initials="G." surname="Kamas"/>
-    <author fullname="Sandra Howe" initials="S." surname="Howe"/>
+    <author fullname="George Kamas" initials="G." surname="Kamas">
+      <organization/>
+    </author>
+    <author fullname="Sandra Howe" initials="L" surname="Howe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.559"/>
+  <seriesInfo name="NIST" value="NBS SP 559"/>
 </reference>

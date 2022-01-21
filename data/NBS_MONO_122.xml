@@ -1,19 +1,39 @@
 <reference anchor="NBS.MONO.122" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph122.pdf">
   <front>
     <title>Mechanics of pneumatic tires</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.122"/>
-    <seriesInfo name="NIST" value="NBS MONO 122"/>
-    <author surname="Gehman"/>
-    <author surname="Ludema"/>
-    <author fullname="Stanley Backer" initials="S." surname="Backer"/>
-    <author surname="Takeyama"/>
-    <author surname="Matsui"/>
-    <author fullname="Samuel Clark" initials="S." surname="Clark"/>
-    <author surname="Gough"/>
-    <author fullname="Joseph Walter" initials="J." surname="Walter"/>
-    <author surname="Schallamach"/>
-    <author surname="van Eldik Thieme"/>
-    <author surname="Pacejka"/>
+    <author initials="SD" surname="Gehman">
+      <organization/>
+    </author>
+    <author initials="KC" surname="Ludema">
+      <organization/>
+    </author>
+    <author fullname="Stanley Backer" initials="S." surname="Backer">
+      <organization/>
+    </author>
+    <author initials="T" surname="Takeyama">
+      <organization/>
+    </author>
+    <author initials="J" surname="Matsui">
+      <organization/>
+    </author>
+    <author fullname="Samuel Clark" initials="K" surname="Clark">
+      <organization/>
+    </author>
+    <author initials="VE" surname="Gough">
+      <organization/>
+    </author>
+    <author fullname="Joseph Walter" initials="D" surname="Walter">
+      <organization/>
+    </author>
+    <author initials="A" surname="Schallamach">
+      <organization/>
+    </author>
+    <author initials="HCA" surname="van Eldik Thieme">
+      <organization/>
+    </author>
+    <author initials="HB" surname="Pacejka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.122"/>
+  <seriesInfo name="NIST" value="NBS MONO 122"/>
 </reference>

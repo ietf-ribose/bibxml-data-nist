@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6768" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6768.pdf">
   <front>
     <title>A predictive ionization cross section model for inorganic molecules</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6768"/>
-    <seriesInfo name="NIST" value="NIST IR 6768"/>
-    <author surname="Hastie"/>
+    <author initials="JW" surname="Hastie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6768"/>
+  <seriesInfo name="NIST" value="NIST IR 6768"/>
 </reference>

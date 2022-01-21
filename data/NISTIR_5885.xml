@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5885" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5885.pdf">
   <front>
     <title>Static structural analysis of a reconfigurable rigid platform supported by elastic legs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5885"/>
-    <seriesInfo name="NIST" value="NIST IR 5885"/>
-    <author fullname="Jr Rudder" initials="J." surname="Rudder"/>
+    <author fullname="Jr Rudder" initials="FF" surname="Rudder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5885"/>
+  <seriesInfo name="NIST" value="NIST IR 5885"/>
 </reference>

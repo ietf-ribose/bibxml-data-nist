@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7990" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7990.pdf">
   <front>
     <title>Human Engineering Design Criteria Standards Part 3: Interim Steps</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7990"/>
-    <seriesInfo name="NIST" value="NIST IR 7990"/>
     <author fullname="Susanne Furman" initials="S." surname="Furman">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2014" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7990"/>
+  <seriesInfo name="NIST" value="NIST IR 7990"/>
 </reference>

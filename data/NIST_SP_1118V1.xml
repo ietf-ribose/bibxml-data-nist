@@ -1,15 +1,23 @@
 <reference anchor="NIST.SP.1118v1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1118v1.pdf">
   <front>
     <title>Technical Study of the Sofa Super Store Fire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1118v1"/>
-    <seriesInfo name="NIST" value="NIST SP 1118v1"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="Stephen Fuss" initials="S." surname="Fuss"/>
-    <author fullname="Bryan Klein" initials="B." surname="Klein"/>
-    <author fullname="Anthony Putorti" initials="A." surname="Putorti"/>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="Stephen Fuss" initials="P" surname="Fuss">
+      <organization/>
+    </author>
+    <author fullname="Bryan Klein" initials="W" surname="Klein">
+      <organization/>
+    </author>
+    <author fullname="Anthony Putorti" initials="D" surname="Putorti">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2011" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1118v1"/>
+  <seriesInfo name="NIST" value="NIST SP 1118v1"/>
 </reference>

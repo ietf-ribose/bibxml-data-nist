@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6731" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6731.pdf">
   <front>
     <title>Silicon microelectronics programs at the National Institute of Standards and Technology:programs, activities, and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6731"/>
-    <seriesInfo name="NIST" value="NIST IR 6731"/>
-    <author fullname="Stephen Knight" initials="S." surname="Knight"/>
-    <author fullname="JoaquinMartinezde Pinillos" initials="J.M.d." surname="Pinillos"/>
-    <author fullname="Barbara Belzer" initials="B." surname="Belzer"/>
-    <author fullname="Michele Buckley" initials="M." surname="Buckley"/>
+    <author fullname="Stephen Knight" initials="S." surname="Knight">
+      <organization/>
+    </author>
+    <author fullname="JoaquinMartinezde Pinillos" initials="V" surname="Pinillos">
+      <organization/>
+    </author>
+    <author fullname="Barbara Belzer" initials="J" surname="Belzer">
+      <organization/>
+    </author>
+    <author fullname="Michele Buckley" initials="M." surname="Buckley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6731"/>
+  <seriesInfo name="NIST" value="NIST IR 6731"/>
 </reference>

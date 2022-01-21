@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2756" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2756.pdf">
   <front>
     <title>A laboratory investigation of refrigerant migration in a split unit air conditioner</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2756"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2756"/>
-    <author fullname="William Mulroy" initials="W." surname="Mulroy"/>
+    <author fullname="William Mulroy" initials="J" surname="Mulroy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2756"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2756"/>
 </reference>

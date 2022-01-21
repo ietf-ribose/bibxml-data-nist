@@ -1,12 +1,10 @@
 <reference anchor="NBS.CRPL.9-8" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-8.pdf">
   <front>
     <title>A standard of attenuation for microwave measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL.9-8"/>
-    <seriesInfo name="NIST" value="NBS CRPL 9-8"/>
-    <author surname="Grantham">
+    <author initials="RE" surname="Grantham">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
-    <author surname="Freeman">
+    <author initials="JJ" surname="Freeman">
       <organization>Central Radio Propogation Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL.9-8"/>
+  <seriesInfo name="NIST" value="NBS CRPL 9-8"/>
 </reference>

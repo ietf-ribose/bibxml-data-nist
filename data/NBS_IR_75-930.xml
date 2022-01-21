@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-930" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-930.pdf">
   <front>
     <title>The National Measurement System for fluid flow</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-930"/>
-    <seriesInfo name="NIST" value="NBS IR 75-930"/>
-    <author fullname="William Haight" initials="W." surname="Haight"/>
-    <author surname="Klebanoff"/>
-    <author fullname="Fillmer Ruegg" initials="F." surname="Ruegg"/>
-    <author fullname="Gershon Kulin" initials="G." surname="Kulin"/>
+    <author fullname="William Haight" initials="C" surname="Haight">
+      <organization/>
+    </author>
+    <author initials="PS" surname="Klebanoff">
+      <organization/>
+    </author>
+    <author fullname="Fillmer Ruegg" initials="W" surname="Ruegg">
+      <organization/>
+    </author>
+    <author fullname="Gershon Kulin" initials="G." surname="Kulin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-930"/>
+  <seriesInfo name="NIST" value="NBS IR 75-930"/>
 </reference>

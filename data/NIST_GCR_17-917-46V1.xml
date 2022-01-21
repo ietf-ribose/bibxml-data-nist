@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.17-917-46v1" target="https://nvlpubs.nist.gov/nistpubs/gcr/2017/NIST.GCR.17-917-46v1.pdf">
   <front>
     <title>Guidelines for nonlinear structural analysis and design of buildings. part I</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-917-46v1"/>
-    <seriesInfo name="NIST" value="NIST GCR 17-917-46v1"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-917-46v1"/>
+  <seriesInfo name="NIST" value="NIST GCR 17-917-46v1"/>
 </reference>

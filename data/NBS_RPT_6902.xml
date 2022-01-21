@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.6902" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6902.pdf">
   <front>
     <title>Interlaboratory intercomparisons of 400-watt mercury vapor lamps</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6902"/>
-    <seriesInfo name="NIST" value="NBS RPT 6902"/>
-    <author fullname="Velma Burns" initials="V." surname="Burns"/>
+    <author fullname="Velma Burns" initials="I" surname="Burns">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6902"/>
+  <seriesInfo name="NIST" value="NBS RPT 6902"/>
 </reference>

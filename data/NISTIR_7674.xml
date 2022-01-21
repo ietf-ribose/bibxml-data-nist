@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7674" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7674.pdf">
   <front>
     <title>Quantifying how lighting and focus affect face recognition performance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7674"/>
-    <seriesInfo name="NIST" value="NIST IR 7674"/>
-    <author surname="Phillips"/>
-    <author surname="Beveridge"/>
-    <author surname="Draper"/>
-    <author surname="Bolme"/>
-    <author surname="Givens"/>
-    <author surname="Lui"/>
+    <author initials="PJ" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Beveridge">
+      <organization/>
+    </author>
+    <author initials="B" surname="Draper">
+      <organization/>
+    </author>
+    <author initials="D" surname="Bolme">
+      <organization/>
+    </author>
+    <author initials="GH" surname="Givens">
+      <organization/>
+    </author>
+    <author initials="YM" surname="Lui">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7674"/>
+  <seriesInfo name="NIST" value="NIST IR 7674"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4436" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4436.pdf">
   <front>
     <title>The Depot:a framework for sharing software installation across organizational and UNIX platform boundaries</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4436"/>
-    <seriesInfo name="NIST" value="NIST IR 4436"/>
-    <author fullname="Kenneth Manheimer" initials="K." surname="Manheimer"/>
-    <author fullname="Stephen Clark" initials="S." surname="Clark"/>
-    <author fullname="Barry Warsaw" initials="B." surname="Warsaw"/>
-    <author fullname="Walter Rowe" initials="W." surname="Rowe"/>
+    <author fullname="Kenneth Manheimer" initials="L" surname="Manheimer">
+      <organization/>
+    </author>
+    <author fullname="Stephen Clark" initials="N" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Barry Warsaw" initials="A" surname="Warsaw">
+      <organization/>
+    </author>
+    <author fullname="Walter Rowe" initials="P" surname="Rowe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4436"/>
+  <seriesInfo name="NIST" value="NIST IR 4436"/>
 </reference>

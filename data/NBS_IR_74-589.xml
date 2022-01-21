@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-589" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-589.pdf">
   <front>
     <title>Instruction and technical manual for prototype landing signal officer's display system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-589"/>
-    <seriesInfo name="NIST" value="NBS IR 74-589"/>
-    <author fullname="Charles Gordon" initials="C." surname="Gordon"/>
+    <author fullname="Charles Gordon" initials="C" surname="Gordon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-589"/>
+  <seriesInfo name="NIST" value="NBS IR 74-589"/>
 </reference>

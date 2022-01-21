@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-492" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-492.pdf">
   <front>
     <title>Failure analysis of a poly(vinyl chloride) natural gas main pipe from Las Vegas, New Mexico (NBS Failure Analysis No. 105)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-492"/>
-    <seriesInfo name="NIST" value="NBS IR 74-492"/>
-    <author fullname="Samuel Toner" initials="S." surname="Toner"/>
+    <author fullname="Samuel Toner" initials="D" surname="Toner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-492"/>
+  <seriesInfo name="NIST" value="NBS IR 74-492"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.77-1388" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1388.pdf">
   <front>
     <title>A new look at windows</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1388"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1388"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="Tamami Kusuda" initials="T." surname="Kusuda"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
+    <author fullname="Robert Chapman" initials="R." surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="Tamami Kusuda" initials="T." surname="Kusuda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1388"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1388"/>
 </reference>

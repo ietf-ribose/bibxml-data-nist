@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1728" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1728.pdf">
   <front>
     <title>A low-cost method for measuring air infiltration rates in a large sample of dwellings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1728"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1728"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1728"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1728"/>
 </reference>

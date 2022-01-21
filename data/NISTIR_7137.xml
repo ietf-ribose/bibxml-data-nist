@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7137" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7137.pdf">
   <front>
     <title>Simulation of the dynamics of a fire in the basement of a hardware store -New York, June 17, 2001</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7137"/>
-    <seriesInfo name="NIST" value="NIST IR 7137"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="Stephen Kerber" initials="S." surname="Kerber"/>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="Stephen Kerber" initials="S." surname="Kerber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7137"/>
+  <seriesInfo name="NIST" value="NIST IR 7137"/>
 </reference>

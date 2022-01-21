@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5758" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5758.pdf">
   <front>
     <title>A workplan to analyze the energy impacts of envelope airtightness in office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5758"/>
-    <seriesInfo name="NIST" value="NIST IR 5758"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="David VanBronkhorst" initials="D." surname="VanBronkhorst"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="David VanBronkhorst" initials="A" surname="VanBronkhorst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5758"/>
+  <seriesInfo name="NIST" value="NIST IR 5758"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5701" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5701.pdf">
   <front>
     <title>Proceedings:metrology issues in terahertz physic and technology:National Institute of Standards and Technology, Gaithersburg, MD, December 13, 1994</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5701"/>
-    <seriesInfo name="NIST" value="NIST IR 5701"/>
-    <author fullname="Raju Datla" initials="R." surname="Datla"/>
-    <author fullname="Erich Grossman" initials="E." surname="Grossman"/>
-    <author fullname="Mitchell Hobish" initials="M." surname="Hobish"/>
+    <author fullname="Raju Datla" initials="R." surname="Datla">
+      <organization/>
+    </author>
+    <author fullname="Erich Grossman" initials="E." surname="Grossman">
+      <organization/>
+    </author>
+    <author fullname="Mitchell Hobish" initials="K" surname="Hobish">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5701"/>
+  <seriesInfo name="NIST" value="NIST IR 5701"/>
 </reference>

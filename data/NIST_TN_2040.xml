@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2040" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2040.pdf">
   <front>
     <title>Measurement of SVOC emission parameters for building materials using solid-phase microextraction (SPME)-based method</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2040"/>
-    <seriesInfo name="NIST" value="NIST TN 2040"/>
     <author fullname="Mengyan Gong" initials="M." surname="Gong">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2040"/>
+  <seriesInfo name="NIST" value="NIST TN 2040"/>
 </reference>

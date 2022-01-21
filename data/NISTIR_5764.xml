@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.5764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5764.pdf">
   <front>
     <title>Smoke plume trajectory from in situ burning of crude oil in Alaska:field experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5764"/>
-    <seriesInfo name="NIST" value="NIST IR 5764"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="Anthony Putorti" initials="A." surname="Putorti"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
-    <author fullname="Jay McElroy" initials="J." surname="McElroy"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Anthony Putorti" initials="D" surname="Putorti">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
+    <author fullname="Jay McElroy" initials="J." surname="McElroy">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5764"/>
+  <seriesInfo name="NIST" value="NIST IR 5764"/>
 </reference>

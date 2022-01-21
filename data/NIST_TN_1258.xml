@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1258.pdf">
   <front>
     <title>Manipulator servo level world modeling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1258"/>
-    <seriesInfo name="NIST" value="NIST TN 1258"/>
-    <author fullname="Laura Kelmar" initials="L." surname="Kelmar"/>
+    <author fullname="Laura Kelmar" initials="L." surname="Kelmar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1258"/>
+  <seriesInfo name="NIST" value="NIST TN 1258"/>
 </reference>

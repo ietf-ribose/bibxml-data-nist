@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5523" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5523.pdf">
   <front>
     <title>Phase-field model for solidification of a eutectic alloy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5523"/>
-    <seriesInfo name="NIST" value="NIST IR 5523"/>
-    <author surname="Boettinger"/>
+    <author initials="WJ" surname="Boettinger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5523"/>
+  <seriesInfo name="NIST" value="NIST IR 5523"/>
 </reference>

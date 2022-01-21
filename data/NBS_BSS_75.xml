@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.75" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience75.pdf">
   <front>
     <title>Building research at the National Bureau of Standards 1968-1974</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.75"/>
-    <seriesInfo name="NIST" value="NBS BSS 75"/>
-    <author fullname="Neil Gallagher" initials="N." surname="Gallagher"/>
+    <author fullname="Neil Gallagher" initials="N." surname="Gallagher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.75"/>
+  <seriesInfo name="NIST" value="NBS BSS 75"/>
 </reference>

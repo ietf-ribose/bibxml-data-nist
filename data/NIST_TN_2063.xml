@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2063" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2063.pdf">
   <front>
     <title>Pool Boiling of R515A, R1234ze(E) and R1233zd(E) on a Reentrant Cavity Surface; Extensive Measurement and Analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2063"/>
-    <seriesInfo name="NIST" value="NIST TN 2063"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski">
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Lingnan Lin" initials="L." surname="Lin">
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2063"/>
+  <seriesInfo name="NIST" value="NIST TN 2063"/>
 </reference>

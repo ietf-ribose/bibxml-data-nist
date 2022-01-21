@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.3260" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3260.pdf">
   <front>
     <title>Report of a survey of visual landing aids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3260"/>
-    <seriesInfo name="NIST" value="NBS RPT 3260"/>
-    <author fullname="James Davis" initials="J." surname="Davis"/>
+    <author fullname="James Davis" initials="E" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3260"/>
+  <seriesInfo name="NIST" value="NBS RPT 3260"/>
 </reference>

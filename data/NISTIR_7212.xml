@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7212" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7212.pdf">
   <front>
     <title>Modeling the IAQ impact of HHI interventions in inner-city housing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7212"/>
-    <seriesInfo name="NIST" value="NIST IR 7212"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich"/>
-    <author fullname="Cynthia Howard-Reed" initials="C." surname="Howard-Reed"/>
-    <author fullname="Arpita Gupte" initials="A." surname="Gupte"/>
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
+      <organization/>
+    </author>
+    <author fullname="Cynthia Howard-Reed" initials="C." surname="Howard-Reed">
+      <organization/>
+    </author>
+    <author fullname="Arpita Gupte" initials="A." surname="Gupte">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7212"/>
+  <seriesInfo name="NIST" value="NIST IR 7212"/>
 </reference>

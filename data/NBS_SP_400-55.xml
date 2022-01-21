@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.400-55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-55.pdf">
   <front>
     <title>A wafer chuck for use between -196 and 350 degrees C</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-55"/>
-    <seriesInfo name="NIST" value="NBS SP 400-55"/>
-    <author surname="Koyama"/>
-    <author surname="Buehler"/>
+    <author initials="RY" surname="Koyama">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Buehler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-55"/>
+  <seriesInfo name="NIST" value="NBS SP 400-55"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-288" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-288.pdf">
   <front>
     <title>Swiss building and housing research activities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-288"/>
-    <seriesInfo name="NIST" value="NBS IR 73-288"/>
-    <author surname="Trechsel"/>
+    <author initials="HR" surname="Trechsel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-288"/>
+  <seriesInfo name="NIST" value="NBS IR 73-288"/>
 </reference>

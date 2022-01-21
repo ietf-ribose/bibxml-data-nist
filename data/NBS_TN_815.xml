@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.815" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote815.pdf">
   <front>
     <title>Fire accidents involving the ignition of sleepwear worn by children under the age of three</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.815"/>
-    <seriesInfo name="NIST" value="NBS TN 815"/>
-    <author fullname="Elaine Tyrrell" initials="E." surname="Tyrrell"/>
+    <author fullname="Elaine Tyrrell" initials="A" surname="Tyrrell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.815"/>
+  <seriesInfo name="NIST" value="NBS TN 815"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.458" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication458.pdf">
   <front>
     <title>Metrication and dimensional coordination</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.458"/>
-    <seriesInfo name="NIST" value="NBS SP 458"/>
-    <author fullname="Roy Clark" initials="R." surname="Clark"/>
-    <author fullname="Candace Roat" initials="C." surname="Roat"/>
+    <author fullname="Roy Clark" initials="E" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Candace Roat" initials="L" surname="Roat">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.458"/>
+  <seriesInfo name="NIST" value="NBS SP 458"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.88-3715" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3715.pdf">
   <front>
     <title>Measurement of droplet size in sprinkler sprays</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3715"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3715"/>
-    <author surname="Lawson"/>
-    <author surname="Walton"/>
-    <author surname="Evans"/>
+    <author initials="JR" surname="Lawson">
+      <organization/>
+    </author>
+    <author initials="WD" surname="Walton">
+      <organization/>
+    </author>
+    <author initials="DD" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3715"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3715"/>
 </reference>

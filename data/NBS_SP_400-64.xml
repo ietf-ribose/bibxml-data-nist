@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.400-64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-64.pdf">
   <front>
     <title>The relationship between resistivity and dopant density for phosphorus-and boron-doped silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-64"/>
-    <seriesInfo name="NIST" value="NBS SP 400-64"/>
-    <author surname="Thurber"/>
-    <author surname="Mattis"/>
-    <author fullname="Liu and" initials="L." surname="and"/>
-    <author surname="Filliben"/>
+    <author initials="WR" surname="Thurber">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Mattis">
+      <organization/>
+    </author>
+    <author fullname="Liu and" initials="Y" surname="and">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Filliben">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-64"/>
+  <seriesInfo name="NIST" value="NBS SP 400-64"/>
 </reference>

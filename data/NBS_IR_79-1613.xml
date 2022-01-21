@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.79-1613" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1613.pdf">
   <front>
     <title>Radar absorber measurement techniques at frequencies above 20 GHz</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1613"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1613"/>
-    <author surname="Nahman"/>
-    <author surname="Allred"/>
-    <author surname="Andrews"/>
-    <author surname="Hoer"/>
-    <author surname="Lawton"/>
+    <author initials="NS" surname="Nahman">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Allred">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Andrews">
+      <organization/>
+    </author>
+    <author initials="CA" surname="Hoer">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Lawton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1613"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1613"/>
 </reference>

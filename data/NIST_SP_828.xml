@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.828" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication828.pdf">
   <front>
     <title>NIST in the 1990s</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.828"/>
-    <seriesInfo name="NIST" value="NIST SP 828"/>
-    <author fullname="Gail Porter" initials="G." surname="Porter"/>
-    <author fullname="Gail Porter" initials="G." surname="Porter"/>
-    <author fullname="Sharon Shaffer" initials="S." surname="Shaffer"/>
+    <author fullname="Gail Porter" initials="G." surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Gail Porter" initials="G." surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Sharon Shaffer" initials="A" surname="Shaffer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.828"/>
+  <seriesInfo name="NIST" value="NIST SP 828"/>
 </reference>

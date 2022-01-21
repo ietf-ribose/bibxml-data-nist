@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.325" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote325.pdf">
   <front>
     <title>Numerical simulation of ionospheric wave interaction experiments.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.325"/>
-    <seriesInfo name="NIST" value="NBS TN 325"/>
-    <author surname="Georges"/>
+    <author initials="TM" surname="Georges">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.325"/>
+  <seriesInfo name="NIST" value="NBS TN 325"/>
 </reference>

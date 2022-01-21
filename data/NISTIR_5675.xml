@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5675" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5675.pdf">
   <front>
     <title>Group 1 for the plant spatial configuration STEP application protocol</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5675"/>
-    <seriesInfo name="NIST" value="NIST IR 5675"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline"/>
-    <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
-    <author fullname="William Burkett" initials="W." surname="Burkett"/>
-    <author fullname="Jack Skeels" initials="J." surname="Skeels"/>
+    <author fullname="Steven Kline" initials="W" surname="Kline">
+      <organization/>
+    </author>
+    <author fullname="Mark Palmer" initials="E" surname="Palmer">
+      <organization/>
+    </author>
+    <author fullname="William Burkett" initials="W." surname="Burkett">
+      <organization/>
+    </author>
+    <author fullname="Jack Skeels" initials="J." surname="Skeels">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5675"/>
+  <seriesInfo name="NIST" value="NIST IR 5675"/>
 </reference>

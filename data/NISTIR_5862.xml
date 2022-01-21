@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5862" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5862.pdf">
   <front>
     <title>An operator experience with a hierarchical real-time control system (RCS)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5862"/>
-    <seriesInfo name="NIST" value="NIST IR 5862"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5862"/>
+  <seriesInfo name="NIST" value="NIST IR 5862"/>
 </reference>

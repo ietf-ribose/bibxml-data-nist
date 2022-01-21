@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2034" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2034.pdf">
   <front>
     <title>Defining 'kind of quantity'</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2034"/>
-    <seriesInfo name="NIST" value="NIST TN 2034"/>
     <author fullname="David Flater" initials="D." surname="Flater">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2034"/>
+  <seriesInfo name="NIST" value="NIST TN 2034"/>
 </reference>

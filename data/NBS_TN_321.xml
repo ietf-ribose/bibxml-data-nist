@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.321" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote321.pdf">
   <front>
     <title>Spark planing damage in copper</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.321"/>
-    <seriesInfo name="NIST" value="NBS TN 321"/>
-    <author fullname="John Gniewek" initials="J." surname="Gniewek"/>
+    <author fullname="John Gniewek" initials="J" surname="Gniewek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.321"/>
+  <seriesInfo name="NIST" value="NBS TN 321"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.74" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience74.pdf">
   <front>
     <title>The buffeting of tall structures by strong winds</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.74"/>
-    <seriesInfo name="NIST" value="NBS BSS 74"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="Daniel Lozier" initials="D." surname="Lozier"/>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="Daniel Lozier" initials="W" surname="Lozier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.74"/>
+  <seriesInfo name="NIST" value="NBS BSS 74"/>
 </reference>

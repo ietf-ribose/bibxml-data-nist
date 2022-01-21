@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-435" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-435.pdf">
   <front>
     <title>Progress report on the performance of bituminous coated cast-iron pressure pipe buried in various soil environments for four years</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-435"/>
-    <seriesInfo name="NIST" value="NBS IR 74-435"/>
-    <author surname="Gerhold"/>
-    <author surname="Sanderson"/>
+    <author initials="WF" surname="Gerhold">
+      <organization/>
+    </author>
+    <author initials="BT" surname="Sanderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-435"/>
+  <seriesInfo name="NIST" value="NBS IR 74-435"/>
 </reference>

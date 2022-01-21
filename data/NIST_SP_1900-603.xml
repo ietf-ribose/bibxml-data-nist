@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1900-603" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-603.pdf">
   <front>
     <title>NIST transactive energy modeling and simulation challenge phase II final report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-603"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-603"/>
     <author fullname="David Holmberg" initials="D." surname="Holmberg">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -60,4 +58,6 @@
     </author>
     <date year="2019" month="May" day="3"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-603"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-603"/>
 </reference>

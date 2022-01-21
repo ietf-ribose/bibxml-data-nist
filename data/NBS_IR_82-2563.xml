@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.82-2563" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2563.pdf">
   <front>
     <title>Metallurgical studies of interface bonding on implant alloys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2563"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2563"/>
-    <author surname="Fraker"/>
-    <author surname="Ruff"/>
-    <author surname="Bundy"/>
-    <author surname="DeMontigny"/>
-    <author surname="Sung"/>
-    <author surname="Van Orden"/>
-    <author surname="Speck"/>
+    <author initials="AC" surname="Fraker">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
+    <author initials="KJ" surname="Bundy">
+      <organization/>
+    </author>
+    <author initials="SA" surname="DeMontigny">
+      <organization/>
+    </author>
+    <author initials="P" surname="Sung">
+      <organization/>
+    </author>
+    <author initials="AC" surname="Van Orden">
+      <organization/>
+    </author>
+    <author initials="KM" surname="Speck">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2563"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2563"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.82-1661" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-1661.pdf">
   <front>
     <title>Characterization of a concentric-core fiber</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1661"/>
-    <seriesInfo name="NIST" value="NBS IR 82-1661"/>
-    <author surname="Danielson"/>
-    <author surname="Franzen"/>
-    <author surname="Gallawa"/>
-    <author surname="Kim"/>
-    <author surname="Young"/>
+    <author initials="BL" surname="Danielson">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Franzen">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Gallawa">
+      <organization/>
+    </author>
+    <author initials="EM" surname="Kim">
+      <organization/>
+    </author>
+    <author initials="M" surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-1661"/>
+  <seriesInfo name="NIST" value="NBS IR 82-1661"/>
 </reference>

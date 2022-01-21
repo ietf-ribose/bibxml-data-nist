@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds64.pdf">
   <front>
     <title>Rate coefficients for ion-molecule reactions :organic ions other than those containing only c and h</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.64"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 64"/>
-    <author fullname="Wayne Sieck" initials="W." surname="Sieck"/>
+    <author fullname="Wayne Sieck" initials="L" surname="Sieck">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.64"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 64"/>
 </reference>

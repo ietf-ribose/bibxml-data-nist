@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8199" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8199.pdf">
   <front>
     <title>The text recognition algorithm independent evaluation (TRAIT)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8199"/>
-    <seriesInfo name="NIST" value="NIST IR 8199"/>
     <author fullname="Afzal Godil" initials="A." surname="Godil">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="December" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8199"/>
+  <seriesInfo name="NIST" value="NIST IR 8199"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4594" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4594.pdf">
   <front>
     <title>GOSIP conformance and interoperation testing and registration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4594"/>
-    <seriesInfo name="NIST" value="NIST IR 4594"/>
-    <author fullname="Stephen Nightingale" initials="S." surname="Nightingale"/>
+    <author fullname="Stephen Nightingale" initials="J" surname="Nightingale">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4594"/>
+  <seriesInfo name="NIST" value="NIST IR 4594"/>
 </reference>

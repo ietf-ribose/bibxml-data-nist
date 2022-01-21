@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8167-01" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8167-01.pdf">
   <front>
     <title>NIST time and frequency bulletin: January 2017</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8167-01"/>
-    <seriesInfo name="NIST" value="NIST IR 8167-01"/>
-    <author fullname="Kathryn Stephenson" initials="K." surname="Stephenson">
+    <author fullname="Kathryn Stephenson" initials="R" surname="Stephenson">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8167-01"/>
+  <seriesInfo name="NIST" value="NIST IR 8167-01"/>
 </reference>

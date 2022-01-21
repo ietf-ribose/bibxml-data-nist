@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-1631" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1631.pdf">
   <front>
     <title>Analysis of liquid volume and liquid mass fractions at coexistence for pure liquids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1631"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1631"/>
-    <author fullname="LambertJohn Van Poolen" initials="L.J." surname="Van Poolen"/>
+    <author fullname="LambertJohn Van Poolen" initials="L.J." surname="Van Poolen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1631"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1631"/>
 </reference>

@@ -1,15 +1,23 @@
 <reference anchor="NIST.GCR.14-979" target="https://nvlpubs.nist.gov/nistpubs/gcr/2014/NIST.GCR.14-979.pdf">
   <front>
     <title>Community Resilience Workshop : July 30, 2014</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.14-979"/>
-    <seriesInfo name="NIST" value="NIST GCR 14-979"/>
-    <author fullname="David Mizzen" initials="D." surname="Mizzen"/>
-    <author fullname="Peter Vickery" initials="P." surname="Vickery"/>
-    <author fullname="Francis Lavelle" initials="F." surname="Lavelle"/>
-    <author fullname="Kent Yu" initials="K." surname="Yu"/>
+    <author fullname="David Mizzen" initials="R" surname="Mizzen">
+      <organization/>
+    </author>
+    <author fullname="Peter Vickery" initials="J" surname="Vickery">
+      <organization/>
+    </author>
+    <author fullname="Francis Lavelle" initials="M" surname="Lavelle">
+      <organization/>
+    </author>
+    <author fullname="Kent Yu" initials="K." surname="Yu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="2014" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.14-979"/>
+  <seriesInfo name="NIST" value="NIST GCR 14-979"/>
 </reference>

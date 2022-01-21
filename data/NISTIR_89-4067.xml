@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4067" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4067.pdf">
   <front>
     <title>Center for Electronics and Electrical Engineering technical publication announcements covering center programs, July to September 1988, with 1989 CEEE events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4067"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4067"/>
-    <author fullname="Jane Walters" initials="J." surname="Walters"/>
+    <author fullname="Jane Walters" initials="E" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4067"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4067"/>
 </reference>

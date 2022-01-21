@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-101.pdf">
   <front>
     <title>Standard Reference Materials :SRM 1970 /</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-101"/>
-    <seriesInfo name="NIST" value="NBS SP 260-101"/>
-    <author fullname="Samir El-Sabban" initials="S." surname="El-Sabban"/>
-    <author surname="Mangum"/>
+    <author fullname="Samir El-Sabban" initials="S." surname="El-Sabban">
+      <organization/>
+    </author>
+    <author initials="BW" surname="Mangum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-101"/>
+  <seriesInfo name="NIST" value="NBS SP 260-101"/>
 </reference>

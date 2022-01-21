@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.89-4103" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4103.pdf">
   <front>
     <title>User's reference guide for ODRPACK:software for weighted orthogonal distance regression version 1.7</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4103"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4103"/>
-    <author surname="Boggs"/>
-    <author surname="Byrd"/>
-    <author surname="Donaldson"/>
-    <author surname="Schnabel"/>
+    <author initials="PT" surname="Boggs">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Byrd">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Donaldson">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Schnabel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4103"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4103"/>
 </reference>

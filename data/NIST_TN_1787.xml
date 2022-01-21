@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1787" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/WITHDRAWN_notice_NIST.TN.1787.pdf">
   <front>
     <title>Characterization of airborne nanoparticle released from consumer products</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1787"/>
-    <seriesInfo name="NIST" value="NIST TN 1787"/>
     <author fullname="Tinh Nguyen" initials="T." surname="Nguyen">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2013" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1787"/>
+  <seriesInfo name="NIST" value="NIST TN 1787"/>
 </reference>

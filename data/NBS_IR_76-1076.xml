@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-1076" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1076.pdf">
   <front>
     <title>Flammability limits :thermodynamics and kinetics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1076"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1076"/>
-    <author fullname="Andrej Maček" initials="A." surname="Maček"/>
+    <author fullname="Andrej Maček" initials="A." surname="Maček">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1076"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1076"/>
 </reference>

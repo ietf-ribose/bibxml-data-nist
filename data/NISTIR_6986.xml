@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6986" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6986.pdf">
   <front>
     <title>International collaborative project to evaluate fire models for nuclear power plant applications:summary of 5th meeting</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6986"/>
-    <seriesInfo name="NIST" value="NIST IR 6986"/>
-    <author fullname="Monideep Dey" initials="M." surname="Dey"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Stewart Miles" initials="S." surname="Miles"/>
+    <author fullname="Monideep Dey" initials="K" surname="Dey">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Stewart Miles" initials="S." surname="Miles">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6986"/>
+  <seriesInfo name="NIST" value="NIST IR 6986"/>
 </reference>

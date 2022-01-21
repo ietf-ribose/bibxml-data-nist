@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2189" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2189.pdf">
   <front>
     <title>An Evaluation of Dependencies of Critical Infrastructure Timing Systems on the Global Positioning System (GPS)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2189"/>
-    <seriesInfo name="NIST" value="NIST TN 2189"/>
-    <author fullname="Michael Lombardi" initials="M." surname="Lombardi">
+    <author fullname="Michael Lombardi" initials="A" surname="Lombardi">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2021" month="November" day="1"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2189"/>
+  <seriesInfo name="NIST" value="NIST TN 2189"/>
 </reference>

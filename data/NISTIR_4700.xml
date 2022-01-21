@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4700" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4700.pdf">
   <front>
     <title>Performance evaluation of dialed number recorders</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4700"/>
-    <seriesInfo name="NIST" value="NIST IR 4700"/>
-    <author fullname="Arnold Perrey" initials="A." surname="Perrey"/>
-    <author fullname="Barry Bell" initials="B." surname="Bell"/>
+    <author fullname="Arnold Perrey" initials="G" surname="Perrey">
+      <organization/>
+    </author>
+    <author fullname="Barry Bell" initials="A" surname="Bell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4700"/>
+  <seriesInfo name="NIST" value="NIST IR 4700"/>
 </reference>

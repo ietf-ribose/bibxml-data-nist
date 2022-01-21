@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub256.pdf">
   <front>
     <title>Ellipsometry in the measurement of surfaces and thin films :symposium proceedings Washington 1963/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.256"/>
-    <seriesInfo name="NIST" value="NBS MP 256"/>
-    <author surname="Stromberg"/>
-    <author surname="Passaglia"/>
+    <author initials="RR" surname="Stromberg">
+      <organization/>
+    </author>
+    <author initials="E" surname="Passaglia">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.256"/>
+  <seriesInfo name="NIST" value="NBS MP 256"/>
 </reference>

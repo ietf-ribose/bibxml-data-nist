@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.09-923" target="https://nvlpubs.nist.gov/nistpubs/gcr/2009/gcr09-923.pdf">
   <front>
     <title>Kinetics and mechanisms of elementary reactive processes in polymer pyrolysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.09-923"/>
-    <seriesInfo name="NIST" value="NIST GCR 09-923"/>
-    <author fullname="Vadim Knyazev" initials="V." surname="Knyazev">
+    <author fullname="Vadim Knyazev" initials="D" surname="Knyazev">
       <organization>Building and Fire Research Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2009" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.09-923"/>
+  <seriesInfo name="NIST" value="NIST GCR 09-923"/>
 </reference>

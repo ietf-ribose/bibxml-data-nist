@@ -1,17 +1,33 @@
 <reference anchor="NBS.IR.84-2995" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2995.pdf">
   <front>
     <title>Center for Materials Science metallurgy division technical activities 1984</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2995"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2995"/>
-    <author surname="Testardi"/>
-    <author surname="Ugiansky"/>
-    <author surname="Kuriyama"/>
-    <author surname="Manning"/>
-    <author surname="Ruff"/>
-    <author surname="Bhansali"/>
-    <author surname="Pugh"/>
-    <author surname="Lashmore"/>
-    <author surname="Wadley"/>
+    <author initials="LR" surname="Testardi">
+      <organization/>
+    </author>
+    <author initials="GM" surname="Ugiansky">
+      <organization/>
+    </author>
+    <author initials="M" surname="Kuriyama">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Manning">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
+    <author initials="KJ" surname="Bhansali">
+      <organization/>
+    </author>
+    <author initials="EN" surname="Pugh">
+      <organization/>
+    </author>
+    <author initials="DS" surname="Lashmore">
+      <organization/>
+    </author>
+    <author initials="HNG" surname="Wadley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -24,4 +40,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2995"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2995"/>
 </reference>

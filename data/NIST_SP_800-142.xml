@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.800-142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-142.pdf">
   <front>
     <title>Practical combinatorial testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-142"/>
-    <seriesInfo name="NIST" value="NIST SP 800-142"/>
-    <author surname="Kuhn"/>
-    <author surname="Kacker"/>
-    <author surname="Lei"/>
+    <author initials="DR" surname="Kuhn">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Kacker">
+      <organization/>
+    </author>
+    <author initials="Y" surname="Lei">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-142"/>
+  <seriesInfo name="NIST" value="NIST SP 800-142"/>
 </reference>

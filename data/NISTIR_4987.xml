@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4987" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4987.pdf">
   <front>
     <title>Database Management Systems in engineering</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4987"/>
-    <seriesInfo name="NIST" value="NIST IR 4987"/>
-    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4987"/>
+  <seriesInfo name="NIST" value="NIST IR 4987"/>
 </reference>

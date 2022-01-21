@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.77-1247" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1247.pdf">
   <front>
     <title>Proposed technical data requirements for the national solar heating and cooling demonstration program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1247"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1247"/>
-    <author fullname="David Waksman" initials="D." surname="Waksman"/>
-    <author fullname="Elmer Streed" initials="E." surname="Streed"/>
-    <author fullname="William Greene" initials="W." surname="Greene"/>
-    <author fullname="Thomas Reichard" initials="T." surname="Reichard"/>
-    <author fullname="Walter Urban" initials="W." surname="Urban"/>
+    <author fullname="David Waksman" initials="D." surname="Waksman">
+      <organization/>
+    </author>
+    <author fullname="Elmer Streed" initials="R" surname="Streed">
+      <organization/>
+    </author>
+    <author fullname="William Greene" initials="E" surname="Greene">
+      <organization/>
+    </author>
+    <author fullname="Thomas Reichard" initials="W" surname="Reichard">
+      <organization/>
+    </author>
+    <author fullname="Walter Urban" initials="D" surname="Urban">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1247"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1247"/>
 </reference>

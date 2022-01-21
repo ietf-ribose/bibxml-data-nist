@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7011" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7011.pdf">
   <front>
     <title>The nature of heterogeneity in the context of distributed health-care information systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7011"/>
-    <seriesInfo name="NIST" value="NIST IR 7011"/>
-    <author fullname="James Nell" initials="J." surname="Nell"/>
+    <author fullname="James Nell" initials="G" surname="Nell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7011"/>
+  <seriesInfo name="NIST" value="NIST IR 7011"/>
 </reference>

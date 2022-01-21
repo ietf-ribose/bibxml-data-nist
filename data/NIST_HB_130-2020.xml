@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.130-2020" target="https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.130-2020.pdf">
   <front>
     <title>Uniform laws and regulations in the areas of legal metrology and fuel quality as adopted by the 104th National Conference on Weights and Measures 2019</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2020"/>
-    <seriesInfo name="NIST" value="NIST HB 130-2020"/>
     <author fullname="Breyanna Blackwell" initials="B." surname="Blackwell">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2020"/>
+  <seriesInfo name="NIST" value="NIST HB 130-2020"/>
 </reference>

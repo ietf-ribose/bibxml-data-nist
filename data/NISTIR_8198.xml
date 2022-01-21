@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8198" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8198.pdf">
   <front>
     <title>Improving automated insertion applications by restoring rigid-body condition in point-based registration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8198"/>
-    <seriesInfo name="NIST" value="NIST IR 8198"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok">
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Marek Franaszek" initials="M." surname="Franaszek">
@@ -12,7 +10,7 @@
     <author fullname="Karl Van Wyk" initials="K." surname="Van Wyk">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Jeremy Marvel" initials="J." surname="Marvel">
+    <author fullname="Jeremy Marvel" initials="A" surname="Marvel">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8198"/>
+  <seriesInfo name="NIST" value="NIST IR 8198"/>
 </reference>

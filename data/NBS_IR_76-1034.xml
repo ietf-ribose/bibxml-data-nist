@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.76-1034" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1034.pdf">
   <front>
     <title>Chemical thermodynamic properties of compounds of sodium, potassium and rubidium :an interim tabulation of selected values</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1034"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1034"/>
-    <author surname="Wagman"/>
-    <author surname="Evans"/>
-    <author surname="Parker"/>
-    <author surname="Schumm"/>
+    <author initials="DD" surname="Wagman">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="VB" surname="Parker">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Schumm">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1034"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1034"/>
 </reference>

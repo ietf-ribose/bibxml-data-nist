@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7393" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7393.pdf">
   <front>
     <title>A study of metal truss plate connectors when exposed to fire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7393"/>
-    <seriesInfo name="NIST" value="NIST IR 7393"/>
-    <author surname="Harman"/>
-    <author surname="Lawson"/>
+    <author initials="KA" surname="Harman">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Lawson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7393"/>
+  <seriesInfo name="NIST" value="NIST IR 7393"/>
 </reference>

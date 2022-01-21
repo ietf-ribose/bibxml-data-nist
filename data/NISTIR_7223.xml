@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7223" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7223.pdf">
   <front>
     <title>Semantic mapping between IAI ifcXML and FIATECH AEX models for centrifugal pumps</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7223"/>
-    <seriesInfo name="NIST" value="NIST IR 7223"/>
-    <author surname="Begley"/>
-    <author surname="Palmer"/>
-    <author surname="Reed"/>
+    <author initials="EF" surname="Begley">
+      <organization/>
+    </author>
+    <author initials="ME" surname="Palmer">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7223"/>
+  <seriesInfo name="NIST" value="NIST IR 7223"/>
 </reference>

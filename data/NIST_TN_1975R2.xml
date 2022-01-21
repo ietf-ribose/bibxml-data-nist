@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1975r2" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1975r2.pdf">
   <front>
     <title>Building Industry Reporting and Design for Sustainability (BIRDS) commercial database technical manual:update</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1975r2"/>
-    <seriesInfo name="NIST" value="NIST TN 1975r2"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1975r2"/>
+  <seriesInfo name="NIST" value="NIST TN 1975r2"/>
 </reference>

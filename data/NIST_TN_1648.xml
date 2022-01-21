@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1648" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1648.pdf">
   <front>
     <title>Delivering Building Intelligence to First Responders</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1648"/>
-    <seriesInfo name="NIST" value="NIST TN 1648"/>
-    <author fullname="David Holmberg" initials="D." surname="Holmberg">
+    <author fullname="David Holmberg" initials="G" surname="Holmberg">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Michelle Raymond" initials="M." surname="Raymond">
+    <author fullname="Michelle Raymond" initials="A" surname="Raymond">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Jason Averill" initials="J." surname="Averill">
@@ -24,4 +22,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1648"/>
+  <seriesInfo name="NIST" value="NIST TN 1648"/>
 </reference>

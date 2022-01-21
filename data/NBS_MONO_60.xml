@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.60" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph60.pdf">
   <front>
     <title>Influence of a sector ground screen on the field of a vertical antenna</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.60"/>
-    <seriesInfo name="NIST" value="NBS MONO 60"/>
-    <author fullname="James Wait" initials="J." surname="Wait"/>
-    <author fullname="Lillie Walters" initials="L." surname="Walters"/>
+    <author fullname="James Wait" initials="R" surname="Wait">
+      <organization/>
+    </author>
+    <author fullname="Lillie Walters" initials="C" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.60"/>
+  <seriesInfo name="NIST" value="NBS MONO 60"/>
 </reference>

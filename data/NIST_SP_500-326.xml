@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.500-326" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-326.pdf">
   <front>
     <title>SATE V report: ten years of static analysis tool expositions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-326"/>
-    <seriesInfo name="NIST" value="NIST SP 500-326"/>
     <author fullname="Aurelien Delaitre" initials="A." surname="Delaitre">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Bertrand Stivalet" initials="B." surname="Stivalet">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Black" initials="P." surname="Black">
+    <author fullname="Paul Black" initials="E" surname="Black">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Vadim Okun" initials="V." surname="Okun">
@@ -18,7 +16,7 @@
     <author fullname="Athos Ribeiro" initials="A." surname="Ribeiro">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Terry Cohen" initials="T." surname="Cohen">
+    <author fullname="Terry Cohen" initials="S" surname="Cohen">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-326"/>
+  <seriesInfo name="NIST" value="NIST SP 500-326"/>
 </reference>

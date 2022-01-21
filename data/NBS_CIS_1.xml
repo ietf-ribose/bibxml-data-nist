@@ -1,10 +1,12 @@
 <reference anchor="NBS.CIS.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CIS/nbscis1.pdf">
   <front>
     <title>Consumer Information Series 1: fibers and fabrics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIS.1"/>
-    <seriesInfo name="NIST" value="NBS CIS 1"/>
-    <author fullname="Josephine Blandford" initials="J." surname="Blandford"/>
-    <author fullname="Lois Gurel" initials="L." surname="Gurel"/>
+    <author fullname="Josephine Blandford" initials="M" surname="Blandford">
+      <organization/>
+    </author>
+    <author fullname="Lois Gurel" initials="M" surname="Gurel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIS.1"/>
+  <seriesInfo name="NIST" value="NBS CIS 1"/>
 </reference>

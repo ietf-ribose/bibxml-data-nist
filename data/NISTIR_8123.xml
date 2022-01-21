@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8123" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8123.pdf">
   <front>
     <title>Gulf of Mexico Research Initiative 2014/2015 Hydrocarbon Intercalibration Experiment: Description and Results for SRM 2779 Gulf of Mexico Crude Oil and Candidate SRM 2777 Weathered Gulf of Mexico Crude Oil</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8123"/>
-    <seriesInfo name="NIST" value="NIST IR 8123"/>
-    <author fullname="JacolinAnne Murray" initials="J.A." surname="Murray">
+    <author fullname="JacolinAnne Murray" initials="A" surname="Murray">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Lane Sander" initials="L." surname="Sander">
+    <author fullname="Lane Sander" initials="CC" surname="Sander">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Stephen Wise" initials="S." surname="Wise">
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Christopher Reddy" initials="C." surname="Reddy">
+    <author fullname="Christopher Reddy" initials="M" surname="Reddy">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8123"/>
+  <seriesInfo name="NIST" value="NIST IR 8123"/>
 </reference>

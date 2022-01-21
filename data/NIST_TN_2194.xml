@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2194" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2194.pdf">
   <front>
     <title>Fire Performance of Upholstery Materials: Correlation between Cube Test and Full-Scale Chair Mock-Ups</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2194"/>
-    <seriesInfo name="NIST" value="NIST TN 2194"/>
     <author fullname="Mauro Zammarano" initials="M." surname="Zammarano">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2021" month="November" day="17"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2194"/>
+  <seriesInfo name="NIST" value="NIST TN 2194"/>
 </reference>

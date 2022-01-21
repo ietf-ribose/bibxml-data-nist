@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1958" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1958.pdf">
   <front>
     <title>Numerical modeling and analysis of heat transfer in composite slabs with profiled steel decking</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1958"/>
-    <seriesInfo name="NIST" value="NIST TN 1958"/>
     <author fullname="Jian Jiang" initials="J." surname="Jiang">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Joseph Main" initials="J." surname="Main">
+    <author fullname="Joseph Main" initials="A" surname="Main">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+    <author fullname="Fahim Sadek" initials="H" surname="Sadek">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Jonathan Weigand" initials="J." surname="Weigand">
+    <author fullname="Jonathan Weigand" initials="M" surname="Weigand">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1958"/>
+  <seriesInfo name="NIST" value="NIST TN 1958"/>
 </reference>

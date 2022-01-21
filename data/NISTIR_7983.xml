@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7983" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7983.pdf">
   <front>
     <title>Report: Authentication Diary Study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7983"/>
-    <seriesInfo name="NIST" value="NIST IR 7983"/>
     <author fullname="Michelle Steves" initials="M." surname="Steves">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2014" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7983"/>
+  <seriesInfo name="NIST" value="NIST IR 7983"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1061" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1061.pdf">
   <front>
     <title>Phase equilibria :an informal symposium</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1061"/>
-    <seriesInfo name="NIST" value="NBS TN 1061"/>
-    <author surname="Eaton"/>
+    <author initials="BE" surname="Eaton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1061"/>
+  <seriesInfo name="NIST" value="NBS TN 1061"/>
 </reference>

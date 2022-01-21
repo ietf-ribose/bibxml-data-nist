@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1211" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1211.pdf">
   <front>
     <title>Risk assessment of brucellosis for tissues processed and archived at the marine environmental specimen bank</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1211"/>
-    <seriesInfo name="NIST" value="NIST SP 1211"/>
-    <author fullname="Jennifer Ness" initials="J." surname="Ness">
+    <author fullname="Jennifer Ness" initials="M" surname="Ness">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Amanda Moors" initials="A." surname="Moors">
+    <author fullname="Amanda Moors" initials="J" surname="Moors">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh">
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1211"/>
+  <seriesInfo name="NIST" value="NIST SP 1211"/>
 </reference>

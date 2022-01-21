@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8036" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8036.pdf">
   <front>
     <title>Measurement Science Needs for Real-time Control of Additive Manufacturing Powder Bed Fusion Processes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8036"/>
-    <seriesInfo name="NIST" value="NIST IR 8036"/>
     <author fullname="Mahesh Mani" initials="M." surname="Mani">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8036"/>
+  <seriesInfo name="NIST" value="NIST IR 8036"/>
 </reference>

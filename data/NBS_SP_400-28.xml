@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-28" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-28.pdf">
   <front>
     <title>NBSFDA workshop reliability technology for cardiac pacemakers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-28"/>
-    <seriesInfo name="NIST" value="NBS SP 400-28"/>
-    <author fullname="Harry Schafft" initials="H." surname="Schafft"/>
+    <author fullname="Harry Schafft" initials="A" surname="Schafft">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-28"/>
+  <seriesInfo name="NIST" value="NBS SP 400-28"/>
 </reference>

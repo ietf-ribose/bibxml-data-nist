@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8157" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8157.pdf">
   <front>
     <title>BLER Performance Evaluation of LTE Device-to-Device Communications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8157"/>
-    <seriesInfo name="NIST" value="NIST IR 8157"/>
     <author fullname="Jian Wang" initials="J." surname="Wang">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Richard Rouil" initials="R." surname="Rouil">
+    <author fullname="Richard Rouil" initials="A" surname="Rouil">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8157"/>
+  <seriesInfo name="NIST" value="NIST IR 8157"/>
 </reference>

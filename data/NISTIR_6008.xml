@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6008.pdf">
   <front>
     <title>Report on the Open Forum on Establishment of the National Council of Laboratory Accreditation (NACLA) at the National Institute of Standards and Technology, January 7, 1997</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6008"/>
-    <seriesInfo name="NIST" value="NIST IR 6008"/>
-    <author fullname="Janice Jablonskil" initials="J." surname="Jablonskil"/>
-    <author fullname="Walter Leight" initials="W." surname="Leight"/>
+    <author fullname="Janice Jablonskil" initials="S" surname="Jablonskil">
+      <organization/>
+    </author>
+    <author fullname="Walter Leight" initials="G" surname="Leight">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6008"/>
+  <seriesInfo name="NIST" value="NIST IR 6008"/>
 </reference>

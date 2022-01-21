@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1900-601" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-601.pdf">
   <front>
     <title>Characterization of residential distributed energy resource potential to provide ancillary services</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-601"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-601"/>
     <author fullname="David Holmberg" initials="D." surname="Holmberg">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-601"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-601"/>
 </reference>

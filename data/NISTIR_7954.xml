@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.7954" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7954.pdf">
   <front>
     <title>Measurement uncertainty in cell image segmentation data analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7954"/>
-    <seriesInfo name="NIST" value="NIST IR 7954"/>
     <author fullname="JinChu Wu" initials="J.C." surname="Wu">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
     <author fullname="Michael Halter" initials="M." surname="Halter">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker">
+    <author fullname="Raghu Kacker" initials="N" surname="Kacker">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Elliot" initials="J." surname="Elliot">
+    <author fullname="John Elliot" initials="T" surname="Elliot">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
-    <author fullname="Anne Plant" initials="A." surname="Plant">
+    <author fullname="Anne Plant" initials="L" surname="Plant">
       <organization>Information Access Division, Information Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7954"/>
+  <seriesInfo name="NIST" value="NIST IR 7954"/>
 </reference>

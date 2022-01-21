@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2069" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2069.pdf">
   <front>
     <title>Characterizing LTE user equipment emissions :factor screening</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2069"/>
-    <seriesInfo name="NIST" value="NIST TN 2069"/>
     <author fullname="Jason Coder" initials="J." surname="Coder">
       <organization>Communications Technology Laboratory.</organization>
     </author>
@@ -78,4 +76,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2069"/>
+  <seriesInfo name="NIST" value="NIST TN 2069"/>
 </reference>

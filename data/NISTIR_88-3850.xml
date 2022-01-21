@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.88-3850" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3850.pdf">
   <front>
     <title>XRAYL :a powder diffraction profile refinement program</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3850"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3850"/>
-    <author surname="Hubbard"/>
-    <author surname="Stewart"/>
-    <author surname="Zhang"/>
-    <author surname="Morosin"/>
-    <author surname="Venturini"/>
+    <author initials="CR" surname="Hubbard">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Stewart">
+      <organization/>
+    </author>
+    <author initials="Y" surname="Zhang">
+      <organization/>
+    </author>
+    <author initials="B" surname="Morosin">
+      <organization/>
+    </author>
+    <author initials="EL" surname="Venturini">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3850"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3850"/>
 </reference>

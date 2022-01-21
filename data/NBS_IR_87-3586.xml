@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.87-3586" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3586.pdf">
   <front>
     <title>The wind tunnel model surface gauge for measuring roughness</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3586"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3586"/>
-    <author surname="Vorburger"/>
-    <author surname="Gilsinn"/>
-    <author surname="Teague"/>
-    <author surname="Giauque"/>
-    <author surname="Scire"/>
-    <author surname="Cao"/>
+    <author initials="TV" surname="Vorburger">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author initials="EC" surname="Teague">
+      <organization/>
+    </author>
+    <author initials="CHW" surname="Giauque">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Scire">
+      <organization/>
+    </author>
+    <author initials="LX" surname="Cao">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3586"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3586"/>
 </reference>

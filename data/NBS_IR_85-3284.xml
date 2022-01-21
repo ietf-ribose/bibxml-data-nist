@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3284" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3284.pdf">
   <front>
     <title>User's guide for FAST</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3284"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3284"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
-    <author fullname="Steven Baer" initials="S." surname="Baer"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="Steven Baer" initials="R" surname="Baer">
+      <organization/>
+    </author>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3284"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3284"/>
 </reference>

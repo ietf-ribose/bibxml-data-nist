@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-99" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-99.pdf">
   <front>
     <title>Standard Reference Materials :feasibility study for the development of standards using differential scanning calorimetry/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-99"/>
-    <seriesInfo name="NIST" value="NBS SP 260-99"/>
-    <author fullname="Sandra Sullivan" initials="S." surname="Sullivan"/>
-    <author fullname="Jane Callanan" initials="J." surname="Callanan"/>
+    <author fullname="Sandra Sullivan" initials="A" surname="Sullivan">
+      <organization/>
+    </author>
+    <author fullname="Jane Callanan" initials="E" surname="Callanan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-99"/>
+  <seriesInfo name="NIST" value="NBS SP 260-99"/>
 </reference>

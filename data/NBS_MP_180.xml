@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub180.pdf">
   <front>
     <title>Guide-chart for carbon-brush terminals (electric)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.180"/>
-    <seriesInfo name="NIST" value="NBS MP 180"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.180"/>
+  <seriesInfo name="NIST" value="NBS MP 180"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.500-43" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-43.pdf">
   <front>
     <title>A guide to major job accounting systems :the logger system of the UNIVAC 1100 series operating system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-43"/>
-    <seriesInfo name="NIST" value="NBS SP 500-43"/>
-    <author surname="Mohr"/>
-    <author surname="Agrawala"/>
-    <author surname="Flannagan"/>
+    <author initials="JM" surname="Mohr">
+      <organization/>
+    </author>
+    <author initials="AK" surname="Agrawala">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Flannagan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-43"/>
+  <seriesInfo name="NIST" value="NBS SP 500-43"/>
 </reference>

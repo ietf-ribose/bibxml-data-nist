@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.11" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub11.pdf">
   <front>
     <title>Weights and measures eighth annual conference</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.11"/>
-    <seriesInfo name="NIST" value="NBS MP 11"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1914"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.11"/>
+  <seriesInfo name="NIST" value="NBS MP 11"/>
 </reference>

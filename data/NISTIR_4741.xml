@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4741" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4741.pdf">
   <front>
     <title>Physics Laboratory:technical activities 1991</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4741"/>
-    <seriesInfo name="NIST" value="NIST IR 4741"/>
-    <author fullname="Katharine Gebbie" initials="K." surname="Gebbie"/>
+    <author fullname="Katharine Gebbie" initials="B" surname="Gebbie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4741"/>
+  <seriesInfo name="NIST" value="NIST IR 4741"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.MONO.177" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nistmonograph177.pdf">
   <front>
     <title>Properties of copper and copper alloys at cryogenic temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.MONO.177"/>
-    <seriesInfo name="NIST" value="NIST MONO 177"/>
-    <author surname="Simon"/>
-    <author surname="Drexler"/>
-    <author surname="Reed"/>
+    <author initials="NJ" surname="Simon">
+      <organization/>
+    </author>
+    <author initials="ES" surname="Drexler">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.MONO.177"/>
+  <seriesInfo name="NIST" value="NIST MONO 177"/>
 </reference>

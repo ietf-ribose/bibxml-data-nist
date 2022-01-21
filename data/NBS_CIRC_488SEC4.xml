@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.488sec4" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular488sec4.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 488 section 4:an ultraviolet multiplet table- finding list for spectra of the elements hydrogen to niobium (Z=1 to 41)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.488sec4"/>
-    <seriesInfo name="NIST" value="NBS CIRC 488sec4"/>
-    <author fullname="Charlotte Moore" initials="C." surname="Moore"/>
+    <author fullname="Charlotte Moore" initials="E" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.488sec4"/>
+  <seriesInfo name="NIST" value="NBS CIRC 488sec4"/>
 </reference>

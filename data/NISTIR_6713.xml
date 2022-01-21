@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6713" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6713.pdf">
   <front>
     <title>Assurance hierarchies in B2C electronic commerce</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6713"/>
-    <seriesInfo name="NIST" value="NIST IR 6713"/>
-    <author surname="Lyon"/>
-    <author surname="Tang"/>
+    <author initials="GE" surname="Lyon">
+      <organization/>
+    </author>
+    <author initials="HC" surname="Tang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6713"/>
+  <seriesInfo name="NIST" value="NIST IR 6713"/>
 </reference>

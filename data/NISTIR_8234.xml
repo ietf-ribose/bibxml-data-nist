@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8234" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8234.pdf">
   <front>
     <title>Preparation of cylindrical tensile specimens for simultaneous mechanical testing and X-ray computed tomography</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8234"/>
-    <seriesInfo name="NIST" value="NIST IR 8234"/>
-    <author fullname="Felix Kim" initials="F." surname="Kim">
+    <author fullname="Felix Kim" initials="H" surname="Kim">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Shawn Moylan" initials="S." surname="Moylan">
+    <author fullname="Shawn Moylan" initials="P" surname="Moylan">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi">
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8234"/>
+  <seriesInfo name="NIST" value="NIST IR 8234"/>
 </reference>

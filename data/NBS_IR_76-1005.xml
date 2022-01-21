@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1005.pdf">
   <front>
     <title>A comparison of two testers in evaluating the slip-resistance of bathtub and shower base surfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1005"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1005"/>
-    <author fullname="Robert Brungraber" initials="R." surname="Brungraber"/>
-    <author fullname="Theresa Raper" initials="T." surname="Raper"/>
+    <author fullname="Robert Brungraber" initials="J" surname="Brungraber">
+      <organization/>
+    </author>
+    <author fullname="Theresa Raper" initials="JR" surname="Raper">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1005"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1005"/>
 </reference>

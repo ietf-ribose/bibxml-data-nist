@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8323" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8323.pdf">
   <front>
     <title>Foundational PNT Profile:Applying the Cybersecurity Framework for the Responsible Use of Positioning, Navigation, and Timing (PNT) Services</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8323"/>
-    <seriesInfo name="NIST" value="NIST IR 8323"/>
     <author fullname="Michael Bartock" initials="M." surname="Bartock">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -42,4 +40,6 @@
     </author>
     <date year="2021" month="February" day="11"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8323"/>
+  <seriesInfo name="NIST" value="NIST IR 8323"/>
 </reference>

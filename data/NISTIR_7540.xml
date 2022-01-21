@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7540" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7540.pdf">
   <front>
     <title>Assessing face acquisition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7540"/>
-    <seriesInfo name="NIST" value="NIST IR 7540"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton"/>
-    <author fullname="Charles Sheppard" initials="C." surname="Sheppard"/>
-    <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
-    <author fullname="John Libert" initials="J." surname="Libert"/>
-    <author fullname="Shahram Orandi" initials="S." surname="Orandi"/>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization/>
+    </author>
+    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+      <organization/>
+    </author>
+    <author fullname="Charles Sheppard" initials="C." surname="Sheppard">
+      <organization/>
+    </author>
+    <author fullname="Ross Micheals" initials="R." surname="Micheals">
+      <organization/>
+    </author>
+    <author fullname="John Libert" initials="J." surname="Libert">
+      <organization/>
+    </author>
+    <author fullname="Shahram Orandi" initials="S." surname="Orandi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7540"/>
+  <seriesInfo name="NIST" value="NIST IR 7540"/>
 </reference>

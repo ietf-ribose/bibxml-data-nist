@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2207" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2207.pdf">
   <front>
     <title>The role of behavioral science in physical security proceedings of the fourth annual symposium, July 25-26, 1979</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2207"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2207"/>
-    <author fullname="George Lapinsky" initials="G." surname="Lapinsky"/>
-    <author fullname="Ann Ramey-Smith" initials="A." surname="Ramey-Smith"/>
-    <author fullname="Stephen Margulis" initials="S." surname="Margulis"/>
+    <author fullname="George Lapinsky" initials="M" surname="Lapinsky">
+      <organization/>
+    </author>
+    <author fullname="Ann Ramey-Smith" initials="A." surname="Ramey-Smith">
+      <organization/>
+    </author>
+    <author fullname="Stephen Margulis" initials="T" surname="Margulis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2207"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2207"/>
 </reference>

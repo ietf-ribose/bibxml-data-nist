@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1834" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1834.pdf">
   <front>
     <title>Development of a Test Method to Determine Carbon Monoxide Emission Rates from Portable Generators</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1834"/>
-    <seriesInfo name="NIST" value="NIST TN 1834"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Andrew Persily" initials="A." surname="Persily">
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1834"/>
+  <seriesInfo name="NIST" value="NIST TN 1834"/>
 </reference>

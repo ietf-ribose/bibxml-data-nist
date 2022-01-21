@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7266" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7266.pdf">
   <front>
     <title>Proceedings of the 2nd NIST LADAR performance evaluation workshop :March 15-16, 2005</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7266"/>
-    <seriesInfo name="NIST" value="NIST IR 7266"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7266"/>
+  <seriesInfo name="NIST" value="NIST IR 7266"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.250-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-1.pdf">
   <front>
     <title>Spectral radiance calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-1"/>
-    <seriesInfo name="NIST" value="NBS SP 250-1"/>
-    <author fullname="James Walker" initials="J." surname="Walker"/>
-    <author fullname="Robert Saunders" initials="R." surname="Saunders"/>
-    <author fullname="Albert Hattenburg" initials="A." surname="Hattenburg"/>
+    <author fullname="James Walker" initials="H" surname="Walker">
+      <organization/>
+    </author>
+    <author fullname="Robert Saunders" initials="D" surname="Saunders">
+      <organization/>
+    </author>
+    <author fullname="Albert Hattenburg" initials="T" surname="Hattenburg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-1"/>
+  <seriesInfo name="NIST" value="NBS SP 250-1"/>
 </reference>

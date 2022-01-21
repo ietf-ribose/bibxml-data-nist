@@ -1,13 +1,21 @@
 <reference anchor="NBS.BSS.165" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience165.pdf">
   <front>
     <title>Engineering aspects of the September 19, 1985 Mexico earthquake</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.165"/>
-    <seriesInfo name="NIST" value="NBS BSS 165"/>
-    <author fullname="William Stone" initials="W." surname="Stone"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="Mehmet Celebi" initials="M." surname="Celebi"/>
-    <author fullname="Thomas Hanks" initials="T." surname="Hanks"/>
-    <author fullname="Edgar Leyendecker" initials="E." surname="Leyendecker"/>
+    <author fullname="William Stone" initials="C" surname="Stone">
+      <organization/>
+    </author>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="Mehmet Celebi" initials="M." surname="Celebi">
+      <organization/>
+    </author>
+    <author fullname="Thomas Hanks" initials="T." surname="Hanks">
+      <organization/>
+    </author>
+    <author fullname="Edgar Leyendecker" initials="V" surname="Leyendecker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.165"/>
+  <seriesInfo name="NIST" value="NBS BSS 165"/>
 </reference>

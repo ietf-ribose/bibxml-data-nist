@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2079" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2079.pdf">
   <front>
     <title>an economic analysis of efficiency improvements to residential gas- and oil-fired central heating equipment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2079"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2079"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2079"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2079"/>
 </reference>

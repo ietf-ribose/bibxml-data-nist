@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7008.pdf">
   <front>
     <title>NIST research library benchmark study :2001 summary report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7008"/>
-    <seriesInfo name="NIST" value="NIST IR 7008"/>
-    <author fullname="Paula Deutsch" initials="P." surname="Deutsch"/>
-    <author fullname="Diane Cunningham" initials="D." surname="Cunningham"/>
-    <author fullname="Lisa Greenhouse" initials="L." surname="Greenhouse"/>
-    <author fullname="Susan Makar" initials="S." surname="Makar"/>
-    <author fullname="Warren Overman" initials="W." surname="Overman"/>
-    <author fullname="Susan Sanders" initials="S." surname="Sanders"/>
-    <author fullname="Barbara Silcox" initials="B." surname="Silcox"/>
+    <author fullname="Paula Deutsch" initials="P." surname="Deutsch">
+      <organization/>
+    </author>
+    <author fullname="Diane Cunningham" initials="D." surname="Cunningham">
+      <organization/>
+    </author>
+    <author fullname="Lisa Greenhouse" initials="A" surname="Greenhouse">
+      <organization/>
+    </author>
+    <author fullname="Susan Makar" initials="S." surname="Makar">
+      <organization/>
+    </author>
+    <author fullname="Warren Overman" initials="W." surname="Overman">
+      <organization/>
+    </author>
+    <author fullname="Susan Sanders" initials="A" surname="Sanders">
+      <organization/>
+    </author>
+    <author fullname="Barbara Silcox" initials="B." surname="Silcox">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7008"/>
+  <seriesInfo name="NIST" value="NIST IR 7008"/>
 </reference>

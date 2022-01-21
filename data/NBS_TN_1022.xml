@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1022" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1022.pdf">
   <front>
     <title>Sunspot cycle simulation using a narrowband gaussian process</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1022"/>
-    <seriesInfo name="NIST" value="NBS TN 1022"/>
-    <author surname="Barnes"/>
+    <author initials="JA" surname="Barnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1022"/>
+  <seriesInfo name="NIST" value="NBS TN 1022"/>
 </reference>

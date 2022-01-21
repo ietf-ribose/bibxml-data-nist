@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5197" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5197.pdf">
   <front>
     <title>Requirements for an application protocol development environment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5197"/>
-    <seriesInfo name="NIST" value="NIST IR 5197"/>
-    <author fullname="James Fowler" initials="J." surname="Fowler"/>
+    <author fullname="James Fowler" initials="E" surname="Fowler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5197"/>
+  <seriesInfo name="NIST" value="NIST IR 5197"/>
 </reference>

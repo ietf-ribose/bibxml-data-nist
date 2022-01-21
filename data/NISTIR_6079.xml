@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6079" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6079.pdf">
   <front>
     <title>Advanced Technology Program motor vehicle manufacturing technology public workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6079"/>
-    <seriesInfo name="NIST" value="NIST IR 6079"/>
-    <author surname="Boudreaux"/>
-    <author surname="Lettieri"/>
+    <author initials="JC" surname="Boudreaux">
+      <organization/>
+    </author>
+    <author initials="TR" surname="Lettieri">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6079"/>
+  <seriesInfo name="NIST" value="NIST IR 6079"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.972" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular972.pdf">
   <front>
     <title>Letter Circular 972:publications relating to building construction -- home building -- building material specification -- home maintenance (superseding Letter Circular 891)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.972"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 972"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.972"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 972"/>
 </reference>

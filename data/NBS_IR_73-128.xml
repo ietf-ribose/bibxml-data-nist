@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-128" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-128.pdf">
   <front>
     <title>Resistivity and carrier lifetime in gold-doped silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-128"/>
-    <seriesInfo name="NIST" value="NBS IR 73-128"/>
-    <author fullname="Robert Thurber" initials="R." surname="Thurber"/>
-    <author fullname="David Lewis" initials="D." surname="Lewis"/>
-    <author fullname="Murray Bullis" initials="M." surname="Bullis"/>
+    <author fullname="Robert Thurber" initials="W" surname="Thurber">
+      <organization/>
+    </author>
+    <author fullname="David Lewis" initials="C" surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="Murray Bullis" initials="W" surname="Bullis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-128"/>
+  <seriesInfo name="NIST" value="NBS IR 73-128"/>
 </reference>

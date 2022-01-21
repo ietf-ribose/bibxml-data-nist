@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.90-4256" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4256.pdf">
   <front>
     <title>Economic analysis for military construction design- concepts, techniques, and applications for the analyst:instructor's manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4256"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4256"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
-    <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
+    <author fullname="Sieglinde Fuller" initials="K" surname="Fuller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4256"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4256"/>
 </reference>

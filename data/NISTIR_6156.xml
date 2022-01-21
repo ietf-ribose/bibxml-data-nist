@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6156" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6156.pdf">
   <front>
     <title>Solute trapping and solute drag in phase-field model of rapid solidification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6156"/>
-    <seriesInfo name="NIST" value="NIST IR 6156"/>
-    <author surname="Ahmad"/>
-    <author surname="Wheeler"/>
-    <author surname="Boettinger"/>
-    <author surname="McFadden"/>
+    <author initials="NA" surname="Ahmad">
+      <organization/>
+    </author>
+    <author initials="AA" surname="Wheeler">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Boettinger">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6156"/>
+  <seriesInfo name="NIST" value="NIST IR 6156"/>
 </reference>

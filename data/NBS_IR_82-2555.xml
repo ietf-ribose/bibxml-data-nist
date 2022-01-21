@@ -1,16 +1,30 @@
 <reference anchor="NBS.IR.82-2555" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2555.pdf">
   <front>
     <title>1981 annual report :technical assistance for future installation systems research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2555"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2555"/>
-    <author surname="Van Brunt"/>
-    <author surname="Misakian"/>
-    <author surname="Leep"/>
-    <author surname="Beaty"/>
-    <author surname="Gallagher"/>
-    <author surname="Cooke"/>
-    <author surname="Wyatt"/>
-    <author surname="Geis"/>
+    <author initials="RJ" surname="Van Brunt">
+      <organization/>
+    </author>
+    <author initials="M" surname="Misakian">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Leep">
+      <organization/>
+    </author>
+    <author initials="EC" surname="Beaty">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Gallagher">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Cooke">
+      <organization/>
+    </author>
+    <author initials="K" surname="Wyatt">
+      <organization/>
+    </author>
+    <author initials="RG" surname="Geis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2555"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2555"/>
 </reference>

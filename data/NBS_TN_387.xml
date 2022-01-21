@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.387" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote387.pdf">
   <front>
     <title>Hydrogen spin exchange frequency shifts.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.387"/>
-    <seriesInfo name="NIST" value="NBS TN 387"/>
-    <author fullname="Helmut Hellwig" initials="H." surname="Hellwig"/>
+    <author fullname="Helmut Hellwig" initials="H." surname="Hellwig">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.387"/>
+  <seriesInfo name="NIST" value="NBS TN 387"/>
 </reference>

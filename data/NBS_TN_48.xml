@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.48" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote48.pdf">
   <front>
     <title>Report on the IGY oblique-incidence sporadic-E and F-scatter program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.48"/>
-    <seriesInfo name="NIST" value="NBS TN 48"/>
-    <author fullname="James Finney" initials="J." surname="Finney"/>
+    <author fullname="James Finney" initials="W" surname="Finney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.48"/>
+  <seriesInfo name="NIST" value="NBS TN 48"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2201" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2201.pdf">
   <front>
     <title>Coordinated measurement services at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2201"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2201"/>
-    <author fullname="Brian Belanger" initials="B." surname="Belanger"/>
-    <author fullname="David Eagerly" initials="D." surname="Eagerly"/>
-    <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
+    <author fullname="Brian Belanger" initials="C" surname="Belanger">
+      <organization/>
+    </author>
+    <author fullname="David Eagerly" initials="E" surname="Eagerly">
+      <organization/>
+    </author>
+    <author fullname="Albert Tholen" initials="D" surname="Tholen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2201"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2201"/>
 </reference>

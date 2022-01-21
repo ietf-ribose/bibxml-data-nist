@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-18.pdf">
   <front>
     <title>The destructive bond pull test</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-18"/>
-    <seriesInfo name="NIST" value="NBS SP 400-18"/>
-    <author fullname="John Albers" initials="J." surname="Albers"/>
+    <author fullname="John Albers" initials="J." surname="Albers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-18"/>
+  <seriesInfo name="NIST" value="NBS SP 400-18"/>
 </reference>

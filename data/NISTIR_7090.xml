@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7090" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7090.pdf">
   <front>
     <title>Advanced engineering environments for small manufacturing enterprises :volume II</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7090"/>
-    <seriesInfo name="NIST" value="NIST IR 7090"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Young Choi" initials="Y." surname="Choi"/>
-    <author fullname="Joseph Elm" initials="J." surname="Elm"/>
-    <author fullname="John Robert" initials="J." surname="Robert"/>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Young Choi" initials="Y." surname="Choi">
+      <organization/>
+    </author>
+    <author fullname="Joseph Elm" initials="P" surname="Elm">
+      <organization/>
+    </author>
+    <author fullname="John Robert" initials="E" surname="Robert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7090"/>
+  <seriesInfo name="NIST" value="NIST IR 7090"/>
 </reference>

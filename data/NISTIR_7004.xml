@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7004" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7004.pdf">
   <front>
     <title>Master product model for the support of tighter integration of spatial and functional design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7004"/>
-    <seriesInfo name="NIST" value="NIST IR 7004"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Young Choi" initials="Y." surname="Choi"/>
-    <author fullname="Balan Gurumoorthy" initials="B." surname="Gurumoorthy"/>
-    <author fullname="Greg Mocko" initials="G." surname="Mocko"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Young Choi" initials="Y." surname="Choi">
+      <organization/>
+    </author>
+    <author fullname="Balan Gurumoorthy" initials="B." surname="Gurumoorthy">
+      <organization/>
+    </author>
+    <author fullname="Greg Mocko" initials="G." surname="Mocko">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7004"/>
+  <seriesInfo name="NIST" value="NIST IR 7004"/>
 </reference>

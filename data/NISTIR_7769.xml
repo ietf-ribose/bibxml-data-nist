@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7769" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7769.pdf">
   <front>
     <title>Human factors guidance to prevent healthcare disparities with the adoption of EHRs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7769"/>
-    <seriesInfo name="NIST" value="NIST IR 7769"/>
-    <author fullname="Michael Gibbons" initials="M." surname="Gibbons"/>
-    <author fullname="Svetlana Lowry" initials="S." surname="Lowry"/>
-    <author fullname="Matthew Quinn" initials="M." surname="Quinn"/>
+    <author fullname="Michael Gibbons" initials="C" surname="Gibbons">
+      <organization/>
+    </author>
+    <author fullname="Svetlana Lowry" initials="Z" surname="Lowry">
+      <organization/>
+    </author>
+    <author fullname="Matthew Quinn" initials="T" surname="Quinn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7769"/>
+  <seriesInfo name="NIST" value="NIST IR 7769"/>
 </reference>

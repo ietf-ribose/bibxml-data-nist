@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8220" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8220.pdf">
   <front>
     <title>Performance evaluation of LTE device-to-device out-of-coverage communication with frequency hopping resource scheduling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8220"/>
-    <seriesInfo name="NIST" value="NIST IR 8220"/>
-    <author fullname="Fernando Cintron" initials="F." surname="Cintron">
+    <author fullname="Fernando Cintron" initials="J" surname="Cintron">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8220"/>
+  <seriesInfo name="NIST" value="NIST IR 8220"/>
 </reference>

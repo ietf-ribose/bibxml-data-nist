@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-1520" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1520.pdf">
   <front>
     <title>Ultrasonic transducer power output by modulated radiation pressure (with details)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1520"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1520"/>
-    <author surname="Greenspan"/>
-    <author surname="Breckenridge"/>
-    <author surname="Tschiegg"/>
+    <author initials="M" surname="Greenspan">
+      <organization/>
+    </author>
+    <author initials="FR" surname="Breckenridge">
+      <organization/>
+    </author>
+    <author initials="CE" surname="Tschiegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1520"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1520"/>
 </reference>

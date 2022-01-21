@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-201" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-201.pdf">
   <front>
     <title>Composite-overlay reinforcement of cutouts and cracks in metal sheet</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-201"/>
-    <seriesInfo name="NIST" value="NBS IR 73-201"/>
-    <author fullname="Richard Mitchell" initials="R." surname="Mitchell"/>
-    <author fullname="Ruth Woolley" initials="R." surname="Woolley"/>
-    <author fullname="Daniel Chwirut" initials="D." surname="Chwirut"/>
+    <author fullname="Richard Mitchell" initials="A" surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Ruth Woolley" initials="M" surname="Woolley">
+      <organization/>
+    </author>
+    <author fullname="Daniel Chwirut" initials="J" surname="Chwirut">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-201"/>
+  <seriesInfo name="NIST" value="NBS IR 73-201"/>
 </reference>

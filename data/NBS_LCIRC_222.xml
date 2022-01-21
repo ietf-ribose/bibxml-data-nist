@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.222" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular222.pdf">
   <front>
     <title>Letter Circular 222:testing of electrical instruments, meters, and instrument transformers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.222"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 222"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1928"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.222"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 222"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.87-3603" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3603.pdf">
   <front>
     <title>Hazard I. Volume 2 :representative example case documentation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3603"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3603"/>
-    <author surname="Bukowski"/>
-    <author surname="Shibe"/>
+    <author initials="RW" surname="Bukowski">
+      <organization/>
+    </author>
+    <author initials="AJ" surname="Shibe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3603"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3603"/>
 </reference>

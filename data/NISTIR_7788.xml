@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7788" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7788.pdf">
   <front>
     <title>Security risk analysis of enterprise networks using probabilistic attack graphs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7788"/>
-    <seriesInfo name="NIST" value="NIST IR 7788"/>
-    <author fullname="Anoop Singhal" initials="A." surname="Singhal"/>
-    <author fullname="Ximming Ou" initials="X." surname="Ou"/>
+    <author fullname="Anoop Singhal" initials="A." surname="Singhal">
+      <organization/>
+    </author>
+    <author fullname="Ximming Ou" initials="X." surname="Ou">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7788"/>
+  <seriesInfo name="NIST" value="NIST IR 7788"/>
 </reference>

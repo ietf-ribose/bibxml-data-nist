@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8035" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.8035.pdf">
   <front>
     <title>Product data sheet ontology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8035"/>
-    <seriesInfo name="NIST" value="NIST IR 8035"/>
     <author fullname="Binyam Abeye" initials="B." surname="Abeye">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2014" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8035"/>
+  <seriesInfo name="NIST" value="NIST IR 8035"/>
 </reference>

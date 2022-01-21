@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.130" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience130.pdf">
   <front>
     <title>User acceptance of an energy efficient office building-- a study of the Norris Cotton federal office building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.130"/>
-    <seriesInfo name="NIST" value="NBS BSS 130"/>
-    <author fullname="Jacqueline Elder" initials="J." surname="Elder"/>
-    <author fullname="Robert Tibbott" initials="R." surname="Tibbott"/>
+    <author fullname="Jacqueline Elder" initials="J." surname="Elder">
+      <organization/>
+    </author>
+    <author fullname="Robert Tibbott" initials="L" surname="Tibbott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.130"/>
+  <seriesInfo name="NIST" value="NBS BSS 130"/>
 </reference>

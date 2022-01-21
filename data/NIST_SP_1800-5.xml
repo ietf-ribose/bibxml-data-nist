@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-5" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-5.pdf">
   <front>
     <title>IT asset management: financial services</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-5"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-5"/>
     <author fullname="Michael Stone" initials="M." surname="Stone">
       <organization>Information Technology Laboratory.</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2018" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-5"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-5"/>
 </reference>

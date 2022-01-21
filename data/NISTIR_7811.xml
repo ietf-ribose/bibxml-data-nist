@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7811" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7811.pdf">
   <front>
     <title>Defining AFIS latent print "Lights-Out</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7811"/>
-    <seriesInfo name="NIST" value="NIST IR 7811"/>
-    <author surname="Meagher"/>
-    <author surname="Dvornychenko"/>
+    <author initials="S" surname="Meagher">
+      <organization/>
+    </author>
+    <author initials="V" surname="Dvornychenko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7811"/>
+  <seriesInfo name="NIST" value="NIST IR 7811"/>
 </reference>

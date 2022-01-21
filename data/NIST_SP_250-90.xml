@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.250-90" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-90.pdf">
   <front>
     <title>Calibration uncertainty for the NIST PMAM noise standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-90"/>
-    <seriesInfo name="NIST" value="NIST SP 250-90"/>
-    <author fullname="Archita Hati" initials="A." surname="Hati"/>
-    <author fullname="Craig Nelson" initials="C." surname="Nelson"/>
-    <author fullname="Neil Ashby" initials="N." surname="Ashby"/>
-    <author fullname="David Howe" initials="D." surname="Howe"/>
+    <author fullname="Archita Hati" initials="A." surname="Hati">
+      <organization/>
+    </author>
+    <author fullname="Craig Nelson" initials="C." surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="Neil Ashby" initials="N." surname="Ashby">
+      <organization/>
+    </author>
+    <author fullname="David Howe" initials="D." surname="Howe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-90"/>
+  <seriesInfo name="NIST" value="NIST SP 250-90"/>
 </reference>

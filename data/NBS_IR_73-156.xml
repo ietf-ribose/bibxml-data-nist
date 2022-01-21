@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-156" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-156.pdf">
   <front>
     <title>A study of the strength capabilities of children ages two through six</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-156"/>
-    <seriesInfo name="NIST" value="NBS IR 73-156"/>
-    <author surname="Brown"/>
-    <author surname="Buchanan"/>
-    <author surname="Mandel"/>
+    <author initials="WC" surname="Brown">
+      <organization/>
+    </author>
+    <author initials="CJ" surname="Buchanan">
+      <organization/>
+    </author>
+    <author initials="J" surname="Mandel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-156"/>
+  <seriesInfo name="NIST" value="NBS IR 73-156"/>
 </reference>

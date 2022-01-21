@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5091-12" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5091-12.pdf">
   <front>
     <title>NIST time and frequency bulletin no. 517</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5091-12"/>
-    <seriesInfo name="NIST" value="NIST IR 5091-12"/>
-    <author fullname="Gwen Bennett" initials="G." surname="Bennett"/>
+    <author fullname="Gwen Bennett" initials="E" surname="Bennett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5091-12"/>
+  <seriesInfo name="NIST" value="NIST IR 5091-12"/>
 </reference>

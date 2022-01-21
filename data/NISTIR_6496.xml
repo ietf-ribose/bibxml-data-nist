@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6496" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6496.pdf">
   <front>
     <title>Heat transfer of supercritical carbon dioxide flowing in a cooled horizontal tube</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6496"/>
-    <seriesInfo name="NIST" value="NIST IR 6496"/>
-    <author fullname="Douglas Olson" initials="D." surname="Olson"/>
+    <author fullname="Douglas Olson" initials="A" surname="Olson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6496"/>
+  <seriesInfo name="NIST" value="NIST IR 6496"/>
 </reference>

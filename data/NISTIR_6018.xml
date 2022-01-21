@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6018" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6018.pdf">
   <front>
     <title>Diffuse-interface methods in fluid mechanics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6018"/>
-    <seriesInfo name="NIST" value="NIST IR 6018"/>
-    <author surname="Anderson"/>
-    <author surname="McFadden"/>
-    <author surname="Wheeler"/>
+    <author initials="DM" surname="Anderson">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McFadden">
+      <organization/>
+    </author>
+    <author initials="AA" surname="Wheeler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6018"/>
+  <seriesInfo name="NIST" value="NIST IR 6018"/>
 </reference>

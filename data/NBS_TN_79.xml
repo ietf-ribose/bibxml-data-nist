@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote79.pdf">
   <front>
     <title>VHF radio propagation data for the Cedar Rapids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.79"/>
-    <seriesInfo name="NIST" value="NBS TN 79"/>
-    <author fullname="George Sugar" initials="G." surname="Sugar"/>
+    <author fullname="George Sugar" initials="R" surname="Sugar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.79"/>
+  <seriesInfo name="NIST" value="NBS TN 79"/>
 </reference>

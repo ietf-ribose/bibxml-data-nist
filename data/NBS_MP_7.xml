@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub7.pdf">
   <front>
     <title>Weights and measures fourth annual conference</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.7"/>
-    <seriesInfo name="NIST" value="NBS MP 7"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1910"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.7"/>
+  <seriesInfo name="NIST" value="NBS MP 7"/>
 </reference>

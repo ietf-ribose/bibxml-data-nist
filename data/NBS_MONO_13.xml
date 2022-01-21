@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph13.pdf">
   <front>
     <title>Mechanical properties of structural materials at low temperatures :a compilation from the literature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.13"/>
-    <seriesInfo name="NIST" value="NBS MONO 13"/>
-    <author fullname="Michael McClintock" initials="M." surname="McClintock"/>
-    <author fullname="Hugh Gibbons" initials="H." surname="Gibbons"/>
+    <author fullname="Michael McClintock" initials="R" surname="McClintock">
+      <organization/>
+    </author>
+    <author fullname="Hugh Gibbons" initials="P" surname="Gibbons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.13"/>
+  <seriesInfo name="NIST" value="NBS MONO 13"/>
 </reference>

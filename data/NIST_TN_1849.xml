@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1849" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1849.pdf">
   <front>
     <title>Roadmap for Building Commissioning Research Workshop Summary Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1849"/>
-    <seriesInfo name="NIST" value="NIST TN 1849"/>
     <author fullname="NataschaMilesi Ferretti" initials="N.M." surname="Ferretti">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby">
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="David Shipley" initials="D." surname="Shipley">
@@ -20,4 +18,6 @@
     </author>
     <date year="2014" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1849"/>
+  <seriesInfo name="NIST" value="NIST TN 1849"/>
 </reference>

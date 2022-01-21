@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6541" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6541.pdf">
   <front>
     <title>Evaporation and condensation heat transfer performance of flammable refrigerants in brazed plate heat exchanger</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6541"/>
-    <seriesInfo name="NIST" value="NIST IR 6541"/>
-    <author fullname="Sheila Palmer" initials="S." surname="Palmer"/>
-    <author fullname="VanceII Payne" initials="V.I." surname="Payne"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
+    <author fullname="Sheila Palmer" initials="C" surname="Palmer">
+      <organization/>
+    </author>
+    <author fullname="VanceII Payne" initials="W" surname="Payne">
+      <organization/>
+    </author>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6541"/>
+  <seriesInfo name="NIST" value="NIST IR 6541"/>
 </reference>

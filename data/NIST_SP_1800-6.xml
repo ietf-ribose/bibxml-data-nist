@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-6" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-6.pdf">
   <front>
     <title>Domain name system-based electronic mail security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-6"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-6"/>
     <author fullname="Scott Rose" initials="S." surname="Rose">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-6"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-6"/>
 </reference>

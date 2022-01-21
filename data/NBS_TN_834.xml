@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.834" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote834.pdf">
   <front>
     <title>Information handling needs within the U.S. Patent Office</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.834"/>
-    <seriesInfo name="NIST" value="NBS TN 834"/>
-    <author surname="Jeffery"/>
+    <author initials="S" surname="Jeffery">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.834"/>
+  <seriesInfo name="NIST" value="NBS TN 834"/>
 </reference>

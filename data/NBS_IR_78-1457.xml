@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1457" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1457.pdf">
   <front>
     <title>Statistical model for random errors of position location based on lines of position</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1457"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1457"/>
-    <author fullname="Joan Rosenblatt" initials="J." surname="Rosenblatt"/>
+    <author fullname="Joan Rosenblatt" initials="R" surname="Rosenblatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1457"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1457"/>
 </reference>

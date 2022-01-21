@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1538" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1538.pdf">
   <front>
     <title>Optimized arbitrary wireless device arrays for emergency response communications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1538"/>
-    <seriesInfo name="NIST" value="NIST TN 1538"/>
-    <author fullname="William Young" initials="W." surname="Young"/>
+    <author fullname="William Young" initials="F" surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1538"/>
+  <seriesInfo name="NIST" value="NIST TN 1538"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.800-42" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-42.pdf">
   <front>
     <title>Guideline on network security testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-42"/>
-    <seriesInfo name="NIST" value="NIST SP 800-42"/>
-    <author surname="Wack"/>
-    <author surname="Tracy"/>
-    <author surname="Souppaya"/>
+    <author initials="JP" surname="Wack">
+      <organization/>
+    </author>
+    <author initials="MC" surname="Tracy">
+      <organization/>
+    </author>
+    <author initials="MP" surname="Souppaya">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-42"/>
+  <seriesInfo name="NIST" value="NIST SP 800-42"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.3v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph3v2.pdf">
   <front>
     <title>Table of wavenumbers :7000A-1000µ</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.3v2"/>
-    <seriesInfo name="NIST" value="NBS MONO 3v2"/>
-    <author fullname="CharlesDeWitt Coleman" initials="C.D." surname="Coleman"/>
-    <author fullname="William Bozman" initials="W." surname="Bozman"/>
-    <author fullname="William Meggers" initials="W." surname="Meggers"/>
+    <author fullname="CharlesDeWitt Coleman" initials="C.D." surname="Coleman">
+      <organization/>
+    </author>
+    <author fullname="William Bozman" initials="R" surname="Bozman">
+      <organization/>
+    </author>
+    <author fullname="William Meggers" initials="F" surname="Meggers">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.3v2"/>
+  <seriesInfo name="NIST" value="NBS MONO 3v2"/>
 </reference>

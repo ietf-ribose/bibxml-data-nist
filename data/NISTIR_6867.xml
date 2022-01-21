@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6867" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6867.pdf">
   <front>
     <title>Manual for seismic and windstorm evaluation of existing concrete buildings for the Dominican Republic</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6867"/>
-    <seriesInfo name="NIST" value="NIST IR 6867"/>
-    <author surname="Lew"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
-    <author fullname="Monica Starnes" initials="M." surname="Starnes"/>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="Monica Starnes" initials="A" surname="Starnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6867"/>
+  <seriesInfo name="NIST" value="NIST IR 6867"/>
 </reference>

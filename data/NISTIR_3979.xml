@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.3979" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3979.pdf">
   <front>
     <title>Aluminum alloys for ALS cryogenic tanks :comparative measurements of cryogenic mechanical properties of Ai-Li alloys alloys and Alloy 2219</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3979"/>
-    <seriesInfo name="NIST" value="NIST IR 3979"/>
-    <author surname="Reed"/>
-    <author surname="Purtscher"/>
-    <author surname="Simon"/>
-    <author surname="McColskey"/>
-    <author surname="Walsh"/>
-    <author surname="Berger"/>
-    <author surname="Drexler"/>
-    <author surname="Santoyo"/>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="PT" surname="Purtscher">
+      <organization/>
+    </author>
+    <author initials="NJ" surname="Simon">
+      <organization/>
+    </author>
+    <author initials="JD" surname="McColskey">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Walsh">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Berger">
+      <organization/>
+    </author>
+    <author initials="ES" surname="Drexler">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Santoyo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3979"/>
+  <seriesInfo name="NIST" value="NIST IR 3979"/>
 </reference>

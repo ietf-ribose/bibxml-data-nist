@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6447" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6447.pdf">
   <front>
     <title>The reactions of zinc vapor with ZIRCALOY-4 and pure zirconium</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6447"/>
-    <seriesInfo name="NIST" value="NIST IR 6447"/>
-    <author fullname="Maureen Williams" initials="M." surname="Williams"/>
+    <author fullname="Maureen Williams" initials="M." surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6447"/>
+  <seriesInfo name="NIST" value="NIST IR 6447"/>
 </reference>

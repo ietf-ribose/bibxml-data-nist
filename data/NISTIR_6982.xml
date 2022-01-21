@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6982" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6982.pdf">
   <front>
     <title>Face recognition vendor test 2002 performance metrics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6982"/>
-    <seriesInfo name="NIST" value="NIST IR 6982"/>
-    <author surname="Grother"/>
-    <author surname="Michaels"/>
-    <author surname="Phillips"/>
+    <author initials="P" surname="Grother">
+      <organization/>
+    </author>
+    <author initials="R" surname="Michaels">
+      <organization/>
+    </author>
+    <author initials="J" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6982"/>
+  <seriesInfo name="NIST" value="NIST IR 6982"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6996" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6996.pdf">
   <front>
     <title>A survey of design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6996"/>
-    <seriesInfo name="NIST" value="NIST IR 6996"/>
-    <author fullname="Gregory Mocko" initials="G." surname="Mocko"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
+    <author fullname="Gregory Mocko" initials="M" surname="Mocko">
+      <organization/>
+    </author>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6996"/>
+  <seriesInfo name="NIST" value="NIST IR 6996"/>
 </reference>

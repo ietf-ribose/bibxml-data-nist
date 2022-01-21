@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5990" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5990.pdf">
   <front>
     <title>Consolidation of nanoscale iron powders</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5990"/>
-    <seriesInfo name="NIST" value="NIST IR 5990"/>
-    <author surname="Livne"/>
-    <author surname="Munitz"/>
-    <author surname="Rawers"/>
-    <author surname="Fields"/>
+    <author initials="Z" surname="Livne">
+      <organization/>
+    </author>
+    <author initials="A" surname="Munitz">
+      <organization/>
+    </author>
+    <author initials="JC" surname="Rawers">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5990"/>
+  <seriesInfo name="NIST" value="NIST IR 5990"/>
 </reference>

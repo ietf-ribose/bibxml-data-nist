@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.35" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures35.pdf">
   <front>
     <title>Stability of sheathing papers as determined by accelerated aging</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.35"/>
-    <seriesInfo name="NIST" value="NBS BMS 35"/>
-    <author fullname="Samuel Weissberg" initials="S." surname="Weissberg"/>
-    <author fullname="Daniel Jessup" initials="D." surname="Jessup"/>
-    <author fullname="Charles Weber" initials="C." surname="Weber"/>
+    <author fullname="Samuel Weissberg" initials="G" surname="Weissberg">
+      <organization/>
+    </author>
+    <author fullname="Daniel Jessup" initials="A" surname="Jessup">
+      <organization/>
+    </author>
+    <author fullname="Charles Weber" initials="G" surname="Weber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1939"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.35"/>
+  <seriesInfo name="NIST" value="NBS BMS 35"/>
 </reference>

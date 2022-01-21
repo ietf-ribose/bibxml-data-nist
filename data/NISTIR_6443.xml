@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6443" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6443.pdf">
   <front>
     <title>Formalizing the NIST 4-DRCS reference model architecture using an architectural description language</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6443"/>
-    <seriesInfo name="NIST" value="NIST IR 6443"/>
-    <author surname="Dabrowski"/>
-    <author fullname="HuangE Messina" initials="H." surname="Messina"/>
-    <author surname="Horst"/>
+    <author initials="C" surname="Dabrowski">
+      <organization/>
+    </author>
+    <author fullname="HuangE Messina" initials="H" surname="Messina">
+      <organization/>
+    </author>
+    <author initials="J" surname="Horst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6443"/>
+  <seriesInfo name="NIST" value="NIST IR 6443"/>
 </reference>

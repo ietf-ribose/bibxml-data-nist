@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1781" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1781.pdf">
   <front>
     <title>Modeling and Measuring the Effects of Portable Gasoline Powered Generator Exhaust on Indoor Carbon Monoxide Level</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1781"/>
-    <seriesInfo name="NIST" value="NIST TN 1781"/>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
       <organization>Engineering Laboratory, Energy and Environment Division</organization>
     </author>
-    <author fullname="Andrew Persily" initials="A." surname="Persily">
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
       <organization>Engineering Laboratory, Energy and Environment Division</organization>
     </author>
     <author fullname="Liangzhu(Leon) Wang" initials="L.(." surname="Wang">
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1781"/>
+  <seriesInfo name="NIST" value="NIST TN 1781"/>
 </reference>

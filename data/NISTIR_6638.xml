@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6638" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6638.pdf">
   <front>
     <title>Automated luminance-meter control software for electronic-display measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6638"/>
-    <seriesInfo name="NIST" value="NIST IR 6638"/>
-    <author fullname="Matthew Treinen" initials="M." surname="Treinen"/>
+    <author fullname="Matthew Treinen" initials="J" surname="Treinen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6638"/>
+  <seriesInfo name="NIST" value="NIST IR 6638"/>
 </reference>

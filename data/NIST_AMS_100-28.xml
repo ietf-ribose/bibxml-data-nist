@@ -1,9 +1,7 @@
 <reference anchor="NIST.AMS.100-28" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-28.pdf">
   <front>
     <title>Annual manufacturing review:2019</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-28"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-28"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas">
+    <author fullname="Douglas Thomas" initials="S" surname="Thomas">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-28"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-28"/>
 </reference>

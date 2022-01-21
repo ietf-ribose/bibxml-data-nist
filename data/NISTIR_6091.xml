@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6091" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6091.pdf">
   <front>
     <title>Recertification of the SRM 706a, a polystyrene</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6091"/>
-    <seriesInfo name="NIST" value="NIST IR 6091"/>
-    <author surname="Guttman"/>
-    <author surname="Blair"/>
-    <author surname="Maurey"/>
+    <author initials="CM" surname="Guttman">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Blair">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Maurey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6091"/>
+  <seriesInfo name="NIST" value="NIST IR 6091"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.363" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication363.pdf">
   <front>
     <title>Bibliography on atomic energy levels and spectra, July 1968 through June 1971</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.363"/>
-    <seriesInfo name="NIST" value="NBS SP 363"/>
-    <author fullname="Lucy Hagan" initials="L." surname="Hagan"/>
-    <author surname="Martin"/>
+    <author fullname="Lucy Hagan" initials="L." surname="Hagan">
+      <organization/>
+    </author>
+    <author initials="WC" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.363"/>
+  <seriesInfo name="NIST" value="NBS SP 363"/>
 </reference>

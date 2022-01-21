@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.87-3550" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3550.pdf">
   <front>
     <title>Mixing in variable density, isothermal turbulent flow and implications for chemically reacting turbulent flows</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3550"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3550"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Takashi Kahiwagi" initials="T." surname="Kahiwagi"/>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
+    <author fullname="Takashi Kahiwagi" initials="T." surname="Kahiwagi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3550"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3550"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-180.pdf">
   <front>
     <title>Guide to software acceptance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-180"/>
-    <seriesInfo name="NIST" value="NIST SP 500-180"/>
-    <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
-    <author fullname="John Cherniavsky" initials="J." surname="Cherniavsky"/>
+    <author fullname="Dolores Wallace" initials="R" surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="John Cherniavsky" initials="C" surname="Cherniavsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-180"/>
+  <seriesInfo name="NIST" value="NIST SP 500-180"/>
 </reference>

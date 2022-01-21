@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.239" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub239.pdf">
   <front>
     <title>Report of the 46th National Conference on Weights and Measures 1961</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.239"/>
-    <seriesInfo name="NIST" value="NBS MP 239"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.239"/>
+  <seriesInfo name="NIST" value="NBS MP 239"/>
 </reference>

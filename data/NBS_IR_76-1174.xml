@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1174.pdf">
   <front>
     <title>Skid resistance measurement test procedures for intercomparing FHWA national and regional reference systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1174"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1174"/>
-    <author fullname="Robert Kearns" initials="R." surname="Kearns"/>
-    <author fullname="John Ward" initials="J." surname="Ward"/>
+    <author fullname="Robert Kearns" initials="W" surname="Kearns">
+      <organization/>
+    </author>
+    <author fullname="John Ward" initials="F" surname="Ward">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1174"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1174"/>
 </reference>

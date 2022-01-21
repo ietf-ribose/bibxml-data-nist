@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.79-1715" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1715.pdf">
   <front>
     <title>The equation of state of isobutane :an interim assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1715"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1715"/>
-    <author fullname="Meyer Waxman" initials="M." surname="Waxman"/>
-    <author fullname="Harry Davis" initials="H." surname="Davis"/>
-    <author fullname="Levelt Sengers" initials="L." surname="Sengers"/>
-    <author fullname="Max Klein" initials="M." surname="Klein"/>
+    <author fullname="Meyer Waxman" initials="M." surname="Waxman">
+      <organization/>
+    </author>
+    <author fullname="Harry Davis" initials="A" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Levelt Sengers" initials="JMH" surname="Sengers">
+      <organization/>
+    </author>
+    <author fullname="Max Klein" initials="M." surname="Klein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1715"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1715"/>
 </reference>

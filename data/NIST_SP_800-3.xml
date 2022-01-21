@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-3.pdf">
   <front>
     <title>Establishing a computer security incident response capability (CSIRC)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-3"/>
-    <seriesInfo name="NIST" value="NIST SP 800-3"/>
-    <author fullname="John Wack" initials="J." surname="Wack">
+    <author fullname="John Wack" initials="P" surname="Wack">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-3"/>
+  <seriesInfo name="NIST" value="NIST SP 800-3"/>
 </reference>

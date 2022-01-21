@@ -1,8 +1,6 @@
 <reference anchor="NBS.CRPL-F-A.91" target="https://nvlpubs.nist.gov/nistpubs/Legacy/crpl-f-a/crpl-f-a91.pdf">
   <front>
     <title>Ionospheric data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CRPL-F-A.91"/>
-    <seriesInfo name="NIST" value="NBS CRPL-F-A 91"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CRPL-F-A.91"/>
+  <seriesInfo name="NIST" value="NBS CRPL-F-A 91"/>
 </reference>

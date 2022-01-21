@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6890" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6890.pdf">
   <front>
     <title>Fire resistance determination and performance prediction research needs workshop:proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6890"/>
-    <seriesInfo name="NIST" value="NIST IR 6890"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
+    <author fullname="William Grosshandler" initials="W." surname="Grosshandler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6890"/>
+  <seriesInfo name="NIST" value="NIST IR 6890"/>
 </reference>

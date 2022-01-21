@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.88-3087" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3087.pdf">
   <front>
     <title>Round-robin measurements of the apparent thermal conductivity of two refractory insulation materials, using high-temperature guarded-hot-plate apparatus</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3087"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3087"/>
-    <author fullname="Jerome Hust" initials="J." surname="Hust"/>
-    <author fullname="David Smith" initials="D." surname="Smith"/>
+    <author fullname="Jerome Hust" initials="G" surname="Hust">
+      <organization/>
+    </author>
+    <author fullname="David Smith" initials="R" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3087"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3087"/>
 </reference>

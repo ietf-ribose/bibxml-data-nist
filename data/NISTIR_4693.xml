@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4693" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4693.pdf">
   <front>
     <title>Intelligent processing of materials, NAS-NRC assessment panel November 14-15, 1991:Materials Science and Engineering Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4693"/>
-    <seriesInfo name="NIST" value="NIST IR 4693"/>
-    <author surname="Yolken"/>
-    <author surname="Gudas"/>
+    <author initials="HT" surname="Yolken">
+      <organization/>
+    </author>
+    <author initials="JP" surname="Gudas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4693"/>
+  <seriesInfo name="NIST" value="NIST IR 4693"/>
 </reference>

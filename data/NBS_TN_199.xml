@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.199" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote199.pdf">
   <front>
     <title>Correction factor tables for four-point probe resistivity measurements on thin, circular semiconductor samples</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.199"/>
-    <seriesInfo name="NIST" value="NBS TN 199"/>
-    <author fullname="Lydon Swartzendruber" initials="L." surname="Swartzendruber"/>
+    <author fullname="Lydon Swartzendruber" initials="J" surname="Swartzendruber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.199"/>
+  <seriesInfo name="NIST" value="NBS TN 199"/>
 </reference>

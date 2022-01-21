@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6358" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6358.pdf">
   <front>
     <title>An examination and assessment of available incoherent scattering s-matrix theory, also compton profile information, and their impact on photon attenuation coefficient compilations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6358"/>
-    <seriesInfo name="NIST" value="NIST IR 6358"/>
-    <author surname="Hubbell"/>
+    <author initials="JH" surname="Hubbell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6358"/>
+  <seriesInfo name="NIST" value="NIST IR 6358"/>
 </reference>

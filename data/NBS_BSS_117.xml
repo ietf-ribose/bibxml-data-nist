@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience117.pdf">
   <front>
     <title>Experimental verification of a standard test procedure for solar collectors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.117"/>
-    <seriesInfo name="NIST" value="NBS BSS 117"/>
-    <author fullname="James Hill" initials="J." surname="Hill"/>
-    <author fullname="John Jenkins" initials="J." surname="Jenkins"/>
-    <author fullname="Dennis Jones" initials="D." surname="Jones"/>
+    <author fullname="James Hill" initials="E" surname="Hill">
+      <organization/>
+    </author>
+    <author fullname="John Jenkins" initials="P" surname="Jenkins">
+      <organization/>
+    </author>
+    <author fullname="Dennis Jones" initials="E" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.117"/>
+  <seriesInfo name="NIST" value="NBS BSS 117"/>
 </reference>

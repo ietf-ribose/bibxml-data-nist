@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-863" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-863.pdf">
   <front>
     <title>RF attenuation measurement system using a SQUID</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-863"/>
-    <seriesInfo name="NIST" value="NBS IR 77-863"/>
-    <author fullname="Robert Adair" initials="R." surname="Adair"/>
-    <author fullname="Nolan Frederick" initials="N." surname="Frederick"/>
-    <author fullname="Donald Sullivan" initials="D." surname="Sullivan"/>
+    <author fullname="Robert Adair" initials="T" surname="Adair">
+      <organization/>
+    </author>
+    <author fullname="Nolan Frederick" initials="V" surname="Frederick">
+      <organization/>
+    </author>
+    <author fullname="Donald Sullivan" initials="B" surname="Sullivan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-863"/>
+  <seriesInfo name="NIST" value="NBS IR 77-863"/>
 </reference>

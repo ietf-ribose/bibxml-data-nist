@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3208" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3208.pdf">
   <front>
     <title>Ventilation effectiveness in mechanically ventilated office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3208"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3208"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3208"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3208"/>
 </reference>

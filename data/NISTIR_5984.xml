@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5984.pdf">
   <front>
     <title>A summary of cyclic lateral load tests on rectangular reinforced concrete columns</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5984"/>
-    <seriesInfo name="NIST" value="NIST IR 5984"/>
-    <author fullname="Andrew Taylor" initials="A." surname="Taylor"/>
-    <author fullname="Cynthia Kuo" initials="C." surname="Kuo"/>
-    <author fullname="Kevin Wellenius" initials="K." surname="Wellenius"/>
-    <author fullname="Duke Chung" initials="D." surname="Chung"/>
+    <author fullname="Andrew Taylor" initials="W" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="Cynthia Kuo" initials="C." surname="Kuo">
+      <organization/>
+    </author>
+    <author fullname="Kevin Wellenius" initials="K." surname="Wellenius">
+      <organization/>
+    </author>
+    <author fullname="Duke Chung" initials="D." surname="Chung">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5984"/>
+  <seriesInfo name="NIST" value="NIST IR 5984"/>
 </reference>

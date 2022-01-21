@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6049" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6049.pdf">
   <front>
     <title>A standardization strategy that matches enterprise operation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6049"/>
-    <seriesInfo name="NIST" value="NIST IR 6049"/>
-    <author fullname="James Nell" initials="J." surname="Nell"/>
+    <author fullname="James Nell" initials="G" surname="Nell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6049"/>
+  <seriesInfo name="NIST" value="NIST IR 6049"/>
 </reference>

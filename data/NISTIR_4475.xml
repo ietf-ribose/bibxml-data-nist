@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4475" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4475.pdf">
   <front>
     <title>The guide to available mathematical software problem classification system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4475"/>
-    <seriesInfo name="NIST" value="NIST IR 4475"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert"/>
-    <author fullname="Sally Howe" initials="S." surname="Howe"/>
-    <author fullname="David Kahaner" initials="D." surname="Kahaner"/>
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
+      <organization/>
+    </author>
+    <author fullname="Sally Howe" initials="E" surname="Howe">
+      <organization/>
+    </author>
+    <author fullname="David Kahaner" initials="K" surname="Kahaner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4475"/>
+  <seriesInfo name="NIST" value="NIST IR 4475"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.7193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7193.pdf">
   <front>
     <title>Properties of dental amalgam made from spherical particles:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7193"/>
-    <seriesInfo name="NIST" value="NBS RPT 7193"/>
-    <author fullname="Neil Demaree" initials="N." surname="Demaree"/>
+    <author fullname="Neil Demaree" initials="C" surname="Demaree">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7193"/>
+  <seriesInfo name="NIST" value="NBS RPT 7193"/>
 </reference>

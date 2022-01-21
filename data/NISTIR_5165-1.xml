@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5165-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5165-1.pdf">
   <front>
     <title>Life-cycle costing workshop for energy conservation in buildings:student manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5165-1"/>
-    <seriesInfo name="NIST" value="NIST IR 5165-1"/>
-    <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
+    <author fullname="Sieglinde Fuller" initials="K" surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5165-1"/>
+  <seriesInfo name="NIST" value="NIST IR 5165-1"/>
 </reference>

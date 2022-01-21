@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4615" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4615.pdf">
   <front>
     <title>Portable vectorized software for Bessel function evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4615"/>
-    <seriesInfo name="NIST" value="NIST IR 4615"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert"/>
-    <author fullname="Bonita Saunders" initials="B." surname="Saunders"/>
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
+      <organization/>
+    </author>
+    <author fullname="Bonita Saunders" initials="V" surname="Saunders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4615"/>
+  <seriesInfo name="NIST" value="NIST IR 4615"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1268" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1268.pdf">
   <front>
     <title>Workshop Report: Challenges for Digital Proximity Detection in Pandemics: Privacy, Accuracy, and Impact</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1268"/>
-    <seriesInfo name="NIST" value="NIST SP 1268"/>
     <author fullname="Michelle Stephens" initials="M." surname="Stephens">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Kristen Greene" initials="K." surname="Greene">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Kathryn Keenan" initials="K." surname="Keenan">
+    <author fullname="Kathryn Keenan" initials="E" surname="Keenan">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Angela Robinson" initials="A." surname="Robinson">
@@ -32,4 +30,6 @@
     </author>
     <date year="2021" month="May" day="24"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1268"/>
+  <seriesInfo name="NIST" value="NIST SP 1268"/>
 </reference>

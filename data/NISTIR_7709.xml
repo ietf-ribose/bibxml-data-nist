@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7709" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7709.pdf">
   <front>
     <title>Report on the evaluation of 2D still-image face recognition algorithms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7709"/>
-    <seriesInfo name="NIST" value="NIST IR 7709"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="George Quinn" initials="G." surname="Quinn"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
+      <organization/>
+    </author>
+    <author fullname="George Quinn" initials="W" surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7709"/>
+  <seriesInfo name="NIST" value="NIST IR 7709"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.87-3510" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3510.pdf">
   <front>
     <title>Fire toxicity scaling</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3510"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3510"/>
-    <author fullname="Emil Braun" initials="E." surname="Braun"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
-    <author fullname="Joshua Gurman" initials="J." surname="Gurman"/>
-    <author fullname="Trudi Holt" initials="T." surname="Holt"/>
-    <author fullname="Samuel Steel" initials="S." surname="Steel"/>
+    <author fullname="Emil Braun" initials="E." surname="Braun">
+      <organization/>
+    </author>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
+    <author fullname="Joshua Gurman" initials="J." surname="Gurman">
+      <organization/>
+    </author>
+    <author fullname="Trudi Holt" initials="T." surname="Holt">
+      <organization/>
+    </author>
+    <author fullname="Samuel Steel" initials="J" surname="Steel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3510"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3510"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-41" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-41.pdf">
   <front>
     <title>Standard Reference Materials :Use of standard light-sensitive paper for calibrating carbon arcs used in testing textiles for colorfastness to light/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-41"/>
-    <seriesInfo name="NIST" value="NBS SP 260-41"/>
-    <author fullname="Paul Shouse" initials="P." surname="Shouse"/>
-    <author fullname="Lawrence Wood" initials="L." surname="Wood"/>
+    <author fullname="Paul Shouse" initials="J" surname="Shouse">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Wood" initials="A" surname="Wood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-41"/>
+  <seriesInfo name="NIST" value="NBS SP 260-41"/>
 </reference>

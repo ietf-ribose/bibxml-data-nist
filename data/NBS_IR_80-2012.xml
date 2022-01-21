@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2012" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2012.pdf">
   <front>
     <title>Measuring the rate of corrosion of reinforcing steel in concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2012"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2012"/>
-    <author surname="Escalante"/>
-    <author surname="Ito"/>
-    <author surname="Cohen"/>
+    <author initials="E" surname="Escalante">
+      <organization/>
+    </author>
+    <author initials="S" surname="Ito">
+      <organization/>
+    </author>
+    <author initials="M" surname="Cohen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2012"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2012"/>
 </reference>

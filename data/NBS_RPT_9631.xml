@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.9631" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9631.pdf">
   <front>
     <title>Preparation and solubility of hydroxyapatite:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9631"/>
-    <seriesInfo name="NIST" value="NBS RPT 9631"/>
-    <author surname="Moreno"/>
-    <author surname="Brown"/>
+    <author initials="EC" surname="Moreno">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Brown">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9631"/>
+  <seriesInfo name="NIST" value="NBS RPT 9631"/>
 </reference>

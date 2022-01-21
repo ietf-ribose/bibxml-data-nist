@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.358" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular358.pdf">
   <front>
     <title>Letter Circular 358:color charts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.358"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 358"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.358"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 358"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6888" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6888.pdf">
   <front>
     <title>Technology adoption indicators applied to the ATP flow-control machining project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6888"/>
-    <seriesInfo name="NIST" value="NIST IR 6888"/>
-    <author fullname="Hayden Brown" initials="H." surname="Brown"/>
-    <author fullname="Mark Ehlen" initials="M." surname="Ehlen"/>
+    <author fullname="Hayden Brown" initials="H." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Mark Ehlen" initials="M." surname="Ehlen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6888"/>
+  <seriesInfo name="NIST" value="NIST IR 6888"/>
 </reference>

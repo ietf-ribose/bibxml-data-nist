@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5188" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5188.pdf">
   <front>
     <title>Elastic scattering of electrons and positrons by atoms:database ELAST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5188"/>
-    <seriesInfo name="NIST" value="NIST IR 5188"/>
-    <author surname="Wang"/>
-    <author surname="Schechter"/>
+    <author initials="R" surname="Wang">
+      <organization/>
+    </author>
+    <author initials="A" surname="Schechter">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5188"/>
+  <seriesInfo name="NIST" value="NIST IR 5188"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-998" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-998.pdf">
   <front>
     <title>Development of a solid sorption tube and analytical procedure for hydrogen cyanide in the workplace atmosphere</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-998"/>
-    <seriesInfo name="NIST" value="NBS IR 76-998"/>
-    <author fullname="Barry Cadoff" initials="B." surname="Cadoff"/>
-    <author fullname="John Taylor" initials="J." surname="Taylor"/>
+    <author fullname="Barry Cadoff" initials="C" surname="Cadoff">
+      <organization/>
+    </author>
+    <author fullname="John Taylor" initials="K" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-998"/>
+  <seriesInfo name="NIST" value="NBS IR 76-998"/>
 </reference>

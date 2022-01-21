@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.505supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication505supp1.pdf">
   <front>
     <title>Bibliography on atomic transition probabilities (November 1977 through March 1980)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.505supp1"/>
-    <seriesInfo name="NIST" value="NBS SP 505supp1"/>
-    <author surname="Miller"/>
-    <author surname="Fuhr"/>
-    <author surname="Martin"/>
+    <author initials="BJ" surname="Miller">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Fuhr">
+      <organization/>
+    </author>
+    <author initials="GA" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.505supp1"/>
+  <seriesInfo name="NIST" value="NBS SP 505supp1"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-577-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-577-1.pdf">
   <front>
     <title>Remittance processing system, volume I (refer to volume II)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-577-1"/>
-    <seriesInfo name="NIST" value="NBS IR 74-577-1"/>
-    <author fullname="Phillip Shupe" initials="P." surname="Shupe"/>
-    <author fullname="Paul Meissner" initials="P." surname="Meissner"/>
-    <author fullname="James Park" initials="J." surname="Park"/>
+    <author fullname="Phillip Shupe" initials="D" surname="Shupe">
+      <organization/>
+    </author>
+    <author fullname="Paul Meissner" initials="P." surname="Meissner">
+      <organization/>
+    </author>
+    <author fullname="James Park" initials="R" surname="Park">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-577-1"/>
+  <seriesInfo name="NIST" value="NBS IR 74-577-1"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-378" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-378.pdf">
   <front>
     <title>Time and amplitude statistics for electromagnetic noise in mines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-378"/>
-    <seriesInfo name="NIST" value="NBS IR 74-378"/>
-    <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
+    <author fullname="Motohisa Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-378"/>
+  <seriesInfo name="NIST" value="NBS IR 74-378"/>
 </reference>

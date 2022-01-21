@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.381" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication381.pdf">
   <front>
     <title>Bibliography of ion-molecule reaction rate data (January 1950-October 1971)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.381"/>
-    <seriesInfo name="NIST" value="NBS SP 381"/>
-    <author fullname="George Sinnott" initials="G." surname="Sinnott"/>
+    <author fullname="George Sinnott" initials="A" surname="Sinnott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.381"/>
+  <seriesInfo name="NIST" value="NBS SP 381"/>
 </reference>

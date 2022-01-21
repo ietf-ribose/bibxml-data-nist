@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.195" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote195.pdf">
   <front>
     <title>Report on technical investigation of odometers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.195"/>
-    <seriesInfo name="NIST" value="NBS TN 195"/>
-    <author fullname="Donald Mackay" initials="D." surname="Mackay"/>
+    <author fullname="Donald Mackay" initials="R" surname="Mackay">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.195"/>
+  <seriesInfo name="NIST" value="NBS TN 195"/>
 </reference>

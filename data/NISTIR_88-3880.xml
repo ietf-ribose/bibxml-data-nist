@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3880" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3880.pdf">
   <front>
     <title>Study of the ignition inhibiting properties of compressed air foam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3880"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3880"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3880"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3880"/>
 </reference>

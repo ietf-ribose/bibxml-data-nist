@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.5915" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5915.pdf">
   <front>
     <title>Advanced Deburring and Chamfering System (ADACS):final report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5915"/>
-    <seriesInfo name="NIST" value="NIST IR 5915"/>
-    <author fullname="Keith Stouffer" initials="K." surname="Stouffer"/>
-    <author fullname="RobertJr Russell" initials="R.J." surname="Russell"/>
-    <author fullname="Raymond Archacki" initials="R." surname="Archacki"/>
-    <author fullname="Thomas Engel" initials="T." surname="Engel"/>
-    <author fullname="Richard Dansereau" initials="R." surname="Dansereau"/>
-    <author fullname="Arnold Grot" initials="A." surname="Grot"/>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization/>
+    </author>
+    <author fullname="RobertJr Russell" initials="R.J." surname="Russell">
+      <organization/>
+    </author>
+    <author fullname="Raymond Archacki" initials="R." surname="Archacki">
+      <organization/>
+    </author>
+    <author fullname="Thomas Engel" initials="T." surname="Engel">
+      <organization/>
+    </author>
+    <author fullname="Richard Dansereau" initials="R." surname="Dansereau">
+      <organization/>
+    </author>
+    <author fullname="Arnold Grot" initials="A." surname="Grot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5915"/>
+  <seriesInfo name="NIST" value="NIST IR 5915"/>
 </reference>

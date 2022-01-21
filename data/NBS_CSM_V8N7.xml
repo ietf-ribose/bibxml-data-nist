@@ -1,8 +1,6 @@
 <reference anchor="NBS.CSM.v8n7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CSM/nbscsmv8n7.pdf">
   <front>
     <title>Commercial standards monthly :a review of progress in commercial standardization and simplification January 1932</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CSM.v8n7"/>
-    <seriesInfo name="NIST" value="NBS CSM v8n7"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CSM.v8n7"/>
+  <seriesInfo name="NIST" value="NBS CSM v8n7"/>
 </reference>

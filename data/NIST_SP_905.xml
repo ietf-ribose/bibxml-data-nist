@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.905" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication905.pdf">
   <front>
     <title>Technical Digest Symposium on Optical Fiber Measurements, 1996</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.905"/>
-    <seriesInfo name="NIST" value="NIST SP 905"/>
-    <author surname="Day"/>
-    <author surname="Day"/>
-    <author surname="Franzen"/>
-    <author surname="Williams"/>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Franzen">
+      <organization/>
+    </author>
+    <author initials="PA" surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.905"/>
+  <seriesInfo name="NIST" value="NIST SP 905"/>
 </reference>

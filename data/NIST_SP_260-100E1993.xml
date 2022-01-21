@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.260-100e1993" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-100e1993.pdf">
   <front>
     <title>Standard reference materials :handbook for SRM users 1993 edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-100e1993"/>
-    <seriesInfo name="NIST" value="NIST SP 260-100e1993"/>
-    <author fullname="John Taylor" initials="J." surname="Taylor">
+    <author fullname="John Taylor" initials="K" surname="Taylor">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1993" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-100e1993"/>
+  <seriesInfo name="NIST" value="NIST SP 260-100e1993"/>
 </reference>

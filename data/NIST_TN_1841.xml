@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1841" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1841.pdf">
   <front>
     <title>Modeling Particle Resuspension for Estimating Exposure to Bacillus Spores</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1841"/>
-    <seriesInfo name="NIST" value="NIST TN 1841"/>
-    <author fullname="William Dols" initials="W." surname="Dols">
+    <author fullname="William Dols" initials="S" surname="Dols">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Andrew Persily" initials="A." surname="Persily">
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1841"/>
+  <seriesInfo name="NIST" value="NIST TN 1841"/>
 </reference>

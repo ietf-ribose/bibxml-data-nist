@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-177" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-177.pdf">
   <front>
     <title>Comparison of the fire performance of neoprene and flame retardant polyurethane mattresses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-177"/>
-    <seriesInfo name="NIST" value="NBS IR 73-177"/>
-    <author fullname="William Parker" initials="W." surname="Parker"/>
+    <author fullname="William Parker" initials="J" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-177"/>
+  <seriesInfo name="NIST" value="NBS IR 73-177"/>
 </reference>

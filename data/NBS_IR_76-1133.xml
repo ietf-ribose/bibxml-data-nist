@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.76-1133" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1133.pdf">
   <front>
     <title>Skid resistance measurement tests of FHWA reference systems at the Western Field Test Center</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1133"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1133"/>
-    <author surname="Kearns"/>
-    <author surname="Ward"/>
+    <author initials="RW" surname="Kearns">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Ward">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1133"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1133"/>
 </reference>

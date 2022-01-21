@@ -1,8 +1,6 @@
 <reference anchor="NBS.RPT.3142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport3142.pdf">
   <front>
     <title>Projects related to building research at the National Bureau of Standards for fiscal year 1954</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.3142"/>
-    <seriesInfo name="NIST" value="NBS RPT 3142"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.3142"/>
+  <seriesInfo name="NIST" value="NBS RPT 3142"/>
 </reference>

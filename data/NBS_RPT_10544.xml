@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10544" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10544.pdf">
   <front>
     <title>Mechanical properties of paper honeycomb for use in military shelters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10544"/>
-    <seriesInfo name="NIST" value="NBS RPT 10544"/>
-    <author surname="Reichard"/>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10544"/>
+  <seriesInfo name="NIST" value="NBS RPT 10544"/>
 </reference>

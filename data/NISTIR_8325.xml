@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8325" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8325.pdf">
   <front>
     <title>Media Forensics Challenge Image Provenance Evaluation and State-of-the-Art Analysis on Large-Scale Benchmark Datasets</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8325"/>
-    <seriesInfo name="NIST" value="NIST IR 8325"/>
     <author fullname="Xiongnan Jin" initials="X." surname="Jin">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -15,13 +13,13 @@
     <author fullname="Haiying Guan" initials="H." surname="Guan">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Amy Yates" initials="A." surname="Yates">
+    <author fullname="Amy Yates" initials="N" surname="Yates">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Andrew Delgado" initials="A." surname="Delgado">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Daniel Zhou" initials="D." surname="Zhou">
+    <author fullname="Daniel Zhou" initials="F" surname="Zhou">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2020" month="October" day="26"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8325"/>
+  <seriesInfo name="NIST" value="NIST IR 8325"/>
 </reference>

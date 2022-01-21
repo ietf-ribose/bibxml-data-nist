@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5698" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5698.pdf">
   <front>
     <title>The estimation of measurement uncertainty of small circular features measured by CMMs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5698"/>
-    <seriesInfo name="NIST" value="NIST IR 5698"/>
-    <author surname="Phillips"/>
-    <author surname="Borchardt"/>
-    <author surname="Estler"/>
+    <author initials="SD" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="B" surname="Borchardt">
+      <organization/>
+    </author>
+    <author initials="WT" surname="Estler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5698"/>
+  <seriesInfo name="NIST" value="NIST IR 5698"/>
 </reference>

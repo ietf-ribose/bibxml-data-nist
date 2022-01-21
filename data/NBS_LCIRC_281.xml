@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.281" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular281.pdf">
   <front>
     <title>Letter Circular 281:good gasoline</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.281"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 281"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1930"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.281"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 281"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds18.pdf">
   <front>
     <title>Critical analysis of the heat-capacity data of the literature and evaluation of thermodynamic properties of copper, silver, and gold from 0 to 300 oK</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.18"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 18"/>
-    <author fullname="George Furukawa" initials="G." surname="Furukawa"/>
-    <author fullname="William Saba" initials="W." surname="Saba"/>
-    <author fullname="Martin Reilly" initials="M." surname="Reilly"/>
+    <author fullname="George Furukawa" initials="T" surname="Furukawa">
+      <organization/>
+    </author>
+    <author fullname="William Saba" initials="G" surname="Saba">
+      <organization/>
+    </author>
+    <author fullname="Martin Reilly" initials="L" surname="Reilly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.18"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 18"/>
 </reference>

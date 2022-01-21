@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2215" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2215.pdf">
   <front>
     <title>Construction of housing in mine subsidence areas</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2215"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2215"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="Lawrence Salomone" initials="L." surname="Salomone"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Salomone" initials="A" surname="Salomone">
+      <organization/>
+    </author>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2215"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2215"/>
 </reference>

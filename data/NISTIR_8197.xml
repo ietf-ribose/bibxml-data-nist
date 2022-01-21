@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8197" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8197.pdf">
   <front>
     <title>The 2017 IARPA face recognition prize challenge (FRPC)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8197"/>
-    <seriesInfo name="NIST" value="NIST IR 8197"/>
     <author fullname="Patrick Grother" initials="P." surname="Grother">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2017" month="November" day="27"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8197"/>
+  <seriesInfo name="NIST" value="NIST IR 8197"/>
 </reference>

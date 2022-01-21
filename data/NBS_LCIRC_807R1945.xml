@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.807r1945" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular807r1945.pdf">
   <front>
     <title>Letter Circular 807:home heating problems (superseding Letter Circular 702)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.807r1945"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 807r1945"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.807r1945"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 807r1945"/>
 </reference>

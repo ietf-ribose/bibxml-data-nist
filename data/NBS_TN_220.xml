@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.220" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote220.pdf">
   <front>
     <title>Some modifications in methods of calibration of universal ratio sets.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.220"/>
-    <seriesInfo name="NIST" value="NBS TN 220"/>
-    <author fullname="David Ramaley" initials="D." surname="Ramaley"/>
+    <author fullname="David Ramaley" initials="D." surname="Ramaley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.220"/>
+  <seriesInfo name="NIST" value="NBS TN 220"/>
 </reference>

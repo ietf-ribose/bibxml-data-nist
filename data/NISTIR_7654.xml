@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7654" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7654.pdf">
   <front>
     <title>A cost benefit analysis of an automotive industry solution to international supply chain operations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7654"/>
-    <seriesInfo name="NIST" value="NIST IR 7654"/>
-    <author fullname="Susanne Muller" initials="S." surname="Muller"/>
+    <author fullname="Susanne Muller" initials="S." surname="Muller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7654"/>
+  <seriesInfo name="NIST" value="NIST IR 7654"/>
 </reference>

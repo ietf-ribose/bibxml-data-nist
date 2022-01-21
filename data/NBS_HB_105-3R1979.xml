@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.105-3r1979" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook105-3r1979.pdf">
   <front>
     <title>Specifications and tolerances for reference standards and field standard weights and measures 3. specifications and tolerances for graduated neck type volumetric field standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.105-3r1979"/>
-    <seriesInfo name="NIST" value="NBS HB 105-3r1979"/>
-    <author fullname="Blayne Keysar" initials="B." surname="Keysar"/>
+    <author fullname="Blayne Keysar" initials="C" surname="Keysar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.105-3r1979"/>
+  <seriesInfo name="NIST" value="NBS HB 105-3r1979"/>
 </reference>

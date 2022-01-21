@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.260-165" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-165.pdf">
   <front>
     <title>Certification of Standard Reference Material® 5000: Calibrated Overlay Wafer Standard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-165"/>
-    <seriesInfo name="NIST" value="NIST SP 260-165"/>
-    <author fullname="Michael Stocker" initials="M." surname="Stocker">
+    <author fullname="Michael Stocker" initials="T" surname="Stocker">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Richard Silver" initials="R." surname="Silver">
+    <author fullname="Richard Silver" initials="M" surname="Silver">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Ravikiran Attota" initials="R." surname="Attota">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Jay Jun" initials="J." surname="Jun">
+    <author fullname="Jay Jun" initials="S" surname="Jun">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2007" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-165"/>
+  <seriesInfo name="NIST" value="NIST SP 260-165"/>
 </reference>

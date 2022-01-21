@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.78-885" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-885.pdf">
   <front>
     <title>The role of superconductivity in the space program :an assessment of present capabilities and future potential</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-885"/>
-    <seriesInfo name="NIST" value="NBS IR 78-885"/>
-    <author surname="Sullivan"/>
-    <author surname="Fickett"/>
-    <author surname="Hamilton"/>
-    <author surname="Harris"/>
-    <author surname="Peterson"/>
-    <author surname="Stein"/>
-    <author surname="Zimmerman"/>
+    <author initials="DB" surname="Sullivan">
+      <organization/>
+    </author>
+    <author initials="FR" surname="Fickett">
+      <organization/>
+    </author>
+    <author initials="CA" surname="Hamilton">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Harris">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Peterson">
+      <organization/>
+    </author>
+    <author initials="SR" surname="Stein">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Zimmerman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-885"/>
+  <seriesInfo name="NIST" value="NBS IR 78-885"/>
 </reference>

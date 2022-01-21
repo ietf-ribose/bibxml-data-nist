@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5215" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5215.pdf">
   <front>
     <title>The development of a National metrology infrastructure for the domestic gear industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5215"/>
-    <seriesInfo name="NIST" value="NIST IR 5215"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5215"/>
+  <seriesInfo name="NIST" value="NIST IR 5215"/>
 </reference>

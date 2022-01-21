@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.602" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular602.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 602:testing of glass volumetric apparatus</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.602"/>
-    <seriesInfo name="NIST" value="NBS CIRC 602"/>
-    <author surname="Hughes"/>
+    <author initials="JC" surname="Hughes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.602"/>
+  <seriesInfo name="NIST" value="NBS CIRC 602"/>
 </reference>

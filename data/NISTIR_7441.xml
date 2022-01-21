@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7441" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7441.pdf">
   <front>
     <title>Collaborative augmented reality for better standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7441"/>
-    <seriesInfo name="NIST" value="NIST IR 7441"/>
-    <author fullname="Matthew Aronoff" initials="M." surname="Aronoff"/>
-    <author fullname="John Messina" initials="J." surname="Messina"/>
+    <author fullname="Matthew Aronoff" initials="M." surname="Aronoff">
+      <organization/>
+    </author>
+    <author fullname="John Messina" initials="J." surname="Messina">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7441"/>
+  <seriesInfo name="NIST" value="NIST IR 7441"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1895" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1895.pdf">
   <front>
     <title>Heat Pump Test Apparatus for the Evaluation of Low Global Warming Potential Refrigerants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1895"/>
-    <seriesInfo name="NIST" value="NIST TN 1895"/>
-    <author fullname="Harrison Skye" initials="H." surname="Skye">
+    <author fullname="Harrison Skye" initials="M" surname="Skye">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1895"/>
+  <seriesInfo name="NIST" value="NIST TN 1895"/>
 </reference>

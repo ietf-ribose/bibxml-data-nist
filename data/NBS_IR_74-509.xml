@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-509" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-509.pdf">
   <front>
     <title>Strength and stability testing of high chairs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-509"/>
-    <seriesInfo name="NIST" value="NBS IR 74-509"/>
-    <author fullname="Daniel Chwirut" initials="D." surname="Chwirut"/>
+    <author fullname="Daniel Chwirut" initials="J" surname="Chwirut">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-509"/>
+  <seriesInfo name="NIST" value="NBS IR 74-509"/>
 </reference>

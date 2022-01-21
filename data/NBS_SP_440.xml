@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.440" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication440.pdf">
   <front>
     <title>Color :universal language and dictionary of names</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.440"/>
-    <seriesInfo name="NIST" value="NBS SP 440"/>
-    <author fullname="Kenneth Kelly" initials="K." surname="Kelly"/>
-    <author fullname="Deane Judd" initials="D." surname="Judd"/>
+    <author fullname="Kenneth Kelly" initials="L" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Deane Judd" initials="B" surname="Judd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.440"/>
+  <seriesInfo name="NIST" value="NBS SP 440"/>
 </reference>

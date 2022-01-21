@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.479" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote479.pdf">
   <front>
     <title>A Fortran program for analysis of ellipsometer measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.479"/>
-    <seriesInfo name="NIST" value="NBS TN 479"/>
-    <author fullname="Frank McCrackin" initials="F." surname="McCrackin"/>
+    <author fullname="Frank McCrackin" initials="L" surname="McCrackin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.479"/>
+  <seriesInfo name="NIST" value="NBS TN 479"/>
 </reference>

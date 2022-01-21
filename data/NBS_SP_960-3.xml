@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.960-3" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-3.pdf">
   <front>
     <title>NIST recommended practice guide :the use of nomenclature in dispersion science and technology/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.960-3"/>
-    <seriesInfo name="NIST" value="NBS SP 960-3"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Vincent Hackley" initials="V." surname="Hackley"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Vincent Hackley" initials="A" surname="Hackley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.960-3"/>
+  <seriesInfo name="NIST" value="NBS SP 960-3"/>
 </reference>

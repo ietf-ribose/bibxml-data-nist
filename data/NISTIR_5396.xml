@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5396" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5396.pdf">
   <front>
     <title>1994 Northridge earthquake:performance of structures, lifelines and fire protection systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5396"/>
-    <seriesInfo name="NIST" value="NIST IR 5396"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
-    <author surname="Lew"/>
-    <author fullname="Andrew Taylor" initials="A." surname="Taylor"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Andrew Taylor" initials="W" surname="Taylor">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5396"/>
+  <seriesInfo name="NIST" value="NIST IR 5396"/>
 </reference>

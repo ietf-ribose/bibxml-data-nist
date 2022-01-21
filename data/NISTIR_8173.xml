@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.8173" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8173.pdf">
   <front>
     <title>Face in video evaluation (FIVE) face recognition of non-cooperative subjects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8173"/>
-    <seriesInfo name="NIST" value="NIST IR 8173"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother">
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="George Quinn" initials="G." surname="Quinn">
+    <author fullname="George Quinn" initials="W" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="MeiLee Ngan" initials="M.L." surname="Ngan">
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8173"/>
+  <seriesInfo name="NIST" value="NIST IR 8173"/>
 </reference>

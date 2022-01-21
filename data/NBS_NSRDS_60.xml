@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.60" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds60.pdf">
   <front>
     <title>Atomic energy levels</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.60"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 60"/>
-    <author surname="Martin"/>
-    <author fullname="Romuald Zalubas" initials="R." surname="Zalubas"/>
-    <author fullname="Lucy Hagan" initials="L." surname="Hagan"/>
+    <author initials="WC" surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="Romuald Zalubas" initials="R." surname="Zalubas">
+      <organization/>
+    </author>
+    <author fullname="Lucy Hagan" initials="L." surname="Hagan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.60"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 60"/>
 </reference>

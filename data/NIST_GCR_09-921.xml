@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.09-921" target="https://nvlpubs.nist.gov/nistpubs/gcr/2009/gcr09-921.pdf">
   <front>
     <title>Analysis of FDS thermal detector response prediction capability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.09-921"/>
-    <seriesInfo name="NIST" value="NIST GCR 09-921"/>
-    <author fullname="Morgan Hurley" initials="M." surname="Hurley">
+    <author fullname="Morgan Hurley" initials="J" surname="Hurley">
       <organization>Building and Fire Research Laboratory</organization>
     </author>
     <author fullname="Alex Munguia" initials="A." surname="Munguia">
@@ -21,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.09-921"/>
+  <seriesInfo name="NIST" value="NIST GCR 09-921"/>
 </reference>

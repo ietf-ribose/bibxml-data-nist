@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5916" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5916.pdf">
   <front>
     <title>A proposed software test service for special functions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5916"/>
-    <seriesInfo name="NIST" value="NIST IR 5916"/>
-    <author fullname="Daniel Lozier" initials="D." surname="Lozier"/>
+    <author fullname="Daniel Lozier" initials="W" surname="Lozier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5916"/>
+  <seriesInfo name="NIST" value="NIST IR 5916"/>
 </reference>

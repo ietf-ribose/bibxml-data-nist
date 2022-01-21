@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.947" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication947.pdf">
   <front>
     <title>High throughput methodologies for chemicals and materials RD&amp;E</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.947"/>
-    <seriesInfo name="NIST" value="NIST SP 947"/>
-    <author fullname="John Hewes" initials="J." surname="Hewes"/>
+    <author fullname="John Hewes" initials="D" surname="Hewes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.947"/>
+  <seriesInfo name="NIST" value="NIST SP 947"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1768" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1768.pdf">
   <front>
     <title>Measurement of Temperature, Displacement, and Strain in Structural Components Subject to Fire Effects: Concepts and Candidate Approaches</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1768"/>
-    <seriesInfo name="NIST" value="NIST TN 1768"/>
     <author fullname="Therese McAllister" initials="T." surname="McAllister">
       <organization>Materials and Structural Systems Division, Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2012" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1768"/>
+  <seriesInfo name="NIST" value="NIST TN 1768"/>
 </reference>

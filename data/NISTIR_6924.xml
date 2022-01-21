@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.6924" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6924.pdf">
   <front>
     <title>A glyph toolbox for immersive scientific visualization</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6924"/>
-    <seriesInfo name="NIST" value="NIST IR 6924"/>
-    <author fullname="HarryBullen, III" initials="H.B." surname="III"/>
-    <author fullname="Jessica Chang" initials="J." surname="Chang"/>
-    <author fullname="Alexander Harn" initials="A." surname="Harn"/>
-    <author fullname="Sean Kelly" initials="S." surname="Kelly"/>
-    <author fullname="Steven Satterfield" initials="S." surname="Satterfield"/>
-    <author fullname="Peter Ketcham" initials="P." surname="Ketcham"/>
-    <author fullname="Judith Devaney" initials="J." surname="Devaney"/>
+    <author fullname="HarryBullen, III" initials="W" surname="III">
+      <organization/>
+    </author>
+    <author fullname="Jessica Chang" initials="S" surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Alexander Harn" initials="V" surname="Harn">
+      <organization/>
+    </author>
+    <author fullname="Sean Kelly" initials="P" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Steven Satterfield" initials="G" surname="Satterfield">
+      <organization/>
+    </author>
+    <author fullname="Peter Ketcham" initials="M" surname="Ketcham">
+      <organization/>
+    </author>
+    <author fullname="Judith Devaney" initials="E" surname="Devaney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6924"/>
+  <seriesInfo name="NIST" value="NIST IR 6924"/>
 </reference>

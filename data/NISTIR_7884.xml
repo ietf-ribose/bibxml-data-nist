@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.7884" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7884.pdf">
   <front>
     <title>Significance Test in Speaker Recognition Data Analysis with Data Dependency</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7884"/>
-    <seriesInfo name="NIST" value="NIST IR 7884"/>
     <author fullname="JinChu Wu" initials="J.C." surname="Wu">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Alvin Martin" initials="A." surname="Martin">
+    <author fullname="Alvin Martin" initials="F" surname="Martin">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Craig Greenberg" initials="C." surname="Greenberg">
+    <author fullname="Craig Greenberg" initials="S" surname="Greenberg">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker">
+    <author fullname="Raghu Kacker" initials="N" surname="Kacker">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Vincent Stanford" initials="V." surname="Stanford">
+    <author fullname="Vincent Stanford" initials="M" surname="Stanford">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2012" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7884"/>
+  <seriesInfo name="NIST" value="NIST IR 7884"/>
 </reference>

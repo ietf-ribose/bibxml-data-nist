@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4813" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4813.pdf">
   <front>
     <title>Shop of the 90s project:an evaluation tool for wireframe CAD software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4813"/>
-    <seriesInfo name="NIST" value="NIST IR 4813"/>
-    <author fullname="Bill Bluethmann" initials="B." surname="Bluethmann"/>
-    <author fullname="Jim Johnson" initials="J." surname="Johnson"/>
+    <author fullname="Bill Bluethmann" initials="B." surname="Bluethmann">
+      <organization/>
+    </author>
+    <author fullname="Jim Johnson" initials="J." surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4813"/>
+  <seriesInfo name="NIST" value="NIST IR 4813"/>
 </reference>

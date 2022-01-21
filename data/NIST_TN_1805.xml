@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1805" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1805.pdf">
   <front>
     <title>Mass diffusion of organic fluids : a molecular dynamics perspective</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1805"/>
-    <seriesInfo name="NIST" value="NIST TN 1805"/>
     <author fullname="Alex Smolyanitsky" initials="A." surname="Smolyanitsky">
       <organization>Applied Chemicals and Materials Division, Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Andrei Kazakov" initials="A." surname="Kazakov">
+    <author fullname="Andrei Kazakov" initials="F" surname="Kazakov">
       <organization>Applied Chemicals and Materials Division, Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Thomas Bruno" initials="T." surname="Bruno">
+    <author fullname="Thomas Bruno" initials="J" surname="Bruno">
       <organization>Applied Chemicals and Materials Division, Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Marcia Huber" initials="M." surname="Huber">
+    <author fullname="Marcia Huber" initials="L" surname="Huber">
       <organization>Applied Chemicals and Materials Division, Materials Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1805"/>
+  <seriesInfo name="NIST" value="NIST TN 1805"/>
 </reference>

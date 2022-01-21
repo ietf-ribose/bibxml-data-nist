@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.171" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub171.pdf">
   <front>
     <title>Directory of commercial testing and college research laboratories/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.171"/>
-    <seriesInfo name="NIST" value="NBS MP 171"/>
-    <author surname="McAllister"/>
-    <author fullname="Ann Rapuzzi" initials="A." surname="Rapuzzi"/>
+    <author initials="AS" surname="McAllister">
+      <organization/>
+    </author>
+    <author fullname="Ann Rapuzzi" initials="E" surname="Rapuzzi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.171"/>
+  <seriesInfo name="NIST" value="NBS MP 171"/>
 </reference>

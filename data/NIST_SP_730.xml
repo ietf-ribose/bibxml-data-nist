@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.730" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication730.pdf">
   <front>
     <title>NBS-INA-The Institute for Numerical Analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.730"/>
-    <seriesInfo name="NIST" value="NIST SP 730"/>
-    <author fullname="Magnus Hestenes" initials="M." surname="Hestenes"/>
-    <author fullname="Magnus Hestenes" initials="M." surname="Hestenes"/>
-    <author fullname="John Todd" initials="J." surname="Todd"/>
+    <author fullname="Magnus Hestenes" initials="R" surname="Hestenes">
+      <organization/>
+    </author>
+    <author fullname="Magnus Hestenes" initials="R" surname="Hestenes">
+      <organization/>
+    </author>
+    <author fullname="John Todd" initials="J." surname="Todd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.730"/>
+  <seriesInfo name="NIST" value="NIST SP 730"/>
 </reference>

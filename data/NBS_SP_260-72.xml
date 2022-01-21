@@ -1,15 +1,27 @@
 <reference anchor="NBS.SP.260-72" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-72.pdf">
   <front>
     <title>Standard Reference MaterialsSRM 900, antiepilepsy drug level assay standard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-72"/>
-    <seriesInfo name="NIST" value="NBS SP 260-72"/>
-    <author fullname="Richard Christensen" initials="R." surname="Christensen"/>
-    <author fullname="Bruce Coxon" initials="B." surname="Coxon"/>
-    <author fullname="Barbara Howell" initials="B." surname="Howell"/>
-    <author fullname="John Mandel" initials="J." surname="Mandel"/>
-    <author fullname="Robert Paule" initials="R." surname="Paule"/>
-    <author fullname="Dennis Reeder" initials="D." surname="Reeder"/>
-    <author fullname="Robert Schaffer" initials="R." surname="Schaffer"/>
+    <author fullname="Richard Christensen" initials="G" surname="Christensen">
+      <organization/>
+    </author>
+    <author fullname="Bruce Coxon" initials="B." surname="Coxon">
+      <organization/>
+    </author>
+    <author fullname="Barbara Howell" initials="F" surname="Howell">
+      <organization/>
+    </author>
+    <author fullname="John Mandel" initials="J." surname="Mandel">
+      <organization/>
+    </author>
+    <author fullname="Robert Paule" initials="C" surname="Paule">
+      <organization/>
+    </author>
+    <author fullname="Dennis Reeder" initials="J" surname="Reeder">
+      <organization/>
+    </author>
+    <author fullname="Robert Schaffer" initials="R." surname="Schaffer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-72"/>
+  <seriesInfo name="NIST" value="NBS SP 260-72"/>
 </reference>

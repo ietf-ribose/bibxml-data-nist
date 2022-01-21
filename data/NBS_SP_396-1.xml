@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.396-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication396-1.pdf">
   <front>
     <title>Critical surveys of data sources :mechanical properties of metals</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.396-1"/>
-    <seriesInfo name="NIST" value="NBS SP 396-1"/>
-    <author surname="Gavert"/>
-    <author surname="Moore"/>
-    <author surname="Westbrook"/>
+    <author initials="RB" surname="Gavert">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Moore">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Westbrook">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.396-1"/>
+  <seriesInfo name="NIST" value="NBS SP 396-1"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-251" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-251.pdf">
   <front>
     <title>Analytical methods for the detection of toxic elements in dry paint matrices -- a literature survey</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-251"/>
-    <seriesInfo name="NIST" value="NBS IR 73-251"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-251"/>
+  <seriesInfo name="NIST" value="NBS IR 73-251"/>
 </reference>

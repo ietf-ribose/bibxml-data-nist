@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote16.pdf">
   <front>
     <title>Some applications of statistical sampling methods to outgoing letter mail characteristics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.16"/>
-    <seriesInfo name="NIST" value="NBS TN 16"/>
-    <author fullname="Norman Severo" initials="N." surname="Severo"/>
+    <author fullname="Norman Severo" initials="C" surname="Severo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.16"/>
+  <seriesInfo name="NIST" value="NBS TN 16"/>
 </reference>

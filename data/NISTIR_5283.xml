@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5283" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5283.pdf">
   <front>
     <title>Security considerations for SQL-based implementations of STEP</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5283"/>
-    <seriesInfo name="NIST" value="NIST IR 5283"/>
-    <author fullname="Lawrence Bassham" initials="L." surname="Bassham"/>
-    <author fullname="Timothy Polk" initials="T." surname="Polk"/>
+    <author fullname="Lawrence Bassham" initials="E" surname="Bassham">
+      <organization/>
+    </author>
+    <author fullname="Timothy Polk" initials="W" surname="Polk">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5283"/>
+  <seriesInfo name="NIST" value="NIST IR 5283"/>
 </reference>

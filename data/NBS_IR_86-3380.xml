@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3380" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3380.pdf">
   <front>
     <title>Solid-state 13C NMR determination of the syringylguaiacyl ratio in hardwood</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3380"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3380"/>
-    <author fullname="William Manders" initials="W." surname="Manders"/>
+    <author fullname="William Manders" initials="F" surname="Manders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3380"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3380"/>
 </reference>

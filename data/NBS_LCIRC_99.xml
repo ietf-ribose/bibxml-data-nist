@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.99" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular99.pdf">
   <front>
     <title>Letter Circular 99:tests on asbestos &amp; rubber sheet packing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.99"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 99"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1923"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.99"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 99"/>
 </reference>

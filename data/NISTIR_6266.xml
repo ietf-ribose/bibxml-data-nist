@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6266" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6266.pdf">
   <front>
     <title>Materials and fracture mechanics assessments of railroad tank cars</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6266"/>
-    <seriesInfo name="NIST" value="NIST IR 6266"/>
-    <author fullname="Akram Zahoor" initials="A." surname="Zahoor"/>
+    <author fullname="Akram Zahoor" initials="A." surname="Zahoor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6266"/>
+  <seriesInfo name="NIST" value="NIST IR 6266"/>
 </reference>

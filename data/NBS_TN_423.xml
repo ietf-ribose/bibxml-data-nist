@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.423" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote423.pdf">
   <front>
     <title>Electrochemical analysis section:summary of activities, July 1966 to June 1967.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.423"/>
-    <seriesInfo name="NIST" value="NBS TN 423"/>
-    <author fullname="Roger Bates" initials="R." surname="Bates"/>
+    <author fullname="Roger Bates" initials="G" surname="Bates">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.423"/>
+  <seriesInfo name="NIST" value="NBS TN 423"/>
 </reference>

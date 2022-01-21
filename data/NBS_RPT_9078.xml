@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9078" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9078.pdf">
   <front>
     <title>Surface studies of natural and synthetic bone mineral and teeth:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9078"/>
-    <seriesInfo name="NIST" value="NBS RPT 9078"/>
-    <author fullname="William Loebenstein" initials="W." surname="Loebenstein"/>
+    <author fullname="William Loebenstein" initials="V" surname="Loebenstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9078"/>
+  <seriesInfo name="NIST" value="NBS RPT 9078"/>
 </reference>

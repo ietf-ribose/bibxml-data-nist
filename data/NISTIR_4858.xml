@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4858" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4858.pdf">
   <front>
     <title>A metric America:a decision whose time has come</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4858"/>
-    <seriesInfo name="NIST" value="NIST IR 4858"/>
-    <author fullname="Gary Carver" initials="G." surname="Carver"/>
+    <author fullname="Gary Carver" initials="P" surname="Carver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4858"/>
+  <seriesInfo name="NIST" value="NIST IR 4858"/>
 </reference>

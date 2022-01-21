@@ -1,12 +1,18 @@
 <reference anchor="NBS.NSRDS.55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds55.pdf">
   <front>
     <title>Property index to nsrds data compilations, 1964-1972</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.55"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 55"/>
-    <author fullname="David Lide" initials="D." surname="Lide"/>
-    <author fullname="Gertrude Sherwood" initials="G." surname="Sherwood"/>
-    <author fullname="Charles Douglass" initials="C." surname="Douglass"/>
-    <author fullname="Herman Weisman" initials="H." surname="Weisman"/>
+    <author fullname="David Lide" initials="R" surname="Lide">
+      <organization/>
+    </author>
+    <author fullname="Gertrude Sherwood" initials="B" surname="Sherwood">
+      <organization/>
+    </author>
+    <author fullname="Charles Douglass" initials="H" surname="Douglass">
+      <organization/>
+    </author>
+    <author fullname="Herman Weisman" initials="M" surname="Weisman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.55"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 55"/>
 </reference>

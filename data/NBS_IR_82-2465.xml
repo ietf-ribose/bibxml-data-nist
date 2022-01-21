@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.82-2465" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2465.pdf">
   <front>
     <title>Investigation of the Kansas City Hyatt Regency walkways collapse</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2465"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2465"/>
-    <author surname="Marshall"/>
-    <author surname="Pfrang"/>
-    <author surname="Leyendecker"/>
-    <author surname="Woodward"/>
-    <author surname="Reed"/>
-    <author surname="Kasen"/>
-    <author surname="Shives"/>
+    <author initials="RD" surname="Marshall">
+      <organization/>
+    </author>
+    <author initials="EO" surname="Pfrang">
+      <organization/>
+    </author>
+    <author initials="EV" surname="Leyendecker">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Woodward">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="MB" surname="Kasen">
+      <organization/>
+    </author>
+    <author initials="TR" surname="Shives">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2465"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2465"/>
 </reference>

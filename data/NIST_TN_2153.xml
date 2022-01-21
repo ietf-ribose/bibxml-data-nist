@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2153" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2153.pdf">
   <front>
     <title>Ignitibility of Structural Wood Products Exposed to Embers During Wildland Fires: A Review of Literature</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2153"/>
-    <seriesInfo name="NIST" value="NIST TN 2153"/>
     <author fullname="Shonali Nazare" initials="S." surname="Nazare">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="April" day="27"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2153"/>
+  <seriesInfo name="NIST" value="NIST TN 2153"/>
 </reference>

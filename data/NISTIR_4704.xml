@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4704" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4704.pdf">
   <front>
     <title>Intercomparison of methods for the identification and quantitation of butyltin species in aqueous solution</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4704"/>
-    <seriesInfo name="NIST" value="NIST IR 4704"/>
-    <author surname="Blair"/>
-    <author surname="Brinckman"/>
-    <author surname="Paule"/>
+    <author initials="WR" surname="Blair">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Brinckman">
+      <organization/>
+    </author>
+    <author initials="R" surname="Paule">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4704"/>
+  <seriesInfo name="NIST" value="NIST IR 4704"/>
 </reference>

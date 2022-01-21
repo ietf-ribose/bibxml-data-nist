@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6435" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6435.pdf">
   <front>
     <title>Materials Science and Engineering Laboratory. Polymers Division :1999 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6435"/>
-    <seriesInfo name="NIST" value="NIST IR 6435"/>
-    <author fullname="Eric Amis" initials="E." surname="Amis"/>
-    <author fullname="Bruno Fanconi" initials="B." surname="Fanconi"/>
+    <author fullname="Eric Amis" initials="J" surname="Amis">
+      <organization/>
+    </author>
+    <author fullname="Bruno Fanconi" initials="M" surname="Fanconi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6435"/>
+  <seriesInfo name="NIST" value="NIST IR 6435"/>
 </reference>

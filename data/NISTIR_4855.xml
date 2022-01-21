@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4855" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4855.pdf">
   <front>
     <title>Recommended agency procedures for implementing federal metric policy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4855"/>
-    <seriesInfo name="NIST" value="NIST IR 4855"/>
-    <author fullname="James McCracken" initials="J." surname="McCracken"/>
-    <author fullname="Gary Carver" initials="G." surname="Carver"/>
+    <author fullname="James McCracken" initials="B" surname="McCracken">
+      <organization/>
+    </author>
+    <author fullname="Gary Carver" initials="P" surname="Carver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4855"/>
+  <seriesInfo name="NIST" value="NIST IR 4855"/>
 </reference>

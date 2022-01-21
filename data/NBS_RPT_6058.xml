@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.6058" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6058.pdf">
   <front>
     <title>Fabrication techniques for two types of ceramic x-band resonant cavities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6058"/>
-    <seriesInfo name="NIST" value="NBS RPT 6058"/>
-    <author fullname="Frank Freethey" initials="F." surname="Freethey"/>
-    <author fullname="MoodyJr Thompson" initials="M.J." surname="Thompson"/>
-    <author fullname="Donald Waters" initials="D." surname="Waters"/>
+    <author fullname="Frank Freethey" initials="E" surname="Freethey">
+      <organization/>
+    </author>
+    <author fullname="MoodyJr Thompson" initials="C" surname="Thompson">
+      <organization/>
+    </author>
+    <author fullname="Donald Waters" initials="M" surname="Waters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1959" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6058"/>
+  <seriesInfo name="NIST" value="NBS RPT 6058"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1021" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1021.pdf">
   <front>
     <title>Cook County Administration Building fire, 69 West Washington, Chicago, Illinois, October 17, 2003 :heat release rate experiments and FDS simulations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1021"/>
-    <seriesInfo name="NIST" value="NIST SP 1021"/>
-    <author surname="Madrzykowski"/>
-    <author surname="Walton"/>
+    <author initials="D" surname="Madrzykowski">
+      <organization/>
+    </author>
+    <author initials="WD" surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1021"/>
+  <seriesInfo name="NIST" value="NIST SP 1021"/>
 </reference>

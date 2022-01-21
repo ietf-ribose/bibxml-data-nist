@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.86-3480" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3480.pdf">
   <front>
     <title>Cobalt-60 facilities available for hardness assurance testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3480"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3480"/>
-    <author surname="Humphreys"/>
-    <author fullname="Charles Dozier" initials="C." surname="Dozier"/>
+    <author initials="JC" surname="Humphreys">
+      <organization/>
+    </author>
+    <author fullname="Charles Dozier" initials="M" surname="Dozier">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3480"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3480"/>
 </reference>

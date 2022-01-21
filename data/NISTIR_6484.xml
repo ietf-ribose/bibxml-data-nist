@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6484" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6484.pdf">
   <front>
     <title>Specification of interactions in integrated manufacturing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6484"/>
-    <seriesInfo name="NIST" value="NIST IR 6484"/>
-    <author fullname="David Flater" initials="D." surname="Flater"/>
+    <author fullname="David Flater" initials="D." surname="Flater">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6484"/>
+  <seriesInfo name="NIST" value="NIST IR 6484"/>
 </reference>

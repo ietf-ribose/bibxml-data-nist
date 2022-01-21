@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-3913" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3913.pdf">
   <front>
     <title>Interlaboratory comparison of the guarded horizontal pipe-test apparatus :precision of ASTM standard test method C-335 applied to mineral-fiber pipe insulation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3913"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3913"/>
-    <author fullname="David Smith" initials="D." surname="Smith"/>
+    <author fullname="David Smith" initials="R" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3913"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3913"/>
 </reference>

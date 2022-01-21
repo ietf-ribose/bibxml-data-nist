@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-7" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-7.pdf">
   <front>
     <title>Situational awareness for electric utilities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-7"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-7"/>
     <author fullname="Jim McCarthy" initials="J." surname="McCarthy">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -42,4 +40,6 @@
     </author>
     <date year="2019" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-7"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-7"/>
 </reference>

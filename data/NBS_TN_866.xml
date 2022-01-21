@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.866" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote866.pdf">
   <front>
     <title>Chemical kinetic and photochemical data for modelling atmospheric chemistry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.866"/>
-    <seriesInfo name="NIST" value="NBS TN 866"/>
-    <author fullname="David Garvin" initials="D." surname="Garvin"/>
-    <author fullname="Robert Hampson" initials="R." surname="Hampson"/>
+    <author fullname="David Garvin" initials="D." surname="Garvin">
+      <organization/>
+    </author>
+    <author fullname="Robert Hampson" initials="F" surname="Hampson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.866"/>
+  <seriesInfo name="NIST" value="NBS TN 866"/>
 </reference>

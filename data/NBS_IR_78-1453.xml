@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1453" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1453.pdf">
   <front>
     <title>Recycled oil program :phase I- test procedures for recycled oil used as burner fuel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1453"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1453"/>
-    <author surname="Becker"/>
-    <author fullname="JJ Comeford" initials="J." surname="Comeford"/>
+    <author initials="DA" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="JJ Comeford" initials="J." surname="Comeford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1453"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1453"/>
 </reference>

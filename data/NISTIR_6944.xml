@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6944" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6944.pdf">
   <front>
     <title>Determination of the single crystal elastic constraints by diffraction from a cubic polycrystal</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6944"/>
-    <seriesInfo name="NIST" value="NIST IR 6944"/>
-    <author fullname="Roland DeWit" initials="R." surname="DeWit"/>
+    <author fullname="Roland DeWit" initials="R." surname="DeWit">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6944"/>
+  <seriesInfo name="NIST" value="NIST IR 6944"/>
 </reference>

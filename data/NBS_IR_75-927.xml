@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-927" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-927.pdf">
   <front>
     <title>The National Measurement System for surface finish</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-927"/>
-    <seriesInfo name="NIST" value="NBS IR 75-927"/>
-    <author fullname="Russell Young" initials="R." surname="Young"/>
+    <author fullname="Russell Young" initials="D" surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-927"/>
+  <seriesInfo name="NIST" value="NBS IR 75-927"/>
 </reference>

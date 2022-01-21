@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-773" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-773.pdf">
   <front>
     <title>Report on characteristics of three universal force testing machines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-773"/>
-    <seriesInfo name="NIST" value="NBS IR 75-773"/>
-    <author fullname="Ervin Palasky" initials="E." surname="Palasky"/>
-    <author fullname="Eryx Malcolm" initials="E." surname="Malcolm"/>
+    <author fullname="Ervin Palasky" initials="C" surname="Palasky">
+      <organization/>
+    </author>
+    <author fullname="Eryx Malcolm" initials="J" surname="Malcolm">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-773"/>
+  <seriesInfo name="NIST" value="NBS IR 75-773"/>
 </reference>

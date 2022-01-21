@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.5820" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5820.pdf">
   <front>
     <title>Distributed communication methods and role-based access control for use in health care applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5820"/>
-    <seriesInfo name="NIST" value="NIST IR 5820"/>
-    <author fullname="Joseph Poole" initials="J." surname="Poole"/>
-    <author fullname="John Barkley" initials="J." surname="Barkley"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
-    <author fullname="Anthony Cincotta" initials="A." surname="Cincotta"/>
-    <author fullname="Wayne Salamon" initials="W." surname="Salamon"/>
+    <author fullname="Joseph Poole" initials="J." surname="Poole">
+      <organization/>
+    </author>
+    <author fullname="John Barkley" initials="J." surname="Barkley">
+      <organization/>
+    </author>
+    <author fullname="Kevin Brady" initials="K." surname="Brady">
+      <organization/>
+    </author>
+    <author fullname="Anthony Cincotta" initials="A." surname="Cincotta">
+      <organization/>
+    </author>
+    <author fullname="Wayne Salamon" initials="W." surname="Salamon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5820"/>
+  <seriesInfo name="NIST" value="NIST IR 5820"/>
 </reference>

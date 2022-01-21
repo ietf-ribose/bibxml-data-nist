@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8159" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8159.pdf">
   <front>
     <title>Usability testing of a contactless fingerprint device: part 2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8159"/>
-    <seriesInfo name="NIST" value="NIST IR 8159"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+    <author fullname="Brian Stanton" initials="C" surname="Stanton">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="MaryFrances Theofanos" initials="M.F." surname="Theofanos">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Susanne Furman" initials="S." surname="Furman">
+    <author fullname="Susanne Furman" initials="M" surname="Furman">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Patrick Grother" initials="P." surname="Grother">
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8159"/>
+  <seriesInfo name="NIST" value="NIST IR 8159"/>
 </reference>

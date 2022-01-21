@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.3966" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3966.pdf">
   <front>
     <title>A cryogenic 4.4 mn mechanical test system for large scale tests of composite support struts</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3966"/>
-    <seriesInfo name="NIST" value="NIST IR 3966"/>
-    <author surname="Walsh"/>
-    <author surname="Reed"/>
-    <author surname="McColskey"/>
-    <author surname="Fehringer"/>
-    <author surname="Berger"/>
+    <author initials="RP" surname="Walsh">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="JD" surname="McColskey">
+      <organization/>
+    </author>
+    <author initials="W" surname="Fehringer">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Berger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3966"/>
+  <seriesInfo name="NIST" value="NIST IR 3966"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-539" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-539.pdf">
   <front>
     <title>Energy conservation at the NBS laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-539"/>
-    <seriesInfo name="NIST" value="NBS IR 74-539"/>
-    <author fullname="John Hoffman" initials="J." surname="Hoffman"/>
+    <author fullname="John Hoffman" initials="D" surname="Hoffman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-539"/>
+  <seriesInfo name="NIST" value="NBS IR 74-539"/>
 </reference>

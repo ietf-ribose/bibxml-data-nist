@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.203" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote203.pdf">
   <front>
     <title>BOUMAC, a macroprogramming system for scientific computation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.203"/>
-    <seriesInfo name="NIST" value="NBS TN 203"/>
-    <author fullname="John Devenney" initials="J." surname="Devenney"/>
+    <author fullname="John Devenney" initials="H" surname="Devenney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.203"/>
+  <seriesInfo name="NIST" value="NBS TN 203"/>
 </reference>

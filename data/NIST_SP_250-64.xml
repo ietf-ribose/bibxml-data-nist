@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.250-64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-64.pdf">
   <front>
     <title>Calibration service for low-level pulsed-laser radiometers at 1.06 µm :pulse energy and peak power</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-64"/>
-    <seriesInfo name="NIST" value="NIST SP 250-64"/>
-    <author fullname="Rodney Leonhardt" initials="R." surname="Leonhardt"/>
+    <author fullname="Rodney Leonhardt" initials="W" surname="Leonhardt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-64"/>
+  <seriesInfo name="NIST" value="NIST SP 250-64"/>
 </reference>

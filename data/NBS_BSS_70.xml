@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.70" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience70.pdf">
   <front>
     <title>Windows and people :a literature survey</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.70"/>
-    <seriesInfo name="NIST" value="NBS BSS 70"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.70"/>
+  <seriesInfo name="NIST" value="NBS BSS 70"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.943" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication943.pdf">
   <front>
     <title>How are companies and workers preparing for the workforce of the future</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.943"/>
-    <seriesInfo name="NIST" value="NIST SP 943"/>
-    <author fullname="Ralph Richter" initials="R." surname="Richter"/>
-    <author fullname="Ralph Richter" initials="R." surname="Richter"/>
-    <author fullname="Deborah Smyth" initials="D." surname="Smyth"/>
+    <author fullname="Ralph Richter" initials="A" surname="Richter">
+      <organization/>
+    </author>
+    <author fullname="Ralph Richter" initials="A" surname="Richter">
+      <organization/>
+    </author>
+    <author fullname="Deborah Smyth" initials="W" surname="Smyth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.943"/>
+  <seriesInfo name="NIST" value="NIST SP 943"/>
 </reference>

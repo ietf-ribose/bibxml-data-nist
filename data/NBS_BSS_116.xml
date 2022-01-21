@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.116" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience116.pdf">
   <front>
     <title>Geographical variation in the heating and cooling requirements of a typical single-family house, and correlation of these requirements to degree days</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.116"/>
-    <seriesInfo name="NIST" value="NBS BSS 116"/>
-    <author fullname="Edward Arens" initials="E." surname="Arens"/>
-    <author fullname="William Carroll" initials="W." surname="Carroll"/>
+    <author fullname="Edward Arens" initials="A" surname="Arens">
+      <organization/>
+    </author>
+    <author fullname="William Carroll" initials="L" surname="Carroll">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.116"/>
+  <seriesInfo name="NIST" value="NBS BSS 116"/>
 </reference>

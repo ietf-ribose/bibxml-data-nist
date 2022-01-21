@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.3971" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3971.pdf">
   <front>
     <title>Review of cryogenic mechanical and thermal properties of Al-Li alloys and Alloy 2219</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3971"/>
-    <seriesInfo name="NIST" value="NIST IR 3971"/>
-    <author surname="Simon"/>
-    <author surname="Drexler"/>
-    <author surname="Reed"/>
+    <author initials="NJ" surname="Simon">
+      <organization/>
+    </author>
+    <author initials="ES" surname="Drexler">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3971"/>
+  <seriesInfo name="NIST" value="NIST IR 3971"/>
 </reference>

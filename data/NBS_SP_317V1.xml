@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.317v1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication317v1.pdf">
   <front>
     <title>Fundamental aspects of dislocation theory</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.317v1"/>
-    <seriesInfo name="NIST" value="NBS SP 317v1"/>
-    <author fullname="John Simmons" initials="J." surname="Simmons"/>
-    <author surname="de Wit"/>
-    <author surname="Bullough"/>
+    <author fullname="John Simmons" initials="A" surname="Simmons">
+      <organization/>
+    </author>
+    <author initials="R" surname="de Wit">
+      <organization/>
+    </author>
+    <author initials="R" surname="Bullough">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.317v1"/>
+  <seriesInfo name="NIST" value="NBS SP 317v1"/>
 </reference>

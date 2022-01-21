@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7609" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7609.pdf">
   <front>
     <title>Cryptographic key management workshop summary</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7609"/>
-    <seriesInfo name="NIST" value="NIST IR 7609"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker"/>
-    <author fullname="Dennis Branstad" initials="D." surname="Branstad"/>
-    <author fullname="Santosh Chokhani" initials="S." surname="Chokhani"/>
-    <author fullname="Miles Smid" initials="M." surname="Smid"/>
+    <author fullname="Elaine Barker" initials="E." surname="Barker">
+      <organization/>
+    </author>
+    <author fullname="Dennis Branstad" initials="D." surname="Branstad">
+      <organization/>
+    </author>
+    <author fullname="Santosh Chokhani" initials="S." surname="Chokhani">
+      <organization/>
+    </author>
+    <author fullname="Miles Smid" initials="M." surname="Smid">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7609"/>
+  <seriesInfo name="NIST" value="NIST IR 7609"/>
 </reference>

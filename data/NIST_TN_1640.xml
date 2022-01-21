@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1640" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1640.pdf">
   <front>
     <title>FDS wall flows part I :straight channels</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1640"/>
-    <seriesInfo name="NIST" value="NIST TN 1640"/>
-    <author fullname="Randall McDermott" initials="R." surname="McDermott"/>
+    <author fullname="Randall McDermott" initials="J" surname="McDermott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1640"/>
+  <seriesInfo name="NIST" value="NIST TN 1640"/>
 </reference>

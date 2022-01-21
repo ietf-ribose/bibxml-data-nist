@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.32supp" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph32supp.pdf">
   <front>
     <title>Revision of the NBS tables of spectral-line intensities below 2450 Å</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.32supp"/>
-    <seriesInfo name="NIST" value="NBS MONO 32supp"/>
-    <author fullname="Charles Corliss" initials="C." surname="Corliss"/>
+    <author fullname="Charles Corliss" initials="H" surname="Corliss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.32supp"/>
+  <seriesInfo name="NIST" value="NBS MONO 32supp"/>
 </reference>

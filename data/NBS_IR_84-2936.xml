@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2936" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2936.pdf">
   <front>
     <title>Diamonds and diamond sorting</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2936"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2936"/>
-    <author fullname="Eleazer Bromberg" initials="E." surname="Bromberg"/>
-    <author fullname="Francis Sullivan" initials="F." surname="Sullivan"/>
+    <author fullname="Eleazer Bromberg" initials="E." surname="Bromberg">
+      <organization/>
+    </author>
+    <author fullname="Francis Sullivan" initials="F." surname="Sullivan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2936"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2936"/>
 </reference>

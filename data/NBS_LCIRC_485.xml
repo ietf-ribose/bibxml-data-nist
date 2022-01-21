@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.485" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular485.pdf">
   <front>
     <title>Letter Circular 485:optical instruments, refractometry, and optical glass: publications (including those in non-governmental periodicals) (superseding Letter Circular 283)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.485"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 485"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.485"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 485"/>
 </reference>

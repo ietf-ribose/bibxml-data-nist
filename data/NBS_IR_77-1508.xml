@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1508" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1508.pdf">
   <front>
     <title>Human response to fire :three designs for research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1508"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1508"/>
-    <author fullname="Fred Stahl" initials="F." surname="Stahl"/>
+    <author fullname="Fred Stahl" initials="I" surname="Stahl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1508"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1508"/>
 </reference>

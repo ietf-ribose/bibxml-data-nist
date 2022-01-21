@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7777.pdf">
   <front>
     <title>Robust iris recognition baseline for the grand challenge</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7777"/>
-    <seriesInfo name="NIST" value="NIST IR 7777"/>
-    <author fullname="Yooyoung Lee" initials="Y." surname="Lee"/>
-    <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
+    <author fullname="Yooyoung Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Ross Micheals" initials="J" surname="Micheals">
+      <organization/>
+    </author>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="James Filliben" initials="J" surname="Filliben">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7777"/>
+  <seriesInfo name="NIST" value="NIST IR 7777"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1500-18" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-18.pdf">
   <front>
     <title>Research Data Framework (RDaF): Motivation, Development, and a Preliminary Framework Core</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-18"/>
-    <seriesInfo name="NIST" value="NIST SP 1500-18"/>
-    <author fullname="Robert Hanisch" initials="R." surname="Hanisch">
+    <author fullname="Robert Hanisch" initials="J" surname="Hanisch">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Debra Kaiser" initials="D." surname="Kaiser">
+    <author fullname="Debra Kaiser" initials="L" surname="Kaiser">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Bonnie Carroll" initials="B." surname="Carroll">
+    <author fullname="Bonnie Carroll" initials="C" surname="Carroll">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="February" day="24"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-18"/>
+  <seriesInfo name="NIST" value="NIST SP 1500-18"/>
 </reference>

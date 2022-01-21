@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6341" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6341.pdf">
   <front>
     <title>Simulating fire whirls</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6341"/>
-    <seriesInfo name="NIST" value="NIST IR 6341"/>
-    <author fullname="Francine Battaglia" initials="F." surname="Battaglia"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Ronald Rehm" initials="R." surname="Rehm"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
+    <author fullname="Francine Battaglia" initials="F." surname="Battaglia">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Ronald Rehm" initials="G" surname="Rehm">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6341"/>
+  <seriesInfo name="NIST" value="NIST IR 6341"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.8118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8118.pdf">
   <front>
     <title>Evaluation of refractory qualities of concretes for jet aircraft warm-up, power check maintenance aprons, and runways :quarterly report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8118"/>
-    <seriesInfo name="NIST" value="NBS RPT 8118"/>
-    <author surname="Ryan"/>
-    <author surname="Tuma"/>
+    <author initials="JV" surname="Ryan">
+      <organization/>
+    </author>
+    <author initials="EC" surname="Tuma">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8118"/>
+  <seriesInfo name="NIST" value="NBS RPT 8118"/>
 </reference>

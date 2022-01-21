@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.95" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph95.pdf">
   <front>
     <title>A Table of radiation characteristics for uniformly spaced optimum endfire arrays with equal sidelobes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.95"/>
-    <seriesInfo name="NIST" value="NBS MONO 95"/>
-    <author surname="Ma"/>
-    <author surname="Hyovalti"/>
+    <author initials="MT" surname="Ma">
+      <organization/>
+    </author>
+    <author initials="DC" surname="Hyovalti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.95"/>
+  <seriesInfo name="NIST" value="NBS MONO 95"/>
 </reference>

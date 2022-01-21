@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1946" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1946.pdf">
   <front>
     <title>Rheological measurement of suspensions without slippage: experimental and model</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1946"/>
-    <seriesInfo name="NIST" value="NIST TN 1946"/>
     <author fullname="Alex Olivas" initials="A." surname="Olivas">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="Michelle Helsel" initials="M." surname="Helsel">
+    <author fullname="Michelle Helsel" initials="A" surname="Helsel">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Nicos Martys" initials="N." surname="Martys">
@@ -15,7 +13,7 @@
     <author fullname="Chiara Ferraris" initials="C." surname="Ferraris">
       <organization>Engineering Laboratory.</organization>
     </author>
-    <author fullname="William George" initials="W." surname="George">
+    <author fullname="William George" initials="L" surname="George">
       <organization>Engineering Laboratory.</organization>
     </author>
     <author fullname="Raissa Ferron" initials="R." surname="Ferron">
@@ -33,4 +31,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1946"/>
+  <seriesInfo name="NIST" value="NIST TN 1946"/>
 </reference>

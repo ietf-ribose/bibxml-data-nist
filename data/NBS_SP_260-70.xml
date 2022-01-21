@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.260-70" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-70.pdf">
   <front>
     <title>Standard Reference MaterialsPreparation and characterization of an iron-chromium-nickel alloy for microanalysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-70"/>
-    <seriesInfo name="NIST" value="NBS SP 260-70"/>
-    <author surname="Biancaniello"/>
-    <author surname="Boyer"/>
-    <author surname="Ruff"/>
-    <author surname="Marinenko"/>
+    <author initials="F" surname="Biancaniello">
+      <organization/>
+    </author>
+    <author initials="PA" surname="Boyer">
+      <organization/>
+    </author>
+    <author initials="AW" surname="Ruff">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Marinenko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-70"/>
+  <seriesInfo name="NIST" value="NBS SP 260-70"/>
 </reference>

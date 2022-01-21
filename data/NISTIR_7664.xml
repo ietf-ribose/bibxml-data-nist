@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7664" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7664.pdf">
   <front>
     <title>Workshop report :requirements and standards for advanced manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7664"/>
-    <seriesInfo name="NIST" value="NIST IR 7664"/>
-    <author fullname="Roger Eastman" initials="R." surname="Eastman"/>
-    <author fullname="Elena Messina" initials="E." surname="Messina"/>
-    <author fullname="Tsai Hong" initials="T." surname="Hong"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
-    <author fullname="Mike Shneier" initials="M." surname="Shneier"/>
-    <author fullname="Jane Shi" initials="J." surname="Shi"/>
-    <author fullname="James Wells" initials="J." surname="Wells"/>
+    <author fullname="Roger Eastman" initials="R." surname="Eastman">
+      <organization/>
+    </author>
+    <author fullname="Elena Messina" initials="E." surname="Messina">
+      <organization/>
+    </author>
+    <author fullname="Tsai Hong" initials="T." surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="Mike Shneier" initials="M." surname="Shneier">
+      <organization/>
+    </author>
+    <author fullname="Jane Shi" initials="J." surname="Shi">
+      <organization/>
+    </author>
+    <author fullname="James Wells" initials="J." surname="Wells">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7664"/>
+  <seriesInfo name="NIST" value="NIST IR 7664"/>
 </reference>

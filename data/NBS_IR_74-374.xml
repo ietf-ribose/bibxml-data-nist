@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-374" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-374.pdf">
   <front>
     <title>Thermodynamic and related properties of parahydrogen from the triple point to 300 k at pressures to 1000 bar</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-374"/>
-    <seriesInfo name="NIST" value="NBS IR 74-374"/>
-    <author surname="Weber"/>
+    <author initials="LA" surname="Weber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-374"/>
+  <seriesInfo name="NIST" value="NBS IR 74-374"/>
 </reference>

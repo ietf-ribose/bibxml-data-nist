@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5519" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5519.pdf">
   <front>
     <title>Visual measurement technique for analysis of nucleate flow boiling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5519"/>
-    <seriesInfo name="NIST" value="NIST IR 5519"/>
-    <author fullname="Anthony Jacobi" initials="A." surname="Jacobi"/>
-    <author fullname="(Winston) Zhang" initials="(." surname="Zhang"/>
+    <author fullname="Anthony Jacobi" initials="M" surname="Jacobi">
+      <organization/>
+    </author>
+    <author fullname="(Winston) Zhang" initials="L" surname="Zhang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5519"/>
+  <seriesInfo name="NIST" value="NIST IR 5519"/>
 </reference>

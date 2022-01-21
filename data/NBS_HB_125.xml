@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook125.pdf">
   <front>
     <title>OMNIDATA: an interactive system for data retrieval, statistical and graphical analysis, and data-base management: a user's manual</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.125"/>
-    <seriesInfo name="NIST" value="NBS HB 125"/>
-    <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath"/>
-    <author fullname="Bettijoyce Breen" initials="B." surname="Breen"/>
+    <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath">
+      <organization/>
+    </author>
+    <author fullname="Bettijoyce Breen" initials="B." surname="Breen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.125"/>
+  <seriesInfo name="NIST" value="NBS HB 125"/>
 </reference>

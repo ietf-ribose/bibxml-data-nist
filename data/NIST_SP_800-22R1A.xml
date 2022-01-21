@@ -1,21 +1,45 @@
 <reference anchor="NIST.SP.800-22r1a" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-22r1a.pdf">
   <front>
     <title>A statistical test suite for random and pseudorandom number generators for cryptographic applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-22r1a"/>
-    <seriesInfo name="NIST" value="NIST SP 800-22r1a"/>
-    <author surname="Bassham"/>
-    <author surname="Rukhin"/>
-    <author surname="Soto"/>
-    <author surname="Nechvatal"/>
-    <author surname="Smid"/>
-    <author surname="Barker"/>
-    <author surname="Leigh"/>
-    <author surname="Levenson"/>
-    <author surname="Vangel"/>
-    <author surname="Banks"/>
-    <author surname="Heckert"/>
-    <author surname="Dray"/>
-    <author surname="Vo"/>
+    <author initials="LE" surname="Bassham">
+      <organization/>
+    </author>
+    <author initials="AL" surname="Rukhin">
+      <organization/>
+    </author>
+    <author initials="J" surname="Soto">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Nechvatal">
+      <organization/>
+    </author>
+    <author initials="ME" surname="Smid">
+      <organization/>
+    </author>
+    <author initials="EB" surname="Barker">
+      <organization/>
+    </author>
+    <author initials="SD" surname="Leigh">
+      <organization/>
+    </author>
+    <author initials="M" surname="Levenson">
+      <organization/>
+    </author>
+    <author initials="M" surname="Vangel">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Banks">
+      <organization/>
+    </author>
+    <author initials="NA" surname="Heckert">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Dray">
+      <organization/>
+    </author>
+    <author initials="S" surname="Vo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -28,4 +52,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-22r1a"/>
+  <seriesInfo name="NIST" value="NIST SP 800-22r1a"/>
 </reference>

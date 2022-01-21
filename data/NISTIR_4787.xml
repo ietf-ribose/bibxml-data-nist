@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4787" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4787.pdf">
   <front>
     <title>Status report for first quarter, FY 92 (1 October through 31 December 1991)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4787"/>
-    <seriesInfo name="NIST" value="NIST IR 4787"/>
-    <author fullname="Howard Bloom" initials="H." surname="Bloom"/>
+    <author fullname="Howard Bloom" initials="M" surname="Bloom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4787"/>
+  <seriesInfo name="NIST" value="NIST IR 4787"/>
 </reference>

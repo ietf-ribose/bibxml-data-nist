@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote100.pdf">
   <front>
     <title>Required signal-to-noise ratios, RF signal power, and bandwith for multichannel radio communications systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.100"/>
-    <seriesInfo name="NIST" value="NBS TN 100"/>
-    <author surname="Florman"/>
+    <author initials="EF" surname="Florman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.100"/>
+  <seriesInfo name="NIST" value="NBS TN 100"/>
 </reference>

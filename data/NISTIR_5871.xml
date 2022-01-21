@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5871" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5871.pdf">
   <front>
     <title>Report on USDA ultraviolet spectroradiometers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5871"/>
-    <seriesInfo name="NIST" value="NIST IR 5871"/>
-    <author surname="Early"/>
-    <author fullname="Ambler Thompson" initials="A." surname="Thompson"/>
+    <author initials="EA" surname="Early">
+      <organization/>
+    </author>
+    <author fullname="Ambler Thompson" initials="A." surname="Thompson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5871"/>
+  <seriesInfo name="NIST" value="NIST IR 5871"/>
 </reference>

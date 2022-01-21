@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.874" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote874.pdf">
   <front>
     <title>Software testing for network services</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.874"/>
-    <seriesInfo name="NIST" value="NBS TN 874"/>
-    <author fullname="Rona Stillman" initials="R." surname="Stillman"/>
+    <author fullname="Rona Stillman" initials="B" surname="Stillman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.874"/>
+  <seriesInfo name="NIST" value="NBS TN 874"/>
 </reference>

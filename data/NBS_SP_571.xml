@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.571" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication571.pdf">
   <front>
     <title>Organizations engaged in preparing standards for dental materials and therapeutic agents with a list of standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.571"/>
-    <seriesInfo name="NIST" value="NBS SP 571"/>
-    <author surname="Paffenbarger"/>
-    <author surname="Rupp"/>
-    <author fullname="Margaret Malmstedt" initials="M." surname="Malmstedt"/>
+    <author initials="GC" surname="Paffenbarger">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Rupp">
+      <organization/>
+    </author>
+    <author fullname="Margaret Malmstedt" initials="M." surname="Malmstedt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.571"/>
+  <seriesInfo name="NIST" value="NBS SP 571"/>
 </reference>

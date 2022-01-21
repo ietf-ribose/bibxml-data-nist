@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-4251" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4251.pdf">
   <front>
     <title>Analysis of computational parallelism with a concurrent hierarchical robot control system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4251"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4251"/>
-    <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
-    <author fullname="Thomas Wheatley" initials="T." surname="Wheatley"/>
-    <author fullname="Ronald Lumia" initials="R." surname="Lumia"/>
+    <author fullname="John Michaloski" initials="L" surname="Michaloski">
+      <organization/>
+    </author>
+    <author fullname="Thomas Wheatley" initials="E" surname="Wheatley">
+      <organization/>
+    </author>
+    <author fullname="Ronald Lumia" initials="R." surname="Lumia">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4251"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4251"/>
 </reference>

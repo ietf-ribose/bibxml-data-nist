@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.456" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication456.pdf">
   <front>
     <title>Measurements for the safe use of radiation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.456"/>
-    <seriesInfo name="NIST" value="NBS SP 456"/>
-    <author fullname="Sherman Fivozinsky" initials="S." surname="Fivozinsky"/>
+    <author fullname="Sherman Fivozinsky" initials="P" surname="Fivozinsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.456"/>
+  <seriesInfo name="NIST" value="NBS SP 456"/>
 </reference>

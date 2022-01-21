@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7324" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7324.pdf">
   <front>
     <title>Analysis catalog for the focus 3D telemodeling tool</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7324"/>
-    <seriesInfo name="NIST" value="NIST IR 7324"/>
-    <author fullname="Arthur Greisser" initials="A." surname="Greisser"/>
+    <author fullname="Arthur Greisser" initials="F" surname="Greisser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7324"/>
+  <seriesInfo name="NIST" value="NIST IR 7324"/>
 </reference>

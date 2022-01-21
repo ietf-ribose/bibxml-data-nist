@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.75-822" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-822.pdf">
   <front>
     <title>Study of errors in absolute flux density measurements of Cassiopeia A</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-822"/>
-    <seriesInfo name="NIST" value="NBS IR 75-822"/>
-    <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
+    <author fullname="Motohisa Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-822"/>
+  <seriesInfo name="NIST" value="NBS IR 75-822"/>
 </reference>

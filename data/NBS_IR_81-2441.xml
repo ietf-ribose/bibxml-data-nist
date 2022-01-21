@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2441" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2441.pdf">
   <front>
     <title>National Measurement Laboratory Office of Measurements for Nuclear Technology :annual Report 1981</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2441"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2441"/>
-    <author fullname="John Hoffman" initials="J." surname="Hoffman"/>
-    <author fullname="Thomas Yolken" initials="T." surname="Yolken"/>
-    <author surname="Reed"/>
+    <author fullname="John Hoffman" initials="D" surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Thomas Yolken" initials="H" surname="Yolken">
+      <organization/>
+    </author>
+    <author initials="WP" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2441"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2441"/>
 </reference>

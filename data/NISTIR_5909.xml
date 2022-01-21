@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.5909" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5909.pdf">
   <front>
     <title>Group 1 for the process engineering data STEP application protocol</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5909"/>
-    <seriesInfo name="NIST" value="NIST IR 5909"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline"/>
-    <author fullname="Mark Palmer" initials="M." surname="Palmer"/>
-    <author fullname="Neal Appel" initials="N." surname="Appel"/>
-    <author fullname="Mitch Gilbert" initials="M." surname="Gilbert"/>
+    <author fullname="Steven Kline" initials="W" surname="Kline">
+      <organization/>
+    </author>
+    <author fullname="Mark Palmer" initials="E" surname="Palmer">
+      <organization/>
+    </author>
+    <author fullname="Neal Appel" initials="N." surname="Appel">
+      <organization/>
+    </author>
+    <author fullname="Mitch Gilbert" initials="M." surname="Gilbert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5909"/>
+  <seriesInfo name="NIST" value="NIST IR 5909"/>
 </reference>

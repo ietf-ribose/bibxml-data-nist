@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6773" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6773.pdf">
   <front>
     <title>Infrared absorptivity temperature dependence of gas phase methanol and sulfur dioxide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6773"/>
-    <seriesInfo name="NIST" value="NIST IR 6773"/>
-    <author surname="Chu"/>
-    <author surname="Rhoderick"/>
-    <author surname="Johnson"/>
+    <author initials="PM" surname="Chu">
+      <organization/>
+    </author>
+    <author initials="GC" surname="Rhoderick">
+      <organization/>
+    </author>
+    <author initials="PA" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6773"/>
+  <seriesInfo name="NIST" value="NIST IR 6773"/>
 </reference>

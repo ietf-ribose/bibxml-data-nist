@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1916" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1916.pdf">
   <front>
     <title>Methods for characterizing a radiation detector for specifying radiation fields during testing against standards for homeland security applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1916"/>
-    <seriesInfo name="NIST" value="NIST TN 1916"/>
-    <author surname="Sallaska">
+    <author initials="AL" surname="Sallaska">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Pibida">
+    <author initials="L" surname="Pibida">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="Minniti">
+    <author initials="B" surname="Minniti">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author surname="O'Brien">
+    <author initials="CM" surname="O'Brien">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2016" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1916"/>
+  <seriesInfo name="NIST" value="NIST TN 1916"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.50" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook50.pdf">
   <front>
     <title>X-ray protection design</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.50"/>
-    <seriesInfo name="NIST" value="NBS HB 50"/>
-    <author fullname="Harold Wyckoff" initials="H." surname="Wyckoff"/>
-    <author fullname="Lauriston Taylor" initials="L." surname="Taylor"/>
+    <author fullname="Harold Wyckoff" initials="O" surname="Wyckoff">
+      <organization/>
+    </author>
+    <author fullname="Lauriston Taylor" initials="S" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1952"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.50"/>
+  <seriesInfo name="NIST" value="NBS HB 50"/>
 </reference>

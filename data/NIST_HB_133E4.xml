@@ -1,10 +1,12 @@
 <reference anchor="NIST.HB.133e4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook133e4-2002.pdf">
   <front>
     <title>Checking the net contents of packaged goods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.133e4"/>
-    <seriesInfo name="NIST" value="NIST HB 133e4"/>
-    <author fullname="Thomas Coleman" initials="T." surname="Coleman"/>
-    <author fullname="Terry Grimes" initials="T." surname="Grimes"/>
+    <author fullname="Thomas Coleman" initials="T." surname="Coleman">
+      <organization/>
+    </author>
+    <author fullname="Terry Grimes" initials="T." surname="Grimes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.133e4"/>
+  <seriesInfo name="NIST" value="NIST HB 133e4"/>
 </reference>

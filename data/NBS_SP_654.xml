@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.654" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication654.pdf">
   <front>
     <title>NVLAP sixth annual report and directory of accredited laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.654"/>
-    <seriesInfo name="NIST" value="NBS SP 654"/>
-    <author fullname="Wiley Hall" initials="W." surname="Hall"/>
+    <author fullname="Wiley Hall" initials="W." surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.654"/>
+  <seriesInfo name="NIST" value="NBS SP 654"/>
 </reference>

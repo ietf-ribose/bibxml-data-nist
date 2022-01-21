@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.800-40ver2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-40ver2.pdf">
   <front>
     <title>Creating a patch and vulnerability management program</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-40ver2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-40ver2"/>
-    <author surname="Mell"/>
-    <author surname="Bergeron"/>
-    <author surname="Henning"/>
+    <author initials="PM" surname="Mell">
+      <organization/>
+    </author>
+    <author initials="T" surname="Bergeron">
+      <organization/>
+    </author>
+    <author initials="D" surname="Henning">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-40ver2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-40ver2"/>
 </reference>

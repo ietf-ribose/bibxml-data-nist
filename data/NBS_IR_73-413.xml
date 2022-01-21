@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-413" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-413.pdf">
   <front>
     <title>Measurement of depth-dose distributions in carbon, aluminum, polyethylene, and polystyrene for 10-MEV incident electrons</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-413"/>
-    <seriesInfo name="NIST" value="NBS IR 73-413"/>
-    <author surname="Humphreys"/>
-    <author surname="Chappell"/>
-    <author surname="McLaughlin"/>
-    <author surname="Jarrett"/>
+    <author initials="JC" surname="Humphreys">
+      <organization/>
+    </author>
+    <author initials="SE" surname="Chappell">
+      <organization/>
+    </author>
+    <author initials="WL" surname="McLaughlin">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Jarrett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-413"/>
+  <seriesInfo name="NIST" value="NBS IR 73-413"/>
 </reference>

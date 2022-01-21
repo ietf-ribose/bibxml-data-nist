@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-1477" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1477.pdf">
   <front>
     <title>Exploratory study of temperatures produced by self-heating of residential branch circuit wiring when surrounded by thermal insulation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1477"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1477"/>
-    <author fullname="Robert Beausoliel" initials="R." surname="Beausoliel"/>
-    <author fullname="William Meese" initials="W." surname="Meese"/>
-    <author fullname="Lawrence Galowin" initials="L." surname="Galowin"/>
+    <author fullname="Robert Beausoliel" initials="W" surname="Beausoliel">
+      <organization/>
+    </author>
+    <author fullname="William Meese" initials="J" surname="Meese">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Galowin" initials="S" surname="Galowin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1477"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1477"/>
 </reference>

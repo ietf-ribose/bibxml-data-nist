@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook114.pdf">
   <front>
     <title>General safety standard for installations using non-medical x-ray and sealed gamma-ray sources, energies up to 10 MeV</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.114"/>
-    <seriesInfo name="NIST" value="NBS HB 114"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.114"/>
+  <seriesInfo name="NIST" value="NBS HB 114"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6874" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6874.pdf">
   <front>
     <title>User preferences for life-cycle decision support tools:evaluation of a survey of BEES users</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6874"/>
-    <seriesInfo name="NIST" value="NIST IR 6874"/>
-    <author fullname="Patrick Hofstetter" initials="P." surname="Hofstetter"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
-    <author fullname="Jane Bare" initials="J." surname="Bare"/>
-    <author fullname="Amy Rushing" initials="A." surname="Rushing"/>
+    <author fullname="Patrick Hofstetter" initials="P." surname="Hofstetter">
+      <organization/>
+    </author>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
+    <author fullname="Jane Bare" initials="C" surname="Bare">
+      <organization/>
+    </author>
+    <author fullname="Amy Rushing" initials="S" surname="Rushing">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6874"/>
+  <seriesInfo name="NIST" value="NIST IR 6874"/>
 </reference>

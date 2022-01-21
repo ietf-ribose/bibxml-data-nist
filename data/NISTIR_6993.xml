@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6993" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6993.pdf">
   <front>
     <title>Thermal performance for fire-fighters' protective clothing. 3. simulating a TPP test for single-layered fabrics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6993"/>
-    <seriesInfo name="NIST" value="NIST IR 6993"/>
-    <author fullname="Scott Kukuck" initials="S." surname="Kukuck"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
+    <author fullname="Scott Kukuck" initials="S." surname="Kukuck">
+      <organization/>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6993"/>
+  <seriesInfo name="NIST" value="NIST IR 6993"/>
 </reference>

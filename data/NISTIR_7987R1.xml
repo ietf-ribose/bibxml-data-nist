@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.7987r1" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7987r1.pdf">
   <front>
     <title>Policy Machine: Features, Architecture, and Specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7987r1"/>
-    <seriesInfo name="NIST" value="NIST IR 7987r1"/>
-    <author fullname="David Ferraiolo" initials="D." surname="Ferraiolo">
+    <author fullname="David Ferraiolo" initials="F" surname="Ferraiolo">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Serban Gavrila" initials="S." surname="Gavrila">
+    <author fullname="Serban Gavrila" initials="I" surname="Gavrila">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Wayne Jansen" initials="W." surname="Jansen">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman">
+    <author fullname="Paul Stutzman" initials="E" surname="Stutzman">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7987r1"/>
+  <seriesInfo name="NIST" value="NIST IR 7987r1"/>
 </reference>

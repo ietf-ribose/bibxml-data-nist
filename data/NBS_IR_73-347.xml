@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-347" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-347.pdf">
   <front>
     <title>Active and passive mode locking of continuously operating rhodamine 6G dye lasers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-347"/>
-    <seriesInfo name="NIST" value="NBS IR 73-347"/>
-    <author fullname="Andre Scavennec" initials="A." surname="Scavennec"/>
-    <author fullname="Norris Nahman" initials="N." surname="Nahman"/>
+    <author fullname="Andre Scavennec" initials="A." surname="Scavennec">
+      <organization/>
+    </author>
+    <author fullname="Norris Nahman" initials="S" surname="Nahman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-347"/>
+  <seriesInfo name="NIST" value="NBS IR 73-347"/>
 </reference>

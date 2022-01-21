@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.8037" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8037.pdf">
   <front>
     <title>Standardization of thermal emittance measurements :progress report no. 18, January 1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8037"/>
-    <seriesInfo name="NIST" value="NBS RPT 8037"/>
-    <author fullname="Horace Joseph" initials="H." surname="Joseph"/>
-    <author fullname="William Harrison" initials="W." surname="Harrison"/>
+    <author fullname="Horace Joseph" initials="M" surname="Joseph">
+      <organization/>
+    </author>
+    <author fullname="William Harrison" initials="N" surname="Harrison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8037"/>
+  <seriesInfo name="NIST" value="NBS RPT 8037"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.467v1" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular467v1.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 467:</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.467v1"/>
-    <seriesInfo name="NIST" value="NBS CIRC 467v1"/>
-    <author fullname="Charlotte Moore" initials="C." surname="Moore"/>
+    <author fullname="Charlotte Moore" initials="E" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.467v1"/>
+  <seriesInfo name="NIST" value="NBS CIRC 467v1"/>
 </reference>

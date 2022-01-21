@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7730" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7730.pdf">
   <front>
     <title>Further studies of bootstrap variability for ROC analysis on large datasets</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7730"/>
-    <seriesInfo name="NIST" value="NIST IR 7730"/>
-    <author fullname="JinChu Wu" initials="J.C." surname="Wu"/>
-    <author fullname="Alvin Martin" initials="A." surname="Martin"/>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker"/>
+    <author fullname="JinChu Wu" initials="J.C." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="Alvin Martin" initials="F" surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="Raghu Kacker" initials="N" surname="Kacker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7730"/>
+  <seriesInfo name="NIST" value="NIST IR 7730"/>
 </reference>

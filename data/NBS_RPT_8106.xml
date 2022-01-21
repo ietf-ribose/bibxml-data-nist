@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8106" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8106.pdf">
   <front>
     <title>Field tests of airfield lighting cable connections</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8106"/>
-    <seriesInfo name="NIST" value="NBS RPT 8106"/>
-    <author fullname="James Davis" initials="J." surname="Davis"/>
+    <author fullname="James Davis" initials="E" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8106"/>
+  <seriesInfo name="NIST" value="NBS RPT 8106"/>
 </reference>

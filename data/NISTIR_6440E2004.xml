@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6440e2004" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6440e2004.pdf">
   <front>
     <title>NVCASE program handbook:procedures for obtaining NIST recognition as an accreditor</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6440e2004"/>
-    <seriesInfo name="NIST" value="NIST IR 6440e2004"/>
-    <author fullname="Jogindar Dhillon" initials="J." surname="Dhillon"/>
-    <author fullname="David Alderman" initials="D." surname="Alderman"/>
+    <author fullname="Jogindar Dhillon" initials="S" surname="Dhillon">
+      <organization/>
+    </author>
+    <author fullname="David Alderman" initials="F" surname="Alderman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6440e2004"/>
+  <seriesInfo name="NIST" value="NIST IR 6440e2004"/>
 </reference>

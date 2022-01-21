@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.82-2532" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2532.pdf">
   <front>
     <title>Further development of a test method for the assessment of the acute inhalation toxicity of combustion products</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2532"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2532"/>
-    <author fullname="Barbara Levin" initials="B." surname="Levin"/>
-    <author fullname="Andrew Fowell" initials="A." surname="Fowell"/>
-    <author fullname="Merritt Birky" initials="M." surname="Birky"/>
-    <author fullname="Maya Paabo" initials="M." surname="Paabo"/>
-    <author fullname="Alan Stolte" initials="A." surname="Stolte"/>
-    <author fullname="Dolores Malek" initials="D." surname="Malek"/>
+    <author fullname="Barbara Levin" initials="C" surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="Andrew Fowell" initials="J" surname="Fowell">
+      <organization/>
+    </author>
+    <author fullname="Merritt Birky" initials="M" surname="Birky">
+      <organization/>
+    </author>
+    <author fullname="Maya Paabo" initials="M." surname="Paabo">
+      <organization/>
+    </author>
+    <author fullname="Alan Stolte" initials="A." surname="Stolte">
+      <organization/>
+    </author>
+    <author fullname="Dolores Malek" initials="D." surname="Malek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2532"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2532"/>
 </reference>

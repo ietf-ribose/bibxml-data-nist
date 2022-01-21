@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2105" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2105.pdf">
   <front>
     <title>Camp Fire Reconnaissance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2105"/>
-    <seriesInfo name="NIST" value="NIST TN 2105"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -35,4 +33,6 @@
     </author>
     <date year="2020" month="August" day="27"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2105"/>
+  <seriesInfo name="NIST" value="NIST TN 2105"/>
 </reference>

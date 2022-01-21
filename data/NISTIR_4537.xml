@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4537" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4537.pdf">
   <front>
     <title>Center for Electronics and Electrical Engineering:technical publication announcements covering center programs, July to September 1990, with 1991 CEEE events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4537"/>
-    <seriesInfo name="NIST" value="NIST IR 4537"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4537"/>
+  <seriesInfo name="NIST" value="NIST IR 4537"/>
 </reference>

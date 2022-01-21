@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.1110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1110.pdf">
   <front>
     <title>2010 NIST Center for Neutron Research :accomplishments and opportunities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1110"/>
-    <seriesInfo name="NIST" value="NIST SP 1110"/>
-    <author fullname="Ronald Cappelletti" initials="R." surname="Cappelletti"/>
+    <author fullname="Ronald Cappelletti" initials="L" surname="Cappelletti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1110"/>
+  <seriesInfo name="NIST" value="NIST SP 1110"/>
 </reference>

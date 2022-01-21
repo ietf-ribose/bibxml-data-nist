@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4448" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4448.pdf">
   <front>
     <title>Working implementation agreements for open systems interconnection protocols</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4448"/>
-    <seriesInfo name="NIST" value="NIST IR 4448"/>
-    <author fullname="Tim Boland" initials="T." surname="Boland"/>
+    <author fullname="Tim Boland" initials="T." surname="Boland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4448"/>
+  <seriesInfo name="NIST" value="NIST IR 4448"/>
 </reference>

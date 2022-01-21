@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1616" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1616.pdf">
   <front>
     <title>Titanium combustion in turbine engines</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1616"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1616"/>
-    <author fullname="Thomas Strobridge" initials="T." surname="Strobridge"/>
-    <author fullname="John Moulder" initials="J." surname="Moulder"/>
-    <author fullname="Alan Clark" initials="A." surname="Clark"/>
+    <author fullname="Thomas Strobridge" initials="R" surname="Strobridge">
+      <organization/>
+    </author>
+    <author fullname="John Moulder" initials="C" surname="Moulder">
+      <organization/>
+    </author>
+    <author fullname="Alan Clark" initials="F" surname="Clark">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1616"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1616"/>
 </reference>

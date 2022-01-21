@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6329" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6329.pdf">
   <front>
     <title>Linear static and dynamic procedures for structures with velocity-dependent supplemental dampers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6329"/>
-    <seriesInfo name="NIST" value="NIST IR 6329"/>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek"/>
-    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz"/>
-    <author fullname="Michael Riley" initials="M." surname="Riley"/>
+    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+      <organization/>
+    </author>
+    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz">
+      <organization/>
+    </author>
+    <author fullname="Michael Riley" initials="A" surname="Riley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6329"/>
+  <seriesInfo name="NIST" value="NIST IR 6329"/>
 </reference>

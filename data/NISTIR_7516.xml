@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7516" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7516.pdf">
   <front>
     <title>Forensic filtering of cell phone protocols</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7516"/>
-    <seriesInfo name="NIST" value="NIST IR 7516"/>
-    <author fullname="Aurelien Delaitre" initials="A." surname="Delaitre"/>
-    <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
+    <author fullname="Aurelien Delaitre" initials="A." surname="Delaitre">
+      <organization/>
+    </author>
+    <author fullname="Wayne Jansen" initials="W." surname="Jansen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7516"/>
+  <seriesInfo name="NIST" value="NIST IR 7516"/>
 </reference>

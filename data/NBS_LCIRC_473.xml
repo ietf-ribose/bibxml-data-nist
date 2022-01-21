@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.473" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular473.pdf">
   <front>
     <title>Letter Circular 473:photoelectric colorimeters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.473"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 473"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.473"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 473"/>
 </reference>

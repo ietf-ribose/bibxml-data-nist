@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.655" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote655.pdf">
   <front>
     <title>Cryogenic refrigerators :An updated survey</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.655"/>
-    <seriesInfo name="NIST" value="NBS TN 655"/>
-    <author fullname="Truman Strobridge" initials="T." surname="Strobridge"/>
+    <author fullname="Truman Strobridge" initials="R" surname="Strobridge">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.655"/>
+  <seriesInfo name="NIST" value="NBS TN 655"/>
 </reference>

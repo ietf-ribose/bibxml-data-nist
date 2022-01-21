@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.260-214" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-214.pdf">
   <front>
     <title>Analysis of Seafood Reference Materials: RM 8256, RM 8257, RM 8258 and RM 8259, Wild-Caught Coho Salmon (RM 8256), Aquacultured Coho Salmon (RM 8257), Wild-Caught Shrimp (RM 8258), Aquacultured Shrimp (RM 8259)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-214"/>
-    <seriesInfo name="NIST" value="NIST SP 260-214"/>
-    <author fullname="Debra Ellisor" initials="D." surname="Ellisor">
+    <author fullname="Debra Ellisor" initials="L" surname="Ellisor">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Benjamin Place" initials="B." surname="Place">
@@ -20,4 +18,6 @@
     </author>
     <date year="2021" month="August" day="30"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-214"/>
+  <seriesInfo name="NIST" value="NIST SP 260-214"/>
 </reference>

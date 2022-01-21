@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.82-2490" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2490.pdf">
   <front>
     <title>An introduction to chemiluminescence methods for lubricant oxidation studies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2490"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2490"/>
-    <author surname="Clark"/>
-    <author surname="Weeks"/>
-    <author surname="Hsu"/>
+    <author initials="DB" surname="Clark">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Weeks">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Hsu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2490"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2490"/>
 </reference>

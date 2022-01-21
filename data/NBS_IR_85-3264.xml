@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3264" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3264.pdf">
   <front>
     <title>A methodology for assessing the thermal performance of low-sloped roofing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3264"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3264"/>
-    <author surname="Treado"/>
-    <author surname="Rossiter"/>
-    <author surname="Mathey"/>
+    <author initials="SJ" surname="Treado">
+      <organization/>
+    </author>
+    <author initials="WJ" surname="Rossiter">
+      <organization/>
+    </author>
+    <author initials="RG" surname="Mathey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3264"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3264"/>
 </reference>

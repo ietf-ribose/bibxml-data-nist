@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5673" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5673.pdf">
   <front>
     <title>Information technologies make business sense for the custom therapeutic footwear industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5673"/>
-    <seriesInfo name="NIST" value="NIST IR 5673"/>
-    <author fullname="Howard Moncarz" initials="H." surname="Moncarz"/>
+    <author fullname="Howard Moncarz" initials="T" surname="Moncarz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5673"/>
+  <seriesInfo name="NIST" value="NIST IR 5673"/>
 </reference>

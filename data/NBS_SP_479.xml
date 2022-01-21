@@ -1,14 +1,24 @@
 <reference anchor="NBS.SP.479" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication479.pdf">
   <front>
     <title>Corrosion and metal artifacts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.479"/>
-    <seriesInfo name="NIST" value="NBS SP 479"/>
-    <author fullname="Floyd Brown" initials="F." surname="Brown"/>
-    <author fullname="Harry Burnett" initials="H." surname="Burnett"/>
-    <author fullname="Thomas Chase" initials="T." surname="Chase"/>
-    <author fullname="Martha Goodway" initials="M." surname="Goodway"/>
-    <author fullname="Jerome Kruger" initials="J." surname="Kruger"/>
-    <author fullname="Marce Pourbaix" initials="M." surname="Pourbaix"/>
+    <author fullname="Floyd Brown" initials="B" surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="Harry Burnett" initials="C" surname="Burnett">
+      <organization/>
+    </author>
+    <author fullname="Thomas Chase" initials="W" surname="Chase">
+      <organization/>
+    </author>
+    <author fullname="Martha Goodway" initials="M." surname="Goodway">
+      <organization/>
+    </author>
+    <author fullname="Jerome Kruger" initials="J." surname="Kruger">
+      <organization/>
+    </author>
+    <author fullname="Marce Pourbaix" initials="M." surname="Pourbaix">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.479"/>
+  <seriesInfo name="NIST" value="NBS SP 479"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8316" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8316.pdf">
   <front>
     <title>Internet of Things (IoT) component capability model for research testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8316"/>
-    <seriesInfo name="NIST" value="NIST IR 8316"/>
     <author fullname="Eric Simmon" initials="E." surname="Simmon">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8316"/>
+  <seriesInfo name="NIST" value="NIST IR 8316"/>
 </reference>

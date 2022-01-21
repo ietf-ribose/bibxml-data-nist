@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.2100-02" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.2100-02.pdf">
   <front>
     <title>Notes from the NIST Research Innovation to Implementation in Forensic Science Symposium (RI2I):June 19-20, 2019</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.2100-02"/>
-    <seriesInfo name="NIST" value="NIST SP 2100-02"/>
-    <author fullname="Richard Cavanagh" initials="R." surname="Cavanagh">
+    <author fullname="Richard Cavanagh" initials="R" surname="Cavanagh">
       <organization>Special Programs Office.</organization>
     </author>
     <author fullname="Aislinn Berge" initials="A." surname="Berge">
@@ -45,4 +43,6 @@
     </author>
     <date year="2019" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.2100-02"/>
+  <seriesInfo name="NIST" value="NIST SP 2100-02"/>
 </reference>

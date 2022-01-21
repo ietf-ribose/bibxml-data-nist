@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote193.pdf">
   <front>
     <title>A bibliography of foreign developments in machine translation and information processing.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.193"/>
-    <seriesInfo name="NIST" value="NBS TN 193"/>
-    <author fullname="Josephine Walkowicz" initials="J." surname="Walkowicz"/>
+    <author fullname="Josephine Walkowicz" initials="L" surname="Walkowicz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.193"/>
+  <seriesInfo name="NIST" value="NBS TN 193"/>
 </reference>

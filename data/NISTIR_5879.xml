@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5879" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5879.pdf">
   <front>
     <title>Conformance testing and specification management</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5879"/>
-    <seriesInfo name="NIST" value="NIST IR 5879"/>
-    <author fullname="JamesSt Pierre" initials="J.S." surname="Pierre"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
-    <author surname="Stewart"/>
+    <author fullname="JamesSt Pierre" initials="A" surname="Pierre">
+      <organization/>
+    </author>
+    <author fullname="Kevin Brady" initials="G" surname="Brady">
+      <organization/>
+    </author>
+    <author initials="SL" surname="Stewart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5879"/>
+  <seriesInfo name="NIST" value="NIST IR 5879"/>
 </reference>

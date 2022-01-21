@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-564" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-564.pdf">
   <front>
     <title>Development and analysis of techniques for calibration of Kerr cell pulse-voltage measuring systems VIII</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-564"/>
-    <seriesInfo name="NIST" value="NBS IR 74-564"/>
-    <author fullname="Robert Hebner" initials="R." surname="Hebner"/>
-    <author fullname="EstherChristmas Cassidy" initials="E.C." surname="Cassidy"/>
-    <author fullname="Richard Sojka" initials="R." surname="Sojka"/>
+    <author fullname="Robert Hebner" initials="E" surname="Hebner">
+      <organization/>
+    </author>
+    <author fullname="EstherChristmas Cassidy" initials="E.C." surname="Cassidy">
+      <organization/>
+    </author>
+    <author fullname="Richard Sojka" initials="J" surname="Sojka">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-564"/>
+  <seriesInfo name="NIST" value="NBS IR 74-564"/>
 </reference>

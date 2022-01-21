@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote531.pdf">
   <front>
     <title>ARPA-NBS program of research on high temperature materials :reporting period July 1 to December 31, 1969</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.531"/>
-    <seriesInfo name="NIST" value="NBS TN 531"/>
-    <author fullname="Herbert Bennett" initials="H." surname="Bennett"/>
-    <author fullname="Alan Franklin" initials="A." surname="Franklin"/>
+    <author fullname="Herbert Bennett" initials="S" surname="Bennett">
+      <organization/>
+    </author>
+    <author fullname="Alan Franklin" initials="D" surname="Franklin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.531"/>
+  <seriesInfo name="NIST" value="NBS TN 531"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.262" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote262.pdf">
   <front>
     <title>Accuracy in measurements and calibrations, 1965</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.262"/>
-    <seriesInfo name="NIST" value="NBS TN 262"/>
-    <author surname="Wildhack"/>
+    <author initials="WA" surname="Wildhack">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.262"/>
+  <seriesInfo name="NIST" value="NBS TN 262"/>
 </reference>

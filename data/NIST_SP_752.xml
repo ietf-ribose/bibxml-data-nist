@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.752" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication752.pdf">
   <front>
     <title>Laser induced damage in opticla materials 1986</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.752"/>
-    <seriesInfo name="NIST" value="NIST SP 752"/>
-    <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
-    <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
-    <author fullname="Arthur Guenther" initials="A." surname="Guenther"/>
-    <author fullname="David Milam" initials="D." surname="Milam"/>
-    <author fullname="Brian Newnam" initials="B." surname="Newnam"/>
+    <author fullname="Harold Bennett" initials="E" surname="Bennett">
+      <organization/>
+    </author>
+    <author fullname="Harold Bennett" initials="E" surname="Bennett">
+      <organization/>
+    </author>
+    <author fullname="Arthur Guenther" initials="H" surname="Guenther">
+      <organization/>
+    </author>
+    <author fullname="David Milam" initials="D." surname="Milam">
+      <organization/>
+    </author>
+    <author fullname="Brian Newnam" initials="E" surname="Newnam">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.752"/>
+  <seriesInfo name="NIST" value="NIST SP 752"/>
 </reference>

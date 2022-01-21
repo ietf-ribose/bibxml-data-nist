@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.88" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph88.pdf">
   <front>
     <title>Heat treatment and properties of iron and steel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.88"/>
-    <seriesInfo name="NIST" value="NBS MONO 88"/>
-    <author fullname="Thomas Digges" initials="T." surname="Digges"/>
-    <author fullname="Samuel Rosenberg" initials="S." surname="Rosenberg"/>
-    <author fullname="Glenn Geil" initials="G." surname="Geil"/>
+    <author fullname="Thomas Digges" initials="G" surname="Digges">
+      <organization/>
+    </author>
+    <author fullname="Samuel Rosenberg" initials="J" surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="Glenn Geil" initials="W" surname="Geil">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.88"/>
+  <seriesInfo name="NIST" value="NBS MONO 88"/>
 </reference>

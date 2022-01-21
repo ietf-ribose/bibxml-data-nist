@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-624" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-624.pdf">
   <front>
     <title>The Shirley Highway Express-Bus-on-Freeway Demonstration Project a study of reverse commute service</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-624"/>
-    <seriesInfo name="NIST" value="NBS IR 74-624"/>
-    <author fullname="Robert Waksman" initials="R." surname="Waksman"/>
+    <author fullname="Robert Waksman" initials="R." surname="Waksman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-624"/>
+  <seriesInfo name="NIST" value="NBS IR 74-624"/>
 </reference>

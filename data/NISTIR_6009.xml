@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6009" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6009.pdf">
   <front>
     <title>Healthcare Standards needs for using the NII:an application of the IISP Framework Method</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6009"/>
-    <seriesInfo name="NIST" value="NIST IR 6009"/>
-    <author fullname="Susan Katz" initials="S." surname="Katz"/>
+    <author fullname="Susan Katz" initials="B" surname="Katz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6009"/>
+  <seriesInfo name="NIST" value="NIST IR 6009"/>
 </reference>

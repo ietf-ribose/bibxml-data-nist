@@ -1,14 +1,24 @@
 <reference anchor="NIST.TN.1483" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1483.pdf">
   <front>
     <title>Measurements of heat and combustion products in reduced-scale ventilation-limited compartment fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1483"/>
-    <seriesInfo name="NIST" value="NIST TN 1483"/>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Erik Johnsson" initials="E." surname="Johnsson"/>
-    <author fullname="SungChan Kim" initials="S.C." surname="Kim"/>
-    <author fullname="GwonHyun Ko" initials="G.H." surname="Ko"/>
-    <author fullname="David Lenhert" initials="D." surname="Lenhert"/>
+    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Erik Johnsson" initials="L" surname="Johnsson">
+      <organization/>
+    </author>
+    <author fullname="SungChan Kim" initials="S.C." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="GwonHyun Ko" initials="G.H." surname="Ko">
+      <organization/>
+    </author>
+    <author fullname="David Lenhert" initials="B" surname="Lenhert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1483"/>
+  <seriesInfo name="NIST" value="NIST TN 1483"/>
 </reference>

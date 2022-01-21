@@ -1,10 +1,12 @@
 <reference anchor="NBS.CIRC.422" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular422.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 422:methods of testing hosiery</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.422"/>
-    <seriesInfo name="NIST" value="NBS CIRC 422"/>
-    <author fullname="Max Schenke" initials="M." surname="Schenke"/>
-    <author fullname="Howard Shearer" initials="H." surname="Shearer"/>
+    <author fullname="Max Schenke" initials="E" surname="Schenke">
+      <organization/>
+    </author>
+    <author fullname="Howard Shearer" initials="E" surname="Shearer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1938"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.422"/>
+  <seriesInfo name="NIST" value="NBS CIRC 422"/>
 </reference>

@@ -1,27 +1,25 @@
 <reference anchor="NIST.IR.8312" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf">
   <front>
     <title>Four Principles of Explainable Artificial Intelligence</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8312"/>
-    <seriesInfo name="NIST" value="NIST IR 8312"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips">
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Carina Hahn" initials="C." surname="Hahn">
+    <author fullname="Carina Hahn" initials="A" surname="Hahn">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Peter Fontana" initials="P." surname="Fontana">
+    <author fullname="Peter Fontana" initials="C" surname="Fontana">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Amy Yates" initials="A." surname="Yates">
+    <author fullname="Amy Yates" initials="N" surname="Yates">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Kristen Greene" initials="K." surname="Greene">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="David Broniatowski" initials="D." surname="Broniatowski">
+    <author fullname="David Broniatowski" initials="A" surname="Broniatowski">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mark Przybocki" initials="M." surname="Przybocki">
+    <author fullname="Mark Przybocki" initials="A" surname="Przybocki">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2021" month="September" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8312"/>
+  <seriesInfo name="NIST" value="NIST IR 8312"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-900" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-900.pdf">
   <front>
     <title>Liquid level instrumentation in volume calibration</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-900"/>
-    <seriesInfo name="NIST" value="NBS IR 75-900"/>
-    <author surname="Schoonover"/>
-    <author surname="Ku"/>
-    <author surname="Whetstone"/>
-    <author surname="Houser"/>
+    <author initials="RM" surname="Schoonover">
+      <organization/>
+    </author>
+    <author initials="HH" surname="Ku">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Whetstone">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Houser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-900"/>
+  <seriesInfo name="NIST" value="NBS IR 75-900"/>
 </reference>

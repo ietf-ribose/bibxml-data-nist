@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.78-1583" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1583.pdf">
   <front>
     <title>Standardization and measurement services in Indonesia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1583"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1583"/>
-    <author fullname="Steffen Peisner" initials="S." surname="Peisner"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
-    <author fullname="Raymond Sangster" initials="R." surname="Sangster"/>
-    <author fullname="Benjamin Gutterman" initials="B." surname="Gutterman"/>
-    <author fullname="Penelope Odar" initials="P." surname="Odar"/>
+    <author fullname="Steffen Peisner" initials="H" surname="Peisner">
+      <organization/>
+    </author>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
+    <author fullname="Raymond Sangster" initials="C" surname="Sangster">
+      <organization/>
+    </author>
+    <author fullname="Benjamin Gutterman" initials="M" surname="Gutterman">
+      <organization/>
+    </author>
+    <author fullname="Penelope Odar" initials="M" surname="Odar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1583"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1583"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8261-02" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8261-02.pdf">
   <front>
     <title>NIST time and frequency bulletin:February</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8261-02"/>
-    <seriesInfo name="NIST" value="NIST IR 8261-02"/>
     <author fullname="Kathryn Stephenson" initials="K." surname="Stephenson">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8261-02"/>
+  <seriesInfo name="NIST" value="NIST IR 8261-02"/>
 </reference>

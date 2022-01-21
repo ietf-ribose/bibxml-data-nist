@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.86-3051" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3051.pdf">
   <front>
     <title>Electromagnetic radiation test facilities evaluation of reverberation chambers located at NSWC, Dahlgren, Virginia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3051"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3051"/>
-    <author fullname="Myron Crawford" initials="M." surname="Crawford"/>
-    <author fullname="Galen Koepke" initials="G." surname="Koepke"/>
+    <author fullname="Myron Crawford" initials="L" surname="Crawford">
+      <organization/>
+    </author>
+    <author fullname="Galen Koepke" initials="H" surname="Koepke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3051"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3051"/>
 </reference>

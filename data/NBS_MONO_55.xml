@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph55.pdf">
   <front>
     <title>NBS viscometer calibrating liquids and capillary tube viscometers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.55"/>
-    <seriesInfo name="NIST" value="NBS MONO 55"/>
-    <author surname="Hardy"/>
+    <author initials="RC" surname="Hardy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.55"/>
+  <seriesInfo name="NIST" value="NBS MONO 55"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-225" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-225.pdf">
   <front>
     <title>Overview of the third text Retrieval conference (TREC-3)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-225"/>
-    <seriesInfo name="NIST" value="NIST SP 500-225"/>
-    <author surname="Harman"/>
+    <author initials="DK" surname="Harman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-225"/>
+  <seriesInfo name="NIST" value="NIST SP 500-225"/>
 </reference>

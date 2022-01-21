@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1764.pdf">
   <front>
     <title>Image pattern recognition in industrial inspection</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1764"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1764"/>
-    <author fullname="Gordon Vanderbrug" initials="G." surname="Vanderbrug"/>
-    <author fullname="Roger Nagel" initials="R." surname="Nagel"/>
+    <author fullname="Gordon Vanderbrug" initials="J" surname="Vanderbrug">
+      <organization/>
+    </author>
+    <author fullname="Roger Nagel" initials="N" surname="Nagel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1764"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1764"/>
 </reference>

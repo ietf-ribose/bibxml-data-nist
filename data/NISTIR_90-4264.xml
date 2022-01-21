@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.90-4264" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4264.pdf">
   <front>
     <title>Wear mechanisms of valves and valve seat inserts in a gas-fired reciprocating engine</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4264"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4264"/>
-    <author surname="Lacey"/>
-    <author surname="Hsu"/>
-    <author surname="Gates"/>
-    <author surname="Lee"/>
-    <author surname="Ives"/>
-    <author surname="Ku"/>
-    <author surname="Pei"/>
-    <author surname="Wang"/>
-    <author surname="Whitenton"/>
-    <author surname="Munro"/>
+    <author initials="PI" surname="Lacey">
+      <organization/>
+    </author>
+    <author initials="SM" surname="Hsu">
+      <organization/>
+    </author>
+    <author initials="RS" surname="Gates">
+      <organization/>
+    </author>
+    <author initials="S" surname="Lee">
+      <organization/>
+    </author>
+    <author initials="L" surname="Ives">
+      <organization/>
+    </author>
+    <author initials="C" surname="Ku">
+      <organization/>
+    </author>
+    <author initials="P" surname="Pei">
+      <organization/>
+    </author>
+    <author initials="Y" surname="Wang">
+      <organization/>
+    </author>
+    <author initials="EP" surname="Whitenton">
+      <organization/>
+    </author>
+    <author initials="RG" surname="Munro">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4264"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4264"/>
 </reference>

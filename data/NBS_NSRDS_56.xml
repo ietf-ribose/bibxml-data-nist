@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.56" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds56.pdf">
   <front>
     <title>Crystal structure transformations in inorganic sulfates, phosphates, perchlorates, and chromates</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.56"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 56"/>
-    <author surname="Rao"/>
-    <author surname="Prakash"/>
+    <author initials="CNR" surname="Rao">
+      <organization/>
+    </author>
+    <author initials="B" surname="Prakash">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.56"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 56"/>
 </reference>

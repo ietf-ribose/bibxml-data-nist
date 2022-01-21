@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5358" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5358.pdf">
   <front>
     <title>Airborne asbestos method:standard practice for recording transmission electron microscopy data for the analysis of asbestos collected onto filters, version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5358"/>
-    <seriesInfo name="NIST" value="NIST IR 5358"/>
-    <author fullname="Eric Steel" initials="E." surname="Steel"/>
+    <author fullname="Eric Steel" initials="B" surname="Steel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5358"/>
+  <seriesInfo name="NIST" value="NIST IR 5358"/>
 </reference>

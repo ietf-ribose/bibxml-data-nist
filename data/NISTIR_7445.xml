@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7445" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7445.pdf">
   <front>
     <title>The structure and extinction of low strain rate non-premixed flames by an agent in microgravity</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7445"/>
-    <seriesInfo name="NIST" value="NIST IR 7445"/>
-    <author fullname="Anthony Hamin" initials="A." surname="Hamin"/>
-    <author fullname="Matthew Bundy" initials="M." surname="Bundy"/>
-    <author fullname="ChangBo Oh" initials="C.B." surname="Oh"/>
-    <author fullname="Paul Fuss" initials="P." surname="Fuss"/>
-    <author fullname="Jennifer Logue" initials="J." surname="Logue"/>
+    <author fullname="Anthony Hamin" initials="A." surname="Hamin">
+      <organization/>
+    </author>
+    <author fullname="Matthew Bundy" initials="M." surname="Bundy">
+      <organization/>
+    </author>
+    <author fullname="ChangBo Oh" initials="C.B." surname="Oh">
+      <organization/>
+    </author>
+    <author fullname="Paul Fuss" initials="S" surname="Fuss">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Logue" initials="J." surname="Logue">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7445"/>
+  <seriesInfo name="NIST" value="NIST IR 7445"/>
 </reference>

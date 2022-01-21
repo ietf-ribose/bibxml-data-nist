@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.894" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote894.pdf">
   <front>
     <title>Apparatus for testing oceanographic resistance thermometers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.894"/>
-    <seriesInfo name="NIST" value="NBS TN 894"/>
-    <author fullname="George Furukawa" initials="G." surname="Furukawa"/>
+    <author fullname="George Furukawa" initials="T" surname="Furukawa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.894"/>
+  <seriesInfo name="NIST" value="NBS TN 894"/>
 </reference>

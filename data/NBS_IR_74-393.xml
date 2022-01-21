@@ -1,20 +1,42 @@
 <reference anchor="NBS.IR.74-393" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-393.pdf">
   <front>
     <title>Semi-annual report on materials research in support of superconducting machinery</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-393"/>
-    <seriesInfo name="NIST" value="NBS IR 74-393"/>
-    <author surname="Reed"/>
-    <author surname="Durcholz"/>
-    <author surname="Fickett"/>
-    <author surname="Giarratano"/>
-    <author surname="Kasen"/>
-    <author surname="Ledbetter"/>
-    <author surname="Mikesell"/>
-    <author surname="Naimon"/>
-    <author surname="Schramm"/>
-    <author surname="Sparks"/>
-    <author surname="Tobler"/>
-    <author surname="Weston"/>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Durcholz">
+      <organization/>
+    </author>
+    <author initials="FR" surname="Fickett">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Giarratano">
+      <organization/>
+    </author>
+    <author initials="MB" surname="Kasen">
+      <organization/>
+    </author>
+    <author initials="HM" surname="Ledbetter">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Mikesell">
+      <organization/>
+    </author>
+    <author initials="ER" surname="Naimon">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Schramm">
+      <organization/>
+    </author>
+    <author initials="LL" surname="Sparks">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Tobler">
+      <organization/>
+    </author>
+    <author initials="WF" surname="Weston">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -27,4 +49,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-393"/>
+  <seriesInfo name="NIST" value="NBS IR 74-393"/>
 </reference>

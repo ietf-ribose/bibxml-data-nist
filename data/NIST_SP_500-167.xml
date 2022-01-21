@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-167" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-167.pdf">
   <front>
     <title>Information management directions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-167"/>
-    <seriesInfo name="NIST" value="NIST SP 500-167"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
-    <author fullname="Alan Goldfine" initials="A." surname="Goldfine"/>
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="Alan Goldfine" initials="H" surname="Goldfine">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-167"/>
+  <seriesInfo name="NIST" value="NIST SP 500-167"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5700" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5700.pdf">
   <front>
     <title>Proceedings of the 1995 Workshop on Fire Detector Research</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5700"/>
-    <seriesInfo name="NIST" value="NIST IR 5700"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
+    <author fullname="William Grosshandler" initials="L" surname="Grosshandler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5700"/>
+  <seriesInfo name="NIST" value="NIST IR 5700"/>
 </reference>

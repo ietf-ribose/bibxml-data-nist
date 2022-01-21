@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.480-20e1985" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-20e1985.pdf">
   <front>
     <title>Directory of law enforcement and criminal justice associations and research centers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-20e1985"/>
-    <seriesInfo name="NIST" value="NBS SP 480-20e1985"/>
-    <author fullname="Sharon Lyles" initials="S." surname="Lyles"/>
+    <author fullname="Sharon Lyles" initials="S." surname="Lyles">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-20e1985"/>
+  <seriesInfo name="NIST" value="NBS SP 480-20e1985"/>
 </reference>

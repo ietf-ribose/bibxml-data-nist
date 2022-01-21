@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.426" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication426.pdf">
   <front>
     <title>Bibliography of low energy electron and photon cross section data (through December 1974)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.426"/>
-    <seriesInfo name="NIST" value="NBS SP 426"/>
-    <author fullname="Lee Kieffer" initials="L." surname="Kieffer"/>
+    <author fullname="Lee Kieffer" initials="J" surname="Kieffer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.426"/>
+  <seriesInfo name="NIST" value="NBS SP 426"/>
 </reference>

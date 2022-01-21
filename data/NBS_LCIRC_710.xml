@@ -1,10 +1,12 @@
 <reference anchor="NBS.LCIRC.710" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular710.pdf">
   <front>
     <title>Letter Circular 710:some physical properties of butadiene and styrene</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.710"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 710"/>
-    <author fullname="Lawrence Wood" initials="L." surname="Wood"/>
-    <author fullname="Catherine Higgins" initials="C." surname="Higgins"/>
+    <author fullname="Lawrence Wood" initials="A" surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="Catherine Higgins" initials="F" surname="Higgins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.710"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 710"/>
 </reference>

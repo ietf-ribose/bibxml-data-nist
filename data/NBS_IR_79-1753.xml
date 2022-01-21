@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1753" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1753.pdf">
   <front>
     <title>Radiation-induced acoustic cavitation; threshold vs temperature for some liquids</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1753"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1753"/>
-    <author surname="Greenspan"/>
-    <author surname="Tschiegg"/>
+    <author initials="M" surname="Greenspan">
+      <organization/>
+    </author>
+    <author initials="CE" surname="Tschiegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1753"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1753"/>
 </reference>

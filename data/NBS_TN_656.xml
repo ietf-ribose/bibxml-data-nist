@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.656" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote656.pdf">
   <front>
     <title>Standard time and frequency :Its generation, control, and dissemination by the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.656"/>
-    <seriesInfo name="NIST" value="NBS TN 656"/>
-    <author fullname="John Milton" initials="J." surname="Milton"/>
+    <author fullname="John Milton" initials="B" surname="Milton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.656"/>
+  <seriesInfo name="NIST" value="NBS TN 656"/>
 </reference>

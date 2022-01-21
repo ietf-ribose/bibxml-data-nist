@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4086" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4086.pdf">
   <front>
     <title>Service life of concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4086"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4086"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Knab" initials="I" surname="Knab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4086"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4086"/>
 </reference>

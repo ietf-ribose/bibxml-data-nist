@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.400-30" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-30.pdf">
   <front>
     <title>Automated scanning low-energy electron probe (ASLEEP) for semiconductor wafer diagnostics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-30"/>
-    <seriesInfo name="NIST" value="NBS SP 400-30"/>
-    <author surname="Christou"/>
+    <author initials="A" surname="Christou">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-30"/>
+  <seriesInfo name="NIST" value="NBS SP 400-30"/>
 </reference>

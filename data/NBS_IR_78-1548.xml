@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-1548" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1548.pdf">
   <front>
     <title>An evaluation of ASHRAE Standard 94-77 for testing water tanks for thermal storage</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1548"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1548"/>
-    <author surname="Hunt"/>
-    <author surname="Richtmyer"/>
-    <author surname="Hill"/>
+    <author initials="BJ" surname="Hunt">
+      <organization/>
+    </author>
+    <author initials="TE" surname="Richtmyer">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Hill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1548"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1548"/>
 </reference>

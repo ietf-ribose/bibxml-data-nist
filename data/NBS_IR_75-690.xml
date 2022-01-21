@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-690" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-690.pdf">
   <front>
     <title>A compilation of problems related to the performance of mobile homes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-690"/>
-    <seriesInfo name="NIST" value="NBS IR 75-690"/>
-    <author surname="Street"/>
-    <author surname="Greene"/>
-    <author surname="Pielert"/>
-    <author surname="Skoda"/>
+    <author initials="WG" surname="Street">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Greene">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Pielert">
+      <organization/>
+    </author>
+    <author initials="LF" surname="Skoda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-690"/>
+  <seriesInfo name="NIST" value="NBS IR 75-690"/>
 </reference>

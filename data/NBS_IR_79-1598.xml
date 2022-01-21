@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.79-1598" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1598.pdf">
   <front>
     <title>Models for the migration of paraffinic additives in polythylene</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1598"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1598"/>
-    <author surname="Smith"/>
-    <author surname="Sanchez"/>
-    <author surname="Chang"/>
-    <author surname="McCrackin"/>
+    <author initials="LE" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="IC" surname="Sanchez">
+      <organization/>
+    </author>
+    <author initials="SS" surname="Chang">
+      <organization/>
+    </author>
+    <author initials="FL" surname="McCrackin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1598"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1598"/>
 </reference>

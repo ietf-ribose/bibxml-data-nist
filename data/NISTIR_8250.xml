@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8250" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8250.pdf">
   <front>
     <title>Calibration procedures for weights and measures laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8250"/>
-    <seriesInfo name="NIST" value="NIST IR 8250"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris">
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8250"/>
+  <seriesInfo name="NIST" value="NIST IR 8250"/>
 </reference>

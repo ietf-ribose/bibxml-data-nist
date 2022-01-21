@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.800-146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf">
   <front>
     <title>Cloud computing synopsis and recommendations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-146"/>
-    <seriesInfo name="NIST" value="NIST SP 800-146"/>
-    <author surname="Badger"/>
-    <author surname="Grance"/>
-    <author surname="Patt-Corner"/>
-    <author surname="Voas"/>
+    <author initials="ML" surname="Badger">
+      <organization/>
+    </author>
+    <author initials="T" surname="Grance">
+      <organization/>
+    </author>
+    <author initials="R" surname="Patt-Corner">
+      <organization/>
+    </author>
+    <author initials="J" surname="Voas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-146"/>
+  <seriesInfo name="NIST" value="NIST SP 800-146"/>
 </reference>

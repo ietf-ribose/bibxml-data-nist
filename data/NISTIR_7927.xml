@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.7927" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7927.pdf">
   <front>
     <title>An interlaboratory investigation of the effect of material granularity and sample processing on measurement Variability: nutritional elements in cereals</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7927"/>
-    <seriesInfo name="NIST" value="NIST IR 7927"/>
-    <author fullname="Katrice Lippa" initials="K." surname="Lippa">
+    <author fullname="Katrice Lippa" initials="A" surname="Lippa">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Laura Wood" initials="L." surname="Wood">
+    <author fullname="Laura Wood" initials="J" surname="Wood">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Stefan Leigh" initials="S." surname="Leigh">
+    <author fullname="Stefan Leigh" initials="D" surname="Leigh">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+    <author fullname="Alan Heckert" initials="N" surname="Heckert">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7927"/>
+  <seriesInfo name="NIST" value="NIST IR 7927"/>
 </reference>

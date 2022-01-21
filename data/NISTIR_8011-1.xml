@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8011-1" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8011-1.pdf">
   <front>
     <title>Automation support for security control assessments. volume 1: overview</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8011-1"/>
-    <seriesInfo name="NIST" value="NIST IR 8011-1"/>
     <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8011-1"/>
+  <seriesInfo name="NIST" value="NIST IR 8011-1"/>
 </reference>

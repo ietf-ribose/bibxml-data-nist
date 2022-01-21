@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1970" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1970.pdf">
   <front>
     <title>Measurement uncertainty in the hydronic system in the IBAL</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1970"/>
-    <seriesInfo name="NIST" value="NIST TN 1970"/>
-    <author fullname="Amanda Pertzborn" initials="A." surname="Pertzborn">
+    <author fullname="Amanda Pertzborn" initials="J" surname="Pertzborn">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1970"/>
+  <seriesInfo name="NIST" value="NIST TN 1970"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9395" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9395.pdf">
   <front>
     <title>Fire tests on two SCA brick wall column :report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9395"/>
-    <seriesInfo name="NIST" value="NBS RPT 9395"/>
-    <author fullname="James Ryan" initials="J." surname="Ryan"/>
+    <author fullname="James Ryan" initials="V" surname="Ryan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9395"/>
+  <seriesInfo name="NIST" value="NBS RPT 9395"/>
 </reference>

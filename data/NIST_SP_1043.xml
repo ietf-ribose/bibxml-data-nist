@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.1043" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1043.pdf">
   <front>
     <title>Workshop on reliability issues in nanomaterials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1043"/>
-    <seriesInfo name="NIST" value="NIST SP 1043"/>
-    <author fullname="Robert Keller" initials="R." surname="Keller"/>
-    <author fullname="Robert Keller" initials="R." surname="Keller"/>
-    <author fullname="David Read" initials="D." surname="Read"/>
-    <author fullname="Roop Mahajan" initials="R." surname="Mahajan"/>
+    <author fullname="Robert Keller" initials="R" surname="Keller">
+      <organization/>
+    </author>
+    <author fullname="Robert Keller" initials="R" surname="Keller">
+      <organization/>
+    </author>
+    <author fullname="David Read" initials="T" surname="Read">
+      <organization/>
+    </author>
+    <author fullname="Roop Mahajan" initials="R." surname="Mahajan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1043"/>
+  <seriesInfo name="NIST" value="NIST SP 1043"/>
 </reference>

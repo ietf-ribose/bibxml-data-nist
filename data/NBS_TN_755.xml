@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.755" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote755.pdf">
   <front>
     <title>Some aspects of the setting and hardening of gypsum plaster</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.755"/>
-    <seriesInfo name="NIST" value="NBS TN 755"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.755"/>
+  <seriesInfo name="NIST" value="NBS TN 755"/>
 </reference>

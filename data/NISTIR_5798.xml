@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5798" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5798.pdf">
   <front>
     <title>NASA fire detector study</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5798"/>
-    <seriesInfo name="NIST" value="NIST IR 5798"/>
-    <author fullname="William Davis" initials="W." surname="Davis"/>
-    <author fullname="Kathy Notarianni" initials="K." surname="Notarianni"/>
+    <author fullname="William Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Kathy Notarianni" initials="A" surname="Notarianni">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5798"/>
+  <seriesInfo name="NIST" value="NIST IR 5798"/>
 </reference>

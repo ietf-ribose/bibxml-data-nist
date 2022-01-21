@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6392" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6392.pdf">
   <front>
     <title>GSA guide to specifying interoperable building automation and control systems using ANSIASHRAE Standard 135-1995, BACnet</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6392"/>
-    <seriesInfo name="NIST" value="NIST IR 6392"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
-    <author fullname="Michael Newman" initials="M." surname="Newman"/>
-    <author fullname="Martin Applebaum" initials="M." surname="Applebaum"/>
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
+      <organization/>
+    </author>
+    <author fullname="Michael Newman" initials="H" surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="Martin Applebaum" initials="A" surname="Applebaum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6392"/>
+  <seriesInfo name="NIST" value="NIST IR 6392"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1258.pdf">
   <front>
     <title>An Experimental study of transition on blunt bodies (Part I)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1258"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1258"/>
-    <author surname="Christoph"/>
+    <author initials="G" surname="Christoph">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1258"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1258"/>
 </reference>

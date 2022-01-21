@@ -1,9 +1,7 @@
 <reference anchor="NIST.HB.105-1-2019" target="https://nvlpubs.nist.gov/nistpubs/hb/2019/NIST.HB.105-1-2019.pdf">
   <front>
     <title>Specifications and tolerances for reference standards and field standard weights and measures:specifications and tolerances for field standard weights</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.105-1-2019"/>
-    <seriesInfo name="NIST" value="NIST HB 105-1-2019"/>
-    <author fullname="Val Miller" initials="V." surname="Miller">
+    <author fullname="Val Miller" initials="R" surname="Miller">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.105-1-2019"/>
+  <seriesInfo name="NIST" value="NIST HB 105-1-2019"/>
 </reference>

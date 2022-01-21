@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.204" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub204.pdf">
   <front>
     <title>Annual report 1951 National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.204"/>
-    <seriesInfo name="NIST" value="NBS MP 204"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.204"/>
+  <seriesInfo name="NIST" value="NBS MP 204"/>
 </reference>

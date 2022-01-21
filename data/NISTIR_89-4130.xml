@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4130" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4130.pdf">
   <front>
     <title>Life-cycle costing for energy conservation in buildings:student's manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4130"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4130"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4130"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4130"/>
 </reference>

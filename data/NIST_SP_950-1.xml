@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.950-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication950-1.pdf">
   <front>
     <title>Advanced Techology Program -- Performance of completed projects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.950-1"/>
-    <seriesInfo name="NIST" value="NIST SP 950-1"/>
-    <author fullname="William Long" initials="W." surname="Long"/>
-    <author fullname="William Long" initials="W." surname="Long"/>
+    <author fullname="William Long" initials="F" surname="Long">
+      <organization/>
+    </author>
+    <author fullname="William Long" initials="F" surname="Long">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.950-1"/>
+  <seriesInfo name="NIST" value="NIST SP 950-1"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience127.pdf">
   <front>
     <title>Recommended technical provisions for construction practice in shoring and sloping of trenches and excavations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.127"/>
-    <seriesInfo name="NIST" value="NBS BSS 127"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.127"/>
+  <seriesInfo name="NIST" value="NBS BSS 127"/>
 </reference>

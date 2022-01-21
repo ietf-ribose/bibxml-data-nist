@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-580" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-580.pdf">
   <front>
     <title>Spectral characteristics of additional bar code readers. II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-580"/>
-    <seriesInfo name="NIST" value="NBS IR 74-580"/>
-    <author fullname="Julius Cohen" initials="J." surname="Cohen"/>
+    <author fullname="Julius Cohen" initials="J." surname="Cohen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-580"/>
+  <seriesInfo name="NIST" value="NBS IR 74-580"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5101.pdf">
   <front>
     <title>ONR-sponsored research in ultrasonic measurements at NIST:1982-92</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5101"/>
-    <seriesInfo name="NIST" value="NIST IR 5101"/>
-    <author surname="Breckenridge"/>
+    <author initials="FR" surname="Breckenridge">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5101"/>
+  <seriesInfo name="NIST" value="NIST IR 5101"/>
 </reference>

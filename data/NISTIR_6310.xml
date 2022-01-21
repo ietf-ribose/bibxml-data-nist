@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6310" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6310.pdf">
   <front>
     <title>Modeling of bare and aspirated thermocouples in compartment fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6310"/>
-    <seriesInfo name="NIST" value="NIST IR 6310"/>
-    <author fullname="Linda Blevins" initials="L." surname="Blevins"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
+    <author fullname="Linda Blevins" initials="G" surname="Blevins">
+      <organization/>
+    </author>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6310"/>
+  <seriesInfo name="NIST" value="NIST IR 6310"/>
 </reference>

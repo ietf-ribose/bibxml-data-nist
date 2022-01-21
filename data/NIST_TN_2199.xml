@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2199" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2199.pdf">
   <front>
     <title>NIST Outdoor Structure Separation Experiments (NOSSE): Preliminary Test Plan</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2199"/>
-    <seriesInfo name="NIST" value="NIST TN 2199"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -62,4 +60,6 @@
     </author>
     <date year="2022" month="January" day="10"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2199"/>
+  <seriesInfo name="NIST" value="NIST TN 2199"/>
 </reference>

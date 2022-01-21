@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.83-2790" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2790.pdf">
   <front>
     <title>Passive films, surface structure and stress corrosion and crevice corrosion susceptibility</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2790"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2790"/>
-    <author surname="Kruger"/>
-    <author surname="Long"/>
-    <author surname="Kuriyama"/>
+    <author initials="J" surname="Kruger">
+      <organization/>
+    </author>
+    <author initials="GG" surname="Long">
+      <organization/>
+    </author>
+    <author initials="M" surname="Kuriyama">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2790"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2790"/>
 </reference>

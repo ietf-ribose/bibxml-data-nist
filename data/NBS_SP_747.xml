@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.747" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication747.pdf">
   <front>
     <title>Statistical concepts in metrology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.747"/>
-    <seriesInfo name="NIST" value="NBS SP 747"/>
-    <author fullname="Harry Ku" initials="H." surname="Ku"/>
+    <author fullname="Harry Ku" initials="H" surname="Ku">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.747"/>
+  <seriesInfo name="NIST" value="NBS SP 747"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6315" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6315.pdf">
   <front>
     <title>Supporting document for rehabilitation cost estimates of FEMA existing buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6315"/>
-    <seriesInfo name="NIST" value="NIST IR 6315"/>
-    <author surname="Lew"/>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6315"/>
+  <seriesInfo name="NIST" value="NIST IR 6315"/>
 </reference>

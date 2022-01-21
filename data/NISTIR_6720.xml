@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6720" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6720.pdf">
   <front>
     <title>Visualizing terrain and navigation data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6720"/>
-    <seriesInfo name="NIST" value="NIST IR 6720"/>
-    <author fullname="Tsung-Ming Tsai" initials="T." surname="Tsai"/>
-    <author fullname="David Coombs" initials="D." surname="Coombs"/>
-    <author fullname="Billibon Yoshimi" initials="B." surname="Yoshimi"/>
-    <author fullname="Ernest Kent" initials="E." surname="Kent"/>
+    <author fullname="Tsung-Ming Tsai" initials="T." surname="Tsai">
+      <organization/>
+    </author>
+    <author fullname="David Coombs" initials="D." surname="Coombs">
+      <organization/>
+    </author>
+    <author fullname="Billibon Yoshimi" initials="B." surname="Yoshimi">
+      <organization/>
+    </author>
+    <author fullname="Ernest Kent" initials="E." surname="Kent">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6720"/>
+  <seriesInfo name="NIST" value="NIST IR 6720"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6196-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6196-1.pdf">
   <front>
     <title>Sprinkler, smoke &amp; heat vent, draft curtain interaction :large scale experiments and model development</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6196-1"/>
-    <seriesInfo name="NIST" value="NIST IR 6196-1"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="David Stroup" initials="D." surname="Stroup">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6196-1"/>
+  <seriesInfo name="NIST" value="NIST IR 6196-1"/>
 </reference>

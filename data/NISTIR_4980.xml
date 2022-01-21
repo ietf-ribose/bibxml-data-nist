@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.4980" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4980.pdf">
   <front>
     <title>A Monte Carlo approach to the approximation of invariant measures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4980"/>
-    <seriesInfo name="NIST" value="NIST IR 4980"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4980"/>
+  <seriesInfo name="NIST" value="NIST IR 4980"/>
 </reference>

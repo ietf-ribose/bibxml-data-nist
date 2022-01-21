@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-17" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-17.pdf">
   <front>
     <title>Multifactor authentication for e-commerce</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-17"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-17"/>
     <author fullname="William Newhouse" initials="W." surname="Newhouse">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-17"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-17"/>
 </reference>

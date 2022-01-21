@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2333" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2333.pdf">
   <front>
     <title>Reduced-scale modeling of mobile home fires :a progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2333"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2333"/>
-    <author fullname="David Klein" initials="D." surname="Klein"/>
+    <author fullname="David Klein" initials="P" surname="Klein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2333"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2333"/>
 </reference>

@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.260-194" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-194.pdf">
   <front>
     <title>Certification of SRM 2497:standard reference concrete for rheological measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-194"/>
-    <seriesInfo name="NIST" value="NIST SP 260-194"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris">
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Nicos Martys" initials="N." surname="Martys">
+    <author fullname="Nicos Martys" initials="S" surname="Martys">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Max Peltz" initials="M." surname="Peltz">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="William George" initials="W." surname="George">
+    <author fullname="William George" initials="L" surname="George">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi">
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Blaza Toman" initials="B." surname="Toman">
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-194"/>
+  <seriesInfo name="NIST" value="NIST SP 260-194"/>
 </reference>

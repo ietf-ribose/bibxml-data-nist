@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.71" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote71.pdf">
   <front>
     <title>Calibration of five gamma-emitting nuclides for emission rate</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.71"/>
-    <seriesInfo name="NIST" value="NBS TN 71"/>
-    <author surname="Hutchinson"/>
+    <author initials="JMR" surname="Hutchinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.71"/>
+  <seriesInfo name="NIST" value="NBS TN 71"/>
 </reference>

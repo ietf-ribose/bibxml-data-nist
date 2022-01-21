@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.16-009" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-009.pdf">
   <front>
     <title>An Analysis of References from US Patents to NIST-Supported Technical Outputs</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-009"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-009"/>
     <author fullname="Anthony Breitzman" initials="A." surname="Breitzman">
       <organization>Technology Partnerships Office</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-009"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-009"/>
 </reference>

@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.7173" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7173.pdf">
   <front>
     <title>Information models for product representation :core and assembly models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7173"/>
-    <seriesInfo name="NIST" value="NIST IR 7173"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
-    <author fullname="Mehmet Baysal" initials="M." surname="Baysal"/>
-    <author fullname="Utpal Roy" initials="U." surname="Roy"/>
-    <author fullname="Sebti Foufou" initials="S." surname="Foufou"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
-    <author fullname="Kevin Lyons" initials="K." surname="Lyons"/>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
+    <author fullname="Mehmet Baysal" initials="M." surname="Baysal">
+      <organization/>
+    </author>
+    <author fullname="Utpal Roy" initials="U." surname="Roy">
+      <organization/>
+    </author>
+    <author fullname="Sebti Foufou" initials="S." surname="Foufou">
+      <organization/>
+    </author>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization/>
+    </author>
+    <author fullname="Kevin Lyons" initials="K." surname="Lyons">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7173"/>
+  <seriesInfo name="NIST" value="NIST IR 7173"/>
 </reference>

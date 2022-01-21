@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4216" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4216.pdf">
   <front>
     <title>Technical activities 1989 standard reference data program</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4216"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4216"/>
-    <author fullname="Malcolm Chase" initials="M." surname="Chase"/>
+    <author fullname="Malcolm Chase" initials="W" surname="Chase">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4216"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4216"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-255" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-255.pdf">
   <front>
     <title>The twelfth text REtrieval conference, TREC 2003</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-255"/>
-    <seriesInfo name="NIST" value="NIST SP 500-255"/>
-    <author fullname="Ellen Voorhes" initials="E." surname="Voorhes"/>
-    <author fullname="Lori Buckland" initials="L." surname="Buckland"/>
+    <author fullname="Ellen Voorhes" initials="M" surname="Voorhes">
+      <organization/>
+    </author>
+    <author fullname="Lori Buckland" initials="P" surname="Buckland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-255"/>
+  <seriesInfo name="NIST" value="NIST SP 500-255"/>
 </reference>

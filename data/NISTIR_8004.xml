@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8004" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.8004.pdf">
   <front>
     <title>Identifying face quality and factor measures for video</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8004"/>
-    <seriesInfo name="NIST" value="NIST IR 8004"/>
     <author fullname="Yooyoung Lee" initials="Y." surname="Lee">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips">
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="James Filliben" initials="J." surname="Filliben">
+    <author fullname="James Filliben" initials="J" surname="Filliben">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ross Beveridge" initials="R." surname="Beveridge">
+    <author fullname="Ross Beveridge" initials="J" surname="Beveridge">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Hao Zhang" initials="H." surname="Zhang">
@@ -23,4 +21,6 @@
     </author>
     <date year="2014" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8004"/>
+  <seriesInfo name="NIST" value="NIST IR 8004"/>
 </reference>

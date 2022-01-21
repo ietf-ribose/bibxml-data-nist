@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-892" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-892.pdf">
   <front>
     <title>The time domain characteristics of a traveling-wave linear antenna with linear and non-linear loads</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-892"/>
-    <seriesInfo name="NIST" value="NBS IR 78-892"/>
-    <author fullname="Motohisa Kanda" initials="M." surname="Kanda"/>
+    <author fullname="Motohisa Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-892"/>
+  <seriesInfo name="NIST" value="NBS IR 78-892"/>
 </reference>

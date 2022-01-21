@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-223" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-223.pdf">
   <front>
     <title>A framework for the development and assurance of high integrity software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-223"/>
-    <seriesInfo name="NIST" value="NIST SP 500-223"/>
-    <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
-    <author fullname="Laura Ippolito" initials="L." surname="Ippolito"/>
+    <author fullname="Dolores Wallace" initials="R" surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Laura Ippolito" initials="M" surname="Ippolito">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-223"/>
+  <seriesInfo name="NIST" value="NIST SP 500-223"/>
 </reference>

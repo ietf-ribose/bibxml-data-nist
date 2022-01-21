@@ -1,22 +1,48 @@
 <reference anchor="NBS.IR.80-2069" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2069.pdf">
   <front>
     <title>NBS :nondestructive evaluation of nonuniformities in 2219 aluminum alloy plate</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2069"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2069"/>
-    <author surname="Swartzendruber"/>
-    <author surname="Boettinger"/>
-    <author surname="Ives"/>
-    <author surname="Coriell"/>
-    <author surname="Ballard"/>
-    <author surname="Laughlin"/>
-    <author surname="Clough"/>
-    <author surname="Biancaniello"/>
-    <author surname="Blau"/>
-    <author surname="Cahn"/>
-    <author surname="Mehrabian"/>
-    <author surname="Free"/>
-    <author surname="Berger"/>
-    <author surname="Mordfin"/>
+    <author initials="L" surname="Swartzendruber">
+      <organization/>
+    </author>
+    <author initials="W" surname="Boettinger">
+      <organization/>
+    </author>
+    <author initials="L" surname="Ives">
+      <organization/>
+    </author>
+    <author initials="S" surname="Coriell">
+      <organization/>
+    </author>
+    <author initials="D" surname="Ballard">
+      <organization/>
+    </author>
+    <author initials="D" surname="Laughlin">
+      <organization/>
+    </author>
+    <author initials="R" surname="Clough">
+      <organization/>
+    </author>
+    <author initials="F" surname="Biancaniello">
+      <organization/>
+    </author>
+    <author initials="P" surname="Blau">
+      <organization/>
+    </author>
+    <author initials="J" surname="Cahn">
+      <organization/>
+    </author>
+    <author initials="R" surname="Mehrabian">
+      <organization/>
+    </author>
+    <author initials="G" surname="Free">
+      <organization/>
+    </author>
+    <author initials="H" surname="Berger">
+      <organization/>
+    </author>
+    <author initials="L" surname="Mordfin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -29,4 +55,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2069"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2069"/>
 </reference>

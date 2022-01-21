@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8284" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8284.pdf">
   <front>
     <title>Framework and roadmap for smart grid interoperability standards regional roundtables summary report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8284"/>
-    <seriesInfo name="NIST" value="NIST IR 8284"/>
     <author fullname="Avi Gopstein" initials="A." surname="Gopstein">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8284"/>
+  <seriesInfo name="NIST" value="NIST IR 8284"/>
 </reference>

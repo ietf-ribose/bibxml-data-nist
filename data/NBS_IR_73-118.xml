@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-118.pdf">
   <front>
     <title>Examination of failed components from District of Columbia incinerator no. 5</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-118"/>
-    <seriesInfo name="NIST" value="NBS IR 73-118"/>
-    <author fullname="Robert Shives" initials="R." surname="Shives"/>
+    <author fullname="Robert Shives" initials="T" surname="Shives">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-118"/>
+  <seriesInfo name="NIST" value="NBS IR 73-118"/>
 </reference>

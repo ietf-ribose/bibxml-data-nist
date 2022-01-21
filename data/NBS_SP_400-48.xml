@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.400-48" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-48.pdf">
   <front>
     <title>Spreading resistance analysis for silicon layers with nonuniform resistivity</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-48"/>
-    <seriesInfo name="NIST" value="NBS SP 400-48"/>
-    <author fullname="David Dickey" initials="D." surname="Dickey"/>
-    <author fullname="James Ehrstein" initials="J." surname="Ehrstein"/>
+    <author fullname="David Dickey" initials="H" surname="Dickey">
+      <organization/>
+    </author>
+    <author fullname="James Ehrstein" initials="R" surname="Ehrstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-48"/>
+  <seriesInfo name="NIST" value="NBS SP 400-48"/>
 </reference>

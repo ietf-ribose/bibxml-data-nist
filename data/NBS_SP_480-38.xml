@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.480-38" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-38.pdf">
   <front>
     <title>The Role of behavioral science in physical science :proceedings of the third annual symposium, May 2-4, 1978</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-38"/>
-    <seriesInfo name="NIST" value="NBS SP 480-38"/>
-    <author fullname="Joel Kramer" initials="J." surname="Kramer"/>
+    <author fullname="Joel Kramer" initials="J" surname="Kramer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-38"/>
+  <seriesInfo name="NIST" value="NBS SP 480-38"/>
 </reference>

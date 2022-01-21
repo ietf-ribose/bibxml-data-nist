@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.85-3119" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3119.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials :annual report for the period October 1, 1983 thru September 30, 1984</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3119"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3119"/>
-    <author surname="Tesk"/>
-    <author surname="Antonucci"/>
-    <author surname="Brauer"/>
-    <author surname="McKinney"/>
-    <author surname="Penn"/>
-    <author surname="Stansbury"/>
-    <author surname="Wu"/>
+    <author initials="JA" surname="Tesk">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Antonucci">
+      <organization/>
+    </author>
+    <author initials="GM" surname="Brauer">
+      <organization/>
+    </author>
+    <author initials="JE" surname="McKinney">
+      <organization/>
+    </author>
+    <author initials="RW" surname="Penn">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Stansbury">
+      <organization/>
+    </author>
+    <author initials="W" surname="Wu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3119"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3119"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.16-005" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-005.pdf">
   <front>
     <title>Economic Analysis of Technology Infrastructure Needs for Advanced Manufacturing: Advanced Robotics and Automation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-005"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-005"/>
-    <author fullname="Albert Link" initials="A." surname="Link">
+    <author fullname="Albert Link" initials="N" surname="Link">
       <organization>Technology Partnerships Office</organization>
     </author>
-    <author fullname="Zachary Oliver" initials="Z." surname="Oliver">
+    <author fullname="Zachary Oliver" initials="T" surname="Oliver">
       <organization>Technology Partnerships Office</organization>
     </author>
-    <author fullname="Alan O'Connor" initials="A." surname="O'Connor">
+    <author fullname="Alan O'Connor" initials="C" surname="O'Connor">
       <organization>Technology Partnerships Office</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-005"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-005"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4776" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4776.pdf">
   <front>
     <title>Training feed forward neural networks using conjugate gradients</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4776"/>
-    <seriesInfo name="NIST" value="NIST IR 4776"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="James Blue" initials="J." surname="Blue"/>
+    <author fullname="Patrick Grother" initials="J" surname="Grother">
+      <organization/>
+    </author>
+    <author fullname="James Blue" initials="L" surname="Blue">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4776"/>
+  <seriesInfo name="NIST" value="NIST IR 4776"/>
 </reference>

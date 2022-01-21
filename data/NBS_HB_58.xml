@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.58" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook58.pdf">
   <front>
     <title>Radioactive-waste disposal in the ocean</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.58"/>
-    <seriesInfo name="NIST" value="NBS HB 58"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.58"/>
+  <seriesInfo name="NIST" value="NBS HB 58"/>
 </reference>

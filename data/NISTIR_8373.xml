@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8373" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8373.pdf">
   <front>
     <title>Applied and Computational Mathematics Division: Summary of Activities for Fiscal Year 2020</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8373"/>
-    <seriesInfo name="NIST" value="NIST IR 8373"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert">
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2021" month="May" day="18"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8373"/>
+  <seriesInfo name="NIST" value="NIST IR 8373"/>
 </reference>

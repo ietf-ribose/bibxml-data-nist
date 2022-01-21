@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1850" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1850.pdf">
   <front>
     <title>Performance of Portable Radios Exposed to Elevated Temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1850"/>
-    <seriesInfo name="NIST" value="NIST TN 1850"/>
-    <author fullname="Michelle Donnelly" initials="M." surname="Donnelly">
+    <author fullname="Michelle Donnelly" initials="K" surname="Donnelly">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="William Young" initials="W." surname="Young">
+    <author fullname="William Young" initials="F" surname="Young">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Dennis Camell" initials="D." surname="Camell">
@@ -17,4 +15,6 @@
     </author>
     <date year="2014" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1850"/>
+  <seriesInfo name="NIST" value="NIST TN 1850"/>
 </reference>

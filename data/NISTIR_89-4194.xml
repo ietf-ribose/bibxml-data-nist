@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4194" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4194.pdf">
   <front>
     <title>A glossary of stands-related terminology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4194"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4194"/>
-    <author fullname="Donald Mackay" initials="D." surname="Mackay"/>
+    <author fullname="Donald Mackay" initials="R" surname="Mackay">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4194"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4194"/>
 </reference>

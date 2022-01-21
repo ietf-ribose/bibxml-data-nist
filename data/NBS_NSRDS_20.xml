@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.20" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds20.pdf">
   <front>
     <title>Gas phase reaction kinetics of neutral oxygen species</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.20"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 20"/>
-    <author fullname="Harold Johnston" initials="H." surname="Johnston"/>
+    <author fullname="Harold Johnston" initials="S" surname="Johnston">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.20"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 20"/>
 </reference>

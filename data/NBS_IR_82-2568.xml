@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2568" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2568.pdf">
   <front>
     <title>Contribution to the ASTM resonant column round robin testing program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2568"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2568"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2568"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2568"/>
 </reference>

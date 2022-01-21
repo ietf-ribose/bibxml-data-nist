@@ -1,10 +1,12 @@
 <reference anchor="NBS.LCIRC.1035r1985" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1035r1985.pdf">
   <front>
     <title>Letter Circular 1035:units and systems of weights and measures their origin, development, and present status</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1035r1985"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1035r1985"/>
-    <author fullname="Lewis Judson" initials="L." surname="Judson"/>
-    <author fullname="Louis Barbrow" initials="L." surname="Barbrow"/>
+    <author fullname="Lewis Judson" initials="V" surname="Judson">
+      <organization/>
+    </author>
+    <author fullname="Louis Barbrow" initials="E" surname="Barbrow">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1035r1985"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1035r1985"/>
 </reference>

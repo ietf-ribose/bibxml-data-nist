@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1113-PERMIS" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1113-PERMIS.pdf">
   <front>
     <title>Performance metrics for intelligent systems (PERMIS) workshop, 2010</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1113-PERMIS"/>
-    <seriesInfo name="NIST" value="NIST SP 1113-PERMIS"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1113-PERMIS"/>
+  <seriesInfo name="NIST" value="NIST SP 1113-PERMIS"/>
 </reference>

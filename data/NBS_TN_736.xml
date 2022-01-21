@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.736" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote736.pdf">
   <front>
     <title>Carrier lifetime measurement by the photoconductive decay method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.736"/>
-    <seriesInfo name="NIST" value="NBS TN 736"/>
-    <author fullname="Richard Mattis" initials="R." surname="Mattis"/>
+    <author fullname="Richard Mattis" initials="L" surname="Mattis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.736"/>
+  <seriesInfo name="NIST" value="NBS TN 736"/>
 </reference>

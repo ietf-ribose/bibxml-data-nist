@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-29" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-29.pdf">
   <front>
     <title>A comparison of the security requirements for cryptographic modules in FIPS 140-1 and FIPS 140-2</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-29"/>
-    <seriesInfo name="NIST" value="NIST SP 800-29"/>
     <author fullname="Ray Snouffer" initials="R." surname="Snouffer">
       <organization>Computer Security Division.</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-29"/>
+  <seriesInfo name="NIST" value="NIST SP 800-29"/>
 </reference>

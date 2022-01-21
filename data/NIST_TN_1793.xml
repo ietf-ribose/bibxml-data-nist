@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1793" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1793.pdf">
   <front>
     <title>Combined Stairwell and Elevator Use During Building Evacuation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1793"/>
-    <seriesInfo name="NIST" value="NIST TN 1793"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock">
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Bryan Hoskins" initials="B." surname="Hoskins">
+    <author fullname="Bryan Hoskins" initials="L" surname="Hoskins">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1793"/>
+  <seriesInfo name="NIST" value="NIST TN 1793"/>
 </reference>

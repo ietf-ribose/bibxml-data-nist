@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-65" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-65.pdf">
   <front>
     <title>Integrating IT Security into the Capital Planning and Investment Control Process</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-65"/>
-    <seriesInfo name="NIST" value="NIST SP 800-65"/>
-    <author surname="Hash">
+    <author initials="J" surname="Hash">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Bartol">
+    <author initials="N" surname="Bartol">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Rollins">
+    <author initials="H" surname="Rollins">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Robinson">
+    <author initials="W" surname="Robinson">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Abeles">
+    <author initials="J" surname="Abeles">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Batdorff">
+    <author initials="S" surname="Batdorff">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-65"/>
+  <seriesInfo name="NIST" value="NIST SP 800-65"/>
 </reference>

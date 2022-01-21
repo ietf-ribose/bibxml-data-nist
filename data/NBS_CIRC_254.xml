@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.254" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular254.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 254:United States government master specification for cloth-inserted ring cushions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.254"/>
-    <seriesInfo name="NIST" value="NBS CIRC 254"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1925"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.254"/>
+  <seriesInfo name="NIST" value="NBS CIRC 254"/>
 </reference>

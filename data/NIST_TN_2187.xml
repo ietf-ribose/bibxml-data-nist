@@ -1,21 +1,19 @@
 <reference anchor="NIST.TN.2187" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2187.pdf">
   <front>
     <title>A Resilient Architecture for the Realization and Distribution of Coordinated Universal Time to Critical Infrastructure Systems in the United States: Methodologies and Recommendations from the National Institute of Standards and Technology (NIST)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2187"/>
-    <seriesInfo name="NIST" value="NIST TN 2187"/>
-    <author fullname="Jeffrey Sherman" initials="J." surname="Sherman">
+    <author fullname="Jeffrey Sherman" initials="A" surname="Sherman">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Ladan Arissian" initials="L." surname="Arissian">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Roger Brown" initials="R." surname="Brown">
+    <author fullname="Roger Brown" initials="C" surname="Brown">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Matthew Deutch" initials="M." surname="Deutch">
+    <author fullname="Matthew Deutch" initials="J" surname="Deutch">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Elizabeth Donley" initials="E." surname="Donley">
+    <author fullname="Elizabeth Donley" initials="A" surname="Donley">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Vladislav Gerginov" initials="V." surname="Gerginov">
@@ -24,34 +22,34 @@
     <author fullname="Judah Levine" initials="J." surname="Levine">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Glenn Nelson" initials="G." surname="Nelson">
+    <author fullname="Glenn Nelson" initials="K" surname="Nelson">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Andrew Novick" initials="A." surname="Novick">
+    <author fullname="Andrew Novick" initials="N" surname="Novick">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Bijunath Patla" initials="B." surname="Patla">
+    <author fullname="Bijunath Patla" initials="R" surname="Patla">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Thomas Parker" initials="T." surname="Parker">
+    <author fullname="Thomas Parker" initials="E" surname="Parker">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Benjamin Stuhl" initials="B." surname="Stuhl">
+    <author fullname="Benjamin Stuhl" initials="K" surname="Stuhl">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Douglas Sutton" initials="D." surname="Sutton">
+    <author fullname="Douglas Sutton" initials="D" surname="Sutton">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Jian Yao" initials="J." surname="Yao">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="William Yates" initials="W." surname="Yates">
+    <author fullname="William Yates" initials="C" surname="Yates">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author fullname="Victor Zhang" initials="V." surname="Zhang">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Michael Lombardi" initials="M." surname="Lombardi">
+    <author fullname="Michael Lombardi" initials="A" surname="Lombardi">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -59,4 +57,6 @@
     </author>
     <date year="2021" month="November" day="3"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2187"/>
+  <seriesInfo name="NIST" value="NIST TN 2187"/>
 </reference>

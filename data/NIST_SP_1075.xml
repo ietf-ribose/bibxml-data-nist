@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.1075" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1075-PML.pdf">
   <front>
     <title>Physics Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1075"/>
-    <seriesInfo name="NIST" value="NIST SP 1075"/>
-    <author fullname="Jonathan Hardis" initials="J." surname="Hardis"/>
-    <author fullname="Jonathan Hardis" initials="J." surname="Hardis"/>
-    <author fullname="William Ott" initials="W." surname="Ott"/>
+    <author fullname="Jonathan Hardis" initials="E" surname="Hardis">
+      <organization/>
+    </author>
+    <author fullname="Jonathan Hardis" initials="E" surname="Hardis">
+      <organization/>
+    </author>
+    <author fullname="William Ott" initials="R" surname="Ott">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1075"/>
+  <seriesInfo name="NIST" value="NIST SP 1075"/>
 </reference>

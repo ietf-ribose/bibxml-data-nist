@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7984" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7984.pdf">
   <front>
     <title>A decision guidance framework for sustainability performance analysis of manufacturing processes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7984"/>
-    <seriesInfo name="NIST" value="NIST IR 7984"/>
-    <author fullname="DuckBong Kim" initials="D.B." surname="Kim"/>
-    <author fullname="Seung-Jun Shin" initials="S." surname="Shin"/>
-    <author fullname="Guodong Shao" initials="G." surname="Shao"/>
-    <author fullname="Alexander Brodsky" initials="A." surname="Brodsky"/>
+    <author fullname="DuckBong Kim" initials="D.B." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="Seung-Jun Shin" initials="S." surname="Shin">
+      <organization/>
+    </author>
+    <author fullname="Guodong Shao" initials="G." surname="Shao">
+      <organization/>
+    </author>
+    <author fullname="Alexander Brodsky" initials="A." surname="Brodsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2014"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7984"/>
+  <seriesInfo name="NIST" value="NIST IR 7984"/>
 </reference>

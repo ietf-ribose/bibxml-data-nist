@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1541" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1541.pdf">
   <front>
     <title>Techniques for the measurement of acoustic impedance of asphalt</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1541"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1541"/>
-    <author surname="Mansbach"/>
-    <author surname="Holmer"/>
+    <author initials="PA" surname="Mansbach">
+      <organization/>
+    </author>
+    <author initials="CI" surname="Holmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1541"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1541"/>
 </reference>

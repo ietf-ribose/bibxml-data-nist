@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.415" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication415.pdf">
   <front>
     <title>Biomaterials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.415"/>
-    <seriesInfo name="NIST" value="NBS SP 415"/>
-    <author fullname="Emanuel Horowitz" initials="E." surname="Horowitz"/>
-    <author fullname="John Torgesen" initials="J." surname="Torgesen"/>
+    <author fullname="Emanuel Horowitz" initials="E." surname="Horowitz">
+      <organization/>
+    </author>
+    <author fullname="John Torgesen" initials="L" surname="Torgesen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.415"/>
+  <seriesInfo name="NIST" value="NBS SP 415"/>
 </reference>

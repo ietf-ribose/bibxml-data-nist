@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.534" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote534.pdf">
   <front>
     <title>Oceanography:a bibliography of selected activation analysis literature. G.J. Lutz, editor.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.534"/>
-    <seriesInfo name="NIST" value="NBS TN 534"/>
-    <author surname="Lutz"/>
+    <author initials="GJ" surname="Lutz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.534"/>
+  <seriesInfo name="NIST" value="NBS TN 534"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.4875" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4875.pdf">
   <front>
     <title>Some observed heat transfer characteristics of seven typical refrigerated semi-trailers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4875"/>
-    <seriesInfo name="NIST" value="NBS RPT 4875"/>
-    <author surname="Phillips"/>
-    <author surname="Dill"/>
-    <author surname="Johnson"/>
-    <author surname="Redit"/>
+    <author initials="CW" surname="Phillips">
+      <organization/>
+    </author>
+    <author initials="RS" surname="Dill">
+      <organization/>
+    </author>
+    <author initials="HD" surname="Johnson">
+      <organization/>
+    </author>
+    <author initials="WH" surname="Redit">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4875"/>
+  <seriesInfo name="NIST" value="NBS RPT 4875"/>
 </reference>

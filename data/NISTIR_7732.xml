@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7732" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7732.pdf">
   <front>
     <title>Workflow and electronic health records in small medical practices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7732"/>
-    <seriesInfo name="NIST" value="NIST IR 7732"/>
-    <author fullname="Mala Ramaiah" initials="M." surname="Ramaiah"/>
-    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Bettijoyce Lide" initials="B." surname="Lide"/>
+    <author fullname="Mala Ramaiah" initials="M." surname="Ramaiah">
+      <organization/>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Bettijoyce Lide" initials="B" surname="Lide">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7732"/>
+  <seriesInfo name="NIST" value="NIST IR 7732"/>
 </reference>

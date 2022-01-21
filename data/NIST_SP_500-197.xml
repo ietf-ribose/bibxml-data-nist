@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-197" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-197.pdf">
   <front>
     <title>Guide to schema and schema extensibility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-197"/>
-    <seriesInfo name="NIST" value="NIST SP 500-197"/>
-    <author fullname="Bruce Rosen" initials="B." surname="Rosen"/>
-    <author fullname="FontainesIsabella des" initials="F.I." surname="des"/>
+    <author fullname="Bruce Rosen" initials="K" surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="FontainesIsabella des" initials="F.I." surname="des">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-197"/>
+  <seriesInfo name="NIST" value="NIST SP 500-197"/>
 </reference>

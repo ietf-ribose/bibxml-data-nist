@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-193" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-193.pdf">
   <front>
     <title>Software reengineering</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-193"/>
-    <seriesInfo name="NIST" value="NIST SP 500-193"/>
-    <author fullname="Mary Ruhl" initials="M." surname="Ruhl"/>
-    <author fullname="Mary Gunn" initials="M." surname="Gunn"/>
+    <author fullname="Mary Ruhl" initials="K" surname="Ruhl">
+      <organization/>
+    </author>
+    <author fullname="Mary Gunn" initials="T" surname="Gunn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-193"/>
+  <seriesInfo name="NIST" value="NIST SP 500-193"/>
 </reference>

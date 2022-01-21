@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.22" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds22.pdf">
   <front>
     <title>Atomic transition probabilities, volume II. sodium through calcium :a critical data compilation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.22"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 22"/>
-    <author fullname="Wolfgang Wiese" initials="W." surname="Wiese"/>
-    <author fullname="Melvin Smith" initials="M." surname="Smith"/>
-    <author surname="Miles"/>
+    <author fullname="Wolfgang Wiese" initials="L" surname="Wiese">
+      <organization/>
+    </author>
+    <author fullname="Melvin Smith" initials="W" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Miles">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.22"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 22"/>
 </reference>

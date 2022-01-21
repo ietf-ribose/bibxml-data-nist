@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5790" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5790.pdf">
   <front>
     <title>Scale-space-based visual-motion-cue for autonomous navigation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5790"/>
-    <seriesInfo name="NIST" value="NIST IR 5790"/>
-    <author fullname="Sridhar Kundur" initials="S." surname="Kundur"/>
-    <author fullname="Daniel Raviv" initials="D." surname="Raviv"/>
-    <author fullname="Ernest Kent" initials="E." surname="Kent"/>
+    <author fullname="Sridhar Kundur" initials="R" surname="Kundur">
+      <organization/>
+    </author>
+    <author fullname="Daniel Raviv" initials="D." surname="Raviv">
+      <organization/>
+    </author>
+    <author fullname="Ernest Kent" initials="E." surname="Kent">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5790"/>
+  <seriesInfo name="NIST" value="NIST IR 5790"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.CIRC.434" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular434.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 434:testing of glass volumetric apparatus</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.434"/>
-    <seriesInfo name="NIST" value="NBS CIRC 434"/>
-    <author fullname="Elmer Peffer" initials="E." surname="Peffer"/>
-    <author fullname="Grace Mulligan" initials="G." surname="Mulligan"/>
+    <author fullname="Elmer Peffer" initials="L" surname="Peffer">
+      <organization/>
+    </author>
+    <author fullname="Grace Mulligan" initials="C" surname="Mulligan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1941"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.434"/>
+  <seriesInfo name="NIST" value="NBS CIRC 434"/>
 </reference>

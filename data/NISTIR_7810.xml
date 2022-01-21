@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7810" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7810.pdf">
   <front>
     <title>Data dependency on measurement uncertainties in speaker recognition evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7810"/>
-    <seriesInfo name="NIST" value="NIST IR 7810"/>
-    <author fullname="JinChu Wu" initials="J.C." surname="Wu"/>
-    <author fullname="Alvin Martin" initials="A." surname="Martin"/>
-    <author fullname="Craig Greenberg" initials="C." surname="Greenberg"/>
-    <author fullname="Raghu Kacker" initials="R." surname="Kacker"/>
+    <author fullname="JinChu Wu" initials="J.C." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="Alvin Martin" initials="F" surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="Craig Greenberg" initials="S" surname="Greenberg">
+      <organization/>
+    </author>
+    <author fullname="Raghu Kacker" initials="N" surname="Kacker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7810"/>
+  <seriesInfo name="NIST" value="NIST IR 7810"/>
 </reference>

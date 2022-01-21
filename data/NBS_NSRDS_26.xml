@@ -1,14 +1,24 @@
 <reference anchor="NBS.NSRDS.26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds26.pdf">
   <front>
     <title>Ionization potentials, appearance potentials, and heats of formation of gaseous positive ions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.26"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 26"/>
-    <author fullname="Joseph Franklin" initials="J." surname="Franklin"/>
-    <author surname="Dillard"/>
-    <author fullname="Henry Rosenstock" initials="H." surname="Rosenstock"/>
-    <author fullname="John Herron" initials="J." surname="Herron"/>
-    <author fullname="Keith Draxl" initials="K." surname="Draxl"/>
-    <author fullname="Frank Field" initials="F." surname="Field"/>
+    <author fullname="Joseph Franklin" initials="L" surname="Franklin">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Dillard">
+      <organization/>
+    </author>
+    <author fullname="Henry Rosenstock" initials="M" surname="Rosenstock">
+      <organization/>
+    </author>
+    <author fullname="John Herron" initials="T" surname="Herron">
+      <organization/>
+    </author>
+    <author fullname="Keith Draxl" initials="K." surname="Draxl">
+      <organization/>
+    </author>
+    <author fullname="Frank Field" initials="H" surname="Field">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.26"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 26"/>
 </reference>

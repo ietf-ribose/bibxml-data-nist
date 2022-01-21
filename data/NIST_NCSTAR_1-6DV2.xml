@@ -1,13 +1,21 @@
 <reference anchor="NIST.NCSTAR.1-6dv2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-6dv2.pdf">
   <front>
     <title>Global structural analysis of the response of the World Trade Center towers to impact damage and fire (Chapters 4- Appendix C)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6dv2"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-6dv2"/>
-    <author fullname="Mehdi Zarghamee" initials="M." surname="Zarghamee"/>
-    <author fullname="Yasuo Kitamne" initials="Y." surname="Kitamne"/>
-    <author fullname="Omer Erbay" initials="O." surname="Erbay"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
+    <author fullname="Mehdi Zarghamee" initials="M." surname="Zarghamee">
+      <organization/>
+    </author>
+    <author fullname="Yasuo Kitamne" initials="Y." surname="Kitamne">
+      <organization/>
+    </author>
+    <author fullname="Omer Erbay" initials="O" surname="Erbay">
+      <organization/>
+    </author>
+    <author fullname="Therese McAllister" initials="P" surname="McAllister">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6dv2"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-6dv2"/>
 </reference>

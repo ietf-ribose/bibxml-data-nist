@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8275" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8275.pdf">
   <front>
     <title>Mission critical voice quality of experience access time measurement methods</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8275"/>
-    <seriesInfo name="NIST" value="NIST IR 8275"/>
     <author fullname="Jaden Pieper" initials="J." surname="Pieper">
       <organization>Communications Technology Laboratory.</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2019" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8275"/>
+  <seriesInfo name="NIST" value="NIST IR 8275"/>
 </reference>

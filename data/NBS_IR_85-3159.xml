@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3159" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3159.pdf">
   <front>
     <title>Fire growth in combat ships</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3159"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3159"/>
-    <author surname="Quintiere"/>
-    <author surname="Baum"/>
-    <author surname="Lawson"/>
+    <author initials="JG" surname="Quintiere">
+      <organization/>
+    </author>
+    <author initials="HR" surname="Baum">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Lawson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3159"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3159"/>
 </reference>

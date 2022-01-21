@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.260-174r2012" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-174r2012.pdf">
   <front>
     <title>Certification of SRM 2492 :Bingham paste mixture for rheological measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-174r2012"/>
-    <seriesInfo name="NIST" value="NIST SP 260-174r2012"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
-    <author fullname="John Winpigler" initials="J." surname="Winpigler"/>
-    <author fullname="William Guthrie" initials="W." surname="Guthrie"/>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Paul Stutzman" initials="E" surname="Stutzman">
+      <organization/>
+    </author>
+    <author fullname="John Winpigler" initials="J." surname="Winpigler">
+      <organization/>
+    </author>
+    <author fullname="William Guthrie" initials="F" surname="Guthrie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2012"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-174r2012"/>
+  <seriesInfo name="NIST" value="NIST SP 260-174r2012"/>
 </reference>

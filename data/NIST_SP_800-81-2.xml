@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-81-2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81-2.pdf">
   <front>
     <title>Secure Domain Name System (DNS) Deployment Guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-81-2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-81-2"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-81-2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-81-2"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.260-10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-10.pdf">
   <front>
     <title>Standard Reference MaterialsHomogeneity characterization of NBS spectrometric standards II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-10"/>
-    <seriesInfo name="NIST" value="NBS SP 260-10"/>
-    <author surname="Michaelis"/>
-    <author surname="Vieth"/>
-    <author surname="Yakowitz"/>
+    <author initials="RE" surname="Michaelis">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Vieth">
+      <organization/>
+    </author>
+    <author initials="H" surname="Yakowitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-10"/>
+  <seriesInfo name="NIST" value="NBS SP 260-10"/>
 </reference>

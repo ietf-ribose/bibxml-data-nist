@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3033" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3033.pdf">
   <front>
     <title>Methodology for statistical control of the anechoic chamber field generation system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3033"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3033"/>
-    <author fullname="Dennis Friday" initials="D." surname="Friday"/>
+    <author fullname="Dennis Friday" initials="S" surname="Friday">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3033"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3033"/>
 </reference>

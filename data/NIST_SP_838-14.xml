@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.838-14" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication838-14.pdf">
   <front>
     <title>Building &amp; Fire Research Laboratory :activities, accomplishments &amp; recognitions 1997</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.838-14"/>
-    <seriesInfo name="NIST" value="NIST SP 838-14"/>
-    <author fullname="Andrew Fowell" initials="A." surname="Fowell"/>
-    <author fullname="Andrew Fowell" initials="A." surname="Fowell"/>
+    <author fullname="Andrew Fowell" initials="J" surname="Fowell">
+      <organization/>
+    </author>
+    <author fullname="Andrew Fowell" initials="J" surname="Fowell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.838-14"/>
+  <seriesInfo name="NIST" value="NIST SP 838-14"/>
 </reference>

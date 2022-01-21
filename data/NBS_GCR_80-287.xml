@@ -1,8 +1,6 @@
 <reference anchor="NBS.GCR.80-287" target="https://nvlpubs.nist.gov/nistpubs/gcr/1980/gcr80-287.pdf">
   <front>
     <title>Planning report 5:performance vs. design standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.GCR.80-287"/>
-    <seriesInfo name="NIST" value="NBS GCR 80-287"/>
     <author fullname="David Hemenway" initials="D." surname="Hemenway">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1980" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.GCR.80-287"/>
+  <seriesInfo name="NIST" value="NBS GCR 80-287"/>
 </reference>

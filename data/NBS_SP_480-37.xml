@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.480-37" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-37.pdf">
   <front>
     <title>Emergency vehicle warning systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-37"/>
-    <seriesInfo name="NIST" value="NBS SP 480-37"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
-    <author fullname="Gerald Howett" initials="G." surname="Howett"/>
+    <author fullname="Arthur Rubin" initials="I" surname="Rubin">
+      <organization/>
+    </author>
+    <author fullname="Gerald Howett" initials="L" surname="Howett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-37"/>
+  <seriesInfo name="NIST" value="NBS SP 480-37"/>
 </reference>

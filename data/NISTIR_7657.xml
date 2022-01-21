@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7657" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7657.pdf">
   <front>
     <title>A report on the privilege (access) management workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7657"/>
-    <seriesInfo name="NIST" value="NIST IR 7657"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7657"/>
+  <seriesInfo name="NIST" value="NIST IR 7657"/>
 </reference>

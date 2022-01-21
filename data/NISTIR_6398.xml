@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6398" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6398.pdf">
   <front>
     <title>Spot test kits for detecting lead in household paint:a laboratory evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6398"/>
-    <seriesInfo name="NIST" value="NIST IR 6398"/>
-    <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
-    <author fullname="Mark Vangel" initials="M." surname="Vangel"/>
-    <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
-    <author fullname="Gary Dewalt" initials="G." surname="Dewalt"/>
+    <author fullname="WalterJr Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Mark Vangel" initials="G" surname="Vangel">
+      <organization/>
+    </author>
+    <author fullname="Mary McKnight" initials="E" surname="McKnight">
+      <organization/>
+    </author>
+    <author fullname="Gary Dewalt" initials="G." surname="Dewalt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6398"/>
+  <seriesInfo name="NIST" value="NIST IR 6398"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7922" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7922.pdf">
   <front>
     <title>Engineering Change Management Concepts for Systems Modeling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7922"/>
-    <seriesInfo name="NIST" value="NIST IR 7922"/>
     <author fullname="Conrad Bock" initials="C." surname="Bock">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7922"/>
+  <seriesInfo name="NIST" value="NIST IR 7922"/>
 </reference>

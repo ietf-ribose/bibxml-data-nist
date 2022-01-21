@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4664" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4664.pdf">
   <front>
     <title>Flammability characterization of foam plastics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4664"/>
-    <seriesInfo name="NIST" value="NIST IR 4664"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
-    <author fullname="James Quintiere" initials="J." surname="Quintiere"/>
+    <author fullname="Thomas Cleary" initials="G" surname="Cleary">
+      <organization/>
+    </author>
+    <author fullname="James Quintiere" initials="G" surname="Quintiere">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4664"/>
+  <seriesInfo name="NIST" value="NIST IR 4664"/>
 </reference>

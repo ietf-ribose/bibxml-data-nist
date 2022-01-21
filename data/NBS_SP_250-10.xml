@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.250-10" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-10.pdf">
   <front>
     <title>Radioactivity calibrations with the "4π" Gamma ionization chamber and other radioactivity calibration capabilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-10"/>
-    <seriesInfo name="NIST" value="NBS SP 250-10"/>
-    <author fullname="Jacqueline Calhoun" initials="J." surname="Calhoun"/>
+    <author fullname="Jacqueline Calhoun" initials="M" surname="Calhoun">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-10"/>
+  <seriesInfo name="NIST" value="NBS SP 250-10"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1242" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1242.pdf">
   <front>
     <title>2019 NIST Center for Neutron Research accomplishments and opportunities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1242"/>
-    <seriesInfo name="NIST" value="NIST SP 1242"/>
-    <author fullname="Steven Kline" initials="S." surname="Kline">
+    <author fullname="Steven Kline" initials="R" surname="Kline">
       <organization>National Institute of Standards and Technology.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1242"/>
+  <seriesInfo name="NIST" value="NIST SP 1242"/>
 </reference>

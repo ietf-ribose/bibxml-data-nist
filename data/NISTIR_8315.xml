@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8315" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8315.pdf">
   <front>
     <title>Evaluating the operational impact of contactless fingerprint imagery on matcher performance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8315"/>
-    <seriesInfo name="NIST" value="NIST IR 8315"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8315"/>
+  <seriesInfo name="NIST" value="NIST IR 8315"/>
 </reference>

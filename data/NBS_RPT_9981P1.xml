@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9981p1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9981p1.pdf">
   <front>
     <title>Metallurgical examination and mechanical tests of material from the Point Pleasant, W. Va. Bridge:part 1. examination of fractures and adjacent material in C13 Eye of Eyebar C11-C13 NN</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9981p1"/>
-    <seriesInfo name="NIST" value="NBS RPT 9981p1"/>
-    <author fullname="John Bennett" initials="J." surname="Bennett"/>
+    <author fullname="John Bennett" initials="A" surname="Bennett">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9981p1"/>
+  <seriesInfo name="NIST" value="NBS RPT 9981p1"/>
 </reference>

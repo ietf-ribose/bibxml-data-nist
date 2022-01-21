@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph127.pdf">
   <front>
     <title>NBS papers on underground corrosion of steel piling 1962-1971 :corrosion of steel pilings in soil, corrosion evaluation of steel test piles exposed to permafrost soils, performance of steel pilings in soils, polarization measurements as related to corrosion of underground steel piling</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.127"/>
-    <seriesInfo name="NIST" value="NBS MONO 127"/>
-    <author surname="Schwerdtfeger"/>
-    <author fullname="Melvin Romanoff" initials="M." surname="Romanoff"/>
+    <author initials="WJ" surname="Schwerdtfeger">
+      <organization/>
+    </author>
+    <author fullname="Melvin Romanoff" initials="M." surname="Romanoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.127"/>
+  <seriesInfo name="NIST" value="NBS MONO 127"/>
 </reference>

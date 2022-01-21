@@ -1,8 +1,6 @@
 <reference anchor="NBS.TIBM.49" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TIBM/nbstibm49.pdf">
   <front>
     <title>Wood and shingle stains</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TIBM.49"/>
-    <seriesInfo name="NIST" value="NBS TIBM 49"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1937"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TIBM.49"/>
+  <seriesInfo name="NIST" value="NBS TIBM 49"/>
 </reference>

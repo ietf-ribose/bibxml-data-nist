@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4281" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4281.pdf">
   <front>
     <title>Center for Electronics and Electrical Engineering:1990 program description</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4281"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4281"/>
-    <author fullname="Ronald Powell" initials="R." surname="Powell"/>
+    <author fullname="Ronald Powell" initials="M" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4281"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4281"/>
 </reference>

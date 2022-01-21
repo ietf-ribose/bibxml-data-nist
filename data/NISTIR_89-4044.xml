@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4044" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4044.pdf">
   <front>
     <title>Screening procedures for detecting lead in existing paint films:a literature review</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4044"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4044"/>
-    <author fullname="Mary McKnight" initials="M." surname="McKnight"/>
-    <author fullname="Eric Byrd" initials="E." surname="Byrd"/>
+    <author fullname="Mary McKnight" initials="E" surname="McKnight">
+      <organization/>
+    </author>
+    <author fullname="Eric Byrd" initials="W" surname="Byrd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4044"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4044"/>
 </reference>

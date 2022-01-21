@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5836" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5836.pdf">
   <front>
     <title>The fire hazard assessment methodology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5836"/>
-    <seriesInfo name="NIST" value="NIST IR 5836"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5836"/>
+  <seriesInfo name="NIST" value="NIST IR 5836"/>
 </reference>

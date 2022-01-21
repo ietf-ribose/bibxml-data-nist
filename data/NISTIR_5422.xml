@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5422" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5422.pdf">
   <front>
     <title>The application of the electronic balance in high precision pycnometry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5422"/>
-    <seriesInfo name="NIST" value="NIST IR 5422"/>
-    <author fullname="William Crupe" initials="W." surname="Crupe"/>
+    <author fullname="William Crupe" initials="E" surname="Crupe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5422"/>
+  <seriesInfo name="NIST" value="NIST IR 5422"/>
 </reference>

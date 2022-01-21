@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2046" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2046.pdf">
   <front>
     <title>Estimating real-time infiltration for use in residential ventilation control</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2046"/>
-    <seriesInfo name="NIST" value="NIST TN 2046"/>
     <author fullname="Lisa Ng" initials="L." surname="Ng">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -15,10 +13,10 @@
     <author fullname="Brian Toll" initials="B." surname="Toll">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Steven Emmerich" initials="S." surname="Emmerich">
+    <author fullname="Steven Emmerich" initials="J" surname="Emmerich">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Andrew Persily" initials="A." surname="Persily">
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2019" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2046"/>
+  <seriesInfo name="NIST" value="NIST TN 2046"/>
 </reference>

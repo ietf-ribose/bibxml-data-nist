@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.77-1310" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1310.pdf">
   <front>
     <title>Microcalorimetric study of cardiac pacemakers and batteries</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1310"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1310"/>
-    <author fullname="Edward Prosen" initials="E." surname="Prosen"/>
-    <author fullname="Jennifer Colbert" initials="J." surname="Colbert"/>
+    <author fullname="Edward Prosen" initials="J" surname="Prosen">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Colbert" initials="C" surname="Colbert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1310"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1310"/>
 </reference>

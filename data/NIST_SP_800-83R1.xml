@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-83r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-83r1.pdf">
   <front>
     <title>Guide to Malware Incident Prevention and Handling for Desktops and Laptops</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-83r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-83r1"/>
     <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-83r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-83r1"/>
 </reference>

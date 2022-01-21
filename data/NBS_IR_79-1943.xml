@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.79-1943" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1943.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1943"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1943"/>
-    <author fullname="James Cassel" initials="J." surname="Cassel"/>
-    <author surname="Tesk"/>
-    <author surname="Brauer"/>
-    <author surname="Antonucci"/>
-    <author surname="McKinney"/>
-    <author surname="Whitlock"/>
-    <author surname="McKenna"/>
+    <author fullname="James Cassel" initials="M" surname="Cassel">
+      <organization/>
+    </author>
+    <author initials="TA" surname="Tesk">
+      <organization/>
+    </author>
+    <author initials="GM" surname="Brauer">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Antonucci">
+      <organization/>
+    </author>
+    <author initials="JE" surname="McKinney">
+      <organization/>
+    </author>
+    <author initials="WP" surname="Whitlock">
+      <organization/>
+    </author>
+    <author initials="GB" surname="McKenna">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1943"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1943"/>
 </reference>

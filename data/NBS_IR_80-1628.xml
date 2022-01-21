@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-1628" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1628.pdf">
   <front>
     <title>Measuring features of the fluence at the far field of a CO₂ pulsed laser -- an issue study with suggestions on how to do it</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1628"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1628"/>
-    <author fullname="Eric Johnson" initials="E." surname="Johnson"/>
-    <author fullname="Robert Phelan" initials="R." surname="Phelan"/>
-    <author fullname="Don Boyle" initials="D." surname="Boyle"/>
+    <author fullname="Eric Johnson" initials="G" surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="Robert Phelan" initials="J" surname="Phelan">
+      <organization/>
+    </author>
+    <author fullname="Don Boyle" initials="R" surname="Boyle">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1628"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1628"/>
 </reference>

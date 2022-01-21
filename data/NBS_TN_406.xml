@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.406" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote406.pdf">
   <front>
     <title>X-Ray wavelength conversion tables and graphs for qualitative electron probe microanalysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.406"/>
-    <seriesInfo name="NIST" value="NBS TN 406"/>
-    <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
+    <author fullname="Kurt Heinrich" initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.406"/>
+  <seriesInfo name="NIST" value="NBS TN 406"/>
 </reference>

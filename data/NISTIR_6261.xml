@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6261" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6261.pdf">
   <front>
     <title>Program handbook:procedures for obtaining NIST recognition as an accreditor of Quality System Registrars under the Fastener Quality Act</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6261"/>
-    <seriesInfo name="NIST" value="NIST IR 6261"/>
-    <author fullname="Wayne Stiefel" initials="W." surname="Stiefel"/>
-    <author fullname="Robert Gladhill" initials="R." surname="Gladhill"/>
+    <author fullname="Wayne Stiefel" initials="S" surname="Stiefel">
+      <organization/>
+    </author>
+    <author fullname="Robert Gladhill" initials="L" surname="Gladhill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6261"/>
+  <seriesInfo name="NIST" value="NIST IR 6261"/>
 </reference>

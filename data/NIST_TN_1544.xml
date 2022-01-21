@@ -1,14 +1,24 @@
 <reference anchor="NIST.TN.1544" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1544.pdf">
   <front>
     <title>TEM horn antenna design principles</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1544"/>
-    <seriesInfo name="NIST" value="NIST TN 1544"/>
-    <author fullname="Seturnino Canles" initials="S." surname="Canles"/>
-    <author fullname="Benjamin Davis" initials="B." surname="Davis"/>
-    <author fullname="Robert Johnk" initials="R." surname="Johnk"/>
-    <author fullname="David Novotny" initials="D." surname="Novotny"/>
-    <author fullname="Jason Veneman" initials="J." surname="Veneman"/>
-    <author fullname="Chriss Grosvenor" initials="C." surname="Grosvenor"/>
+    <author fullname="Seturnino Canles" initials="S." surname="Canles">
+      <organization/>
+    </author>
+    <author fullname="Benjamin Davis" initials="B." surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Robert Johnk" initials="T" surname="Johnk">
+      <organization/>
+    </author>
+    <author fullname="David Novotny" initials="R" surname="Novotny">
+      <organization/>
+    </author>
+    <author fullname="Jason Veneman" initials="J." surname="Veneman">
+      <organization/>
+    </author>
+    <author fullname="Chriss Grosvenor" initials="A" surname="Grosvenor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1544"/>
+  <seriesInfo name="NIST" value="NIST TN 1544"/>
 </reference>

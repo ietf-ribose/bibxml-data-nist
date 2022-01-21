@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7224" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7224.pdf">
   <front>
     <title>45h annual PKI R &amp; D workshop multiple paths to trust proceedings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7224"/>
-    <seriesInfo name="NIST" value="NIST IR 7224"/>
-    <author fullname="Clifford Neuman" initials="C." surname="Neuman"/>
-    <author fullname="Nelson Hastings" initials="N." surname="Hastings"/>
-    <author fullname="William Polk" initials="W." surname="Polk"/>
+    <author fullname="Clifford Neuman" initials="C." surname="Neuman">
+      <organization/>
+    </author>
+    <author fullname="Nelson Hastings" initials="E" surname="Hastings">
+      <organization/>
+    </author>
+    <author fullname="William Polk" initials="T" surname="Polk">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7224"/>
+  <seriesInfo name="NIST" value="NIST IR 7224"/>
 </reference>

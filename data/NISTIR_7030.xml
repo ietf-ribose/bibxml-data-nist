@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7030" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7030.pdf">
   <front>
     <title>Picture password :a visual login technique for mobile devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7030"/>
-    <seriesInfo name="NIST" value="NIST IR 7030"/>
-    <author fullname="Wayne Jansen" initials="W." surname="Jansen"/>
-    <author fullname="Serban Gavrila" initials="S." surname="Gavrila"/>
-    <author fullname="Vlad Korolev" initials="V." surname="Korolev"/>
-    <author fullname="Rick Ayers" initials="R." surname="Ayers"/>
-    <author fullname="Ryan Swanstrom" initials="R." surname="Swanstrom"/>
+    <author fullname="Wayne Jansen" initials="W." surname="Jansen">
+      <organization/>
+    </author>
+    <author fullname="Serban Gavrila" initials="S." surname="Gavrila">
+      <organization/>
+    </author>
+    <author fullname="Vlad Korolev" initials="V." surname="Korolev">
+      <organization/>
+    </author>
+    <author fullname="Rick Ayers" initials="R." surname="Ayers">
+      <organization/>
+    </author>
+    <author fullname="Ryan Swanstrom" initials="R." surname="Swanstrom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7030"/>
+  <seriesInfo name="NIST" value="NIST IR 7030"/>
 </reference>

@@ -1,21 +1,19 @@
 <reference anchor="NIST.HB.44-2019" target="https://nvlpubs.nist.gov/nistpubs/hb/2019/NIST.HB.44-2019.pdf">
   <front>
     <title>Specifications, tolerances, and other technical requirements for weighing and measuring devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.44-2019"/>
-    <seriesInfo name="NIST" value="NIST HB 44-2019"/>
     <author fullname="John Barton" initials="J." surname="Barton">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Tina Butcher" initials="T." surname="Butcher">
+    <author fullname="Tina Butcher" initials="G" surname="Butcher">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Linda Crown" initials="L." surname="Crown">
+    <author fullname="Linda Crown" initials="D" surname="Crown">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Richard Harshman" initials="R." surname="Harshman">
+    <author fullname="Richard Harshman" initials="A" surname="Harshman">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Diane Lee" initials="D." surname="Lee">
+    <author fullname="Diane Lee" initials="G" surname="Lee">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2018" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.44-2019"/>
+  <seriesInfo name="NIST" value="NIST HB 44-2019"/>
 </reference>

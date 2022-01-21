@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.379" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication379.pdf">
   <front>
     <title>Report of the 57th National Conference on Weights and Measures 1972</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.379"/>
-    <seriesInfo name="NIST" value="NBS SP 379"/>
-    <author fullname="Francis Bell" initials="F." surname="Bell"/>
-    <author fullname="Harold Wollin" initials="H." surname="Wollin"/>
+    <author fullname="Francis Bell" initials="C" surname="Bell">
+      <organization/>
+    </author>
+    <author fullname="Harold Wollin" initials="F" surname="Wollin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.379"/>
+  <seriesInfo name="NIST" value="NBS SP 379"/>
 </reference>

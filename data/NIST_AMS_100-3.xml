@@ -1,12 +1,10 @@
 <reference anchor="NIST.AMS.100-3" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-3.pdf">
   <front>
     <title>Microstructure Analysis for Additive Manufacturing: A Review of Existing Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-3"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-3"/>
-    <author fullname="Christopher Brown" initials="C." surname="Brown">
+    <author fullname="Christopher Brown" initials="U" surname="Brown">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Alkan Donmez" initials="A." surname="Donmez">
+    <author fullname="Alkan Donmez" initials="MA" surname="Donmez">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-3"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-3"/>
 </reference>

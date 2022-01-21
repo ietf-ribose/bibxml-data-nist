@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.500-171" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-171.pdf">
   <front>
     <title>Computer user's guide to the protection of informtion resources</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-171"/>
-    <seriesInfo name="NIST" value="NIST SP 500-171"/>
-    <author fullname="Cheryl Helsing" initials="C." surname="Helsing"/>
-    <author fullname="Marianne Swanson" initials="M." surname="Swanson"/>
-    <author fullname="MaryAnne Todd" initials="M.A." surname="Todd"/>
+    <author fullname="Cheryl Helsing" initials="C." surname="Helsing">
+      <organization/>
+    </author>
+    <author fullname="Marianne Swanson" initials="M." surname="Swanson">
+      <organization/>
+    </author>
+    <author fullname="MaryAnne Todd" initials="M.A." surname="Todd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-171"/>
+  <seriesInfo name="NIST" value="NIST SP 500-171"/>
 </reference>

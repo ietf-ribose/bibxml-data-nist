@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.89-4225" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4225.pdf">
   <front>
     <title>Optimal 3-dimensional methods for linear programming</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4225"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4225"/>
-    <author fullname="Paul Domich" initials="P." surname="Domich"/>
-    <author fullname="Paul Boggs" initials="P." surname="Boggs"/>
-    <author fullname="Janet Donaldson" initials="J." surname="Donaldson"/>
-    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall"/>
+    <author fullname="Paul Domich" initials="D" surname="Domich">
+      <organization/>
+    </author>
+    <author fullname="Paul Boggs" initials="T" surname="Boggs">
+      <organization/>
+    </author>
+    <author fullname="Janet Donaldson" initials="R" surname="Donaldson">
+      <organization/>
+    </author>
+    <author fullname="Christoph Witzgall" initials="C." surname="Witzgall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4225"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4225"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1295" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1295.pdf">
   <front>
     <title>Initial graphics exchange specification hybrid microcircuit application protocol</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1295"/>
-    <seriesInfo name="NIST" value="NIST TN 1295"/>
-    <author fullname="Curtis Parks" initials="C." surname="Parks"/>
+    <author fullname="Curtis Parks" initials="H" surname="Parks">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1295"/>
+  <seriesInfo name="NIST" value="NIST TN 1295"/>
 </reference>

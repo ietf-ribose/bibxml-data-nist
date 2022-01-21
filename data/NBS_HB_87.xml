@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.87" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook87.pdf">
   <front>
     <title>Clinical dosimetry: recommendations of the International Commission on Radiological Units and Measurements (1962) ICRU report 10d</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.87"/>
-    <seriesInfo name="NIST" value="NBS HB 87"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.87"/>
+  <seriesInfo name="NIST" value="NBS HB 87"/>
 </reference>

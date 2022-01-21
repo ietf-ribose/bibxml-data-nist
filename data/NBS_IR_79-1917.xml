@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1917" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1917.pdf">
   <front>
     <title>Solar energy systems :standards for rubber hose</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1917"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1917"/>
-    <author fullname="Robert Stiehler" initials="R." surname="Stiehler"/>
-    <author fullname="John Michalak" initials="J." surname="Michalak"/>
+    <author fullname="Robert Stiehler" initials="D" surname="Stiehler">
+      <organization/>
+    </author>
+    <author fullname="John Michalak" initials="L" surname="Michalak">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1917"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1917"/>
 </reference>

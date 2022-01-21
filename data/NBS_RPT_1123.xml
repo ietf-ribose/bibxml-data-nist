@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.1123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport1123.pdf">
   <front>
     <title>High temperature thermodynamics technical report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.1123"/>
-    <seriesInfo name="NIST" value="NBS RPT 1123"/>
-    <author surname="Brickwedde"/>
+    <author initials="FG" surname="Brickwedde">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.1123"/>
+  <seriesInfo name="NIST" value="NBS RPT 1123"/>
 </reference>

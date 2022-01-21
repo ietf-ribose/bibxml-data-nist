@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook118.pdf">
   <front>
     <title>MUMPS language standard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.118"/>
-    <seriesInfo name="NIST" value="NBS HB 118"/>
-    <author fullname="Joseph O'Neill" initials="J." surname="O'Neill"/>
+    <author fullname="Joseph O'Neill" initials="T" surname="O'Neill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.118"/>
+  <seriesInfo name="NIST" value="NBS HB 118"/>
 </reference>

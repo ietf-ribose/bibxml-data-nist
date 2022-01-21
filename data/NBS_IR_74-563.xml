@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-563" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-563.pdf">
   <front>
     <title>Recommendations for a safety standard for home playground equipment- swing sets</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-563"/>
-    <seriesInfo name="NIST" value="NBS IR 74-563"/>
-    <author fullname="Bal Mahajan" initials="B." surname="Mahajan"/>
+    <author fullname="Bal Mahajan" initials="M" surname="Mahajan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-563"/>
+  <seriesInfo name="NIST" value="NBS IR 74-563"/>
 </reference>

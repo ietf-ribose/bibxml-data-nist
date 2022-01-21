@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-218" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-218.pdf">
   <front>
     <title>Analyzing electronic commerce</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-218"/>
-    <seriesInfo name="NIST" value="NIST SP 500-218"/>
-    <author fullname="Len Gebase" initials="L." surname="Gebase"/>
-    <author fullname="Steve Trus" initials="S." surname="Trus"/>
+    <author fullname="Len Gebase" initials="L." surname="Gebase">
+      <organization/>
+    </author>
+    <author fullname="Steve Trus" initials="S." surname="Trus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-218"/>
+  <seriesInfo name="NIST" value="NIST SP 500-218"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.480-22" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-22.pdf">
   <front>
     <title>Terms and definitions for door and window security</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-22"/>
-    <seriesInfo name="NIST" value="NBS SP 480-22"/>
-    <author fullname="John Stroik" initials="J." surname="Stroik"/>
+    <author fullname="John Stroik" initials="S" surname="Stroik">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-22"/>
+  <seriesInfo name="NIST" value="NBS SP 480-22"/>
 </reference>

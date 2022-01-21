@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1413" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1413.pdf">
   <front>
     <title>[45 degree] 0 [degree] reflectance factors of pressed polytetrafluoroethylene (PTFE) powder</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1413"/>
-    <seriesInfo name="NIST" value="NIST TN 1413"/>
-    <author surname="Hsia"/>
-    <author fullname="Yvonne Barnes" initials="Y." surname="Barnes"/>
+    <author initials="JJ" surname="Hsia">
+      <organization/>
+    </author>
+    <author fullname="Yvonne Barnes" initials="P" surname="Barnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1413"/>
+  <seriesInfo name="NIST" value="NIST TN 1413"/>
 </reference>

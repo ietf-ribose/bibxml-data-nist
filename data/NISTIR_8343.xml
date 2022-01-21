@@ -1,27 +1,25 @@
 <reference anchor="NIST.IR.8343" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8343.pdf">
   <front>
     <title>Health Assessment Measurements Quality Assurance Program: Exercise 5 Final Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8343"/>
-    <seriesInfo name="NIST" value="NIST IR 8343"/>
-    <author fullname="Charles Barber" initials="C." surname="Barber">
+    <author fullname="Charles Barber" initials="A" surname="Barber">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Carolyn Burdette" initials="C." surname="Burdette">
+    <author fullname="Carolyn Burdette" initials="Q" surname="Burdette">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Hugh Hayes" initials="H." surname="Hayes">
+    <author fullname="Hugh Hayes" initials="V" surname="Hayes">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Caleb Luvonga" initials="C." surname="Luvonga">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+    <author fullname="Melissa Phillips" initials="M" surname="Phillips">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+    <author fullname="Catherine Rimmer" initials="A" surname="Rimmer">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Laura Wood" initials="L." surname="Wood">
+    <author fullname="Laura Wood" initials="J" surname="Wood">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Lee Yu" initials="L." surname="Yu">
@@ -32,4 +30,6 @@
     </author>
     <date year="2021" month="January" day="14"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8343"/>
+  <seriesInfo name="NIST" value="NIST IR 8343"/>
 </reference>

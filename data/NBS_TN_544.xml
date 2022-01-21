@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.544" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote544.pdf">
   <front>
     <title>Analytical coordination chemistry section.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.544"/>
-    <seriesInfo name="NIST" value="NBS TN 544"/>
-    <author fullname="Oscar Menis" initials="O." surname="Menis"/>
+    <author fullname="Oscar Menis" initials="O." surname="Menis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.544"/>
+  <seriesInfo name="NIST" value="NBS TN 544"/>
 </reference>

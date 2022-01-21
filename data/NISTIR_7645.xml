@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7645" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7645.pdf">
   <front>
     <title>Symbols representing biometrics in use</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7645"/>
-    <seriesInfo name="NIST" value="NIST IR 7645"/>
-    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong"/>
-    <author fullname="Mary Theofanos" initials="M." surname="Theofanos"/>
-    <author fullname="Brian Stanton" initials="B." surname="Stanton"/>
-    <author fullname="Patrick Hofmann" initials="P." surname="Hofmann"/>
+    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong">
+      <organization/>
+    </author>
+    <author fullname="Mary Theofanos" initials="M." surname="Theofanos">
+      <organization/>
+    </author>
+    <author fullname="Brian Stanton" initials="B." surname="Stanton">
+      <organization/>
+    </author>
+    <author fullname="Patrick Hofmann" initials="P." surname="Hofmann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7645"/>
+  <seriesInfo name="NIST" value="NIST IR 7645"/>
 </reference>

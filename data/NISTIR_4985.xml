@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4985" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4985.pdf">
   <front>
     <title>A user's guide for CFAST version 1.6</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4985"/>
-    <seriesInfo name="NIST" value="NIST IR 4985"/>
-    <author fullname="Walter Jones" initials="W." surname="Jones"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
+    <author fullname="Walter Jones" initials="W" surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4985"/>
+  <seriesInfo name="NIST" value="NIST IR 4985"/>
 </reference>

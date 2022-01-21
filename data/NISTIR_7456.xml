@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7456" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7456.pdf">
   <front>
     <title>Effect of lubricant on R410A horizontal flow boiling</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7456"/>
-    <seriesInfo name="NIST" value="NIST IR 7456"/>
-    <author fullname="Nitin Sawant" initials="N." surname="Sawant"/>
-    <author fullname="Mark Kedzierski" initials="M." surname="Kedzierski"/>
-    <author fullname="Steven Brown" initials="S." surname="Brown"/>
+    <author fullname="Nitin Sawant" initials="N" surname="Sawant">
+      <organization/>
+    </author>
+    <author fullname="Mark Kedzierski" initials="A" surname="Kedzierski">
+      <organization/>
+    </author>
+    <author fullname="Steven Brown" initials="J" surname="Brown">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7456"/>
+  <seriesInfo name="NIST" value="NIST IR 7456"/>
 </reference>

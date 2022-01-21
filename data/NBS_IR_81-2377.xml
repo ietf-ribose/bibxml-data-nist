@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.81-2377" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2377.pdf">
   <front>
     <title>Effects of time-varying noise on annoyance :a review</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2377"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2377"/>
-    <author fullname="Simone Yaniv" initials="S." surname="Yaniv"/>
-    <author fullname="Jay Bauer" initials="J." surname="Bauer"/>
-    <author fullname="Daniel Flynn" initials="D." surname="Flynn"/>
-    <author fullname="William Danner" initials="W." surname="Danner"/>
+    <author fullname="Simone Yaniv" initials="Y" surname="Yaniv">
+      <organization/>
+    </author>
+    <author fullname="Jay Bauer" initials="W" surname="Bauer">
+      <organization/>
+    </author>
+    <author fullname="Daniel Flynn" initials="R" surname="Flynn">
+      <organization/>
+    </author>
+    <author fullname="William Danner" initials="F" surname="Danner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2377"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2377"/>
 </reference>

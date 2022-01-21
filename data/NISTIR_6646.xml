@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.6646" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6646.pdf">
   <front>
     <title>Thermophysical properties measurements and models for rocket propellant RP-1:phase I</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6646"/>
-    <seriesInfo name="NIST" value="NIST IR 6646"/>
-    <author fullname="Joseph Magee" initials="J." surname="Magee"/>
-    <author fullname="Thomas Bruno" initials="T." surname="Bruno"/>
-    <author fullname="Daniel Friend" initials="D." surname="Friend"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
-    <author fullname="Arno Laesecke" initials="A." surname="Laesecke"/>
-    <author fullname="Eric Lemmon" initials="E." surname="Lemmon"/>
-    <author fullname="Mark McLinden" initials="M." surname="McLinden"/>
-    <author fullname="Richard Perkins" initials="R." surname="Perkins"/>
-    <author fullname="Jörg Baranski" initials="J." surname="Baranski"/>
-    <author fullname="Jason Widegren" initials="J." surname="Widegren"/>
+    <author fullname="Joseph Magee" initials="W" surname="Magee">
+      <organization/>
+    </author>
+    <author fullname="Thomas Bruno" initials="J" surname="Bruno">
+      <organization/>
+    </author>
+    <author fullname="Daniel Friend" initials="G" surname="Friend">
+      <organization/>
+    </author>
+    <author fullname="Marcia Huber" initials="L" surname="Huber">
+      <organization/>
+    </author>
+    <author fullname="Arno Laesecke" initials="A." surname="Laesecke">
+      <organization/>
+    </author>
+    <author fullname="Eric Lemmon" initials="W" surname="Lemmon">
+      <organization/>
+    </author>
+    <author fullname="Mark McLinden" initials="O" surname="McLinden">
+      <organization/>
+    </author>
+    <author fullname="Richard Perkins" initials="A" surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="Jörg Baranski" initials="J." surname="Baranski">
+      <organization/>
+    </author>
+    <author fullname="Jason Widegren" initials="A" surname="Widegren">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6646"/>
+  <seriesInfo name="NIST" value="NIST IR 6646"/>
 </reference>

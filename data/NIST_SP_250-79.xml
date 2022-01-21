@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-79" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-79.pdf">
   <front>
     <title>Airspeed calibration service</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-79"/>
-    <seriesInfo name="NIST" value="NIST SP 250-79"/>
-    <author fullname="Mike Hall" initials="M." surname="Hall"/>
-    <author surname="Yeh"/>
+    <author fullname="Mike Hall" initials="M." surname="Hall">
+      <organization/>
+    </author>
+    <author initials="TT" surname="Yeh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-79"/>
+  <seriesInfo name="NIST" value="NIST SP 250-79"/>
 </reference>

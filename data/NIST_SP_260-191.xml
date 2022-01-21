@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.260-191" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-191.pdf">
   <front>
     <title>Certification of standard reference material 2365 BK virus DNA quantitative standard</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-191"/>
-    <seriesInfo name="NIST" value="NIST SP 260-191"/>
-    <author fullname="Megan Cleveland" initials="M." surname="Cleveland">
+    <author fullname="Megan Cleveland" initials="H" surname="Cleveland">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Natalia Farkas" initials="N." surname="Farkas">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Kevin Kiesler" initials="K." surname="Kiesler">
+    <author fullname="Kevin Kiesler" initials="M" surname="Kiesler">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Blaza Toman" initials="B." surname="Toman">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Peter Vallone" initials="P." surname="Vallone">
+    <author fullname="Peter Vallone" initials="M" surname="Vallone">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2018" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-191"/>
+  <seriesInfo name="NIST" value="NIST SP 260-191"/>
 </reference>

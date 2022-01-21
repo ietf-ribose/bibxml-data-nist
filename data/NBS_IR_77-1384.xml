@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1384" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1384.pdf">
   <front>
     <title>Interactive computer program for the determination of sound power</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1384"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1384"/>
-    <author fullname="Thomas Bartel" initials="T." surname="Bartel"/>
+    <author fullname="Thomas Bartel" initials="W" surname="Bartel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1384"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1384"/>
 </reference>

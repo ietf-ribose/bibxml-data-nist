@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.8075" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8075.pdf">
   <front>
     <title>Resulets of barrier fabrics tested in an inverted configuration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8075"/>
-    <seriesInfo name="NIST" value="NIST IR 8075"/>
-    <author fullname="Rick Davis" initials="R." surname="Davis"/>
-    <author fullname="Shonali Nazare" initials="S." surname="Nazare"/>
-    <author fullname="Szabolcs Matko" initials="S." surname="Matko"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Mauro Zammarano" initials="M." surname="Zammarano"/>
+    <author fullname="Rick Davis" initials="D" surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="Shonali Nazare" initials="S." surname="Nazare">
+      <organization/>
+    </author>
+    <author fullname="Szabolcs Matko" initials="S." surname="Matko">
+      <organization/>
+    </author>
+    <author fullname="William Pitts" initials="W." surname="Pitts">
+      <organization/>
+    </author>
+    <author fullname="Mauro Zammarano" initials="M." surname="Zammarano">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2015"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8075"/>
+  <seriesInfo name="NIST" value="NIST IR 8075"/>
 </reference>

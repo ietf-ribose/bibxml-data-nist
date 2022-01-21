@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-429" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-429.pdf">
   <front>
     <title>Corrosion of the stainless steel piping in the Kuwait water supply system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-429"/>
-    <seriesInfo name="NIST" value="NBS IR 74-429"/>
-    <author surname="Ugiansky"/>
-    <author surname="Kruger"/>
+    <author initials="GM" surname="Ugiansky">
+      <organization/>
+    </author>
+    <author initials="J" surname="Kruger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-429"/>
+  <seriesInfo name="NIST" value="NBS IR 74-429"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.9912" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9912.pdf">
   <front>
     <title>Outdoor performance of plastics:I. introduction and color-change</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9912"/>
-    <seriesInfo name="NIST" value="NBS RPT 9912"/>
-    <author fullname="Joseph Clark" initials="J." surname="Clark"/>
-    <author fullname="Paul Giesecke" initials="P." surname="Giesecke"/>
+    <author fullname="Joseph Clark" initials="E" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Paul Giesecke" initials="P." surname="Giesecke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9912"/>
+  <seriesInfo name="NIST" value="NBS RPT 9912"/>
 </reference>

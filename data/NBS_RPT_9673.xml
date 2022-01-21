@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9673" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9673.pdf">
   <front>
     <title>Survey of fire loads in modern office buildings:preliminary report on first phase</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9673"/>
-    <seriesInfo name="NIST" value="NBS RPT 9673"/>
-    <author surname="Bryson"/>
+    <author initials="JO" surname="Bryson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9673"/>
+  <seriesInfo name="NIST" value="NBS RPT 9673"/>
 </reference>

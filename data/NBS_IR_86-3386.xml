@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.86-3386" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3386.pdf">
   <front>
     <title>Work priority scheme for EDP audit and computer security review</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3386"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3386"/>
-    <author fullname="Zella Ruthberg" initials="Z." surname="Ruthberg"/>
-    <author fullname="Bonnie Fisher" initials="B." surname="Fisher"/>
+    <author fullname="Zella Ruthberg" initials="G" surname="Ruthberg">
+      <organization/>
+    </author>
+    <author fullname="Bonnie Fisher" initials="T" surname="Fisher">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3386"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3386"/>
 </reference>

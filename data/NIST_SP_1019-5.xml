@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.1019-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1019-5.pdf">
   <front>
     <title>Fire dynamics simulator (version 5) :user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1019-5"/>
-    <seriesInfo name="NIST" value="NIST SP 1019-5"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Bryan Klein" initials="B." surname="Klein"/>
-    <author fullname="Simo Hostikka" initials="S." surname="Hostikka"/>
-    <author fullname="Jason Floyd" initials="J." surname="Floyd"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Bryan Klein" initials="B." surname="Klein">
+      <organization/>
+    </author>
+    <author fullname="Simo Hostikka" initials="S." surname="Hostikka">
+      <organization/>
+    </author>
+    <author fullname="Jason Floyd" initials="E" surname="Floyd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1019-5"/>
+  <seriesInfo name="NIST" value="NIST SP 1019-5"/>
 </reference>

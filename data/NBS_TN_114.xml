@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.114" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote114.pdf">
   <front>
     <title>Mode calculations for VLF propagation in the earth-ionosphere waveguide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.114"/>
-    <seriesInfo name="NIST" value="NBS TN 114"/>
-    <author fullname="Kenneth Spies" initials="K." surname="Spies"/>
+    <author fullname="Kenneth Spies" initials="P" surname="Spies">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.114"/>
+  <seriesInfo name="NIST" value="NBS TN 114"/>
 </reference>

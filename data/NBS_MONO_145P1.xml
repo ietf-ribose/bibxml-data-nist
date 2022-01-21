@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.145p1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph145p1.pdf">
   <front>
     <title>Tables of spectral-line intensities :part 1- arranged by elements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.145p1"/>
-    <seriesInfo name="NIST" value="NBS MONO 145p1"/>
-    <author fullname="William Meggers" initials="W." surname="Meggers"/>
-    <author fullname="Charles Corliss" initials="C." surname="Corliss"/>
-    <author fullname="Bourdon Scribner" initials="B." surname="Scribner"/>
+    <author fullname="William Meggers" initials="F" surname="Meggers">
+      <organization/>
+    </author>
+    <author fullname="Charles Corliss" initials="H" surname="Corliss">
+      <organization/>
+    </author>
+    <author fullname="Bourdon Scribner" initials="F" surname="Scribner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.145p1"/>
+  <seriesInfo name="NIST" value="NBS MONO 145p1"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6903" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6903.pdf">
   <front>
     <title>Distribution of earthquake input energy in structures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6903"/>
-    <seriesInfo name="NIST" value="NIST IR 6903"/>
-    <author fullname="Payam Khashaee" initials="P." surname="Khashaee"/>
-    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz"/>
-    <author fullname="Fahim Sadek" initials="F." surname="Sadek"/>
-    <author surname="Lew"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
+    <author fullname="Payam Khashaee" initials="P." surname="Khashaee">
+      <organization/>
+    </author>
+    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz">
+      <organization/>
+    </author>
+    <author fullname="Fahim Sadek" initials="F." surname="Sadek">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6903"/>
+  <seriesInfo name="NIST" value="NIST IR 6903"/>
 </reference>

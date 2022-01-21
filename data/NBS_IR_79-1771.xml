@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1771" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1771.pdf">
   <front>
     <title>An investigation of preferences for various types of energy cost feedback</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1771"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1771"/>
-    <author fullname="Ann Ramey-Smith" initials="A." surname="Ramey-Smith"/>
-    <author fullname="Jennifer Gagnon" initials="J." surname="Gagnon"/>
+    <author fullname="Ann Ramey-Smith" initials="A." surname="Ramey-Smith">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Gagnon" initials="L" surname="Gagnon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1771"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1771"/>
 </reference>

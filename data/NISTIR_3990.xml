@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.3990" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3990.pdf">
   <front>
     <title>Gradiometer antennas for tunnel detection</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3990"/>
-    <seriesInfo name="NIST" value="NIST IR 3990"/>
-    <author fullname="David Hill" initials="D." surname="Hill"/>
+    <author fullname="David Hill" initials="A" surname="Hill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3990"/>
+  <seriesInfo name="NIST" value="NIST IR 3990"/>
 </reference>

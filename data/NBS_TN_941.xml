@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.941" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote941.pdf">
   <front>
     <title>Stone preservatives :methods of laboratory testing and preliminary performance criteria</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.941"/>
-    <seriesInfo name="NIST" value="NBS TN 941"/>
-    <author fullname="Gerald Sleater" initials="G." surname="Sleater"/>
+    <author fullname="Gerald Sleater" initials="A" surname="Sleater">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.941"/>
+  <seriesInfo name="NIST" value="NBS TN 941"/>
 </reference>

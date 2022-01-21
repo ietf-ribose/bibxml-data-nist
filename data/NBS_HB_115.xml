@@ -1,11 +1,15 @@
 <reference anchor="NBS.HB.115" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook115.pdf">
   <front>
     <title>Energy conservation program guide for industry and commerce (EPIC)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.115"/>
-    <seriesInfo name="NIST" value="NBS HB 115"/>
-    <author fullname="Robert Gatts" initials="R." surname="Gatts"/>
-    <author fullname="Robert Massey" initials="R." surname="Massey"/>
-    <author fullname="John Robertson" initials="J." surname="Robertson"/>
+    <author fullname="Robert Gatts" initials="R" surname="Gatts">
+      <organization/>
+    </author>
+    <author fullname="Robert Massey" initials="G" surname="Massey">
+      <organization/>
+    </author>
+    <author fullname="John Robertson" initials="C" surname="Robertson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.115"/>
+  <seriesInfo name="NIST" value="NBS HB 115"/>
 </reference>

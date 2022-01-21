@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4422" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4422.pdf">
   <front>
     <title>Metrology for space power:metrology development and survey of space-based measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4422"/>
-    <seriesInfo name="NIST" value="NIST IR 4422"/>
-    <author surname="FitzPatrick"/>
-    <author surname="Olthoff"/>
-    <author surname="Simmon"/>
-    <author fullname="Jr Fenimore" initials="J." surname="Fenimore"/>
+    <author initials="GJ" surname="FitzPatrick">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Olthoff">
+      <organization/>
+    </author>
+    <author initials="ED" surname="Simmon">
+      <organization/>
+    </author>
+    <author fullname="Jr Fenimore" initials="CP" surname="Fenimore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4422"/>
+  <seriesInfo name="NIST" value="NIST IR 4422"/>
 </reference>

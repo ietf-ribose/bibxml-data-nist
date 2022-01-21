@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8243" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8243.pdf">
   <front>
     <title>A test method for measuring response robot performance under attenuated radio conditions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8243"/>
-    <seriesInfo name="NIST" value="NIST IR 8243"/>
-    <author fullname="Kenneth Kimble" initials="K." surname="Kimble">
+    <author fullname="Kenneth Kimble" initials="E" surname="Kimble">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Richard Candell" initials="R." surname="Candell">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Kamel Saidi" initials="K." surname="Saidi">
+    <author fullname="Kamel Saidi" initials="S" surname="Saidi">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8243"/>
+  <seriesInfo name="NIST" value="NIST IR 8243"/>
 </reference>

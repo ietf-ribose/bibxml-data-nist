@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-3918" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3918.pdf">
   <front>
     <title>X-band atmospheric attenuation for an earth terminal measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3918"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3918"/>
-    <author fullname="Michael Francis" initials="M." surname="Francis"/>
+    <author fullname="Michael Francis" initials="H" surname="Francis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3918"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3918"/>
 </reference>

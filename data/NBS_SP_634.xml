@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.634" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication634.pdf">
   <front>
     <title>Proceedings of the waveform recorder seminar</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.634"/>
-    <seriesInfo name="NIST" value="NBS SP 634"/>
-    <author fullname="Robert Lawton" initials="R." surname="Lawton"/>
+    <author fullname="Robert Lawton" initials="A" surname="Lawton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.634"/>
+  <seriesInfo name="NIST" value="NBS SP 634"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6708" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6708.pdf">
   <front>
     <title>Interactive training through knowledge navigation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6708"/>
-    <seriesInfo name="NIST" value="NIST IR 6708"/>
-    <author surname="Moncarz"/>
+    <author initials="HT" surname="Moncarz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6708"/>
+  <seriesInfo name="NIST" value="NIST IR 6708"/>
 </reference>

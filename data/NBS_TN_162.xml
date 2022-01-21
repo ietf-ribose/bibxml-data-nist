@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote162.pdf">
   <front>
     <title>Thermal balance in the F region of the atmosphere</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.162"/>
-    <seriesInfo name="NIST" value="NBS TN 162"/>
-    <author fullname="Douglas Hunt" initials="D." surname="Hunt"/>
+    <author fullname="Douglas Hunt" initials="C" surname="Hunt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.162"/>
+  <seriesInfo name="NIST" value="NBS TN 162"/>
 </reference>

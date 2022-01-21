@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.85-3236" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3236.pdf">
   <front>
     <title>An NBS host to front end protocol</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3236"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3236"/>
-    <author fullname="Michael Chernick" initials="M." surname="Chernick"/>
+    <author fullname="Michael Chernick" initials="C" surname="Chernick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3236"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3236"/>
 </reference>

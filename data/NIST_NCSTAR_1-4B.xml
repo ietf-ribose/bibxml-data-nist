@@ -1,11 +1,15 @@
 <reference anchor="NIST.NCSTAR.1-4b" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-4b.pdf">
   <front>
     <title>Fire suppression systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-4b"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-4b"/>
-    <author fullname="Mark Hopkins" initials="M." surname="Hopkins"/>
-    <author fullname="John Schoenrock" initials="J." surname="Schoenrock"/>
-    <author fullname="Edward Budnick" initials="E." surname="Budnick"/>
+    <author fullname="Mark Hopkins" initials="M." surname="Hopkins">
+      <organization/>
+    </author>
+    <author fullname="John Schoenrock" initials="J." surname="Schoenrock">
+      <organization/>
+    </author>
+    <author fullname="Edward Budnick" initials="E." surname="Budnick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-4b"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-4b"/>
 </reference>

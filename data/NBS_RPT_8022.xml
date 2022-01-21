@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8022" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8022.pdf">
   <front>
     <title>Markov chain analysis of a sorting machine</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8022"/>
-    <seriesInfo name="NIST" value="NBS RPT 8022"/>
-    <author fullname="Joel Levy" initials="J." surname="Levy"/>
+    <author fullname="Joel Levy" initials="J." surname="Levy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8022"/>
+  <seriesInfo name="NIST" value="NBS RPT 8022"/>
 </reference>

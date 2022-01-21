@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.81-2263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2263.pdf">
   <front>
     <title>Polymer Science and Standards Division :annual report 1980</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2263"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2263"/>
-    <author surname="Eby"/>
-    <author surname="Broadhurst"/>
-    <author surname="Cassel"/>
-    <author surname="Fanconi"/>
-    <author surname="Sanchez"/>
-    <author surname="Smith"/>
+    <author initials="RK" surname="Eby">
+      <organization/>
+    </author>
+    <author initials="MG" surname="Broadhurst">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Cassel">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Fanconi">
+      <organization/>
+    </author>
+    <author initials="IC" surname="Sanchez">
+      <organization/>
+    </author>
+    <author initials="LE" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2263"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2263"/>
 </reference>

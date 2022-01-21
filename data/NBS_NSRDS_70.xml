@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.70" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds70.pdf">
   <front>
     <title>Rate constants for reactions of aliphatic carbon-centered radicals in aqueous solution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.70"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 70"/>
-    <author fullname="Alberta Ross" initials="A." surname="Ross"/>
-    <author fullname="Pedatsur Neta" initials="P." surname="Neta"/>
+    <author fullname="Alberta Ross" initials="B" surname="Ross">
+      <organization/>
+    </author>
+    <author fullname="Pedatsur Neta" initials="P." surname="Neta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.70"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 70"/>
 </reference>

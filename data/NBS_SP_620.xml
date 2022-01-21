@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication620.pdf">
   <front>
     <title>Laser induced damage in optical materials :1980</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.620"/>
-    <seriesInfo name="NIST" value="NBS SP 620"/>
-    <author fullname="Harold Bennett" initials="H." surname="Bennett"/>
-    <author fullname="Alexander Glass" initials="A." surname="Glass"/>
-    <author fullname="Arthur Guenther" initials="A." surname="Guenther"/>
-    <author fullname="Brian Newman" initials="B." surname="Newman"/>
+    <author fullname="Harold Bennett" initials="E" surname="Bennett">
+      <organization/>
+    </author>
+    <author fullname="Alexander Glass" initials="J" surname="Glass">
+      <organization/>
+    </author>
+    <author fullname="Arthur Guenther" initials="H" surname="Guenther">
+      <organization/>
+    </author>
+    <author fullname="Brian Newman" initials="E" surname="Newman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.620"/>
+  <seriesInfo name="NIST" value="NBS SP 620"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-146" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-146.pdf">
   <front>
     <title>Report on the NBS software acceptance test workshop April 1-2, 1986</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-146"/>
-    <seriesInfo name="NIST" value="NBS SP 500-146"/>
-    <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
-    <author fullname="John Cherniavsky" initials="J." surname="Cherniavsky"/>
+    <author fullname="Dolores Wallace" initials="R" surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="John Cherniavsky" initials="C" surname="Cherniavsky">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-146"/>
+  <seriesInfo name="NIST" value="NBS SP 500-146"/>
 </reference>

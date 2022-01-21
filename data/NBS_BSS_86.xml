@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.86" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience86.pdf">
   <front>
     <title>Engineering aspects of cyclone Tracy :Darwin Australia, 1974</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.86"/>
-    <seriesInfo name="NIST" value="NBS BSS 86"/>
-    <author fullname="Richard Marshall" initials="R." surname="Marshall"/>
+    <author fullname="Richard Marshall" initials="D" surname="Marshall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.86"/>
+  <seriesInfo name="NIST" value="NBS BSS 86"/>
 </reference>

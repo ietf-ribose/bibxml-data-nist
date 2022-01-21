@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.90" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph90.pdf">
   <front>
     <title>Calibration of liquid-in-glass thermometers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.90"/>
-    <seriesInfo name="NIST" value="NBS MONO 90"/>
-    <author fullname="James Swindells" initials="J." surname="Swindells"/>
+    <author fullname="James Swindells" initials="F" surname="Swindells">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.90"/>
+  <seriesInfo name="NIST" value="NBS MONO 90"/>
 </reference>

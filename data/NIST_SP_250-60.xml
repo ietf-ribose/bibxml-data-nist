@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-60" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-60.pdf">
   <front>
     <title>NIST measurement services :measurement assurance program for wavelength dependence of polarization dependent loss in fiber optic devices over the wavelength range from 1535 nm to 1560 nm</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-60"/>
-    <seriesInfo name="NIST" value="NIST SP 250-60"/>
-    <author fullname="Rex Craig" initials="R." surname="Craig"/>
-    <author fullname="Chih-Ming Wang" initials="C." surname="Wang"/>
+    <author fullname="Rex Craig" initials="M" surname="Craig">
+      <organization/>
+    </author>
+    <author fullname="Chih-Ming Wang" initials="C." surname="Wang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-60"/>
+  <seriesInfo name="NIST" value="NIST SP 250-60"/>
 </reference>

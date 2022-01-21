@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6309" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6309.pdf">
   <front>
     <title>Corrosion fatigue crack initiation in duplex stainless steel paper making components</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6309"/>
-    <seriesInfo name="NIST" value="NIST IR 6309"/>
-    <author surname="Stoudt"/>
+    <author initials="MR" surname="Stoudt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6309"/>
+  <seriesInfo name="NIST" value="NIST IR 6309"/>
 </reference>

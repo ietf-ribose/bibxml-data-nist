@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.1087" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1087.pdf">
   <front>
     <title>Cooling mode fault detection and diagnosis method for a residential heat pump</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1087"/>
-    <seriesInfo name="NIST" value="NIST SP 1087"/>
-    <author fullname="Minsung Kim" initials="M." surname="Kim"/>
-    <author fullname="SeokHo Yoon" initials="S.H." surname="Yoon"/>
-    <author fullname="Vance Payne" initials="V." surname="Payne"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
+    <author fullname="Minsung Kim" initials="M." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="SeokHo Yoon" initials="S.H." surname="Yoon">
+      <organization/>
+    </author>
+    <author fullname="Vance Payne" initials="W" surname="Payne">
+      <organization/>
+    </author>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1087"/>
+  <seriesInfo name="NIST" value="NIST SP 1087"/>
 </reference>

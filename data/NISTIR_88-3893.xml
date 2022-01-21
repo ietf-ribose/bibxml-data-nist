@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3893" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3893.pdf">
   <front>
     <title>Report of roof inspection :partial delamination of adhesive-bonded seams at an army facility</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3893"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3893"/>
-    <author fullname="Walter Rossiter" initials="W." surname="Rossiter"/>
-    <author fullname="James Seiler" initials="J." surname="Seiler"/>
+    <author fullname="Walter Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="James Seiler" initials="F" surname="Seiler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3893"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3893"/>
 </reference>

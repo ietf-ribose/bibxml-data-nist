@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6184" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6184.pdf">
   <front>
     <title>Effect of resolution and image quality on combined optical and neural network fingerprint matching</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6184"/>
-    <seriesInfo name="NIST" value="NIST IR 6184"/>
-    <author surname="Wilson"/>
-    <author surname="Watson"/>
-    <author surname="Paek"/>
+    <author initials="CL" surname="Wilson">
+      <organization/>
+    </author>
+    <author initials="CI" surname="Watson">
+      <organization/>
+    </author>
+    <author initials="EG" surname="Paek">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6184"/>
+  <seriesInfo name="NIST" value="NIST IR 6184"/>
 </reference>

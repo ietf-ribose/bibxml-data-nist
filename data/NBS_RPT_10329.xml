@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10329" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10329.pdf">
   <front>
     <title>Preliminary tests of non-combustibility of materials using crucible method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10329"/>
-    <seriesInfo name="NIST" value="NBS RPT 10329"/>
-    <author surname="Fang"/>
+    <author initials="JB" surname="Fang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10329"/>
+  <seriesInfo name="NIST" value="NBS RPT 10329"/>
 </reference>

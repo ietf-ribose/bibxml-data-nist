@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.82-2573" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2573.pdf">
   <front>
     <title>An annotated bibliography of introductory articles to aid in the selection of small computer systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2573"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2573"/>
-    <author fullname="Lynne Rosenthal" initials="L." surname="Rosenthal"/>
-    <author fullname="John Barkley" initials="J." surname="Barkley"/>
+    <author fullname="Lynne Rosenthal" initials="L." surname="Rosenthal">
+      <organization/>
+    </author>
+    <author fullname="John Barkley" initials="J." surname="Barkley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2573"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2573"/>
 </reference>

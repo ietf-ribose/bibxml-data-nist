@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.125" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures125.pdf">
   <front>
     <title>Stone exposure test wall</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.125"/>
-    <seriesInfo name="NIST" value="NBS BMS 125"/>
-    <author fullname="Daniel Kessler" initials="D." surname="Kessler"/>
-    <author surname="Anderson"/>
+    <author fullname="Daniel Kessler" initials="W" surname="Kessler">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1951"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.125"/>
+  <seriesInfo name="NIST" value="NBS BMS 125"/>
 </reference>

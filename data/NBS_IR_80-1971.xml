@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.80-1971" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1971.pdf">
   <front>
     <title>Interim report on model assessment methodology :documentation assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1971"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1971"/>
-    <author fullname="Saul Gass" initials="S." surname="Gass"/>
-    <author fullname="Karia Hoffman" initials="K." surname="Hoffman"/>
-    <author fullname="Richard Jackson" initials="R." surname="Jackson"/>
-    <author fullname="Lambert Joel" initials="L." surname="Joel"/>
-    <author fullname="Patsy Saunders" initials="P." surname="Saunders"/>
+    <author fullname="Saul Gass" initials="I" surname="Gass">
+      <organization/>
+    </author>
+    <author fullname="Karia Hoffman" initials="L" surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Richard Jackson" initials="HF" surname="Jackson">
+      <organization/>
+    </author>
+    <author fullname="Lambert Joel" initials="S" surname="Joel">
+      <organization/>
+    </author>
+    <author fullname="Patsy Saunders" initials="B" surname="Saunders">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1971"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1971"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.16-008" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-008.pdf">
   <front>
     <title>Economic Analysis of Technology Infrastructure Needs for Advanced Manufacturing: Roll-to-Roll Manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-008"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-008"/>
-    <author fullname="Alan O'Connor" initials="A." surname="O'Connor">
+    <author fullname="Alan O'Connor" initials="C" surname="O'Connor">
       <organization>Technology Partnerships Office</organization>
     </author>
-    <author fullname="Travis Beaulieu" initials="T." surname="Beaulieu">
+    <author fullname="Travis Beaulieu" initials="J" surname="Beaulieu">
       <organization>Technology Partnerships Office</organization>
     </author>
-    <author fullname="Ginger Rothrock" initials="G." surname="Rothrock">
+    <author fullname="Ginger Rothrock" initials="D" surname="Rothrock">
       <organization>Technology Partnerships Office</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-008"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-008"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3036" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3036.pdf">
   <front>
     <title>An efficient and accurate method for calculating and representing power density in the near-zone of microwave antennas</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3036"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3036"/>
-    <author fullname="Richard Lewsis" initials="R." surname="Lewsis"/>
-    <author fullname="Allen Newell" initials="A." surname="Newell"/>
+    <author fullname="Richard Lewsis" initials="L" surname="Lewsis">
+      <organization/>
+    </author>
+    <author fullname="Allen Newell" initials="C" surname="Newell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3036"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3036"/>
 </reference>

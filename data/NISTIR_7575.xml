@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7575" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7575.pdf">
   <front>
     <title>Proceedings of the dynamic measurement and control for autonomous manufacturing workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7575"/>
-    <seriesInfo name="NIST" value="NIST IR 7575"/>
-    <author fullname="Tsai Hong" initials="T." surname="Hong"/>
-    <author fullname="Roger Eastman" initials="R." surname="Eastman"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
-    <author fullname="Brian McNorris" initials="B." surname="McNorris"/>
+    <author fullname="Tsai Hong" initials="T." surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="Roger Eastman" initials="R." surname="Eastman">
+      <organization/>
+    </author>
+    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+      <organization/>
+    </author>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="Brian McNorris" initials="B." surname="McNorris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7575"/>
+  <seriesInfo name="NIST" value="NIST IR 7575"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.218" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote218.pdf">
   <front>
     <title>Electrical properties of aluminum for cryogenic electromagnets</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.218"/>
-    <seriesInfo name="NIST" value="NBS TN 218"/>
-    <author fullname="Robert Corruccini" initials="R." surname="Corruccini"/>
+    <author fullname="Robert Corruccini" initials="J" surname="Corruccini">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.218"/>
+  <seriesInfo name="NIST" value="NBS TN 218"/>
 </reference>

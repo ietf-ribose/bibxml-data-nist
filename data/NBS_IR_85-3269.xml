@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.85-3269" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3269.pdf">
   <front>
     <title>Electrical performance tests for audio distortion analyzers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3269"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3269"/>
-    <author surname="Laug"/>
-    <author surname="Stenbakken"/>
-    <author surname="Leedy"/>
+    <author initials="OB" surname="Laug">
+      <organization/>
+    </author>
+    <author initials="GN" surname="Stenbakken">
+      <organization/>
+    </author>
+    <author initials="TF" surname="Leedy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3269"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3269"/>
 </reference>

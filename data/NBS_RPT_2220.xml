@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.2220" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2220.pdf">
   <front>
     <title>The stability problem for a theorem of Cramer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2220"/>
-    <seriesInfo name="NIST" value="NBS RPT 2220"/>
-    <author surname="Sapogov"/>
+    <author initials="NA" surname="Sapogov">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2220"/>
+  <seriesInfo name="NIST" value="NBS RPT 2220"/>
 </reference>

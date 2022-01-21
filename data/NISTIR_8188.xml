@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8188" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8188.pdf">
   <front>
     <title>Key performance indicators for process control system cybersecurity performance analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8188"/>
-    <seriesInfo name="NIST" value="NIST IR 8188"/>
     <author fullname="CheeYee Tang" initials="C." surname="Tang">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="August" day="3"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8188"/>
+  <seriesInfo name="NIST" value="NIST IR 8188"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1269" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1269.pdf">
   <front>
     <title>NIST-FEMA Post-Earthquake Functional Recovery Workshop Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1269"/>
-    <seriesInfo name="NIST" value="NIST SP 1269"/>
     <author fullname="Leslie Abrahams" initials="L." surname="Abrahams">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,7 +19,7 @@
     <author fullname="Lauren Bartels" initials="L." surname="Bartels">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Max Butcher" initials="M." surname="Butcher">
+    <author fullname="Max Butcher" initials="L" surname="Butcher">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Lara Rubinyi" initials="L." surname="Rubinyi">
@@ -44,4 +42,6 @@
     </author>
     <date year="2021" month="July" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1269"/>
+  <seriesInfo name="NIST" value="NIST SP 1269"/>
 </reference>

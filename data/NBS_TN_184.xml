@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.184" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote184.pdf">
   <front>
     <title>Lunar occultations of two discrete radio sources in 1963-1964.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.184"/>
-    <seriesInfo name="NIST" value="NBS TN 184"/>
-    <author fullname="John Eddy" initials="J." surname="Eddy"/>
+    <author fullname="John Eddy" initials="A" surname="Eddy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.184"/>
+  <seriesInfo name="NIST" value="NBS TN 184"/>
 </reference>

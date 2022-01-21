@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.10391" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10391.pdf">
   <front>
     <title>Report of the Voluntary Standardization Policy Group</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10391"/>
-    <seriesInfo name="NIST" value="NBS RPT 10391"/>
-    <author fullname="George Suzuki" initials="G." surname="Suzuki"/>
-    <author fullname="Charles Boehne" initials="C." surname="Boehne"/>
-    <author fullname="Myron Domsitz" initials="M." surname="Domsitz"/>
+    <author fullname="George Suzuki" initials="G." surname="Suzuki">
+      <organization/>
+    </author>
+    <author fullname="Charles Boehne" initials="H" surname="Boehne">
+      <organization/>
+    </author>
+    <author fullname="Myron Domsitz" initials="G" surname="Domsitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10391"/>
+  <seriesInfo name="NIST" value="NBS RPT 10391"/>
 </reference>

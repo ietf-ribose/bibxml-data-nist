@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.247" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub247.pdf">
   <front>
     <title>Weights and measures standards of the United States :A brief history</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.247"/>
-    <seriesInfo name="NIST" value="NBS MP 247"/>
-    <author fullname="Lewis Judson" initials="L." surname="Judson"/>
+    <author fullname="Lewis Judson" initials="V" surname="Judson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.247"/>
+  <seriesInfo name="NIST" value="NBS MP 247"/>
 </reference>

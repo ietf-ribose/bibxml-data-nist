@@ -1,15 +1,23 @@
 <reference anchor="NIST.IR.7859" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7859.pdf">
   <front>
     <title>ELFT-EFS Evaluation of Latent Fingerprint Technologies: Extended Feature Sets [Evaluation #2]</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7859"/>
-    <seriesInfo name="NIST" value="NIST IR 7859"/>
-    <author fullname="Michael Indovina" initials="M." surname="Indovina"/>
-    <author surname="Dvornychenko"/>
-    <author fullname="R.A. Hicklin" initials="R." surname="Hicklin"/>
-    <author fullname="G.I Kiebuzinski" initials="G." surname="Kiebuzinski"/>
+    <author fullname="Michael Indovina" initials="M." surname="Indovina">
+      <organization/>
+    </author>
+    <author initials="V" surname="Dvornychenko">
+      <organization/>
+    </author>
+    <author fullname="R.A. Hicklin" initials="R." surname="Hicklin">
+      <organization/>
+    </author>
+    <author fullname="G.I Kiebuzinski" initials="G." surname="Kiebuzinski">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7859"/>
+  <seriesInfo name="NIST" value="NIST IR 7859"/>
 </reference>

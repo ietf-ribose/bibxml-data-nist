@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3079" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3079.pdf">
   <front>
     <title>Center for chemical engineering technical activities :fiscal year 1987</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3079"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3079"/>
-    <author surname="Hord"/>
+    <author initials="J" surname="Hord">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3079"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3079"/>
 </reference>

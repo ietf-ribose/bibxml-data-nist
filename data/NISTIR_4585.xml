@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4585" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4585.pdf">
   <front>
     <title>User manual NBSAVIS CONTAM88</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4585"/>
-    <seriesInfo name="NIST" value="NIST IR 4585"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4585"/>
+  <seriesInfo name="NIST" value="NIST IR 4585"/>
 </reference>

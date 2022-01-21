@@ -1,10 +1,12 @@
 <reference anchor="NIST.TN.1629" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1629.pdf">
   <front>
     <title>Fire fighting tactics under wind driven conditions :7-story building experiments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1629"/>
-    <seriesInfo name="NIST" value="NIST TN 1629"/>
-    <author fullname="Stephen Kerber" initials="S." surname="Kerber"/>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski"/>
+    <author fullname="Stephen Kerber" initials="I" surname="Kerber">
+      <organization/>
+    </author>
+    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1629"/>
+  <seriesInfo name="NIST" value="NIST TN 1629"/>
 </reference>

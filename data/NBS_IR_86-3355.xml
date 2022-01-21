@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.86-3355" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3355.pdf">
   <front>
     <title>Dielectric phantoms for electromagnetic radiation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3355"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3355"/>
-    <author fullname="Martin Broadhurst" initials="M." surname="Broadhurst"/>
-    <author surname="Chiang"/>
-    <author fullname="Thomas Davis" initials="T." surname="Davis"/>
+    <author fullname="Martin Broadhurst" initials="G" surname="Broadhurst">
+      <organization/>
+    </author>
+    <author initials="CK" surname="Chiang">
+      <organization/>
+    </author>
+    <author fullname="Thomas Davis" initials="G" surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3355"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3355"/>
 </reference>

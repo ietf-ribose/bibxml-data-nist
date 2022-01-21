@@ -1,9 +1,7 @@
 <reference anchor="NIST.AMS.200-12" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.200-12.pdf">
   <front>
     <title>STEP File Analyzer and Viewer User Guide (Update 7)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-12"/>
-    <seriesInfo name="NIST" value="NIST AMS 200-12"/>
-    <author fullname="Robert Lipman" initials="R." surname="Lipman">
+    <author fullname="Robert Lipman" initials="R" surname="Lipman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Soonjo Kwon" initials="S." surname="Kwon">
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="October" day="13"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.200-12"/>
+  <seriesInfo name="NIST" value="NIST AMS 200-12"/>
 </reference>

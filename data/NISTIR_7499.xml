@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7499" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7499.pdf">
   <front>
     <title>Guidelines for planning and development of software for buildings and building systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7499"/>
-    <seriesInfo name="NIST" value="NIST IR 7499"/>
-    <author fullname="Priya Lavappa" initials="P." surname="Lavappa"/>
+    <author fullname="Priya Lavappa" initials="D" surname="Lavappa">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7499"/>
+  <seriesInfo name="NIST" value="NIST IR 7499"/>
 </reference>

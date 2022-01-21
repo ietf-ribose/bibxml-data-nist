@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1200-17" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-17.pdf">
   <front>
     <title>Strategies for scanning electron microscopy sample preparation and characterization of multiwall carbon nanotube polymer composites</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-17"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-17"/>
-    <author fullname="Andras Vladar" initials="A." surname="Vladar">
+    <author fullname="Andras Vladar" initials="E" surname="Vladar">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-17"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-17"/>
 </reference>

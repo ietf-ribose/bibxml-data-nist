@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.482" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular482.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 482:bibliography of books and published reports on gas turbines, jet propulsion, and rocket power plants</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.482"/>
-    <seriesInfo name="NIST" value="NBS CIRC 482"/>
-    <author fullname="Ernest Fiock" initials="E." surname="Fiock"/>
+    <author fullname="Ernest Fiock" initials="F" surname="Fiock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1949"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.482"/>
+  <seriesInfo name="NIST" value="NBS CIRC 482"/>
 </reference>

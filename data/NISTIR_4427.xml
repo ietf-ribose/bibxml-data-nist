@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4427" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4427.pdf">
   <front>
     <title>Micromagnetic calculations of 180[degree] surface domain wall magnetization profiles with comparison to measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4427"/>
-    <seriesInfo name="NIST" value="NIST IR 4427"/>
-    <author fullname="James Blue" initials="J." surname="Blue"/>
-    <author surname="Scheinfein"/>
+    <author fullname="James Blue" initials="L" surname="Blue">
+      <organization/>
+    </author>
+    <author initials="MR" surname="Scheinfein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4427"/>
+  <seriesInfo name="NIST" value="NIST IR 4427"/>
 </reference>

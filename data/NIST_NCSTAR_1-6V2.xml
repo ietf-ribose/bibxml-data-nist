@@ -1,10 +1,12 @@
 <reference anchor="NIST.NCSTAR.1-6v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-6v2.pdf">
   <front>
     <title>Structural fire response and probable collapse sequence of the World Trade Center towers (Chapter 7- Appendix B</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6v2"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-6v2"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
-    <author fullname="Therese McAllister" initials="T." surname="McAllister"/>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="Therese McAllister" initials="P" surname="McAllister">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-6v2"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-6v2"/>
 </reference>

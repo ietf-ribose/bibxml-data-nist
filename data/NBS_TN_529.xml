@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.529" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote529.pdf">
   <front>
     <title>Determination of oxygen concentration in silicon and germanium by infrared absorption</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.529"/>
-    <seriesInfo name="NIST" value="NBS TN 529"/>
-    <author fullname="Robert Thurber" initials="R." surname="Thurber"/>
+    <author fullname="Robert Thurber" initials="W" surname="Thurber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.529"/>
+  <seriesInfo name="NIST" value="NBS TN 529"/>
 </reference>

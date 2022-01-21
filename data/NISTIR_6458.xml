@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6458" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6458.pdf">
   <front>
     <title>Characterization of the inlet combustion air in NIST's reference spray combustion facility:effect of vane angle and Reynolds number</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6458"/>
-    <seriesInfo name="NIST" value="NIST IR 6458"/>
-    <author fullname="John Widmann" initials="J." surname="Widmann"/>
-    <author fullname="Rao Charagundla" initials="R." surname="Charagundla"/>
-    <author fullname="Cary Presser" initials="C." surname="Presser"/>
+    <author fullname="John Widmann" initials="F" surname="Widmann">
+      <organization/>
+    </author>
+    <author fullname="Rao Charagundla" initials="S" surname="Charagundla">
+      <organization/>
+    </author>
+    <author fullname="Cary Presser" initials="C." surname="Presser">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6458"/>
+  <seriesInfo name="NIST" value="NIST IR 6458"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.MONO.162" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph162.pdf">
   <front>
     <title>Plane-wave scattering-matrix theory of antennas and antenna-antenna interactions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.162"/>
-    <seriesInfo name="NIST" value="NBS MONO 162"/>
-    <author fullname="David Kerns" initials="D." surname="Kerns"/>
+    <author fullname="David Kerns" initials="M" surname="Kerns">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.162"/>
+  <seriesInfo name="NIST" value="NBS MONO 162"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-54" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-54.pdf">
   <front>
     <title>Border gateway protocol security</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-54"/>
-    <seriesInfo name="NIST" value="NIST SP 800-54"/>
-    <author surname="Kuhn">
+    <author initials="DR" surname="Kuhn">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Sriram">
+    <author initials="K" surname="Sriram">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Montgomery">
+    <author initials="DC" surname="Montgomery">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-54"/>
+  <seriesInfo name="NIST" value="NIST SP 800-54"/>
 </reference>

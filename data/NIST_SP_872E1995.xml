@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.872e1995" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication872e1995.pdf">
   <front>
     <title>NIST industrial impacts</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.872e1995"/>
-    <seriesInfo name="NIST" value="NIST SP 872e1995"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.872e1995"/>
+  <seriesInfo name="NIST" value="NIST SP 872e1995"/>
 </reference>

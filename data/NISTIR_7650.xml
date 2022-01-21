@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7650" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7650.pdf">
   <front>
     <title>High-speed dual-spectrum imaging for the measurement of metal cutting temperatures�(2010 edition)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7650"/>
-    <seriesInfo name="NIST" value="NIST IR 7650"/>
-    <author fullname="Eric Whitenton" initials="E." surname="Whitenton"/>
+    <author fullname="Eric Whitenton" initials="P" surname="Whitenton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7650"/>
+  <seriesInfo name="NIST" value="NIST IR 7650"/>
 </reference>

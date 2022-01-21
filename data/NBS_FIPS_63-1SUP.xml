@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.63-1sup" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub63-1sup.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: additional operational specifications for variable block rotating mass storage device</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.63-1sup"/>
-    <seriesInfo name="NIST" value="NBS FIPS 63-1sup"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.63-1sup"/>
+  <seriesInfo name="NIST" value="NBS FIPS 63-1sup"/>
 </reference>

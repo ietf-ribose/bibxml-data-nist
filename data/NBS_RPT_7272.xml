@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.7272" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7272.pdf">
   <front>
     <title>Insertion loss of a brick wall at UHF</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7272"/>
-    <seriesInfo name="NIST" value="NBS RPT 7272"/>
-    <author surname="Gierhart"/>
-    <author surname="Hause"/>
-    <author surname="Farrow"/>
-    <author surname="Decker"/>
+    <author initials="GD" surname="Gierhart">
+      <organization/>
+    </author>
+    <author initials="LG" surname="Hause">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Farrow">
+      <organization/>
+    </author>
+    <author initials="MT" surname="Decker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7272"/>
+  <seriesInfo name="NIST" value="NBS RPT 7272"/>
 </reference>

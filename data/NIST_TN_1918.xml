@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1918" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1918.pdf">
   <front>
     <title>Building Industry Reporting and Design for Sustainability (BIRDS) Low-Energy Residential Database Technical Manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1918"/>
-    <seriesInfo name="NIST" value="NIST TN 1918"/>
     <author fullname="Joshua Kneifel" initials="J." surname="Kneifel">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2016" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1918"/>
+  <seriesInfo name="NIST" value="NIST TN 1918"/>
 </reference>

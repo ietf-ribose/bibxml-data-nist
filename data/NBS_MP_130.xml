@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.130" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub130.pdf">
   <front>
     <title>National directory of commodity specifications 1932/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.130"/>
-    <seriesInfo name="NIST" value="NBS MP 130"/>
-    <author surname="McAllister"/>
-    <author fullname="Clarence Ingels" initials="C." surname="Ingels"/>
+    <author initials="AS" surname="McAllister">
+      <organization/>
+    </author>
+    <author fullname="Clarence Ingels" initials="W" surname="Ingels">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1932"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.130"/>
+  <seriesInfo name="NIST" value="NBS MP 130"/>
 </reference>

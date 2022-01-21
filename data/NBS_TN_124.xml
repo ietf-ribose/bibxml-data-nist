@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote124.pdf">
   <front>
     <title>Papers from the Symposium on Collision Phenomena in Astrophysics, Geophysics, and Masers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.124"/>
-    <seriesInfo name="NIST" value="NBS TN 124"/>
-    <author surname="Seaton"/>
+    <author initials="MJ" surname="Seaton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.124"/>
+  <seriesInfo name="NIST" value="NBS TN 124"/>
 </reference>

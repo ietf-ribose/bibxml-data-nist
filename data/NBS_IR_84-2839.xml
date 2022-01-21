@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2839" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2839.pdf">
   <front>
     <title>Mechanical properties of a leaded, resulfurized, rephosphorized steel in various thermo-mechanical conditions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2839"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2839"/>
-    <author surname="Early"/>
+    <author initials="JG" surname="Early">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2839"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2839"/>
 </reference>

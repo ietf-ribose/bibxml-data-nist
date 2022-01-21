@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.7948" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7948.pdf">
   <front>
     <title>IREX VI : Temporal Stability of Iris Recognition Accuracy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7948"/>
-    <seriesInfo name="NIST" value="NIST IR 7948"/>
-    <author surname="Grother">
+    <author initials="P" surname="Grother">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Matey">
+    <author initials="JR" surname="Matey">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Tabassi">
+    <author initials="E" surname="Tabassi">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Quinn">
+    <author initials="GW" surname="Quinn">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author surname="Chumakov">
+    <author initials="M" surname="Chumakov">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7948"/>
+  <seriesInfo name="NIST" value="NIST IR 7948"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.06-906" target="https://nvlpubs.nist.gov/nistpubs/gcr/2006/gcr06_906.pdf">
   <front>
     <title>Probabilistic models for directionless wind speeds in hurricanes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.06-906"/>
-    <seriesInfo name="NIST" value="NIST GCR 06-906"/>
     <author fullname="Mircea Grigoriu" initials="M." surname="Grigoriu">
       <organization>Building and Fire Research Laboratory</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.06-906"/>
+  <seriesInfo name="NIST" value="NIST GCR 06-906"/>
 </reference>

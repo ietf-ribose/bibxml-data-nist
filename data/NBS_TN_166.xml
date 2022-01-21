@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote166.pdf">
   <front>
     <title>An atlas of whistlers and VLF emissions. A Survey of VLF spectra from Boulder, Colorado</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.166"/>
-    <seriesInfo name="NIST" value="NBS TN 166"/>
-    <author surname="Jones"/>
-    <author surname="Gallet"/>
-    <author surname="Watts"/>
-    <author fullname="DN Frazer" initials="D." surname="Frazer"/>
+    <author initials="DL" surname="Jones">
+      <organization/>
+    </author>
+    <author initials="RM" surname="Gallet">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Watts">
+      <organization/>
+    </author>
+    <author fullname="DN Frazer" initials="D." surname="Frazer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.166"/>
+  <seriesInfo name="NIST" value="NBS TN 166"/>
 </reference>

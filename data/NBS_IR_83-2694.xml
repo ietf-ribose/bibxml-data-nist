@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.83-2694" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2694.pdf">
   <front>
     <title>Some criteria for colors and signs in workplaces</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2694"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2694"/>
-    <author fullname="Robert Glass" initials="R." surname="Glass"/>
-    <author fullname="Karen Lister" initials="K." surname="Lister"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
+    <author fullname="Robert Glass" initials="A" surname="Glass">
+      <organization/>
+    </author>
+    <author fullname="Karen Lister" initials="K." surname="Lister">
+      <organization/>
+    </author>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2694"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2694"/>
 </reference>

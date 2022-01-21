@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5625" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5625.pdf">
   <front>
     <title>A survey of steel moment-resisting frame buildings affected by the 1994 Northridge Earthquake</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5625"/>
-    <seriesInfo name="NIST" value="NIST IR 5625"/>
-    <author fullname="Nabih Youssef" initials="N." surname="Youssef"/>
-    <author fullname="David Bonowitz" initials="D." surname="Bonowitz"/>
-    <author fullname="John Gross" initials="J." surname="Gross"/>
+    <author fullname="Nabih Youssef" initials="FG" surname="Youssef">
+      <organization/>
+    </author>
+    <author fullname="David Bonowitz" initials="D." surname="Bonowitz">
+      <organization/>
+    </author>
+    <author fullname="John Gross" initials="L" surname="Gross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5625"/>
+  <seriesInfo name="NIST" value="NIST IR 5625"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5461" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5461.pdf">
   <front>
     <title>Abrasive wear by diesel engine coal-fuel and related particles</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5461"/>
-    <seriesInfo name="NIST" value="NIST IR 5461"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5461"/>
+  <seriesInfo name="NIST" value="NIST IR 5461"/>
 </reference>

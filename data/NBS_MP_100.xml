@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub100.pdf">
   <front>
     <title>Plain and thread plug and ring gage blanks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.100"/>
-    <seriesInfo name="NIST" value="NBS MP 100"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1930"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.100"/>
+  <seriesInfo name="NIST" value="NBS MP 100"/>
 </reference>

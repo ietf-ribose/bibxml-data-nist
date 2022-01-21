@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.1016r1955" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular1016r1955.pdf">
   <front>
     <title>Letter Circular 1016:light-sensitive paper for use in testing textiles in colorfastness to light</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1016r1955"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 1016r1955"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.1016r1955"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 1016r1955"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6320" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6320.pdf">
   <front>
     <title>Internet commerce for manufacturing product data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6320"/>
-    <seriesInfo name="NIST" value="NIST IR 6320"/>
-    <author fullname="Curtis Parks" initials="C." surname="Parks"/>
+    <author fullname="Curtis Parks" initials="C." surname="Parks">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6320"/>
+  <seriesInfo name="NIST" value="NIST IR 6320"/>
 </reference>

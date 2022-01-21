@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.101" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular101.pdf">
   <front>
     <title>Letter Circular 101:U.S. petroleum oil tables</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.101"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 101"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1923"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.101"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 101"/>
 </reference>

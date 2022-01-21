@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-414" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-414.pdf">
   <front>
     <title>Building and evaluation of a polluted air delivery system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-414"/>
-    <seriesInfo name="NIST" value="NBS IR 73-414"/>
-    <author surname="Baumgarten"/>
-    <author surname="Ruegg"/>
+    <author initials="GP" surname="Baumgarten">
+      <organization/>
+    </author>
+    <author initials="FW" surname="Ruegg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-414"/>
+  <seriesInfo name="NIST" value="NBS IR 73-414"/>
 </reference>

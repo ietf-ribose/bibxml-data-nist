@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-202" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-202.pdf">
   <front>
     <title>Quick start guide for populating mobile test devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-202"/>
-    <seriesInfo name="NIST" value="NIST SP 800-202"/>
     <author fullname="Rick Ayers" initials="R." surname="Ayers">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-202"/>
+  <seriesInfo name="NIST" value="NIST SP 800-202"/>
 </reference>

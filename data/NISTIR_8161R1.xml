@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8161r1" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8161r1.pdf">
   <front>
     <title>Recommendation: closed circuit television (CCTV) digital video export profile</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8161r1"/>
-    <seriesInfo name="NIST" value="NIST IR 8161r1"/>
     <author fullname="Lawrence Nadel" initials="L." surname="Nadel">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8161r1"/>
+  <seriesInfo name="NIST" value="NIST IR 8161r1"/>
 </reference>

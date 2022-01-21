@@ -1,10 +1,12 @@
 <reference anchor="NBS.CIS.8" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CIS/nbscis8.pdf">
   <front>
     <title>Consumer Information Series 8: making the most of your energy dollars in home heating &amp; cooling</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIS.8"/>
-    <seriesInfo name="NIST" value="NBS CIS 8"/>
-    <author fullname="Madeleine Jacobs" initials="M." surname="Jacobs"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
+    <author fullname="Madeleine Jacobs" initials="M." surname="Jacobs">
+      <organization/>
+    </author>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIS.8"/>
+  <seriesInfo name="NIST" value="NBS CIS 8"/>
 </reference>

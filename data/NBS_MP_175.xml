@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.175" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub175.pdf">
   <front>
     <title>Antiscatter treatments of glass/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.175"/>
-    <seriesInfo name="NIST" value="NBS MP 175"/>
-    <author fullname="Ruth Kronstadt" initials="R." surname="Kronstadt"/>
-    <author fullname="Frank Reinhart" initials="F." surname="Reinhart"/>
+    <author fullname="Ruth Kronstadt" initials="A" surname="Kronstadt">
+      <organization/>
+    </author>
+    <author fullname="Frank Reinhart" initials="W" surname="Reinhart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1944"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.175"/>
+  <seriesInfo name="NIST" value="NBS MP 175"/>
 </reference>

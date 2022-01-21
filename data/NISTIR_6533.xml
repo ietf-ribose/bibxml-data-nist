@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6533" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6533.pdf">
   <front>
     <title>Activity model:ship repair and conversion</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6533"/>
-    <seriesInfo name="NIST" value="NIST IR 6533"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Swee Leong" initials="S." surname="Leong"/>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Charles McLean" initials="R" surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Swee Leong" initials="S." surname="Leong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6533"/>
+  <seriesInfo name="NIST" value="NIST IR 6533"/>
 </reference>

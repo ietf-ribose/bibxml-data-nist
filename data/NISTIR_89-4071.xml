@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4071" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4071.pdf">
   <front>
     <title>Rating procedure for mixed air-source unitary air conditioners and heat pumps operating in the cooling mode</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4071"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4071"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
+    <author fullname="Piotr Domanski" initials="A" surname="Domanski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4071"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4071"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-208" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-208.pdf">
   <front>
     <title>Residential buildings and gas-related explosions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-208"/>
-    <seriesInfo name="NIST" value="NBS IR 73-208"/>
-    <author surname="Burnett"/>
-    <author surname="Somes"/>
-    <author surname="Leyendecker"/>
+    <author initials="EFP" surname="Burnett">
+      <organization/>
+    </author>
+    <author initials="NF" surname="Somes">
+      <organization/>
+    </author>
+    <author initials="EV" surname="Leyendecker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-208"/>
+  <seriesInfo name="NIST" value="NBS IR 73-208"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-24" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-24.pdf">
   <front>
     <title>Securing Picture Archiving and Communication System (PACS) Cybersecurity for the Healthcare Sector</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-24"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-24"/>
     <author fullname="Jennifer Cawthra" initials="J." surname="Cawthra">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -35,4 +33,6 @@
     </author>
     <date year="2020" month="December" day="21"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-24"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-24"/>
 </reference>

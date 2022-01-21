@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2177" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2177.pdf">
   <front>
     <title>Assessing the Quality of As-Received 4340 Steel for the Production of NIST Charpy Reference Specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2177"/>
-    <seriesInfo name="NIST" value="NIST TN 2177"/>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2021" month="September" day="15"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2177"/>
+  <seriesInfo name="NIST" value="NIST TN 2177"/>
 </reference>

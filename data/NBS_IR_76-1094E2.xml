@@ -1,22 +1,48 @@
 <reference anchor="NBS.IR.76-1094e2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1094e2.pdf">
   <front>
     <title>Standards for computer aided manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1094e2"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1094e2"/>
-    <author fullname="John Evans" initials="J." surname="Evans"/>
-    <author fullname="Joseph O'Neill" initials="J." surname="O'Neill"/>
-    <author fullname="John Little" initials="J." surname="Little"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
-    <author fullname="Anthony Barbera" initials="A." surname="Barbera"/>
-    <author fullname="Dennis Fife" initials="D." surname="Fife"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Frances Holberton" initials="F." surname="Holberton"/>
-    <author fullname="Brian Lucas" initials="B." surname="Lucas"/>
-    <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
-    <author fullname="Beatrice Marron" initials="B." surname="Marron"/>
-    <author fullname="Albercht Neumann" initials="A." surname="Neumann"/>
-    <author fullname="Mabel Vick" initials="M." surname="Vick"/>
+    <author fullname="John Evans" initials="M" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Joseph O'Neill" initials="T" surname="O'Neill">
+      <organization/>
+    </author>
+    <author fullname="John Little" initials="L" surname="Little">
+      <organization/>
+    </author>
+    <author fullname="James Albus" initials="S" surname="Albus">
+      <organization/>
+    </author>
+    <author fullname="Anthony Barbera" initials="J" surname="Barbera">
+      <organization/>
+    </author>
+    <author fullname="Dennis Fife" initials="W" surname="Fife">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
+      <organization/>
+    </author>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Frances Holberton" initials="E" surname="Holberton">
+      <organization/>
+    </author>
+    <author fullname="Brian Lucas" initials="G" surname="Lucas">
+      <organization/>
+    </author>
+    <author fullname="Gordon Lyon" initials="E" surname="Lyon">
+      <organization/>
+    </author>
+    <author fullname="Beatrice Marron" initials="AS" surname="Marron">
+      <organization/>
+    </author>
+    <author fullname="Albercht Neumann" initials="J" surname="Neumann">
+      <organization/>
+    </author>
+    <author fullname="Mabel Vick" initials="V" surname="Vick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -29,4 +55,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1094e2"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1094e2"/>
 </reference>

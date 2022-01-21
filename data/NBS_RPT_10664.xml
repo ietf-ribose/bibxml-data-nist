@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10664" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10664.pdf">
   <front>
     <title>Dynamic thermal performance of an experimental masonry building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10664"/>
-    <seriesInfo name="NIST" value="NBS RPT 10664"/>
-    <author surname="Peavy"/>
-    <author surname="Burch"/>
+    <author initials="BA" surname="Peavy">
+      <organization/>
+    </author>
+    <author initials="DM" surname="Burch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10664"/>
+  <seriesInfo name="NIST" value="NBS RPT 10664"/>
 </reference>

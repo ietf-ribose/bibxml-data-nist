@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7288" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7288.pdf">
   <front>
     <title>Recommended objective test procedures for road departure crash warning systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7288"/>
-    <seriesInfo name="NIST" value="NIST IR 7288"/>
-    <author fullname="Sandor Szabo" initials="S." surname="Szabo"/>
-    <author fullname="Richard Norcross" initials="R." surname="Norcross"/>
+    <author fullname="Sandor Szabo" initials="S." surname="Szabo">
+      <organization/>
+    </author>
+    <author fullname="Richard Norcross" initials="R." surname="Norcross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7288"/>
+  <seriesInfo name="NIST" value="NIST IR 7288"/>
 </reference>

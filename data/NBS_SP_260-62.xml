@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-62" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-62.pdf">
   <front>
     <title>Standard Reference Materials :SRM 768 /</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-62"/>
-    <seriesInfo name="NIST" value="NBS SP 260-62"/>
-    <author surname="Dove"/>
-    <author fullname="Jr, Soulen" initials="J." surname="Soulen"/>
+    <author initials="RB" surname="Dove">
+      <organization/>
+    </author>
+    <author fullname="Jr, Soulen" initials="RJ" surname="Soulen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-62"/>
+  <seriesInfo name="NIST" value="NBS SP 260-62"/>
 </reference>

@@ -1,15 +1,23 @@
 <reference anchor="NIST.TN.1742" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1742.pdf">
   <front>
     <title>Technical Guidance for the Specification and Development of Homeland Security Simulation Applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1742"/>
-    <seriesInfo name="NIST" value="NIST TN 1742"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Sanjay Jain" initials="S." surname="Jain"/>
-    <author fullname="Tina Lee" initials="T." surname="Lee"/>
-    <author fullname="Charles Hutchings" initials="C." surname="Hutchings"/>
+    <author fullname="Charles McLean" initials="C." surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Sanjay Jain" initials="S." surname="Jain">
+      <organization/>
+    </author>
+    <author fullname="Tina Lee" initials="Y" surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Charles Hutchings" initials="C." surname="Hutchings">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1742"/>
+  <seriesInfo name="NIST" value="NIST TN 1742"/>
 </reference>

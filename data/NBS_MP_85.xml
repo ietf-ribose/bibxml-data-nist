@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.85" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub85.pdf">
   <front>
     <title>Specifications and tolerances for commercial weighing and measuring devices/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.85"/>
-    <seriesInfo name="NIST" value="NBS MP 85"/>
-    <author surname="Holbrook"/>
+    <author initials="FS" surname="Holbrook">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1929"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.85"/>
+  <seriesInfo name="NIST" value="NBS MP 85"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4777" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4777.pdf">
   <front>
     <title>A formal analysis of the BACnet MSTP medium access control protocol</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4777"/>
-    <seriesInfo name="NIST" value="NIST IR 4777"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4777"/>
+  <seriesInfo name="NIST" value="NIST IR 4777"/>
 </reference>

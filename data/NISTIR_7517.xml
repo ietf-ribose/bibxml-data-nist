@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7517" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7517.pdf">
   <front>
     <title>Extending the notion of quality from physical metrology to information and sustainability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7517"/>
-    <seriesInfo name="NIST" value="NIST IR 7517"/>
-    <author fullname="Gaurav Ameta" initials="G." surname="Ameta"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
-    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini"/>
-    <author fullname="Mahesh Mani" initials="M." surname="Mani"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
-    <author fullname="Kevin Lyons" initials="K." surname="Lyons"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
+    <author fullname="Gaurav Ameta" initials="G." surname="Ameta">
+      <organization/>
+    </author>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
+    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini">
+      <organization/>
+    </author>
+    <author fullname="Mahesh Mani" initials="M." surname="Mani">
+      <organization/>
+    </author>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
+    <author fullname="Kevin Lyons" initials="W" surname="Lyons">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7517"/>
+  <seriesInfo name="NIST" value="NIST IR 7517"/>
 </reference>

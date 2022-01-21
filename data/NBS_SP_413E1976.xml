@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.413e1976" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication413e1976.pdf">
   <front>
     <title>Special technical facilities at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.413e1976"/>
-    <seriesInfo name="NIST" value="NBS SP 413e1976"/>
-    <author surname="Mason"/>
-    <author fullname="Iris Lloyd" initials="I." surname="Lloyd"/>
+    <author initials="HL" surname="Mason">
+      <organization/>
+    </author>
+    <author fullname="Iris Lloyd" initials="M" surname="Lloyd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.413e1976"/>
+  <seriesInfo name="NIST" value="NBS SP 413e1976"/>
 </reference>

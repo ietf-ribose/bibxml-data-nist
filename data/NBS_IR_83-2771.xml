@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2771" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2771.pdf">
   <front>
     <title>Intensity and duration of chimney fires in several chimneys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2771"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2771"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2771"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2771"/>
 </reference>

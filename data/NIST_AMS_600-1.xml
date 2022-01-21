@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.600-1" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-1.pdf">
   <front>
     <title>Charter of the Institute Directors Council: Manufacturing USA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-1"/>
-    <seriesInfo name="NIST" value="NIST AMS 600-1"/>
     <author fullname="Craig Blue" initials="C." surname="Blue">
       <organization>Engineering Laboratory.</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2016" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.600-1"/>
+  <seriesInfo name="NIST" value="NIST AMS 600-1"/>
 </reference>

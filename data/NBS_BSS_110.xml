@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience110.pdf">
   <front>
     <title>Reliability basis of load and resistance factors for reinforced concrete design</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.110"/>
-    <seriesInfo name="NIST" value="NBS BSS 110"/>
-    <author fullname="Bruce Ellingwood" initials="B." surname="Ellingwood"/>
+    <author fullname="Bruce Ellingwood" initials="B." surname="Ellingwood">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.110"/>
+  <seriesInfo name="NIST" value="NBS BSS 110"/>
 </reference>

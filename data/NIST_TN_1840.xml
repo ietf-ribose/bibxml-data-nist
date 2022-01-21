@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1840" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1840.pdf">
   <front>
     <title>A Review of Risk Perception in Building Fire Evacuation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1840"/>
-    <seriesInfo name="NIST" value="NIST TN 1840"/>
-    <author fullname="Max Kinateder" initials="M." surname="Kinateder">
+    <author fullname="Max Kinateder" initials="T" surname="Kinateder">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski">
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+    <author fullname="Paul Reneke" initials="K" surname="Reneke">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock">
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2014" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1840"/>
+  <seriesInfo name="NIST" value="NIST TN 1840"/>
 </reference>

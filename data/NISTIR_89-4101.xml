@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.89-4101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4101.pdf">
   <front>
     <title>Intercomparison of load cell verification tests performed by national laboratories of five countries</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4101"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4101"/>
-    <author fullname="Richard Mitchell" initials="R." surname="Mitchell"/>
-    <author fullname="Simone Yaniv" initials="S." surname="Yaniv"/>
-    <author fullname="Kenneth Yee" initials="K." surname="Yee"/>
-    <author fullname="Otto Warnlof" initials="O." surname="Warnlof"/>
+    <author fullname="Richard Mitchell" initials="A" surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Simone Yaniv" initials="L" surname="Yaniv">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Yee" initials="K." surname="Yee">
+      <organization/>
+    </author>
+    <author fullname="Otto Warnlof" initials="K" surname="Warnlof">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4101"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4101"/>
 </reference>

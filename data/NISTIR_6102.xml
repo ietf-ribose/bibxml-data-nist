@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6102" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6102.pdf">
   <front>
     <title>Workshop on Micro-Mechanics Measurement Technologies for Fiber-Polymer Interfaces</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6102"/>
-    <seriesInfo name="NIST" value="NIST IR 6102"/>
-    <author fullname="Walter McDonough" initials="W." surname="McDonough"/>
-    <author fullname="Gale Holmes" initials="G." surname="Holmes"/>
-    <author fullname="Donald Hunston" initials="D." surname="Hunston"/>
-    <author fullname="Richard Parnas" initials="R." surname="Parnas"/>
+    <author fullname="Walter McDonough" initials="G" surname="McDonough">
+      <organization/>
+    </author>
+    <author fullname="Gale Holmes" initials="A" surname="Holmes">
+      <organization/>
+    </author>
+    <author fullname="Donald Hunston" initials="L" surname="Hunston">
+      <organization/>
+    </author>
+    <author fullname="Richard Parnas" initials="S" surname="Parnas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6102"/>
+  <seriesInfo name="NIST" value="NIST IR 6102"/>
 </reference>

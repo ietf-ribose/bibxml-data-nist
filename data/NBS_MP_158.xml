@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.158" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub158.pdf">
   <front>
     <title>Evaluation of motion-picture film for permanent records/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.158"/>
-    <seriesInfo name="NIST" value="NBS MP 158"/>
-    <author fullname="Charles Weber" initials="C." surname="Weber"/>
-    <author fullname="John Hill" initials="J." surname="Hill"/>
+    <author fullname="Charles Weber" initials="G" surname="Weber">
+      <organization/>
+    </author>
+    <author fullname="John Hill" initials="R" surname="Hill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1937"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.158"/>
+  <seriesInfo name="NIST" value="NBS MP 158"/>
 </reference>

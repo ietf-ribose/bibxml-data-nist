@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.87-3543" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3543.pdf">
   <front>
     <title>72nd annual meeting :National Conference on Weights and Measures, program and committee reports</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3543"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3543"/>
-    <author surname="Tholen"/>
-    <author surname="Brickenkamp"/>
-    <author surname="Heffernan"/>
+    <author initials="AD" surname="Tholen">
+      <organization/>
+    </author>
+    <author initials="CS" surname="Brickenkamp">
+      <organization/>
+    </author>
+    <author initials="AP" surname="Heffernan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3543"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3543"/>
 </reference>

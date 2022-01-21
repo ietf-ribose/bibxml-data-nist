@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1484" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1484.pdf">
   <front>
     <title>Computational model of dissipation of oxygen from an outward leak of a closed-circuit breathing device</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1484"/>
-    <seriesInfo name="NIST" value="NIST TN 1484"/>
-    <author fullname="Kathryn Butler" initials="K." surname="Butler"/>
+    <author fullname="Kathryn Butler" initials="M" surname="Butler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1484"/>
+  <seriesInfo name="NIST" value="NIST TN 1484"/>
 </reference>

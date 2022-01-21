@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3462" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3462.pdf">
   <front>
     <title>Specifications for thermal and environmental evaluations of advanced-technology office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3462"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3462"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3462"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3462"/>
 </reference>

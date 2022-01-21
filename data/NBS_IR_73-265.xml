@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-265" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-265.pdf">
   <front>
     <title>The Shirley Highway Express Bus-on-Freeway Demonstration Project-users' reactions to innovative bus features</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-265"/>
-    <seriesInfo name="NIST" value="NBS IR 73-265"/>
-    <author fullname="Theodore Saks" initials="T." surname="Saks"/>
-    <author fullname="Richard Yates" initials="R." surname="Yates"/>
-    <author fullname="Keith Goodman" initials="K." surname="Goodman"/>
+    <author fullname="Theodore Saks" initials="H" surname="Saks">
+      <organization/>
+    </author>
+    <author fullname="Richard Yates" initials="F" surname="Yates">
+      <organization/>
+    </author>
+    <author fullname="Keith Goodman" initials="M" surname="Goodman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-265"/>
+  <seriesInfo name="NIST" value="NBS IR 73-265"/>
 </reference>

@@ -1,21 +1,41 @@
 <reference anchor="NIST.IR.7872" target="https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7872.pdf">
   <front>
     <title>SEABIRD TISSUE ARCHIVAL AND MONITORING PROJECT: Egg Collections and Analytical Results for 2006-2009</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7872"/>
-    <seriesInfo name="NIST" value="NIST IR 7872"/>
-    <author fullname="Stacy Vander Pol" initials="S." surname="Vander Pol"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Sylvain Berail" initials="S." surname="Berail"/>
-    <author fullname="Rusty Day" initials="R." surname="Day"/>
-    <author fullname="OlivierF.X. Donard" initials="O.F." surname="Donard"/>
-    <author fullname="Keith Hobson" initials="K." surname="Hobson"/>
-    <author fullname="Amanda Moors" initials="A." surname="Moors"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Lauren Rust" initials="L." surname="Rust"/>
-    <author fullname="David Roseneau" initials="D." surname="Roseneau"/>
+    <author fullname="Stacy Vander Pol" initials="S" surname="Vander Pol">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Sylvain Berail" initials="S." surname="Berail">
+      <organization/>
+    </author>
+    <author fullname="Rusty Day" initials="D" surname="Day">
+      <organization/>
+    </author>
+    <author fullname="OlivierF.X. Donard" initials="O.F." surname="Donard">
+      <organization/>
+    </author>
+    <author fullname="Keith Hobson" initials="A" surname="Hobson">
+      <organization/>
+    </author>
+    <author fullname="Amanda Moors" initials="J" surname="Moors">
+      <organization/>
+    </author>
+    <author fullname="Rebecca Pugh" initials="S" surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="Lauren Rust" initials="B" surname="Rust">
+      <organization/>
+    </author>
+    <author fullname="David Roseneau" initials="G" surname="Roseneau">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7872"/>
+  <seriesInfo name="NIST" value="NIST IR 7872"/>
 </reference>

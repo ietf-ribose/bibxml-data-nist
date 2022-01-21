@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.687" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote687.pdf">
   <front>
     <title>Measurement of RF power</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.687"/>
-    <seriesInfo name="NIST" value="NBS TN 687"/>
-    <author fullname="Frank Greene" initials="F." surname="Greene"/>
+    <author fullname="Frank Greene" initials="M" surname="Greene">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.687"/>
+  <seriesInfo name="NIST" value="NBS TN 687"/>
 </reference>

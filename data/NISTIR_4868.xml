@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4868" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4868.pdf">
   <front>
     <title>Interim report:preliminary sitewide survey of reinforced concrete structural deterioration at NIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4868"/>
-    <seriesInfo name="NIST" value="NIST IR 4868"/>
-    <author fullname="Lawrence Knab" initials="L." surname="Knab"/>
+    <author fullname="Lawrence Knab" initials="I" surname="Knab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4868"/>
+  <seriesInfo name="NIST" value="NIST IR 4868"/>
 </reference>

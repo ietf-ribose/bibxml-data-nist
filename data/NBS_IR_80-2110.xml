@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2110" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2110.pdf">
   <front>
     <title>Recommended testing and calculation procedures for estimating the seasonal performance of residential condensing furnaces and boilers</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2110"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2110"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
-    <author fullname="Mark Kuklewicz" initials="M." surname="Kuklewicz"/>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
+    <author fullname="Mark Kuklewicz" initials="E" surname="Kuklewicz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2110"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2110"/>
 </reference>

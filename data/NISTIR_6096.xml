@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6096" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6096.pdf">
   <front>
     <title>Post-installed anchors:a literature review</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6096"/>
-    <seriesInfo name="NIST" value="NIST IR 6096"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
+      <organization/>
+    </author>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6096"/>
+  <seriesInfo name="NIST" value="NIST IR 6096"/>
 </reference>

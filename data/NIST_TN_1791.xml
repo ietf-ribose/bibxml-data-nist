@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1791" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1791.pdf">
   <front>
     <title>Evaluation of Firepots and Gel Fuels</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1791"/>
-    <seriesInfo name="NIST" value="NIST TN 1791"/>
-    <author fullname="Nathan Marsh" initials="N." surname="Marsh">
+    <author fullname="Nathan Marsh" initials="D" surname="Marsh">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1791"/>
+  <seriesInfo name="NIST" value="NIST TN 1791"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.67" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote67.pdf">
   <front>
     <title>On the nature of the crystal field approximation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.67"/>
-    <seriesInfo name="NIST" value="NBS TN 67"/>
-    <author fullname="Henry Goldberg" initials="H." surname="Goldberg"/>
+    <author fullname="Henry Goldberg" initials="H." surname="Goldberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.67"/>
+  <seriesInfo name="NIST" value="NBS TN 67"/>
 </reference>

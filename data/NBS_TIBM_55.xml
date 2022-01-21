@@ -1,8 +1,6 @@
 <reference anchor="NBS.TIBM.55" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TIBM/nbstibm55.pdf">
   <front>
     <title>Water-tightness of expansion joint materials in concrete roof construction</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TIBM.55"/>
-    <seriesInfo name="NIST" value="NBS TIBM 55"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1937"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TIBM.55"/>
+  <seriesInfo name="NIST" value="NBS TIBM 55"/>
 </reference>

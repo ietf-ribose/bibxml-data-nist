@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10833" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10833.pdf">
   <front>
     <title>Fire service location-allocation models</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10833"/>
-    <seriesInfo name="NIST" value="NBS RPT 10833"/>
-    <author fullname="Donald Colner" initials="D." surname="Colner"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
+    <author fullname="Donald Colner" initials="D." surname="Colner">
+      <organization/>
+    </author>
+    <author fullname="David Gilsinn" initials="D." surname="Gilsinn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10833"/>
+  <seriesInfo name="NIST" value="NBS RPT 10833"/>
 </reference>

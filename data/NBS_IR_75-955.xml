@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.75-955" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-955.pdf">
   <front>
     <title>Durability and related tests for selected elements and materials used in the exterior envelope of buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-955"/>
-    <seriesInfo name="NIST" value="NBS IR 75-955"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
-    <author fullname="Elizabeth Clark" initials="E." surname="Clark"/>
-    <author fullname="Gerald Sleater" initials="G." surname="Sleater"/>
-    <author fullname="Arthur Hockman" initials="A." surname="Hockman"/>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Clark" initials="J" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="Gerald Sleater" initials="A" surname="Sleater">
+      <organization/>
+    </author>
+    <author fullname="Arthur Hockman" initials="A." surname="Hockman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-955"/>
+  <seriesInfo name="NIST" value="NBS IR 75-955"/>
 </reference>

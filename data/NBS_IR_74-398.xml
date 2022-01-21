@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-398" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-398.pdf">
   <front>
     <title>Provisional values for the thermodynamic functions of ethane</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-398"/>
-    <seriesInfo name="NIST" value="NBS IR 74-398"/>
-    <author fullname="Robert Goodwin" initials="R." surname="Goodwin"/>
+    <author fullname="Robert Goodwin" initials="D" surname="Goodwin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-398"/>
+  <seriesInfo name="NIST" value="NBS IR 74-398"/>
 </reference>

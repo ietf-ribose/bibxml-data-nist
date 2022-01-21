@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.81-2315" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2315.pdf">
   <front>
     <title>Draft specification for a structured data interchange form</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2315"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2315"/>
-    <author fullname="James Fry" initials="J." surname="Fry"/>
-    <author fullname="Wan-Ping Chiang" initials="W." surname="Chiang"/>
-    <author fullname="Donald DeSmith" initials="D." surname="DeSmith"/>
-    <author fullname="David Leder" initials="D." surname="Leder"/>
-    <author fullname="DucKim Nguyen" initials="D.K." surname="Nguyen"/>
-    <author fullname="Robert Perreault" initials="R." surname="Perreault"/>
+    <author fullname="James Fry" initials="P" surname="Fry">
+      <organization/>
+    </author>
+    <author fullname="Wan-Ping Chiang" initials="W." surname="Chiang">
+      <organization/>
+    </author>
+    <author fullname="Donald DeSmith" initials="A" surname="DeSmith">
+      <organization/>
+    </author>
+    <author fullname="David Leder" initials="S" surname="Leder">
+      <organization/>
+    </author>
+    <author fullname="DucKim Nguyen" initials="D.K." surname="Nguyen">
+      <organization/>
+    </author>
+    <author fullname="Robert Perreault" initials="W" surname="Perreault">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2315"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2315"/>
 </reference>

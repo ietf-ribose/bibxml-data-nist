@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.97" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub97.pdf">
   <front>
     <title>Thermal properties of petroleum products/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.97"/>
-    <seriesInfo name="NIST" value="NBS MP 97"/>
-    <author surname="Cragoe"/>
+    <author initials="CS" surname="Cragoe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1929"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.97"/>
+  <seriesInfo name="NIST" value="NBS MP 97"/>
 </reference>

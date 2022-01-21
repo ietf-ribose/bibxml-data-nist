@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.89-4145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4145.pdf">
   <front>
     <title>Air quality investigation in the NIH Radiation Oncology branch</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4145"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4145"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Stuart Dols" initials="S." surname="Dols"/>
-    <author fullname="Steven Nabinger" initials="S." surname="Nabinger"/>
-    <author fullname="David VanBronkhorst" initials="D." surname="VanBronkhorst"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Stuart Dols" initials="W" surname="Dols">
+      <organization/>
+    </author>
+    <author fullname="Steven Nabinger" initials="J" surname="Nabinger">
+      <organization/>
+    </author>
+    <author fullname="David VanBronkhorst" initials="A" surname="VanBronkhorst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4145"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4145"/>
 </reference>

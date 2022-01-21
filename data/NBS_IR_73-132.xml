@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-132" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-132.pdf">
   <front>
     <title>State of the art report on durability testing of building components and materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-132"/>
-    <seriesInfo name="NIST" value="NBS IR 73-132"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
-    <author fullname="Winthrop Wolfe" initials="W." surname="Wolfe"/>
-    <author fullname="Walter Rossiter" initials="W." surname="Rossiter"/>
-    <author fullname="James Shaver" initials="J." surname="Shaver"/>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
+    <author fullname="Winthrop Wolfe" initials="C" surname="Wolfe">
+      <organization/>
+    </author>
+    <author fullname="Walter Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="James Shaver" initials="R" surname="Shaver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-132"/>
+  <seriesInfo name="NIST" value="NBS IR 73-132"/>
 </reference>

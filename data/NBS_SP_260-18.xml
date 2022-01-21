@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-18.pdf">
   <front>
     <title>Standard Reference Materials :Calibration of NBS secondary standard magnetic tape (computer amplitude reference) using the reference tape amplitude measurement Process A/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-18"/>
-    <seriesInfo name="NIST" value="NBS SP 260-18"/>
-    <author fullname="Paul Mantek" initials="P." surname="Mantek"/>
-    <author fullname="Sidney Geller" initials="S." surname="Geller"/>
+    <author fullname="Paul Mantek" initials="A" surname="Mantek">
+      <organization/>
+    </author>
+    <author fullname="Sidney Geller" initials="B" surname="Geller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-18"/>
+  <seriesInfo name="NIST" value="NBS SP 260-18"/>
 </reference>

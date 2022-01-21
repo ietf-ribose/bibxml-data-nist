@@ -1,24 +1,22 @@
 <reference anchor="NIST.SP.800-85b" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-85b.pdf">
   <front>
     <title>PIV data model test guidelines</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85b"/>
-    <seriesInfo name="NIST" value="NIST SP 800-85b"/>
-    <author surname="Chandramouli">
+    <author initials="R" surname="Chandramouli">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Mehta">
+    <author initials="K" surname="Mehta">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Uzamere II">
+    <author initials="PA" surname="Uzamere II">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Simon">
+    <author initials="D" surname="Simon">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Ghadiali">
+    <author initials="N" surname="Ghadiali">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Founds">
+    <author initials="AP" surname="Founds">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85b"/>
+  <seriesInfo name="NIST" value="NIST SP 800-85b"/>
 </reference>

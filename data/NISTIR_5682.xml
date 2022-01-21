@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5682" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5682.pdf">
   <front>
     <title>Strengthening methodology for lightly reinforced concrete frames:recommended design guidelines for strengthening with infill walls</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5682"/>
-    <seriesInfo name="NIST" value="NIST IR 5682"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
-    <author fullname="Geraldine Cheok" initials="G." surname="Cheok"/>
-    <author fullname="Diana Todd" initials="D." surname="Todd"/>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
+    <author fullname="Geraldine Cheok" initials="S" surname="Cheok">
+      <organization/>
+    </author>
+    <author fullname="Diana Todd" initials="R" surname="Todd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5682"/>
+  <seriesInfo name="NIST" value="NIST IR 5682"/>
 </reference>

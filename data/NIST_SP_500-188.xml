@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-188" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-188.pdf">
   <front>
     <title>Guide to expert system building tools for microcomputers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-188"/>
-    <seriesInfo name="NIST" value="NIST SP 500-188"/>
-    <author fullname="Christopher Dabrowski" initials="C." surname="Dabrowski"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Christopher Dabrowski" initials="E" surname="Dabrowski">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="N" surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-188"/>
+  <seriesInfo name="NIST" value="NIST SP 500-188"/>
 </reference>

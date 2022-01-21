@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7559" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7559.pdf">
   <front>
     <title>Forensics web services (FWS)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7559"/>
-    <seriesInfo name="NIST" value="NIST IR 7559"/>
-    <author fullname="Anoop Singhal" initials="A." surname="Singhal"/>
-    <author fullname="Murat Gunestas" initials="M." surname="Gunestas"/>
-    <author fullname="Duminda Wijesekera" initials="D." surname="Wijesekera"/>
+    <author fullname="Anoop Singhal" initials="A." surname="Singhal">
+      <organization/>
+    </author>
+    <author fullname="Murat Gunestas" initials="M." surname="Gunestas">
+      <organization/>
+    </author>
+    <author fullname="Duminda Wijesekera" initials="D." surname="Wijesekera">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7559"/>
+  <seriesInfo name="NIST" value="NIST IR 7559"/>
 </reference>

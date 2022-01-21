@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1222" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1222.pdf">
   <front>
     <title>Report on the NISTDHSFDA workshop: standards for pathogen detection for biosurveillance and clinical applications August 14-15, 2017</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1222"/>
-    <seriesInfo name="NIST" value="NIST SP 1222"/>
     <author fullname="Scott Jackson" initials="S." surname="Jackson">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Nancy Lin" initials="N." surname="Lin">
+    <author fullname="Nancy Lin" initials="J" surname="Lin">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jason Kralj" initials="J." surname="Kralj">
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1222"/>
+  <seriesInfo name="NIST" value="NIST SP 1222"/>
 </reference>

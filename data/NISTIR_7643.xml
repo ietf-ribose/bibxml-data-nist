@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7643" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7643.pdf">
   <front>
     <title>Ontological product modeling for collaborative design</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7643"/>
-    <seriesInfo name="NIST" value="NIST IR 7643"/>
-    <author fullname="Conrad Bock" initials="C." surname="Bock"/>
-    <author fullname="XuanFang Zha" initials="X." surname="Zha"/>
-    <author fullname="Hyo-Won Suh" initials="H." surname="Suh"/>
-    <author fullname="Jae-Hyun Lee" initials="J." surname="Lee"/>
+    <author fullname="Conrad Bock" initials="C." surname="Bock">
+      <organization/>
+    </author>
+    <author fullname="XuanFang Zha" initials="X." surname="Zha">
+      <organization/>
+    </author>
+    <author fullname="Hyo-Won Suh" initials="H." surname="Suh">
+      <organization/>
+    </author>
+    <author fullname="Jae-Hyun Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7643"/>
+  <seriesInfo name="NIST" value="NIST IR 7643"/>
 </reference>

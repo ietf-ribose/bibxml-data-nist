@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.500-307" target="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-307.pdf">
   <front>
     <title>Cloud computing service metrics description</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-307"/>
-    <seriesInfo name="NIST" value="NIST SP 500-307"/>
     <author fullname="Frederic de Vaulx" initials="F." surname="de Vaulx">
       <organization>Information Technology Laboratory.</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-307"/>
+  <seriesInfo name="NIST" value="NIST SP 500-307"/>
 </reference>

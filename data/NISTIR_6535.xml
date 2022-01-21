@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6535" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6535.pdf">
   <front>
     <title>Critical issues in the characterization of polymers for medical application</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6535"/>
-    <seriesInfo name="NIST" value="NIST IR 6535"/>
-    <author fullname="Walter McDonough" initials="W." surname="McDonough"/>
-    <author fullname="Eric Amis" initials="E." surname="Amis"/>
-    <author fullname="Joachim Kohn" initials="J." surname="Kohn"/>
+    <author fullname="Walter McDonough" initials="G" surname="McDonough">
+      <organization/>
+    </author>
+    <author fullname="Eric Amis" initials="J" surname="Amis">
+      <organization/>
+    </author>
+    <author fullname="Joachim Kohn" initials="J." surname="Kohn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6535"/>
+  <seriesInfo name="NIST" value="NIST IR 6535"/>
 </reference>

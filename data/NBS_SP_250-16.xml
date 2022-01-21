@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.250-16" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-16.pdf">
   <front>
     <title>Calibration of x-ray and gamma-ray measuring instruments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-16"/>
-    <seriesInfo name="NIST" value="NBS SP 250-16"/>
-    <author fullname="Paul Lamperti" initials="P." surname="Lamperti"/>
-    <author fullname="Thomas Loftus" initials="T." surname="Loftus"/>
-    <author fullname="Robert Loevinger" initials="R." surname="Loevinger"/>
+    <author fullname="Paul Lamperti" initials="J" surname="Lamperti">
+      <organization/>
+    </author>
+    <author fullname="Thomas Loftus" initials="P" surname="Loftus">
+      <organization/>
+    </author>
+    <author fullname="Robert Loevinger" initials="R." surname="Loevinger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-16"/>
+  <seriesInfo name="NIST" value="NBS SP 250-16"/>
 </reference>

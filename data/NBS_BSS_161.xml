@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.161" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience161.pdf">
   <front>
     <title>Effectiveness of solar shading for an office building</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.161"/>
-    <seriesInfo name="NIST" value="NBS BSS 161"/>
-    <author surname="Treado"/>
-    <author surname="Barnett"/>
-    <author surname="Remmert"/>
+    <author initials="S" surname="Treado">
+      <organization/>
+    </author>
+    <author initials="J" surname="Barnett">
+      <organization/>
+    </author>
+    <author initials="W" surname="Remmert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.161"/>
+  <seriesInfo name="NIST" value="NBS BSS 161"/>
 </reference>

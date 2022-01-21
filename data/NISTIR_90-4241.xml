@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.90-4241" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4241.pdf">
   <front>
     <title>Data model development and validation for product data exchange</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4241"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4241"/>
-    <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
-    <author fullname="Yuhwei Yang" initials="Y." surname="Yang"/>
-    <author fullname="Steve Ryan" initials="S." surname="Ryan"/>
-    <author fullname="Bryan Martin" initials="B." surname="Martin"/>
+    <author fullname="Mary Mitchell" initials="M." surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Yuhwei Yang" initials="Y." surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Steve Ryan" initials="S." surname="Ryan">
+      <organization/>
+    </author>
+    <author fullname="Bryan Martin" initials="B." surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4241"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4241"/>
 </reference>

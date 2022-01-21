@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-715" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-715.pdf">
   <front>
     <title>The implementation of a provision against progressive collapse</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-715"/>
-    <seriesInfo name="NIST" value="NBS IR 75-715"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
-    <author fullname="James Pielert" initials="J." surname="Pielert"/>
-    <author fullname="Alvin Schwab" initials="A." surname="Schwab"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
+    <author fullname="James Pielert" initials="H" surname="Pielert">
+      <organization/>
+    </author>
+    <author fullname="Alvin Schwab" initials="R" surname="Schwab">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-715"/>
+  <seriesInfo name="NIST" value="NBS IR 75-715"/>
 </reference>

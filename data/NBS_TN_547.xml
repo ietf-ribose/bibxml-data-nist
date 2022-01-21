@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.547" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote547.pdf">
   <front>
     <title>Organic chemistry section:summary of activities.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.547"/>
-    <seriesInfo name="NIST" value="NBS TN 547"/>
-    <author fullname="Robert Schaffer" initials="R." surname="Schaffer"/>
+    <author fullname="Robert Schaffer" initials="R." surname="Schaffer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.547"/>
+  <seriesInfo name="NIST" value="NBS TN 547"/>
 </reference>

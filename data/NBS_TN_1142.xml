@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1142" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1142.pdf">
   <front>
     <title>NBS reactor :summary of activities July 1979 to June 1980</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1142"/>
-    <seriesInfo name="NIST" value="NBS TN 1142"/>
-    <author fullname="Frederick Shorten" initials="F." surname="Shorten"/>
+    <author fullname="Frederick Shorten" initials="J" surname="Shorten">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1142"/>
+  <seriesInfo name="NIST" value="NBS TN 1142"/>
 </reference>

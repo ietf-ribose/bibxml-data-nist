@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.10656" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10656.pdf">
   <front>
     <title>A study of court reporting systems :executive summary</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10656"/>
-    <seriesInfo name="NIST" value="NBS RPT 10656"/>
-    <author fullname="Ernest Short" initials="E." surname="Short"/>
-    <author fullname="Walter Leight" initials="W." surname="Leight"/>
+    <author fullname="Ernest Short" initials="H" surname="Short">
+      <organization/>
+    </author>
+    <author fullname="Walter Leight" initials="G" surname="Leight">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10656"/>
+  <seriesInfo name="NIST" value="NBS RPT 10656"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.121" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub121.pdf">
   <front>
     <title>Units of weight and measure (U. S. customary and metric) definitions and tables of equivalents</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.121"/>
-    <seriesInfo name="NIST" value="NBS MP 121"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1936"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.121"/>
+  <seriesInfo name="NIST" value="NBS MP 121"/>
 </reference>

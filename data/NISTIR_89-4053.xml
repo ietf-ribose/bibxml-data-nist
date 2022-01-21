@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4053" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4053.pdf">
   <front>
     <title>Architecturally-focused benchmarks with a communication example</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4053"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4053"/>
-    <author surname="Lyon"/>
-    <author fullname="RD Snelick" initials="R." surname="Snelick"/>
+    <author initials="GE" surname="Lyon">
+      <organization/>
+    </author>
+    <author fullname="RD Snelick" initials="R." surname="Snelick">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4053"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4053"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5773" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5773.pdf">
   <front>
     <title>Electronics and Electrical Engineering Laboratory:technical publication announcements covering laboratory programs, April to June 1995 with 1995 EEEL events calendar</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5773"/>
-    <seriesInfo name="NIST" value="NIST IR 5773"/>
-    <author surname="Rohrbaugh"/>
+    <author initials="JM" surname="Rohrbaugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5773"/>
+  <seriesInfo name="NIST" value="NIST IR 5773"/>
 </reference>

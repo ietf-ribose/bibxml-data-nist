@@ -1,11 +1,15 @@
 <reference anchor="NIST.TN.1378" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1378.pdf">
   <front>
     <title>Optical fiber, fiber coating, and connector ferrule geometry :results of interlaboratory comparisons</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1378"/>
-    <seriesInfo name="NIST" value="NIST TN 1378"/>
-    <author fullname="Douglas Franzen" initials="D." surname="Franzen"/>
-    <author fullname="Matt Young" initials="M." surname="Young"/>
-    <author fullname="Timothy Drapela" initials="T." surname="Drapela"/>
+    <author fullname="Douglas Franzen" initials="L" surname="Franzen">
+      <organization/>
+    </author>
+    <author fullname="Matt Young" initials="M." surname="Young">
+      <organization/>
+    </author>
+    <author fullname="Timothy Drapela" initials="J" surname="Drapela">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1378"/>
+  <seriesInfo name="NIST" value="NIST TN 1378"/>
 </reference>

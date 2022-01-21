@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5665" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5665.pdf">
   <front>
     <title>ISO TC 184SC4:reference manual</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5665"/>
-    <seriesInfo name="NIST" value="NIST IR 5665"/>
-    <author fullname="Joan Wellington" initials="J." surname="Wellington"/>
-    <author fullname="Bradford Smith" initials="B." surname="Smith"/>
+    <author fullname="Joan Wellington" initials="J." surname="Wellington">
+      <organization/>
+    </author>
+    <author fullname="Bradford Smith" initials="B." surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5665"/>
+  <seriesInfo name="NIST" value="NIST IR 5665"/>
 </reference>

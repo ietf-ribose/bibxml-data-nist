@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2001" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2001.pdf">
   <front>
     <title>Introductory tutorial for DAD: design examples of high-rise building for wind</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2001"/>
-    <seriesInfo name="NIST" value="NIST TN 2001"/>
     <author fullname="Sejun Park" initials="S." surname="Park">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2018" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2001"/>
+  <seriesInfo name="NIST" value="NIST TN 2001"/>
 </reference>

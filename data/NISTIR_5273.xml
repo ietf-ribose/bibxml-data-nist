@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5273" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5273.pdf">
   <front>
     <title>Smoke plume trajectory from in situ burning of crude oil in Alaska</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5273"/>
-    <seriesInfo name="NIST" value="NIST IR 5273"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5273"/>
+  <seriesInfo name="NIST" value="NIST IR 5273"/>
 </reference>

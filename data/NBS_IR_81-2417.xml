@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.81-2417" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2417.pdf">
   <front>
     <title>Technical Activities 1981 Office of Recycled Materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2417"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2417"/>
-    <author fullname="Donald Becker" initials="D." surname="Becker"/>
-    <author fullname="Joseph Berke" initials="J." surname="Berke"/>
-    <author fullname="Eugene Domalski" initials="E." surname="Domalski"/>
-    <author fullname="Rosalie Matthews" initials="R." surname="Matthews"/>
-    <author fullname="Harvey Yakowitz" initials="H." surname="Yakowitz"/>
+    <author fullname="Donald Becker" initials="A" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Joseph Berke" initials="G" surname="Berke">
+      <organization/>
+    </author>
+    <author fullname="Eugene Domalski" initials="S" surname="Domalski">
+      <organization/>
+    </author>
+    <author fullname="Rosalie Matthews" initials="T" surname="Matthews">
+      <organization/>
+    </author>
+    <author fullname="Harvey Yakowitz" initials="H." surname="Yakowitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2417"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2417"/>
 </reference>

@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8136" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8136.pdf">
   <front>
     <title>An overview of mobile application vetting services for public safety</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8136"/>
-    <seriesInfo name="NIST" value="NIST IR 8136"/>
-    <author fullname="Michael Ogata" initials="M." surname="Ogata">
+    <author fullname="Michael Ogata" initials="A" surname="Ogata">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2017" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8136"/>
+  <seriesInfo name="NIST" value="NIST IR 8136"/>
 </reference>

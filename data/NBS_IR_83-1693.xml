@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-1693" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-1693.pdf">
   <front>
     <title>Handbook for broadband isotropic antenna system volume I</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1693"/>
-    <seriesInfo name="NIST" value="NBS IR 83-1693"/>
-    <author surname="Bensema"/>
+    <author initials="WD" surname="Bensema">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1693"/>
+  <seriesInfo name="NIST" value="NBS IR 83-1693"/>
 </reference>

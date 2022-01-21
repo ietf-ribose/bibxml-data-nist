@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.81-2199" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2199.pdf">
   <front>
     <title>Wind, earthquake, snow, and hail loads on solar collectors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2199"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2199"/>
-    <author fullname="Louis Cattaneo" initials="L." surname="Cattaneo"/>
-    <author fullname="JamesRobert Harris" initials="J.R." surname="Harris"/>
-    <author fullname="Timothy Reinhold" initials="T." surname="Reinhold"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="Charles Yancey" initials="C." surname="Yancey"/>
+    <author fullname="Louis Cattaneo" initials="L." surname="Cattaneo">
+      <organization/>
+    </author>
+    <author fullname="JamesRobert Harris" initials="J.R." surname="Harris">
+      <organization/>
+    </author>
+    <author fullname="Timothy Reinhold" initials="A" surname="Reinhold">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="Charles Yancey" initials="WC" surname="Yancey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2199"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2199"/>
 </reference>

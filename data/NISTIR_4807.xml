@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4807" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4807.pdf">
   <front>
     <title>On logarithmic retinae</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4807"/>
-    <seriesInfo name="NIST" value="NIST IR 4807"/>
-    <author fullname="Daniel Raviv" initials="D." surname="Raviv"/>
-    <author fullname="Don Orser" initials="D." surname="Orser"/>
-    <author fullname="James Albus" initials="J." surname="Albus"/>
+    <author fullname="Daniel Raviv" initials="D." surname="Raviv">
+      <organization/>
+    </author>
+    <author fullname="Don Orser" initials="D." surname="Orser">
+      <organization/>
+    </author>
+    <author fullname="James Albus" initials="S" surname="Albus">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4807"/>
+  <seriesInfo name="NIST" value="NIST IR 4807"/>
 </reference>

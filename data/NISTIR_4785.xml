@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4785" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4785.pdf">
   <front>
     <title>X-ray powder diffraction analysis of three portland cement reference material clinkers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4785"/>
-    <seriesInfo name="NIST" value="NIST IR 4785"/>
-    <author fullname="Paul Stutzman" initials="P." surname="Stutzman"/>
+    <author fullname="Paul Stutzman" initials="E" surname="Stutzman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4785"/>
+  <seriesInfo name="NIST" value="NIST IR 4785"/>
 </reference>

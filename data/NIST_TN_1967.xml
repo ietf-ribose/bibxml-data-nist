@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1967" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1967.pdf">
   <front>
     <title>3.5 GHz radar waveform capture at fort story: final test report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1967"/>
-    <seriesInfo name="NIST" value="NIST TN 1967"/>
     <author fullname="Paul Hale" initials="P." surname="Hale">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2017" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1967"/>
+  <seriesInfo name="NIST" value="NIST TN 1967"/>
 </reference>

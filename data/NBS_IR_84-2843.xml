@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.84-2843" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2843.pdf">
   <front>
     <title>Properties and interactions of oral structures and restorative materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2843"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2843"/>
-    <author surname="Tesk"/>
-    <author surname="Brauer"/>
-    <author surname="Antonucci"/>
-    <author surname="Wu"/>
-    <author surname="McKinney"/>
-    <author surname="Stansbury"/>
+    <author initials="JA" surname="Tesk">
+      <organization/>
+    </author>
+    <author initials="GM" surname="Brauer">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Antonucci">
+      <organization/>
+    </author>
+    <author initials="W" surname="Wu">
+      <organization/>
+    </author>
+    <author initials="JE" surname="McKinney">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Stansbury">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2843"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2843"/>
 </reference>

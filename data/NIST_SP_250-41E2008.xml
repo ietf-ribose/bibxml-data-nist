@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.250-41e2008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-41e2008.pdf">
   <front>
     <title>Spectroradiometric detector measurements :ultraviolet, visible, and near-infrared detectors for spectral power</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-41e2008"/>
-    <seriesInfo name="NIST" value="NIST SP 250-41e2008"/>
-    <author fullname="Thomas Larason" initials="T." surname="Larason"/>
-    <author fullname="Jeanne Houston" initials="J." surname="Houston"/>
+    <author fullname="Thomas Larason" initials="C" surname="Larason">
+      <organization/>
+    </author>
+    <author fullname="Jeanne Houston" initials="M" surname="Houston">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-41e2008"/>
+  <seriesInfo name="NIST" value="NIST SP 250-41e2008"/>
 </reference>

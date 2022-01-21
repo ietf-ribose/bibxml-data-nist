@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1619" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1619.pdf">
   <front>
     <title>Quality assurance program for the NBS C, K, and Q laser calibration systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1619"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1619"/>
-    <author fullname="William Case" initials="W." surname="Case"/>
+    <author fullname="William Case" initials="E" surname="Case">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1619"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1619"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-259" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-259.pdf">
   <front>
     <title>A gas dilution system for methyl bromide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-259"/>
-    <seriesInfo name="NIST" value="NBS IR 73-259"/>
-    <author fullname="Eugene Scheide" initials="E." surname="Scheide"/>
-    <author fullname="Ernest Hughes" initials="E." surname="Hughes"/>
-    <author fullname="John Taylor" initials="J." surname="Taylor"/>
+    <author fullname="Eugene Scheide" initials="P" surname="Scheide">
+      <organization/>
+    </author>
+    <author fullname="Ernest Hughes" initials="E" surname="Hughes">
+      <organization/>
+    </author>
+    <author fullname="John Taylor" initials="K" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-259"/>
+  <seriesInfo name="NIST" value="NBS IR 73-259"/>
 </reference>

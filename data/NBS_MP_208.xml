@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.208" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub208.pdf">
   <front>
     <title>Hydraulic research in the United States/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.208"/>
-    <seriesInfo name="NIST" value="NBS MP 208"/>
-    <author fullname="Sonya Matchett" initials="S." surname="Matchett"/>
-    <author fullname="Helen Middleton" initials="H." surname="Middleton"/>
+    <author fullname="Sonya Matchett" initials="W" surname="Matchett">
+      <organization/>
+    </author>
+    <author fullname="Helen Middleton" initials="K" surname="Middleton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.208"/>
+  <seriesInfo name="NIST" value="NBS MP 208"/>
 </reference>

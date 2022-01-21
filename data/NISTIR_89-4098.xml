@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4098" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4098.pdf">
   <front>
     <title>Weights and measures directory, 1989</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4098"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4098"/>
-    <author fullname="AnnHeffernan Turner" initials="A.H." surname="Turner"/>
+    <author fullname="AnnHeffernan Turner" initials="A.H." surname="Turner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4098"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4098"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.888" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication888.pdf">
   <front>
     <title>Second Internationl Green Building Conference and Exposition--1995</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.888"/>
-    <seriesInfo name="NIST" value="NIST SP 888"/>
-    <author surname="Fanney"/>
-    <author surname="Fanney"/>
-    <author surname="Whitter"/>
-    <author surname="Cohn"/>
+    <author initials="AH" surname="Fanney">
+      <organization/>
+    </author>
+    <author initials="AH" surname="Fanney">
+      <organization/>
+    </author>
+    <author initials="KM" surname="Whitter">
+      <organization/>
+    </author>
+    <author initials="TB" surname="Cohn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.888"/>
+  <seriesInfo name="NIST" value="NIST SP 888"/>
 </reference>

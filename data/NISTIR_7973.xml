@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7973" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7973.pdf">
   <front>
     <title>Towards NFIQ II Lite :self-organizing maps for fingerprint image quality assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7973"/>
-    <seriesInfo name="NIST" value="NIST IR 7973"/>
-    <author fullname="Elham Tabassi" initials="E." surname="Tabassi"/>
-    <author fullname="MartinAastrup Olsen" initials="M.A." surname="Olsen"/>
-    <author fullname="Anton Makarov" initials="A." surname="Makarov"/>
-    <author fullname="Christoph Busch" initials="C." surname="Busch"/>
+    <author fullname="Elham Tabassi" initials="E." surname="Tabassi">
+      <organization/>
+    </author>
+    <author fullname="MartinAastrup Olsen" initials="M.A." surname="Olsen">
+      <organization/>
+    </author>
+    <author fullname="Anton Makarov" initials="A." surname="Makarov">
+      <organization/>
+    </author>
+    <author fullname="Christoph Busch" initials="C." surname="Busch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2013"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7973"/>
+  <seriesInfo name="NIST" value="NIST IR 7973"/>
 </reference>

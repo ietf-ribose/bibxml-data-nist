@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1382" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1382.pdf">
   <front>
     <title>Visiting team report on 1977 industrial survey in Korea on precision measurements and standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1382"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1382"/>
-    <author fullname="KunMo Chung" initials="K." surname="Chung"/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
-    <author fullname="Raymond Sangster" initials="R." surname="Sangster"/>
+    <author fullname="KunMo Chung" initials="K." surname="Chung">
+      <organization/>
+    </author>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
+    <author fullname="Raymond Sangster" initials="C" surname="Sangster">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1382"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1382"/>
 </reference>

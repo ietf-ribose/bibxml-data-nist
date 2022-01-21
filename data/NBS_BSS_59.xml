@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.59" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience59.pdf">
   <front>
     <title>The adherence of porcelain enamel to aluminum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.59"/>
-    <seriesInfo name="NIST" value="NBS BSS 59"/>
-    <author fullname="Margaret Baker" initials="M." surname="Baker"/>
+    <author fullname="Margaret Baker" initials="A" surname="Baker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.59"/>
+  <seriesInfo name="NIST" value="NBS BSS 59"/>
 </reference>

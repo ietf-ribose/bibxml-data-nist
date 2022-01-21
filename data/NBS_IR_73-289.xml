@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-289" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-289.pdf">
   <front>
     <title>Characterization and testing of interactive graphics for computer-aided design and engineering</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-289"/>
-    <seriesInfo name="NIST" value="NBS IR 73-289"/>
-    <author fullname="Siegfried Treu" initials="S." surname="Treu"/>
+    <author fullname="Siegfried Treu" initials="S." surname="Treu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-289"/>
+  <seriesInfo name="NIST" value="NBS IR 73-289"/>
 </reference>

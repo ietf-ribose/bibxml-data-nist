@@ -1,13 +1,21 @@
 <reference anchor="NBS.BSS.124" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience124.pdf">
   <front>
     <title>Hurricane wind speeds in the united States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.124"/>
-    <seriesInfo name="NIST" value="NBS BSS 124"/>
-    <author fullname="Martin Batts" initials="M." surname="Batts"/>
-    <author fullname="Mrtin Cordes" initials="M." surname="Cordes"/>
-    <author fullname="Larry Russell" initials="L." surname="Russell"/>
-    <author fullname="James Shaver" initials="J." surname="Shaver"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
+    <author fullname="Martin Batts" initials="E" surname="Batts">
+      <organization/>
+    </author>
+    <author fullname="Mrtin Cordes" initials="R" surname="Cordes">
+      <organization/>
+    </author>
+    <author fullname="Larry Russell" initials="R" surname="Russell">
+      <organization/>
+    </author>
+    <author fullname="James Shaver" initials="R" surname="Shaver">
+      <organization/>
+    </author>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.124"/>
+  <seriesInfo name="NIST" value="NBS BSS 124"/>
 </reference>

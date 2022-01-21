@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.150" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote150.pdf">
   <front>
     <title>General characteristics of linear strain gage accelerometers used in telemetry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.150"/>
-    <seriesInfo name="NIST" value="NBS TN 150"/>
-    <author fullname="Paul Lederer" initials="P." surname="Lederer"/>
+    <author fullname="Paul Lederer" initials="S" surname="Lederer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.150"/>
+  <seriesInfo name="NIST" value="NBS TN 150"/>
 </reference>

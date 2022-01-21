@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub2.pdf">
   <front>
     <title>The international metric system of weights and measures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.2"/>
-    <seriesInfo name="NIST" value="NBS MP 2"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1906"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.2"/>
+  <seriesInfo name="NIST" value="NBS MP 2"/>
 </reference>

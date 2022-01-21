@@ -1,12 +1,18 @@
 <reference anchor="NBS.BSS.113" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience113.pdf">
   <front>
     <title>Life-cycle costing :a guide for selecting energy conservation projects for public buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.113"/>
-    <seriesInfo name="NIST" value="NBS BSS 113"/>
-    <author fullname="Rosalie Ruegg" initials="R." surname="Ruegg"/>
-    <author fullname="John McConnaughey" initials="J." surname="McConnaughey"/>
-    <author surname="Sav"/>
-    <author fullname="Kimberly Hockenbery" initials="K." surname="Hockenbery"/>
+    <author fullname="Rosalie Ruegg" initials="T" surname="Ruegg">
+      <organization/>
+    </author>
+    <author fullname="John McConnaughey" initials="S" surname="McConnaughey">
+      <organization/>
+    </author>
+    <author initials="GT" surname="Sav">
+      <organization/>
+    </author>
+    <author fullname="Kimberly Hockenbery" initials="A" surname="Hockenbery">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.113"/>
+  <seriesInfo name="NIST" value="NBS BSS 113"/>
 </reference>

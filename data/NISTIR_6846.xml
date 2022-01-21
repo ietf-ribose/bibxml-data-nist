@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6846" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6846.pdf">
   <front>
     <title>Fourth annual report on Federal agency use of voluntary consensus standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6846"/>
-    <seriesInfo name="NIST" value="NIST IR 6846"/>
-    <author surname="Johnsen"/>
+    <author initials="KJ" surname="Johnsen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6846"/>
+  <seriesInfo name="NIST" value="NIST IR 6846"/>
 </reference>

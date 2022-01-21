@@ -1,10 +1,12 @@
 <reference anchor="NIST.HB.130-2000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nisthandbook130-2000.pdf">
   <front>
     <title>Uniform laws and regulations in the areas of legal metrology and engine fuel quality</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2000"/>
-    <seriesInfo name="NIST" value="NIST HB 130-2000"/>
-    <author fullname="Thomas Coleman" initials="T." surname="Coleman"/>
-    <author fullname="Terry Grimes" initials="T." surname="Grimes"/>
+    <author fullname="Thomas Coleman" initials="T." surname="Coleman">
+      <organization/>
+    </author>
+    <author fullname="Terry Grimes" initials="L" surname="Grimes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.130-2000"/>
+  <seriesInfo name="NIST" value="NIST HB 130-2000"/>
 </reference>

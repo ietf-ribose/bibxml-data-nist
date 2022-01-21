@@ -1,8 +1,6 @@
 <reference anchor="NIST.NCSTAR.1-9A" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-9a.pdf">
   <front>
     <title>Global structural analysis of the response of World Trade Center Building 7 to fires and debris impact damage:federal building and fire safety investigation of the World Trade Center disaster</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-9A"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-9A"/>
     <author fullname="Robert MacNeill" initials="R." surname="MacNeill">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2008" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-9A"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-9A"/>
 </reference>

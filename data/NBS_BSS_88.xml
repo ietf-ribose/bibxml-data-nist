@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.88" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience88.pdf">
   <front>
     <title>Energy conservation in buildings- a human factorssystems viewpoint</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.88"/>
-    <seriesInfo name="NIST" value="NBS BSS 88"/>
-    <author fullname="Arthur Rubin" initials="A." surname="Rubin"/>
+    <author fullname="Arthur Rubin" initials="A." surname="Rubin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.88"/>
+  <seriesInfo name="NIST" value="NBS BSS 88"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.52" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience52.pdf">
   <front>
     <title>The effect of impact loadings on the performance of wood joist subflooring systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.52"/>
-    <seriesInfo name="NIST" value="NBS BSS 52"/>
-    <author surname="Lew"/>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.52"/>
+  <seriesInfo name="NIST" value="NBS BSS 52"/>
 </reference>

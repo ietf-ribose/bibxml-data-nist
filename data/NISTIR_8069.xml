@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8069" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8069.pdf">
   <front>
     <title>Systematic Measurement of Marginal Mark Types on Voting Ballots</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8069"/>
-    <seriesInfo name="NIST" value="NIST IR 8069"/>
-    <author fullname="Andrea Bajcsy" initials="A." surname="Bajcsy">
+    <author fullname="Andrea Bajcsy" initials="V" surname="Bajcsy">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="YaShian Li-Baboud" initials="Y." surname="Li-Baboud">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mary Brady" initials="M." surname="Brady">
+    <author fullname="Mary Brady" initials="C" surname="Brady">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8069"/>
+  <seriesInfo name="NIST" value="NIST IR 8069"/>
 </reference>

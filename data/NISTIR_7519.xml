@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7519" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7519.pdf">
   <front>
     <title>Style guide for voting system documentation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7519"/>
-    <seriesInfo name="NIST" value="NIST IR 7519"/>
-    <author fullname="Dana Chisnell" initials="D." surname="Chisnell"/>
-    <author fullname="Susan Becker" initials="S." surname="Becker"/>
-    <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
-    <author fullname="Svetlana Lowry" initials="S." surname="Lowry"/>
+    <author fullname="Dana Chisnell" initials="E" surname="Chisnell">
+      <organization/>
+    </author>
+    <author fullname="Susan Becker" initials="C" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Sharon Laskowski" initials="J" surname="Laskowski">
+      <organization/>
+    </author>
+    <author fullname="Svetlana Lowry" initials="Z" surname="Lowry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7519"/>
+  <seriesInfo name="NIST" value="NIST IR 7519"/>
 </reference>

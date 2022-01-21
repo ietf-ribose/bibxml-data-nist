@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.260-200" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-200.pdf">
   <front>
     <title>Certification of Standard Reference Material 2859 and Standard Reference Material 2861 restricted elements in polyvinyl chloride</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-200"/>
-    <seriesInfo name="NIST" value="NIST SP 260-200"/>
-    <author fullname="John Sieber" initials="J." surname="Sieber">
+    <author fullname="John Sieber" initials="R" surname="Sieber">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="John Molloy" initials="J." surname="Molloy">
+    <author fullname="John Molloy" initials="L" surname="Molloy">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Caroline Bibb" initials="C." surname="Bibb">
+    <author fullname="Caroline Bibb" initials="E" surname="Bibb">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Matthew Boyce" initials="M." surname="Boyce">
+    <author fullname="Matthew Boyce" initials="W" surname="Boyce">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+    <author fullname="Alan Heckert" initials="N" surname="Heckert">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-200"/>
+  <seriesInfo name="NIST" value="NIST SP 260-200"/>
 </reference>

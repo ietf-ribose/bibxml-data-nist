@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.8172" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8172.pdf">
   <front>
     <title>Radiant ignition of wall finish materials in a small home</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8172"/>
-    <seriesInfo name="NIST" value="NBS RPT 8172"/>
-    <author surname="Shoub"/>
-    <author surname="Bender"/>
+    <author initials="H" surname="Shoub">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Bender">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8172"/>
+  <seriesInfo name="NIST" value="NBS RPT 8172"/>
 </reference>

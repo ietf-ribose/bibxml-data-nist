@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.83-1695" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-1695.pdf">
   <front>
     <title>Fitness-for-service criteria for pipeline girth weld quality</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1695"/>
-    <seriesInfo name="NIST" value="NBS IR 83-1695"/>
-    <author surname="Reed"/>
-    <author surname="Kasen"/>
-    <author surname="McHenry"/>
-    <author surname="Fortunko"/>
-    <author surname="Read"/>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
+    <author initials="MB" surname="Kasen">
+      <organization/>
+    </author>
+    <author initials="HI" surname="McHenry">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Fortunko">
+      <organization/>
+    </author>
+    <author initials="DT" surname="Read">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1695"/>
+  <seriesInfo name="NIST" value="NBS IR 83-1695"/>
 </reference>

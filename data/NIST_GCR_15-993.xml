@@ -1,12 +1,14 @@
 <reference anchor="NIST.GCR.15-993" target="https://nvlpubs.nist.gov/nistpubs/gcr/2015/NIST.GCR.15-993.pdf">
   <front>
     <title>Community Resilience Workshop February 18-19, 2015</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-993"/>
-    <seriesInfo name="NIST" value="NIST GCR 15-993"/>
-    <author fullname="David Mizzen" initials="D." surname="Mizzen"/>
+    <author fullname="David Mizzen" initials="R" surname="Mizzen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
     </author>
     <date year="2015" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-993"/>
+  <seriesInfo name="NIST" value="NIST GCR 15-993"/>
 </reference>

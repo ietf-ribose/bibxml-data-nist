@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2039" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2039.pdf">
   <front>
     <title>Measurement of the flow resistance of vegetation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2039"/>
-    <seriesInfo name="NIST" value="NIST TN 2039"/>
     <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2039"/>
+  <seriesInfo name="NIST" value="NIST TN 2039"/>
 </reference>

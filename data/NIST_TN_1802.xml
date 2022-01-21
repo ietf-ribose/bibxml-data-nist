@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1802" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1802.pdf">
   <front>
     <title>Characterizing the response of direct-reading particulate detectors for the fire overhaul environment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1802"/>
-    <seriesInfo name="NIST" value="NIST TN 1802"/>
-    <author fullname="Rodney Bryant" initials="R." surname="Bryant">
+    <author fullname="Rodney Bryant" initials="A" surname="Bryant">
       <organization>Fire Research Division, Engineering Laboratory</organization>
     </author>
-    <author fullname="Paul Greenberg" initials="P." surname="Greenberg">
+    <author fullname="Paul Greenberg" initials="S" surname="Greenberg">
       <organization>Fire Research Division, Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1802"/>
+  <seriesInfo name="NIST" value="NIST TN 1802"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.76-1003" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1003.pdf">
   <front>
     <title>Thermal conductivity and electrical resistivity of six copper-base alloys</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1003"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1003"/>
-    <author surname="Siu"/>
-    <author surname="Carroll"/>
-    <author surname="Watson"/>
+    <author initials="MCI" surname="Siu">
+      <organization/>
+    </author>
+    <author initials="WL" surname="Carroll">
+      <organization/>
+    </author>
+    <author initials="TW" surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1003"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1003"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NBS.BSS.150" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience150.pdf">
   <front>
     <title>Low-voltage room thermostat</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.150"/>
-    <seriesInfo name="NIST" value="NBS BSS 150"/>
-    <author fullname="James Kao" initials="J." surname="Kao"/>
-    <author fullname="George Sushinsky" initials="G." surname="Sushinsky"/>
-    <author fullname="David Didion" initials="D." surname="Didion"/>
-    <author surname="Mastascusa"/>
-    <author fullname="Joseph Chi" initials="J." surname="Chi"/>
+    <author fullname="James Kao" initials="Y" surname="Kao">
+      <organization/>
+    </author>
+    <author fullname="George Sushinsky" initials="G." surname="Sushinsky">
+      <organization/>
+    </author>
+    <author fullname="David Didion" initials="A" surname="Didion">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Mastascusa">
+      <organization/>
+    </author>
+    <author fullname="Joseph Chi" initials="J." surname="Chi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.150"/>
+  <seriesInfo name="NIST" value="NBS BSS 150"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.211-4" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote211-4.pdf">
   <front>
     <title>Conference on Non-linear Processes in the Ionosphere, December 16-17, 1963. Volume 4</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.211-4"/>
-    <seriesInfo name="NIST" value="NBS TN 211-4"/>
-    <author fullname="Ernest Smith" initials="E." surname="Smith"/>
-    <author fullname="Donald Menzel" initials="D." surname="Menzel"/>
+    <author fullname="Ernest Smith" initials="K" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Donald Menzel" initials="H" surname="Menzel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.211-4"/>
+  <seriesInfo name="NIST" value="NBS TN 211-4"/>
 </reference>

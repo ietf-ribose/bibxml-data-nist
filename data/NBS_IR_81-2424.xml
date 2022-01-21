@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2424" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2424.pdf">
   <front>
     <title>Characterization of organometallic polymers by chromatographic methods and nuclear magnetic resonance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2424"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2424"/>
-    <author surname="Parks"/>
-    <author surname="Johannesen"/>
-    <author surname="Brinckman"/>
+    <author initials="EJ" surname="Parks">
+      <organization/>
+    </author>
+    <author initials="RB" surname="Johannesen">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Brinckman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2424"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2424"/>
 </reference>

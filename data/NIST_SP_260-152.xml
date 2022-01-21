@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.260-152" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-152.pdf">
   <front>
     <title>Standard Reference MaterialsCertification of a polystyrene synthetic polymer, SRM 2888</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-152"/>
-    <seriesInfo name="NIST" value="NIST SP 260-152"/>
-    <author fullname="William Blair" initials="W." surname="Blair"/>
-    <author fullname="Robert Goldschmidt" initials="R." surname="Goldschmidt"/>
-    <author fullname="David VanderHart" initials="D." surname="VanderHart"/>
-    <author fullname="William Wallace" initials="W." surname="Wallace"/>
-    <author fullname="Stephanie Wetzel" initials="S." surname="Wetzel"/>
-    <author fullname="Charles Guttman" initials="C." surname="Guttman"/>
+    <author fullname="William Blair" initials="R" surname="Blair">
+      <organization/>
+    </author>
+    <author fullname="Robert Goldschmidt" initials="J" surname="Goldschmidt">
+      <organization/>
+    </author>
+    <author fullname="David VanderHart" initials="L" surname="VanderHart">
+      <organization/>
+    </author>
+    <author fullname="William Wallace" initials="E" surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Wetzel" initials="J" surname="Wetzel">
+      <organization/>
+    </author>
+    <author fullname="Charles Guttman" initials="M" surname="Guttman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-152"/>
+  <seriesInfo name="NIST" value="NIST SP 260-152"/>
 </reference>

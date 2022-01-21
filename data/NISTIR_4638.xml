@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4638" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4638.pdf">
   <front>
     <title>A performance approach to the development of criteria for low-sloped roof membranes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4638"/>
-    <seriesInfo name="NIST" value="NIST IR 4638"/>
-    <author fullname="WalterJr Rossiter" initials="W.J." surname="Rossiter"/>
-    <author fullname="Geoffrey Frohnsdorff" initials="G." surname="Frohnsdorff"/>
-    <author fullname="Larry Masters" initials="L." surname="Masters"/>
-    <author fullname="Jonathan Martin" initials="J." surname="Martin"/>
+    <author fullname="WalterJr Rossiter" initials="J" surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Geoffrey Frohnsdorff" initials="G." surname="Frohnsdorff">
+      <organization/>
+    </author>
+    <author fullname="Larry Masters" initials="W" surname="Masters">
+      <organization/>
+    </author>
+    <author fullname="Jonathan Martin" initials="W" surname="Martin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4638"/>
+  <seriesInfo name="NIST" value="NIST IR 4638"/>
 </reference>

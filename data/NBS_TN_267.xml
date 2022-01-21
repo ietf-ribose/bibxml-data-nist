@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.267" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote267.pdf">
   <front>
     <title>Procedures for precise determination of thermal radiation properties, November 1963 to October 1964</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.267"/>
-    <seriesInfo name="NIST" value="NBS TN 267"/>
-    <author fullname="Joseph Richmond" initials="J." surname="Richmond"/>
-    <author fullname="Thomas Dunn" initials="T." surname="Dunn"/>
-    <author fullname="David DeWitt" initials="D." surname="DeWitt"/>
-    <author fullname="Warren ayes" initials="W." surname="ayes"/>
+    <author fullname="Joseph Richmond" initials="C" surname="Richmond">
+      <organization/>
+    </author>
+    <author fullname="Thomas Dunn" initials="T." surname="Dunn">
+      <organization/>
+    </author>
+    <author fullname="David DeWitt" initials="P" surname="DeWitt">
+      <organization/>
+    </author>
+    <author fullname="Warren ayes" initials="D" surname="ayes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.267"/>
+  <seriesInfo name="NIST" value="NBS TN 267"/>
 </reference>

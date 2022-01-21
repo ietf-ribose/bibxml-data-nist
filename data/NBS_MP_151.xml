@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub151.pdf">
   <front>
     <title>Design and construction of building exits/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.151"/>
-    <seriesInfo name="NIST" value="NBS MP 151"/>
-    <author fullname="William Hatt" initials="W." surname="Hatt"/>
+    <author fullname="William Hatt" initials="K" surname="Hatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1935"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.151"/>
+  <seriesInfo name="NIST" value="NBS MP 151"/>
 </reference>

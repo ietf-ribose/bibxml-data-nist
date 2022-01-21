@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.60" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook60.pdf">
   <front>
     <title>X-ray protection</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.60"/>
-    <seriesInfo name="NIST" value="NBS HB 60"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.60"/>
+  <seriesInfo name="NIST" value="NBS HB 60"/>
 </reference>

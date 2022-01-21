@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.89-3927" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3927.pdf">
   <front>
     <title>Recent improvements in time-domain EMC measurement system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3927"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3927"/>
-    <author surname="Adams"/>
-    <author surname="Ondrejka"/>
-    <author surname="Cavcey"/>
-    <author surname="Cruz"/>
-    <author surname="Medley"/>
-    <author surname="Grosvenor"/>
+    <author initials="JW" surname="Adams">
+      <organization/>
+    </author>
+    <author initials="AR" surname="Ondrejka">
+      <organization/>
+    </author>
+    <author initials="KH" surname="Cavcey">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Cruz">
+      <organization/>
+    </author>
+    <author initials="HW" surname="Medley">
+      <organization/>
+    </author>
+    <author initials="JH" surname="Grosvenor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3927"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3927"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1155.pdf">
   <front>
     <title>A simplified system for calibration of CCVTs in the substation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1155"/>
-    <seriesInfo name="NIST" value="NBS TN 1155"/>
-    <author fullname="David Hillhouse" initials="D." surname="Hillhouse"/>
+    <author fullname="David Hillhouse" initials="L" surname="Hillhouse">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1155"/>
+  <seriesInfo name="NIST" value="NBS TN 1155"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4440" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4440.pdf">
   <front>
     <title>Summaries of Center for Fire Research:in-house projects and grants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4440"/>
-    <seriesInfo name="NIST" value="NIST IR 4440"/>
-    <author fullname="Sonya Cherry" initials="S." surname="Cherry"/>
+    <author fullname="Sonya Cherry" initials="M" surname="Cherry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4440"/>
+  <seriesInfo name="NIST" value="NIST IR 4440"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.707" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular707.pdf">
   <front>
     <title>Letter Circular 707:rubber: list of publications (supersedes Letter Circular 634)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.707"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 707"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1942"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.707"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 707"/>
 </reference>

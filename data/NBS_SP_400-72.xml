@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.400-72" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-72.pdf">
   <front>
     <title>NBSRADC workshop moisture measurement technology for hermetic semiconductor devices II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-72"/>
-    <seriesInfo name="NIST" value="NBS SP 400-72"/>
-    <author fullname="Elaine Cohen" initials="E." surname="Cohen"/>
-    <author fullname="Stanley Ruthberg" initials="S." surname="Ruthberg"/>
+    <author fullname="Elaine Cohen" initials="C" surname="Cohen">
+      <organization/>
+    </author>
+    <author fullname="Stanley Ruthberg" initials="S." surname="Ruthberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-72"/>
+  <seriesInfo name="NIST" value="NBS SP 400-72"/>
 </reference>

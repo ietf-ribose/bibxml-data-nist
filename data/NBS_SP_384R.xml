@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.384r" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication384r.pdf">
   <front>
     <title>Annotated bibliography of the literature on resource sharing computer networks, revised 1976</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.384r"/>
-    <seriesInfo name="NIST" value="NBS SP 384r"/>
-    <author fullname="Helen Wood" initials="H." surname="Wood"/>
-    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins"/>
-    <author fullname="Ira Cotton" initials="I." surname="Cotton"/>
+    <author fullname="Helen Wood" initials="M" surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="ShirleyWard Watkins" initials="S.W." surname="Watkins">
+      <organization/>
+    </author>
+    <author fullname="Ira Cotton" initials="W" surname="Cotton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.384r"/>
+  <seriesInfo name="NIST" value="NBS SP 384r"/>
 </reference>

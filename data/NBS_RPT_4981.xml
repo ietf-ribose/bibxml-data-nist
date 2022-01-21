@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.4981" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4981.pdf">
   <front>
     <title>Evaluation tests of a developmental model of a modified ANAVQ-2A searchlight</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4981"/>
-    <seriesInfo name="NIST" value="NBS RPT 4981"/>
-    <author surname="Noffsinger"/>
-    <author surname="Hall"/>
+    <author initials="LR" surname="Noffsinger">
+      <organization/>
+    </author>
+    <author initials="WA" surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4981"/>
+  <seriesInfo name="NIST" value="NBS RPT 4981"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.474" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote474.pdf">
   <front>
     <title>Critically evaluated transition probabilities for Ba I and II</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.474"/>
-    <seriesInfo name="NIST" value="NBS TN 474"/>
-    <author surname="Miles"/>
+    <author initials="BM" surname="Miles">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.474"/>
+  <seriesInfo name="NIST" value="NBS TN 474"/>
 </reference>

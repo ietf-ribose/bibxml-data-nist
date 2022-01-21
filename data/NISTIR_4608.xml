@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4608" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4608.pdf">
   <front>
     <title>Electronic data interchange in Message Handling Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4608"/>
-    <seriesInfo name="NIST" value="NIST IR 4608"/>
-    <author fullname="Paul Markovitz" initials="P." surname="Markovitz"/>
+    <author fullname="Paul Markovitz" initials="P." surname="Markovitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4608"/>
+  <seriesInfo name="NIST" value="NIST IR 4608"/>
 </reference>

@@ -1,19 +1,39 @@
 <reference anchor="NBS.HB.140" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook140.pdf">
   <front>
     <title>Optical waveguide communications glossary</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.140"/>
-    <seriesInfo name="NIST" value="NBS HB 140"/>
-    <author surname="Hanson"/>
-    <author surname="Bloom"/>
-    <author surname="Cherin"/>
-    <author surname="Day"/>
-    <author surname="Gallawa"/>
-    <author surname="Gray"/>
-    <author surname="Kao"/>
-    <author surname="Kapron"/>
-    <author surname="Kawasaki"/>
-    <author fullname="PP Reitz" initials="P." surname="Reitz"/>
-    <author surname="Young"/>
+    <author initials="AG" surname="Hanson">
+      <organization/>
+    </author>
+    <author initials="LR" surname="Bloom">
+      <organization/>
+    </author>
+    <author initials="AH" surname="Cherin">
+      <organization/>
+    </author>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Gallawa">
+      <organization/>
+    </author>
+    <author initials="EM" surname="Gray">
+      <organization/>
+    </author>
+    <author initials="C" surname="Kao">
+      <organization/>
+    </author>
+    <author initials="FP" surname="Kapron">
+      <organization/>
+    </author>
+    <author initials="BS" surname="Kawasaki">
+      <organization/>
+    </author>
+    <author fullname="PP Reitz" initials="P." surname="Reitz">
+      <organization/>
+    </author>
+    <author initials="M" surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.140"/>
+  <seriesInfo name="NIST" value="NBS HB 140"/>
 </reference>

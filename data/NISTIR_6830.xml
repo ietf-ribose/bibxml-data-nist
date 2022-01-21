@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6830" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6830.pdf">
   <front>
     <title>Strength and ductility of concrete beams reinforced with carbon FRP and steel</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6830"/>
-    <seriesInfo name="NIST" value="NIST IR 6830"/>
-    <author fullname="Dat Duthinh" initials="D." surname="Duthinh"/>
-    <author fullname="Monica Starnes" initials="M." surname="Starnes"/>
+    <author fullname="Dat Duthinh" initials="D." surname="Duthinh">
+      <organization/>
+    </author>
+    <author fullname="Monica Starnes" initials="M." surname="Starnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6830"/>
+  <seriesInfo name="NIST" value="NIST IR 6830"/>
 </reference>

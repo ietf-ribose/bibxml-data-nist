@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-73-4" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-73-4.pdf">
   <front>
     <title>Interfaces for Personal Identity Verification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-4"/>
-    <seriesInfo name="NIST" value="NIST SP 800-73-4"/>
-    <author fullname="David Cooper" initials="D." surname="Cooper">
+    <author fullname="David Cooper" initials="A" surname="Cooper">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ketan Mehta" initials="K." surname="Mehta">
+    <author fullname="Ketan Mehta" initials="L" surname="Mehta">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Salvatore Francomacaro" initials="S." surname="Francomacaro">
@@ -26,4 +24,6 @@
     </author>
     <date year="2015" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-4"/>
+  <seriesInfo name="NIST" value="NIST SP 800-73-4"/>
 </reference>

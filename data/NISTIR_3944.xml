@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3944" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3944.pdf">
   <front>
     <title>Materials studies for magnetic fusion energy applications at low temperatures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3944"/>
-    <seriesInfo name="NIST" value="NIST IR 3944"/>
-    <author surname="Tobler"/>
-    <author surname="Reed"/>
+    <author initials="RL" surname="Tobler">
+      <organization/>
+    </author>
+    <author initials="RP" surname="Reed">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3944"/>
+  <seriesInfo name="NIST" value="NIST IR 3944"/>
 </reference>

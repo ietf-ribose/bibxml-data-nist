@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5759" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5759.pdf">
   <front>
     <title>National planning for construction and building R&amp;D</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5759"/>
-    <seriesInfo name="NIST" value="NIST IR 5759"/>
-    <author fullname="Richard Wright" initials="R." surname="Wright"/>
-    <author fullname="Arthur Rosenfeld" initials="A." surname="Rosenfeld"/>
-    <author fullname="Andrew Fowell" initials="A." surname="Fowell"/>
+    <author fullname="Richard Wright" initials="N" surname="Wright">
+      <organization/>
+    </author>
+    <author fullname="Arthur Rosenfeld" initials="H" surname="Rosenfeld">
+      <organization/>
+    </author>
+    <author fullname="Andrew Fowell" initials="J" surname="Fowell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5759"/>
+  <seriesInfo name="NIST" value="NIST IR 5759"/>
 </reference>

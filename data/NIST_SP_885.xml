@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.885" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication885.pdf">
   <front>
     <title>Applications of diamond films and related materials</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.885"/>
-    <seriesInfo name="NIST" value="NIST SP 885"/>
-    <author fullname="Albert Feldman" initials="A." surname="Feldman"/>
+    <author fullname="Albert Feldman" initials="A." surname="Feldman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.885"/>
+  <seriesInfo name="NIST" value="NIST SP 885"/>
 </reference>

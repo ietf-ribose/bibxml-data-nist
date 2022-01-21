@@ -1,12 +1,18 @@
 <reference anchor="NBS.HB.131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook131.pdf">
   <front>
     <title>Using ANS FOTRAN</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.131"/>
-    <seriesInfo name="NIST" value="NBS HB 131"/>
-    <author fullname="Gordon Lyon" initials="G." surname="Lyon"/>
-    <author fullname="Fraces Holberton" initials="F." surname="Holberton"/>
-    <author surname="Larmouth"/>
-    <author surname="McIlroy"/>
+    <author fullname="Gordon Lyon" initials="G." surname="Lyon">
+      <organization/>
+    </author>
+    <author fullname="Fraces Holberton" initials="E" surname="Holberton">
+      <organization/>
+    </author>
+    <author initials="J" surname="Larmouth">
+      <organization/>
+    </author>
+    <author initials="MD" surname="McIlroy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.131"/>
+  <seriesInfo name="NIST" value="NBS HB 131"/>
 </reference>

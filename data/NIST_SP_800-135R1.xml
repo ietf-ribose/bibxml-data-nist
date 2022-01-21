@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.800-135r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-135r1.pdf">
   <front>
     <title>Recommendation for existing application-specific key derivation functions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-135r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-135r1"/>
-    <author surname="Dang"/>
+    <author initials="QH" surname="Dang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-135r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-135r1"/>
 </reference>

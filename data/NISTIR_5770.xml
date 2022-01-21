@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5770" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5770.pdf">
   <front>
     <title>How-to suggestions for implementing executive order 12941 on seismic safety of existing federal buildings, a handbook</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5770"/>
-    <seriesInfo name="NIST" value="NIST IR 5770"/>
-    <author fullname="Ann Bieniawski" initials="A." surname="Bieniawski"/>
-    <author fullname="Diana Todd" initials="D." surname="Todd"/>
+    <author fullname="Ann Bieniawski" initials="A." surname="Bieniawski">
+      <organization/>
+    </author>
+    <author fullname="Diana Todd" initials="D." surname="Todd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5770"/>
+  <seriesInfo name="NIST" value="NIST IR 5770"/>
 </reference>

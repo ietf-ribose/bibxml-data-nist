@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7299" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7299.pdf">
   <front>
     <title>Polymers division, FY 2005 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7299"/>
-    <seriesInfo name="NIST" value="NIST IR 7299"/>
-    <author fullname="Eric Amis" initials="E." surname="Amis"/>
-    <author fullname="Chad Snyder" initials="C." surname="Snyder"/>
+    <author fullname="Eric Amis" initials="J" surname="Amis">
+      <organization/>
+    </author>
+    <author fullname="Chad Snyder" initials="R" surname="Snyder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7299"/>
+  <seriesInfo name="NIST" value="NIST IR 7299"/>
 </reference>

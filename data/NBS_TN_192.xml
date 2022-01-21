@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.192" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote192.pdf">
   <front>
     <title>Calculations of the potential and effective diffusion constant in a polyelectrolyte solution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.192"/>
-    <seriesInfo name="NIST" value="NBS TN 192"/>
-    <author fullname="Sam Coriell" initials="S." surname="Coriell"/>
+    <author fullname="Sam Coriell" initials="R" surname="Coriell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.192"/>
+  <seriesInfo name="NIST" value="NBS TN 192"/>
 </reference>

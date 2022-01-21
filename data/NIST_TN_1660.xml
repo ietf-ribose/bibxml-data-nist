@@ -1,14 +1,24 @@
 <reference anchor="NIST.TN.1660" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1660.pdf">
   <front>
     <title>Measurement science roadmap for net-zero energy buildings workshop summary report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1660"/>
-    <seriesInfo name="NIST" value="NIST TN 1660"/>
-    <author fullname="Joan Pellegrino" initials="J." surname="Pellegrino"/>
-    <author fullname="Hunter Fanney" initials="H." surname="Fanney"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
-    <author fullname="William Healy" initials="W." surname="Healy"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
+    <author fullname="Joan Pellegrino" initials="L" surname="Pellegrino">
+      <organization/>
+    </author>
+    <author fullname="Hunter Fanney" initials="A" surname="Fanney">
+      <organization/>
+    </author>
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
+      <organization/>
+    </author>
+    <author fullname="Piotr Domanski" initials="P." surname="Domanski">
+      <organization/>
+    </author>
+    <author fullname="William Healy" initials="M" surname="Healy">
+      <organization/>
+    </author>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1660"/>
+  <seriesInfo name="NIST" value="NIST TN 1660"/>
 </reference>

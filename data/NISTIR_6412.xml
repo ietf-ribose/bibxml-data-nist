@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6412" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6412.pdf">
   <front>
     <title>1997 annual report on the implementation of Office of Management and Budget (OMB) circular A-119 and P.L. 104-113</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6412"/>
-    <seriesInfo name="NIST" value="NIST IR 6412"/>
-    <author fullname="Patrick Cooke" initials="P." surname="Cooke"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="KristaJohnsen Leuteritz" initials="K.J." surname="Leuteritz"/>
+    <author fullname="Patrick Cooke" initials="P." surname="Cooke">
+      <organization/>
+    </author>
+    <author fullname="Belinda Collins" initials="B." surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="KristaJohnsen Leuteritz" initials="K.J." surname="Leuteritz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6412"/>
+  <seriesInfo name="NIST" value="NIST IR 6412"/>
 </reference>

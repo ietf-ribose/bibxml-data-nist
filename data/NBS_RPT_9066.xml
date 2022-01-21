@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9066" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9066.pdf">
   <front>
     <title>A computer simulation model of railroad freight transportation systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9066"/>
-    <seriesInfo name="NIST" value="NBS RPT 9066"/>
-    <author fullname="William Allman" initials="W." surname="Allman"/>
+    <author fullname="William Allman" initials="P" surname="Allman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9066"/>
+  <seriesInfo name="NIST" value="NBS RPT 9066"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.227" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote227.pdf">
   <front>
     <title>The Joule-Thomson process in cryogenic refrigeration systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.227"/>
-    <seriesInfo name="NIST" value="NBS TN 227"/>
-    <author fullname="John Dean" initials="J." surname="Dean"/>
+    <author fullname="John Dean" initials="W" surname="Dean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.227"/>
+  <seriesInfo name="NIST" value="NBS TN 227"/>
 </reference>

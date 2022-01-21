@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-195" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-195.pdf">
   <front>
     <title>2016 NIST/ITL cybersecurity program: annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-195"/>
-    <seriesInfo name="NIST" value="NIST SP 800-195"/>
     <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-195"/>
+  <seriesInfo name="NIST" value="NIST SP 800-195"/>
 </reference>

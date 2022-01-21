@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.75-803" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-803.pdf">
   <front>
     <title>Selected topics on hydrogen fuel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-803"/>
-    <seriesInfo name="NIST" value="NBS IR 75-803"/>
-    <author surname="Parrish"/>
-    <author surname="Voth"/>
-    <author surname="Hust"/>
-    <author surname="Flynn"/>
-    <author surname="Sindt"/>
-    <author surname="Olien"/>
-    <author surname="Hord"/>
+    <author initials="WR" surname="Parrish">
+      <organization/>
+    </author>
+    <author initials="RO" surname="Voth">
+      <organization/>
+    </author>
+    <author initials="JG" surname="Hust">
+      <organization/>
+    </author>
+    <author initials="TM" surname="Flynn">
+      <organization/>
+    </author>
+    <author initials="CF" surname="Sindt">
+      <organization/>
+    </author>
+    <author initials="NA" surname="Olien">
+      <organization/>
+    </author>
+    <author initials="J" surname="Hord">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-803"/>
+  <seriesInfo name="NIST" value="NBS IR 75-803"/>
 </reference>

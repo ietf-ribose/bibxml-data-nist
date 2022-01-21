@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-405" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-405.pdf">
   <front>
     <title>Use of organic coatings on the interior surfaces of equestrian statues at Memorial Bridge Plaza</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-405"/>
-    <seriesInfo name="NIST" value="NBS IR 73-405"/>
-    <author fullname="Fielding Ogburn" initials="F." surname="Ogburn"/>
+    <author fullname="Fielding Ogburn" initials="F." surname="Ogburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-405"/>
+  <seriesInfo name="NIST" value="NBS IR 73-405"/>
 </reference>

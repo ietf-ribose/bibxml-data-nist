@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.597" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication597.pdf">
   <front>
     <title>Technical digest</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.597"/>
-    <seriesInfo name="NIST" value="NBS SP 597"/>
-    <author surname="Day"/>
-    <author fullname="DL Frazen" initials="D." surname="Frazen"/>
+    <author initials="GW" surname="Day">
+      <organization/>
+    </author>
+    <author fullname="DL Frazen" initials="D." surname="Frazen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.597"/>
+  <seriesInfo name="NIST" value="NBS SP 597"/>
 </reference>

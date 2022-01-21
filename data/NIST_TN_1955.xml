@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1955" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1955.pdf">
   <front>
     <title>Mobile manipulator stability measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1955"/>
-    <seriesInfo name="NIST" value="NIST TN 1955"/>
-    <author fullname="Roger Bostelman" initials="R." surname="Bostelman">
+    <author fullname="Roger Bostelman" initials="V" surname="Bostelman">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Tsai Hong" initials="T." surname="Hong">
@@ -21,4 +19,6 @@
     </author>
     <date year="2017" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1955"/>
+  <seriesInfo name="NIST" value="NIST TN 1955"/>
 </reference>

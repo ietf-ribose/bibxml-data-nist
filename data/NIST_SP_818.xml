@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.818" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication818.pdf">
   <front>
     <title>Data bases available in the Research Information Center of the National Institute of Standards and Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.818"/>
-    <seriesInfo name="NIST" value="NIST SP 818"/>
-    <author fullname="Diane Cunningham" initials="D." surname="Cunningham"/>
-    <author fullname="Diane Cunningham" initials="D." surname="Cunningham"/>
+    <author fullname="Diane Cunningham" initials="D." surname="Cunningham">
+      <organization/>
+    </author>
+    <author fullname="Diane Cunningham" initials="D." surname="Cunningham">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.818"/>
+  <seriesInfo name="NIST" value="NIST SP 818"/>
 </reference>

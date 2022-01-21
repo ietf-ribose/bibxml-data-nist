@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7320" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7320.pdf">
   <front>
     <title>User interface of simulation of the shipbuilding operations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7320"/>
-    <seriesInfo name="NIST" value="NIST IR 7320"/>
-    <author fullname="Goudong Shao" initials="G." surname="Shao"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
-    <author fullname="Swee Leong" initials="S." surname="Leong"/>
+    <author fullname="Goudong Shao" initials="G." surname="Shao">
+      <organization/>
+    </author>
+    <author fullname="Charles McLean" initials="C." surname="McLean">
+      <organization/>
+    </author>
+    <author fullname="Swee Leong" initials="S." surname="Leong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7320"/>
+  <seriesInfo name="NIST" value="NIST IR 7320"/>
 </reference>

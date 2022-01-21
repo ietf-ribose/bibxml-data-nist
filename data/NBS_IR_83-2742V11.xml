@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-2742v11" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2742v11.pdf">
   <front>
     <title>Photonuclear data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2742v11"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2742v11"/>
-    <author surname="Fuller"/>
-    <author fullname="Henry Gerstenberg" initials="H." surname="Gerstenberg"/>
+    <author initials="EG" surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="Henry Gerstenberg" initials="H." surname="Gerstenberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2742v11"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2742v11"/>
 </reference>

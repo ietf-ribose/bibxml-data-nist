@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1910" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1910.pdf">
   <front>
     <title>A Case Study of a Community Affected by the Waldo Fire – Event Timeline and Defensive Actions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1910"/>
-    <seriesInfo name="NIST" value="NIST TN 1910"/>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2015" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1910"/>
+  <seriesInfo name="NIST" value="NIST TN 1910"/>
 </reference>

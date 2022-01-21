@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.250-67" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-67.pdf">
   <front>
     <title>NIST time and frequency radio stations :WWV, WWVH, and WWVB</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-67"/>
-    <seriesInfo name="NIST" value="NIST SP 250-67"/>
-    <author fullname="Glenn Nelson" initials="G." surname="Nelson"/>
-    <author fullname="Michael Lombardi" initials="M." surname="Lombardi"/>
-    <author fullname="Dean Okayama" initials="D." surname="Okayama"/>
+    <author fullname="Glenn Nelson" initials="K" surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="Michael Lombardi" initials="A" surname="Lombardi">
+      <organization/>
+    </author>
+    <author fullname="Dean Okayama" initials="T" surname="Okayama">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-67"/>
+  <seriesInfo name="NIST" value="NIST SP 250-67"/>
 </reference>

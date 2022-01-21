@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6784e2002" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6784e2002.pdf">
   <front>
     <title>Fire dynamics simulator (version 3) :user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6784e2002"/>
-    <seriesInfo name="NIST" value="NIST IR 6784e2002"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Glenn Forney" initials="G." surname="Forney"/>
-    <author fullname="Jason Floyd" initials="J." surname="Floyd"/>
-    <author fullname="Simo Hostikka" initials="S." surname="Hostikka"/>
-    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Glenn Forney" initials="P" surname="Forney">
+      <organization/>
+    </author>
+    <author fullname="Jason Floyd" initials="E" surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="Simo Hostikka" initials="S." surname="Hostikka">
+      <organization/>
+    </author>
+    <author fullname="Kuldeep Prasad" initials="K." surname="Prasad">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6784e2002"/>
+  <seriesInfo name="NIST" value="NIST IR 6784e2002"/>
 </reference>

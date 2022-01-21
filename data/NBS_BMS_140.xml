@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.140" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures140.pdf">
   <front>
     <title>Selected bibliography on building construction and maintenance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.140"/>
-    <seriesInfo name="NIST" value="NBS BMS 140"/>
-    <author surname="Nobel"/>
+    <author initials="LD" surname="Nobel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.140"/>
+  <seriesInfo name="NIST" value="NBS BMS 140"/>
 </reference>

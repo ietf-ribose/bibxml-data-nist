@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1120" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1120.pdf">
   <front>
     <title>The NIST Center for Neutron Research :over 40 years serving NISTNBS and the nation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1120"/>
-    <seriesInfo name="NIST" value="NIST SP 1120"/>
-    <author fullname="John Rush" initials="J." surname="Rush"/>
-    <author fullname="Ronald Cappelletti" initials="R." surname="Cappelletti"/>
+    <author fullname="John Rush" initials="J" surname="Rush">
+      <organization/>
+    </author>
+    <author fullname="Ronald Cappelletti" initials="L" surname="Cappelletti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1120"/>
+  <seriesInfo name="NIST" value="NIST SP 1120"/>
 </reference>

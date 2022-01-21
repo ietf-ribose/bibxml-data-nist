@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.74-477" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-477.pdf">
   <front>
     <title>Performance characteristics of a "bulk effect" humidity sensor</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-477"/>
-    <seriesInfo name="NIST" value="NBS IR 74-477"/>
-    <author fullname="James Little" initials="J." surname="Little"/>
-    <author fullname="Saburo Hasegawa" initials="S." surname="Hasegawa"/>
-    <author fullname="Lewis Greenspan" initials="L." surname="Greenspan"/>
+    <author fullname="James Little" initials="W" surname="Little">
+      <organization/>
+    </author>
+    <author fullname="Saburo Hasegawa" initials="S." surname="Hasegawa">
+      <organization/>
+    </author>
+    <author fullname="Lewis Greenspan" initials="L." surname="Greenspan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-477"/>
+  <seriesInfo name="NIST" value="NBS IR 74-477"/>
 </reference>

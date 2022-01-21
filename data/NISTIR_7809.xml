@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7809" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7809.pdf">
   <front>
     <title>Metallurgical Investigations into Corrosion Damage in Homes Constructed with Problem Drywall</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7809"/>
-    <seriesInfo name="NIST" value="NIST IR 7809"/>
     <author fullname="R.E. Ricker" initials="R." surname="Ricker">
       <organization>Metallurgy Division, Materials Science and Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7809"/>
+  <seriesInfo name="NIST" value="NIST IR 7809"/>
 </reference>

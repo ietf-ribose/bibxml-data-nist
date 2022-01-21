@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-182" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-182.pdf">
   <front>
     <title>Analyses for decision in the Office of Flammable Fabrics :the level of the standard</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-182"/>
-    <seriesInfo name="NIST" value="NBS IR 73-182"/>
-    <author fullname="Alexander Craw" initials="A." surname="Craw"/>
+    <author fullname="Alexander Craw" initials="R" surname="Craw">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-182"/>
+  <seriesInfo name="NIST" value="NBS IR 73-182"/>
 </reference>

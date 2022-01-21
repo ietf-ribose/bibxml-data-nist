@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.549" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular549.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 549:computation of achromatic objectives</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.549"/>
-    <seriesInfo name="NIST" value="NBS CIRC 549"/>
-    <author fullname="Robert Stephens" initials="R." surname="Stephens"/>
+    <author fullname="Robert Stephens" initials="E" surname="Stephens">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.549"/>
+  <seriesInfo name="NIST" value="NBS CIRC 549"/>
 </reference>

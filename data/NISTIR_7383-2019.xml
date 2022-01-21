@@ -1,12 +1,10 @@
 <reference anchor="NIST.IR.7383-2019" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.7383-2019.pdf">
   <front>
     <title>Selected procedures for volumetric calibrations:2019 edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7383-2019"/>
-    <seriesInfo name="NIST" value="NIST IR 7383-2019"/>
-    <author fullname="Georgia Harris" initials="G." surname="Harris">
+    <author fullname="Georgia Harris" initials="L" surname="Harris">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Val Miller" initials="V." surname="Miller">
+    <author fullname="Val Miller" initials="R" surname="Miller">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7383-2019"/>
+  <seriesInfo name="NIST" value="NIST IR 7383-2019"/>
 </reference>

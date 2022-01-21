@@ -1,14 +1,24 @@
 <reference anchor="NIST.SP.889" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication889.pdf">
   <front>
     <title>Post-earthquake fire and lifelines workshop</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.889"/>
-    <seriesInfo name="NIST" value="NIST SP 889"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
-    <author fullname="Riley Chung" initials="R." surname="Chung"/>
-    <author fullname="Nora Jason" initials="N." surname="Jason"/>
-    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz"/>
-    <author fullname="Frederick Mowrer" initials="F." surname="Mowrer"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
+    <author fullname="Riley Chung" initials="M" surname="Chung">
+      <organization/>
+    </author>
+    <author fullname="Nora Jason" initials="H" surname="Jason">
+      <organization/>
+    </author>
+    <author fullname="Bijan Mohraz" initials="B." surname="Mohraz">
+      <organization/>
+    </author>
+    <author fullname="Frederick Mowrer" initials="W" surname="Mowrer">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.889"/>
+  <seriesInfo name="NIST" value="NIST SP 889"/>
 </reference>

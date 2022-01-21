@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-204B" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204B.pdf">
   <front>
     <title>Attribute-based Access Control for Microservices-based Applications Using a Service Mesh</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-204B"/>
-    <seriesInfo name="NIST" value="NIST SP 800-204B"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="August" day="6"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-204B"/>
+  <seriesInfo name="NIST" value="NIST SP 800-204B"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.396" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular396.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 396:architectural acoustics</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.396"/>
-    <seriesInfo name="NIST" value="NBS CIRC 396"/>
-    <author fullname="Paul Heyl" initials="P." surname="Heyl"/>
+    <author fullname="Paul Heyl" initials="R" surname="Heyl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1931"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.396"/>
+  <seriesInfo name="NIST" value="NBS CIRC 396"/>
 </reference>

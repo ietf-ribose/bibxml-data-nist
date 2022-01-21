@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7278" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7278.pdf">
   <front>
     <title>NIST inter-comparison exercise program for polybrominated diphenyl ethers (PBDEs) in marine sediment:description and results of the 2004 inter-comparison exercise</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7278"/>
-    <seriesInfo name="NIST" value="NIST IR 7278"/>
-    <author fullname="Heather Stapleton" initials="H." surname="Stapleton"/>
-    <author fullname="Jennifer Keller" initials="J." surname="Keller"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
+    <author fullname="Heather Stapleton" initials="M" surname="Stapleton">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Keller" initials="M" surname="Keller">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="John Kucklick" initials="R" surname="Kucklick">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7278"/>
+  <seriesInfo name="NIST" value="NIST IR 7278"/>
 </reference>

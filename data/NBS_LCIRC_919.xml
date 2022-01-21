@@ -1,8 +1,6 @@
 <reference anchor="NBS.LCIRC.919" target="http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular919.pdf">
   <front>
     <title>Letter Circular 919:list of weights and measures offices of the States and the District of Columbia (supersedes Letter Circular 834)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.919"/>
-    <seriesInfo name="NIST" value="NBS LCIRC 919"/>
     <author>
       <organization abbrev="NBS">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.LCIRC.919"/>
+  <seriesInfo name="NIST" value="NBS LCIRC 919"/>
 </reference>

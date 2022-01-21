@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.4930" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4930.pdf">
   <front>
     <title>DARPA TIMIT:acoustic-phonetic continuous speech corpus CD-ROM, NIST speech disc 1-1.1</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4930"/>
-    <seriesInfo name="NIST" value="NIST IR 4930"/>
-    <author fullname="John Garofolo" initials="J." surname="Garofolo"/>
-    <author fullname="Lori Lamel" initials="L." surname="Lamel"/>
-    <author fullname="William Fisher" initials="W." surname="Fisher"/>
-    <author fullname="Jonathan Fiscus" initials="J." surname="Fiscus"/>
-    <author fullname="David Pallett" initials="D." surname="Pallett"/>
-    <author fullname="Nancy Dahlgren" initials="N." surname="Dahlgren"/>
+    <author fullname="John Garofolo" initials="S" surname="Garofolo">
+      <organization/>
+    </author>
+    <author fullname="Lori Lamel" initials="F" surname="Lamel">
+      <organization/>
+    </author>
+    <author fullname="William Fisher" initials="M" surname="Fisher">
+      <organization/>
+    </author>
+    <author fullname="Jonathan Fiscus" initials="G" surname="Fiscus">
+      <organization/>
+    </author>
+    <author fullname="David Pallett" initials="S" surname="Pallett">
+      <organization/>
+    </author>
+    <author fullname="Nancy Dahlgren" initials="L" surname="Dahlgren">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4930"/>
+  <seriesInfo name="NIST" value="NIST IR 4930"/>
 </reference>

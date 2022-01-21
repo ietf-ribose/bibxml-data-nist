@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5840" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5840.pdf">
   <front>
     <title>Benefits and costs of research; two case studies in building technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5840"/>
-    <seriesInfo name="NIST" value="NIST IR 5840"/>
-    <author fullname="Robert Chapman" initials="R." surname="Chapman"/>
-    <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
+    <author fullname="Robert Chapman" initials="E" surname="Chapman">
+      <organization/>
+    </author>
+    <author fullname="Sieglinde Fuller" initials="K" surname="Fuller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5840"/>
+  <seriesInfo name="NIST" value="NIST IR 5840"/>
 </reference>

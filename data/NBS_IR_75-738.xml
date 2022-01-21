@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-738" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-738.pdf">
   <front>
     <title>A method and means of calibration an air-bearing force plate for use with a towed pavement friction test trailer</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-738"/>
-    <seriesInfo name="NIST" value="NBS IR 75-738"/>
-    <author fullname="Robert Kearns" initials="R." surname="Kearns"/>
-    <author fullname="John Ward" initials="J." surname="Ward"/>
+    <author fullname="Robert Kearns" initials="W" surname="Kearns">
+      <organization/>
+    </author>
+    <author fullname="John Ward" initials="F" surname="Ward">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-738"/>
+  <seriesInfo name="NIST" value="NBS IR 75-738"/>
 </reference>

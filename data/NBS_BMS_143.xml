@@ -1,9 +1,9 @@
 <reference anchor="NBS.BMS.143" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures143.pdf">
   <front>
     <title>Fire tests of brick walls</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.143"/>
-    <seriesInfo name="NIST" value="NBS BMS 143"/>
-    <author surname="Ingberg"/>
+    <author initials="SH" surname="Ingberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1954"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.143"/>
+  <seriesInfo name="NIST" value="NBS BMS 143"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.75-904" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-904.pdf">
   <front>
     <title>Equilibrium compositions and compressibility factors for air in the temperature range 1500 to 13000 Kelvin and for densities from 10¯⁶ to 10³ times standard density</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-904"/>
-    <seriesInfo name="NIST" value="NBS IR 75-904"/>
-    <author fullname="Max Klein" initials="M." surname="Klein"/>
-    <author fullname="Lester Haar" initials="L." surname="Haar"/>
+    <author fullname="Max Klein" initials="M." surname="Klein">
+      <organization/>
+    </author>
+    <author fullname="Lester Haar" initials="L." surname="Haar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-904"/>
+  <seriesInfo name="NIST" value="NBS IR 75-904"/>
 </reference>

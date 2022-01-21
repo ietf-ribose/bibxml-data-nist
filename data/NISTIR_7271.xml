@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7271" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7271.pdf">
   <front>
     <title>The myth of goats :how many people have fingerprints that are hard to match?</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7271"/>
-    <seriesInfo name="NIST" value="NIST IR 7271"/>
-    <author fullname="Austin Hicklin" initials="A." surname="Hicklin"/>
-    <author fullname="Bradford Ulery" initials="B." surname="Ulery"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
+    <author fullname="Austin Hicklin" initials="A." surname="Hicklin">
+      <organization/>
+    </author>
+    <author fullname="Bradford Ulery" initials="B." surname="Ulery">
+      <organization/>
+    </author>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7271"/>
+  <seriesInfo name="NIST" value="NIST IR 7271"/>
 </reference>

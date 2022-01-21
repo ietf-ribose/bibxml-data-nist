@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7683" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7683.pdf">
   <front>
     <title>Sustainable manufacturing program workshop report :metrics, standards, and infrastructure-NIST workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7683"/>
-    <seriesInfo name="NIST" value="NIST IR 7683"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
-    <author fullname="Ram Sriram" initials="R." surname="Sriram"/>
-    <author fullname="Anantha Narayanan" initials="A." surname="Narayanan"/>
-    <author fullname="Prabir Sarkar" initials="P." surname="Sarkar"/>
-    <author fullname="JaeHyun Lee" initials="J.H." surname="Lee"/>
-    <author fullname="Kevin Lyons" initials="K." surname="Lyons"/>
-    <author fullname="Sharon Kemmerer" initials="S." surname="Kemmerer"/>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
+    <author fullname="Ram Sriram" initials="D" surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="Anantha Narayanan" initials="A." surname="Narayanan">
+      <organization/>
+    </author>
+    <author fullname="Prabir Sarkar" initials="P." surname="Sarkar">
+      <organization/>
+    </author>
+    <author fullname="JaeHyun Lee" initials="J.H." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Kevin Lyons" initials="W" surname="Lyons">
+      <organization/>
+    </author>
+    <author fullname="Sharon Kemmerer" initials="J" surname="Kemmerer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7683"/>
+  <seriesInfo name="NIST" value="NIST IR 7683"/>
 </reference>

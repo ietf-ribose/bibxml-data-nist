@@ -1,20 +1,42 @@
 <reference anchor="NIST.IR.6857" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6857.pdf">
   <front>
     <title>Persistent organochlorine pollutants and elements determined in tissues of rough-toothed dolphins (Steno bredanensis) banked from a mass stranding event</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6857"/>
-    <seriesInfo name="NIST" value="NIST IR 6857"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="William Struntz" initials="W." surname="Struntz"/>
-    <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
-    <author fullname="Barbara Porter" initials="B." surname="Porter"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Rabia Oflaz" initials="R." surname="Oflaz"/>
-    <author fullname="Michael Epstein" initials="M." surname="Epstein"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
-    <author fullname="Teresa Rowles" initials="T." surname="Rowles"/>
-    <author fullname="Wayne McFee" initials="W." surname="McFee"/>
-    <author fullname="Megan Stolen" initials="M." surname="Stolen"/>
+    <author fullname="John Kucklick" initials="R" surname="Kucklick">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="William Struntz" initials="DJ" surname="Struntz">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Mackey" initials="A" surname="Mackey">
+      <organization/>
+    </author>
+    <author fullname="Barbara Porter" initials="J" surname="Porter">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="Rabia Oflaz" initials="D" surname="Oflaz">
+      <organization/>
+    </author>
+    <author fullname="Michael Epstein" initials="S" surname="Epstein">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
+    <author fullname="Teresa Rowles" initials="K" surname="Rowles">
+      <organization/>
+    </author>
+    <author fullname="Wayne McFee" initials="E" surname="McFee">
+      <organization/>
+    </author>
+    <author fullname="Megan Stolen" initials="K" surname="Stolen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -27,4 +49,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6857"/>
+  <seriesInfo name="NIST" value="NIST IR 6857"/>
 </reference>

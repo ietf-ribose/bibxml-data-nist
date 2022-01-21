@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3298" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3298.pdf">
   <front>
     <title>The basic structure of the Fire Protection Design Assessment System</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3298"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3298"/>
-    <author fullname="Harold Nelson" initials="H." surname="Nelson"/>
-    <author fullname="William Walton" initials="W." surname="Walton"/>
+    <author fullname="Harold Nelson" initials="E" surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="William Walton" initials="D" surname="Walton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3298"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3298"/>
 </reference>

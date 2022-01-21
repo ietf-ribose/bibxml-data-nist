@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-591" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-591.pdf">
   <front>
     <title>Some problems noted in the use of Taguchi semiconductor gas sensors as residential firesmoke detectors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-591"/>
-    <seriesInfo name="NIST" value="NBS IR 74-591"/>
-    <author fullname="Richard Bukowski" initials="R." surname="Bukowski"/>
-    <author fullname="Richard Bright" initials="R." surname="Bright"/>
+    <author fullname="Richard Bukowski" initials="W" surname="Bukowski">
+      <organization/>
+    </author>
+    <author fullname="Richard Bright" initials="G" surname="Bright">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-591"/>
+  <seriesInfo name="NIST" value="NBS IR 74-591"/>
 </reference>

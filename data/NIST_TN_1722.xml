@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1722" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1722.pdf">
   <front>
     <title>Simple Estimates of Combined Stairwell / Elevator Egress in Buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1722"/>
-    <seriesInfo name="NIST" value="NIST TN 1722"/>
-    <author fullname="Paul Reneke" initials="P." surname="Reneke">
+    <author fullname="Paul Reneke" initials="A" surname="Reneke">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author fullname="Piotr Tofilo" initials="P." surname="Tofilo">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock">
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
-    <author fullname="Bryan Hoskins" initials="B." surname="Hoskins">
+    <author fullname="Bryan Hoskins" initials="L" surname="Hoskins">
       <organization>Engineering Laboratory, Fire Research Division</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1722"/>
+  <seriesInfo name="NIST" value="NIST TN 1722"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6205" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6205.pdf">
   <front>
     <title>Neutron time-of-flight spectroscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6205"/>
-    <seriesInfo name="NIST" value="NIST IR 6205"/>
-    <author fullname="John Copley" initials="J." surname="Copley"/>
+    <author fullname="John Copley" initials="RD" surname="Copley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6205"/>
+  <seriesInfo name="NIST" value="NIST IR 6205"/>
 </reference>

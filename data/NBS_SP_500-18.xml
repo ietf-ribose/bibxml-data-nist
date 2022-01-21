@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-18.pdf">
   <front>
     <title>Computer performance evaluation users group (CPEUG)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-18"/>
-    <seriesInfo name="NIST" value="NBS SP 500-18"/>
-    <author fullname="Dennis Conti" initials="D." surname="Conti"/>
-    <author fullname="Josephine Walkowicz" initials="J." surname="Walkowicz"/>
+    <author fullname="Dennis Conti" initials="M" surname="Conti">
+      <organization/>
+    </author>
+    <author fullname="Josephine Walkowicz" initials="L" surname="Walkowicz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-18"/>
+  <seriesInfo name="NIST" value="NBS SP 500-18"/>
 </reference>

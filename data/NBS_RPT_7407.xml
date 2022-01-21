@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.7407" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7407.pdf">
   <front>
     <title>Studies of dental calculus:organic portion, progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7407"/>
-    <seriesInfo name="NIST" value="NBS RPT 7407"/>
-    <author fullname="John Stanford" initials="J." surname="Stanford"/>
-    <author fullname="George Paffenbarger" initials="G." surname="Paffenbarger"/>
+    <author fullname="John Stanford" initials="W" surname="Stanford">
+      <organization/>
+    </author>
+    <author fullname="George Paffenbarger" initials="C" surname="Paffenbarger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7407"/>
+  <seriesInfo name="NIST" value="NBS RPT 7407"/>
 </reference>

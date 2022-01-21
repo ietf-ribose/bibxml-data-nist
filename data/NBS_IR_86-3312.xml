@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.86-3312" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3312.pdf">
   <front>
     <title>An architecture for distributed data management in computer integrated manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3312"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3312"/>
-    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer"/>
-    <author fullname="Mary Mitchell" initials="M." surname="Mitchell"/>
-    <author fullname="Krishna Mikkilineni" initials="K." surname="Mikkilineni"/>
-    <author fullname="Stanley Su" initials="S." surname="Su"/>
-    <author fullname="Herman Lam" initials="H." surname="Lam"/>
+    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer">
+      <organization/>
+    </author>
+    <author fullname="Mary Mitchell" initials="M." surname="Mitchell">
+      <organization/>
+    </author>
+    <author fullname="Krishna Mikkilineni" initials="P" surname="Mikkilineni">
+      <organization/>
+    </author>
+    <author fullname="Stanley Su" initials="YW" surname="Su">
+      <organization/>
+    </author>
+    <author fullname="Herman Lam" initials="H." surname="Lam">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1986" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3312"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3312"/>
 </reference>

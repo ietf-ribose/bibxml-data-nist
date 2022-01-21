@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.83-2722" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2722.pdf">
   <front>
     <title>Radiation curing of inks and coatings :annual report for the period October 1, 1981 to September 30, 1982</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2722"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2722"/>
-    <author fullname="George Senich" initials="G." surname="Senich"/>
+    <author fullname="George Senich" initials="A" surname="Senich">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2722"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2722"/>
 </reference>

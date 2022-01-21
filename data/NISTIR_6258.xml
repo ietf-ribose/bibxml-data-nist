@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6258" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6258.pdf">
   <front>
     <title>Guide and criteria for training FEMP-qualified life-cycle cost instructors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6258"/>
-    <seriesInfo name="NIST" value="NIST IR 6258"/>
-    <author fullname="Sieglinde Fuller" initials="S." surname="Fuller"/>
+    <author fullname="Sieglinde Fuller" initials="K" surname="Fuller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6258"/>
+  <seriesInfo name="NIST" value="NIST IR 6258"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8231" target="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8231.pdf">
   <front>
     <title>Implementation of the NIST community resilience planning guide for buildings and infrastructure systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8231"/>
-    <seriesInfo name="NIST" value="NIST IR 8231"/>
-    <author fullname="Stephen Cauffman" initials="S." surname="Cauffman">
+    <author fullname="Stephen Cauffman" initials="A" surname="Cauffman">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Maria Dillard" initials="M." surname="Dillard">
+    <author fullname="Maria Dillard" initials="K" surname="Dillard">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+    <author fullname="Jennifer Helgeson" initials="F" surname="Helgeson">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8231"/>
+  <seriesInfo name="NIST" value="NIST IR 8231"/>
 </reference>

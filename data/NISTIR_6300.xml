@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6300" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6300.pdf">
   <front>
     <title>The AUTONAVDOT Project:baseline measurement system for evaluation of roadway department warning system</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6300"/>
-    <seriesInfo name="NIST" value="NIST IR 6300"/>
-    <author fullname="Sandor Szabo" initials="S." surname="Szabo"/>
-    <author fullname="Karl Murphy" initials="K." surname="Murphy"/>
-    <author fullname="Maris Juberts" initials="M." surname="Juberts"/>
+    <author fullname="Sandor Szabo" initials="S." surname="Szabo">
+      <organization/>
+    </author>
+    <author fullname="Karl Murphy" initials="K." surname="Murphy">
+      <organization/>
+    </author>
+    <author fullname="Maris Juberts" initials="M." surname="Juberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6300"/>
+  <seriesInfo name="NIST" value="NIST IR 6300"/>
 </reference>

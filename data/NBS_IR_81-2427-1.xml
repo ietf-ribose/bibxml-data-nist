@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2427-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2427-1.pdf">
   <front>
     <title>Calculations of the heat release rate by oxygen consumption for various applications</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2427-1"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2427-1"/>
-    <author surname="Parker"/>
+    <author initials="WJ" surname="Parker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2427-1"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2427-1"/>
 </reference>

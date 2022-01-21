@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.131" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph131.pdf">
   <front>
     <title>Thermal conductivity of solids at room temperature and below :a review and compilation of the literature</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.131"/>
-    <seriesInfo name="NIST" value="NBS MONO 131"/>
-    <author fullname="Gregg Childs" initials="G." surname="Childs"/>
-    <author fullname="Lewis Ericks" initials="L." surname="Ericks"/>
-    <author fullname="Robert Powell" initials="R." surname="Powell"/>
+    <author fullname="Gregg Childs" initials="E" surname="Childs">
+      <organization/>
+    </author>
+    <author fullname="Lewis Ericks" initials="J" surname="Ericks">
+      <organization/>
+    </author>
+    <author fullname="Robert Powell" initials="L" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.131"/>
+  <seriesInfo name="NIST" value="NBS MONO 131"/>
 </reference>

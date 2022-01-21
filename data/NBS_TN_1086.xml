@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.1086" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1086.pdf">
   <front>
     <title>Trapped Ions and Laser Cooling</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1086"/>
-    <seriesInfo name="NIST" value="NBS TN 1086"/>
-    <author fullname="James Bergquist" initials="J." surname="Bergquist"/>
-    <author fullname="John Bollinger" initials="J." surname="Bollinger"/>
-    <author fullname="Wayne Itano" initials="W." surname="Itano"/>
-    <author fullname="David Wineland" initials="D." surname="Wineland"/>
+    <author fullname="James Bergquist" initials="C" surname="Bergquist">
+      <organization/>
+    </author>
+    <author fullname="John Bollinger" initials="J" surname="Bollinger">
+      <organization/>
+    </author>
+    <author fullname="Wayne Itano" initials="M" surname="Itano">
+      <organization/>
+    </author>
+    <author fullname="David Wineland" initials="J" surname="Wineland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1086"/>
+  <seriesInfo name="NIST" value="NBS TN 1086"/>
 </reference>

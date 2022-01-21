@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.654" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote654.pdf">
   <front>
     <title>Electromagnetic noise in Robena no. 4 coal mine</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.654"/>
-    <seriesInfo name="NIST" value="NBS TN 654"/>
-    <author surname="Bensema"/>
+    <author initials="WD" surname="Bensema">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.654"/>
+  <seriesInfo name="NIST" value="NBS TN 654"/>
 </reference>

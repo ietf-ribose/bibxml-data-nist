@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5954" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5954.pdf">
   <front>
     <title>RISQ:a web-based tool for referencing information on software quality</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5954"/>
-    <seriesInfo name="NIST" value="NIST IR 5954"/>
-    <author fullname="Charles Weinstock" initials="C." surname="Weinstock"/>
-    <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
+    <author fullname="Charles Weinstock" initials="B" surname="Weinstock">
+      <organization/>
+    </author>
+    <author fullname="Dolores Wallace" initials="R" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5954"/>
+  <seriesInfo name="NIST" value="NIST IR 5954"/>
 </reference>

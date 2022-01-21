@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds1.pdf">
   <front>
     <title>National Standard Reference Data System</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.1"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 1"/>
-    <author fullname="Edward Brady" initials="E." surname="Brady"/>
-    <author fullname="Merrill Wallenstein" initials="M." surname="Wallenstein"/>
+    <author fullname="Edward Brady" initials="L" surname="Brady">
+      <organization/>
+    </author>
+    <author fullname="Merrill Wallenstein" initials="B" surname="Wallenstein">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.1"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 1"/>
 </reference>

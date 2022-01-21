@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3076" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3076.pdf">
   <front>
     <title>Measurement of shielding effectiveness of different cable and shielding configurations by mode-stirred techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3076"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3076"/>
-    <author fullname="Ramon Jesch" initials="R." surname="Jesch"/>
+    <author fullname="Ramon Jesch" initials="L" surname="Jesch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3076"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3076"/>
 </reference>

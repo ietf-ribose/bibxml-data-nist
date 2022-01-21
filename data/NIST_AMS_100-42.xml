@@ -1,9 +1,7 @@
 <reference anchor="NIST.AMS.100-42" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-42.pdf">
   <front>
     <title>Annual Report on U.S. Manufacturing Industry Statistics: 2021</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-42"/>
-    <seriesInfo name="NIST" value="NIST AMS 100-42"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas">
+    <author fullname="Douglas Thomas" initials="S" surname="Thomas">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2021" month="October" day="29"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-42"/>
+  <seriesInfo name="NIST" value="NIST AMS 100-42"/>
 </reference>

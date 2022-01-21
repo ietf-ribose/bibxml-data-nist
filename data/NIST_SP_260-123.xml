@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-123.pdf">
   <front>
     <title>Standard Reference Materials :Infrared transmittance standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-123"/>
-    <seriesInfo name="NIST" value="NIST SP 260-123"/>
-    <author surname="Hanssen"/>
-    <author surname="Kaplan"/>
+    <author initials="LM" surname="Hanssen">
+      <organization/>
+    </author>
+    <author initials="SG" surname="Kaplan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-123"/>
+  <seriesInfo name="NIST" value="NIST SP 260-123"/>
 </reference>

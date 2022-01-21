@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-1.pdf">
   <front>
     <title>Foreign and domestic accomplishments in magnetic bubble device technology</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-1"/>
-    <seriesInfo name="NIST" value="NBS SP 500-1"/>
-    <author fullname="Robert Warner" initials="R." surname="Warner"/>
-    <author fullname="Peter Calomeris" initials="P." surname="Calomeris"/>
+    <author fullname="Robert Warner" initials="BJ" surname="Warner">
+      <organization/>
+    </author>
+    <author fullname="Peter Calomeris" initials="J" surname="Calomeris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-1"/>
+  <seriesInfo name="NIST" value="NBS SP 500-1"/>
 </reference>

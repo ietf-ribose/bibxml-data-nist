@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1844" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1844.pdf">
   <front>
     <title>Potential Research Areas in Residential Energy Storage for NIST’s Engineering Laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1844"/>
-    <seriesInfo name="NIST" value="NIST TN 1844"/>
-    <author surname="Kedzierski">
+    <author initials="MA" surname="Kedzierski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author surname="Payne">
+    <author initials="WV" surname="Payne">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author surname="Skye">
+    <author initials="HM" surname="Skye">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2014" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1844"/>
+  <seriesInfo name="NIST" value="NIST TN 1844"/>
 </reference>

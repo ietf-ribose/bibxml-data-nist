@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.260-111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-111.pdf">
   <front>
     <title>Compilation of elemental concentration data for NBS clinical, biological, geological, and environmental Standard Reference Materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-111"/>
-    <seriesInfo name="NIST" value="NBS SP 260-111"/>
-    <author surname="Gladney"/>
-    <author surname="O'Malley"/>
-    <author surname="Roelandts"/>
-    <author surname="Gills"/>
+    <author initials="ES" surname="Gladney">
+      <organization/>
+    </author>
+    <author initials="BT" surname="O'Malley">
+      <organization/>
+    </author>
+    <author initials="I" surname="Roelandts">
+      <organization/>
+    </author>
+    <author initials="TE" surname="Gills">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1987" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-111"/>
+  <seriesInfo name="NIST" value="NBS SP 260-111"/>
 </reference>

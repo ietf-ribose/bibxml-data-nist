@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4031" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4031.pdf">
   <front>
     <title>Operations manual for the automatic operation of the Vertical Workstation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4031"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4031"/>
-    <author fullname="FredJr Rudder" initials="F.J." surname="Rudder"/>
+    <author fullname="FredJr Rudder" initials="F" surname="Rudder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4031"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4031"/>
 </reference>

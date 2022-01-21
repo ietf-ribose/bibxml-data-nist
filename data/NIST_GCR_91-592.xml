@@ -1,9 +1,7 @@
 <reference anchor="NIST.GCR.91-592" target="https://nvlpubs.nist.gov/nistpubs/gcr/1991/gcr91-592.pdf">
   <front>
     <title>A first pass at computing the cost of fire safety in a modern society</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.91-592"/>
-    <seriesInfo name="NIST" value="NIST GCR 91-592"/>
-    <author fullname="William Meade" initials="W." surname="Meade">
+    <author fullname="William Meade" initials="P" surname="Meade">
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1991" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.91-592"/>
+  <seriesInfo name="NIST" value="NIST GCR 91-592"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8932" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8932.pdf">
   <front>
     <title>Some negative ions formed by electron attachment</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8932"/>
-    <seriesInfo name="NIST" value="NBS RPT 8932"/>
-    <author fullname="Robert Mills" initials="R." surname="Mills"/>
+    <author fullname="Robert Mills" initials="M" surname="Mills">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8932"/>
+  <seriesInfo name="NIST" value="NBS RPT 8932"/>
 </reference>

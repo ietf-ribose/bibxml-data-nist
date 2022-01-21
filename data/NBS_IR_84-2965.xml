@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.84-2965" target="https://nvlpubs.nist.gov/nistpubs/Legacy//NBS.IR.84-2965.pdf">
   <front>
     <title>Semi annual report on wide plate crack arrest testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2965"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2965"/>
-    <author surname="deWit"/>
-    <author fullname="R,III Low" initials="R.I." surname="Low"/>
-    <author surname="Hicho"/>
-    <author surname="Harne"/>
-    <author surname="Fields"/>
+    <author initials="R" surname="deWit">
+      <organization/>
+    </author>
+    <author fullname="R,III Low" initials="S" surname="Low">
+      <organization/>
+    </author>
+    <author initials="GE" surname="Hicho">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Harne">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Fields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1984" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2965"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2965"/>
 </reference>

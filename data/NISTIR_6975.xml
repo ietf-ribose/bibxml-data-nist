@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6975" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6975.pdf">
   <front>
     <title>Ultrasonic evaluation methods applicable to polymer concrete composites</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6975"/>
-    <seriesInfo name="NIST" value="NIST IR 6975"/>
-    <author fullname="Andrzej Garbacz" initials="A." surname="Garbacz"/>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
+    <author fullname="Andrzej Garbacz" initials="A." surname="Garbacz">
+      <organization/>
+    </author>
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6975"/>
+  <seriesInfo name="NIST" value="NIST IR 6975"/>
 </reference>

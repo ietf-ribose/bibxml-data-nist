@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.151" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience151.pdf">
   <front>
     <title>Turbulent wind effects on tension leg platform surge</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.151"/>
-    <seriesInfo name="NIST" value="NBS BSS 151"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="Stefan Leigh" initials="S." surname="Leigh"/>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="Stefan Leigh" initials="D" surname="Leigh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.151"/>
+  <seriesInfo name="NIST" value="NBS BSS 151"/>
 </reference>

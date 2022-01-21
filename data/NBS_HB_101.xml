@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook101.pdf">
   <front>
     <title>OMNITAB: a computer program for statistical and numerical analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.101"/>
-    <seriesInfo name="NIST" value="NBS HB 101"/>
-    <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath"/>
+    <author fullname="Joseph Hilsenrath" initials="J." surname="Hilsenrath">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.101"/>
+  <seriesInfo name="NIST" value="NBS HB 101"/>
 </reference>

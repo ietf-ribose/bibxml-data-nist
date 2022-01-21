@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6650" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6650.pdf">
   <front>
     <title>Documentation and assessment of the transport property model for mixtures implemented in NIST REFPROP (version 8.0)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6650"/>
-    <seriesInfo name="NIST" value="NIST IR 6650"/>
-    <author fullname="Justin Chichester" initials="J." surname="Chichester"/>
-    <author fullname="Marcia Huber" initials="M." surname="Huber"/>
+    <author fullname="Justin Chichester" initials="C" surname="Chichester">
+      <organization/>
+    </author>
+    <author fullname="Marcia Huber" initials="L" surname="Huber">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6650"/>
+  <seriesInfo name="NIST" value="NIST IR 6650"/>
 </reference>

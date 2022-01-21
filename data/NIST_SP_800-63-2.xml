@@ -1,27 +1,25 @@
 <reference anchor="NIST.SP.800-63-2" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-2.pdf">
   <front>
     <title>Electronic Authentication Guideline</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63-2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-63-2"/>
-    <author fullname="William Burr" initials="W." surname="Burr">
+    <author fullname="William Burr" initials="E" surname="Burr">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Donna Dodson" initials="D." surname="Dodson">
+    <author fullname="Donna Dodson" initials="F" surname="Dodson">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Elaine Newton" initials="E." surname="Newton">
+    <author fullname="Elaine Newton" initials="M" surname="Newton">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ray Perlner" initials="R." surname="Perlner">
+    <author fullname="Ray Perlner" initials="A" surname="Perlner">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Timothy Polk" initials="T." surname="Polk">
+    <author fullname="Timothy Polk" initials="W" surname="Polk">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Sarbari Gupta" initials="S." surname="Gupta">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Ebad Nabbus" initials="E." surname="Nabbus">
+    <author fullname="Ebad Nabbus" initials="A" surname="Nabbus">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -29,4 +27,6 @@
     </author>
     <date year="2013" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63-2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-63-2"/>
 </reference>

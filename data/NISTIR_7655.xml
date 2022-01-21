@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7655" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7655.pdf">
   <front>
     <title>Best practices for modeling, simulation and analysis (MS&amp;A) for homeland security applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7655"/>
-    <seriesInfo name="NIST" value="NIST IR 7655"/>
-    <author fullname="Sanjay Jain" initials="S." surname="Jain"/>
-    <author fullname="Charles McLean" initials="C." surname="McLean"/>
+    <author fullname="Sanjay Jain" initials="S." surname="Jain">
+      <organization/>
+    </author>
+    <author fullname="Charles McLean" initials="R" surname="McLean">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7655"/>
+  <seriesInfo name="NIST" value="NIST IR 7655"/>
 </reference>

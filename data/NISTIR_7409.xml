@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7409" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7409.pdf">
   <front>
     <title>NCMC-10:persistent challenges in combinatorial materials science, NCMC workshop report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7409"/>
-    <seriesInfo name="NIST" value="NIST IR 7409"/>
-    <author fullname="Michael Fasolka" initials="M." surname="Fasolka"/>
-    <author fullname="Carol Laumeier" initials="C." surname="Laumeier"/>
-    <author fullname="Kathryn Beers" initials="K." surname="Beers"/>
-    <author fullname="Christopher Stafford" initials="C." surname="Stafford"/>
+    <author fullname="Michael Fasolka" initials="J" surname="Fasolka">
+      <organization/>
+    </author>
+    <author fullname="Carol Laumeier" initials="E" surname="Laumeier">
+      <organization/>
+    </author>
+    <author fullname="Kathryn Beers" initials="L" surname="Beers">
+      <organization/>
+    </author>
+    <author fullname="Christopher Stafford" initials="M" surname="Stafford">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2007"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7409"/>
+  <seriesInfo name="NIST" value="NIST IR 7409"/>
 </reference>

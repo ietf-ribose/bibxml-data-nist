@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7497" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7497.pdf">
   <front>
     <title>Security architecture design process for health information exchanges (HIEs)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7497"/>
-    <seriesInfo name="NIST" value="NIST IR 7497"/>
-    <author fullname="Matthew Scholl" initials="M." surname="Scholl"/>
-    <author fullname="Kevin Stine" initials="K." surname="Stine"/>
-    <author fullname="Kenneth Lin" initials="K." surname="Lin"/>
-    <author fullname="Daniel Steinberg" initials="D." surname="Steinberg"/>
+    <author fullname="Matthew Scholl" initials="M." surname="Scholl">
+      <organization/>
+    </author>
+    <author fullname="Kevin Stine" initials="K." surname="Stine">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Lin" initials="K." surname="Lin">
+      <organization/>
+    </author>
+    <author fullname="Daniel Steinberg" initials="D." surname="Steinberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7497"/>
+  <seriesInfo name="NIST" value="NIST IR 7497"/>
 </reference>

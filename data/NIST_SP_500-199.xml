@@ -1,9 +1,9 @@
 <reference anchor="NIST.SP.500-199" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-199.pdf">
   <front>
     <title>The 3480 type tape cartridge</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-199"/>
-    <seriesInfo name="NIST" value="NIST SP 500-199"/>
-    <author fullname="Mark Williamson" initials="M." surname="Williamson"/>
+    <author fullname="Mark Williamson" initials="P" surname="Williamson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-199"/>
+  <seriesInfo name="NIST" value="NIST SP 500-199"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6356" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6356.pdf">
   <front>
     <title>Survey of fire detection technologies and system evaluationcertification methodologies and their suitability for aircraft cargo compartments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6356"/>
-    <seriesInfo name="NIST" value="NIST IR 6356"/>
-    <author fullname="Thomas Cleary" initials="T." surname="Cleary"/>
-    <author fullname="William Grosshandler" initials="W." surname="Grosshandler"/>
+    <author fullname="Thomas Cleary" initials="T." surname="Cleary">
+      <organization/>
+    </author>
+    <author fullname="William Grosshandler" initials="W." surname="Grosshandler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6356"/>
+  <seriesInfo name="NIST" value="NIST IR 6356"/>
 </reference>

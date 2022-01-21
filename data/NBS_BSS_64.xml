@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.64" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience64.pdf">
   <front>
     <title>Retrofitting existing housing for energy conservation :an economic analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.64"/>
-    <seriesInfo name="NIST" value="NBS BSS 64"/>
-    <author fullname="Stephen Petersen" initials="S." surname="Petersen"/>
+    <author fullname="Stephen Petersen" initials="R" surname="Petersen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.64"/>
+  <seriesInfo name="NIST" value="NBS BSS 64"/>
 </reference>

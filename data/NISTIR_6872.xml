@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6872" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6872.pdf">
   <front>
     <title>Evaluation of fire models for nuclear fire plant applications:cable tray fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6872"/>
-    <seriesInfo name="NIST" value="NIST IR 6872"/>
-    <author fullname="Monideep Dey" initials="M." surname="Dey"/>
+    <author fullname="Monideep Dey" initials="K" surname="Dey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6872"/>
+  <seriesInfo name="NIST" value="NIST IR 6872"/>
 </reference>

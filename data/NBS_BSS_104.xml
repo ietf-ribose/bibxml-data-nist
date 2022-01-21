@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.104" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience104.pdf">
   <front>
     <title>Window design strategies to conserve energy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.104"/>
-    <seriesInfo name="NIST" value="NBS BSS 104"/>
-    <author fullname="Robert Hastings" initials="R." surname="Hastings"/>
-    <author fullname="Richard Crenshaw" initials="R." surname="Crenshaw"/>
+    <author fullname="Robert Hastings" initials="S" surname="Hastings">
+      <organization/>
+    </author>
+    <author fullname="Richard Crenshaw" initials="W" surname="Crenshaw">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.104"/>
+  <seriesInfo name="NIST" value="NBS BSS 104"/>
 </reference>

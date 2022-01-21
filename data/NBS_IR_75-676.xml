@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-676" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-676.pdf">
   <front>
     <title>Path finding algorithms and data structures for point-to-point trip management</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-676"/>
-    <seriesInfo name="NIST" value="NBS IR 75-676"/>
-    <author fullname="Judith Gilsinn" initials="J." surname="Gilsinn"/>
-    <author fullname="Patsy Saunders" initials="P." surname="Saunders"/>
-    <author fullname="Martin Pearl" initials="M." surname="Pearl"/>
+    <author fullname="Judith Gilsinn" initials="F" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Patsy Saunders" initials="B" surname="Saunders">
+      <organization/>
+    </author>
+    <author fullname="Martin Pearl" initials="H" surname="Pearl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-676"/>
+  <seriesInfo name="NIST" value="NBS IR 75-676"/>
 </reference>

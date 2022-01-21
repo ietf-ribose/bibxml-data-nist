@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6118.pdf">
   <front>
     <title>Metallurgy of the RMS Titanic</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6118"/>
-    <seriesInfo name="NIST" value="NIST IR 6118"/>
-    <author fullname="Tim Foecke" initials="T." surname="Foecke"/>
+    <author fullname="Tim Foecke" initials="T." surname="Foecke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6118"/>
+  <seriesInfo name="NIST" value="NIST IR 6118"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8261-07" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8261-07.pdf">
   <front>
     <title>NIST time and frequency bulletin</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8261-07"/>
-    <seriesInfo name="NIST" value="NIST IR 8261-07"/>
     <author fullname="Kathryn Stephenson" initials="K." surname="Stephenson">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8261-07"/>
+  <seriesInfo name="NIST" value="NIST IR 8261-07"/>
 </reference>

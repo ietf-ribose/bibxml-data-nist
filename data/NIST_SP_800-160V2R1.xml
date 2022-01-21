@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-160v2r1" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2r1.pdf">
   <front>
     <title>Developing Cyber-Resilient Systems:A Systems Security Engineering Approach</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-160v2r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-160v2r1"/>
     <author fullname="Ron Ross" initials="R." surname="Ross">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2021" month="December" day="7"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-160v2r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-160v2r1"/>
 </reference>

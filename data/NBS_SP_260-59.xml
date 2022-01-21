@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-59" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-59.pdf">
   <front>
     <title>Standard Reference Materials :Electron paramagnetic resonance intensity standard /</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-59"/>
-    <seriesInfo name="NIST" value="NBS SP 260-59"/>
-    <author surname="Kahn"/>
-    <author surname="Chang"/>
+    <author initials="AH" surname="Kahn">
+      <organization/>
+    </author>
+    <author initials="T" surname="Chang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-59"/>
+  <seriesInfo name="NIST" value="NBS SP 260-59"/>
 </reference>

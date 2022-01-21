@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6717" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6717.pdf">
   <front>
     <title>Simulation and visualization using a remote database</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6717"/>
-    <seriesInfo name="NIST" value="NIST IR 6717"/>
-    <author fullname="Michael Iuliano" initials="M." surname="Iuliano"/>
+    <author fullname="Michael Iuliano" initials="M." surname="Iuliano">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6717"/>
+  <seriesInfo name="NIST" value="NIST IR 6717"/>
 </reference>

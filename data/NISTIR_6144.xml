@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6144" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6144.pdf">
   <front>
     <title>BEES 1.0:Building for Environmental and Economic Sustainability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6144"/>
-    <seriesInfo name="NIST" value="NIST IR 6144"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6144"/>
+  <seriesInfo name="NIST" value="NIST IR 6144"/>
 </reference>

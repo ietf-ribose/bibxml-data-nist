@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1974" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1974.pdf">
   <front>
     <title>CYCLE_D-HX: NIST vapor compression cycle model accounting for refrigerant thermodynamic and transport properties, version 1.0, user's guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1974"/>
-    <seriesInfo name="NIST" value="NIST TN 1974"/>
-    <author surname="Brown">
+    <author initials="JS" surname="Brown">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author surname="Brignoli">
+    <author initials="R" surname="Brignoli">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author surname="Domanski">
+    <author initials="PA" surname="Domanski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1974"/>
+  <seriesInfo name="NIST" value="NIST TN 1974"/>
 </reference>

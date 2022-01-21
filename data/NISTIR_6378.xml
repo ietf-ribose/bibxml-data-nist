@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6378" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6378.pdf">
   <front>
     <title>Manufacturing engineering laboratory information technology improvement plan</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6378"/>
-    <seriesInfo name="NIST" value="NIST IR 6378"/>
-    <author fullname="Mark Luce" initials="M." surname="Luce"/>
-    <author fullname="Raymond Hoffmann" initials="R." surname="Hoffmann"/>
+    <author fullname="Mark Luce" initials="E" surname="Luce">
+      <organization/>
+    </author>
+    <author fullname="Raymond Hoffmann" initials="M" surname="Hoffmann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6378"/>
+  <seriesInfo name="NIST" value="NIST IR 6378"/>
 </reference>

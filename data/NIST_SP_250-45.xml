@@ -1,15 +1,27 @@
 <reference anchor="NIST.SP.250-45" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-45.pdf">
   <front>
     <title>Radiation processing dosimetry calibration services :manual of calibration procedures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-45"/>
-    <seriesInfo name="NIST" value="NIST SP 250-45"/>
-    <author fullname="Jimmy Humphreys" initials="J." surname="Humphreys"/>
-    <author fullname="James Puhl" initials="J." surname="Puhl"/>
-    <author fullname="Stephen Seltzer" initials="S." surname="Seltzer"/>
-    <author fullname="William McLaughlin" initials="W." surname="McLaughlin"/>
-    <author fullname="Vitaly Nagy" initials="V." surname="Nagy"/>
-    <author fullname="Debra Bensen" initials="D." surname="Bensen"/>
-    <author fullname="Marlon Walker" initials="M." surname="Walker"/>
+    <author fullname="Jimmy Humphreys" initials="C" surname="Humphreys">
+      <organization/>
+    </author>
+    <author fullname="James Puhl" initials="M" surname="Puhl">
+      <organization/>
+    </author>
+    <author fullname="Stephen Seltzer" initials="M" surname="Seltzer">
+      <organization/>
+    </author>
+    <author fullname="William McLaughlin" initials="L" surname="McLaughlin">
+      <organization/>
+    </author>
+    <author fullname="Vitaly Nagy" initials="Y" surname="Nagy">
+      <organization/>
+    </author>
+    <author fullname="Debra Bensen" initials="L" surname="Bensen">
+      <organization/>
+    </author>
+    <author fullname="Marlon Walker" initials="L" surname="Walker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-45"/>
+  <seriesInfo name="NIST" value="NIST SP 250-45"/>
 </reference>

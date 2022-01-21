@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.500-237" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-237.pdf">
   <front>
     <title>Usability engineering</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-237"/>
-    <seriesInfo name="NIST" value="NIST SP 500-237"/>
-    <author fullname="Laura Downey" initials="L." surname="Downey"/>
-    <author fullname="Sharon Laskowski" initials="S." surname="Laskowski"/>
+    <author fullname="Laura Downey" initials="L" surname="Downey">
+      <organization/>
+    </author>
+    <author fullname="Sharon Laskowski" initials="J" surname="Laskowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-237"/>
+  <seriesInfo name="NIST" value="NIST SP 500-237"/>
 </reference>

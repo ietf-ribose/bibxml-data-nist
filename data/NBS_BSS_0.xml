@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.0" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience0.pdf">
   <front>
     <title>Building research at the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.0"/>
-    <seriesInfo name="NIST" value="NBS BSS 0"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.0"/>
+  <seriesInfo name="NIST" value="NBS BSS 0"/>
 </reference>

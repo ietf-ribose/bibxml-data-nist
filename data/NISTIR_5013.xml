@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5013" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5013.pdf">
   <front>
     <title>Electromechanical properties of superconductors for DOE fusion applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5013"/>
-    <seriesInfo name="NIST" value="NIST IR 5013"/>
-    <author surname="Lutgen"/>
-    <author surname="Bahn"/>
+    <author initials="CL" surname="Lutgen">
+      <organization/>
+    </author>
+    <author initials="WL" surname="Bahn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5013"/>
+  <seriesInfo name="NIST" value="NIST IR 5013"/>
 </reference>

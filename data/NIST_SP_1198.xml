@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.1198" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1198.pdf">
   <front>
     <title>Summary of Workshop on Structure Ignition in Wildland-Urban Intervace (WUI) Fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1198"/>
-    <seriesInfo name="NIST" value="NIST SP 1198"/>
-    <author fullname="Samuel Manzello" initials="S." surname="Manzello">
+    <author fullname="Samuel Manzello" initials="L" surname="Manzello">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Steve Quarles" initials="S." surname="Quarles">
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1198"/>
+  <seriesInfo name="NIST" value="NIST SP 1198"/>
 </reference>

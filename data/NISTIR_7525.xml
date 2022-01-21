@@ -1,14 +1,24 @@
 <reference anchor="NIST.IR.7525" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7525.pdf">
   <front>
     <title>Standards development for gas phase air cleaning equipment in buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7525"/>
-    <seriesInfo name="NIST" value="NIST IR 7525"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="CynthiaHoward Reed" initials="C.H." surname="Reed"/>
-    <author fullname="Stephanie Watson" initials="S." surname="Watson"/>
-    <author fullname="Nicos Martys" initials="N." surname="Martys"/>
-    <author fullname="Edward Garboczi" initials="E." surname="Garboczi"/>
-    <author fullname="Heather Davis" initials="H." surname="Davis"/>
+    <author fullname="Andrew Persily" initials="A." surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="CynthiaHoward Reed" initials="C.H." surname="Reed">
+      <organization/>
+    </author>
+    <author fullname="Stephanie Watson" initials="S" surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Nicos Martys" initials="N." surname="Martys">
+      <organization/>
+    </author>
+    <author fullname="Edward Garboczi" initials="J" surname="Garboczi">
+      <organization/>
+    </author>
+    <author fullname="Heather Davis" initials="H." surname="Davis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7525"/>
+  <seriesInfo name="NIST" value="NIST IR 7525"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.7504" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7504.pdf">
   <front>
     <title>Performance tests of Farr replaceable cartridge filters types HP 100 and HP 200 :manufactured by Farr Company Los Angeles, California</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7504"/>
-    <seriesInfo name="NIST" value="NBS RPT 7504"/>
-    <author fullname="Carl Coblentz" initials="C." surname="Coblentz"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
+    <author fullname="Carl Coblentz" initials="W" surname="Coblentz">
+      <organization/>
+    </author>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7504"/>
+  <seriesInfo name="NIST" value="NBS RPT 7504"/>
 </reference>

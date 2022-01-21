@@ -1,19 +1,39 @@
 <reference anchor="NIST.SP.260-136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-136.pdf">
   <front>
     <title>Standard Reference MaterialsDefinitions of terms and modes used at NIST for value-assignment of reference materials for chemical measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-136"/>
-    <seriesInfo name="NIST" value="NIST SP 260-136"/>
-    <author surname="Colbert"/>
-    <author surname="Fassett"/>
-    <author surname="Gettings"/>
-    <author surname="Gills"/>
-    <author surname="Greenberg"/>
-    <author surname="Guenther"/>
-    <author surname="Kramer"/>
-    <author surname="MacDonald"/>
-    <author surname="Parris"/>
-    <author surname="Wise"/>
-    <author surname="May"/>
+    <author initials="J" surname="Colbert">
+      <organization/>
+    </author>
+    <author initials="J" surname="Fassett">
+      <organization/>
+    </author>
+    <author initials="R" surname="Gettings">
+      <organization/>
+    </author>
+    <author initials="T" surname="Gills">
+      <organization/>
+    </author>
+    <author initials="R" surname="Greenberg">
+      <organization/>
+    </author>
+    <author initials="F" surname="Guenther">
+      <organization/>
+    </author>
+    <author initials="G" surname="Kramer">
+      <organization/>
+    </author>
+    <author initials="B" surname="MacDonald">
+      <organization/>
+    </author>
+    <author initials="R" surname="Parris">
+      <organization/>
+    </author>
+    <author initials="S" surname="Wise">
+      <organization/>
+    </author>
+    <author initials="W" surname="May">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-136"/>
+  <seriesInfo name="NIST" value="NIST SP 260-136"/>
 </reference>

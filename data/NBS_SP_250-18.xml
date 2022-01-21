@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.250-18" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-18.pdf">
   <front>
     <title>Neutron source strength calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-18"/>
-    <seriesInfo name="NIST" value="NBS SP 250-18"/>
-    <author fullname="Dale McGarry" initials="D." surname="McGarry"/>
-    <author fullname="Edward Boswell" initials="E." surname="Boswell"/>
+    <author fullname="Dale McGarry" initials="E" surname="McGarry">
+      <organization/>
+    </author>
+    <author fullname="Edward Boswell" initials="W" surname="Boswell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-18"/>
+  <seriesInfo name="NIST" value="NBS SP 250-18"/>
 </reference>

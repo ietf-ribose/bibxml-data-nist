@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.873" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication873.pdf">
   <front>
     <title>Joint DoDNIST workshop on international manufacturing systems research and development</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.873"/>
-    <seriesInfo name="NIST" value="NIST SP 873"/>
-    <author fullname="John Meyer" initials="J." surname="Meyer"/>
-    <author fullname="John Meyer" initials="J." surname="Meyer"/>
+    <author fullname="John Meyer" initials="D" surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="John Meyer" initials="D" surname="Meyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.873"/>
+  <seriesInfo name="NIST" value="NIST SP 873"/>
 </reference>

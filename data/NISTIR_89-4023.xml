@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4023" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4023.pdf">
   <front>
     <title>Small computer system interface (SCSI) command system:software support for control of small computer system interface devices</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4023"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4023"/>
-    <author fullname="John Gorczyca" initials="J." surname="Gorczyca"/>
-    <author fullname="EduardoSanchez Villagran" initials="E.S." surname="Villagran"/>
+    <author fullname="John Gorczyca" initials="J." surname="Gorczyca">
+      <organization/>
+    </author>
+    <author fullname="EduardoSanchez Villagran" initials="E.S." surname="Villagran">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4023"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4023"/>
 </reference>

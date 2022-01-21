@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7696" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7696.pdf">
   <front>
     <title>Common planform enumeration :name matching specification version 2.3</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7696"/>
-    <seriesInfo name="NIST" value="NIST IR 7696"/>
-    <author fullname="Mary Parmelee" initials="M." surname="Parmelee"/>
-    <author fullname="Harold Booth" initials="H." surname="Booth"/>
-    <author fullname="David Waltermire" initials="D." surname="Waltermire"/>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone"/>
+    <author fullname="Mary Parmelee" initials="C" surname="Parmelee">
+      <organization/>
+    </author>
+    <author fullname="Harold Booth" initials="H." surname="Booth">
+      <organization/>
+    </author>
+    <author fullname="David Waltermire" initials="D." surname="Waltermire">
+      <organization/>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7696"/>
+  <seriesInfo name="NIST" value="NIST IR 7696"/>
 </reference>

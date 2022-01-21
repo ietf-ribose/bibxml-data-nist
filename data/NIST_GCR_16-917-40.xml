@@ -1,12 +1,10 @@
 <reference anchor="NIST.GCR.16-917-40" target="https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-917-40.pdf">
   <front>
     <title>Seismic Design of Reinforced Concrete Special Moment Frames: A Guide for Practicing Engineers, Second Edition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-40"/>
-    <seriesInfo name="NIST" value="NIST GCR 16-917-40"/>
-    <author fullname="Jack Moehle" initials="J." surname="Moehle">
+    <author fullname="Jack Moehle" initials="P" surname="Moehle">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="John Hooper" initials="J." surname="Hooper">
+    <author fullname="John Hooper" initials="D" surname="Hooper">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.16-917-40"/>
+  <seriesInfo name="NIST" value="NIST GCR 16-917-40"/>
 </reference>

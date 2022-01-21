@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.490" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular490.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 490:the Geiger-Müller counter</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.490"/>
-    <seriesInfo name="NIST" value="NBS CIRC 490"/>
-    <author fullname="Leon Curtiss" initials="L." surname="Curtiss"/>
+    <author fullname="Leon Curtiss" initials="F" surname="Curtiss">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1950"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.490"/>
+  <seriesInfo name="NIST" value="NBS CIRC 490"/>
 </reference>

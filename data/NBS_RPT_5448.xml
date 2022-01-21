@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.5448" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport5448.pdf">
   <front>
     <title>Fire endurance tests of four bulkhead assemblies</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.5448"/>
-    <seriesInfo name="NIST" value="NBS RPT 5448"/>
-    <author surname="Ryan"/>
+    <author initials="JV" surname="Ryan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.5448"/>
+  <seriesInfo name="NIST" value="NBS RPT 5448"/>
 </reference>

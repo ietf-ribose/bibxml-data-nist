@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.120" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience120.pdf">
   <front>
     <title>Guidelines for stair safety</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.120"/>
-    <seriesInfo name="NIST" value="NBS BSS 120"/>
-    <author fullname="John Archea" initials="J." surname="Archea"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
-    <author fullname="Fred Stahl" initials="F." surname="Stahl"/>
+    <author fullname="John Archea" initials="J." surname="Archea">
+      <organization/>
+    </author>
+    <author fullname="Belinda Collins" initials="L" surname="Collins">
+      <organization/>
+    </author>
+    <author fullname="Fred Stahl" initials="I" surname="Stahl">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.120"/>
+  <seriesInfo name="NIST" value="NBS BSS 120"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6746" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6746.pdf">
   <front>
     <title>A model for the flow of design information in the open assembly design environment (OpenADE)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6746"/>
-    <seriesInfo name="NIST" value="NIST IR 6746"/>
-    <author fullname="Steven Shooter" initials="S." surname="Shooter"/>
-    <author fullname="Walid Keirouz" initials="W." surname="Keirouz"/>
-    <author fullname="Simon Szykman" initials="S." surname="Szykman"/>
-    <author fullname="Steven Fenves" initials="S." surname="Fenves"/>
+    <author fullname="Steven Shooter" initials="B" surname="Shooter">
+      <organization/>
+    </author>
+    <author fullname="Walid Keirouz" initials="W." surname="Keirouz">
+      <organization/>
+    </author>
+    <author fullname="Simon Szykman" initials="S." surname="Szykman">
+      <organization/>
+    </author>
+    <author fullname="Steven Fenves" initials="J" surname="Fenves">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6746"/>
+  <seriesInfo name="NIST" value="NIST IR 6746"/>
 </reference>

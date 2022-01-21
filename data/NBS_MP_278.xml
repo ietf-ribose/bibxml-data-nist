@@ -1,10 +1,12 @@
 <reference anchor="NBS.MP.278" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub278.pdf">
   <front>
     <title>Bibliography on atomic transition probabilities/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.278"/>
-    <seriesInfo name="NIST" value="NBS MP 278"/>
-    <author surname="Wiese"/>
-    <author surname="Glennon"/>
+    <author initials="WL" surname="Wiese">
+      <organization/>
+    </author>
+    <author initials="BM" surname="Glennon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.278"/>
+  <seriesInfo name="NIST" value="NBS MP 278"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7234" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7234.pdf">
   <front>
     <title>Implementation of simulation program for modeling the effective resistivity of nanometer scale film and line interconnects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7234"/>
-    <seriesInfo name="NIST" value="NIST IR 7234"/>
-    <author fullname="Emre Yarimbiyik" initials="E." surname="Yarimbiyik"/>
-    <author fullname="Harry Schafft" initials="H." surname="Schafft"/>
-    <author fullname="Richard Allen" initials="R." surname="Allen"/>
-    <author fullname="MonaZaghloul Zaghloul" initials="M.Z." surname="Zaghloul"/>
-    <author fullname="David Blackburn" initials="D." surname="Blackburn"/>
+    <author fullname="Emre Yarimbiyik" initials="A" surname="Yarimbiyik">
+      <organization/>
+    </author>
+    <author fullname="Harry Schafft" initials="A" surname="Schafft">
+      <organization/>
+    </author>
+    <author fullname="Richard Allen" initials="A" surname="Allen">
+      <organization/>
+    </author>
+    <author fullname="MonaZaghloul Zaghloul" initials="E" surname="Zaghloul">
+      <organization/>
+    </author>
+    <author fullname="David Blackburn" initials="L" surname="Blackburn">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7234"/>
+  <seriesInfo name="NIST" value="NIST IR 7234"/>
 </reference>

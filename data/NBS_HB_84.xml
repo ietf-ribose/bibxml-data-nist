@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.84" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook84.pdf">
   <front>
     <title>Radiation quantities and units: International Commission on Radiological Units and Measurements (ICRU) report 10a 1962</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.84"/>
-    <seriesInfo name="NIST" value="NBS HB 84"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1962"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.84"/>
+  <seriesInfo name="NIST" value="NBS HB 84"/>
 </reference>

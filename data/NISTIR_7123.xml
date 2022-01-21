@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.7123" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7123.pdf">
   <front>
     <title>Fingerprint vendor technology evaluation 2003 :summary of results and analysis report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7123"/>
-    <seriesInfo name="NIST" value="NIST IR 7123"/>
-    <author fullname="Charles Wilson" initials="C." surname="Wilson"/>
-    <author fullname="Austin Hicklin" initials="A." surname="Hicklin"/>
-    <author fullname="Harold Korves" initials="H." surname="Korves"/>
-    <author fullname="Bradford Ulery" initials="B." surname="Ulery"/>
-    <author fullname="Melissa Zoepfl" initials="M." surname="Zoepfl"/>
-    <author fullname="Mike Bone" initials="M." surname="Bone"/>
-    <author fullname="Patrick Grother" initials="P." surname="Grother"/>
-    <author fullname="Ross Micheals" initials="R." surname="Micheals"/>
-    <author fullname="Steve Otto" initials="S." surname="Otto"/>
-    <author fullname="Craig Watson" initials="C." surname="Watson"/>
+    <author fullname="Charles Wilson" initials="C." surname="Wilson">
+      <organization/>
+    </author>
+    <author fullname="Austin Hicklin" initials="R" surname="Hicklin">
+      <organization/>
+    </author>
+    <author fullname="Harold Korves" initials="H." surname="Korves">
+      <organization/>
+    </author>
+    <author fullname="Bradford Ulery" initials="B." surname="Ulery">
+      <organization/>
+    </author>
+    <author fullname="Melissa Zoepfl" initials="M." surname="Zoepfl">
+      <organization/>
+    </author>
+    <author fullname="Mike Bone" initials="M." surname="Bone">
+      <organization/>
+    </author>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization/>
+    </author>
+    <author fullname="Ross Micheals" initials="R." surname="Micheals">
+      <organization/>
+    </author>
+    <author fullname="Steve Otto" initials="S." surname="Otto">
+      <organization/>
+    </author>
+    <author fullname="Craig Watson" initials="C." surname="Watson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7123"/>
+  <seriesInfo name="NIST" value="NIST IR 7123"/>
 </reference>

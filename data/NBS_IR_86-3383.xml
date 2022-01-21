@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.86-3383" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3383.pdf">
   <front>
     <title>Examination of failed railroad car wheelaxle assembly from derailed passenger car, McIntosh, Georgia</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3383"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3383"/>
-    <author surname="Shives"/>
-    <author fullname="R,III Low" initials="R.I." surname="Low"/>
-    <author surname="Brady"/>
+    <author initials="TR" surname="Shives">
+      <organization/>
+    </author>
+    <author fullname="R,III Low" initials="S" surname="Low">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Brady">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1985" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3383"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3383"/>
 </reference>

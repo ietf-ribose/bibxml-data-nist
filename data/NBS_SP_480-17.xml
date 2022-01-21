@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.480-17" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication480-17.pdf">
   <front>
     <title>Auto headlight glass :visible features of forensic utility</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.480-17"/>
-    <seriesInfo name="NIST" value="NBS SP 480-17"/>
-    <author fullname="Harold Steinberg" initials="H." surname="Steinberg"/>
+    <author fullname="Harold Steinberg" initials="L" surname="Steinberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.480-17"/>
+  <seriesInfo name="NIST" value="NBS SP 480-17"/>
 </reference>

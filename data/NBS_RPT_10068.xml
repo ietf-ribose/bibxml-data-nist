@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.10068" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10068.pdf">
   <front>
     <title>Determination of shear modulus of dental materials by means of the torsion pendulum :progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10068"/>
-    <seriesInfo name="NIST" value="NBS RPT 10068"/>
-    <author surname="Baron"/>
-    <author surname="Dickson"/>
-    <author surname="Oglesby"/>
-    <author surname="Kumpula"/>
+    <author initials="JA" surname="Baron">
+      <organization/>
+    </author>
+    <author initials="G" surname="Dickson">
+      <organization/>
+    </author>
+    <author initials="PL" surname="Oglesby">
+      <organization/>
+    </author>
+    <author initials="J" surname="Kumpula">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10068"/>
+  <seriesInfo name="NIST" value="NBS RPT 10068"/>
 </reference>

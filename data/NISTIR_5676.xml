@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5676" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5676.pdf">
   <front>
     <title>Submarine automation:demonstration #5</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5676"/>
-    <seriesInfo name="NIST" value="NIST IR 5676"/>
-    <author fullname="Hui-Min Huang" initials="H." surname="Huang"/>
-    <author fullname="Richard Quintero" initials="R." surname="Quintero"/>
-    <author fullname="Keith Young" initials="K." surname="Young"/>
+    <author fullname="Hui-Min Huang" initials="H." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="Richard Quintero" initials="R." surname="Quintero">
+      <organization/>
+    </author>
+    <author fullname="Keith Young" initials="K." surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5676"/>
+  <seriesInfo name="NIST" value="NIST IR 5676"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.CSWP.02192014" target="http://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02192014.pdf">
   <front>
     <title>Summary of NIST SP 800-53 Revision 4, Security and Privacy Controls for Federal Information Systems and Organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.CSWP.02192014"/>
-    <seriesInfo name="NIST" value="NIST CSWP 02192014"/>
     <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2014" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.02192014"/>
+  <seriesInfo name="NIST" value="NIST CSWP 02192014"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-2743" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2743.pdf">
   <front>
     <title>The preservation of the Constitution of Puerto Rico</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2743"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2743"/>
-    <author fullname="Elio Passaglia" initials="E." surname="Passaglia"/>
-    <author fullname="Brian Dickens" initials="B." surname="Dickens"/>
+    <author fullname="Elio Passaglia" initials="E." surname="Passaglia">
+      <organization/>
+    </author>
+    <author fullname="Brian Dickens" initials="B." surname="Dickens">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2743"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2743"/>
 </reference>

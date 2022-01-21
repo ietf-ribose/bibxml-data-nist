@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.250-72" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-72.pdf">
   <front>
     <title>NIST calibration services for liquid volume</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-72"/>
-    <seriesInfo name="NIST" value="NIST SP 250-72"/>
-    <author fullname="Vern Bean" initials="V." surname="Bean"/>
-    <author fullname="Pedro Espina" initials="P." surname="Espina"/>
-    <author fullname="JohnD,Houser,John Wright" initials="J.D.J." surname="Wright"/>
-    <author fullname="Sherry Sheckels" initials="S." surname="Sheckels"/>
-    <author fullname="Aaron Johnson" initials="A." surname="Johnson"/>
+    <author fullname="Vern Bean" initials="E" surname="Bean">
+      <organization/>
+    </author>
+    <author fullname="Pedro Espina" initials="I" surname="Espina">
+      <organization/>
+    </author>
+    <author fullname="JohnD,Houser,John Wright" initials="F" surname="Wright">
+      <organization/>
+    </author>
+    <author fullname="Sherry Sheckels" initials="D" surname="Sheckels">
+      <organization/>
+    </author>
+    <author fullname="Aaron Johnson" initials="N" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-72"/>
+  <seriesInfo name="NIST" value="NIST SP 250-72"/>
 </reference>

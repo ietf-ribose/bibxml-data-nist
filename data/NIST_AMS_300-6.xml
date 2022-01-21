@@ -1,8 +1,6 @@
 <reference anchor="NIST.AMS.300-6" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-6.pdf">
   <front>
     <title>Securing the digital threat for smart manufacturing:a reference model for blockchain-based product data traceability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-6"/>
-    <seriesInfo name="NIST" value="NIST AMS 300-6"/>
     <author fullname="Sylvere Krima" initials="S." surname="Krima">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-6"/>
+  <seriesInfo name="NIST" value="NIST AMS 300-6"/>
 </reference>

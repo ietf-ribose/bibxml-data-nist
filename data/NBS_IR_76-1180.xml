@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.76-1180" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1180.pdf">
   <front>
     <title>Standardization and measurement services in Guyana</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1180"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1180"/>
-    <author fullname="Steffen Peiser" initials="S." surname="Peiser"/>
-    <author fullname="Niels Beck" initials="N." surname="Beck"/>
-    <author fullname="Kenneth Stephens" initials="K." surname="Stephens"/>
+    <author fullname="Steffen Peiser" initials="H" surname="Peiser">
+      <organization/>
+    </author>
+    <author fullname="Niels Beck" initials="C" surname="Beck">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Stephens" initials="S" surname="Stephens">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1180"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1180"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3024" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3024.pdf">
   <front>
     <title>Experimental thermal conductivity values for mixtures of methane and ethane</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3024"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3024"/>
-    <author surname="Roder"/>
-    <author surname="Friend"/>
+    <author initials="HM" surname="Roder">
+      <organization/>
+    </author>
+    <author initials="DG" surname="Friend">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3024"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3024"/>
 </reference>

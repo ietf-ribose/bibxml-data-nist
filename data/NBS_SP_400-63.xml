@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.400-63" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication400-63.pdf">
   <front>
     <title>A FORTRAN program for calculating the electrical parameters of extrinsic silicon</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.400-63"/>
-    <seriesInfo name="NIST" value="NBS SP 400-63"/>
-    <author surname="Larrabee"/>
-    <author surname="Thurber"/>
-    <author fullname="Murray Bullis" initials="M." surname="Bullis"/>
+    <author initials="RD" surname="Larrabee">
+      <organization/>
+    </author>
+    <author initials="WR" surname="Thurber">
+      <organization/>
+    </author>
+    <author fullname="Murray Bullis" initials="W" surname="Bullis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.400-63"/>
+  <seriesInfo name="NIST" value="NBS SP 400-63"/>
 </reference>

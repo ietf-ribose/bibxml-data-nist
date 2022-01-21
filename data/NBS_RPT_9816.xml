@@ -1,12 +1,18 @@
 <reference anchor="NBS.RPT.9816" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9816.pdf">
   <front>
     <title>A strain standard for use to 3000 �F (1650 �C)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9816"/>
-    <seriesInfo name="NIST" value="NBS RPT 9816"/>
-    <author surname="Bloss"/>
-    <author surname="Trumbo"/>
-    <author surname="Melton"/>
-    <author surname="Steel"/>
+    <author initials="RL" surname="Bloss">
+      <organization/>
+    </author>
+    <author initials="JT" surname="Trumbo">
+      <organization/>
+    </author>
+    <author initials="CH" surname="Melton">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Steel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1968" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9816"/>
+  <seriesInfo name="NIST" value="NBS RPT 9816"/>
 </reference>

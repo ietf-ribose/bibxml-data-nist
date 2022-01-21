@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-381" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-381.pdf">
   <front>
     <title>Electromagnetic attenuation properties of clay and gravel soils</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-381"/>
-    <seriesInfo name="NIST" value="NBS IR 74-381"/>
-    <author fullname="Doyle Ellerbruch" initials="D." surname="Ellerbruch"/>
+    <author fullname="Doyle Ellerbruch" initials="A" surname="Ellerbruch">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-381"/>
+  <seriesInfo name="NIST" value="NBS IR 74-381"/>
 </reference>

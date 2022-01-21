@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.51" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience51.pdf">
   <front>
     <title>Structural evaluation of steel faced sandwich panels</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.51"/>
-    <seriesInfo name="NIST" value="NBS BSS 51"/>
-    <author surname="Pielert"/>
-    <author surname="Reichard"/>
-    <author surname="Masters"/>
+    <author initials="JH" surname="Pielert">
+      <organization/>
+    </author>
+    <author initials="TW" surname="Reichard">
+      <organization/>
+    </author>
+    <author initials="LW" surname="Masters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.51"/>
+  <seriesInfo name="NIST" value="NBS BSS 51"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.136" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph136.pdf">
   <front>
     <title>Graphical recoupling of angular momenta</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.136"/>
-    <seriesInfo name="NIST" value="NBS MONO 136"/>
-    <author surname="Lehman"/>
-    <author surname="O'Connell"/>
+    <author initials="DR" surname="Lehman">
+      <organization/>
+    </author>
+    <author initials="JS" surname="O'Connell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.136"/>
+  <seriesInfo name="NIST" value="NBS MONO 136"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4220" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4220.pdf">
   <front>
     <title>Electrical performance tests for storage oscilloscopes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4220"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4220"/>
-    <author fullname="Howard Schoenwetter" initials="H." surname="Schoenwetter"/>
-    <author fullname="Thomas Leedy" initials="T." surname="Leedy"/>
-    <author fullname="Owen Laug" initials="O." surname="Laug"/>
+    <author fullname="Howard Schoenwetter" initials="K" surname="Schoenwetter">
+      <organization/>
+    </author>
+    <author fullname="Thomas Leedy" initials="F" surname="Leedy">
+      <organization/>
+    </author>
+    <author fullname="Owen Laug" initials="B" surname="Laug">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4220"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4220"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5087" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5087.pdf">
   <front>
     <title>Empirical modeling of electromagnetic acoustic transducer data</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5087"/>
-    <seriesInfo name="NIST" value="NIST IR 5087"/>
-    <author surname="Hehman"/>
+    <author initials="CS" surname="Hehman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5087"/>
+  <seriesInfo name="NIST" value="NIST IR 5087"/>
 </reference>

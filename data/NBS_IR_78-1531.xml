@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-1531" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1531.pdf">
   <front>
     <title>Mobile home bedroom fire studies :the role of interior finish</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1531"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1531"/>
-    <author fullname="Edward Budnick" initials="E." surname="Budnick"/>
-    <author fullname="David Klein" initials="D." surname="Klein"/>
-    <author fullname="Robert O'Laughlin" initials="R." surname="O'Laughlin"/>
+    <author fullname="Edward Budnick" initials="K" surname="Budnick">
+      <organization/>
+    </author>
+    <author fullname="David Klein" initials="P" surname="Klein">
+      <organization/>
+    </author>
+    <author fullname="Robert O'Laughlin" initials="J" surname="O'Laughlin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1531"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1531"/>
 </reference>

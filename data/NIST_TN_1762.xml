@@ -1,12 +1,10 @@
 <reference anchor="NIST.TN.1762" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1762.pdf">
   <front>
     <title>Smoke component yields from Bench-Scale Fire Tests : 3. ISO 5660-1 / ASTM E 1354 with Enclosure and Variable Oxygen Concentration</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1762"/>
-    <seriesInfo name="NIST" value="NIST TN 1762"/>
-    <author fullname="Nathan Marsh" initials="N." surname="Marsh">
+    <author fullname="Nathan Marsh" initials="D" surname="Marsh">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Richard Gann" initials="R." surname="Gann">
+    <author fullname="Richard Gann" initials="G" surname="Gann">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2013" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1762"/>
+  <seriesInfo name="NIST" value="NIST TN 1762"/>
 </reference>

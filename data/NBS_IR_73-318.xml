@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.73-318" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-318.pdf">
   <front>
     <title>Mass quantity gauging by RF mode analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-318"/>
-    <seriesInfo name="NIST" value="NBS IR 73-318"/>
-    <author surname="Collier"/>
-    <author fullname="Doyle Ellerbruch" initials="D." surname="Ellerbruch"/>
-    <author surname="Cruz"/>
-    <author fullname="Robert Stokes" initials="R." surname="Stokes"/>
-    <author fullname="Gordon Peterson" initials="G." surname="Peterson"/>
-    <author surname="Hiester"/>
+    <author initials="RS" surname="Collier">
+      <organization/>
+    </author>
+    <author fullname="Doyle Ellerbruch" initials="D." surname="Ellerbruch">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Cruz">
+      <organization/>
+    </author>
+    <author fullname="Robert Stokes" initials="W" surname="Stokes">
+      <organization/>
+    </author>
+    <author fullname="Gordon Peterson" initials="R" surname="Peterson">
+      <organization/>
+    </author>
+    <author initials="AE" surname="Hiester">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-318"/>
+  <seriesInfo name="NIST" value="NBS IR 73-318"/>
 </reference>

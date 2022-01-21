@@ -1,21 +1,45 @@
 <reference anchor="NIST.IR.7958" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7958.pdf">
   <front>
     <title>persistent organic pollutants and vitamins in northern fur seals (callorhinus ursinus) collected from St. Paul Island, Alaska as part of the Alaska Marine Mammal Tissue Archival Project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7958"/>
-    <seriesInfo name="NIST" value="NIST IR 7958"/>
-    <author fullname="John Kucklick" initials="J." surname="Kucklick"/>
-    <author fullname="Jessica Reiner" initials="J." surname="Reiner"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Jennifer Keller" initials="J." surname="Keller"/>
-    <author fullname="Jennifer Hoguet" initials="J." surname="Hoguet"/>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer"/>
-    <author fullname="Tamika Ragland" initials="T." surname="Ragland"/>
-    <author fullname="Rebecca Pugh" initials="R." surname="Pugh"/>
-    <author fullname="Amanda Moors" initials="A." surname="Moors"/>
-    <author fullname="Jody Rhoderick" initials="J." surname="Rhoderick"/>
-    <author fullname="Jennifer Ness" initials="J." surname="Ness"/>
-    <author fullname="Danielle Peterson" initials="D." surname="Peterson"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
+    <author fullname="John Kucklick" initials="J." surname="Kucklick">
+      <organization/>
+    </author>
+    <author fullname="Jessica Reiner" initials="J." surname="Reiner">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M." surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Keller" initials="J." surname="Keller">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Hoguet" initials="J." surname="Hoguet">
+      <organization/>
+    </author>
+    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+      <organization/>
+    </author>
+    <author fullname="Tamika Ragland" initials="T." surname="Ragland">
+      <organization/>
+    </author>
+    <author fullname="Rebecca Pugh" initials="R." surname="Pugh">
+      <organization/>
+    </author>
+    <author fullname="Amanda Moors" initials="A." surname="Moors">
+      <organization/>
+    </author>
+    <author fullname="Jody Rhoderick" initials="J." surname="Rhoderick">
+      <organization/>
+    </author>
+    <author fullname="Jennifer Ness" initials="J." surname="Ness">
+      <organization/>
+    </author>
+    <author fullname="Danielle Peterson" initials="D." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="Paul Becker" initials="P." surname="Becker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -28,4 +52,6 @@
     </author>
     <date year="2013"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7958"/>
+  <seriesInfo name="NIST" value="NIST IR 7958"/>
 </reference>

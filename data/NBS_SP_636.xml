@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.636" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication636.pdf">
   <front>
     <title>NVLAP fifth annual report and directory of accredited laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.636"/>
-    <seriesInfo name="NIST" value="NBS SP 636"/>
-    <author fullname="Peter Unger" initials="P." surname="Unger"/>
+    <author fullname="Peter Unger" initials="S" surname="Unger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.636"/>
+  <seriesInfo name="NIST" value="NBS SP 636"/>
 </reference>

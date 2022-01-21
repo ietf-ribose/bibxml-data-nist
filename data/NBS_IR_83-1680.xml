@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-1680" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-1680.pdf">
   <front>
     <title>Interim progress report :fracture toughness of steel weldments for artic structures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1680"/>
-    <seriesInfo name="NIST" value="NBS IR 83-1680"/>
-    <author surname="Anderson"/>
-    <author surname="McHenry"/>
+    <author initials="TL" surname="Anderson">
+      <organization/>
+    </author>
+    <author initials="HI" surname="McHenry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-1680"/>
+  <seriesInfo name="NIST" value="NBS IR 83-1680"/>
 </reference>

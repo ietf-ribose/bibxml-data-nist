@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.7358" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7358.pdf">
   <front>
     <title>An investigation of the fire induced flow regime at the single ventilation opening in a model room enclosure</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7358"/>
-    <seriesInfo name="NIST" value="NBS RPT 7358"/>
-    <author fullname="George Van Arsdale" initials="G." surname="Van Arsdale"/>
+    <author fullname="George Van Arsdale" initials="D" surname="Van Arsdale">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7358"/>
+  <seriesInfo name="NIST" value="NBS RPT 7358"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-1579" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1579.pdf">
   <front>
     <title>NBS serial holdings 1978</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1579"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1579"/>
-    <author fullname="Jane Tucker" initials="J." surname="Tucker"/>
+    <author fullname="Jane Tucker" initials="C" surname="Tucker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1579"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1579"/>
 </reference>

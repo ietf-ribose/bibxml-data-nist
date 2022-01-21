@@ -1,18 +1,36 @@
 <reference anchor="NIST.IR.7764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7764.pdf">
   <front>
     <title>Status report on the second round of the SHA-3 cryptographic hash algorithm competition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7764"/>
-    <seriesInfo name="NIST" value="NIST IR 7764"/>
-    <author fullname="MeltemSonmez Turan" initials="M.S." surname="Turan"/>
-    <author fullname="Ray Perlner" initials="R." surname="Perlner"/>
-    <author fullname="Lawrence Bassham" initials="L." surname="Bassham"/>
-    <author fullname="William Burr" initials="W." surname="Burr"/>
-    <author fullname="Donghoon Chang" initials="D." surname="Chang"/>
-    <author fullname="Shu-jen Chang" initials="S." surname="Chang"/>
-    <author fullname="Morris Dworkin" initials="M." surname="Dworkin"/>
-    <author fullname="John Kelsey" initials="J." surname="Kelsey"/>
-    <author fullname="Souradyuti Paul" initials="S." surname="Paul"/>
-    <author fullname="Rene Peralta" initials="R." surname="Peralta"/>
+    <author fullname="MeltemSonmez Turan" initials="M.S." surname="Turan">
+      <organization/>
+    </author>
+    <author fullname="Ray Perlner" initials="R." surname="Perlner">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Bassham" initials="E" surname="Bassham">
+      <organization/>
+    </author>
+    <author fullname="William Burr" initials="W." surname="Burr">
+      <organization/>
+    </author>
+    <author fullname="Donghoon Chang" initials="D." surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Shu-jen Chang" initials="S." surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Morris Dworkin" initials="J" surname="Dworkin">
+      <organization/>
+    </author>
+    <author fullname="John Kelsey" initials="M" surname="Kelsey">
+      <organization/>
+    </author>
+    <author fullname="Souradyuti Paul" initials="S." surname="Paul">
+      <organization/>
+    </author>
+    <author fullname="Rene Peralta" initials="R." surname="Peralta">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -25,4 +43,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7764"/>
+  <seriesInfo name="NIST" value="NIST IR 7764"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.5842" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5842.pdf">
   <front>
     <title>Methodology for developing and implementing alternative temperature-time curves for testing the fire resistance of barriers for nuclear power plant applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5842"/>
-    <seriesInfo name="NIST" value="NIST IR 5842"/>
-    <author fullname="Leonard Cooper" initials="L." surname="Cooper"/>
-    <author fullname="Kenneth Steckler" initials="K." surname="Steckler"/>
+    <author fullname="Leonard Cooper" initials="Y" surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="Kenneth Steckler" initials="D" surname="Steckler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5842"/>
+  <seriesInfo name="NIST" value="NIST IR 5842"/>
 </reference>

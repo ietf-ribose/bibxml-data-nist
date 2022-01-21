@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.801" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote801.pdf">
   <front>
     <title>Research considerations in computer networking to expand resource sharing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.801"/>
-    <seriesInfo name="NIST" value="NBS TN 801"/>
-    <author fullname="Dennis Fife" initials="D." surname="Fife"/>
+    <author fullname="Dennis Fife" initials="W" surname="Fife">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.801"/>
+  <seriesInfo name="NIST" value="NBS TN 801"/>
 </reference>

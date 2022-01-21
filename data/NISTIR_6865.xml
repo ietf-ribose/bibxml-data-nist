@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6865" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6865.pdf">
   <front>
     <title>BEES 2.0:building for environmental and economic sustainability, peer review report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6865"/>
-    <seriesInfo name="NIST" value="NIST IR 6865"/>
-    <author fullname="MaryAnn Curran" initials="M.A." surname="Curran"/>
-    <author fullname="Jonathan Overly" initials="J." surname="Overly"/>
-    <author fullname="Patrick Hofstetter" initials="P." surname="Hofstetter"/>
-    <author fullname="Rick Muller" initials="R." surname="Muller"/>
-    <author fullname="Barbara Lippiatt" initials="B." surname="Lippiatt"/>
+    <author fullname="MaryAnn Curran" initials="M.A." surname="Curran">
+      <organization/>
+    </author>
+    <author fullname="Jonathan Overly" initials="G" surname="Overly">
+      <organization/>
+    </author>
+    <author fullname="Patrick Hofstetter" initials="P." surname="Hofstetter">
+      <organization/>
+    </author>
+    <author fullname="Rick Muller" initials="R." surname="Muller">
+      <organization/>
+    </author>
+    <author fullname="Barbara Lippiatt" initials="C" surname="Lippiatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6865"/>
+  <seriesInfo name="NIST" value="NIST IR 6865"/>
 </reference>

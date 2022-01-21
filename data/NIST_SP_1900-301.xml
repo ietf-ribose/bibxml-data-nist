@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1900-301" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1900-301.pdf">
   <front>
     <title>Automated Driving System Safety Measurement Part I: Operating Envelope Specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-301"/>
-    <seriesInfo name="NIST" value="NIST SP 1900-301"/>
     <author fullname="Edward Griffor" initials="E." surname="Griffor">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="December" day="2"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1900-301"/>
+  <seriesInfo name="NIST" value="NIST SP 1900-301"/>
 </reference>

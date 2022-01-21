@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote620.pdf">
   <front>
     <title>Frequency and phase stabilization of an HCN laser by locking to a synthesized reference</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.620"/>
-    <seriesInfo name="NIST" value="NBS TN 620"/>
-    <author surname="Wells"/>
+    <author initials="JS" surname="Wells">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.620"/>
+  <seriesInfo name="NIST" value="NBS TN 620"/>
 </reference>

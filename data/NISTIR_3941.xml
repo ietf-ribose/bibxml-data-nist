@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.3941" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3941.pdf">
   <front>
     <title>Heat transfer in a compact tubular heat exchanger with helium gas at 3.5 MPa</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3941"/>
-    <seriesInfo name="NIST" value="NIST IR 3941"/>
-    <author fullname="Douglas Olson" initials="D." surname="Olson"/>
-    <author fullname="Michael Glover" initials="M." surname="Glover"/>
+    <author fullname="Douglas Olson" initials="A" surname="Olson">
+      <organization/>
+    </author>
+    <author fullname="Michael Glover" initials="P" surname="Glover">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3941"/>
+  <seriesInfo name="NIST" value="NIST IR 3941"/>
 </reference>

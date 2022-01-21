@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.90-4237" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4237.pdf">
   <front>
     <title>Guide to available mathematical software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4237"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4237"/>
-    <author fullname="Ronald Boisvert" initials="R." surname="Boisvert"/>
-    <author fullname="Sally Howe" initials="S." surname="Howe"/>
-    <author fullname="David Kahaner" initials="D." surname="Kahaner"/>
-    <author fullname="Jeanne Springmann" initials="J." surname="Springmann"/>
+    <author fullname="Ronald Boisvert" initials="F" surname="Boisvert">
+      <organization/>
+    </author>
+    <author fullname="Sally Howe" initials="E" surname="Howe">
+      <organization/>
+    </author>
+    <author fullname="David Kahaner" initials="K" surname="Kahaner">
+      <organization/>
+    </author>
+    <author fullname="Jeanne Springmann" initials="L" surname="Springmann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4237"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4237"/>
 </reference>

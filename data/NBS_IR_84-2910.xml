@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2910" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2910.pdf">
   <front>
     <title>Field evaluation of SPT energy, equipment, and methods in Japan compared with the SPT in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2910"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2910"/>
-    <author fullname="William Kovacs" initials="W." surname="Kovacs"/>
-    <author fullname="Lawrence Salomone" initials="L." surname="Salomone"/>
+    <author fullname="William Kovacs" initials="D" surname="Kovacs">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Salomone" initials="A" surname="Salomone">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2910"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2910"/>
 </reference>

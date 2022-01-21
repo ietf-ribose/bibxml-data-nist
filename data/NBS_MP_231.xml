@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.231" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub231.pdf">
   <front>
     <title>Hydraulic research in the United States 1960/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.231"/>
-    <seriesInfo name="NIST" value="NBS MP 231"/>
-    <author fullname="Helen Middleton" initials="H." surname="Middleton"/>
+    <author fullname="Helen Middleton" initials="K" surname="Middleton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.231"/>
+  <seriesInfo name="NIST" value="NBS MP 231"/>
 </reference>

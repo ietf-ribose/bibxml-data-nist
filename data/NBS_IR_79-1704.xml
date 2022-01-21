@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.79-1704" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1704.pdf">
   <front>
     <title>The National Environmental Specimen Bank research program for sampling, storage, and analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1704"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1704"/>
-    <author surname="Gills"/>
-    <author surname="Rook"/>
-    <author surname="Durst"/>
+    <author initials="TE" surname="Gills">
+      <organization/>
+    </author>
+    <author initials="HL" surname="Rook">
+      <organization/>
+    </author>
+    <author initials="RA" surname="Durst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1704"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1704"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6778" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6778.pdf">
   <front>
     <title>Guidelines for NIST staff participating in voluntary standards developing organizations' activities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6778"/>
-    <seriesInfo name="NIST" value="NIST IR 6778"/>
-    <author fullname="Krista Johnsen" initials="K." surname="Johnsen"/>
-    <author fullname="Neville Pugh" initials="N." surname="Pugh"/>
+    <author fullname="Krista Johnsen" initials="K." surname="Johnsen">
+      <organization/>
+    </author>
+    <author fullname="Neville Pugh" initials="N." surname="Pugh">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6778"/>
+  <seriesInfo name="NIST" value="NIST IR 6778"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.GCR.17-917-47" target="https://nvlpubs.nist.gov/nistpubs/gcr/2017/NIST.GCR.17-917-47.pdf">
   <front>
     <title>Seismic design of precast concrete diaphragms. a guide for practicing engineers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-917-47"/>
-    <seriesInfo name="NIST" value="NIST GCR 17-917-47"/>
-    <author fullname="Satyendra Ghosh" initials="S." surname="Ghosh">
+    <author fullname="Satyendra Ghosh" initials="K" surname="Ghosh">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Ned Cleland" initials="N." surname="Cleland">
+    <author fullname="Ned Cleland" initials="M" surname="Cleland">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Clay Naito" initials="C." surname="Naito">
+    <author fullname="Clay Naito" initials="J" surname="Naito">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2017" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.17-917-47"/>
+  <seriesInfo name="NIST" value="NIST GCR 17-917-47"/>
 </reference>

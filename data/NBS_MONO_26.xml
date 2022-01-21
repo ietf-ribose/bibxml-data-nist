@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph26.pdf">
   <front>
     <title>Development of high-temperature strain gages</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.26"/>
-    <seriesInfo name="NIST" value="NBS MONO 26"/>
-    <author surname="Pitts"/>
-    <author surname="Moore"/>
+    <author initials="JW" surname="Pitts">
+      <organization/>
+    </author>
+    <author initials="DG" surname="Moore">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1961"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.26"/>
+  <seriesInfo name="NIST" value="NBS MONO 26"/>
 </reference>

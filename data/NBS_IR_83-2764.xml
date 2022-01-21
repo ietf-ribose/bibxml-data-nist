@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.83-2764" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir83-2764.pdf">
   <front>
     <title>Using high-resolution hand-held radiometers to measure in-situ thermal resistance</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2764"/>
-    <seriesInfo name="NIST" value="NBS IR 83-2764"/>
-    <author fullname="Douglas Burch" initials="D." surname="Burch"/>
-    <author fullname="Donald Krintz" initials="D." surname="Krintz"/>
+    <author fullname="Douglas Burch" initials="M" surname="Burch">
+      <organization/>
+    </author>
+    <author fullname="Donald Krintz" initials="F" surname="Krintz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.83-2764"/>
+  <seriesInfo name="NIST" value="NBS IR 83-2764"/>
 </reference>

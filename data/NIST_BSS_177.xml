@@ -1,11 +1,15 @@
 <reference anchor="NIST.BSS.177" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nistbuildingscience177.pdf">
   <front>
     <title>Performance of tape-bonded seams of EPDM membranes :factors affecting the creep-rupture response of tape-bonded and liquid-adhesive-bonded seams</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.BSS.177"/>
-    <seriesInfo name="NIST" value="NIST BSS 177"/>
-    <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter"/>
-    <author fullname="Mark Vangel" initials="M." surname="Vangel"/>
-    <author fullname="Kevin Krafy" initials="K." surname="Krafy"/>
+    <author fullname="WalterJ,Jr Rossiter" initials="W.J.J." surname="Rossiter">
+      <organization/>
+    </author>
+    <author fullname="Mark Vangel" initials="G" surname="Vangel">
+      <organization/>
+    </author>
+    <author fullname="Kevin Krafy" initials="M" surname="Krafy">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.BSS.177"/>
+  <seriesInfo name="NIST" value="NIST BSS 177"/>
 </reference>

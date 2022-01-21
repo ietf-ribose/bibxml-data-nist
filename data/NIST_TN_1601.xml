@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1601" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1601.pdf">
   <front>
     <title>On the criteria for smoldering ignition in the CFR 1632 cigarette test for mattresses</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1601"/>
-    <seriesInfo name="NIST" value="NIST TN 1601"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1601"/>
+  <seriesInfo name="NIST" value="NIST TN 1601"/>
 </reference>

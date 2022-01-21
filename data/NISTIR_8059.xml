@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8059" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8059.pdf">
   <front>
     <title>Materials Testing Standards for Additive Manufacturing of Polymer Materials: State of the Art and Standards Applicability</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8059"/>
-    <seriesInfo name="NIST" value="NIST IR 8059"/>
-    <author fullname="Aaron Forster" initials="A." surname="Forster">
+    <author fullname="Aaron Forster" initials="M" surname="Forster">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8059"/>
+  <seriesInfo name="NIST" value="NIST IR 8059"/>
 </reference>

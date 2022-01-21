@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.3997" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3997.pdf">
   <front>
     <title>Transfer functions for characterizing multimode optical fiber components</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3997"/>
-    <seriesInfo name="NIST" value="NIST IR 3997"/>
-    <author fullname="Shao Yang" initials="S." surname="Yang"/>
+    <author fullname="Shao Yang" initials="S." surname="Yang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3997"/>
+  <seriesInfo name="NIST" value="NIST IR 3997"/>
 </reference>

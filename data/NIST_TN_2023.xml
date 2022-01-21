@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2023" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2023.pdf">
   <front>
     <title>Programmers guide to the BACnet communications DLL</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2023"/>
-    <seriesInfo name="NIST" value="NIST TN 2023"/>
-    <author fullname="Michael Galler" initials="M." surname="Galler">
+    <author fullname="Michael Galler" initials="A" surname="Galler">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="2018" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2023"/>
+  <seriesInfo name="NIST" value="NIST TN 2023"/>
 </reference>

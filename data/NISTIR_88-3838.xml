@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3838" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3838.pdf">
   <front>
     <title>Common memory for the personal computer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3838"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3838"/>
-    <author fullname="Siegfried Rybczynski" initials="S." surname="Rybczynski"/>
+    <author fullname="Siegfried Rybczynski" initials="S." surname="Rybczynski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3838"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3838"/>
 </reference>

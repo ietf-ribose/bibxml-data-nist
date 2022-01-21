@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.4724" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4724.pdf">
   <front>
     <title>Preliminary study of the 1991 Oakland Hills fire and its relevance to wood-frame, multi-family building construction</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4724"/>
-    <seriesInfo name="NIST" value="NIST IR 4724"/>
-    <author fullname="Kenneth Steckler" initials="K." surname="Steckler"/>
-    <author fullname="David Evans" initials="D." surname="Evans"/>
-    <author fullname="Jack Snell" initials="J." surname="Snell"/>
+    <author fullname="Kenneth Steckler" initials="D" surname="Steckler">
+      <organization/>
+    </author>
+    <author fullname="David Evans" initials="D" surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="Jack Snell" initials="E" surname="Snell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4724"/>
+  <seriesInfo name="NIST" value="NIST IR 4724"/>
 </reference>

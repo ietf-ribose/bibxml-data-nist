@@ -1,10 +1,12 @@
 <reference anchor="NBS.RPT.4313" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4313.pdf">
   <front>
     <title>Alloys of gallium with powdered metals as possible replacement for dental amalgam</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4313"/>
-    <seriesInfo name="NIST" value="NBS RPT 4313"/>
-    <author fullname="Denton Smith" initials="D." surname="Smith"/>
-    <author fullname="Harold Caul" initials="H." surname="Caul"/>
+    <author fullname="Denton Smith" initials="L" surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="Harold Caul" initials="J" surname="Caul">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1955"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4313"/>
+  <seriesInfo name="NIST" value="NBS RPT 4313"/>
 </reference>

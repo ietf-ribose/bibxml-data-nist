@@ -1,8 +1,6 @@
 <reference anchor="NBS.IP.7" target="https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip7.pdf">
   <front>
     <title>Ionospheric predictions for October 1963</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IP.7"/>
-    <seriesInfo name="NIST" value="NBS IP 7"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IP.7"/>
+  <seriesInfo name="NIST" value="NBS IP 7"/>
 </reference>

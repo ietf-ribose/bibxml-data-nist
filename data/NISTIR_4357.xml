@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4357" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4357.pdf">
   <front>
     <title>An approach to telerobot computing architecture</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4357"/>
-    <seriesInfo name="NIST" value="NIST IR 4357"/>
-    <author fullname="John Fiala" initials="J." surname="Fiala"/>
-    <author fullname="Ronald Lumia" initials="R." surname="Lumia"/>
+    <author fullname="John Fiala" initials="J." surname="Fiala">
+      <organization/>
+    </author>
+    <author fullname="Ronald Lumia" initials="R." surname="Lumia">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4357"/>
+  <seriesInfo name="NIST" value="NIST IR 4357"/>
 </reference>

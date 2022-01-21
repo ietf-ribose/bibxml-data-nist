@@ -1,10 +1,12 @@
 <reference anchor="NBS.HB.83" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook83.pdf">
   <front>
     <title>Tabulation of data on receiving tubes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.83"/>
-    <seriesInfo name="NIST" value="NBS HB 83"/>
-    <author surname="Marsden"/>
-    <author surname="Moffitt"/>
+    <author initials="CP" surname="Marsden">
+      <organization/>
+    </author>
+    <author initials="JK" surname="Moffitt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.83"/>
+  <seriesInfo name="NIST" value="NBS HB 83"/>
 </reference>

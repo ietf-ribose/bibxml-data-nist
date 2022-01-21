@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7734" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7734.pdf">
   <front>
     <title>A machining and measurement process planning activity model for manufacturing system interoperability analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7734"/>
-    <seriesInfo name="NIST" value="NIST IR 7734"/>
-    <author fullname="YaoyaoFiona Zhao" initials="Y.F." surname="Zhao"/>
-    <author fullname="Frederick Proctor" initials="F." surname="Proctor"/>
-    <author fullname="John Horst" initials="J." surname="Horst"/>
+    <author fullname="YaoyaoFiona Zhao" initials="Y.F." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="Frederick Proctor" initials="M" surname="Proctor">
+      <organization/>
+    </author>
+    <author fullname="John Horst" initials="A" surname="Horst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7734"/>
+  <seriesInfo name="NIST" value="NIST IR 7734"/>
 </reference>

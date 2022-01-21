@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.6701" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6701.pdf">
   <front>
     <title>Interferometric metrology of photomask blanks:approaches using 633 nm wavelength</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6701"/>
-    <seriesInfo name="NIST" value="NIST IR 6701"/>
-    <author surname="Evans"/>
-    <author surname="Davies"/>
-    <author surname="Parks"/>
-    <author fullname="L-Z Shao" initials="L." surname="Shao"/>
+    <author initials="CJ" surname="Evans">
+      <organization/>
+    </author>
+    <author initials="AD" surname="Davies">
+      <organization/>
+    </author>
+    <author initials="RE" surname="Parks">
+      <organization/>
+    </author>
+    <author fullname="L-Z Shao" initials="L." surname="Shao">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6701"/>
+  <seriesInfo name="NIST" value="NIST IR 6701"/>
 </reference>

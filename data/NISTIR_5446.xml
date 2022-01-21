@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5446" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5446.pdf">
   <front>
     <title>Integration of servo control into a large-scale control system design:an example from coal mining</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5446"/>
-    <seriesInfo name="NIST" value="NIST IR 5446"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5446"/>
+  <seriesInfo name="NIST" value="NIST IR 5446"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.820" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication820.pdf">
   <front>
     <title>Wind and seismic effects</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.820"/>
-    <seriesInfo name="NIST" value="NIST SP 820"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
-    <author fullname="Noel Raufaste" initials="N." surname="Raufaste"/>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
+    <author fullname="Noel Raufaste" initials="J" surname="Raufaste">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.820"/>
+  <seriesInfo name="NIST" value="NIST SP 820"/>
 </reference>

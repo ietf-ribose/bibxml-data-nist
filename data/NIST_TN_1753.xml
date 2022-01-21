@@ -1,16 +1,26 @@
 <reference anchor="NIST.TN.1753" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1753.pdf">
   <front>
     <title>Model Based Enterprise / Technical Data Package Summit Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1753"/>
-    <seriesInfo name="NIST" value="NIST TN 1753"/>
-    <author fullname="Joshua Lubell" initials="J." surname="Lubell"/>
-    <author fullname="Kenway Chen" initials="K." surname="Chen"/>
-    <author fullname="John Horst" initials="J." surname="Horst"/>
-    <author fullname="Simon Frechette" initials="S." surname="Frechette"/>
-    <author fullname="Paul Huang" initials="P." surname="Huang"/>
+    <author fullname="Joshua Lubell" initials="J." surname="Lubell">
+      <organization/>
+    </author>
+    <author fullname="Kenway Chen" initials="K" surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="John Horst" initials="A" surname="Horst">
+      <organization/>
+    </author>
+    <author fullname="Simon Frechette" initials="P" surname="Frechette">
+      <organization/>
+    </author>
+    <author fullname="Paul Huang" initials="J" surname="Huang">
+      <organization/>
+    </author>
     <author>
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <date year="2012" month="August"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1753"/>
+  <seriesInfo name="NIST" value="NIST TN 1753"/>
 </reference>

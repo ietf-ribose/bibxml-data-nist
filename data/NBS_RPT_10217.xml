@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10217" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10217.pdf">
   <front>
     <title>Report on fire investigation Scholz homes Westview Project, Westview Ohio</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10217"/>
-    <seriesInfo name="NIST" value="NBS RPT 10217"/>
-    <author fullname="Richard Bright" initials="R." surname="Bright"/>
+    <author fullname="Richard Bright" initials="G" surname="Bright">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1970"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10217"/>
+  <seriesInfo name="NIST" value="NBS RPT 10217"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.886" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote886.pdf">
   <front>
     <title>Modification of fluorescent luminaires for energy conservation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.886"/>
-    <seriesInfo name="NIST" value="NIST TN 886"/>
-    <author fullname="Robert Beausoliel" initials="R." surname="Beausoliel"/>
+    <author fullname="Robert Beausoliel" initials="W" surname="Beausoliel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.886"/>
+  <seriesInfo name="NIST" value="NIST TN 886"/>
 </reference>

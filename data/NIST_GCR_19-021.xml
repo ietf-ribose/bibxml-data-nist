@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.19-021" target="https://nvlpubs.nist.gov/nistpubs/gcr/2019/NIST.GCR.19-021.pdf">
   <front>
     <title>Characterization of residential air distribution system performance for thermal comfort</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.19-021"/>
-    <seriesInfo name="NIST" value="NIST GCR 19-021"/>
     <author fullname="Hyojin Kim" initials="H." surname="Kim">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.19-021"/>
+  <seriesInfo name="NIST" value="NIST GCR 19-021"/>
 </reference>

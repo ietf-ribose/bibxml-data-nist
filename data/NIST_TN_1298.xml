@@ -1,14 +1,24 @@
 <reference anchor="NIST.TN.1298" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1298.pdf">
   <front>
     <title>NIST measurement service for DC standard resistors</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1298"/>
-    <seriesInfo name="NIST" value="NIST TN 1298"/>
-    <author surname="Boynton"/>
-    <author fullname="Randolph Elmquist" initials="R." surname="Elmquist"/>
-    <author fullname="Dean Jarrett" initials="D." surname="Jarrett"/>
-    <author fullname="Theodore Moore" initials="T." surname="Moore"/>
-    <author fullname="Jack Neal" initials="J." surname="Neal"/>
-    <author surname="Dziuba"/>
+    <author initials="PA" surname="Boynton">
+      <organization/>
+    </author>
+    <author fullname="Randolph Elmquist" initials="E" surname="Elmquist">
+      <organization/>
+    </author>
+    <author fullname="Dean Jarrett" initials="G" surname="Jarrett">
+      <organization/>
+    </author>
+    <author fullname="Theodore Moore" initials="P" surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="Jack Neal" initials="D" surname="Neal">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Dziuba">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1298"/>
+  <seriesInfo name="NIST" value="NIST TN 1298"/>
 </reference>

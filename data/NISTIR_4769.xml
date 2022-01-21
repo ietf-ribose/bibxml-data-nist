@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.4769" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4769.pdf">
   <front>
     <title>Effect of subsurface conditions on earthquake ground motions</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4769"/>
-    <seriesInfo name="NIST" value="NIST IR 4769"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1993"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4769"/>
+  <seriesInfo name="NIST" value="NIST IR 4769"/>
 </reference>

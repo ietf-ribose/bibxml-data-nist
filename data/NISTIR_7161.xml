@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7161" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7161.pdf">
   <front>
     <title>The role of the U.S. National Innovation System in the development of the PEM stationary fuel cell</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7161"/>
-    <seriesInfo name="NIST" value="NIST IR 7161"/>
-    <author fullname="John Nail" initials="J." surname="Nail"/>
-    <author fullname="Gary Anderson" initials="G." surname="Anderson"/>
-    <author fullname="Gerald Ceasar" initials="G." surname="Ceasar"/>
-    <author fullname="Christopher Hansen" initials="C." surname="Hansen"/>
+    <author fullname="John Nail" initials="M" surname="Nail">
+      <organization/>
+    </author>
+    <author fullname="Gary Anderson" initials="G." surname="Anderson">
+      <organization/>
+    </author>
+    <author fullname="Gerald Ceasar" initials="G." surname="Ceasar">
+      <organization/>
+    </author>
+    <author fullname="Christopher Hansen" initials="J" surname="Hansen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7161"/>
+  <seriesInfo name="NIST" value="NIST IR 7161"/>
 </reference>

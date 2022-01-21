@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.436" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote436.pdf">
   <front>
     <title>Studies of calibration procedures for load cells and proving rings as weighing devices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.436"/>
-    <seriesInfo name="NIST" value="NBS TN 436"/>
-    <author fullname="Gordon Anderson" initials="G." surname="Anderson"/>
+    <author fullname="Gordon Anderson" initials="B" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.436"/>
+  <seriesInfo name="NIST" value="NBS TN 436"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8219" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8219.pdf">
   <front>
     <title>Securing manufacturing industrial control systems:behavioral anomaly detection</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8219"/>
-    <seriesInfo name="NIST" value="NIST IR 8219"/>
     <author fullname="James McCarthy" initials="J." surname="McCarthy">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -42,4 +40,6 @@
     </author>
     <date year="2020" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8219"/>
+  <seriesInfo name="NIST" value="NIST IR 8219"/>
 </reference>

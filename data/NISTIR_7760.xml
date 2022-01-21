@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.7760" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7760.pdf">
   <front>
     <title>Analysis of three different regression models to estimate the ballistic performance of new and environmentally conditioned body armor</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7760"/>
-    <seriesInfo name="NIST" value="NIST IR 7760"/>
     <author fullname="Diane Mauchant" initials="D." surname="Mauchant">
       <organization>Special Programs Office</organization>
     </author>
-    <author fullname="Kirk Rice" initials="K." surname="Rice">
+    <author fullname="Kirk Rice" initials="D" surname="Rice">
       <organization>Special Programs Office</organization>
     </author>
-    <author fullname="Michael Riley" initials="M." surname="Riley">
+    <author fullname="Michael Riley" initials="A" surname="Riley">
       <organization>Special Programs Office</organization>
     </author>
     <author fullname="Dennis Lebber" initials="D." surname="Lebber">
@@ -18,7 +16,7 @@
     <author fullname="Daniel Samarov" initials="D." surname="Samarov">
       <organization>Special Programs Office</organization>
     </author>
-    <author fullname="Amanda Forster" initials="A." surname="Forster">
+    <author fullname="Amanda Forster" initials="L" surname="Forster">
       <organization>Special Programs Office</organization>
     </author>
     <author>
@@ -33,4 +31,6 @@
     </author>
     <date year="2011" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7760"/>
+  <seriesInfo name="NIST" value="NIST IR 7760"/>
 </reference>

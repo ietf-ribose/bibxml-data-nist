@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.703" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication703.pdf">
   <front>
     <title>Private sector product certification programs in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.703"/>
-    <seriesInfo name="NIST" value="NBS SP 703"/>
-    <author fullname="Maureen Breitenberg" initials="M." surname="Breitenberg"/>
+    <author fullname="Maureen Breitenberg" initials="A" surname="Breitenberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.703"/>
+  <seriesInfo name="NIST" value="NBS SP 703"/>
 </reference>

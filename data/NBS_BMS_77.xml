@@ -1,11 +1,15 @@
 <reference anchor="NBS.BMS.77" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures77.pdf">
   <front>
     <title>Properties and performance of fiber tile boards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.77"/>
-    <seriesInfo name="NIST" value="NBS BMS 77"/>
-    <author fullname="Daniel Jessup" initials="D." surname="Jessup"/>
-    <author fullname="Herman Bogaty" initials="H." surname="Bogaty"/>
-    <author fullname="Samuel Weissbert" initials="S." surname="Weissbert"/>
+    <author fullname="Daniel Jessup" initials="A" surname="Jessup">
+      <organization/>
+    </author>
+    <author fullname="Herman Bogaty" initials="H." surname="Bogaty">
+      <organization/>
+    </author>
+    <author fullname="Samuel Weissbert" initials="G" surname="Weissbert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1941"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.77"/>
+  <seriesInfo name="NIST" value="NBS BMS 77"/>
 </reference>

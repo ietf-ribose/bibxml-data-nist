@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.183" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub183.pdf">
   <front>
     <title>Temperature interconversion tables (�C??�F) and melting points of the chemical elements</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.183"/>
-    <seriesInfo name="NIST" value="NBS MP 183"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.183"/>
+  <seriesInfo name="NIST" value="NBS MP 183"/>
 </reference>

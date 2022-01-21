@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4250" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4250.pdf">
   <front>
     <title>Secure data network system (SDNS) network, transport, and message security protocols</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4250"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4250"/>
-    <author fullname="Charles Dinkel" initials="C." surname="Dinkel"/>
+    <author fullname="Charles Dinkel" initials="C." surname="Dinkel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4250"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4250"/>
 </reference>

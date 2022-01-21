@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.500-99" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-99.pdf">
   <front>
     <title>Structured testing</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-99"/>
-    <seriesInfo name="NIST" value="NBS SP 500-99"/>
-    <author fullname="Thomas McCabe" initials="T." surname="McCabe"/>
+    <author fullname="Thomas McCabe" initials="J" surname="McCabe">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-99"/>
+  <seriesInfo name="NIST" value="NBS SP 500-99"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.SP.500-282" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-282.pdf">
   <front>
     <title>Study of proposed internet congestion control mechanisms</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-282"/>
-    <seriesInfo name="NIST" value="NIST SP 500-282"/>
-    <author fullname="Kevin Mills" initials="K." surname="Mills"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
-    <author fullname="DongYeon Cho" initials="D.Y." surname="Cho"/>
-    <author fullname="Edward Schwartz" initials="E." surname="Schwartz"/>
-    <author fullname="Daniel Genin" initials="D." surname="Genin"/>
+    <author fullname="Kevin Mills" initials="L" surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="James Filliben" initials="J" surname="Filliben">
+      <organization/>
+    </author>
+    <author fullname="DongYeon Cho" initials="D.Y." surname="Cho">
+      <organization/>
+    </author>
+    <author fullname="Edward Schwartz" initials="E." surname="Schwartz">
+      <organization/>
+    </author>
+    <author fullname="Daniel Genin" initials="D." surname="Genin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-282"/>
+  <seriesInfo name="NIST" value="NIST SP 500-282"/>
 </reference>

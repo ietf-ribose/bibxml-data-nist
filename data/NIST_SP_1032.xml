@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.1032" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1032.pdf">
   <front>
     <title>Workshop on building occupant movement during fire emergencies, June 10-11, 2004, National Institute of Standards and Technology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1032"/>
-    <seriesInfo name="NIST" value="NIST SP 1032"/>
-    <author fullname="Richard Peacock" initials="R." surname="Peacock"/>
-    <author fullname="Erica Kuligowski" initials="E." surname="Kuligowski"/>
+    <author fullname="Richard Peacock" initials="D" surname="Peacock">
+      <organization/>
+    </author>
+    <author fullname="Erica Kuligowski" initials="D" surname="Kuligowski">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1032"/>
+  <seriesInfo name="NIST" value="NIST SP 1032"/>
 </reference>

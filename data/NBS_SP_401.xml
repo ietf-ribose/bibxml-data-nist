@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.401" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication401.pdf">
   <front>
     <title>Computer performance evaluation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.401"/>
-    <seriesInfo name="NIST" value="NBS SP 401"/>
-    <author fullname="HaroldJoseph Highland" initials="H.J." surname="Highland"/>
+    <author fullname="HaroldJoseph Highland" initials="H.J." surname="Highland">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.401"/>
+  <seriesInfo name="NIST" value="NBS SP 401"/>
 </reference>

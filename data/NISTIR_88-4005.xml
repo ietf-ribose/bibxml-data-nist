@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-4005" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4005.pdf">
   <front>
     <title>Energy related inventions program a joint program of the Department of Energy and National Institute of Standards and Technology- status report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4005"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4005"/>
-    <author surname="Hart"/>
+    <author initials="FL" surname="Hart">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4005"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4005"/>
 </reference>

@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-48r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-48r1.pdf">
   <front>
     <title>Guide to securing legacy IEEE 802.11 wireless networks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-48r1"/>
-    <seriesInfo name="NIST" value="NIST SP 800-48r1"/>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Dicoi">
+    <author initials="D" surname="Dicoi">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Sexton">
+    <author initials="M" surname="Sexton">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Tibbs">
+    <author initials="C" surname="Tibbs">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-48r1"/>
+  <seriesInfo name="NIST" value="NIST SP 800-48r1"/>
 </reference>

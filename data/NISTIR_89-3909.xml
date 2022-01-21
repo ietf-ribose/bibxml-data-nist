@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-3909" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-3909.pdf">
   <front>
     <title>Clutter models for subsurface electromagnetic applications</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3909"/>
-    <seriesInfo name="NIST" value="NIST IR 89-3909"/>
-    <author fullname="David Hill" initials="D." surname="Hill"/>
+    <author fullname="David Hill" initials="A" surname="Hill">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-3909"/>
+  <seriesInfo name="NIST" value="NIST IR 89-3909"/>
 </reference>

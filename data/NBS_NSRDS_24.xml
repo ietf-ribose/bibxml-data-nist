@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.24" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds24.pdf">
   <front>
     <title>Theoretical mean activity coefficients of strong electrolytes in aqueous solutions from 0 to 100 oC</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.24"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 24"/>
-    <author fullname="Walter Hamer" initials="W." surname="Hamer"/>
+    <author fullname="Walter Hamer" initials="J" surname="Hamer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.24"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 24"/>
 </reference>

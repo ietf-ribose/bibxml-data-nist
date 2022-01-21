@@ -1,9 +1,9 @@
 <reference anchor="NBS.HB.117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook117.pdf">
   <front>
     <title>Examination of vapor-measuring devices for liquefied petroleum gas: a manual for weights and measures officials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.117"/>
-    <seriesInfo name="NIST" value="NBS HB 117"/>
-    <author fullname="Stephen Hasko" initials="S." surname="Hasko"/>
+    <author fullname="Stephen Hasko" initials="S." surname="Hasko">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.117"/>
+  <seriesInfo name="NIST" value="NBS HB 117"/>
 </reference>

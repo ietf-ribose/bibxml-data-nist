@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.800-117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-117.pdf">
   <front>
     <title>Guide to adopting and using the Security Content Automation Protocol (SCAP) version 1.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-117"/>
-    <seriesInfo name="NIST" value="NIST SP 800-117"/>
-    <author surname="Quinn">
+    <author initials="SD" surname="Quinn">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Scarfone">
+    <author initials="KA" surname="Scarfone">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Barrett">
+    <author initials="M" surname="Barrett">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Johnson">
+    <author initials="CS" surname="Johnson">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-117"/>
+  <seriesInfo name="NIST" value="NIST SP 800-117"/>
 </reference>

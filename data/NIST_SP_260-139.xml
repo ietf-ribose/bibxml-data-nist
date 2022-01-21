@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-139" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-139.pdf">
   <front>
     <title>Standard Reference Materials :Standard reference material 1750 /</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-139"/>
-    <seriesInfo name="NIST" value="NIST SP 260-139"/>
-    <author surname="Strouse"/>
-    <author surname="Tew"/>
+    <author initials="GF" surname="Strouse">
+      <organization/>
+    </author>
+    <author initials="WL" surname="Tew">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-139"/>
+  <seriesInfo name="NIST" value="NIST SP 260-139"/>
 </reference>

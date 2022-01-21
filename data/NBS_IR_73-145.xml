@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.73-145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-145.pdf">
   <front>
     <title>Study of relationships between activity, reaction, garment parameter patterns and injury severity for fire incidents involving apparel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-145"/>
-    <seriesInfo name="NIST" value="NBS IR 73-145"/>
-    <author fullname="LauraBaker Buchbinder" initials="L.B." surname="Buchbinder"/>
+    <author fullname="LauraBaker Buchbinder" initials="L.B." surname="Buchbinder">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-145"/>
+  <seriesInfo name="NIST" value="NBS IR 73-145"/>
 </reference>

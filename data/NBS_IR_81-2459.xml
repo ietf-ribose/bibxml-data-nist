@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.81-2459" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2459.pdf">
   <front>
     <title>Characterization of porosity in porous polymeric implant materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2459"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2459"/>
-    <author surname="Dehl"/>
-    <author surname="Grant"/>
-    <author surname="Cassel"/>
+    <author initials="RE" surname="Dehl">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Grant">
+      <organization/>
+    </author>
+    <author initials="JM" surname="Cassel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2459"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2459"/>
 </reference>

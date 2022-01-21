@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7755" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7755.pdf">
   <front>
     <title>Toward a preliminary framework for assessing the trustworthiness of software</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7755"/>
-    <seriesInfo name="NIST" value="NIST IR 7755"/>
-    <author fullname="Tim Boland" initials="T." surname="Boland"/>
-    <author fullname="Charline Cleraux" initials="C." surname="Cleraux"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Tim Boland" initials="T." surname="Boland">
+      <organization/>
+    </author>
+    <author fullname="Charline Cleraux" initials="C." surname="Cleraux">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7755"/>
+  <seriesInfo name="NIST" value="NIST IR 7755"/>
 </reference>

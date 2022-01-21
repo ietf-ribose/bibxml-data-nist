@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.118" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience118.pdf">
   <front>
     <title>Extreme wind speeds at 129 stations in the contiguous United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.118"/>
-    <seriesInfo name="NIST" value="NBS BSS 118"/>
-    <author fullname="Emil Simiu" initials="E." surname="Simiu"/>
-    <author fullname="Michael Changery" initials="M." surname="Changery"/>
-    <author fullname="James Filliben" initials="J." surname="Filliben"/>
+    <author fullname="Emil Simiu" initials="E." surname="Simiu">
+      <organization/>
+    </author>
+    <author fullname="Michael Changery" initials="J" surname="Changery">
+      <organization/>
+    </author>
+    <author fullname="James Filliben" initials="J" surname="Filliben">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.118"/>
+  <seriesInfo name="NIST" value="NBS BSS 118"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.88-3867" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3867.pdf">
   <front>
     <title>Report on cabling Navy bases for voice, data and video- appendix A:premises wiring plan for data, voice and video</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3867"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3867"/>
-    <author surname="Burr"/>
-    <author surname="Koenig"/>
+    <author initials="WE" surname="Burr">
+      <organization/>
+    </author>
+    <author initials="AL" surname="Koenig">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3867"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3867"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.400-82" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication400-82.pdf">
   <front>
     <title>Database for and statistical analysisof the interlaboratory determination of the conversion coefficient for the measurement of the interstitial oxygen content of silicon by infrared absorption</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.400-82"/>
-    <seriesInfo name="NIST" value="NIST SP 400-82"/>
-    <author fullname="Aslan Baghdadi" initials="A." surname="Baghdadi"/>
-    <author fullname="Robert Scace" initials="R." surname="Scace"/>
-    <author fullname="Jane Walters" initials="J." surname="Walters"/>
+    <author fullname="Aslan Baghdadi" initials="A." surname="Baghdadi">
+      <organization/>
+    </author>
+    <author fullname="Robert Scace" initials="I" surname="Scace">
+      <organization/>
+    </author>
+    <author fullname="Jane Walters" initials="E" surname="Walters">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.400-82"/>
+  <seriesInfo name="NIST" value="NIST SP 400-82"/>
 </reference>

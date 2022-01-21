@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4127" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4127.pdf">
   <front>
     <title>Proposed ASTM standard test method for elevated temperature flexural strength, creep strain, and creep time to failure for advanced ceramics</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4127"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4127"/>
-    <author fullname="RalphJr Krause" initials="R.J." surname="Krause"/>
+    <author fullname="RalphJr Krause" initials="F" surname="Krause">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4127"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4127"/>
 </reference>

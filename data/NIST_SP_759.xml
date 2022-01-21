@@ -1,12 +1,18 @@
 <reference anchor="NIST.SP.759" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication759.pdf">
   <front>
     <title>High-temperature superconductivity</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.759"/>
-    <seriesInfo name="NIST" value="NIST SP 759"/>
-    <author fullname="Mary DeWeese" initials="M." surname="DeWeese"/>
-    <author fullname="Mary DeWeese" initials="M." surname="DeWeese"/>
-    <author fullname="Robert Kamper" initials="R." surname="Kamper"/>
-    <author fullname="Ronald Powell" initials="R." surname="Powell"/>
+    <author fullname="Mary DeWeese" initials="E" surname="DeWeese">
+      <organization/>
+    </author>
+    <author fullname="Mary DeWeese" initials="E" surname="DeWeese">
+      <organization/>
+    </author>
+    <author fullname="Robert Kamper" initials="A" surname="Kamper">
+      <organization/>
+    </author>
+    <author fullname="Ronald Powell" initials="M" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.759"/>
+  <seriesInfo name="NIST" value="NIST SP 759"/>
 </reference>

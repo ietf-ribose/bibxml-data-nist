@@ -1,9 +1,7 @@
 <reference anchor="NBS.IRPL.26" target="https://nvlpubs.nist.gov/nistpubs/Legacy/irpl/irpl-r26.pdf">
   <front>
     <title>The ionosphere as a measure of solar activity</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IRPL.26"/>
-    <seriesInfo name="NIST" value="NBS IRPL 26"/>
-    <author surname="Phillips">
+    <author initials="ML" surname="Phillips">
       <organization>Interservice Radio Propagation Laboratory.</organization>
     </author>
     <author>
@@ -18,4 +16,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IRPL.26"/>
+  <seriesInfo name="NIST" value="NBS IRPL 26"/>
 </reference>

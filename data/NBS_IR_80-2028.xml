@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-2028" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2028.pdf">
   <front>
     <title>Information and guidelines for a proposed laboratory accreditation and product certification program for photovoltaic energy conversion systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2028"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2028"/>
-    <author fullname="Douglas Thomas" initials="D." surname="Thomas"/>
+    <author fullname="Douglas Thomas" initials="B" surname="Thomas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2028"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2028"/>
 </reference>

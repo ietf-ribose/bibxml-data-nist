@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.28" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub28.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: standardization of data elements and representations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.28"/>
-    <seriesInfo name="NIST" value="NBS FIPS 28"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.28"/>
+  <seriesInfo name="NIST" value="NBS FIPS 28"/>
 </reference>

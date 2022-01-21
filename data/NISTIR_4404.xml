@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4404" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4404.pdf">
   <front>
     <title>Dynamic characteristics of hypertext</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4404"/>
-    <seriesInfo name="NIST" value="NIST IR 4404"/>
-    <author fullname="Richard Furuta" initials="R." surname="Furuta"/>
-    <author fullname="David Stotts" initials="D." surname="Stotts"/>
+    <author fullname="Richard Furuta" initials="R." surname="Furuta">
+      <organization/>
+    </author>
+    <author fullname="David Stotts" initials="P" surname="Stotts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4404"/>
+  <seriesInfo name="NIST" value="NIST IR 4404"/>
 </reference>

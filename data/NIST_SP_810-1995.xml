@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.810-1995" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication810-1995.pdf">
   <front>
     <title>National Voluntary Laboratory Accreditation Program 1995 directory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.810-1995"/>
-    <seriesInfo name="NIST" value="NIST SP 810-1995"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
-    <author fullname="Channing Monti" initials="C." surname="Monti"/>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Channing Monti" initials="L" surname="Monti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.810-1995"/>
+  <seriesInfo name="NIST" value="NIST SP 810-1995"/>
 </reference>

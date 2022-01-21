@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1674" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1674.pdf">
   <front>
     <title>Fabrication, characterization and flammability testing of carbon nanofiber layer-by-layer coated polyurethane foam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1674"/>
-    <seriesInfo name="NIST" value="NIST TN 1674"/>
     <author fullname="Rick Davis" initials="R." surname="Davis">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2010" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1674"/>
+  <seriesInfo name="NIST" value="NIST TN 1674"/>
 </reference>

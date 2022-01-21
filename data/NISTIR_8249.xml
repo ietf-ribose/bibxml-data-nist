@@ -1,15 +1,13 @@
 <reference anchor="NIST.IR.8249" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8249.pdf">
   <front>
     <title>Health assessment measurements quality assurance program:exercise 2 final report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8249"/>
-    <seriesInfo name="NIST" value="NIST IR 8249"/>
-    <author fullname="Charles Barber" initials="C." surname="Barber">
+    <author fullname="Charles Barber" initials="A" surname="Barber">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jeanice Brown Thomas" initials="J." surname="Brown Thomas">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Carolyn Burdette" initials="C." surname="Burdette">
+    <author fullname="Carolyn Burdette" initials="Q" surname="Burdette">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Johanna Camara" initials="J." surname="Camara">
@@ -18,16 +16,16 @@
     <author fullname="Stephen Long" initials="S." surname="Long">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Melissa Phillips" initials="M." surname="Phillips">
+    <author fullname="Melissa Phillips" initials="M" surname="Phillips">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Benjamin Place" initials="B." surname="Place">
+    <author fullname="Benjamin Place" initials="J" surname="Place">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Catherine Rimmer" initials="C." surname="Rimmer">
+    <author fullname="Catherine Rimmer" initials="A" surname="Rimmer">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Laura Wood" initials="L." surname="Wood">
+    <author fullname="Laura Wood" initials="J" surname="Wood">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Lee Yu" initials="L." surname="Yu">
@@ -45,4 +43,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8249"/>
+  <seriesInfo name="NIST" value="NIST IR 8249"/>
 </reference>

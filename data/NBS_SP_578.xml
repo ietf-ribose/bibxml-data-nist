@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.578" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication578.pdf">
   <front>
     <title>A catalog of data compilations on photochemical and photophysical processes in solution</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.578"/>
-    <seriesInfo name="NIST" value="NBS SP 578"/>
-    <author fullname="James Brummer" initials="J." surname="Brummer"/>
-    <author fullname="Phillip Helman" initials="P." surname="Helman"/>
-    <author fullname="Alberta Ross" initials="A." surname="Ross"/>
+    <author fullname="James Brummer" initials="G" surname="Brummer">
+      <organization/>
+    </author>
+    <author fullname="Phillip Helman" initials="W" surname="Helman">
+      <organization/>
+    </author>
+    <author fullname="Alberta Ross" initials="B" surname="Ross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.578"/>
+  <seriesInfo name="NIST" value="NBS SP 578"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.1143" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1143.pdf">
   <front>
     <title>NIST Center for Neutron Research 2012 Accomplishments and Opportunities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1143"/>
-    <seriesInfo name="NIST" value="NIST SP 1143"/>
-    <author fullname="Robert Dimeo" initials="R." surname="Dimeo">
+    <author fullname="Robert Dimeo" initials="M" surname="Dimeo">
       <organization>Materials Measurement Laboratory</organization>
     </author>
-    <author fullname="Ronald Cappalletti" initials="R." surname="Cappalletti">
+    <author fullname="Ronald Cappalletti" initials="L" surname="Cappalletti">
       <organization>Materials Measurement Laboratory</organization>
     </author>
     <author fullname="Patrick Gallagher" initials="P." surname="Gallagher">
@@ -20,4 +18,6 @@
     </author>
     <date year="2012" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1143"/>
+  <seriesInfo name="NIST" value="NIST SP 1143"/>
 </reference>

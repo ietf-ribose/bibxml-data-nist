@@ -1,18 +1,16 @@
 <reference anchor="NIST.SP.1200-13" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-13.pdf">
   <front>
     <title>Measuring silver nanoparticle dissolution in complex biological and environmental matrices using UV/visible absorbance measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-13"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-13"/>
-    <author fullname="Justin Zook" initials="J." surname="Zook">
+    <author fullname="Justin Zook" initials="M" surname="Zook">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Robert MacCuspie" initials="R." surname="MacCuspie">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Stephen Long" initials="S." surname="Long">
+    <author fullname="Stephen Long" initials="E" surname="Long">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Elijah Petersen" initials="E." surname="Petersen">
+    <author fullname="Elijah Petersen" initials="J" surname="Petersen">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-13"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-13"/>
 </reference>

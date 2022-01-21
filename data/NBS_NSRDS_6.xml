@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.6" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds6.pdf">
   <front>
     <title>Tables of molecular vibrational frequencies, part 1</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.6"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 6"/>
-    <author fullname="Takehiko Shimanouchi" initials="T." surname="Shimanouchi"/>
+    <author fullname="Takehiko Shimanouchi" initials="T." surname="Shimanouchi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.6"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 6"/>
 </reference>

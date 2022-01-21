@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-3907" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3907.pdf">
   <front>
     <title>Center for Chemical Technology :1988 technical activities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3907"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3907"/>
-    <author fullname="Jesse Hord" initials="J." surname="Hord"/>
+    <author fullname="Jesse Hord" initials="J." surname="Hord">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3907"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3907"/>
 </reference>

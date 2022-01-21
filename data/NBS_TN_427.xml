@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.427" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote427.pdf">
   <front>
     <title>Organic chemistry:air pollution studies, characterisation of chemical structures, synthesis of research materials, novel research materials, isotopic methods for analysis of carbohydrates, occurrence preparation and properties of naturally occuring monos</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.427"/>
-    <seriesInfo name="NIST" value="NBS TN 427"/>
-    <author fullname="Robert Schaffer" initials="R." surname="Schaffer"/>
+    <author fullname="Robert Schaffer" initials="R." surname="Schaffer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.427"/>
+  <seriesInfo name="NIST" value="NBS TN 427"/>
 </reference>

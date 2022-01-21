@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.916" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote916.pdf">
   <front>
     <title>Software exchange directory for university research administration</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.916"/>
-    <seriesInfo name="NIST" value="NBS TN 916"/>
-    <author fullname="Zella Ruthberg" initials="Z." surname="Ruthberg"/>
+    <author fullname="Zella Ruthberg" initials="G" surname="Ruthberg">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.916"/>
+  <seriesInfo name="NIST" value="NBS TN 916"/>
 </reference>

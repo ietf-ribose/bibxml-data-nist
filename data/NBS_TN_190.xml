@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.190" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote190.pdf">
   <front>
     <title>Impedance of commercial Leclanch*e dry cells and batteries</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.190"/>
-    <seriesInfo name="NIST" value="NBS TN 190"/>
-    <author surname="Brodd"/>
+    <author initials="RJ" surname="Brodd">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1963"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.190"/>
+  <seriesInfo name="NIST" value="NBS TN 190"/>
 </reference>

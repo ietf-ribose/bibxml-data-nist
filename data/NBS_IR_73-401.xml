@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.73-401" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-401.pdf">
   <front>
     <title>Performance of coated steel reinforcement in concrete. part 1. investigation of bond in pullout specimens</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-401"/>
-    <seriesInfo name="NIST" value="NBS IR 73-401"/>
-    <author fullname="Robert Mathey" initials="R." surname="Mathey"/>
-    <author fullname="James Clifton" initials="J." surname="Clifton"/>
-    <author fullname="Erik Anderson" initials="E." surname="Anderson"/>
-    <author fullname="Hugh Beeghly" initials="H." surname="Beeghly"/>
+    <author fullname="Robert Mathey" initials="G" surname="Mathey">
+      <organization/>
+    </author>
+    <author fullname="James Clifton" initials="R" surname="Clifton">
+      <organization/>
+    </author>
+    <author fullname="Erik Anderson" initials="D" surname="Anderson">
+      <organization/>
+    </author>
+    <author fullname="Hugh Beeghly" initials="F" surname="Beeghly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-401"/>
+  <seriesInfo name="NIST" value="NBS IR 73-401"/>
 </reference>

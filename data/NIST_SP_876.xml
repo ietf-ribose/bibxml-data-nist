@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.876" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication876.pdf">
   <front>
     <title>Boundary lubrication of silicon nitride</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.876"/>
-    <seriesInfo name="NIST" value="NIST SP 876"/>
-    <author fullname="Richard Gates" initials="R." surname="Gates"/>
-    <author fullname="Richard Gates" initials="R." surname="Gates"/>
-    <author fullname="Stephen Hsu" initials="S." surname="Hsu"/>
+    <author fullname="Richard Gates" initials="S" surname="Gates">
+      <organization/>
+    </author>
+    <author fullname="Richard Gates" initials="S" surname="Gates">
+      <organization/>
+    </author>
+    <author fullname="Stephen Hsu" initials="M" surname="Hsu">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.876"/>
+  <seriesInfo name="NIST" value="NIST SP 876"/>
 </reference>

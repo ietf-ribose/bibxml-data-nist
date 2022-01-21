@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5361" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5361.pdf">
   <front>
     <title>Sulfate diffusion in concrete</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5361"/>
-    <seriesInfo name="NIST" value="NIST IR 5361"/>
-    <author fullname="James Ponnersheim" initials="J." surname="Ponnersheim"/>
+    <author fullname="James Ponnersheim" initials="M" surname="Ponnersheim">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5361"/>
+  <seriesInfo name="NIST" value="NIST IR 5361"/>
 </reference>

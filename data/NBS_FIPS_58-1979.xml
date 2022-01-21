@@ -1,8 +1,6 @@
 <reference anchor="NBS.FIPS.58-1979" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub58-1979.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: representations of local time of the day for information interchange</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.FIPS.58-1979"/>
-    <seriesInfo name="NIST" value="NBS FIPS 58-1979"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.FIPS.58-1979"/>
+  <seriesInfo name="NIST" value="NBS FIPS 58-1979"/>
 </reference>

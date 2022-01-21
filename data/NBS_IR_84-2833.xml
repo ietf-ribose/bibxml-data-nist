@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.84-2833" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2833.pdf">
   <front>
     <title>Data requirements for the seismic review of LNG facilities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2833"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2833"/>
-    <author fullname="William Kovacs" initials="W." surname="Kovacs"/>
-    <author fullname="John Leiss" initials="J." surname="Leiss"/>
-    <author fullname="Lonnie Lister" initials="L." surname="Lister"/>
+    <author fullname="William Kovacs" initials="D" surname="Kovacs">
+      <organization/>
+    </author>
+    <author fullname="John Leiss" initials="S" surname="Leiss">
+      <organization/>
+    </author>
+    <author fullname="Lonnie Lister" initials="A" surname="Lister">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2833"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2833"/>
 </reference>

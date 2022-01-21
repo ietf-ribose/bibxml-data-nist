@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.80-2171" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2171.pdf">
   <front>
     <title>Selected methods for condition assessment of structural, HVAC, plumbing and electrical systems in existing buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2171"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2171"/>
-    <author fullname="Frank Lerchen" initials="F." surname="Lerchen"/>
-    <author fullname="James Pielert" initials="J." surname="Pielert"/>
-    <author fullname="Thomas Faison" initials="T." surname="Faison"/>
+    <author fullname="Frank Lerchen" initials="H" surname="Lerchen">
+      <organization/>
+    </author>
+    <author fullname="James Pielert" initials="H" surname="Pielert">
+      <organization/>
+    </author>
+    <author fullname="Thomas Faison" initials="K" surname="Faison">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2171"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2171"/>
 </reference>

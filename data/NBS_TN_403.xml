@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.403" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote403.pdf">
   <front>
     <title>Microchemical analysis section:summary of activities July 1965 to June 1966.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.403"/>
-    <seriesInfo name="NIST" value="NBS TN 403"/>
-    <author fullname="John Taylor" initials="J." surname="Taylor"/>
+    <author fullname="John Taylor" initials="K" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.403"/>
+  <seriesInfo name="NIST" value="NBS TN 403"/>
 </reference>

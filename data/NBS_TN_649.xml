@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.649" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote649.pdf">
   <front>
     <title>The standards of time and frequency in the U.S. A.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.649"/>
-    <seriesInfo name="NIST" value="NBS TN 649"/>
-    <author fullname="James Barnes" initials="J." surname="Barnes"/>
+    <author fullname="James Barnes" initials="A" surname="Barnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.649"/>
+  <seriesInfo name="NIST" value="NBS TN 649"/>
 </reference>

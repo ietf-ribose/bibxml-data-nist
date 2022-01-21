@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.305supp22" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication305supp22.pdf">
   <front>
     <title>Publications of the National Institute of Standards and Technology 1990 Catalog</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.305supp22"/>
-    <seriesInfo name="NIST" value="NIST SP 305supp22"/>
-    <author fullname="Ernestine Gladden" initials="E." surname="Gladden"/>
-    <author fullname="Ernestine Gladden" initials="E." surname="Gladden"/>
+    <author fullname="Ernestine Gladden" initials="T" surname="Gladden">
+      <organization/>
+    </author>
+    <author fullname="Ernestine Gladden" initials="T" surname="Gladden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.305supp22"/>
+  <seriesInfo name="NIST" value="NIST SP 305supp22"/>
 </reference>

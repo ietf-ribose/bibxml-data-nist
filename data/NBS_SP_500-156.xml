@@ -1,12 +1,18 @@
 <reference anchor="NBS.SP.500-156" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-156.pdf">
   <front>
     <title>Message authentication code (MAC) validation system</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-156"/>
-    <seriesInfo name="NIST" value="NBS SP 500-156"/>
-    <author fullname="Miles Smid" initials="M." surname="Smid"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker"/>
-    <author fullname="David Balenson" initials="D." surname="Balenson"/>
-    <author fullname="Martha Haykin" initials="M." surname="Haykin"/>
+    <author fullname="Miles Smid" initials="E" surname="Smid">
+      <organization/>
+    </author>
+    <author fullname="Elaine Barker" initials="E." surname="Barker">
+      <organization/>
+    </author>
+    <author fullname="David Balenson" initials="D." surname="Balenson">
+      <organization/>
+    </author>
+    <author fullname="Martha Haykin" initials="M." surname="Haykin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-156"/>
+  <seriesInfo name="NIST" value="NBS SP 500-156"/>
 </reference>

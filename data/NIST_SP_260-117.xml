@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.260-117" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-117.pdf">
   <front>
     <title>Standard Reference Materials :Antireflecting-chromium linewidth standard, SRM 475, for calibration of optical microscope linewidth measuring systems/</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-117"/>
-    <seriesInfo name="NIST" value="NIST SP 260-117"/>
-    <author fullname="Ruth Varner" initials="R." surname="Varner"/>
-    <author fullname="Carol Vezzetti" initials="C." surname="Vezzetti"/>
+    <author fullname="Ruth Varner" initials="N" surname="Varner">
+      <organization/>
+    </author>
+    <author fullname="Carol Vezzetti" initials="F" surname="Vezzetti">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-117"/>
+  <seriesInfo name="NIST" value="NIST SP 260-117"/>
 </reference>

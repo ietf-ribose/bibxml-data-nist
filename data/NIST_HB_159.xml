@@ -1,8 +1,6 @@
 <reference anchor="NIST.HB.159" target="https://nvlpubs.nist.gov/nistpubs/hb/2016/NIST.HB.159.pdf">
   <front>
     <title>Examination of Grain Moisture Meters Using Air-oven Reference Method Transfer Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.HB.159"/>
-    <seriesInfo name="NIST" value="NIST HB 159"/>
     <author fullname="GloriaDiane Lee" initials="G.D." surname="Lee">
       <organization>Physical Measurement Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.HB.159"/>
+  <seriesInfo name="NIST" value="NIST HB 159"/>
 </reference>

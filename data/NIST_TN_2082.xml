@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2082" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2082.pdf">
   <front>
     <title>The structure of medium-scale pool fires</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2082"/>
-    <seriesInfo name="NIST" value="NIST TN 2082"/>
     <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2020" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2082"/>
+  <seriesInfo name="NIST" value="NIST TN 2082"/>
 </reference>

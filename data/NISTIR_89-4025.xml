@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.89-4025" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4025.pdf">
   <front>
     <title>Technical activities 1988- Surface Science Division</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4025"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4025"/>
-    <author surname="Powell"/>
+    <author initials="CJ" surname="Powell">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4025"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4025"/>
 </reference>

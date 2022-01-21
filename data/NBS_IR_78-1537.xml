@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.78-1537" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1537.pdf">
   <front>
     <title>An exploratory study of dielectric breakdown voltages for residential wiring</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1537"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1537"/>
-    <author fullname="JoseEduardo Raduan" initials="J.E." surname="Raduan"/>
-    <author fullname="Robert Beausoliel" initials="R." surname="Beausoliel"/>
-    <author fullname="William Meese" initials="W." surname="Meese"/>
+    <author fullname="JoseEduardo Raduan" initials="V" surname="Raduan">
+      <organization/>
+    </author>
+    <author fullname="Robert Beausoliel" initials="W" surname="Beausoliel">
+      <organization/>
+    </author>
+    <author fullname="William Meese" initials="J" surname="Meese">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1537"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1537"/>
 </reference>

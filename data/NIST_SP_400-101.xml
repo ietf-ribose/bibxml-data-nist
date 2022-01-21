@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.400-101" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication400-101.pdf">
   <front>
     <title>Workshop on mass flow measurement and control for the semiconductor industry</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.400-101"/>
-    <seriesInfo name="NIST" value="NIST SP 400-101"/>
-    <author fullname="Robert Berg" initials="R." surname="Berg"/>
-    <author fullname="David Green" initials="D." surname="Green"/>
-    <author fullname="George Mattingly" initials="G." surname="Mattingly"/>
+    <author fullname="Robert Berg" initials="F" surname="Berg">
+      <organization/>
+    </author>
+    <author fullname="David Green" initials="S" surname="Green">
+      <organization/>
+    </author>
+    <author fullname="George Mattingly" initials="E" surname="Mattingly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.400-101"/>
+  <seriesInfo name="NIST" value="NIST SP 400-101"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.76-831" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-831.pdf">
   <front>
     <title>Liquefied natural gas research at the National Bureau of Standards :progress report for the period 1 July</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-831"/>
-    <seriesInfo name="NIST" value="NBS IR 76-831"/>
-    <author surname="Mann"/>
+    <author initials="DB" surname="Mann">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-831"/>
+  <seriesInfo name="NIST" value="NBS IR 76-831"/>
 </reference>

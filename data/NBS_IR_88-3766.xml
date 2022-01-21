@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.88-3766" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3766.pdf">
   <front>
     <title>Operations manual for the inspection workstation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3766"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3766"/>
-    <author fullname="Howard Moncarz" initials="H." surname="Moncarz"/>
-    <author fullname="Stephen Osella" initials="S." surname="Osella"/>
-    <author fullname="Bruce Borchardt" initials="B." surname="Borchardt"/>
-    <author fullname="Ralph Veale" initials="R." surname="Veale"/>
+    <author fullname="Howard Moncarz" initials="T" surname="Moncarz">
+      <organization/>
+    </author>
+    <author fullname="Stephen Osella" initials="A" surname="Osella">
+      <organization/>
+    </author>
+    <author fullname="Bruce Borchardt" initials="B." surname="Borchardt">
+      <organization/>
+    </author>
+    <author fullname="Ralph Veale" initials="R." surname="Veale">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3766"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3766"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.BSS.46" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience46.pdf">
   <front>
     <title>Building practices for disaster mitigation :proceedings of a workshop sponsored by the National Science Foundation, Research Applied to National Needs Program and the National Bureau of Standards</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.46"/>
-    <seriesInfo name="NIST" value="NBS BSS 46"/>
-    <author fullname="Richard Wright" initials="R." surname="Wright"/>
-    <author fullname="Samuel Kramer" initials="S." surname="Kramer"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
+    <author fullname="Richard Wright" initials="R." surname="Wright">
+      <organization/>
+    </author>
+    <author fullname="Samuel Kramer" initials="S." surname="Kramer">
+      <organization/>
+    </author>
+    <author fullname="Charles Culver" initials="C." surname="Culver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.46"/>
+  <seriesInfo name="NIST" value="NBS BSS 46"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.88-3796" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3796.pdf">
   <front>
     <title>Literature review of strengthening methodologies of existing structures</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3796"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3796"/>
-    <author fullname="Long Phan" initials="L." surname="Phan"/>
-    <author surname="Lew"/>
-    <author fullname="Mark Johnson" initials="M." surname="Johnson"/>
+    <author fullname="Long Phan" initials="T" surname="Phan">
+      <organization/>
+    </author>
+    <author initials="HS" surname="Lew">
+      <organization/>
+    </author>
+    <author fullname="Mark Johnson" initials="K" surname="Johnson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3796"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3796"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6062" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6062.pdf">
   <front>
     <title>Annual report, technical activities 1997</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6062"/>
-    <seriesInfo name="NIST" value="NIST IR 6062"/>
-    <author surname="Hall"/>
-    <author surname="Dapkunas"/>
+    <author initials="DE" surname="Hall">
+      <organization/>
+    </author>
+    <author initials="SJ" surname="Dapkunas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6062"/>
+  <seriesInfo name="NIST" value="NIST IR 6062"/>
 </reference>

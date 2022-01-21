@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6966" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6966.pdf">
   <front>
     <title>Viewing technologies for CAD models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6966"/>
-    <seriesInfo name="NIST" value="NIST IR 6966"/>
-    <author fullname="MichellePotts Steves" initials="M.P." surname="Steves"/>
-    <author fullname="Simon Frechette" initials="S." surname="Frechette"/>
+    <author fullname="MichellePotts Steves" initials="M.P." surname="Steves">
+      <organization/>
+    </author>
+    <author fullname="Simon Frechette" initials="S." surname="Frechette">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6966"/>
+  <seriesInfo name="NIST" value="NIST IR 6966"/>
 </reference>

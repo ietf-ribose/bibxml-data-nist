@@ -1,10 +1,12 @@
 <reference anchor="NIST.BSS.174" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nistbuildingscience174.pdf">
   <front>
     <title>Extreme distribution tails :a 'peaks over threshold' approach</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.BSS.174"/>
-    <seriesInfo name="NIST" value="NIST BSS 174"/>
-    <author surname="Simiu"/>
-    <author surname="Heckert"/>
+    <author initials="E" surname="Simiu">
+      <organization/>
+    </author>
+    <author initials="NA" surname="Heckert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.BSS.174"/>
+  <seriesInfo name="NIST" value="NIST BSS 174"/>
 </reference>

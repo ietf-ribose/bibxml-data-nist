@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.79-1724" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1724.pdf">
   <front>
     <title>Selecting rail properties for improvement :a plan for analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1724"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1724"/>
-    <author surname="Schofer"/>
-    <author surname="Gilsinn"/>
-    <author surname="Hall"/>
-    <author surname="Johnson"/>
-    <author surname="McLynn"/>
-    <author surname="Watkins"/>
+    <author initials="RE" surname="Schofer">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author initials="WG" surname="Hall">
+      <organization/>
+    </author>
+    <author initials="CR" surname="Johnson">
+      <organization/>
+    </author>
+    <author initials="JM" surname="McLynn">
+      <organization/>
+    </author>
+    <author initials="RH" surname="Watkins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1724"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1724"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8271" target="https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8271.pdf">
   <front>
     <title>Face Recognition Vendor Test (FRVT) part 2 :identification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8271"/>
-    <seriesInfo name="NIST" value="NIST IR 8271"/>
     <author fullname="Patrick Grother" initials="P." surname="Grother">
       <organization>Information Technology Laboratory.</organization>
     </author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8271"/>
+  <seriesInfo name="NIST" value="NIST IR 8271"/>
 </reference>

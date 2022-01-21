@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1800-25" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-25.pdf">
   <front>
     <title>Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-25"/>
-    <seriesInfo name="NIST" value="NIST SP 1800-25"/>
     <author fullname="Jennifer Cawthra" initials="J." surname="Cawthra">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="December" day="7"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-25"/>
+  <seriesInfo name="NIST" value="NIST SP 1800-25"/>
 </reference>

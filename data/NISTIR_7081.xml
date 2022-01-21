@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7081" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7081.pdf">
   <front>
     <title>Analysis of pool fires in large multi-level halls with the CFAST and FDS fire codes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7081"/>
-    <seriesInfo name="NIST" value="NIST IR 7081"/>
-    <author fullname="Monideep Dey" initials="M." surname="Dey"/>
+    <author fullname="Monideep Dey" initials="M." surname="Dey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7081"/>
+  <seriesInfo name="NIST" value="NIST IR 7081"/>
 </reference>

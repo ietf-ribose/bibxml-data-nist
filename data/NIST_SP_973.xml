@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.973" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication973.pdf">
   <front>
     <title>Eleventh International conference on Computer Technology in Welding</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.973"/>
-    <seriesInfo name="NIST" value="NIST SP 973"/>
-    <author surname="Siewert"/>
-    <author surname="Siewert"/>
-    <author surname="Pollock"/>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="TA" surname="Siewert">
+      <organization/>
+    </author>
+    <author initials="C" surname="Pollock">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.973"/>
+  <seriesInfo name="NIST" value="NIST SP 973"/>
 </reference>

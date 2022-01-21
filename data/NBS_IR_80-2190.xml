@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.80-2190" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-2190.pdf">
   <front>
     <title>Characterizing the interfiber bonding of currency paper pulps</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2190"/>
-    <seriesInfo name="NIST" value="NBS IR 80-2190"/>
-    <author surname="Smith"/>
-    <author surname="Toth"/>
+    <author initials="JC" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Toth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-2190"/>
+  <seriesInfo name="NIST" value="NBS IR 80-2190"/>
 </reference>

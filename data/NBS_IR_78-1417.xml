@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.78-1417" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-1417.pdf">
   <front>
     <title>An evaluation of wood pulp paper durability</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1417"/>
-    <seriesInfo name="NIST" value="NBS IR 78-1417"/>
-    <author surname="Gramindki"/>
-    <author surname="Toth"/>
+    <author initials="EL" surname="Gramindki">
+      <organization/>
+    </author>
+    <author initials="EE" surname="Toth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-1417"/>
+  <seriesInfo name="NIST" value="NBS IR 78-1417"/>
 </reference>

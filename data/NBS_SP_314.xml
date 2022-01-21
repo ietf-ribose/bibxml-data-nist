@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.314" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication314.pdf">
   <front>
     <title>Ion-selective electrodes</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.314"/>
-    <seriesInfo name="NIST" value="NBS SP 314"/>
-    <author fullname="Richard Durst" initials="R." surname="Durst"/>
+    <author fullname="Richard Durst" initials="A" surname="Durst">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.314"/>
+  <seriesInfo name="NIST" value="NBS SP 314"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.599" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote599.pdf">
   <front>
     <title>A survey of selected document processing systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.599"/>
-    <seriesInfo name="NIST" value="NBS TN 599"/>
-    <author fullname="Elizabeth Fong" initials="E." surname="Fong"/>
+    <author fullname="Elizabeth Fong" initials="E." surname="Fong">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.599"/>
+  <seriesInfo name="NIST" value="NBS TN 599"/>
 </reference>

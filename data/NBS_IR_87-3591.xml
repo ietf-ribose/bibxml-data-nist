@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.87-3591" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir87-3591.pdf">
   <front>
     <title>EXITT- a simulation model of occupant decisions and actions in residential fires :users guide and program description</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3591"/>
-    <seriesInfo name="NIST" value="NBS IR 87-3591"/>
-    <author fullname="Bernard Levin" initials="B." surname="Levin"/>
+    <author fullname="Bernard Levin" initials="M" surname="Levin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.87-3591"/>
+  <seriesInfo name="NIST" value="NBS IR 87-3591"/>
 </reference>

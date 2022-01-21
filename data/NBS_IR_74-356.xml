@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-356" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-356.pdf">
   <front>
     <title>Repeaters for law enforcement communication systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-356"/>
-    <seriesInfo name="NIST" value="NBS IR 74-356"/>
-    <author surname="Jickling"/>
-    <author surname="Shafer"/>
+    <author initials="RM" surname="Jickling">
+      <organization/>
+    </author>
+    <author initials="JF" surname="Shafer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-356"/>
+  <seriesInfo name="NIST" value="NBS IR 74-356"/>
 </reference>

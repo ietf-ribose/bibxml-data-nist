@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.663" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication663.pdf">
   <front>
     <title>68th National Conference on Weights and Measures 1983</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.663"/>
-    <seriesInfo name="NIST" value="NBS SP 663"/>
-    <author fullname="Albert Tholen" initials="A." surname="Tholen"/>
-    <author fullname="Louis Barbrow" initials="L." surname="Barbrow"/>
-    <author fullname="Ann Heffernan" initials="A." surname="Heffernan"/>
+    <author fullname="Albert Tholen" initials="D" surname="Tholen">
+      <organization/>
+    </author>
+    <author fullname="Louis Barbrow" initials="E" surname="Barbrow">
+      <organization/>
+    </author>
+    <author fullname="Ann Heffernan" initials="P" surname="Heffernan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.663"/>
+  <seriesInfo name="NIST" value="NBS SP 663"/>
 </reference>

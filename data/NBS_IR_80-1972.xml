@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.80-1972" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir80-1972.pdf">
   <front>
     <title>Needs and opportunities in metrology of the Instituto de Pesquisas Technologicas for effective support of Brazilian industry</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1972"/>
-    <seriesInfo name="NIST" value="NBS IR 80-1972"/>
-    <author fullname="Robert Huntoon" initials="R." surname="Huntoon"/>
+    <author fullname="Robert Huntoon" initials="D" surname="Huntoon">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1980"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.80-1972"/>
+  <seriesInfo name="NIST" value="NBS IR 80-1972"/>
 </reference>

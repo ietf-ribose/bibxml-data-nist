@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.90-4280" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4280.pdf">
   <front>
     <title>Directory of NVLAP accredited laboratories</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4280"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4280"/>
-    <author fullname="Nancy Trahey" initials="N." surname="Trahey"/>
-    <author fullname="Jeffery Horlick" initials="J." surname="Horlick"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
+    <author fullname="Nancy Trahey" initials="M" surname="Trahey">
+      <organization/>
+    </author>
+    <author fullname="Jeffery Horlick" initials="J." surname="Horlick">
+      <organization/>
+    </author>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4280"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4280"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1200-11" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-11.pdf">
   <front>
     <title>Control experiments to avoid artifacts and misinterpretations in nanoecotoxicology testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-11"/>
-    <seriesInfo name="NIST" value="NIST SP 1200-11"/>
     <author fullname="ElijahJ.. Petersen" initials="E.J." surname="Petersen">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2015" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-11"/>
+  <seriesInfo name="NIST" value="NIST SP 1200-11"/>
 </reference>

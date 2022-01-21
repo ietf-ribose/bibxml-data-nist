@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.78-883" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir78-883.pdf">
   <front>
     <title>Atmospheric propagation equations used in the NBS Earth Terminal Measurement System</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.78-883"/>
-    <seriesInfo name="NIST" value="NBS IR 78-883"/>
-    <author surname="Daywitt"/>
+    <author initials="WC" surname="Daywitt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.78-883"/>
+  <seriesInfo name="NIST" value="NBS IR 78-883"/>
 </reference>

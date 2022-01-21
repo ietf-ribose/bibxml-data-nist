@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.89-4090" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4090.pdf">
   <front>
     <title>Elimination of spurious eigenvalues in the Chebyshev Tau spectral method</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4090"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4090"/>
-    <author surname="McFaddon"/>
-    <author surname="Murray"/>
-    <author surname="Boisvert"/>
+    <author initials="GB" surname="McFaddon">
+      <organization/>
+    </author>
+    <author initials="BT" surname="Murray">
+      <organization/>
+    </author>
+    <author initials="RF" surname="Boisvert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4090"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4090"/>
 </reference>

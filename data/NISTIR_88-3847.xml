@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.88-3847" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-3847.pdf">
   <front>
     <title>Room-temperature thermal conductivity of fumed-silica insulation for a Standard Reference Material</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3847"/>
-    <seriesInfo name="NIST" value="NIST IR 88-3847"/>
-    <author fullname="Robert Zarr" initials="R." surname="Zarr"/>
-    <author fullname="Thomas Somers" initials="T." surname="Somers"/>
-    <author fullname="Donn Ebberts" initials="D." surname="Ebberts"/>
+    <author fullname="Robert Zarr" initials="R" surname="Zarr">
+      <organization/>
+    </author>
+    <author fullname="Thomas Somers" initials="A" surname="Somers">
+      <organization/>
+    </author>
+    <author fullname="Donn Ebberts" initials="F" surname="Ebberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-3847"/>
+  <seriesInfo name="NIST" value="NIST IR 88-3847"/>
 </reference>

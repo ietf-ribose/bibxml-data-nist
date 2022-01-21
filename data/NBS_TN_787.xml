@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.787" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote787.pdf">
   <front>
     <title>Heuristic cost optimization of the Federal Telpak Network</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.787"/>
-    <seriesInfo name="NIST" value="NBS TN 787"/>
-    <author fullname="Roy Saltman" initials="R." surname="Saltman"/>
+    <author fullname="Roy Saltman" initials="G" surname="Saltman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.787"/>
+  <seriesInfo name="NIST" value="NBS TN 787"/>
 </reference>

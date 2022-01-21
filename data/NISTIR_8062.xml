@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8062" target="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf">
   <front>
     <title>An introduction to privacy engineering and risk management in federal systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8062"/>
-    <seriesInfo name="NIST" value="NIST IR 8062"/>
     <author fullname="Sean Brooks" initials="S." surname="Brooks">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2017"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8062"/>
+  <seriesInfo name="NIST" value="NIST IR 8062"/>
 </reference>

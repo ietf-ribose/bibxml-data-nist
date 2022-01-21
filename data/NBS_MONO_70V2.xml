@@ -1,10 +1,12 @@
 <reference anchor="NBS.MONO.70v2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph70v2.pdf">
   <front>
     <title>Microwave spectral tables :line strengths of asymmetric rotors</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v2"/>
-    <seriesInfo name="NIST" value="NBS MONO 70v2"/>
-    <author fullname="Paul Wacker" initials="P." surname="Wacker"/>
-    <author fullname="Marlene Pratto" initials="M." surname="Pratto"/>
+    <author fullname="Paul Wacker" initials="F" surname="Wacker">
+      <organization/>
+    </author>
+    <author fullname="Marlene Pratto" initials="R" surname="Pratto">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.70v2"/>
+  <seriesInfo name="NIST" value="NBS MONO 70v2"/>
 </reference>

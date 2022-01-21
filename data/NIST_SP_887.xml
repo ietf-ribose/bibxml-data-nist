@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.887" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication887.pdf">
   <front>
     <title>Composite materials for offshore operations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.887"/>
-    <seriesInfo name="NIST" value="NIST SP 887"/>
-    <author surname="Wang"/>
-    <author surname="Wang"/>
-    <author fullname="Dale Fitting" initials="D." surname="Fitting"/>
+    <author initials="SS" surname="Wang">
+      <organization/>
+    </author>
+    <author initials="SS" surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Dale Fitting" initials="W" surname="Fitting">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.887"/>
+  <seriesInfo name="NIST" value="NIST SP 887"/>
 </reference>

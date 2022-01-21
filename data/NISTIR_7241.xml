@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7241" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7241.pdf">
   <front>
     <title>NIST in the CFR :a report on references to NIST (and NBS) products and services in the code of federal regulations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7241"/>
-    <seriesInfo name="NIST" value="NIST IR 7241"/>
-    <author fullname="Ileana Martinez" initials="I." surname="Martinez"/>
-    <author fullname="Ajit Jillavenkatesa" initials="A." surname="Jillavenkatesa"/>
-    <author fullname="Carmina Londono" initials="C." surname="Londono"/>
+    <author fullname="Ileana Martinez" initials="I." surname="Martinez">
+      <organization/>
+    </author>
+    <author fullname="Ajit Jillavenkatesa" initials="A." surname="Jillavenkatesa">
+      <organization/>
+    </author>
+    <author fullname="Carmina Londono" initials="C." surname="Londono">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7241"/>
+  <seriesInfo name="NIST" value="NIST IR 7241"/>
 </reference>

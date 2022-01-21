@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.4725" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4725.pdf">
   <front>
     <title>Stability of aqueous inorganic lead solutions in polycarbonate containers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4725"/>
-    <seriesInfo name="NIST" value="NIST IR 4725"/>
-    <author fullname="Kenneth Jewett" initials="K." surname="Jewett"/>
-    <author fullname="William Blair" initials="W." surname="Blair"/>
-    <author fullname="Frederick Brinckman" initials="F." surname="Brinckman"/>
-    <author fullname="Francis Wang" initials="F." surname="Wang"/>
+    <author fullname="Kenneth Jewett" initials="L" surname="Jewett">
+      <organization/>
+    </author>
+    <author fullname="William Blair" initials="R" surname="Blair">
+      <organization/>
+    </author>
+    <author fullname="Frederick Brinckman" initials="E" surname="Brinckman">
+      <organization/>
+    </author>
+    <author fullname="Francis Wang" initials="W" surname="Wang">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4725"/>
+  <seriesInfo name="NIST" value="NIST IR 4725"/>
 </reference>

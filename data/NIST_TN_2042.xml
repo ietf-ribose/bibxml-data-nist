@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2042" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2042.pdf">
   <front>
     <title>Review of smart grid standards for testing and certification landscape analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2042"/>
-    <seriesInfo name="NIST" value="NIST TN 2042"/>
-    <author fullname="Eugene Song" initials="E." surname="Song">
+    <author fullname="Eugene Song" initials="Y" surname="Song">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Cuong Nguyen" initials="C." surname="Nguyen">
@@ -24,4 +22,6 @@
     </author>
     <date year="2019" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2042"/>
+  <seriesInfo name="NIST" value="NIST TN 2042"/>
 </reference>

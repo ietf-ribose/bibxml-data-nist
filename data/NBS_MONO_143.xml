@@ -1,11 +1,15 @@
 <reference anchor="NBS.MONO.143" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph143.pdf">
   <front>
     <title>Analysis of optically excited mercury molecules</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MONO.143"/>
-    <seriesInfo name="NIST" value="NBS MONO 143"/>
-    <author surname="Drullinger"/>
-    <author surname="Hessel"/>
-    <author surname="Smith"/>
+    <author initials="RE" surname="Drullinger">
+      <organization/>
+    </author>
+    <author initials="MM" surname="Hessel">
+      <organization/>
+    </author>
+    <author initials="EW" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MONO.143"/>
+  <seriesInfo name="NIST" value="NBS MONO 143"/>
 </reference>

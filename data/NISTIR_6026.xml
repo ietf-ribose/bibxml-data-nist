@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6026" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6026.pdf">
   <front>
     <title>Systems integration for manufacturing applications program 1996 annual report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6026"/>
-    <seriesInfo name="NIST" value="NIST IR 6026"/>
-    <author fullname="James Fowler" initials="J." surname="Fowler"/>
+    <author fullname="James Fowler" initials="E" surname="Fowler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6026"/>
+  <seriesInfo name="NIST" value="NIST IR 6026"/>
 </reference>

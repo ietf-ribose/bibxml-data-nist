@@ -1,8 +1,6 @@
 <reference anchor="NBS.HB.130-1984" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook130-1984.pdf">
   <front>
     <title>Uniform laws and regulations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.130-1984"/>
-    <seriesInfo name="NIST" value="NBS HB 130-1984"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.130-1984"/>
+  <seriesInfo name="NIST" value="NBS HB 130-1984"/>
 </reference>

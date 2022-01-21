@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.88-3836" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir88-3836.pdf">
   <front>
     <title>The High Level Machine-tool Control System</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3836"/>
-    <seriesInfo name="NIST" value="NBS IR 88-3836"/>
-    <author fullname="Douglas Fishman" initials="D." surname="Fishman"/>
+    <author fullname="Douglas Fishman" initials="D." surname="Fishman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.88-3836"/>
+  <seriesInfo name="NIST" value="NBS IR 88-3836"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.79-1722" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1722.pdf">
   <front>
     <title>Characterizing the interfiber bonding of paper pulps :rationale for bonding parameters derived from tensile test data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1722"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1722"/>
-    <author fullname="Jack Smith" initials="J." surname="Smith"/>
+    <author fullname="Jack Smith" initials="C" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1722"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1722"/>
 </reference>

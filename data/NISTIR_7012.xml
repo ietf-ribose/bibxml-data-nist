@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7012" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7012.pdf">
   <front>
     <title>Technical requirements for construction materials testing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7012"/>
-    <seriesInfo name="NIST" value="NIST IR 7012"/>
-    <author surname="DiBernardo"/>
+    <author initials="MJ" surname="DiBernardo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7012"/>
+  <seriesInfo name="NIST" value="NIST IR 7012"/>
 </reference>

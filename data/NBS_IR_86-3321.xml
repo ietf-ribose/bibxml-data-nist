@@ -1,13 +1,21 @@
 <reference anchor="NBS.IR.86-3321" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3321.pdf">
   <front>
     <title>An international butyltin measurement methods intercomparison :sample preparation and results of analyses</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3321"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3321"/>
-    <author surname="Blair"/>
-    <author surname="Olson"/>
-    <author surname="Brinckman"/>
-    <author surname="Paule"/>
-    <author surname="Becker"/>
+    <author initials="WR" surname="Blair">
+      <organization/>
+    </author>
+    <author initials="GJ" surname="Olson">
+      <organization/>
+    </author>
+    <author initials="FE" surname="Brinckman">
+      <organization/>
+    </author>
+    <author initials="RC" surname="Paule">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Becker">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3321"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3321"/>
 </reference>

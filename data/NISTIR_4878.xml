@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4878" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4878.pdf">
   <front>
     <title>An algorithm to position the NISIT Advanced Automated Master Angle Calibration System (AAMACS) to the least angular step</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4878"/>
-    <seriesInfo name="NIST" value="NIST IR 4878"/>
-    <author fullname="David Gilsinn" initials="D." surname="Gilsinn"/>
-    <author fullname="Tyler Estler" initials="T." surname="Estler"/>
+    <author fullname="David Gilsinn" initials="E" surname="Gilsinn">
+      <organization/>
+    </author>
+    <author fullname="Tyler Estler" initials="W" surname="Estler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4878"/>
+  <seriesInfo name="NIST" value="NIST IR 4878"/>
 </reference>

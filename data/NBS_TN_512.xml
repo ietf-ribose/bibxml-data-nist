@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.512" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote512.pdf">
   <front>
     <title>The accuracy of air tower pressure gages in suburban Washington, D.C.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.512"/>
-    <seriesInfo name="NIST" value="NBS TN 512"/>
-    <author surname="Simson"/>
+    <author initials="BG" surname="Simson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.512"/>
+  <seriesInfo name="NIST" value="NBS TN 512"/>
 </reference>

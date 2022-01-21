@@ -1,18 +1,16 @@
 <reference anchor="NIST.IR.8161" target="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8161.pdf">
   <front>
     <title>Recommendation: closed circuit television (CCTV) digital video export profile</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8161"/>
-    <seriesInfo name="NIST" value="NIST IR 8161"/>
-    <author fullname="Michael Garris" initials="M." surname="Garris">
+    <author fullname="Michael Garris" initials="D" surname="Garris">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mary Laamanen" initials="M." surname="Laamanen">
+    <author fullname="Mary Laamanen" initials="T" surname="Laamanen">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Craig Russell" initials="C." surname="Russell">
+    <author fullname="Craig Russell" initials="S" surname="Russell">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Lawrence Nadel" initials="L." surname="Nadel">
+    <author fullname="Lawrence Nadel" initials="D" surname="Nadel">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2016" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8161"/>
+  <seriesInfo name="NIST" value="NIST IR 8161"/>
 </reference>

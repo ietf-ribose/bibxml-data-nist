@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.5620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5620.pdf">
   <front>
     <title>Concentrations of chlorinated hydrocarbons, heavy metals and other elements in tissues banked by the Alaska Marine Mammal Tissue Archival Project</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5620"/>
-    <seriesInfo name="NIST" value="NIST IR 5620"/>
-    <author fullname="Paul Becker" initials="P." surname="Becker"/>
-    <author fullname="Elizabeth Mackey" initials="E." surname="Mackey"/>
-    <author fullname="Michele Schantz" initials="M." surname="Schantz"/>
-    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp"/>
-    <author fullname="Robert Greenberg" initials="R." surname="Greenberg"/>
-    <author fullname="Barbara Koster" initials="B." surname="Koster"/>
-    <author fullname="Stephen Wise" initials="S." surname="Wise"/>
-    <author fullname="Derek Muir" initials="D." surname="Muir"/>
+    <author fullname="Paul Becker" initials="R" surname="Becker">
+      <organization/>
+    </author>
+    <author fullname="Elizabeth Mackey" initials="A" surname="Mackey">
+      <organization/>
+    </author>
+    <author fullname="Michele Schantz" initials="M" surname="Schantz">
+      <organization/>
+    </author>
+    <author fullname="Rabia Demiralp" initials="R." surname="Demiralp">
+      <organization/>
+    </author>
+    <author fullname="Robert Greenberg" initials="R" surname="Greenberg">
+      <organization/>
+    </author>
+    <author fullname="Barbara Koster" initials="J" surname="Koster">
+      <organization/>
+    </author>
+    <author fullname="Stephen Wise" initials="A" surname="Wise">
+      <organization/>
+    </author>
+    <author fullname="Derek Muir" initials="CG" surname="Muir">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5620"/>
+  <seriesInfo name="NIST" value="NIST IR 5620"/>
 </reference>

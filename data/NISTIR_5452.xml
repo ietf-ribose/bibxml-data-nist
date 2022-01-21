@@ -1,19 +1,39 @@
 <reference anchor="NIST.IR.5452" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5452.pdf">
   <front>
     <title>The second census optical character recognition systems conference</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5452"/>
-    <seriesInfo name="NIST" value="NIST IR 5452"/>
-    <author surname="Janet"/>
-    <author surname="Grother"/>
-    <author surname="Hammond"/>
-    <author surname="Larsen"/>
-    <author surname="Klear"/>
-    <author surname="Matsko"/>
-    <author surname="Burges"/>
-    <author surname="Creecy"/>
-    <author surname="Hull"/>
-    <author surname="Vogl"/>
-    <author surname="Wilson"/>
+    <author initials="S" surname="Janet">
+      <organization/>
+    </author>
+    <author initials="PJ" surname="Grother">
+      <organization/>
+    </author>
+    <author initials="B" surname="Hammond">
+      <organization/>
+    </author>
+    <author initials="NW" surname="Larsen">
+      <organization/>
+    </author>
+    <author initials="RM" surname="Klear">
+      <organization/>
+    </author>
+    <author initials="MJ" surname="Matsko">
+      <organization/>
+    </author>
+    <author initials="CJC" surname="Burges">
+      <organization/>
+    </author>
+    <author initials="R" surname="Creecy">
+      <organization/>
+    </author>
+    <author initials="JJ" surname="Hull">
+      <organization/>
+    </author>
+    <author initials="TP" surname="Vogl">
+      <organization/>
+    </author>
+    <author initials="CL" surname="Wilson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -26,4 +46,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5452"/>
+  <seriesInfo name="NIST" value="NIST IR 5452"/>
 </reference>

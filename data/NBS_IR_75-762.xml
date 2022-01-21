@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.75-762" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-762.pdf">
   <front>
     <title>Truck noise I-C :pavement surface effects on the generation of truck tire noise</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.75-762"/>
-    <seriesInfo name="NIST" value="NBS IR 75-762"/>
-    <author surname="Kilmer"/>
-    <author surname="Leasure"/>
-    <author surname="Mathews"/>
+    <author initials="RD" surname="Kilmer">
+      <organization/>
+    </author>
+    <author initials="WA" surname="Leasure">
+      <organization/>
+    </author>
+    <author initials="DE" surname="Mathews">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.75-762"/>
+  <seriesInfo name="NIST" value="NBS IR 75-762"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.7688" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7688.pdf">
   <front>
     <title>Computer Systems Program activities report fiscal year 2009</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7688"/>
-    <seriesInfo name="NIST" value="NIST IR 7688"/>
-    <author fullname="Sandy Ressler" initials="S." surname="Ressler"/>
+    <author fullname="Sandy Ressler" initials="S." surname="Ressler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7688"/>
+  <seriesInfo name="NIST" value="NIST IR 7688"/>
 </reference>

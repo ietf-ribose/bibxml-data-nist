@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.57" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds57.pdf">
   <front>
     <title>Yields of free ions formed in liquids by radiation</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.57"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 57"/>
-    <author surname="Allen"/>
+    <author initials="AO" surname="Allen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.57"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 57"/>
 </reference>

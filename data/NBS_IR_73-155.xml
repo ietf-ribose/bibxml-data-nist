@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.73-155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-155.pdf">
   <front>
     <title>Accelerated aging of commercial papers in dry air, compared with natural aging</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-155"/>
-    <seriesInfo name="NIST" value="NBS IR 73-155"/>
-    <author surname="Parks"/>
-    <author surname="Hebert"/>
-    <author fullname="Catherine Feasenmyer" initials="C." surname="Feasenmyer"/>
+    <author initials="EJ" surname="Parks">
+      <organization/>
+    </author>
+    <author initials="RL" surname="Hebert">
+      <organization/>
+    </author>
+    <author fullname="Catherine Feasenmyer" initials="C." surname="Feasenmyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-155"/>
+  <seriesInfo name="NIST" value="NBS IR 73-155"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5569" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5569.pdf">
   <front>
     <title>The MasPar MP-1 as a computer arithmetic laboratory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5569"/>
-    <seriesInfo name="NIST" value="NIST IR 5569"/>
-    <author surname="Anuta"/>
-    <author surname="Lozier"/>
-    <author surname="Turner"/>
+    <author initials="MA" surname="Anuta">
+      <organization/>
+    </author>
+    <author initials="DW" surname="Lozier">
+      <organization/>
+    </author>
+    <author initials="PR" surname="Turner">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5569"/>
+  <seriesInfo name="NIST" value="NIST IR 5569"/>
 </reference>

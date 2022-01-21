@@ -1,10 +1,12 @@
 <reference anchor="NBS.NSRDS.13" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds13.pdf">
   <front>
     <title>Hydrogenation of ethylene on metallic catalysts</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.13"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 13"/>
-    <author fullname="Juro Horiuti" initials="J." surname="Horiuti"/>
-    <author fullname="Koshiro Miyahara" initials="K." surname="Miyahara"/>
+    <author fullname="Juro Horiuti" initials="J." surname="Horiuti">
+      <organization/>
+    </author>
+    <author fullname="Koshiro Miyahara" initials="K." surname="Miyahara">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.13"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 13"/>
 </reference>

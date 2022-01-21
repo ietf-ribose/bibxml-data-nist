@@ -1,23 +1,51 @@
 <reference anchor="NIST.IR.6709" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6709.pdf">
   <front>
     <title>Accelerating scientific discovery through computation and visualization</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6709"/>
-    <seriesInfo name="NIST" value="NIST IR 6709"/>
-    <author fullname="James Sims" initials="J." surname="Sims"/>
-    <author fullname="John Hagedorn" initials="J." surname="Hagedorn"/>
-    <author fullname="Peter Ketcham" initials="P." surname="Ketcham"/>
-    <author fullname="Steven Satterfield" initials="S." surname="Satterfield"/>
-    <author fullname="Terence Grifin" initials="T." surname="Grifin"/>
-    <author fullname="William George" initials="W." surname="George"/>
-    <author fullname="Howland Fowler" initials="H." surname="Fowler"/>
-    <author fullname="Barbaraam Ende" initials="B.a." surname="Ende"/>
-    <author fullname="Howard Hung" initials="H." surname="Hung"/>
-    <author fullname="RobertBohnlJohnKoontzlNicosMartyslCharles Bouldinl" initials="R.B.J.K.N.M.C." surname="Bouldinl"/>
-    <author fullname="James Warren" initials="J." surname="Warren"/>
-    <author fullname="David Feder" initials="D." surname="Feder"/>
-    <author fullname="Charles Clark" initials="C." surname="Clark"/>
-    <author fullname="James Filla" initials="J." surname="Filla"/>
-    <author fullname="Judith Devaney" initials="J." surname="Devaney"/>
+    <author fullname="James Sims" initials="S" surname="Sims">
+      <organization/>
+    </author>
+    <author fullname="John Hagedorn" initials="G" surname="Hagedorn">
+      <organization/>
+    </author>
+    <author fullname="Peter Ketcham" initials="M" surname="Ketcham">
+      <organization/>
+    </author>
+    <author fullname="Steven Satterfield" initials="G" surname="Satterfield">
+      <organization/>
+    </author>
+    <author fullname="Terence Grifin" initials="J" surname="Grifin">
+      <organization/>
+    </author>
+    <author fullname="William George" initials="L" surname="George">
+      <organization/>
+    </author>
+    <author fullname="Howland Fowler" initials="A" surname="Fowler">
+      <organization/>
+    </author>
+    <author fullname="Barbaraam Ende" initials="A" surname="Ende">
+      <organization/>
+    </author>
+    <author fullname="Howard Hung" initials="K" surname="Hung">
+      <organization/>
+    </author>
+    <author fullname="RobertBohnlJohnKoontzlNicosMartyslCharles Bouldinl" initials="BESE" surname="Bouldinl">
+      <organization/>
+    </author>
+    <author fullname="James Warren" initials="A" surname="Warren">
+      <organization/>
+    </author>
+    <author fullname="David Feder" initials="L" surname="Feder">
+      <organization/>
+    </author>
+    <author fullname="Charles Clark" initials="W" surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="James Filla" initials="B" surname="Filla">
+      <organization/>
+    </author>
+    <author fullname="Judith Devaney" initials="E" surname="Devaney">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -30,4 +58,6 @@
     </author>
     <date year="2001"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6709"/>
+  <seriesInfo name="NIST" value="NIST IR 6709"/>
 </reference>

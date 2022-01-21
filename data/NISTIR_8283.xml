@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.8283" target="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8283.pdf">
   <front>
     <title>Verifying executability of SysML behavior models using satisfiability modulo theory solvers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8283"/>
-    <seriesInfo name="NIST" value="NIST IR 8283"/>
     <author fullname="Raphael Barbau" initials="R." surname="Barbau">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2020" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8283"/>
+  <seriesInfo name="NIST" value="NIST IR 8283"/>
 </reference>

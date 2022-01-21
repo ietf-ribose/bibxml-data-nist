@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7015" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7015.pdf">
   <front>
     <title>Materials reliability, FY 2003 programs and accomplishments</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7015"/>
-    <seriesInfo name="NIST" value="NIST IR 7015"/>
-    <author fullname="JimSt Pierre" initials="J.S." surname="Pierre"/>
-    <author fullname="Thomas Siewert" initials="T." surname="Siewert"/>
+    <author fullname="JimSt Pierre" initials="J.S." surname="Pierre">
+      <organization/>
+    </author>
+    <author fullname="Thomas Siewert" initials="A" surname="Siewert">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7015"/>
+  <seriesInfo name="NIST" value="NIST IR 7015"/>
 </reference>

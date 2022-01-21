@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.74-579" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-579.pdf">
   <front>
     <title>Metallographic examination of cylinder barrels made from aluminum alloy (A-356) sand castings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-579"/>
-    <seriesInfo name="NIST" value="NBS IR 74-579"/>
-    <author surname="Christ"/>
+    <author initials="BW" surname="Christ">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-579"/>
+  <seriesInfo name="NIST" value="NBS IR 74-579"/>
 </reference>

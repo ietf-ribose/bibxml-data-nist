@@ -1,18 +1,16 @@
 <reference anchor="NIST.DCI.002" target="https://nvlpubs.nist.gov/nistpubs/dci/NIST.DCI.002.pdf">
   <front>
     <title>Eliciting lessons from Small- and Medium-Sized Enterprises (SMEs) for natural disaster resilience planning and recovery during the COVID-19 pandemic:SME complex event resilience</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.DCI.002"/>
-    <seriesInfo name="NIST" value="NIST DCI 002"/>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+    <author fullname="Jennifer Helgeson" initials="F" surname="Helgeson">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Juan Fung" initials="J." surname="Fung">
+    <author fullname="Juan Fung" initials="F" surname="Fung">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Yating Zhang" initials="Y." surname="Zhang">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Alfredo Roa-Henriquez" initials="A." surname="Roa-Henriquez">
+    <author fullname="Alfredo Roa-Henriquez" initials="R" surname="Roa-Henriquez">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Ariela Zycherman" initials="A." surname="Zycherman">
@@ -21,7 +19,7 @@
     <author fullname="Claudia Nierenberg" initials="C." surname="Nierenberg">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Butry" initials="D." surname="Butry">
+    <author fullname="David Butry" initials="T" surname="Butry">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Donna Ramkissoon" initials="D." surname="Ramkissoon">
@@ -39,4 +37,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.DCI.002"/>
+  <seriesInfo name="NIST" value="NIST DCI 002"/>
 </reference>

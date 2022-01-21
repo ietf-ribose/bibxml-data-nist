@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.800-85a-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-85a-2.pdf">
   <front>
     <title>PIV card application and middleware interface test guidelines (SP800-73-3 compliance)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85a-2"/>
-    <seriesInfo name="NIST" value="NIST SP 800-85a-2"/>
-    <author surname="Chandramouli">
+    <author initials="R" surname="Chandramouli">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Ferraiolo">
+    <author initials="H" surname="Ferraiolo">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Mehta">
+    <author initials="K" surname="Mehta">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -24,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85a-2"/>
+  <seriesInfo name="NIST" value="NIST SP 800-85a-2"/>
 </reference>

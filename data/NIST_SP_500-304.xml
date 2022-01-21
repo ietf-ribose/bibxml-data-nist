@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.500-304" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-304.pdf">
   <front>
     <title>Conformance Testing Methodology Framework for ANSI/NIST-ITL 1-2011 Update: 2013, Data Format for the Interchange of Fingerprint, Facial [and] Other Biometric Information</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-304"/>
-    <seriesInfo name="NIST" value="NIST SP 500-304"/>
-    <author fullname="Christofer McGinnis" initials="C." surname="McGinnis">
+    <author fullname="Christofer McGinnis" initials="J" surname="McGinnis">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Dylan Yaga" initials="D." surname="Yaga">
+    <author fullname="Dylan Yaga" initials="J" surname="Yaga">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Fernando Podio" initials="F." surname="Podio">
+    <author fullname="Fernando Podio" initials="L" surname="Podio">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-304"/>
+  <seriesInfo name="NIST" value="NIST SP 500-304"/>
 </reference>

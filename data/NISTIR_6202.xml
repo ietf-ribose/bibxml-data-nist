@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.6202" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6202.pdf">
   <front>
     <title>Conformance testing object-oriented frameworks using JAVA</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6202"/>
-    <seriesInfo name="NIST" value="NIST IR 6202"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
-    <author fullname="JamesSt Pierre" initials="J.S." surname="Pierre"/>
+    <author fullname="Kevin Brady" initials="G" surname="Brady">
+      <organization/>
+    </author>
+    <author fullname="JamesSt Pierre" initials="J.S." surname="Pierre">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6202"/>
+  <seriesInfo name="NIST" value="NIST IR 6202"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.426supp1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication426supp1.pdf">
   <front>
     <title>Bibliography of low energy electron and photon cross section data (January 1975 through December 1977)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.426supp1"/>
-    <seriesInfo name="NIST" value="NBS SP 426supp1"/>
-    <author surname="Gallagher"/>
-    <author surname="Rumble"/>
-    <author surname="Beaty"/>
+    <author initials="JW" surname="Gallagher">
+      <organization/>
+    </author>
+    <author initials="JR" surname="Rumble">
+      <organization/>
+    </author>
+    <author initials="EC" surname="Beaty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.426supp1"/>
+  <seriesInfo name="NIST" value="NBS SP 426supp1"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.CSM.46" target="https://nvlpubs.nist.gov/nistpubs/Legacy/CSM/nbscsm46.pdf">
   <front>
     <title>Commercial standards monthly :monthly news bulletin of Commercial Standards Group, Bureau of Standards January 15, 1929</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CSM.46"/>
-    <seriesInfo name="NIST" value="NBS CSM 46"/>
-    <author surname="Tillman"/>
+    <author initials="SF" surname="Tillman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1929"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CSM.46"/>
+  <seriesInfo name="NIST" value="NBS CSM 46"/>
 </reference>

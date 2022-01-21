@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.143" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub143.pdf">
   <front>
     <title>Psychometric charts/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.143"/>
-    <seriesInfo name="NIST" value="NBS MP 143"/>
-    <author fullname="Donald Brooks" initials="D." surname="Brooks"/>
+    <author fullname="Donald Brooks" initials="B" surname="Brooks">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1933"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.143"/>
+  <seriesInfo name="NIST" value="NBS MP 143"/>
 </reference>

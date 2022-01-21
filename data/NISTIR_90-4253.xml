@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.90-4253" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4253.pdf">
   <front>
     <title>Fire experiments of zoned smoke control at the Plaza Hotel in Washington DC</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4253"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4253"/>
-    <author fullname="John Klote" initials="J." surname="Klote"/>
+    <author fullname="John Klote" initials="H" surname="Klote">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4253"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4253"/>
 </reference>

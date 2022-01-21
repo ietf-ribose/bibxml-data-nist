@@ -1,9 +1,9 @@
 <reference anchor="NBS.MP.265" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub265.pdf">
   <front>
     <title>Dimensional metrology :Subject-classified with abstracts through 1964/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.265"/>
-    <seriesInfo name="NIST" value="NBS MP 265"/>
-    <author fullname="Irvin Fullmer" initials="I." surname="Fullmer"/>
+    <author fullname="Irvin Fullmer" initials="H" surname="Fullmer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.265"/>
+  <seriesInfo name="NIST" value="NBS MP 265"/>
 </reference>

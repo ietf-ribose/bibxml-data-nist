@@ -1,13 +1,21 @@
 <reference anchor="NBS.SP.260-63" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-63.pdf">
   <front>
     <title>Standard Reference MaterialsA reference method for the determination of potassium in serum</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-63"/>
-    <seriesInfo name="NIST" value="NBS SP 260-63"/>
-    <author fullname="Lawrence Machlan" initials="L." surname="Machlan"/>
-    <author fullname="John Mandel" initials="J." surname="Mandel"/>
-    <author fullname="Robert Paule" initials="R." surname="Paule"/>
-    <author fullname="John Gramlich" initials="J." surname="Gramlich"/>
-    <author fullname="Rance Velapoldi" initials="R." surname="Velapoldi"/>
+    <author fullname="Lawrence Machlan" initials="A" surname="Machlan">
+      <organization/>
+    </author>
+    <author fullname="John Mandel" initials="J." surname="Mandel">
+      <organization/>
+    </author>
+    <author fullname="Robert Paule" initials="C" surname="Paule">
+      <organization/>
+    </author>
+    <author fullname="John Gramlich" initials="W" surname="Gramlich">
+      <organization/>
+    </author>
+    <author fullname="Rance Velapoldi" initials="A" surname="Velapoldi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-63"/>
+  <seriesInfo name="NIST" value="NBS SP 260-63"/>
 </reference>

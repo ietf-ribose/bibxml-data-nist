@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.7008" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7008.pdf">
   <front>
     <title>Velocity measurements within and near flames by impact tube techniques</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.7008"/>
-    <seriesInfo name="NIST" value="NBS RPT 7008"/>
-    <author surname="Gautreau"/>
+    <author initials="R" surname="Gautreau">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.7008"/>
+  <seriesInfo name="NIST" value="NBS RPT 7008"/>
 </reference>

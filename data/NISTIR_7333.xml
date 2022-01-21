@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7333" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7333.pdf">
   <front>
     <title>Feasibility of using a concrete mixing truck as a rheometer</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7333"/>
-    <seriesInfo name="NIST" value="NIST IR 7333"/>
-    <author fullname="Sofiane Amziane" initials="S." surname="Amziane"/>
-    <author fullname="Chiara Ferraris" initials="C." surname="Ferraris"/>
-    <author fullname="Eric Koehler" initials="E." surname="Koehler"/>
+    <author fullname="Sofiane Amziane" initials="S." surname="Amziane">
+      <organization/>
+    </author>
+    <author fullname="Chiara Ferraris" initials="F" surname="Ferraris">
+      <organization/>
+    </author>
+    <author fullname="Eric Koehler" initials="E." surname="Koehler">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2006"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7333"/>
+  <seriesInfo name="NIST" value="NIST IR 7333"/>
 </reference>

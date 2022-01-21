@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.800-137A" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-137A.pdf">
   <front>
     <title>Assessing Information Security Continuous Monitoring (ISCM) Programs: Developing an ISCM Program Assessment</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-137A"/>
-    <seriesInfo name="NIST" value="NIST SP 800-137A"/>
     <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -26,4 +24,6 @@
     </author>
     <date year="2020" month="May" day="21"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-137A"/>
+  <seriesInfo name="NIST" value="NIST SP 800-137A"/>
 </reference>

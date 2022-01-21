@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-2991" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2991.pdf">
   <front>
     <title>Guide to computer-aided dispatch systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2991"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2991"/>
-    <author fullname="David Brenner" initials="D." surname="Brenner"/>
-    <author fullname="Marilyn Cadoff" initials="M." surname="Cadoff"/>
+    <author fullname="David Brenner" initials="J" surname="Brenner">
+      <organization/>
+    </author>
+    <author fullname="Marilyn Cadoff" initials="A" surname="Cadoff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2991"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2991"/>
 </reference>

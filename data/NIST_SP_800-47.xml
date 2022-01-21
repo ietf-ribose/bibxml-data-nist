@@ -1,21 +1,19 @@
 <reference anchor="NIST.SP.800-47" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-47.pdf">
   <front>
     <title>Security guide for interconnecting information technology systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-47"/>
-    <seriesInfo name="NIST" value="NIST SP 800-47"/>
-    <author surname="Grance">
+    <author initials="T" surname="Grance">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Hash">
+    <author initials="J" surname="Hash">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Peck">
+    <author initials="S" surname="Peck">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Smith">
+    <author initials="J" surname="Smith">
       <organization>Computer Security Division.</organization>
     </author>
-    <author surname="Korow-Diks">
+    <author initials="K" surname="Korow-Diks">
       <organization>Computer Security Division.</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2002"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-47"/>
+  <seriesInfo name="NIST" value="NIST SP 800-47"/>
 </reference>

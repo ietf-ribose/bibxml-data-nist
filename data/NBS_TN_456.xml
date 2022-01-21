@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.456" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote456.pdf">
   <front>
     <title>Analytical mass spectrometry section:summary of activities July 1967 to June 1968.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.456"/>
-    <seriesInfo name="NIST" value="NBS TN 456"/>
-    <author fullname="William Shields" initials="W." surname="Shields"/>
+    <author fullname="William Shields" initials="R" surname="Shields">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1968"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.456"/>
+  <seriesInfo name="NIST" value="NBS TN 456"/>
 </reference>

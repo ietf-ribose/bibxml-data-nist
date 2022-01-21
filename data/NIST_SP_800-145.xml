@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.800-145" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf">
   <front>
     <title>The NIST definition of cloud computing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-145"/>
-    <seriesInfo name="NIST" value="NIST SP 800-145"/>
-    <author surname="Mell"/>
-    <author surname="Grance"/>
+    <author initials="PM" surname="Mell">
+      <organization/>
+    </author>
+    <author initials="T" surname="Grance">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2011"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-145"/>
+  <seriesInfo name="NIST" value="NIST SP 800-145"/>
 </reference>

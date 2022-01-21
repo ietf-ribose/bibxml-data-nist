@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2030" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2030.pdf">
   <front>
     <title>A calibration of timing accuracy in the NIST cyber-physical systems testbed</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2030"/>
-    <seriesInfo name="NIST" value="NIST TN 2030"/>
     <author fullname="Marc Weiss" initials="M." surname="Weiss">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Dhananjay Anand" initials="D." surname="Anand">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Kevin Brady Jr." initials="K." surname="Brady Jr.">
+    <author fullname="Kevin Brady Jr." initials="G" surname="Brady Jr.">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Paul Boynton" initials="P." surname="Boynton">
@@ -39,4 +37,6 @@
     </author>
     <date year="2018" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2030"/>
+  <seriesInfo name="NIST" value="NIST TN 2030"/>
 </reference>

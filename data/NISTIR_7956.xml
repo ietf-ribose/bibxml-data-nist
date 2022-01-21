@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7956" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7956.pdf">
   <front>
     <title>Cryptographic Key Management Issues and Challenges in Cloud Services</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7956"/>
-    <seriesInfo name="NIST" value="NIST IR 7956"/>
     <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2013" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7956"/>
+  <seriesInfo name="NIST" value="NIST IR 7956"/>
 </reference>

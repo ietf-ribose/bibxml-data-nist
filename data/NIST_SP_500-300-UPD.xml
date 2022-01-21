@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.500-300-upd" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-300-upd.pdf">
   <front>
     <title>JPEG 2000 CODEC Certification Guidance for 1000 ppi Fingerprint Friction Ridge Imagery</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.500-300-upd"/>
-    <seriesInfo name="NIST" value="NIST SP 500-300-upd"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2021" month="June" day="10"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-300-upd"/>
+  <seriesInfo name="NIST" value="NIST SP 500-300-upd"/>
 </reference>

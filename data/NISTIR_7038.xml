@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.7038" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7038.pdf">
   <front>
     <title>A simulation analysis of BACnet local area networks</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7038"/>
-    <seriesInfo name="NIST" value="NIST IR 7038"/>
-    <author fullname="WongSeok Song" initials="W.S." surname="Song"/>
-    <author fullname="SeungHo Hong" initials="S.H." surname="Hong"/>
-    <author fullname="Steven Bushby" initials="S." surname="Bushby"/>
+    <author fullname="WongSeok Song" initials="W.S." surname="Song">
+      <organization/>
+    </author>
+    <author fullname="SeungHo Hong" initials="S.H." surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="Steven Bushby" initials="T" surname="Bushby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7038"/>
+  <seriesInfo name="NIST" value="NIST IR 7038"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.5809" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5809.pdf">
   <front>
     <title>Numerical simulation of rapid combustion in an underground enclosure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5809"/>
-    <seriesInfo name="NIST" value="NIST IR 5809"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="Howard Baum" initials="H." surname="Baum"/>
-    <author fullname="Scott Deal" initials="S." surname="Deal"/>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="Howard Baum" initials="R" surname="Baum">
+      <organization/>
+    </author>
+    <author fullname="Scott Deal" initials="P" surname="Deal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5809"/>
+  <seriesInfo name="NIST" value="NIST IR 5809"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.SP.1258" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1258.pdf">
   <front>
     <title>Complex event resilience of small- and medium-sized enterprises:natural disaster planning during the COVID-19 pandemic</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1258"/>
-    <seriesInfo name="NIST" value="NIST SP 1258"/>
-    <author fullname="Jennifer Helgeson" initials="J." surname="Helgeson">
+    <author fullname="Jennifer Helgeson" initials="F" surname="Helgeson">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Juan Fung" initials="J." surname="Fung">
+    <author fullname="Juan Fung" initials="F" surname="Fung">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Alfredo Roa Henriquez" initials="A." surname="Roa Henriquez">
+    <author fullname="Alfredo Roa Henriquez" initials="R" surname="Roa Henriquez">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Yating Zhang" initials="Y." surname="Zhang">
@@ -21,7 +19,7 @@
     <author fullname="Claudia Nierenberg" initials="C." surname="Nierenberg">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="David Butry" initials="D." surname="Butry">
+    <author fullname="David Butry" initials="T" surname="Butry">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Donna Ramkissoon" initials="D." surname="Ramkissoon">
@@ -39,4 +37,6 @@
     </author>
     <date year="2020" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1258"/>
+  <seriesInfo name="NIST" value="NIST SP 1258"/>
 </reference>

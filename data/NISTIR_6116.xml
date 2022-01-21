@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.6116" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6116.pdf">
   <front>
     <title>NGIS SIM Specification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6116"/>
-    <seriesInfo name="NIST" value="NIST IR 6116"/>
-    <author fullname="William Rippey" initials="W." surname="Rippey"/>
-    <author fullname="John Michaloski" initials="J." surname="Michaloski"/>
-    <author fullname="Martin Herman" initials="M." surname="Herman"/>
-    <author fullname="Sandor Szabo" initials="S." surname="Szabo"/>
-    <author fullname="WilliamDeWys;Nathaniel Frampton" initials="W.D." surname="Frampton"/>
-    <author fullname="Herbert Lau" initials="H." surname="Lau"/>
-    <author fullname="EunSoo Lee" initials="E.S." surname="Lee"/>
-    <author fullname="John Rose" initials="J." surname="Rose"/>
+    <author fullname="William Rippey" initials="G" surname="Rippey">
+      <organization/>
+    </author>
+    <author fullname="John Michaloski" initials="L" surname="Michaloski">
+      <organization/>
+    </author>
+    <author fullname="Martin Herman" initials="M." surname="Herman">
+      <organization/>
+    </author>
+    <author fullname="Sandor Szabo" initials="S." surname="Szabo">
+      <organization/>
+    </author>
+    <author fullname="WilliamDeWys;Nathaniel Frampton" initials="W.D." surname="Frampton">
+      <organization/>
+    </author>
+    <author fullname="Herbert Lau" initials="H." surname="Lau">
+      <organization/>
+    </author>
+    <author fullname="EunSoo Lee" initials="E.S." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="John Rose" initials="J." surname="Rose">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6116"/>
+  <seriesInfo name="NIST" value="NIST IR 6116"/>
 </reference>

@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.800-171" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf">
   <front>
     <title>Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-171"/>
-    <seriesInfo name="NIST" value="NIST SP 800-171"/>
-    <author fullname="Ronald Ross" initials="R." surname="Ross">
+    <author fullname="Ronald Ross" initials="S" surname="Ross">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
+    <author fullname="Kelley Dempsey" initials="L" surname="Dempsey">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Patrick Viscuso" initials="P." surname="Viscuso">
@@ -23,4 +21,6 @@
     </author>
     <date year="2015" month="June"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-171"/>
+  <seriesInfo name="NIST" value="NIST SP 800-171"/>
 </reference>

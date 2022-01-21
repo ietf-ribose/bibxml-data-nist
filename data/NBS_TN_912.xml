@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.912" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote912.pdf">
   <front>
     <title>The network measurement machine :a data collection device for measuring the peformance and utilization of computer networks</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.912"/>
-    <seriesInfo name="NIST" value="NBS TN 912"/>
-    <author surname="Rosey"/>
+    <author surname="Rosey">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.912"/>
+  <seriesInfo name="NIST" value="NBS TN 912"/>
 </reference>

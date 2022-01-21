@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.5024" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5024.pdf">
   <front>
     <title>Composite struts for SMES plants</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5024"/>
-    <seriesInfo name="NIST" value="NIST IR 5024"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5024"/>
+  <seriesInfo name="NIST" value="NIST IR 5024"/>
 </reference>

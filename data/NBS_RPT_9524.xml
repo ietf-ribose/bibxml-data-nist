@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9524" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9524.pdf">
   <front>
     <title>Vertical flame tests using varied fuels and draft conditions</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9524"/>
-    <seriesInfo name="NIST" value="NBS RPT 9524"/>
-    <author fullname="Marjorie Sandholzer" initials="M." surname="Sandholzer"/>
+    <author fullname="Marjorie Sandholzer" initials="W" surname="Sandholzer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9524"/>
+  <seriesInfo name="NIST" value="NBS RPT 9524"/>
 </reference>

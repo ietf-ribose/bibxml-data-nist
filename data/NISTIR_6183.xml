@@ -1,16 +1,30 @@
 <reference anchor="NIST.IR.6183" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6183.pdf">
   <front>
     <title>Preparation and characterization of polymerdendrimer blends, progress report 22497</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6183"/>
-    <seriesInfo name="NIST" value="NIST IR 6183"/>
-    <author fullname="Eric Amis" initials="E." surname="Amis"/>
-    <author fullname="Barry Bauer" initials="B." surname="Bauer"/>
-    <author fullname="Andreas Topp" initials="A." surname="Topp"/>
-    <author fullname="Ty Prosa" initials="T." surname="Prosa"/>
-    <author fullname="Dawei Liu" initials="D." surname="Liu"/>
-    <author fullname="Catheryn Jackson" initials="C." surname="Jackson"/>
-    <author fullname="Alamgir Karim" initials="A." surname="Karim"/>
-    <author fullname="Jack Douglas" initials="J." surname="Douglas"/>
+    <author fullname="Eric Amis" initials="J" surname="Amis">
+      <organization/>
+    </author>
+    <author fullname="Barry Bauer" initials="J" surname="Bauer">
+      <organization/>
+    </author>
+    <author fullname="Andreas Topp" initials="A." surname="Topp">
+      <organization/>
+    </author>
+    <author fullname="Ty Prosa" initials="J" surname="Prosa">
+      <organization/>
+    </author>
+    <author fullname="Dawei Liu" initials="D." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="Catheryn Jackson" initials="L" surname="Jackson">
+      <organization/>
+    </author>
+    <author fullname="Alamgir Karim" initials="A." surname="Karim">
+      <organization/>
+    </author>
+    <author fullname="Jack Douglas" initials="J." surname="Douglas">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6183"/>
+  <seriesInfo name="NIST" value="NIST IR 6183"/>
 </reference>

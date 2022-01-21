@@ -1,16 +1,30 @@
 <reference anchor="NIST.NCSTAR.1-5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1-5.pdf">
   <front>
     <title>Reconstruction of the fires in the World Trade Center towers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5"/>
-    <seriesInfo name="NIST" value="NIST NCSTAR 1-5"/>
-    <author fullname="Richard Gann" initials="R." surname="Gann"/>
-    <author fullname="Anthony Hamins" initials="A." surname="Hamins"/>
-    <author fullname="Kevin McGrattan" initials="K." surname="McGrattan"/>
-    <author fullname="George Mulholland" initials="G." surname="Mulholland"/>
-    <author fullname="Harold Nelson" initials="H." surname="Nelson"/>
-    <author fullname="Thomas Ohlemiller" initials="T." surname="Ohlemiller"/>
-    <author fullname="William Pitts" initials="W." surname="Pitts"/>
-    <author fullname="Kuldeep Prassad" initials="K." surname="Prassad"/>
+    <author fullname="Richard Gann" initials="G" surname="Gann">
+      <organization/>
+    </author>
+    <author fullname="Anthony Hamins" initials="A." surname="Hamins">
+      <organization/>
+    </author>
+    <author fullname="Kevin McGrattan" initials="B" surname="McGrattan">
+      <organization/>
+    </author>
+    <author fullname="George Mulholland" initials="W" surname="Mulholland">
+      <organization/>
+    </author>
+    <author fullname="Harold Nelson" initials="E" surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="Thomas Ohlemiller" initials="J" surname="Ohlemiller">
+      <organization/>
+    </author>
+    <author fullname="William Pitts" initials="M" surname="Pitts">
+      <organization/>
+    </author>
+    <author fullname="Kuldeep Prassad" initials="R" surname="Prassad">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -23,4 +37,6 @@
     </author>
     <date year="2005"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NCSTAR.1-5"/>
+  <seriesInfo name="NIST" value="NIST NCSTAR 1-5"/>
 </reference>

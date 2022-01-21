@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.809" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote809.pdf">
   <front>
     <title>Government looks at privacy and security in computer systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.809"/>
-    <seriesInfo name="NIST" value="NBS TN 809"/>
-    <author fullname="Dennis Branstad" initials="D." surname="Branstad"/>
-    <author fullname="Clark Renninger" initials="C." surname="Renninger"/>
+    <author fullname="Dennis Branstad" initials="K" surname="Branstad">
+      <organization/>
+    </author>
+    <author fullname="Clark Renninger" initials="R" surname="Renninger">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.809"/>
+  <seriesInfo name="NIST" value="NBS TN 809"/>
 </reference>

@@ -1,15 +1,13 @@
 <reference anchor="NIST.TN.1864" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1864.pdf">
   <front>
     <title>Scaling of Testing Speed for Different Source-to-Detector Distances</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1864"/>
-    <seriesInfo name="NIST" value="NIST TN 1864"/>
-    <author fullname="Bruce Norman" initials="B." surname="Norman">
+    <author fullname="Bruce Norman" initials="R" surname="Norman">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Anne Sallaska" initials="A." surname="Sallaska">
+    <author fullname="Anne Sallaska" initials="L" surname="Sallaska">
       <organization>Physical Measurement Laboratory</organization>
     </author>
-    <author fullname="Leticia Pibida" initials="L." surname="Pibida">
+    <author fullname="Leticia Pibida" initials="S" surname="Pibida">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1864"/>
+  <seriesInfo name="NIST" value="NIST TN 1864"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.SP.810-1998" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication810-1998.pdf">
   <front>
     <title>National Voluntary Laboratory Accreditation Program 1998 directory</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.810-1998"/>
-    <seriesInfo name="NIST" value="NIST SP 810-1998"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
-    <author fullname="Vanda White" initials="V." surname="White"/>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
+    <author fullname="Vanda White" initials="R" surname="White">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1998"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.810-1998"/>
+  <seriesInfo name="NIST" value="NIST SP 810-1998"/>
 </reference>

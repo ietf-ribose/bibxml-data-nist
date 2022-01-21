@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.2683" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport2683.pdf">
   <front>
     <title>Tests of flashing materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.2683"/>
-    <seriesInfo name="NIST" value="NBS RPT 2683"/>
-    <author fullname="Henry Robinson" initials="H." surname="Robinson"/>
+    <author fullname="Henry Robinson" initials="E" surname="Robinson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1953"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.2683"/>
+  <seriesInfo name="NIST" value="NBS RPT 2683"/>
 </reference>

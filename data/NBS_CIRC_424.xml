@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.424" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular424.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 424:washing, cleaning, and polishing materials</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.424"/>
-    <seriesInfo name="NIST" value="NBS CIRC 424"/>
-    <author surname="Smither"/>
+    <author initials="FW" surname="Smither">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1939"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.424"/>
+  <seriesInfo name="NIST" value="NBS CIRC 424"/>
 </reference>

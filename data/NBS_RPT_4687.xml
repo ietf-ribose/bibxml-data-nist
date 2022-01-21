@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.4687" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4687.pdf">
   <front>
     <title>Performance of two Air-Maze oil bath air cleaners</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4687"/>
-    <seriesInfo name="NIST" value="NBS RPT 4687"/>
-    <author fullname="Carl Coblentz" initials="C." surname="Coblentz"/>
+    <author fullname="Carl Coblentz" initials="W" surname="Coblentz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1956"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4687"/>
+  <seriesInfo name="NIST" value="NBS RPT 4687"/>
 </reference>

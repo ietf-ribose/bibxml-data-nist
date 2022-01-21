@@ -1,12 +1,18 @@
 <reference anchor="NBS.TN.467p2r1" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote467p2r1.pdf">
   <front>
     <title>Activation analysis :a bibliography (part 2</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.467p2r1"/>
-    <seriesInfo name="NIST" value="NBS TN 467p2r1"/>
-    <author surname="Lutz"/>
-    <author surname="Boreni"/>
-    <author surname="Maddock"/>
-    <author surname="Meinke"/>
+    <author initials="GJ" surname="Lutz">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Boreni">
+      <organization/>
+    </author>
+    <author initials="RS" surname="Maddock">
+      <organization/>
+    </author>
+    <author initials="WW" surname="Meinke">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1969"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.467p2r1"/>
+  <seriesInfo name="NIST" value="NBS TN 467p2r1"/>
 </reference>

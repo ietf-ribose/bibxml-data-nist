@@ -1,21 +1,19 @@
 <reference anchor="NIST.IR.7950" target="https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7950.pdf">
   <front>
     <title>Examination of the Impact of Fingerprint Spatial Area Loss on Matcher Performance in Various Mobile Identification Scenarios</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7950"/>
-    <seriesInfo name="NIST" value="NIST IR 7950"/>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Kenneth Ko" initials="K." surname="Ko">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Stephen Wood" initials="S." surname="Wood">
+    <author fullname="Stephen Wood" initials="S" surname="Wood">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="John Grantham" initials="J." surname="Grantham">
+    <author fullname="John Grantham" initials="D" surname="Grantham">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Garris" initials="M." surname="Garris">
+    <author fullname="Michael Garris" initials="D" surname="Garris">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2014" month="March"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7950"/>
+  <seriesInfo name="NIST" value="NIST IR 7950"/>
 </reference>

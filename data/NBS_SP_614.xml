@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.614" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication614.pdf">
   <front>
     <title>Sixth international conference on noise in physical systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.614"/>
-    <seriesInfo name="NIST" value="NBS SP 614"/>
-    <author fullname="PaulHermanErnst Meijer" initials="P.H.E." surname="Meijer"/>
-    <author surname="Mountain"/>
-    <author surname="Soulen"/>
+    <author fullname="PaulHermanErnst Meijer" initials="P.H.E." surname="Meijer">
+      <organization/>
+    </author>
+    <author initials="RD" surname="Mountain">
+      <organization/>
+    </author>
+    <author initials="RJ" surname="Soulen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.614"/>
+  <seriesInfo name="NIST" value="NBS SP 614"/>
 </reference>

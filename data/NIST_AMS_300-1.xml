@@ -1,12 +1,10 @@
 <reference anchor="NIST.AMS.300-1" target="https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.300-1.pdf">
   <front>
     <title>Reference Architecture for Smart Manufacturing Part 1: Functional Models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-1"/>
-    <seriesInfo name="NIST" value="NIST AMS 300-1"/>
-    <author fullname="Edward Barkmeyer" initials="E." surname="Barkmeyer">
+    <author fullname="Edward Barkmeyer" initials="J" surname="Barkmeyer">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Evan Wallace" initials="E." surname="Wallace">
+    <author fullname="Evan Wallace" initials="K" surname="Wallace">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-1"/>
+  <seriesInfo name="NIST" value="NIST AMS 300-1"/>
 </reference>

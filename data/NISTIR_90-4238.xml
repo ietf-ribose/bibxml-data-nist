@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.90-4238" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4238.pdf">
   <front>
     <title>Volksgrapher:a FORTRAN plotting package user's guide, version 3.0</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4238"/>
-    <seriesInfo name="NIST" value="NIST IR 90-4238"/>
-    <author surname="Kahaner"/>
-    <author surname="Anderson"/>
+    <author initials="DK" surname="Kahaner">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Anderson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1990"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.90-4238"/>
+  <seriesInfo name="NIST" value="NIST IR 90-4238"/>
 </reference>

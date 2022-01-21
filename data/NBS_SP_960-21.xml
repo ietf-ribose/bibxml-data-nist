@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.960-21" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication960-21.pdf">
   <front>
     <title>NIST recommended practice guide :molecular mass distribution measurement by mass spectrometry/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.960-21"/>
-    <seriesInfo name="NIST" value="NBS SP 960-21"/>
-    <author fullname="Charles Guttman" initials="C." surname="Guttman"/>
-    <author fullname="William Wallace" initials="W." surname="Wallace"/>
+    <author fullname="Charles Guttman" initials="M" surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="William Wallace" initials="E" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.960-21"/>
+  <seriesInfo name="NIST" value="NBS SP 960-21"/>
 </reference>

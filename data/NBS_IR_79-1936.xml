@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1936" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1936.pdf">
   <front>
     <title>an analysis of the responses from an Associated General Contractors of America (AGC) survey of trenching and shoring practices</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1936"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1936"/>
-    <author fullname="Lawrence Salomone" initials="L." surname="Salomone"/>
-    <author fullname="Felix Yokel" initials="F." surname="Yokel"/>
+    <author fullname="Lawrence Salomone" initials="A" surname="Salomone">
+      <organization/>
+    </author>
+    <author fullname="Felix Yokel" initials="Y" surname="Yokel">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1936"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1936"/>
 </reference>

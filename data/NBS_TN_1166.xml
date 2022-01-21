@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1166" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1166.pdf">
   <front>
     <title>The practical uses of AC-DC transfer instruments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1166"/>
-    <seriesInfo name="NIST" value="NBS TN 1166"/>
-    <author fullname="Earl Williams" initials="E." surname="Williams"/>
+    <author fullname="Earl Williams" initials="S" surname="Williams">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1166"/>
+  <seriesInfo name="NIST" value="NBS TN 1166"/>
 </reference>

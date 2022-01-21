@@ -1,11 +1,15 @@
 <reference anchor="NBS.HB.119" target="https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook119.pdf">
   <front>
     <title>Quieting: a practical guide to noise control</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HB.119"/>
-    <seriesInfo name="NIST" value="NBS HB 119"/>
-    <author fullname="Raymond Berendt" initials="R." surname="Berendt"/>
-    <author fullname="Edith Corliss" initials="E." surname="Corliss"/>
-    <author fullname="Morris Ojalvo" initials="M." surname="Ojalvo"/>
+    <author fullname="Raymond Berendt" initials="D" surname="Berendt">
+      <organization/>
+    </author>
+    <author fullname="Edith Corliss" initials="LR" surname="Corliss">
+      <organization/>
+    </author>
+    <author fullname="Morris Ojalvo" initials="S" surname="Ojalvo">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HB.119"/>
+  <seriesInfo name="NIST" value="NBS HB 119"/>
 </reference>

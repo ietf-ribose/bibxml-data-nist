@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.5" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote5.pdf">
   <front>
     <title>Tables of median hourly values of the cosine of the solar zenith angle (x) for thirty-five locations.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.5"/>
-    <seriesInfo name="NIST" value="NBS TN 5"/>
-    <author surname="McDuffie"/>
+    <author initials="RE" surname="McDuffie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1959"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.5"/>
+  <seriesInfo name="NIST" value="NBS TN 5"/>
 </reference>

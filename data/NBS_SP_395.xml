@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.395" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication395.pdf">
   <front>
     <title>Simulation and gaming</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.395"/>
-    <seriesInfo name="NIST" value="NBS SP 395"/>
-    <author fullname="John Moriarty" initials="J." surname="Moriarty"/>
+    <author fullname="John Moriarty" initials="E" surname="Moriarty">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.395"/>
+  <seriesInfo name="NIST" value="NBS SP 395"/>
 </reference>

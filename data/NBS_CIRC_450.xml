@@ -1,9 +1,9 @@
 <reference anchor="NBS.CIRC.450" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular450.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 450:underground corrosion</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.450"/>
-    <seriesInfo name="NIST" value="NBS CIRC 450"/>
-    <author fullname="Kirk Logan" initials="K." surname="Logan"/>
+    <author fullname="Kirk Logan" initials="H" surname="Logan">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1945"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.450"/>
+  <seriesInfo name="NIST" value="NBS CIRC 450"/>
 </reference>

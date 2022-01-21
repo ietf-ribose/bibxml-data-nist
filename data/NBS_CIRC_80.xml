@@ -1,8 +1,6 @@
 <reference anchor="NBS.CIRC.80" target="http://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular80.pdf">
   <front>
     <title>Circular of the Bureau of Standards no. 80:protective metallic coatings for the rustproofing of iron and steel</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.CIRC.80"/>
-    <seriesInfo name="NIST" value="NBS CIRC 80"/>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1919"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.CIRC.80"/>
+  <seriesInfo name="NIST" value="NBS CIRC 80"/>
 </reference>

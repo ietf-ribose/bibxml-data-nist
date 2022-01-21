@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.81-2217" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2217.pdf">
   <front>
     <title>Feasibility study :compilation and evaluation of properties data for basalt, granite, tuff, and shale</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2217"/>
-    <seriesInfo name="NIST" value="NBS IR 81-2217"/>
-    <author surname="Gevantman"/>
+    <author initials="LH" surname="Gevantman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.81-2217"/>
+  <seriesInfo name="NIST" value="NBS IR 81-2217"/>
 </reference>

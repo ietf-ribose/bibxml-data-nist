@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.74-480" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir74-480.pdf">
   <front>
     <title>Evaluation and calibration of mechanical shock accelerometers by comparison methods</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.74-480"/>
-    <seriesInfo name="NIST" value="NBS IR 74-480"/>
-    <author fullname="John Ramboz" initials="J." surname="Ramboz"/>
-    <author fullname="Charles Federman" initials="C." surname="Federman"/>
+    <author fullname="John Ramboz" initials="D" surname="Ramboz">
+      <organization/>
+    </author>
+    <author fullname="Charles Federman" initials="C." surname="Federman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.74-480"/>
+  <seriesInfo name="NIST" value="NBS IR 74-480"/>
 </reference>

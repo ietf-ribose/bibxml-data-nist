@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.89-4104" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir89-4104.pdf">
   <front>
     <title>A study on the performance of residential boilers for space and domestic hot water heating</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4104"/>
-    <seriesInfo name="NIST" value="NIST IR 89-4104"/>
-    <author fullname="Cheol Park" initials="C." surname="Park"/>
-    <author fullname="George Kelly" initials="G." surname="Kelly"/>
+    <author fullname="Cheol Park" initials="C." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="George Kelly" initials="E" surname="Kelly">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1989"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.89-4104"/>
+  <seriesInfo name="NIST" value="NIST IR 89-4104"/>
 </reference>

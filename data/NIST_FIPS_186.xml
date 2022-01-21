@@ -1,8 +1,6 @@
 <reference anchor="NIST.FIPS.186" target="https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub186.pdf">
   <front>
     <title>Federal Information Processing Standards Publication: digital signature standard (DSS)</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.FIPS.186"/>
-    <seriesInfo name="NIST" value="NIST FIPS 186"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.FIPS.186"/>
+  <seriesInfo name="NIST" value="NIST FIPS 186"/>
 </reference>

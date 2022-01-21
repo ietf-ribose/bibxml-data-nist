@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.6945" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6945.pdf">
   <front>
     <title>Refrigerator energy consumption test results using the United States Department of Energy and International Organization for Standardization test procedures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6945"/>
-    <seriesInfo name="NIST" value="NIST IR 6945"/>
-    <author fullname="David Yashar" initials="D." surname="Yashar"/>
+    <author fullname="David Yashar" initials="A" surname="Yashar">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6945"/>
+  <seriesInfo name="NIST" value="NIST IR 6945"/>
 </reference>

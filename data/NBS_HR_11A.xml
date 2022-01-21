@@ -1,9 +1,9 @@
 <reference anchor="NBS.HR.11A" target="https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hr11A.pdf">
   <front>
     <title>Hydraulic research in the United States</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.HR.11A"/>
-    <seriesInfo name="NIST" value="NBS HR 11A"/>
-    <author fullname="Florence Bain" initials="F." surname="Bain"/>
+    <author fullname="Florence Bain" initials="L" surname="Bain">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1947"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.HR.11A"/>
+  <seriesInfo name="NIST" value="NBS HR 11A"/>
 </reference>

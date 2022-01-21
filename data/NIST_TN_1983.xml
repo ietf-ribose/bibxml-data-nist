@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1983" target="http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1983.pdf">
   <front>
     <title>National fire research laboratory commissioning project: testing steel beams under localized fire exposure</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1983"/>
-    <seriesInfo name="NIST" value="NIST TN 1983"/>
     <author fullname="Lisa Choe" initials="L." surname="Choe">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2018" month="February" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1983"/>
+  <seriesInfo name="NIST" value="NIST TN 1983"/>
 </reference>

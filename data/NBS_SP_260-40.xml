@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-40" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-40.pdf">
   <front>
     <title>Standard Reference Materials :Selection of differential thermal analysis temperature standards through a cooperative study (SRM 758, 759, 760)/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-40"/>
-    <seriesInfo name="NIST" value="NBS SP 260-40"/>
-    <author fullname="Paul Garn" initials="P." surname="Garn"/>
-    <author surname="McAdie"/>
+    <author fullname="Paul Garn" initials="D" surname="Garn">
+      <organization/>
+    </author>
+    <author initials="HG" surname="McAdie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-40"/>
+  <seriesInfo name="NIST" value="NBS SP 260-40"/>
 </reference>

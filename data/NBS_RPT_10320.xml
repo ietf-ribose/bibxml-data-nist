@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.10320" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport10320.pdf">
   <front>
     <title>Fire endurance tests of unprotected wood-floor constructions for single-family residences</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.10320"/>
-    <seriesInfo name="NIST" value="NBS RPT 10320"/>
-    <author surname="Son"/>
+    <author initials="BC" surname="Son">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.10320"/>
+  <seriesInfo name="NIST" value="NBS RPT 10320"/>
 </reference>

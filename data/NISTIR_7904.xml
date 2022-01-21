@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.7904" target="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7904.pdf">
   <front>
     <title>Trusted Geolocation in the Cloud: Proof of Concept Implementation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7904"/>
-    <seriesInfo name="NIST" value="NIST IR 7904"/>
-    <author fullname="Michael Bartock" initials="M." surname="Bartock">
+    <author fullname="Michael Bartock" initials="J" surname="Bartock">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
@@ -36,7 +34,7 @@
     <author fullname="Tarik Williams" initials="T." surname="Williams">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+    <author fullname="Karen Scarfone" initials="A" surname="Scarfone">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
@@ -44,4 +42,6 @@
     </author>
     <date year="2015" month="December"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7904"/>
+  <seriesInfo name="NIST" value="NIST IR 7904"/>
 </reference>

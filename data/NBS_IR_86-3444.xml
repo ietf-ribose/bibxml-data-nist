@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.86-3444" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir86-3444.pdf">
   <front>
     <title>Ballistic tests of used soft body armor</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3444"/>
-    <seriesInfo name="NIST" value="NBS IR 86-3444"/>
-    <author fullname="Daniel Frank" initials="D." surname="Frank"/>
+    <author fullname="Daniel Frank" initials="E" surname="Frank">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1986"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.86-3444"/>
+  <seriesInfo name="NIST" value="NBS IR 86-3444"/>
 </reference>

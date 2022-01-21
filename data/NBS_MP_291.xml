@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.291" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub291.pdf">
   <front>
     <title>Proceedings of the 1966 Standards Laboratory Conference</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.291"/>
-    <seriesInfo name="NIST" value="NBS MP 291"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.291"/>
+  <seriesInfo name="NIST" value="NBS MP 291"/>
 </reference>

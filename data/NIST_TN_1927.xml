@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.1927" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1927.pdf">
   <front>
     <title>Examination of Compressed Air Foam (CAF) for interior fire fighting</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1927"/>
-    <seriesInfo name="NIST" value="NIST TN 1927"/>
-    <author fullname="Craig Weinschenk" initials="C." surname="Weinschenk">
+    <author fullname="Craig Weinschenk" initials="G" surname="Weinschenk">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Daniel Madrzykowski" initials="D." surname="Madrzykowski">
+    <author fullname="Daniel Madrzykowski" initials="M" surname="Madrzykowski">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Keith Stakes" initials="K." surname="Stakes">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Joseph Willi" initials="J." surname="Willi">
+    <author fullname="Joseph Willi" initials="M" surname="Willi">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2017" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1927"/>
+  <seriesInfo name="NIST" value="NIST TN 1927"/>
 </reference>

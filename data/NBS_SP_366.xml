@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.366" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication366.pdf">
   <front>
     <title>Bibliography on atomic line shapes and shifts (1889 through March 1972)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.366"/>
-    <seriesInfo name="NIST" value="NBS SP 366"/>
-    <author surname="Fuhr"/>
-    <author surname="Wiese"/>
-    <author surname="Roszman"/>
+    <author initials="JR" surname="Fuhr">
+      <organization/>
+    </author>
+    <author initials="WL" surname="Wiese">
+      <organization/>
+    </author>
+    <author initials="LJ" surname="Roszman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1972"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.366"/>
+  <seriesInfo name="NIST" value="NBS SP 366"/>
 </reference>

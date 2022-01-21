@@ -1,11 +1,15 @@
 <reference anchor="NBS.NSRDS.52" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds52.pdf">
   <front>
     <title>Electronic absorption and internal and external vibrational data of atomic and molecular ions doped in alkali halide crystals</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.52"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 52"/>
-    <author surname="Jain"/>
-    <author surname="Warrier"/>
-    <author surname="Agarwal"/>
+    <author initials="SC" surname="Jain">
+      <organization/>
+    </author>
+    <author initials="AVR" surname="Warrier">
+      <organization/>
+    </author>
+    <author initials="SK" surname="Agarwal">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1974"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.52"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 52"/>
 </reference>

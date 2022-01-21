@@ -1,15 +1,27 @@
 <reference anchor="NIST.IR.7135" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7135.pdf">
   <front>
     <title>Final report for:</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7135"/>
-    <seriesInfo name="NIST" value="NIST IR 7135"/>
-    <author surname="Feng"/>
-    <author surname="Garboczi"/>
-    <author surname="Bullard"/>
-    <author surname="Bentz"/>
-    <author surname="Snyder"/>
-    <author surname="Stutzman"/>
-    <author surname="Mason"/>
+    <author initials="X" surname="Feng">
+      <organization/>
+    </author>
+    <author initials="EJ" surname="Garboczi">
+      <organization/>
+    </author>
+    <author initials="JW" surname="Bullard">
+      <organization/>
+    </author>
+    <author initials="DP" surname="Bentz">
+      <organization/>
+    </author>
+    <author initials="KA" surname="Snyder">
+      <organization/>
+    </author>
+    <author initials="PE" surname="Stutzman">
+      <organization/>
+    </author>
+    <author initials="TO" surname="Mason">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7135"/>
+  <seriesInfo name="NIST" value="NIST IR 7135"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.917" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication917.pdf">
   <front>
     <title>MOIST</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.917"/>
-    <seriesInfo name="NIST" value="NIST SP 917"/>
-    <author fullname="Douglas Burch" initials="D." surname="Burch"/>
-    <author fullname="Douglas Burch" initials="D." surname="Burch"/>
-    <author fullname="Joseph Chi" initials="J." surname="Chi"/>
+    <author fullname="Douglas Burch" initials="M" surname="Burch">
+      <organization/>
+    </author>
+    <author fullname="Douglas Burch" initials="M" surname="Burch">
+      <organization/>
+    </author>
+    <author fullname="Joseph Chi" initials="J." surname="Chi">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1997"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.917"/>
+  <seriesInfo name="NIST" value="NIST SP 917"/>
 </reference>

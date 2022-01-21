@@ -1,8 +1,6 @@
 <reference anchor="NBS.MP.39-2" target="https://nvlpubs.nist.gov/nistpubs/Legacy/MP/nbsmiscellaneouspub39-2.pdf">
   <front>
     <title>Household weights and measures (second edition)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.MP.39-2"/>
-    <seriesInfo name="NIST" value="NBS MP 39-2"/>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -15,4 +13,6 @@
     </author>
     <date year="1926"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.MP.39-2"/>
+  <seriesInfo name="NIST" value="NBS MP 39-2"/>
 </reference>

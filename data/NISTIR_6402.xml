@@ -1,11 +1,15 @@
 <reference anchor="NIST.IR.6402" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6402.pdf">
   <front>
     <title>Predicting the performance of concrete repair materials:summary of workshop April 26 and 27, 1999, Durham, New Hampshire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6402"/>
-    <seriesInfo name="NIST" value="NIST IR 6402"/>
-    <author fullname="Alexander Vaysburd" initials="A." surname="Vaysburd"/>
-    <author fullname="Nicholas Carino" initials="N." surname="Carino"/>
-    <author fullname="Benoît Bissonette" initials="B." surname="Bissonette"/>
+    <author fullname="Alexander Vaysburd" initials="M" surname="Vaysburd">
+      <organization/>
+    </author>
+    <author fullname="Nicholas Carino" initials="J" surname="Carino">
+      <organization/>
+    </author>
+    <author fullname="Benoît Bissonette" initials="B." surname="Bissonette">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2000"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6402"/>
+  <seriesInfo name="NIST" value="NIST IR 6402"/>
 </reference>

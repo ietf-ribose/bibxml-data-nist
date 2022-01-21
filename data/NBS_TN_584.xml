@@ -1,10 +1,12 @@
 <reference anchor="NBS.TN.584" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote584.pdf">
   <front>
     <title>Analytical coordination chemistry section :summary of activities</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.584"/>
-    <seriesInfo name="NIST" value="NBS TN 584"/>
-    <author surname="Shultz"/>
-    <author fullname="Oscar Menis" initials="O." surname="Menis"/>
+    <author initials="JI" surname="Shultz">
+      <organization/>
+    </author>
+    <author fullname="Oscar Menis" initials="O." surname="Menis">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.584"/>
+  <seriesInfo name="NIST" value="NBS TN 584"/>
 </reference>

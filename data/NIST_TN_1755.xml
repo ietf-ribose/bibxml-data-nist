@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1755" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1755.pdf">
   <front>
     <title>Factory Equipment Network Testing Framework: Concept, Requirements, and Architecture</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1755"/>
-    <seriesInfo name="NIST" value="NIST TN 1755"/>
     <author fullname="Jim Gilsinn" initials="J." surname="Gilsinn">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2012" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1755"/>
+  <seriesInfo name="NIST" value="NIST TN 1755"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5877" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5877.pdf">
   <front>
     <title>Report of a workshop on requalification of tubular steel joints in offshore structures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5877"/>
-    <seriesInfo name="NIST" value="NIST IR 5877"/>
-    <author fullname="Andrew Taylor" initials="A." surname="Taylor"/>
+    <author fullname="Andrew Taylor" initials="W" surname="Taylor">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1996"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5877"/>
+  <seriesInfo name="NIST" value="NIST IR 5877"/>
 </reference>

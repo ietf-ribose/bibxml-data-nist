@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.3975" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir3975.pdf">
   <front>
     <title>Magnetic measurements for high energy physics application- final report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.3975"/>
-    <seriesInfo name="NIST" value="NIST IR 3975"/>
-    <author surname="Goldfarb"/>
+    <author initials="RB" surname="Goldfarb">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1991"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.3975"/>
+  <seriesInfo name="NIST" value="NIST IR 3975"/>
 </reference>

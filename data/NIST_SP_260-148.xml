@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.260-148" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication260-148.pdf">
   <front>
     <title>Standard reference materials :certification of standard reference material 1474a, a polyethylene resin</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-148"/>
-    <seriesInfo name="NIST" value="NIST SP 260-148"/>
-    <author surname="Maurey"/>
-    <author fullname="Kathleen Flynn" initials="K." surname="Flynn"/>
-    <author surname="Guttman"/>
+    <author initials="JR" surname="Maurey">
+      <organization/>
+    </author>
+    <author fullname="Kathleen Flynn" initials="M" surname="Flynn">
+      <organization/>
+    </author>
+    <author initials="CM" surname="Guttman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2003"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-148"/>
+  <seriesInfo name="NIST" value="NIST SP 260-148"/>
 </reference>

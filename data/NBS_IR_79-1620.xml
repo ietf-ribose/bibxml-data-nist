@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1620" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1620.pdf">
   <front>
     <title>The domain pulse measurements and computed frequency responses of optical communications components</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1620"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1620"/>
-    <author fullname="James Andrews" initials="J." surname="Andrews"/>
-    <author fullname="Matt Young" initials="M." surname="Young"/>
+    <author fullname="James Andrews" initials="R" surname="Andrews">
+      <organization/>
+    </author>
+    <author fullname="Matt Young" initials="M." surname="Young">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1620"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1620"/>
 </reference>

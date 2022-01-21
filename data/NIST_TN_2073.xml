@@ -1,18 +1,16 @@
 <reference anchor="NIST.TN.2073" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2073.pdf">
   <front>
     <title>Guidebook for standards-based testing of radiation-detection systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2073"/>
-    <seriesInfo name="NIST" value="NIST TN 2073"/>
-    <author surname="Pibida">
+    <author initials="L" surname="Pibida">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
-    <author surname="Forrester">
+    <author initials="C" surname="Forrester">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
-    <author surname="Chiaro">
+    <author initials="P" surname="Chiaro">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
-    <author surname="Potter">
+    <author initials="D" surname="Potter">
       <organization>Physical Measurement Laboratory.</organization>
     </author>
     <author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2019" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2073"/>
+  <seriesInfo name="NIST" value="NIST TN 2073"/>
 </reference>

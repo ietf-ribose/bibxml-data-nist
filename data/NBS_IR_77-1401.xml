@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.77-1401" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1401.pdf">
   <front>
     <title>Processing and characterization of NBS standard polyethylene for use as a negative control material</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1401"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1401"/>
-    <author fullname="Anthony Bur" initials="A." surname="Bur"/>
+    <author fullname="Anthony Bur" initials="J" surname="Bur">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1978"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1401"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1401"/>
 </reference>

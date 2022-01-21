@@ -1,8 +1,6 @@
 <reference anchor="NIST.GCR.14-980" target="https://nvlpubs.nist.gov/nistpubs/gcr/2015/NIST.GCR.14-980.pdf">
   <front>
     <title>High Performance Indoor Air Quality Specification for Net Zero Energy Homes</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.GCR.14-980"/>
-    <seriesInfo name="NIST" value="NIST GCR 14-980"/>
     <author fullname="BerkeleyAnalyticalAssociates LLC" initials="B.A.A." surname="LLC">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.14-980"/>
+  <seriesInfo name="NIST" value="NIST GCR 14-980"/>
 </reference>

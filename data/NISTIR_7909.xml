@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7909" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7909.pdf">
   <front>
     <title>Toward an Integrated Decision Support Framework for Sustainability Analysis</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7909"/>
-    <seriesInfo name="NIST" value="NIST IR 7909"/>
     <author fullname="Lalit Patil" initials="L." surname="Patil">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7909"/>
+  <seriesInfo name="NIST" value="NIST IR 7909"/>
 </reference>

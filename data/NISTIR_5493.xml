@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.5493" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5493.pdf">
   <front>
     <title>Comparison of FFT fingerprint filtering methods for neural network classification</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.5493"/>
-    <seriesInfo name="NIST" value="NIST IR 5493"/>
-    <author surname="Grother"/>
+    <author initials="PJ" surname="Grother">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1994"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.5493"/>
+  <seriesInfo name="NIST" value="NIST IR 5493"/>
 </reference>

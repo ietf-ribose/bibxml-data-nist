@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.260-193" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-193.pdf">
   <front>
     <title>Reference Material 8634:ethylene tetrafluoroethylene for particle size distribution and morphology</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-193"/>
-    <seriesInfo name="NIST" value="NIST SP 260-193"/>
     <author fullname="Dean Ripple" initials="D." surname="Ripple">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -36,4 +34,6 @@
     </author>
     <date year="2019" month="May"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-193"/>
+  <seriesInfo name="NIST" value="NIST SP 260-193"/>
 </reference>

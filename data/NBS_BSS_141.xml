@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.141" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience141.pdf">
   <front>
     <title>The development and evaluation of effective symbol signs</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.141"/>
-    <seriesInfo name="NIST" value="NBS BSS 141"/>
-    <author fullname="Belinda Collins" initials="B." surname="Collins"/>
+    <author fullname="Belinda Collins" initials="B." surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.141"/>
+  <seriesInfo name="NIST" value="NBS BSS 141"/>
 </reference>

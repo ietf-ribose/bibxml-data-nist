@@ -1,9 +1,7 @@
 <reference anchor="NIST.EAB.3" target="https://nvlpubs.nist.gov/nistpubs/eab/NIST.EAB.3.pdf">
   <front>
     <title>The Economic Impact of Technology Infrastructure for Additive Manufacturing</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.EAB.3"/>
-    <seriesInfo name="NIST" value="NIST EAB 3"/>
-    <author fullname="Gary Anderson" initials="G." surname="Anderson">
+    <author fullname="Gary Anderson" initials="W" surname="Anderson">
       <organization>Technology Partnerships Office</organization>
     </author>
     <author>
@@ -11,4 +9,6 @@
     </author>
     <date year="2016" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.EAB.3"/>
+  <seriesInfo name="NIST" value="NIST EAB 3"/>
 </reference>

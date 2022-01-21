@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.292" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote292.pdf">
   <front>
     <title>Procedures for precise determination of thermal radiation properties, November 1964 to October 1965</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.292"/>
-    <seriesInfo name="NIST" value="NBS TN 292"/>
-    <author fullname="Joseph Richmond" initials="J." surname="Richmond"/>
+    <author fullname="Joseph Richmond" initials="C" surname="Richmond">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1966"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.292"/>
+  <seriesInfo name="NIST" value="NBS TN 292"/>
 </reference>

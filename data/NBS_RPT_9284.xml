@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.9284" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport9284.pdf">
   <front>
     <title>The generation and recognition of flicker noise</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.9284"/>
-    <seriesInfo name="NIST" value="NBS RPT 9284"/>
-    <author fullname="James Barnes" initials="J." surname="Barnes"/>
+    <author fullname="James Barnes" initials="A" surname="Barnes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1967"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.9284"/>
+  <seriesInfo name="NIST" value="NBS RPT 9284"/>
 </reference>

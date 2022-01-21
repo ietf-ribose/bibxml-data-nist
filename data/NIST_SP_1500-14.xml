@@ -1,8 +1,6 @@
 <reference anchor="NIST.SP.1500-14" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-14.pdf">
   <front>
     <title>Space Commerce Workshop Report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-14"/>
-    <seriesInfo name="NIST" value="NIST SP 1500-14"/>
     <author fullname="Nick Barbosa" initials="N." surname="Barbosa">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -23,4 +21,6 @@
     </author>
     <date year="2020" month="May" day="13"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-14"/>
+  <seriesInfo name="NIST" value="NIST SP 1500-14"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.84-2987" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-2987.pdf">
   <front>
     <title>Outline of CCVT calibration procedure, EPRI-NBS prototype system -- supplement to EPRI report EL-690 (field calibration system for CCVTs, April 1978)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2987"/>
-    <seriesInfo name="NIST" value="NBS IR 84-2987"/>
-    <author fullname="David Hillhouse" initials="D." surname="Hillhouse"/>
+    <author fullname="David Hillhouse" initials="L" surname="Hillhouse">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-2987"/>
+  <seriesInfo name="NIST" value="NBS IR 84-2987"/>
 </reference>

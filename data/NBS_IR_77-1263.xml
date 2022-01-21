@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.77-1263" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1263.pdf">
   <front>
     <title>Radiant heating in seamless flooring- a feasibility study</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1263"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1263"/>
-    <author surname="Campbell"/>
-    <author surname="Post"/>
-    <author surname="Godette"/>
-    <author surname="Roberts"/>
+    <author initials="PG" surname="Campbell">
+      <organization/>
+    </author>
+    <author initials="MA" surname="Post">
+      <organization/>
+    </author>
+    <author initials="M" surname="Godette">
+      <organization/>
+    </author>
+    <author initials="WE" surname="Roberts">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1263"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1263"/>
 </reference>

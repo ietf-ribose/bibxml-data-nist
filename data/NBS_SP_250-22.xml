@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.250-22" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication250-22.pdf">
   <front>
     <title>Platinum resistance thermometer calibrations</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.250-22"/>
-    <seriesInfo name="NIST" value="NBS SP 250-22"/>
-    <author surname="Mangum"/>
+    <author initials="BW" surname="Mangum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1987"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.250-22"/>
+  <seriesInfo name="NIST" value="NBS SP 250-22"/>
 </reference>

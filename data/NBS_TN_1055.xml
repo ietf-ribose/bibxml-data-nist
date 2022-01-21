@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1055" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1055.pdf">
   <front>
     <title>Tests of commercial densimeters for LNG service</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1055"/>
-    <seriesInfo name="NIST" value="NBS TN 1055"/>
-    <author surname="Siegwarth"/>
+    <author initials="JD" surname="Siegwarth">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1055"/>
+  <seriesInfo name="NIST" value="NBS TN 1055"/>
 </reference>

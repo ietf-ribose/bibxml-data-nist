@@ -1,10 +1,12 @@
 <reference anchor="NBS.BMS.111" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BMS/nbsbuildingmaterialsstructures111.pdf">
   <front>
     <title>Performance of a coal-fired boiler converted to oil</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BMS.111"/>
-    <seriesInfo name="NIST" value="NBS BMS 111"/>
-    <author fullname="Richard Dill" initials="R." surname="Dill"/>
-    <author fullname="Paul Achenbach" initials="P." surname="Achenbach"/>
+    <author fullname="Richard Dill" initials="S" surname="Dill">
+      <organization/>
+    </author>
+    <author fullname="Paul Achenbach" initials="R" surname="Achenbach">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1948"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BMS.111"/>
+  <seriesInfo name="NIST" value="NBS BMS 111"/>
 </reference>

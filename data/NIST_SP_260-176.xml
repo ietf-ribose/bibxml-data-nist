@@ -1,12 +1,10 @@
 <reference anchor="NIST.SP.260-176" target="https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.260-176.pdf">
   <front>
     <title>Standard Reference Materials Catalog</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.260-176"/>
-    <seriesInfo name="NIST" value="NIST SP 260-176"/>
-    <author role="editor" fullname="Regina Montgomery" initials="R." surname="Montgomery">
+    <author role="editor" fullname="Regina Montgomery" initials="R" surname="Montgomery">
       <organization>Office of Reference Materials</organization>
     </author>
-    <author role="editor" fullname="Joan Sauerwein" initials="J." surname="Sauerwein">
+    <author role="editor" fullname="Joan Sauerwein" initials="C" surname="Sauerwein">
       <organization>Office of Reference Materials</organization>
     </author>
     <author>
@@ -21,4 +19,6 @@
     </author>
     <date year="2013" month="January"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-176"/>
+  <seriesInfo name="NIST" value="NIST SP 260-176"/>
 </reference>

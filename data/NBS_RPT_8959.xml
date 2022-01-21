@@ -1,9 +1,9 @@
 <reference anchor="NBS.RPT.8959" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8959.pdf">
   <front>
     <title>Hardening shrinkage forces in direct filling materials:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8959"/>
-    <seriesInfo name="NIST" value="NBS RPT 8959"/>
-    <author surname="Bowen"/>
+    <author initials="RL" surname="Bowen">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8959"/>
+  <seriesInfo name="NIST" value="NBS RPT 8959"/>
 </reference>

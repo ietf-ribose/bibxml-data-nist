@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.8639" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport8639.pdf">
   <front>
     <title>Analysis of gold and platinum group alloys by x-ray emission:progress report</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.8639"/>
-    <seriesInfo name="NIST" value="NBS RPT 8639"/>
-    <author surname="Eick"/>
-    <author surname="Smith"/>
-    <author surname="Rasberry"/>
+    <author initials="JD" surname="Eick">
+      <organization/>
+    </author>
+    <author initials="DL" surname="Smith">
+      <organization/>
+    </author>
+    <author initials="SD" surname="Rasberry">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1964"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.8639"/>
+  <seriesInfo name="NIST" value="NBS RPT 8639"/>
 </reference>

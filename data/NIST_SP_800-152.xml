@@ -1,9 +1,7 @@
 <reference anchor="NIST.SP.800-152" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-152.pdf">
   <front>
     <title>A Profile for U. S. Federal Cryptographic Key Management Systems</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.800-152"/>
-    <seriesInfo name="NIST" value="NIST SP 800-152"/>
-    <author fullname="Elaine Barker" initials="E." surname="Barker">
+    <author fullname="Elaine Barker" initials="B" surname="Barker">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Miles Smid" initials="M." surname="Smid">
@@ -17,4 +15,6 @@
     </author>
     <date year="2015" month="October"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-152"/>
+  <seriesInfo name="NIST" value="NIST SP 800-152"/>
 </reference>

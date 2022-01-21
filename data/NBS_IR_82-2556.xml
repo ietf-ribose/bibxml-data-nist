@@ -1,12 +1,18 @@
 <reference anchor="NBS.IR.82-2556" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2556.pdf">
   <front>
     <title>An analysis of smoldering fires in closed compartments and their hazard due to carbon monoxide</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2556"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2556"/>
-    <author surname="Quintiere"/>
-    <author surname="Birky"/>
-    <author surname="McDonald"/>
-    <author surname="Smith"/>
+    <author initials="J" surname="Quintiere">
+      <organization/>
+    </author>
+    <author initials="M" surname="Birky">
+      <organization/>
+    </author>
+    <author initials="F" surname="McDonald">
+      <organization/>
+    </author>
+    <author initials="G" surname="Smith">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2556"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2556"/>
 </reference>

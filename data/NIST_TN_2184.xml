@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2184" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2184.pdf">
   <front>
     <title>The Design and Performance of a Second-Generation Phi Meter</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2184"/>
-    <seriesInfo name="NIST" value="NIST TN 2184"/>
     <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2022" month="January" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2184"/>
+  <seriesInfo name="NIST" value="NIST TN 2184"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.4740" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4740.pdf">
   <front>
     <title>Form error models of the NIST Algorithm Testing System</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.4740"/>
-    <seriesInfo name="NIST" value="NIST IR 4740"/>
-    <author fullname="MaryElizabeth Algeo" initials="M.E." surname="Algeo"/>
-    <author fullname="Theodore Hopp" initials="T." surname="Hopp"/>
+    <author fullname="MaryElizabeth Algeo" initials="A" surname="Algeo">
+      <organization/>
+    </author>
+    <author fullname="Theodore Hopp" initials="H" surname="Hopp">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1992"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.4740"/>
+  <seriesInfo name="NIST" value="NIST IR 4740"/>
 </reference>

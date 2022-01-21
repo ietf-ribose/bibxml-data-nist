@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.500-126" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-126.pdf">
   <front>
     <title>A topological approach to the matching of single fingerprints</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.500-126"/>
-    <seriesInfo name="NIST" value="NBS SP 500-126"/>
-    <author fullname="Malcolm Sparrow" initials="M." surname="Sparrow"/>
-    <author fullname="Penelope Sparrow" initials="P." surname="Sparrow"/>
+    <author fullname="Malcolm Sparrow" initials="K" surname="Sparrow">
+      <organization/>
+    </author>
+    <author fullname="Penelope Sparrow" initials="J" surname="Sparrow">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.500-126"/>
+  <seriesInfo name="NIST" value="NBS SP 500-126"/>
 </reference>

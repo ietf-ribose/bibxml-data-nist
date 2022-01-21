@@ -1,9 +1,9 @@
 <reference anchor="NIST.IR.88-4000" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir88-4000.pdf">
   <front>
     <title>The effect of Chinese standardization on U. S. export opportunities</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4000"/>
-    <seriesInfo name="NIST" value="NIST IR 88-4000"/>
-    <author fullname="Yan Lin" initials="Y." surname="Lin"/>
+    <author fullname="Yan Lin" initials="Y." surname="Lin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1988"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.88-4000"/>
+  <seriesInfo name="NIST" value="NIST IR 88-4000"/>
 </reference>

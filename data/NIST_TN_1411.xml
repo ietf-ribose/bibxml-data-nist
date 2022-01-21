@@ -1,9 +1,9 @@
 <reference anchor="NIST.TN.1411" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1411.pdf">
   <front>
     <title>Reproducibility of the temperature of the ice point in routine measurements</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1411"/>
-    <seriesInfo name="NIST" value="NIST TN 1411"/>
-    <author surname="Mangum"/>
+    <author initials="BW" surname="Mangum">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1995"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1411"/>
+  <seriesInfo name="NIST" value="NIST TN 1411"/>
 </reference>

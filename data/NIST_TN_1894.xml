@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.1894" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1894.pdf">
   <front>
     <title>Effects of Wind Speed and Angle on Fire Spread along Privacy Fences</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1894"/>
-    <seriesInfo name="NIST" value="NIST TN 1894"/>
-    <author fullname="Erik Johnsson" initials="E." surname="Johnsson">
+    <author fullname="Erik Johnsson" initials="L" surname="Johnsson">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Alexander Maranghides" initials="A." surname="Maranghides">
@@ -14,4 +12,6 @@
     </author>
     <date year="2016" month="July"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1894"/>
+  <seriesInfo name="NIST" value="NIST TN 1894"/>
 </reference>

@@ -1,9 +1,9 @@
 <reference anchor="NBS.NSRDS.43supp" target="https://nvlpubs.nist.gov/nistpubs/Legacy/NSRDS/nbsnsrds43supp.pdf">
   <front>
     <title>Selected specific rates of reactions of transients from water in aqueous solution. hydrated electron, supplemental data</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.43supp"/>
-    <seriesInfo name="NIST" value="NBS NSRDS 43supp"/>
-    <author fullname="Alberta Ross" initials="A." surname="Ross"/>
+    <author fullname="Alberta Ross" initials="B" surname="Ross">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1975"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.NSRDS.43supp"/>
+  <seriesInfo name="NIST" value="NBS NSRDS 43supp"/>
 </reference>

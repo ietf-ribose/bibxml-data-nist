@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.460" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication460.pdf">
   <front>
     <title>Use of Monte Carlo calculations in electron probe microanalysis and scanning electron microscopy</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.460"/>
-    <seriesInfo name="NIST" value="NBS SP 460"/>
-    <author fullname="Kurt Heinrich" initials="K." surname="Heinrich"/>
-    <author fullname="Dale Newbury" initials="D." surname="Newbury"/>
-    <author fullname="Harvey Yakowitz" initials="H." surname="Yakowitz"/>
+    <author fullname="Kurt Heinrich" initials="FJ" surname="Heinrich">
+      <organization/>
+    </author>
+    <author fullname="Dale Newbury" initials="E" surname="Newbury">
+      <organization/>
+    </author>
+    <author fullname="Harvey Yakowitz" initials="H." surname="Yakowitz">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.460"/>
+  <seriesInfo name="NIST" value="NBS SP 460"/>
 </reference>

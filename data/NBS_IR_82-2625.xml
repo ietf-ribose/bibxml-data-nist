@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2625" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2625.pdf">
   <front>
     <title>A taxonomy of tool features for the Ada Programming Support Environment (APSE)</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2625"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2625"/>
-    <author fullname="Raymond Houghton" initials="R." surname="Houghton"/>
+    <author fullname="Raymond Houghton" initials="C" surname="Houghton">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2625"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2625"/>
 </reference>

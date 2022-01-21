@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7717" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7717.pdf">
   <front>
     <title>Use cases for the management and maintenance of multi-domain AP210 component models</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7717"/>
-    <seriesInfo name="NIST" value="NIST IR 7717"/>
-    <author fullname="Jamie Stori" initials="J." surname="Stori"/>
-    <author fullname="Kevin Brady" initials="K." surname="Brady"/>
-    <author fullname="Thomas Thurman" initials="T." surname="Thurman"/>
-    <author fullname="Rockwell Collins" initials="R." surname="Collins"/>
+    <author fullname="Jamie Stori" initials="J." surname="Stori">
+      <organization/>
+    </author>
+    <author fullname="Kevin Brady" initials="K." surname="Brady">
+      <organization/>
+    </author>
+    <author fullname="Thomas Thurman" initials="T." surname="Thurman">
+      <organization/>
+    </author>
+    <author fullname="Rockwell Collins" initials="R." surname="Collins">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7717"/>
+  <seriesInfo name="NIST" value="NIST IR 7717"/>
 </reference>

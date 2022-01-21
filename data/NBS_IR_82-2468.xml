@@ -1,9 +1,9 @@
 <reference anchor="NBS.IR.82-2468" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir82-2468.pdf">
   <front>
     <title>Technical activities 1981 :Center for Radiation Research</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2468"/>
-    <seriesInfo name="NIST" value="NBS IR 82-2468"/>
-    <author fullname="Chris Kuyatt" initials="C." surname="Kuyatt"/>
+    <author fullname="Chris Kuyatt" initials="E" surname="Kuyatt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.82-2468"/>
+  <seriesInfo name="NIST" value="NBS IR 82-2468"/>
 </reference>

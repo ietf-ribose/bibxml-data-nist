@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.79-1749" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir79-1749.pdf">
   <front>
     <title>Full-scale test with automatic sprinklers in a patient room</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1749"/>
-    <seriesInfo name="NIST" value="NBS IR 79-1749"/>
-    <author fullname="John O'Neill" initials="J." surname="O'Neill"/>
-    <author fullname="Warren Hayes" initials="W." surname="Hayes"/>
+    <author fullname="John O'Neill" initials="G" surname="O'Neill">
+      <organization/>
+    </author>
+    <author fullname="Warren Hayes" initials="D" surname="Hayes">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.79-1749"/>
+  <seriesInfo name="NIST" value="NBS IR 79-1749"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.6348" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6348.pdf">
   <front>
     <title>Assessing algorithms as computational models for human face recognition</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.6348"/>
-    <seriesInfo name="NIST" value="NIST IR 6348"/>
-    <author fullname="Jonathon Phillips" initials="J." surname="Phillips"/>
-    <author fullname="Alice O'Toole" initials="A." surname="O'Toole"/>
-    <author fullname="Yi Cheng" initials="Y." surname="Cheng"/>
-    <author fullname="Brendan Ross" initials="B." surname="Ross"/>
-    <author fullname="Heather Wild" initials="H." surname="Wild"/>
+    <author fullname="Jonathon Phillips" initials="P" surname="Phillips">
+      <organization/>
+    </author>
+    <author fullname="Alice O'Toole" initials="J" surname="O'Toole">
+      <organization/>
+    </author>
+    <author fullname="Yi Cheng" initials="Y." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="Brendan Ross" initials="B." surname="Ross">
+      <organization/>
+    </author>
+    <author fullname="Heather Wild" initials="A" surname="Wild">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="1999"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.6348"/>
+  <seriesInfo name="NIST" value="NIST IR 6348"/>
 </reference>

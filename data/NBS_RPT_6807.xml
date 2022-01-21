@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.6807" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport6807.pdf">
   <front>
     <title>Fuel potential test method</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.6807"/>
-    <seriesInfo name="NIST" value="NBS RPT 6807"/>
-    <author surname="Loftus"/>
-    <author surname="Gross"/>
-    <author surname="Robertson"/>
+    <author initials="JJ" surname="Loftus">
+      <organization/>
+    </author>
+    <author initials="D" surname="Gross">
+      <organization/>
+    </author>
+    <author initials="AF" surname="Robertson">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1960"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.6807"/>
+  <seriesInfo name="NIST" value="NBS RPT 6807"/>
 </reference>

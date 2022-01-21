@@ -1,12 +1,18 @@
 <reference anchor="NIST.IR.7547" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7547.pdf">
   <front>
     <title>NDRprofile schema version 1.0 user guide</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7547"/>
-    <seriesInfo name="NIST" value="NIST IR 7547"/>
-    <author fullname="Betty Harvey" initials="B." surname="Harvey"/>
-    <author fullname="Joshua Lubell" initials="J." surname="Lubell"/>
-    <author fullname="Puja Goyal" initials="P." surname="Goyal"/>
-    <author fullname="KC Morris" initials="K." surname="Morris"/>
+    <author fullname="Betty Harvey" initials="B." surname="Harvey">
+      <organization/>
+    </author>
+    <author fullname="Joshua Lubell" initials="J." surname="Lubell">
+      <organization/>
+    </author>
+    <author fullname="Puja Goyal" initials="P." surname="Goyal">
+      <organization/>
+    </author>
+    <author fullname="KC Morris" initials="K." surname="Morris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -19,4 +25,6 @@
     </author>
     <date year="2008"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7547"/>
+  <seriesInfo name="NIST" value="NIST IR 7547"/>
 </reference>

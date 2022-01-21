@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.255" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote255.pdf">
   <front>
     <title>PLACEBO IV:rules, concordance, sample computer generation.</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.255"/>
-    <seriesInfo name="NIST" value="NBS TN 255"/>
-    <author fullname="William Watt" initials="W." surname="Watt"/>
+    <author fullname="William Watt" initials="C" surname="Watt">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1965"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.255"/>
+  <seriesInfo name="NIST" value="NBS TN 255"/>
 </reference>

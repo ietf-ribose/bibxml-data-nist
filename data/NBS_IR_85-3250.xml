@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.85-3250" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3250.pdf">
   <front>
     <title>Characteristics and functions of software engineering environments</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3250"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3250"/>
-    <author fullname="Raymond Houghton" initials="R." surname="Houghton"/>
-    <author fullname="Dolores Wallace" initials="D." surname="Wallace"/>
+    <author fullname="Raymond Houghton" initials="C" surname="Houghton">
+      <organization/>
+    </author>
+    <author fullname="Dolores Wallace" initials="R" surname="Wallace">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3250"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3250"/>
 </reference>

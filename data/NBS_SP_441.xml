@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.441" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication441.pdf">
   <front>
     <title>Successful experiences in teaching metric</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.441"/>
-    <seriesInfo name="NIST" value="NBS SP 441"/>
-    <author fullname="Jeffrey Odom" initials="J." surname="Odom"/>
+    <author fullname="Jeffrey Odom" initials="V" surname="Odom">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.441"/>
+  <seriesInfo name="NIST" value="NBS SP 441"/>
 </reference>

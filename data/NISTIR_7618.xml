@@ -1,10 +1,12 @@
 <reference anchor="NIST.IR.7618" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7618.pdf">
   <front>
     <title>STEP-OAGIS harmonization joint working group :PDM subgroup interim report</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7618"/>
-    <seriesInfo name="NIST" value="NIST IR 7618"/>
-    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini"/>
-    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri"/>
+    <author fullname="Xenia Fiorentini" initials="X." surname="Fiorentini">
+      <organization/>
+    </author>
+    <author fullname="Sudarsan Rachuri" initials="S." surname="Rachuri">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="2009"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7618"/>
+  <seriesInfo name="NIST" value="NIST IR 7618"/>
 </reference>

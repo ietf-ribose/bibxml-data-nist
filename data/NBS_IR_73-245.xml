@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.73-245" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir73-245.pdf">
   <front>
     <title>Toward new concepts of management applicable to the U.S. Bureau of Mines' Energy Research Program</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.73-245"/>
-    <seriesInfo name="NIST" value="NBS IR 73-245"/>
-    <author fullname="Robert Cutler" initials="R." surname="Cutler"/>
-    <author fullname="MaryEllen Golby" initials="M.E." surname="Golby"/>
+    <author fullname="Robert Cutler" initials="S" surname="Cutler">
+      <organization/>
+    </author>
+    <author fullname="MaryEllen Golby" initials="M.E." surname="Golby">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1973"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.73-245"/>
+  <seriesInfo name="NIST" value="NBS IR 73-245"/>
 </reference>

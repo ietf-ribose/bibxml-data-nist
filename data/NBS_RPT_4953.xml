@@ -1,11 +1,15 @@
 <reference anchor="NBS.RPT.4953" target="https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport4953.pdf">
   <front>
     <title>Spectrophotometric and colorimetric study of color transparencies of some man-made objects</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.RPT.4953"/>
-    <seriesInfo name="NIST" value="NBS RPT 4953"/>
-    <author fullname="Harry Keegan" initials="H." surname="Keegan"/>
-    <author fullname="Galdys Haas" initials="G." surname="Haas"/>
-    <author fullname="WileyA,Jr Hall" initials="W.A.J." surname="Hall"/>
+    <author fullname="Harry Keegan" initials="J" surname="Keegan">
+      <organization/>
+    </author>
+    <author fullname="Galdys Haas" initials="M" surname="Haas">
+      <organization/>
+    </author>
+    <author fullname="WileyA,Jr Hall" initials="W.A.J." surname="Hall">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1957"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.RPT.4953"/>
+  <seriesInfo name="NIST" value="NBS RPT 4953"/>
 </reference>

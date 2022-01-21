@@ -1,9 +1,7 @@
 <reference anchor="NIST.TN.2016" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2016.pdf">
   <front>
     <title>Spectrum occupancy and ambient power distributions for the 3.5 GHz band estimated from observations at Point Loma and Fort Story</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2016"/>
-    <seriesInfo name="NIST" value="NIST TN 2016"/>
-    <author fullname="Max Lees" initials="M." surname="Lees">
+    <author fullname="Max Lees" initials="W" surname="Lees">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author fullname="Adam Wunderlich" initials="A." surname="Wunderlich">
@@ -12,10 +10,10 @@
     <author fullname="Peter Jeavons" initials="P." surname="Jeavons">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Paul Hale" initials="P." surname="Hale">
+    <author fullname="Paul Hale" initials="D" surname="Hale">
       <organization>Communications Technology Laboratory</organization>
     </author>
-    <author fullname="Michael Souryal" initials="M." surname="Souryal">
+    <author fullname="Michael Souryal" initials="R" surname="Souryal">
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
@@ -30,4 +28,6 @@
     </author>
     <date year="2018" month="September"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2016"/>
+  <seriesInfo name="NIST" value="NIST TN 2016"/>
 </reference>

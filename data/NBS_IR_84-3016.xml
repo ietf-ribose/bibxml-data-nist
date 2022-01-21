@@ -1,10 +1,12 @@
 <reference anchor="NBS.IR.84-3016" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir84-3016.pdf">
   <front>
     <title>A generalized method for the calibration of four-terminal-pair type digital impedance meters</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3016"/>
-    <seriesInfo name="NIST" value="NBS IR 84-3016"/>
-    <author surname="Judish"/>
-    <author surname="Jones"/>
+    <author initials="RM" surname="Judish">
+      <organization/>
+    </author>
+    <author initials="RN" surname="Jones">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.84-3016"/>
+  <seriesInfo name="NIST" value="NBS IR 84-3016"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="NBS.IR.77-1385" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1385.pdf">
   <front>
     <title>Report to AID on an NBSAID workshop on standardization and measurement services</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1385"/>
-    <seriesInfo name="NIST" value="NBS IR 77-1385"/>
-    <author fullname="Steffen Peisner" initials="S." surname="Peisner"/>
-    <author fullname="Charles Raley" initials="C." surname="Raley"/>
-    <author fullname="Cathy Schroyer" initials="C." surname="Schroyer"/>
+    <author fullname="Steffen Peisner" initials="H" surname="Peisner">
+      <organization/>
+    </author>
+    <author fullname="Charles Raley" initials="C" surname="Raley">
+      <organization/>
+    </author>
+    <author fullname="Cathy Schroyer" initials="A" surname="Schroyer">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1977"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.77-1385"/>
+  <seriesInfo name="NIST" value="NBS IR 77-1385"/>
 </reference>

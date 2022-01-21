@@ -1,11 +1,15 @@
 <reference anchor="NBS.SP.642" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication642.pdf">
   <front>
     <title>Construction materials for coal conversion</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.642"/>
-    <seriesInfo name="NIST" value="NBS SP 642"/>
-    <author fullname="Helen Ondik" initials="H." surname="Ondik"/>
-    <author fullname="Bruce Christ" initials="B." surname="Christ"/>
-    <author fullname="Alvin Perloff" initials="A." surname="Perloff"/>
+    <author fullname="Helen Ondik" initials="M" surname="Ondik">
+      <organization/>
+    </author>
+    <author fullname="Bruce Christ" initials="W" surname="Christ">
+      <organization/>
+    </author>
+    <author fullname="Alvin Perloff" initials="A." surname="Perloff">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="1982"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.642"/>
+  <seriesInfo name="NIST" value="NBS SP 642"/>
 </reference>

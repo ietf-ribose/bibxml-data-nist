@@ -1,8 +1,6 @@
 <reference anchor="NIST.IR.7928" target="https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7928.pdf">
   <front>
     <title>The biological evidence preservation handbook : best practices for evidence handlers ; technical working group on biological evidence preservation</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7928"/>
-    <seriesInfo name="NIST" value="NIST IR 7928"/>
     <author fullname="Susan Ballou" initials="S." surname="Ballou">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
@@ -12,7 +10,7 @@
     <author fullname="Melissa Taylor" initials="M." surname="Taylor">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
-    <author fullname="Phylis Bamberger" initials="P." surname="Bamberger">
+    <author fullname="Phylis Bamberger" initials="S" surname="Bamberger">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
     <author fullname="Larry Brown" initials="L." surname="Brown">
@@ -54,13 +52,13 @@
     <author fullname="Gerry LaPorte" initials="G." surname="LaPorte">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
-    <author fullname="Linda Ledray" initials="L." surname="Ledray">
+    <author fullname="Linda Ledray" initials="E" surname="Ledray">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
     <author fullname="Randy Nagy" initials="R." surname="Nagy">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
-    <author fullname="Brian Ostrom" initials="B." surname="Ostrom">
+    <author fullname="Brian Ostrom" initials="E" surname="Ostrom">
       <organization>Office of Special Programs, Law Enforcement Standards Office</organization>
     </author>
     <author fullname="Lisa Schwind" initials="L." surname="Schwind">
@@ -74,4 +72,6 @@
     </author>
     <date year="2013" month="April"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7928"/>
+  <seriesInfo name="NIST" value="NIST IR 7928"/>
 </reference>

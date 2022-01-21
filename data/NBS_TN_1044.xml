@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1044" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1044.pdf">
   <front>
     <title>WR 10 millimeter wave microcalorimeter</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1044"/>
-    <seriesInfo name="NIST" value="NBS TN 1044"/>
-    <author fullname="Manly Weidman" initials="M." surname="Weidman"/>
+    <author fullname="Manly Weidman" initials="P" surname="Weidman">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1981"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1044"/>
+  <seriesInfo name="NIST" value="NBS TN 1044"/>
 </reference>

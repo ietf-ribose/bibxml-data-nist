@@ -1,11 +1,15 @@
 <reference anchor="NIST.SP.250-78" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-78.pdf">
   <front>
     <title>NIST calibration services for hydrometers</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.SP.250-78"/>
-    <seriesInfo name="NIST" value="NIST SP 250-78"/>
-    <author fullname="John Wright" initials="J." surname="Wright"/>
-    <author fullname="Vern Bean" initials="V." surname="Bean"/>
-    <author fullname="Jesus Aguilera" initials="J." surname="Aguilera"/>
+    <author fullname="John Wright" initials="D" surname="Wright">
+      <organization/>
+    </author>
+    <author fullname="Vern Bean" initials="E" surname="Bean">
+      <organization/>
+    </author>
+    <author fullname="Jesus Aguilera" initials="J." surname="Aguilera">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -18,4 +22,6 @@
     </author>
     <date year="2010"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-78"/>
+  <seriesInfo name="NIST" value="NIST SP 250-78"/>
 </reference>

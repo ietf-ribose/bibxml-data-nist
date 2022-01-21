@@ -1,15 +1,27 @@
 <reference anchor="NBS.IR.76-1041" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1041.pdf">
   <front>
     <title>Security analysis and enhancements of computer operating systems</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1041"/>
-    <seriesInfo name="NIST" value="NBS IR 76-1041"/>
-    <author surname="Abbott"/>
-    <author surname="Chin"/>
-    <author surname="Donnelley"/>
-    <author surname="Konigsford"/>
-    <author surname="Tokubo"/>
-    <author surname="Webb"/>
-    <author surname="Linden"/>
+    <author initials="RP" surname="Abbott">
+      <organization/>
+    </author>
+    <author initials="JS" surname="Chin">
+      <organization/>
+    </author>
+    <author initials="JE" surname="Donnelley">
+      <organization/>
+    </author>
+    <author initials="WL" surname="Konigsford">
+      <organization/>
+    </author>
+    <author initials="S" surname="Tokubo">
+      <organization/>
+    </author>
+    <author initials="DA" surname="Webb">
+      <organization/>
+    </author>
+    <author initials="TA" surname="Linden">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -22,4 +34,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.76-1041"/>
+  <seriesInfo name="NIST" value="NBS IR 76-1041"/>
 </reference>

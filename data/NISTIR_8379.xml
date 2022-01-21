@@ -1,9 +1,7 @@
 <reference anchor="NIST.IR.8379" target="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8379.pdf">
   <front>
     <title>Summary Report for the Virtual Workshop Addressing Public Comment on NIST Cybersecurity for IoT Guidance</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.8379"/>
-    <seriesInfo name="NIST" value="NIST IR 8379"/>
-    <author fullname="Katerina Megas" initials="K." surname="Megas">
+    <author fullname="Katerina Megas" initials="N" surname="Megas">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Michael Fagan" initials="M." surname="Fagan">
@@ -17,4 +15,6 @@
     </author>
     <date year="2021" month="September" day="9"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8379"/>
+  <seriesInfo name="NIST" value="NIST IR 8379"/>
 </reference>

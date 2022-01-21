@@ -1,14 +1,24 @@
 <reference anchor="NBS.IR.85-3147" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir85-3147.pdf">
   <front>
     <title>Evaluation of the thermal integrity of the building envelopes of eight federal office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3147"/>
-    <seriesInfo name="NIST" value="NBS IR 85-3147"/>
-    <author fullname="Richard Grot" initials="R." surname="Grot"/>
-    <author fullname="May Chang" initials="M." surname="Chang"/>
-    <author fullname="Stephen Weber" initials="S." surname="Weber"/>
-    <author fullname="Andrew Persily" initials="A." surname="Persily"/>
-    <author fullname="Jin Fang" initials="J." surname="Fang"/>
-    <author fullname="Lawrence Galowin" initials="L." surname="Galowin"/>
+    <author fullname="Richard Grot" initials="A" surname="Grot">
+      <organization/>
+    </author>
+    <author fullname="May Chang" initials="Y" surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="Stephen Weber" initials="S." surname="Weber">
+      <organization/>
+    </author>
+    <author fullname="Andrew Persily" initials="K" surname="Persily">
+      <organization/>
+    </author>
+    <author fullname="Jin Fang" initials="B" surname="Fang">
+      <organization/>
+    </author>
+    <author fullname="Lawrence Galowin" initials="S" surname="Galowin">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -21,4 +31,6 @@
     </author>
     <date year="1985"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.IR.85-3147"/>
+  <seriesInfo name="NIST" value="NBS IR 85-3147"/>
 </reference>

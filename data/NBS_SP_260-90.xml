@@ -1,10 +1,12 @@
 <reference anchor="NBS.SP.260-90" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication260-90.pdf">
   <front>
     <title>Standard Reference Materials :Update of thermal conductivity and electrical resistivity of electrolytic iron, tungsten, and stainless steel/</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.260-90"/>
-    <seriesInfo name="NIST" value="NBS SP 260-90"/>
-    <author fullname="Alan Lankford" initials="A." surname="Lankford"/>
-    <author fullname="Jerome Hust" initials="J." surname="Hust"/>
+    <author fullname="Alan Lankford" initials="B" surname="Lankford">
+      <organization/>
+    </author>
+    <author fullname="Jerome Hust" initials="G" surname="Hust">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1984"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.260-90"/>
+  <seriesInfo name="NIST" value="NBS SP 260-90"/>
 </reference>

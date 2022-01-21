@@ -1,9 +1,9 @@
 <reference anchor="NBS.SP.353" target="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication353.pdf">
   <front>
     <title>The Menzel symposium on solar physics, atomic spectra, and gaseous nebulae</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.SP.353"/>
-    <seriesInfo name="NIST" value="NBS SP 353"/>
-    <author fullname="Katharine Gebbie" initials="K." surname="Gebbie"/>
+    <author fullname="Katharine Gebbie" initials="B" surname="Gebbie">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1971"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.SP.353"/>
+  <seriesInfo name="NIST" value="NBS SP 353"/>
 </reference>

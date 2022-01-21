@@ -1,9 +1,9 @@
 <reference anchor="NBS.BSS.85" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience85.pdf">
   <front>
     <title>Survey results for fire loads and live loads in office buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.85"/>
-    <seriesInfo name="NIST" value="NBS BSS 85"/>
-    <author fullname="Charles Culver" initials="C." surname="Culver"/>
+    <author fullname="Charles Culver" initials="G" surname="Culver">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1976"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.85"/>
+  <seriesInfo name="NIST" value="NBS BSS 85"/>
 </reference>

@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1785" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1785.pdf">
   <front>
     <title>Thermal Performance of SelfContained Breathing Apparatus Facepiece Lenses Exposed to Radiant Heat Flux</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1785"/>
-    <seriesInfo name="NIST" value="NIST TN 1785"/>
     <author fullname="Anthony Putorti Jr" initials="A." surname="Putorti Jr">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -20,4 +18,6 @@
     </author>
     <date year="2013" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1785"/>
+  <seriesInfo name="NIST" value="NIST TN 1785"/>
 </reference>

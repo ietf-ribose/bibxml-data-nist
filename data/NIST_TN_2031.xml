@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.2031" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2031.pdf">
   <front>
     <title>Temperature field measurements using thin filament pyrometry in a medium-scale methanol pool fire</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.2031"/>
-    <seriesInfo name="NIST" value="NIST TN 2031"/>
     <author fullname="Zhigang Wang" initials="Z." surname="Wang">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -27,4 +25,6 @@
     </author>
     <date year="2018" month="November"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2031"/>
+  <seriesInfo name="NIST" value="NIST TN 2031"/>
 </reference>

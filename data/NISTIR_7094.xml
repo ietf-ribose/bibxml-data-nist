@@ -1,13 +1,21 @@
 <reference anchor="NIST.IR.7094" target="https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7094.pdf">
   <front>
     <title>Structural collapse fire tests:single story, wood frame structures</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.IR.7094"/>
-    <seriesInfo name="NIST" value="NIST IR 7094"/>
-    <author fullname="David Stroup" initials="D." surname="Stroup"/>
-    <author fullname="Nelson Bryner" initials="N." surname="Bryner"/>
-    <author fullname="JackLeeJay McElroy" initials="J.L." surname="McElroy"/>
-    <author fullname="Gary Roadarmel" initials="G." surname="Roadarmel"/>
-    <author fullname="William Twilley" initials="W." surname="Twilley"/>
+    <author fullname="David Stroup" initials="W" surname="Stroup">
+      <organization/>
+    </author>
+    <author fullname="Nelson Bryner" initials="P" surname="Bryner">
+      <organization/>
+    </author>
+    <author fullname="JackLeeJay McElroy" initials="J.L." surname="McElroy">
+      <organization/>
+    </author>
+    <author fullname="Gary Roadarmel" initials="G." surname="Roadarmel">
+      <organization/>
+    </author>
+    <author fullname="William Twilley" initials="H" surname="Twilley">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
       <address>
@@ -20,4 +28,6 @@
     </author>
     <date year="2004"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7094"/>
+  <seriesInfo name="NIST" value="NIST IR 7094"/>
 </reference>

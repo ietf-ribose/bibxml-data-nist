@@ -1,8 +1,6 @@
 <reference anchor="NIST.TN.1861" target="https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1861.pdf">
   <front>
     <title>A Review of Test Methods for Determining Protective Capabilities of Fire Fighter Protective Clothing from Steam</title>
-    <seriesInfo name="DOI" value="10.6028/NIST.TN.1861"/>
-    <seriesInfo name="NIST" value="NIST TN 1861"/>
     <author fullname="Shonali Nazare" initials="S." surname="Nazare">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,4 +12,6 @@
     </author>
     <date year="2015" month="February"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1861"/>
+  <seriesInfo name="NIST" value="NIST TN 1861"/>
 </reference>

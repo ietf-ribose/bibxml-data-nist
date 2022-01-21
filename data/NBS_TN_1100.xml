@@ -1,9 +1,9 @@
 <reference anchor="NBS.TN.1100" target="https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1100.pdf">
   <front>
     <title>Analysis of tentative seismic design provisions for buildings</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.TN.1100"/>
-    <seriesInfo name="NIST" value="NBS TN 1100"/>
-    <author fullname="JamesRobert Harris" initials="J.R." surname="Harris"/>
+    <author fullname="JamesRobert Harris" initials="J.R." surname="Harris">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -16,4 +16,6 @@
     </author>
     <date year="1979"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1100"/>
+  <seriesInfo name="NIST" value="NBS TN 1100"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="NBS.BSS.155" target="https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience155.pdf">
   <front>
     <title>Computer modeling of the vapor compression cycle with constant flow area expansion device</title>
-    <seriesInfo name="DOI" value="10.6028/NBS.BSS.155"/>
-    <seriesInfo name="NIST" value="NBS BSS 155"/>
-    <author fullname="Piotr Domanski" initials="P." surname="Domanski"/>
-    <author fullname="David Didion" initials="D." surname="Didion"/>
+    <author fullname="Piotr Domanski" initials="P." surname="Domanski">
+      <organization/>
+    </author>
+    <author fullname="David Didion" initials="D." surname="Didion">
+      <organization/>
+    </author>
     <author>
       <organization abbrev="NBS">National Bureau of Standards</organization>
       <address>
@@ -17,4 +19,6 @@
     </author>
     <date year="1983"/>
   </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.BSS.155"/>
+  <seriesInfo name="NIST" value="NBS BSS 155"/>
 </reference>
