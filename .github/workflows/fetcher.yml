@@ -21,7 +21,7 @@ jobs:
           gem install relaton-cli
       - name: Fetch documents
         run: |
-          rm -f data/*
+          rm -f data
           relaton fetch-data nist-tech-pubs -f bibxml
       - name: Push data
         run: |
