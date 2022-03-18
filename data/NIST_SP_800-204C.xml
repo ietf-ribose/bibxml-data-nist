@@ -1,0 +1,14 @@
+<reference anchor="NIST.SP.800-204C" target="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf">
+  <front>
+    <title>Implementation of DevSecOps for a Microservices-based Application with Service Mesh</title>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+    </author>
+    <date year="2022" month="March" day="8"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-204C"/>
+  <seriesInfo name="NIST" value="NIST SP 800-204C"/>
+</reference>
