@@ -6,9 +6,16 @@
     </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="July"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.HB.159"/>
-  <seriesInfo name="NIST" value="NIST HB 159"/>
+  <seriesInfo name="NIST Handbooks" value="NIST HB"/>
 </reference>

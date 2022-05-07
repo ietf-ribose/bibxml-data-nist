@@ -18,9 +18,16 @@
     </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May" day="13"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-14"/>
-  <seriesInfo name="NIST" value="NIST SP 1500-14"/>
+  <seriesInfo name="NIST Special Publications (General)" value="NIST SP"/>
 </reference>

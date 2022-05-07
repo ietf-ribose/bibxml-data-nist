@@ -12,9 +12,16 @@
     </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="August"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.164"/>
-  <seriesInfo name="NIST" value="NIST NSRDS 164"/>
+  <seriesInfo name="NIST National Standard Reference Data Series" value="NIST NSRDS"/>
 </reference>

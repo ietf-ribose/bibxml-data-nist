@@ -21,9 +21,16 @@
     </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2021" month="March" day="29"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-40"/>
-  <seriesInfo name="NIST" value="NIST AMS 100-40"/>
+  <seriesInfo name="NIST Advanced Manufacturing Series" value="NIST AMS"/>
 </reference>

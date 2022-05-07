@@ -15,9 +15,15 @@
     </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg,MD</city>
+          <country>US</country>
+        </postal>
+      </address>
     </author>
     <date year="2021" month="May" day="13"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8358"/>
-  <seriesInfo name="NIST" value="NIST IR 8358"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="NIST IR"/>
 </reference>

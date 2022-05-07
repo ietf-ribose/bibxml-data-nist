@@ -12,9 +12,16 @@
     </author>
     <author>
       <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April" day="23"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.CSWP.04232020"/>
-  <seriesInfo name="NIST" value="NIST CSWP 04232020"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="NIST CSWP"/>
 </reference>
