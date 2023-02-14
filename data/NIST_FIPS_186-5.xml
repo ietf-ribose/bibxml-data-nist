@@ -1,0 +1,22 @@
+<reference anchor="NIST.FIPS.186-5" target="https://doi.org/10.6028/NIST.FIPS.186-5">
+  <front>
+    <title>Digital Signature Standard (DSS)</title>
+    <author fullname="Dustin Moody" initials="D." surname="Moody">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2023"/>
+    <abstract/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.FIPS.186-5"/>
+  <seriesInfo name="NIST Federal Information Processing Standards Publications" value="186-5"/>
+</reference>
