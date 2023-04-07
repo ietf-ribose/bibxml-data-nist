@@ -1,6 +1,6 @@
 <reference anchor="NIST.IR.8357" target="https://doi.org/10.6028/NIST.IR.8357">
   <front>
-    <title>Evaluation of Experimental and Predicted Vapor-Liquid Equilibrium Data for Systems Relevant to Biomass Fast Pyrolysis and Catalytic Upgrading</title>
+    <title>Evaluation of experimental and predicted vapor-liquid equilibrium data for systems relevant to biomass fast pyrolysis and catalytic upgrading</title>
     <author fullname="Eugene Paulechka" initials="E." surname="Paulechka">
       <organization>Material Measurement Laboratory</organization>
     </author>
@@ -11,7 +11,7 @@
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -21,6 +21,7 @@
       </address>
     </author>
     <date year="2021" month="March" day="29"/>
+    <abstract>The experimental vapor-liquid equilibrium (VLE) data for the binaries relevant to the catalytic fast pyrolysis of biomass have been collected and analyzed using the NIST-COSMO-SAC and NIST-modified UNIFAC models. The existing inconsistencies in the experimental data and the predicted values are discussed. For VLE with furan derivatives, PTxy data are normally reported, which are in good agreement with the predicted values. For phenolic compounds, the gas phase compositions are available for only 36 % of the points, most results originate from a few laboratories, and each system has been typically studied in a single laboratory. The binaries are identified where more experimental VLE data are required to evaluate quality of the existing experimental and predicted results.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8357"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8357"/>

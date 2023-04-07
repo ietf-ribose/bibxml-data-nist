@@ -1,20 +1,20 @@
 <reference anchor="NIST.TN.2151" target="https://doi.org/10.6028/NIST.TN.2151">
   <front>
-    <title>Challenge Design and Lessons Learned from the 2018 Differential Privacy Challenges</title>
+    <title>Challenge design and lessons learned from the 2018 differential privacy challenges</title>
     <author fullname="Diane Ridgeway" initials="D." surname="Ridgeway">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mary F. Theofanos" initials="M." surname="Theofanos">
+    <author fullname="Mary F Theofanos" initials="M." surname="Theofanos">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Terese W. Manley" initials="T." surname="Manley">
+    <author fullname="Terese W Manley" initials="T." surname="Manley">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Christine Task" initials="C." surname="Task">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -24,6 +24,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="12"/>
+    <abstract>The push for open data has made a multitude of datasets available enabling researchers to analyze publicly available information using various statistical and machine learning methods in support of policy development. An area of increasing interest that is being made available is public safety data, which can include both sensitive information and Personally Identifiable Information (PII). Release of sensitive data and PII can lead to individual and organizational harm. However, the removal of PII alone is an insufficient approach to preventing linkage attacks -- the process of combining unrelated data to identify individuals and entities. A growing body of academic research in the field of differential privacy exists which claims strict mathematical guarantees of data privacy, but with a potentially greater loss of dataset utility. In 2017 National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division initiated efforts to test, evaluate and strengthen research in differential privacy and add to its growing body of knowledge by making available open source algorithms for public safety use. This publication describes the design and results of PSCR's multi-phased innovation prize challenge and makes recommendations for conducting future challenges in differential privacy.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2151"/>
   <seriesInfo name="NIST Technical Notes" value="2151"/>

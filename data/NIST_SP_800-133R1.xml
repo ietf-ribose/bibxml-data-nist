@@ -8,7 +8,7 @@
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -17,7 +17,8 @@
         </postal>
       </address>
     </author>
-    <date year="2019" month="July" day="19"/>
+    <date year="2021" month="June" day="1"/>
+    <abstract>Cryptography is often used in an information technology security environment to protect data that is sensitive, has a high value, or is vulnerable to unauthorized disclosure or undetected modification during transmission or while in storage. Cryptography relies upon two basic components: an algorithm (or cryptographic methodology) and a cryptographic key. This Recommendation discusses the generation of the keys to be managed and used by the approved cryptographic algorithms.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.800-133r1"/>
   <seriesInfo name="NIST Special Publications (General)" value="800-133r1"/>

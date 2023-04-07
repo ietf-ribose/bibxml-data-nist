@@ -1,6 +1,6 @@
 <reference anchor="NIST.SP.1800-27" target="https://doi.org/10.6028/NIST.SP.1800-27">
   <front>
-    <title>Securing Property Management Systems</title>
+    <title>Securing property management systems</title>
     <author fullname="William Newhouse" initials="W." surname="Newhouse">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -14,7 +14,7 @@
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -23,7 +23,8 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="March" day="29"/>
+    <date year="2021" month="March" day="30"/>
+    <abstract>Hotels have become targets for malicious actors wishing to exfiltrate sensitive data, deliver malware, or profit from undetected fraud. Property management systems, which are central to hotel operations, present attractive attack surfaces. This example implementation strives to increase the cybersecurity of the Property Management System (PMS) and offer privacy protections for the data in the PMS. The objective of this guide was to build a standards-based example implementation that utilizes readily available commercial off-the-shelf components that enhance the security of a PMS. The NCCoE at NIST built a PMS reference design in a laboratory environment to demonstrate methods to improve the cybersecurity of a PMS. The PMS reference design included the PMS, a credit card payment platform, and an analogous ancillary hotel system. In this example implementation, a physical access control system was used as the ancillary system. The principal capabilities include protecting sensitive data, enforcing role-based access control, and monitoring for anomalies. The principal recommendations include implementing cybersecurity concepts such as zero trust architecture, moving target defense, tokenization of credit card data, and role-based authentication. The PMS environment outlined in this guide encourages hoteliers and similar stakeholders to adopt effective cybersecurity and privacy concepts by using standard components that are composed of open-source and commercially available components.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-27"/>
   <seriesInfo name="NIST Special Publications (General)" value="1800-27"/>
