@@ -1,0 +1,36 @@
+<reference anchor="NIST.SP.800-84" target="https://doi.org/10.6028/NIST.SP.800-84">
+  <front>
+    <title>Guide to test, training, and exercise programs for IT plans and capabilities</title>
+    <author fullname="T Grance" initials="T" surname="Grance">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="T Nolan" initials="T" surname="Nolan">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="K Burke" initials="K" surname="Burke">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="R Dudley" initials="R" surname="Dudley">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="G White" initials="G" surname="White">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="T Good" initials="T" surname="Good">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2006"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-84"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-84"/>
+</reference>

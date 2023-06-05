@@ -1,0 +1,33 @@
+<reference anchor="NIST.SP.1800-6" target="https://doi.org/10.6028/NIST.SP.1800-6">
+  <front>
+    <title>Domain name system-based electronic mail security</title>
+    <author fullname="Scott Rose" initials="S." surname="Rose">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William Barker" initials="W." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Santos Jha" initials="S." surname="Jha">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Chinedum Irrechukwu" initials="C." surname="Irrechukwu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Waltermire" initials="K." surname="Waltermire">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="January"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-6"/>
+  <seriesInfo name="NIST Special Publications (General)" value="1800-6"/>
+</reference>

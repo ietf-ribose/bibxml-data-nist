@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-78-2" target="https://doi.org/10.6028/NIST.SP.800-78-2">
+  <front>
+    <title>Cryptographic algorithms and key sizes for personal identity verification</title>
+    <author fullname="W T T Polk" initials="W T" surname="Polk">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="D F F Dodson" initials="D F" surname="Dodson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="W E E Burr" initials="W E" surname="Burr">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2010"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-78-2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-78-2"/>
+</reference>

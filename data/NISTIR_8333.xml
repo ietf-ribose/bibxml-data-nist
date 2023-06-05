@@ -1,0 +1,34 @@
+<reference anchor="NIST.IR.8333" target="https://doi.org/10.6028/NIST.IR.8333">
+  <front>
+    <title>Workshop summary report for cybersecurity risks in consumer home internet of things (IoT) devices virtual workshop</title>
+    <author fullname="Michael Fagan" initials="M." surname="Fagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Katerina N Megas" initials="K." surname="Megas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Barbara Bell Cuthill" initials="B." surname="Bell Cuthill">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary Raguso" initials="M." surname="Raguso">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Wiltberger" initials="J." surname="Wiltberger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="29"/>
+    <abstract>This report provides a summary of the discussion and findings from the NIST Cybersecurity Risks in Consumer Home IoT Devices virtual workshop in October 2020. NIST Interagency Report (NISTIR) 8259, Foundational Cybersecurity Activities for IoT Device Manufacturers, and NISTIR 8259A, IoT Device Cybersecurity Capability Core Baseline, provide general guidance on how manufacturers can approach their role of fulfilling their customers' cybersecurity needs and capabilities. As discussed in those documents, particular sectors and use cases may require more specific guidance than what is included in NISTIR 8259A's core baseline for Internet of Things (IoT) devices. To better understand the consumer home device sector, NIST collected observations on the cybersecurity device capabilities in a number of devices available in the first half of 2019. These observations were published in Draft NISTIR 8267, Security Review of Consumer Home Internet of Things (IoT) Products. The information in Draft NISTIR 8267 was foundational for the NIST Cybersecurity Risks in Consumer Home IoT Devices virtual workshop. The workshop gathered further community input on the concerns with consumer home IoT device cybersecurity.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8333"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8333"/>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-81-2" target="https://doi.org/10.6028/NIST.SP.800-81-2">
+  <front>
+    <title>Secure Domain Name System (DNS) Deployment Guide</title>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Scott Rose" initials="S." surname="Rose">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-81-2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-81-2"/>
+</reference>

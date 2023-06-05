@@ -1,0 +1,31 @@
+<reference anchor="NIST.TN.2152" target="https://doi.org/10.6028/NIST.TN.2152">
+  <front>
+    <title>Neural networks for classifying probability distributions</title>
+    <author fullname="Siham Khoussi" initials="S." surname="Khoussi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Alan Heckert" initials="A." surname="Heckert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Abdella Battou" initials="A." surname="Battou">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Saddek Bensalem" initials="S." surname="Bensalem">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="19"/>
+    <abstract>Probability distribution fitting of an unknown stochastic process is an important preliminary step for any further analysis in science or engineering. However, it requires some background in statistics and prior considerations of the process or phenomenon under study. As such, this paper presents an alternative approach which doesn't require prior knowledge of statistical methods nor previous assumption on the available data. Instead, using Deep Learning, the correct distributional model is extracted from the output of a neural network that was previously trained on a large suitable dataset in order to classify any array of observations into a matching distributional model. We find that our classifier can perform this task comparably to using maximum likelihood estimation with an Anderson-Darling goodness of fit.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2152"/>
+  <seriesInfo name="NIST Technical Notes" value="2152"/>
+</reference>

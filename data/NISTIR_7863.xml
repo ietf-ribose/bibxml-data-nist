@@ -1,0 +1,27 @@
+<reference anchor="NIST.IR.7863" target="https://doi.org/10.6028/NIST.IR.7863">
+  <front>
+    <title>Cardholder authentication for the PIV digital signature key</title>
+    <author fullname="W. Timothy Polk" initials="W." surname="Polk">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David Cooper" initials="D." surname="Cooper">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="June"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7863"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="7863"/>
+</reference>

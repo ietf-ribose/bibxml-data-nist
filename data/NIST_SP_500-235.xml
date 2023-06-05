@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.500-235" target="https://doi.org/10.6028/NIST.SP.500-235">
+  <front>
+    <title>Structured testing :a testing methodology using the cyclomatic complexity metric</title>
+    <author fullname="Dolores R Wallace" initials="D." surname="Wallace">
+      <organization/>
+    </author>
+    <author fullname="Arthur H Watson" initials="A." surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="Thomas J McCabe" initials="T." surname="McCabe">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1996"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-235"/>
+  <seriesInfo name="NIST Special Publications (General)" value="500-235"/>
+</reference>

@@ -1,0 +1,39 @@
+<reference anchor="NIST.SP.1800-4" target="https://doi.org/10.6028/NIST.SP.1800-4">
+  <front>
+    <title>Mobile device security:cloud and hybrid builds</title>
+    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kevin Bowler" initials="K." surname="Bowler">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christopher Brown" initials="C." surname="Brown">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Spike E Dog" initials="S." surname="Dog">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Sallie Edwards" initials="S." surname="Edwards">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Neil McNab" initials="N." surname="McNab">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Steele" initials="M." surname="Steele">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-4"/>
+  <seriesInfo name="NIST Special Publications (General)" value="1800-4"/>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="NIST.TN.2149" target="https://doi.org/10.6028/NIST.TN.2149">
+  <front>
+    <title>UE-to-network relay model B discovery in ProSe-enabled LTE networks</title>
+    <author fullname="Alexandre Moreaux" initials="A." surname="Moreaux">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Samantha Gamboa" initials="S." surname="Gamboa">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="David Griffith" initials="D." surname="Griffith">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Richard Rouil" initials="R." surname="Rouil">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="6"/>
+    <abstract>In this paper, we expand previous analytical models to offer a more complete representation of Model B ProSe direct discovery. Using these models, we can obtain performance metrics such as the average time a given Remote User Equipment (UE) takes to discover a Relay UE, and we can examine the sensitivity of the relay performance to various input parameters such as the number of Remote UEs, the number of Relay UEs, and the Discovery message transmission rate. We use ns- 3 system level simulations to validate our analytical model and determine the optimal strategy for UEs to use in various deployment scenarios.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2149"/>
+  <seriesInfo name="NIST Technical Notes" value="2149"/>
+</reference>

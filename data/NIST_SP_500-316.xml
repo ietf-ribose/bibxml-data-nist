@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.500-316" target="https://doi.org/10.6028/NIST.SP.500-316">
+  <front>
+    <title>Framework for Cloud Usability</title>
+    <author fullname="Brian C. Stanton" initials="B." surname="Stanton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mary F. Theofanos" initials="M." surname="Theofanos">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karun P. Joshi" initials="K." surname="Joshi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-316"/>
+  <seriesInfo name="NIST Special Publications (General)" value="500-316"/>
+</reference>

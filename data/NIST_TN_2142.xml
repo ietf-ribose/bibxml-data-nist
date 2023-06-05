@@ -1,0 +1,34 @@
+<reference anchor="NIST.TN.2142" target="https://doi.org/10.6028/NIST.TN.2142">
+  <front>
+    <title>An evaluation design for comparing netflow based network anomaly detection systems using synthetic malicious traffic</title>
+    <author fullname="Shuvo Bardhan" initials="S." surname="Bardhan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mitsuhiro Hatada" initials="M." surname="Hatada">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Filliben" initials="J." surname="Filliben">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Douglas Montgomery" initials="D." surname="Montgomery">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Alexander Jia" initials="A." surname="Jia">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="2"/>
+    <abstract>In this paper, we present a procedure to evaluate and compare multiple netflow based network anomaly detection (NF-NAD) systems based on accuracy of detection and mean time of detection. Conventionally, different variations of benign or normal traffic have been used to evaluate NF-NAD systems. Here we showcase a methodology where benign traffic is constant through the entirety of the experiment. We create different variations of synthetic malicious traffic to evaluate and compare NF-NAD systems. A two-phase approach is used to measure the accuracy and learning capability of the NF-NAD system. We have created a designed experiment (having factors, levels and design points) to showcase our methodology.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2142"/>
+  <seriesInfo name="NIST Technical Notes" value="2142"/>
+</reference>

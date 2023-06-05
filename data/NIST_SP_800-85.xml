@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-85" target="https://doi.org/10.6028/NIST.SP.800-85">
+  <front>
+    <title>PIV middleware and on-card application conformance test guidance (SP 800-73 compliance)</title>
+    <author fullname="R Chandramouli" initials="R" surname="Chandramouli">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="L Eyuboglu" initials="L" surname="Eyuboglu">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="K Mehta" initials="K" surname="Mehta">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2005"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-85"/>
+</reference>

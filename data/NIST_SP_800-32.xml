@@ -1,0 +1,30 @@
+<reference anchor="NIST.SP.800-32" target="https://doi.org/10.6028/NIST.SP.800-32">
+  <front>
+    <title>Introduction to public key technology and the federal PKI infrastructure</title>
+    <author fullname="D R R Kuhn" initials="D R" surname="Kuhn">
+      <organization/>
+    </author>
+    <author fullname="V Hu" initials="V" surname="Hu">
+      <organization/>
+    </author>
+    <author fullname="W T T Polk" initials="W T" surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="Shu-Jen H Chang" initials="S." surname="Chang">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2001"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-32"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-32"/>
+</reference>

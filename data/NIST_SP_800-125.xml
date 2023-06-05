@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-125" target="https://doi.org/10.6028/NIST.SP.800-125">
+  <front>
+    <title>Guide to security for full virtualization technologies</title>
+    <author fullname="K A A Scarfone" initials="K A" surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="M P P Souppaya" initials="M P" surname="Souppaya">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="P Hoffman" initials="P" surname="Hoffman">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2011"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-125"/>
+</reference>

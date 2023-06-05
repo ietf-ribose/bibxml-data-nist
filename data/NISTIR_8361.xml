@@ -1,0 +1,28 @@
+<reference anchor="NIST.IR.8361" target="https://doi.org/10.6028/NIST.IR.8361">
+  <front>
+    <title>Best practices in the collection and use of biometric and forensic datasets</title>
+    <author fullname="R Austin Hicklin" initials="R." surname="Hicklin">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="George Kiebuzinski" initials="G." surname="Kiebuzinski">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author fullname="Melissa Taylor" initials="M." surname="Taylor">
+      <organization>National Institute of Standards and Technology</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="24"/>
+    <abstract>This document discusses issues that arise in the collection, dissemination, and use of datasets for use in biometric and forensic science research, and provides recommendations on how to best address the issues raised. A variety of factors should be considered when collecting data so that the resulting dataset is appropriate for use in testing or research, or when deciding whether an existing dataset is appropriate for a given purpose. This document does not address privacy and human subjects aspects of data collection. These topics will be addressed in forthcoming publications.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8361"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8361"/>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-76-1" target="https://doi.org/10.6028/NIST.SP.800-76-1">
+  <front>
+    <title>Biometric data specification for personal identity verification</title>
+    <author fullname="C L L Wilson" initials="C L" surname="Wilson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="P J J Grother" initials="P J" surname="Grother">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="R Chandramouli" initials="R" surname="Chandramouli">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2007"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-76-1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-76-1"/>
+</reference>

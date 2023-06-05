@@ -1,0 +1,30 @@
+<reference anchor="NIST.SP.800-126r2" target="https://doi.org/10.6028/NIST.SP.800-126r2">
+  <front>
+    <title>The technical specification for the Security Content Automation Protocol (SCAP) :SCAP version 1.2</title>
+    <author fullname="D A A Waltermire" initials="D A" surname="Waltermire">
+      <organization/>
+    </author>
+    <author fullname="S D D Quinn" initials="S D" surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="K A A Scarfone" initials="K A" surname="Scarfone">
+      <organization/>
+    </author>
+    <author fullname="A M M Halbardier" initials="A M" surname="Halbardier">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2011"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-126r2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-126r2"/>
+</reference>

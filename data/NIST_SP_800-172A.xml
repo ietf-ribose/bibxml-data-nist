@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-172A" target="https://doi.org/10.6028/NIST.SP.800-172A">
+  <front>
+    <title>Assessing Enhanced Security Requirements for Controlled Unclassified Information</title>
+    <author fullname="Ron Ross" initials="R." surname="Ross">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Victoria Pillitteri" initials="V." surname="Pillitteri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="14"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-172A"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-172A"/>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="NIST.SP.800-88r1" target="https://doi.org/10.6028/NIST.SP.800-88r1">
+  <front>
+    <title>Guidelines for Media Sanitization</title>
+    <author fullname="Richard Kissel" initials="R." surname="Kissel">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Scholl" initials="M." surname="Scholl">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kevin Stine" initials="K." surname="Stine">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-88r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-88r1"/>
+</reference>

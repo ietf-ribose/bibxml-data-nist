@@ -1,0 +1,33 @@
+<reference anchor="NIST.IR.8112" target="https://doi.org/10.6028/NIST.IR.8112">
+  <front>
+    <title>Attribute metadata: a proposed schema for evaluating federated attributes</title>
+    <author fullname="Paul A Grassi" initials="P." surname="Grassi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Naomi B Lefkovitz" initials="N." surname="Lefkovitz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ellen M Nadeau" initials="E." surname="Nadeau">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ryan J Galluzzo" initials="R." surname="Galluzzo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Abhiraj T Dinh" initials="A." surname="Dinh">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="January" day="11"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8112"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8112"/>
+</reference>

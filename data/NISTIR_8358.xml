@@ -1,0 +1,31 @@
+<reference anchor="NIST.IR.8358" target="https://doi.org/10.6028/NIST.IR.8358">
+  <front>
+    <title>Deconstructing UML, part 1 :modeling classes with categories</title>
+    <author fullname="Spencer Breiner" initials="S." surname="Breiner">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Sarala Padi" initials="S." surname="Padi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Eswaran Subrahmanian" initials="E." surname="Subrahmanian">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ram D Sriram" initials="R." surname="Sriram">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="13"/>
+    <abstract>In this paper we analyze elements of the Unified Modeling Language (UML), specifically the class diagram, and propose an simplified alternative language based on a branch of mathematics called category theory (CT). We argue that modeling in CT provides a richer and more precise formal structure than UML, while still supporting many of the intuitive and diagrammatic features which engineers appreciate in UML. Deep ties connect CT to formal logic, physics and computer science, helping to connect our CT-based models to simulation and implementation. We proceed by walking through the constructs of the class diagram and showing how the same information can be captured using CT constructions. As we do, we see that some UML constructs are redundant while others smuggle in assumptions which ought to be made explicit. Thus we argue that the use of CT in information modeling can make our models less ambiguous, more precise and more formal.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8358"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8358"/>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="NIST.TN.2164" target="https://doi.org/10.6028/NIST.TN.2164">
+  <front>
+    <title>On computing elastic shape distances between curves in d-dimensional space</title>
+    <author fullname="Javier Bernal" initials="J." surname="Bernal">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jim Lawrence" initials="J." surname="Lawrence">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gunay Dogan" initials="G." surname="Dogan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Charles Hagwood" initials="C." surname="Hagwood">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="21"/>
+    <abstract>The computation of the elastic registration of two simple curves in higher dimensions and therefore of the elastic shape distance between them has been investigated by Srivastava et al. Assuming the first curve has one or more starting points, and the second curve has only one, they accomplish the computation, one starting point of the first curve at a time, by minimizing an L2 type distance between them based on alternating computations of optimal diffeomorphisms of the unit interval and optimal rotation matrices that reparametrize and rotate, respectively, one of the curves. We recreate the work by Srivastava et al., but in contrast to it, again for curves in any dimension, we present a Dynamic Programming algorithm for computing optimal diffeomorphisms that is linear, and justify in a purely algebraic manner the usual algorithm for computing optimal rotation matrices, the Kabsch-Umeyama algorithm, which is based on the computation of the singular value decomposition of a matrix. In addition, we minimize the L2 type distance with a procedure that alternates computations of optimal diffeomorphisms with successive computations of optimal rotation matrices for all starting points of the first curve. Carrying out computations this way is not only more efficient all by itself, but, if both curves are closed, allows applications of the Fast Fourier Transform for computing successively in an even more efficient manner, optimal rotation matrices for all starting points of the first curve.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2164"/>
+  <seriesInfo name="NIST Technical Notes" value="2164"/>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="NIST.IR.8319" target="https://doi.org/10.6028/NIST.IR.8319">
+  <front>
+    <title>Review of the Advanced Encryption Standard</title>
+    <author fullname="Nicky Mouha" initials="N." surname="Mouha">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="July" day="23"/>
+    <abstract>The field of cryptography continues to advance at a very rapid pace, leading to new insights that may impact the security properties of cryptographic algorithms. The Crypto Publication Review Board ("the Board") has been established to identify publications to be reviewed. This report subjects the first standard to the review process: Federal Information Processing Standard (FIPS) 197, which defines the Advanced Encryption Standard (AES).</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8319"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8319"/>
+</reference>

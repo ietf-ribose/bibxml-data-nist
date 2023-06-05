@@ -1,0 +1,27 @@
+<reference anchor="NIST.AMS.300-6" target="https://doi.org/10.6028/NIST.AMS.300-6">
+  <front>
+    <title>Securing the digital threat for smart manufacturing:a reference model for blockchain-based product data traceability</title>
+    <author fullname="Sylvere Krima" initials="S." surname="Krima">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Thomas Hedberg" initials="T." surname="Hedberg">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Allison Barnard-Feeney" initials="A." surname="Barnard-Feeney">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-6"/>
+  <seriesInfo name="NIST Advanced Manufacturing Series" value="300-6"/>
+</reference>

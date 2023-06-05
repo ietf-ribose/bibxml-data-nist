@@ -1,0 +1,24 @@
+<reference anchor="NIST.IR.8428" target="https://doi.org/10.6028/NIST.IR.8428">
+  <front>
+    <title>Digital Forensics and Incident Response (DFIR) Framework for Operational Technology (OT)</title>
+    <author fullname="Eran Salfati" initials="E." surname="Salfati">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Pease" initials="M." surname="Pease">
+      <organization>Communications Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="22"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8428"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8428"/>
+</reference>

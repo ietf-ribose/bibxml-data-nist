@@ -1,0 +1,36 @@
+<reference anchor="NIST.TN.2060" target="https://doi.org/10.6028/NIST.TN.2060">
+  <front>
+    <title>BGP Secure Routing Extension (BGP-SRx): Reference Implementation and Test Tools for Emerging BGP Security Standards</title>
+    <author fullname="Oliver Borchert" initials="O." surname="Borchert">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kyehwan Lee" initials="K." surname="Lee">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Kotikalapudi Sriram" initials="K." surname="Sriram">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Doug Montgomery" initials="D." surname="Montgomery">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Patrick Gleichmann" initials="P." surname="Gleichmann">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mehmet Adalier" initials="M." surname="Adalier">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="15"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2060"/>
+  <seriesInfo name="NIST Technical Notes" value="2060"/>
+</reference>

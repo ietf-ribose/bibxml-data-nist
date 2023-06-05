@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-54" target="https://doi.org/10.6028/NIST.SP.800-54">
+  <front>
+    <title>Border gateway protocol security</title>
+    <author fullname="D R R Kuhn" initials="D R" surname="Kuhn">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="K Sriram" initials="K" surname="Sriram">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="D C C Montgomery" initials="D C" surname="Montgomery">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2007"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-54"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-54"/>
+</reference>

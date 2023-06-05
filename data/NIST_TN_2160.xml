@@ -1,0 +1,25 @@
+<reference anchor="NIST.TN.2160" target="https://doi.org/10.6028/NIST.TN.2160">
+  <front>
+    <title>VEMOS :a GUI for evaluation of similarity metrics on complex data sets</title>
+    <author fullname="Gunay Dogan" initials="G." surname="Dogan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Eve Fleisig" initials="E." surname="Fleisig">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="7"/>
+    <abstract>Similarity and dissimilarity metrics are a fundamental component of many tasks requiring the analysis and comparison of complex, often visual data. Applications from deep learning to forensics require ways to effectively identify images, find clusters or outliers in data sets, or retrieve data items similar to a query item. However, finding an effective metric for a specific task is challenging due to the complexity of modern datasets and the myriad possible similarity metrics arising from that complexity. We present VEMOS, a Python package that provides an accessible graphical user interface (GUI) for the evaluation of comparison metrics. VEMOS provides user-friendly ways to examine individual data items or groups in a data set alongside analyses of metrics' performance on the whole data set, such as clustering, multi-dimensional scaling, and retrieval performance analyses. VEMOS aims to help researchers and practitioners evaluate multiple comparison metrics on rich, diverse data sets.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2160"/>
+  <seriesInfo name="NIST Technical Notes" value="2160"/>
+</reference>

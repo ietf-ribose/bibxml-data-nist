@@ -1,0 +1,27 @@
+<reference anchor="NIST.NSRDS.49-2017" target="https://doi.org/10.6028/NIST.NSRDS.49-2017">
+  <front>
+    <title>CYCLE_D: NIST vapor compression cycle design program, version 5.1.1, user's guide</title>
+    <author fullname="JS S Brown" initials="JS" surname="Brown">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="PA A Domanski" initials="PA" surname="Domanski">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="EW W Lemmon" initials="EW" surname="Lemmon">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.49-2017"/>
+  <seriesInfo name="NIST National Standard Reference Data Series" value="49-2017"/>
+</reference>

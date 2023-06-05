@@ -1,0 +1,30 @@
+<reference anchor="NIST.NSRDS.73-2020" target="https://doi.org/10.6028/NIST.NSRDS.73-2020">
+  <front>
+    <title>REFLEAK:NIST Leak Recharge Simulation Model for Refrigerant Blends, version 6.0 user's guide</title>
+    <author fullname="J Steven Brown" initials="J." surname="Brown">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Piotr A Domanski" initials="P." surname="Domanski">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Riccardo Brignoli" initials="R." surname="Brignoli">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author fullname="Young Jin Yoon" initials="Y." surname="Yoon">
+      <organization>Engineering Laboratory.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.73-2020"/>
+  <seriesInfo name="NIST National Standard Reference Data Series" value="73-2020"/>
+</reference>

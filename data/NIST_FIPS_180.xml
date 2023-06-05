@@ -1,0 +1,18 @@
+<reference anchor="NIST.FIPS.180" target="https://doi.org/10.6028/NIST.FIPS.180">
+  <front>
+    <title>Secure hash standard</title>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1993" month="May"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.FIPS.180"/>
+  <seriesInfo name="NIST Federal Information Processing Standards Publications" value="180"/>
+</reference>

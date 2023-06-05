@@ -1,0 +1,21 @@
+<reference anchor="NIST.SP.800-18" target="https://doi.org/10.6028/NIST.SP.800-18">
+  <front>
+    <title>Guide for developing security plans for information technology systems</title>
+    <author fullname="Marianne Swanson" initials="M." surname="Swanson">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1998"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-18"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-18"/>
+</reference>

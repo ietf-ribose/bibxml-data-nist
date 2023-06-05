@@ -1,0 +1,31 @@
+<reference anchor="NIST.SP.500-281Ar1" target="https://doi.org/10.6028/NIST.SP.500-281Ar1">
+  <front>
+    <title>USGv6 Test Program Guide</title>
+    <author fullname="Doug Montgomery" initials="D." surname="Montgomery">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Erica Johnson" initials="E." surname="Johnson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michayla Newcombe" initials="M." surname="Newcombe">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Timothy Winters" initials="T." surname="Winters">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="November" day="24"/>
+    <abstract>This document outlines the form and function of the USGv6 Test Program. In particular, it defines the components of the test program, their implementation and use. This guide also defines the management process that will govern the future evolution of the test program and how it will address and accommodate ever changing requirement sets and product offerings.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-281Ar1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="500-281Ar1"/>
+</reference>

@@ -1,0 +1,36 @@
+<reference anchor="NIST.SP.800-172" target="https://doi.org/10.6028/NIST.SP.800-172">
+  <front>
+    <title>Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171A Supplement to NIST Special Publication 800-171</title>
+    <author fullname="RON ROSS" initials="R." surname="ROSS">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="VICTORIA PILLITTERI" initials="V." surname="PILLITTERI">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="GARY GUISSANIE" initials="G." surname="GUISSANIE">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="RYAN WAGNER" initials="R." surname="WAGNER">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="RICHARD GRAUBART" initials="R." surname="GRAUBART">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="DEB BODEAU" initials="D." surname="BODEAU">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="January" day="28"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-172"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-172"/>
+</reference>

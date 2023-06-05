@@ -1,0 +1,33 @@
+<reference anchor="NIST.SP.800-150" target="https://doi.org/10.6028/NIST.SP.800-150">
+  <front>
+    <title>Guide to Cyber Threat Information Sharing</title>
+    <author fullname="Christopher S. Johnson" initials="C." surname="Johnson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mark Lee Badger" initials="M." surname="Badger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="David A. Waltermire" initials="D." surname="Waltermire">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Julie Snyder" initials="J." surname="Snyder">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Clem Skorupka" initials="C." surname="Skorupka">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="October"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-150"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-150"/>
+</reference>

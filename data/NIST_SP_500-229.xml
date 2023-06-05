@@ -1,0 +1,30 @@
+<reference anchor="NIST.SP.500-229" target="https://doi.org/10.6028/NIST.SP.500-229">
+  <front>
+    <title>Z39.50 implementation experiences</title>
+    <author fullname="Paul Over" initials="P." surname="Over">
+      <organization/>
+    </author>
+    <author fullname="William E Moen" initials="W." surname="Moen">
+      <organization/>
+    </author>
+    <author fullname="Ray Denenberg" initials="R." surname="Denenberg">
+      <organization/>
+    </author>
+    <author fullname="Lennie Stovel" initials="L." surname="Stovel">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1995"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-229"/>
+  <seriesInfo name="NIST Special Publications (General)" value="500-229"/>
+</reference>

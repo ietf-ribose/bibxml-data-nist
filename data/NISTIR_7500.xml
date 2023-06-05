@@ -1,0 +1,22 @@
+<reference anchor="NIST.IR.7500" target="https://doi.org/10.6028/NIST.IR.7500">
+  <front>
+    <title>Programs to estimate UV dosage and damage</title>
+    <author fullname="Brian Dickens" initials="B." surname="Dickens">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2008" month="June" day="3"/>
+    <abstract>The system of programs described in this paper is concerned with estimating the damage ensuing from exposure of specimens in dry and humid atmospheres to UV and visible radiation covering the solar range. Damage is monitored quantitatively by changes in IR spectra. The dose is estimated from UV spectra of the lamps and the interference filters (used to isolate a particular wavelength range). The dosage is estimated from the dose and the UV absorption of the specimens themselves. These programs allow rapid estimation of dosage and damage from regions of data, and manipulation and processing of the massive amounts of data required to carry out such comprehensive tests in a complete yet user-friendly manner.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7500"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="7500"/>
+</reference>

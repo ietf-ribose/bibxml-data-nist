@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-87ver1" target="https://doi.org/10.6028/NIST.SP.800-87ver1">
+  <front>
+    <title>Codes for the identification of federal and federally assisted organizations version 1.0</title>
+    <author fullname="W C C Barker" initials="W C" surname="Barker">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="H Ferraiolo" initials="H" surname="Ferraiolo">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2005"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-87ver1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-87ver1"/>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-57Pt3r1" target="https://doi.org/10.6028/NIST.SP.800-57Pt3r1">
+  <front>
+    <title>Recommendation for Key Management Part 3: Application-Specific Key Management Guidance</title>
+    <author fullname="Elaine B. Barker" initials="E." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Quynh H. Dang" initials="Q." surname="Dang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="January"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-57Pt3r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-57Pt3r1"/>
+</reference>

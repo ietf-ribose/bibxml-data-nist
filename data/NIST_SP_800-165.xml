@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-165" target="https://doi.org/10.6028/NIST.SP.800-165">
+  <front>
+    <title>Computer Security Division 2012 Annual Report</title>
+    <author fullname="Patrick O'Reilly" initials="P." surname="O'Reilly">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lorie Richards" initials="L." surname="Richards">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="June"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-165"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-165"/>
+</reference>

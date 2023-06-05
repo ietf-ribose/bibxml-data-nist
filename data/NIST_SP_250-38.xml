@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.250-38" target="https://doi.org/10.6028/NIST.SP.250-38">
+  <front>
+    <title>NIST leak calibration service</title>
+    <author fullname="Charles D Ehrlich" initials="C." surname="Ehrlich">
+      <organization/>
+    </author>
+    <author fullname="Stuart A Tison" initials="S." surname="Tison">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1992"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-38"/>
+  <seriesInfo name="NIST Special Publications (General)" value="250-38"/>
+</reference>

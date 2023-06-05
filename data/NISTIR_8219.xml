@@ -1,0 +1,45 @@
+<reference anchor="NIST.IR.8219" target="https://doi.org/10.6028/NIST.IR.8219">
+  <front>
+    <title>Securing manufacturing industrial control systems:behavioral anomaly detection</title>
+    <author fullname="James McCarthy" initials="J." surname="McCarthy">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Powell" initials="M." surname="Powell">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Keith Stouffer" initials="K." surname="Stouffer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="CheeYee Tang" initials="C." surname="Tang">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Timothy Zimmerman" initials="T." surname="Zimmerman">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William Barker" initials="W." surname="Barker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Titilayo Ogunyale" initials="T." surname="Ogunyale">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Devin Wynne" initials="D." surname="Wynne">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Johnathan Wiltberger" initials="J." surname="Wiltberger">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="July"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8219"/>
+  <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8219"/>
+</reference>

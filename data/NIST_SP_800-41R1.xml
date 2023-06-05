@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-41r1" target="https://doi.org/10.6028/NIST.SP.800-41r1">
+  <front>
+    <title>Guidelines on firewalls and firewall policy</title>
+    <author fullname="K A A Scarfone" initials="K A" surname="Scarfone">
+      <organization/>
+    </author>
+    <author fullname="P Hoffman" initials="P" surname="Hoffman">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2009"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-41r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-41r1"/>
+</reference>

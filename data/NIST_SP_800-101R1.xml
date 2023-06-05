@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-101r1" target="https://doi.org/10.6028/NIST.SP.800-101r1">
+  <front>
+    <title>Guidelines on mobile device forensics</title>
+    <author fullname="Rick Ayers" initials="R." surname="Ayers">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Sam Brothers" initials="S." surname="Brothers">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Wayne Jansen" initials="W." surname="Jansen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="May"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-101r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-101r1"/>
+</reference>

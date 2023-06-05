@@ -1,0 +1,30 @@
+<reference anchor="NIST.SP.800-88" target="https://doi.org/10.6028/NIST.SP.800-88">
+  <front>
+    <title>Guidelines for media sanitization</title>
+    <author fullname="R Kissel" initials="R" surname="Kissel">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="M A A Scholl" initials="M A" surname="Scholl">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="S Skolochenko" initials="S" surname="Skolochenko">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="X Li" initials="X" surname="Li">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2006"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-88"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-88"/>
+</reference>
