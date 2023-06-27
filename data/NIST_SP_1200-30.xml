@@ -1,11 +1,20 @@
 <reference anchor="NIST.SP.1200-30" target="https://doi.org/10.6028/NIST.SP.1200-30">
   <front>
-    <title>Correlating Mechanical Abrasion with Power Input</title>
-    <author fullname="Keana C K Scott" initials="K." surname="Scott">
+    <title>Correlating mechanical abrasion with power input</title>
+    <author fullname="K C C Scott" initials="K C" surname="Scott">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="M R R Wiesner" initials="M R" surname="Wiesner">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="J M M Sipe" initials="J M" surname="Sipe">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="N Bossa" initials="N" surname="Bossa">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +23,7 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="April" day="13"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1200-30"/>
   <seriesInfo name="NIST Special Publications (General)" value="1200-30"/>

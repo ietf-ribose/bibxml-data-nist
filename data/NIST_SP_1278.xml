@@ -1,11 +1,26 @@
 <reference anchor="NIST.SP.1278" target="https://doi.org/10.6028/NIST.SP.1278">
   <front>
-    <title>5G Hardware Supply Chain Security Through Physical Measurements</title>
+    <title>5G hardware supply chain security through physical measurements</title>
+    <author fullname="James C Booth" initials="J." surname="Booth">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Marla L Dowell" initials="M." surname="Dowell">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Ari D Feldman" initials="A." surname="Feldman">
+      <organization>Engineering Laboratory</organization>
+    </author>
     <author fullname="Paul D Hale" initials="P." surname="Hale">
-      <organization>Communications Technology Laboratory</organization>
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Melissa M Midzor" initials="M." surname="Midzor">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Nathan D Orloff" initials="N." surname="Orloff">
+      <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +29,7 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="May" day="4"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1278"/>
   <seriesInfo name="NIST Special Publications (General)" value="1278"/>

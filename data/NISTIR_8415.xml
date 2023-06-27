@@ -1,11 +1,20 @@
 <reference anchor="NIST.IR.8415" target="https://doi.org/10.6028/NIST.IR.8415">
   <front>
-    <title>Material Research Support for the Structural Performance of Nuclear Power Plant Concrete Structures Affected by Alkali-Silica Reaction</title>
-    <author fullname="Kenneth A Snyder" initials="K." surname="Snyder">
-      <organization>Engineering Laboratory</organization>
+    <title>Material research support for the structural performance of nuclear power plant concrete structures affected by alkali-silica reaction</title>
+    <author fullname="Steven Feldman" initials="S." surname="Feldman">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Richard Eason" initials="R." surname="Eason">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Peter Bajcsy" initials="P." surname="Bajcsy">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="K A A Snyder" initials="K A" surname="Snyder">
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +23,7 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="May" day="16"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8415"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8415"/>

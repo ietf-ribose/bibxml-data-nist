@@ -1,11 +1,29 @@
 <reference anchor="NIST.SP.1272" target="https://doi.org/10.6028/NIST.SP.1272">
   <front>
-    <title>Report from the NIST Workshop:Launch of the Rapid Microbial Testing Methods Consortium</title>
-    <author fullname="Nancy Lin" initials="N." surname="Lin">
-      <organization>Material Measurement Laboratory</organization>
+    <title>Report from the NIST workshop :launch of the Rapid Microbial Testing Methods Consortium</title>
+    <author fullname="Nancy J Lin" initials="N." surname="Lin">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Scott A Jackson" initials="S." surname="Jackson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Stephanie Servetas" initials="S." surname="Servetas">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kirsten Parratt" initials="K." surname="Parratt">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Joy Dunkers" initials="J." surname="Dunkers">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Tara Eskandari" initials="T." surname="Eskandari">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sheng Lin-Gibson" initials="S." surname="Lin-Gibson">
+      <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +32,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="September" day="27"/>
+    <abstract>On September 17, 2020, NIST hosted a virtual workshop to launch the Rapid Microbial Testing Methods (RMTM) Consortium. The RMTM Consortium aims to address the need for measurements and standards to increase confidence in the use of rapid testing for microbial contaminants in regenerative medicine and advanced therapy products. The purpose of the workshop was to publicize the launch of the Consortium, recruit new members, and obtain feedback from stakeholders on both the challenges with respect to applying RMTMs and potential solutions that the Consortium could provide. Over 250 attendees from industry, government, academia, and other organizations participated in the workshop. Invited speakers and panelists provided stimulus for discussion, and feedback from the stakeholders was obtained via question submission and polling. This report summarizes the presentations, discussions, and poll results from the workshop. Overall, the stakeholders supported the three proposed topic areas for the Consortium: reference materials, testing methods, and interlaboratory studies. Based on input from the workshop and poll, the proposed scope of the reference materials topic was expanded to consider DNA and other reference materials, in addition to whole cell materials. Likewise, the testing methods scope was increased to encompass validation schema as well as the test methodologies. As a next step, the Consortium began monthly meetings in November 2020, for members to discuss and finalize the scope and proposed working groups for the Consortium. It is expected that the Consortium will lead to measurement assurance solutions and improved approaches for the community to develop, validate, and implement RMTMs.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1272"/>
   <seriesInfo name="NIST Special Publications (General)" value="1272"/>

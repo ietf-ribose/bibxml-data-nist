@@ -1,16 +1,16 @@
 <reference anchor="NIST.SP.260-215" target="https://doi.org/10.6028/NIST.SP.260-215">
   <front>
-    <title>Certification of Standard Reference Material® 1936 Great Lakes Sediment</title>
-    <author fullname="Jacqueline T. Bangma" initials="J." surname="Bangma">
+    <title>Certification of Standard Reference Material 1936 Great Lakes sediment</title>
+    <author fullname="Jacqueline T Bangma" initials="J." surname="Bangma">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Debra Ellisor" initials="D." surname="Ellisor">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Michael B. Ellisor" initials="M." surname="Ellisor">
+    <author fullname="Michael B Ellisor" initials="M." surname="Ellisor">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="N. Alan Heckert" initials="N." surname="Heckert">
+    <author fullname="N Alan Heckert" initials="N." surname="Heckert">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Jennifer Hoguet" initials="J." surname="Hoguet">
@@ -22,11 +22,11 @@
     <author fullname="Jennifer Ness" initials="J." surname="Ness">
       <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Jessica L. Reiner" initials="J." surname="Reiner">
+    <author fullname="Jessica L Reiner" initials="J." surname="Reiner">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -36,6 +36,7 @@
       </address>
     </author>
     <date year="2021" month="September" day="23"/>
+    <abstract>Standard Reference Material (SRM) 1936 Great Lakes Sediment is intended for 1) use in validating calibration and validation materials for sediment analysis methods and 2) value assigning in house produced control materials analyzed using those methods. A unit of SRM 1936 consists of one bottle containing approximately 50 g of radiation-sterilized, dried sediment from Milwaukee Bay, WI, USA. This publication documents the production, analytical methods, and statistical evaluations used to characterize this material.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.260-215"/>
   <seriesInfo name="NIST Special Publications (General)" value="260-215"/>

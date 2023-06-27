@@ -1,23 +1,23 @@
 <reference anchor="NIST.IR.8412" target="https://doi.org/10.6028/NIST.IR.8412">
   <front>
-    <title>Results from a Black-Box Study for Digital Forensic Examiners</title>
+    <title>Results from a black-box study for digital forensic examiners</title>
     <author fullname="Barbara Guttman" initials="B." surname="Guttman">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
     </author>
-    <author fullname="Mary T. Laamanen" initials="M." surname="Laamanen">
-      <organization>Information Technology Laboratory</organization>
+    <author fullname="Mary T Laamanen" initials="M." surname="Laamanen">
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Craig Russell" initials="C." surname="Russell">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Chris Atha" initials="C." surname="Atha">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="James Darnell" initials="J." surname="Darnell">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -27,6 +27,7 @@
       </address>
     </author>
     <date year="2022" month="February" day="17"/>
+    <abstract>The National Institute of Standards and Technology (NIST) conducted a black-box study in conjunction with a scientific foundation review documented in NISTIR 8354 Digital Investigation Techniques: A NIST Scientific Foundation Review (initially released as a draft report for public comments) [1]. The purpose of the study was to evaluate the outcomes of mobile and hard-drive forensic results achieved on mock examinations based on the demographic characteristics of the participants. The demographic data related to an individual's workplace environment, education, and work experience. This study was open to anyone in the public or private sectors who work in the field of digital forensics. This document describes the methodology used in the study and a summary of the results.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8412"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8412"/>

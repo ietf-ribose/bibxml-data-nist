@@ -1,11 +1,20 @@
 <reference anchor="NIST.IR.8420" target="https://doi.org/10.6028/NIST.IR.8420">
   <front>
-    <title>The Federal Cybersecurity Awareness Programs:A Mixed Methods Research Study</title>
+    <title>Federal cybersecurity awareness programs :a mixed methods research study</title>
     <author fullname="Julie Haney" initials="J." surname="Haney">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jody Jacobs" initials="J." surname="Jacobs">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Susanne Furman" initials="S." surname="Furman">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Fernando Barrientos" initials="F." surname="Barrientos">
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +23,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="March" day="25"/>
+    <abstract>Prior industry surveys and research studies have revealed that organizational security awareness programs may face a number of challenges, including lack of: leadership support; resources; and staff with sufficient background and skills to implement an effective and engaging program. However, no prior research has explored security awareness programs specifically in the United States (U.S.) government (federal) sector. To address this gap, NIST conducted a two-phase, mixed methods research study to understand the needs, challenges, and practices of federal security awareness programs. This report describes the research background and methodology, along with the characteristics of the participants, organizations, and programs represented in the study. Research results can serve as a resource for federal security awareness professionals, managers, and organizational decision makers to improve and advocate for their organizations' security awareness programs. Results can also inform the development of federal security awareness guidance, policies, sharing forums, and initiatives meant to aid programs in becoming more effective. While focused on the U.S. government, findings may also have implications for organizational security awareness programs in other sectors.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8420"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8420"/>

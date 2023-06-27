@@ -1,11 +1,20 @@
 <reference anchor="NIST.IR.8439" target="https://doi.org/10.6028/NIST.IR.8439">
   <front>
-    <title>Ongoing Face Recognition Vendor Test (FRVT) Part 9a:Face Recognition Verification Accuracy on Distinguishing Twins</title>
+    <title>Ongoing Face Recognition Vendor Test (FRVT) part 9a :face recognition verification accuracy on distinguishing twins</title>
     <author fullname="Kayee Hanaoka" initials="K." surname="Hanaoka">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Mei Ngan" initials="M." surname="Ngan">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Patrick Grother" initials="P." surname="Grother">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Austin Hom" initials="A." surname="Hom">
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +23,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="September" day="22"/>
+    <abstract>This report documents the ability of face recognition algorithms to correctly distinguish face images of identical and fraternal twins. The algorithms were submitted to the ongoing one-to-one verifcation track of the Face Recognition Vendor Test (FRVT) executed by the National Institute of Standards and Technology (NIST).</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8439"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8439"/>

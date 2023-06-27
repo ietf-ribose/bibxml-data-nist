@@ -1,11 +1,11 @@
 <reference anchor="NIST.SP.1280" target="https://doi.org/10.6028/NIST.SP.1280">
   <front>
-    <title>Historical Notes on Shell Sort, Bresenham's Algorithm, and the Chinese Postman Problem</title>
+    <title>Historical notes on shell sort, Bresenham's algorithm, and the Chinese postman problem</title>
     <author fullname="Paul E Black" initials="P." surname="Black">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +14,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="May" day="6"/>
+    <abstract>These are historical notes, from those involved, on the names and origins of Shell sort, Bresenham's Algorithm, and the Chinese Postman Problem.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1280"/>
   <seriesInfo name="NIST Special Publications (General)" value="1280"/>

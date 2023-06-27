@@ -1,40 +1,40 @@
 <reference anchor="NIST.IR.8395" target="https://doi.org/10.6028/NIST.IR.8395">
   <front>
-    <title>Low-GWP Alternative Refrigerant Blends for HFC-134a: Interim Report</title>
-    <author fullname="Piotr A. Domanski" initials="P." surname="Domanski">
+    <title>Low-GWP alternative refrigerant blends for HFC-134a :interim report</title>
+    <author fullname="Piotr A Domanski" initials="P." surname="Domanski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Mark O. McLinden" initials="M." surname="McLinden">
+    <author fullname="Mark O McLinden" initials="M." surname="McLinden">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Valeri I. Babushok" initials="V." surname="Babushok">
+    <author fullname="Valeri I Babushok" initials="V." surname="Babushok">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Ian H. Bell" initials="I." surname="Bell">
+    <author fullname="Ian H Bell" initials="I." surname="Bell">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Tara J. Fortin" initials="T." surname="Fortin">
+    <author fullname="Tara J Fortin" initials="T." surname="Fortin">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Michael J. Hegetschweiler" initials="M." surname="Hegetschweiler">
+    <author fullname="Michael J Hegetschweiler" initials="M." surname="Hegetschweiler">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Mark A. Kedzierski" initials="M." surname="Kedzierski">
+    <author fullname="Mark A Kedzierski" initials="M." surname="Kedzierski">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Dennis K. Kim" initials="D." surname="Kim">
+    <author fullname="Dennis K Kim" initials="D." surname="Kim">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Lingnan Lin" initials="L." surname="Lin">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Gregory T. Linteris" initials="G." surname="Linteris">
+    <author fullname="Gregory T Linteris" initials="G." surname="Linteris">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Stephanie L. Outcalt" initials="S." surname="Outcalt">
+    <author fullname="Stephanie L Outcalt" initials="S." surname="Outcalt">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Richard A. Perkins" initials="R." surname="Perkins">
+    <author fullname="Richard A Perkins" initials="R." surname="Perkins">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Aaron Rowane" initials="A." surname="Rowane">
@@ -44,7 +44,7 @@
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -54,6 +54,7 @@
       </address>
     </author>
     <date year="2021" month="October" day="13"/>
+    <abstract>This project addresses the objectives of the Statement of Need number WPSON-17-20 No/Low Global Warming Potential Alternatives to Ozone Depleting Refrigerants. Its goal is to identify and demonstrate performance of low global-warming-potential (GWP), non-flammable refrigerants to replace HFC-134a in military environmental control units (ECUs). This project is a follow-on to the limited-scope project WP-2740, which used thermodynamic cycle simulation models alone to screen over 100 000 refrigerant blends and identified over 20 candidate HFC-134a replacements. In this study we narrow the pool of blend candidates down to three best fluids, verify experimentally their flammability behavior, demonstrate their performance through tests in a military ECU in environmental chambers at a wide range of operating conditions, and extrapolate the laboratory measured performance to ECUs equipped with optimized heat exchangers through first-principles-based simulations combined with machine-learning optimization methods. This Interim Report documents the preliminary work leading to the selection of three best blends. This work included refrigerant blend tests in a laboratory mini-breadboard heat pump apparatus, fundamental measurements and modeling of thermophysical properties, two-phase heat-transfer performance, and flammability behavior.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8395"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8395"/>

@@ -1,20 +1,23 @@
 <reference anchor="NIST.HB.150-17-2021" target="https://doi.org/10.6028/NIST.HB.150-17-2021">
   <front>
-    <title>NVLAP Cryptographic and Security Testing</title>
+    <title>NVLAP cryptographic and security testing</title>
     <author fullname="Bradley Moore" initials="B." surname="Moore">
-      <organization>National Institute of Standards and Technology</organization>
-    </author>
-    <author fullname="Beverly Trapnell" initials="B." surname="Trapnell">
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>Laboratory Programs</organization>
     </author>
     <author fullname="James Fox" initials="J." surname="Fox">
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>Laboratory Programs</organization>
     </author>
     <author fullname="Carolyn French" initials="C." surname="French">
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>Laboratory Programs</organization>
+    </author>
+    <author fullname="Bradley Moore" initials="B." surname="Moore">
+      <organization>Laboratory Programs</organization>
+    </author>
+    <author fullname="Beverly Trapnell" initials="B." surname="Trapnell">
+      <organization>Laboratory Programs</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -24,6 +27,7 @@
       </address>
     </author>
     <date year="2021" month="June" day="30"/>
+    <abstract>NIST Handbook 150-17 presents the technical requirements and guidance for the accreditation of laboratories under the National Voluntary Laboratory Accreditation Program (NVLAP) Cryptographic and Security Testing (CST) program. It is intended for information and use by accredited laboratories, laboratories seeking accreditation, laboratory accreditation systems, users of laboratory services, and others needing information on the requirements for accreditation under this program. The March 2021 edition of NIST Handbook 150-17 includes a consolidation of the Cryptographic Modules test methods (17/CM), revisions for alignment with FIPS 140-3, as well as editorial improvements. The requirements of NIST Handbook 150 and the specific requirements and interpretations in NIST Handbook 150-17 must be combined to produce the criteria for accreditation in the NVLAP Cryptographic and Security Testing (CST) program. For more information, visit the NVLAP website.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.HB.150-17-2021"/>
   <seriesInfo name="NIST Handbooks" value="150-17-2021"/>

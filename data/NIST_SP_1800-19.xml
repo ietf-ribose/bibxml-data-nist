@@ -1,11 +1,71 @@
 <reference anchor="NIST.SP.1800-19" target="https://doi.org/10.6028/NIST.SP.1800-19">
   <front>
-    <title>Trusted Cloud:Security Practice Guide for VMware Hybrid Cloud Infrastructure as a Service (IaaS) Environments</title>
+    <title>Trusted cloud :security practice guide for VMware hybrid cloud infrastructure as a service (IaaS) environments</title>
     <author fullname="Michael Bartock" initials="M." surname="Bartock">
       <organization>Information Technology Laboratory</organization>
     </author>
+    <author fullname="Donna Dodson" initials="D." surname="Dodson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Daniel Carroll" initials="D." surname="Carroll">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Robert Masten" initials="R." surname="Masten">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Gina Scinta" initials="G." surname="Scinta">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Paul Massis" initials="P." surname="Massis">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Hemma Prafullchandra" initials="H." surname="Prafullchandra">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jason Malnar" initials="J." surname="Malnar">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Harmeet Singh" initials="H." surname="Singh">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rajeev Ghandi" initials="R." surname="Ghandi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Laura E Storey" initials="L." surname="Storey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Raghuram Yeluri" initials="R." surname="Yeluri">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Tim Shea" initials="T." surname="Shea">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Dalton" initials="M." surname="Dalton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rocky Weber" initials="R." surname="Weber">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Anthony Dukes" initials="A." surname="Dukes">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jeff Haskins" initials="J." surname="Haskins">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Carlos Phoenix" initials="C." surname="Phoenix">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Brenda Swarts" initials="B." surname="Swarts">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +74,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="April" day="20"/>
+    <abstract>A cloud workload is an abstraction of the actual instance of a functional application that is virtualized or containerized to include compute, storage, and network resources. Organizations need to be able to monitor, track, apply, and enforce their security and privacy policies on their cloud workloads, based on business requirements, in a consistent, repeatable, and automated way. The goal of this project is to develop a trusted cloud solution that will demonstrate how trusted compute pools leveraging hardware roots of trust can provide the necessary security capabilities. These capabilities not only provide assurance that cloud workloads are running on trusted hardware and in a trusted geolocation or logical boundary, but also improve the protections for the data in the workloads and in the data flows between workloads. The example solution leverages modern commercial off-the-shelf technology and cloud services to address lifting and shifting a typical multi-tier application between an organization-controlled private cloud and a hybrid/public cloud over the internet.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-19"/>
   <seriesInfo name="NIST Special Publications (General)" value="1800-19"/>

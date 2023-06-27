@@ -1,11 +1,23 @@
 <reference anchor="NIST.SP.800-219" target="https://doi.org/10.6028/NIST.SP.800-219">
   <front>
-    <title>Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)</title>
+    <title>Automated secure configuration guidance from the macOS Security Compliance Project (mSCP)</title>
     <author fullname="Mark Trapnell" initials="M." surname="Trapnell">
       <organization>Information Technology Laboratory</organization>
     </author>
+    <author fullname="Eric Trapnell" initials="E." surname="Trapnell">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Bob Gendler" initials="B." surname="Gendler">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +26,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="June" day="24"/>
+    <abstract>The macOS Security Compliance Project (mSCP) provides resources that system administrators, security professionals, security policy authors, information security officers, and auditors can leverage to secure and assess macOS desktop and laptop system security in an automated way. This publication introduces the mSCP and gives an overview of the resources available from the project's GitHub site, which is continuously curated and updated to support each new release of macOS. The GitHub site provides practical, actionable recommendations in the form of secure baselines and associated rules. This publication also describes use cases for leveraging the mSCP content.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.800-219"/>
   <seriesInfo name="NIST Special Publications (General)" value="800-219"/>

@@ -1,11 +1,23 @@
 <reference anchor="NIST.TN.2215" target="https://doi.org/10.6028/NIST.TN.2215">
   <front>
-    <title>Characteristics of Nuclear Power Plant Fires Involving Electrical Enclosures</title>
-    <author fullname="Isaac Leventon" initials="I." surname="Leventon">
+    <title>Characteristics of nuclear power plant fires involving electrical enclosures</title>
+    <author fullname="Isaac T Leventon" initials="I." surname="Leventon">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kevin B McGrattan" initials="K." surname="McGrattan">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Rick D Davis" initials="R." surname="Davis">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kenneth Hamburger" initials="K." surname="Hamburger">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Melly" initials="N." surname="Melly">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +26,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2021" month="November" day="10"/>
+    <abstract>PRIMARY AUDIENCE Fire protection and fire probabilistic risk assessment engineers conducting or reviewing fire modeling that supports fire probabilistic risk assessments related to characteristics (e.g., ignition, fire growth, and peak heat release rate) of electrical enclosure fires in nuclear power plants. KEY RESEARCH QUESTION What are the characteristics (e.g., common causes, ignition mechanisms, detection type) of electrical enclosure fires; what impact does fire cause type have on the severity, duration, and damage type of electrical enclosure fires; and how does this vary for fires in electrical enclosures versus all fires in nuclear power plants? can this information be used to inform testing, fire modeling, and risk assessment of electrical enclosure fires?</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2215"/>
   <seriesInfo name="NIST Technical Notes" value="2215"/>

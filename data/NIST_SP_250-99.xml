@@ -1,11 +1,17 @@
 <reference anchor="NIST.SP.250-99" target="https://doi.org/10.6028/NIST.SP.250-99">
   <front>
-    <title>Diffuse Visual Transmission Density</title>
-    <author fullname="Clarence Zarobila" initials="C." surname="Zarobila">
+    <title>Diffuse visual transmission density</title>
+    <author fullname="Clarence J Zarobila" initials="C." surname="Zarobila">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Robert E Vest" initials="R." surname="Vest">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Maria E Nadal" initials="M." surname="Nadal">
       <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +20,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="August" day="17"/>
+    <abstract>This document, SP250-99 (2022), NIST Measurement Services: Diffuse Visual Transmission Density, describes the instrument used to measure diffuse visual transmission density of both x-ray and photographic film step tablets. These step tablets replace former Standard Reference Material (SRM) offerings SRM1001 and SRM1008. The instrument is fully automated and is designed and characterized to comply with the international standards for measuring transmission density using the diffuse influx mode. Transmission densities as great as four can be measured with an expanded uncertainty (k = 2) of 0.006.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.250-99"/>
   <seriesInfo name="NIST Special Publications (General)" value="250-99"/>

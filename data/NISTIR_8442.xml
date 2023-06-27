@@ -1,11 +1,38 @@
 <reference anchor="NIST.IR.8442" target="https://doi.org/10.6028/NIST.IR.8442">
   <front>
-    <title>Workshop Report:Standards and Performance Metrics for On-Road Autonomous Vehicles</title>
-    <author fullname="Craig I Schlenoff" initials="C." surname="Schlenoff">
-      <organization>Engineering Laboratory</organization>
+    <title>Workshop report :standards and performance metrics for on-road autonomous vehicles</title>
+    <author fullname="Craig Schlenoff" initials="C." surname="Schlenoff">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Suzanne Lightman" initials="S." surname="Lightman">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Vinh Nguyen" initials="V." surname="Nguyen">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Prem Rachakonda" initials="P." surname="Rachakonda">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Tao Zhang" initials="T." surname="Zhang">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Omar Aboul-Enein" initials="O." surname="Aboul-Enein">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Barbosa" initials="N." surname="Barbosa">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Cameron Miller" initials="C." surname="Miller">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Daniel Sawyer" initials="D." surname="Sawyer">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Ann Virts" initials="A." surname="Virts">
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +41,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="October" day="27"/>
+    <abstract>On-road autonomous vehicles are expected to significantly influence key aspects of everyday life. However, these complex systems can pose a safety risk in the event of unexpected system performance. Therefore, NIST held the Standards and Performance Metrics for On-Road Autonomous Vehicles Workshop to solicit stakeholder feedback with respect to challenges and opportunities in developing standards and performance metrics for this complex interdisciplinary field. In addition, this workshop aimed to foster a community consisting of stakeholders from a variety of disciplines and domains in autonomous vehicles. This workshop was conducted virtually over 2 days (March 8th-9th, 2022) consisting of introductory remarks, panels, breakout sessions, and concluding remarks. This report is a summary of the technical topics discussed by participants during the workshop.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8442"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8442"/>

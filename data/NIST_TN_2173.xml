@@ -1,6 +1,6 @@
 <reference anchor="NIST.TN.2173" target="https://doi.org/10.6028/NIST.TN.2173">
   <front>
-    <title>Validation Capabilities of the NIST Campus Power System to Evaluate Distributed Control of Grid-Edge Distributed Energy Resources</title>
+    <title>Validation capabilities of the NIST campus power system to evaluate distributed control of grid-edge distributed energy resources</title>
     <author fullname="Dhananjay Anand" initials="D." surname="Anand">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -17,7 +17,7 @@
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -27,6 +27,7 @@
       </address>
     </author>
     <date year="2021" month="August" day="11"/>
+    <abstract>This report outlines NIST s validation tools, developed to help address the smart grid semergent needs and complement research and standards coordination efforts. Rapid ad-vances have enabled an opportunity for the grid to autonomously and simultaneously con-trol generation, balance load, and regulate power quality. The grid will need this coordi-nated control to regulate power voltage, in real- time, to meet fast-changing power demands,especially with increasing distributed energy resources. To do this, the grid needs mea- surements from across the distribution network to accurately assess demand and preventnegative impacts. It also needs improved situational awareness, which Advanced MeteringInfrastructure (AMI) and other technologies can enable. Moreover, lessons from AMI usecan aid research and development of a coordinated control system. Additionally, such acoordinated control system depends a new operating paradigm with new two-way infor-mation flows between aspects of the grid, or domains. NIST offers such a paradigm in itsSmart Grid Framework 4.0.In going forward, industry has concerns which must be addressed. Distribution systemoperators (DSO) need centralized functions to coordinate distributed assets. To imple-ment such centralization, DSOs need an understanding of bandwidth, security and integrityconsiderations, while also ensuring performances at the grid s edges. Industry is also con-cerned with how to represent uncertainties in a complex cyber-physical system, like latencyand cyber- vulnerabilities.And, industry is concerned that standards are focused more on de-vices, than on coordinated control systems.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2173"/>
   <seriesInfo name="NIST Technical Notes" value="2173"/>

@@ -1,11 +1,17 @@
 <reference anchor="NIST.TN.2229" target="https://doi.org/10.6028/NIST.TN.2229">
   <front>
-    <title>Tensile Tests at 77 K and 4 K on 316L Stainless Steel Welded Plates</title>
-    <author fullname="Dash Weeks" initials="D." surname="Weeks">
+    <title>Tensile tests at 77 K and 4 K on 316L stainless steel welded plates</title>
+    <author fullname="Timothy Weeks" initials="T." surname="Weeks">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Derimow" initials="N." surname="Derimow">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jake Benzing" initials="J." surname="Benzing">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +20,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="July" day="19"/>
+    <abstract>Based on the collaborative framework established between ASME, NASA, and NIST, quasi-static tensile tests were performed in liquid nitrogen (77 K) and liquid helium (4 K) on tensile specimens extracted from the centers of four welded 316L stainless steel plates, each produced by a different vendor. Relatively large differences in strength, elongation, and reduction in area were observed between the welds with the strongest two welds (W4 and W2) exhibiting a nearly 20 % difference in 4 K ultimate tensile strength when compared to the welds with the lowest 4 K tensile strength (W1 and W3). As the testing temperature decreases from 77 K to 4 K, all welds exhibit an increase in yield strength, plus an attenuation in total elongation and reduction in area. Serrated yielding was observed at every test conducted at 4 K. The tensile properties reported in this work will be used during analysis of future fracture toughness (single edge notch bending) testing conducted at 77 K and 4 K on the same four sets of welded plates.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2229"/>
   <seriesInfo name="NIST Technical Notes" value="2229"/>

@@ -1,6 +1,6 @@
 <reference anchor="NIST.SP.1800-30" target="https://doi.org/10.6028/NIST.SP.1800-30">
   <front>
-    <title>Securing Telehealth Remote Patient Monitoring Ecosystem</title>
+    <title>Securing telehealth remote patient monitoring ecosystem</title>
     <author fullname="Jennifer Cawthra" initials="J." surname="Cawthra">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -32,7 +32,7 @@
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -42,6 +42,7 @@
       </address>
     </author>
     <date year="2022" month="February" day="22"/>
+    <abstract>Increasingly, healthcare delivery organizations (HDOs) are relying on telehealth and remote patient monitoring (RPM) capabilities to treat patients at home. RPM is convenient and cost-effective, and its adoption rate has increased. However, without adequate privacy and cybersecurity measures, unauthorized individuals may expose sensitive data or disrupt patient monitoring services. RPM solutions engage multiple actors as participants in patients' clinical care. These actors include HDOs, telehealth platform providers, and the patients themselves. Each participant uses, manages, and maintains different technology components within an interconnected ecosystem, and each is responsible for safeguarding their piece against unique threats and risks associated with RPM technologies. This practice guide assumes that the HDO engages with a telehealth platform provider that is a separate entity from the HDO and patient. The telehealth platform provider manages a distinct infrastructure, applications, and set of services. The telehealth platform provider coordinates with the HDO to provision, configure, and deploy the RPM components to the patient home and assures secure communication between the patient and clinician. The NCCoE analyzed risk factors regarding an RPM ecosystem by using risk assessment based on the NIST Risk Management Framework. The NCCoE also leveraged the NIST Cybersecurity Framework, NIST Privacy Framework, and other relevant standards to identify measures to safeguard the ecosystem. In collaboration with healthcare, technology, and telehealth partners, the NCCoE built an RPM ecosystem in a laboratory environment to explore methods to improve the cybersecurity of an RPM. Technology solutions alone may not be sufficient to maintain privacy and security controls on external environments. This practice guide notes the application of people, process, and technology as necessary to implement a holistic risk mitigation strategy. This practice guide's capabilities include helping organizations assure the confidentiality, integrity, and availability of an RPM solution, enhancing patient privacy, and limiting HDO risk when implementing an RPM solution.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-30"/>
   <seriesInfo name="NIST Special Publications (General)" value="1800-30"/>

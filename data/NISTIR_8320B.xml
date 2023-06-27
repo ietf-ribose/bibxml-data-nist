@@ -1,11 +1,44 @@
 <reference anchor="NIST.IR.8320B" target="https://doi.org/10.6028/NIST.IR.8320B">
   <front>
-    <title>Hardware-Enabled Security:Policy-Based Governance in Trusted Container Platforms</title>
+    <title>Hardware-enabled security :policy-based governance in trusted container platforms</title>
+    <author fullname="Michael Bartock" initials="M." surname="Bartock">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
-      <organization>Information Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Haidong Xia" initials="H." surname="Xia">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Raghu Yeluri" initials="R." surname="Yeluri">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Uttam Shetty" initials="U." surname="Shetty">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Brandon Lum" initials="B." surname="Lum">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Mariusz Sabath" initials="M." surname="Sabath">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Harmeet Singh" initials="H." surname="Singh">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Alaa Youssef" initials="A." surname="Youssef">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Gosia Steinder" initials="G." surname="Steinder">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Yu Cao" initials="Y." surname="Cao">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jayashree Ramanathan" initials="J." surname="Ramanathan">
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +47,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="April" day="20"/>
+    <abstract>In today's cloud data centers and edge computing, attack surfaces have significantly increased, cyber attacks are industrialized, and most security control implementations are not coherent or consistent. The foundation of any data center or edge computing security strategy should be securing the platform on which data and workloads will be executed and accessed. The physical platform represents the foundation for any layered security approach and provides the initial protections to help ensure that higher-layer security controls can be trusted. This report explains an approach based on hardware-enabled security techniques and technologies for safeguarding container deployments in multi-tenant cloud environments. It also describes a prototype implementation of the approach intended to be a blueprint or template for the general security community.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8320B"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8320B"/>

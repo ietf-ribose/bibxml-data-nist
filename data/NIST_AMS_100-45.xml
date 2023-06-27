@@ -1,6 +1,6 @@
 <reference anchor="NIST.AMS.100-45" target="https://doi.org/10.6028/NIST.AMS.100-45">
   <front>
-    <title>Performance Measurement of a Mobile Manipulator-on-a-Cart and Coordinate Registration Methods for Manufacturing Applications</title>
+    <title>Performance measurement of a mobile manipulator-on-a-cart and coordinate registration methods for manufacturing applications</title>
     <author fullname="Omar Aboul-Enein" initials="O." surname="Aboul-Enein">
       <organization>Engineering Laboratory</organization>
     </author>
@@ -14,7 +14,7 @@
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -24,6 +24,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="18"/>
+    <abstract>Mobile manipulators, which consist of a robotic manipulator arm on a vehicular base, enable more flexible and dynamic workflows in manufacturing processes by freeing the manipulator arm from the restriction of working on a single, calibrated workspace. A mobile manipulator-on-cart further enhances job concurrency since the manipulator arm is mounted to a detachable cart rather than directly to the vehicle payload structure. With this increase in flexibility, there is a need to understand new sources of position and orientation uncertainty. This uncertainty can degrade the accuracy and precision of the mobile manipulator position and orientation in addition to the coordination capability between the manipulator and vehicle. To facilitate performance evaluation and uncertainty characterization, the National Institute of Standards and Technology (NIST) has developed an artifact-based measurement methodology for mobile manipulator-on-a-cart systems. The artifact, which is re-configurable, simulates mock-assembly tasks for manufacturing applications and is compared to a ground truth consisting of an optical tracking system. In this paper, we document experimental procedures, data analysis methods, and results in measuring the performance of the manipulator-on-a-cart system. We also compare the speed and accuracy of two example coordinate registration techniques to be used by the mobile manipulator-on-a-cart to reduce position and orientation uncertainty.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-45"/>
   <seriesInfo name="NIST Advanced Manufacturing Series" value="100-45"/>

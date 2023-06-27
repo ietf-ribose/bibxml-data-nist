@@ -1,11 +1,41 @@
 <reference anchor="NIST.SP.1800-34" target="https://doi.org/10.6028/NIST.SP.1800-34">
   <front>
-    <title>Supply Chain Assurance:Validating the Integrity of Computing Devices</title>
-    <author fullname="Nakia R Grayson" initials="N." surname="Grayson">
+    <title>Supply chain assurance :validating the integrity of computing devices</title>
+    <author fullname="Jon Boyens" initials="J." surname="Boyens">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Tyler Diamond" initials="T." surname="Diamond">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nakia Grayson" initials="N." surname="Grayson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Celia Paulsen" initials="C." surname="Paulsen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="William T Polk" initials="W." surname="Polk">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Murugiah Souppaya" initials="M." surname="Souppaya">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Christopher Brown" initials="C." surname="Brown">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Chelsea Deane" initials="C." surname="Deane">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jason Hurlburt" initials="J." surname="Hurlburt">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +44,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="December" day="9"/>
+    <abstract>Product integrity and the ability to distinguish trustworthy products is a critical foundation of C-SCRM. Authoritative information regarding the provenance and integrity of components provides a strong basis for trust in a computing device whether it is a client device, server, or other technology. The goal of this project is to demonstrate how organizations can verify that the components of their acquired computing devices are genuine and have not been tampered with or otherwise modified throughout the devices' life cycles. This project addresses several processes: how to create verifiable descriptions of components and platforms, which may be done by original equipment manufacturers (OEMs), platform integrators, and even information technology (IT) departments how to verify devices and components within the single transaction between an OEM and a customer how to verify devices and components at subsequent stages in the system life cycle in the operational environment. This project will use a combination of commercial off-the-shelf and open-source tools to describe the components of a device in a verifiable manner using cryptography. Future builds of this project may cover other critical phases of C-SCRM.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-34"/>
   <seriesInfo name="NIST Special Publications (General)" value="1800-34"/>

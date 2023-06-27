@@ -1,11 +1,20 @@
 <reference anchor="NIST.HB.150-17e2022" target="https://doi.org/10.6028/NIST.HB.150-17e2022">
   <front>
-    <title>National Voluntary Laboratory Accreditation Program (NVLAP) Cryptographic and Security Testing</title>
+    <title>National Voluntary Laboratory Accreditation Program (NVLAP) cryptographic and security testing</title>
     <author fullname="Bradley Moore" initials="B." surname="Moore">
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Beverly Trapnell" initials="B." surname="Trapnell">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="James Fox" initials="J." surname="Fox">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Carolyn French" initials="C." surname="French">
+      <organization>Physical Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +23,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="September" day="13"/>
+    <abstract>NIST Handbook 150-17 presents the technical requirements and guidance for the accreditation of laboratories under the National Voluntary Laboratory Accreditation Program (NVLAP) Cryptographic and Security Testing program. It is intended for information and use by accredited laboratories, laboratories seeking accreditation, laboratory accreditation systems, users of laboratory services, and others needing information on the requirements for accreditation under this program. The 2022 edition of NIST Handbook 150-17 introduces the new Annex H, requirements for Entropy Source Validation (ESV), revisions for alignment with FIPS 201-3, and other minor updates to existing testing programs. The requirements of NIST Handbook 150 and the specific requirements and interpretations in NIST Handbook 150-17 must be combined to produce the criteria for accreditation in the NVLAP Cryptographic and Security Testing program. For more information, visit the NVLAP website.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.HB.150-17e2022"/>
   <seriesInfo name="NIST Handbooks" value="150-17e2022"/>

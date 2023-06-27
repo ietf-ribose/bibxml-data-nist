@@ -1,11 +1,26 @@
 <reference anchor="NIST.SP.260-231" target="https://doi.org/10.6028/NIST.SP.260-231">
   <front>
-    <title>Certification of Standard Reference Material® 1270a:Cr-Mo Low Alloy Steel A336 (F-22) (disk form)</title>
+    <title>Certification of Standard Reference Material 1270a :Cr-Mo low alloy steel A336 (F-22) (disk form)</title>
     <author fullname="Bruce Scruggs" initials="B." surname="Scruggs">
       <organization>Material Measurement Laboratory</organization>
     </author>
+    <author fullname="John R Sieber" initials="J." surname="Sieber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Rick Paul" initials="R." surname="Paul">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Heather Chen-Meyer" initials="H." surname="Chen-Meyer">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Anthony F Marlow" initials="A." surname="Marlow">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="James H Yen" initials="J." surname="Yen">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +29,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="September" day="14"/>
+    <abstract>The certified mass fractions delivered by Standard Reference Material (SRM) 1270a are intended primarily for use in validation of chemical and instrumental methods of analysis for element contents of iron and steel alloys. They can be used to validate value assignment of a laboratory's in-house reference materials. A unit of SRM 1270a consists of one disk approximately 32 mm in diameter and 19 mm thick.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.260-231"/>
   <seriesInfo name="NIST Special Publications (General)" value="260-231"/>

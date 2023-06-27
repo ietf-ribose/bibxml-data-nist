@@ -1,6 +1,6 @@
 <reference anchor="NIST.TN.2186" target="https://doi.org/10.6028/NIST.TN.2186">
   <front>
-    <title>Modeling Public Safety Communication Scenarios: School Shooting Incident</title>
+    <title>Modeling public safety communication scenarios :school shooting incident</title>
     <author fullname="Richard Rouil" initials="R." surname="Rouil">
       <organization>Communications Technology Laboratory</organization>
     </author>
@@ -14,7 +14,7 @@
       <organization>Communications Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -24,6 +24,7 @@
       </address>
     </author>
     <date year="2021" month="October" day="15"/>
+    <abstract>Public safety practitioners performing day-to-day activities and responding to incidents communicate in ways that are very different from the general public. In order to determine if a particular technology or network deployment can meet the performance requirements critical to first responders, sound and detailed scenarios are needed. In this document, we present a fictional school shooting scenario involving a large number of responders, vehicles, and applications, over a 4-hour period. We describe, in detail, the location of the users, the type of applications used and their usage patterns. We also present a basic net-work deployment using Long Term Evolution (LTE) and describe the implementation of such a scenario in the open-source ns-3 simulation platform so it can serve as a baseline for future research.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2186"/>
   <seriesInfo name="NIST Technical Notes" value="2186"/>

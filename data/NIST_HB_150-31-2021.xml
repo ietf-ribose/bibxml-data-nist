@@ -1,6 +1,6 @@
 <reference anchor="NIST.HB.150-31-2021" target="https://doi.org/10.6028/NIST.HB.150-31-2021">
   <front>
-    <title>NVLAP Health Information Technology Testing</title>
+    <title>NVLAP health information technology testing</title>
     <author fullname="Bradley Moore" initials="B." surname="Moore">
       <organization>National Institute of Standards and Technology</organization>
     </author>
@@ -8,7 +8,7 @@
       <organization>National Institute of Standards and Technology</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -17,7 +17,8 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="November" day="30"/>
+    <date year="2021" month="August" day="5"/>
+    <abstract>NIST Handbook 150-31 presents the technical requirements and guidance for the accreditation of laboratories under the National Voluntary Laboratory Accreditation Program (NVLAP) Healthcare Information Technology program. It is intended for information and use by accredited laboratories, laboratories seeking accreditation, laboratory accreditation systems, users of laboratory services, and others needing information on the requirements for accreditation under this program. The 2021 edition of NIST Handbook 150-31 incorporates changes resulting from the clause numbering updates to reflect that used by ISO/IEC 17025:2017, all references to applicable international guides and standards have been updated, as well as editorial improvements. The requirements of NIST Handbook 150 and the specific requirements and interpretations in NIST Handbook 150-31 must be combined to produce the criteria for accreditation in the NVLAP Healthcare Information Technology program. For more information, visit the NVLAP website.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.HB.150-31-2021"/>
   <seriesInfo name="NIST Handbooks" value="150-31-2021"/>

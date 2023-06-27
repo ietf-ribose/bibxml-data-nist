@@ -1,11 +1,11 @@
 <reference anchor="NIST.IR.8426" target="https://doi.org/10.6028/NIST.IR.8426">
   <front>
-    <title>Spreadsheet-Based Software for the Analysis of Homogeneous and Inhomogeneous Data Sets in Accordance with ASTM E1921-21</title>
+    <title>Spreadsheet-based software for the analysis of homogeneous and inhomogeneous fracture toughness data sets in accordance with ASTM E1921-21</title>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +14,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="June" day="14"/>
+    <abstract>NIST has developed a user-friendly spreadsheet-based software package for the Master Curve analysis of fracture toughness tests performed in the ductile-to-brittle transition region and the determination of the reference temperature To, in accordance with ASTM E1921-21. The software consists of multiple spreadsheets, which feature several macros that automate most calculations. The software package applies to the analysis of both macroscopically homogeneous and inhomogeneous materials. Complete user's instructions are provided in this report. The software has been successfully validated using several example problems provided in ASTM E1921-21. As in the case of previous software packages developed by the Fatigue and Fracture Group of NIST in Boulder, the spreadsheet will be made freely available to the public by contacting the author of this report (enrico.lucon@nist.gov).</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8426"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8426"/>

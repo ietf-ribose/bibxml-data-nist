@@ -1,23 +1,23 @@
 <reference anchor="NIST.TN.2170" target="https://doi.org/10.6028/NIST.TN.2170">
   <front>
-    <title>Modeling of Combustion of Fluorine-Containing Refrigerants</title>
-    <author fullname="Valeri I. Babushok" initials="V." surname="Babushok">
+    <title>Modeling of combustion of fluorine-containing refrigerants</title>
+    <author fullname="Valeri I Babushok" initials="V." surname="Babushok">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Donald R. Burgess, Jr" initials="D." surname="Burgess, Jr">
+    <author fullname="Donald R Jr Burgess" initials="D." surname="Burgess">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Dennis K. Kim" initials="D." surname="Kim">
+    <author fullname="Dennis K Kim" initials="D." surname="Kim">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Michael J. Hegetschweiler" initials="M." surname="Hegetschweiler">
+    <author fullname="Michael J Hegetschweiler" initials="M." surname="Hegetschweiler">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Gregory T. Linteris" initials="G." surname="Linteris">
+    <author fullname="Gregory T Linteris" initials="G." surname="Linteris">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -27,6 +27,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="17"/>
+    <abstract>A gas-phase chemical kinetic model for the combustion of C1-C3 fluorine-containing refrigerants is presented, including a list of relevant species, their thermodynamic and transport properties, and the Arrhenius parameters for their reactions. Also included are tables of available experimental data in the literature for the laminar burning velocities for these HFC refrigerants and their mixtures. A comparison is made between the experimental data and predicted burning velocities as a function of the fuel-air equivalence ratio for the refrigerants. The model has been developed for the refrigerants: R-32, R-125, R-134a, R-152a, R-143, R-143a, R-1234yf, R-1234ze(E), R-1243zf and their mixtures. Agreement between predicted and measured burning velocity is very good for most of the refrigerant mixtures, and reasonably good agreement for a few.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2170"/>
   <seriesInfo name="NIST Technical Notes" value="2170"/>

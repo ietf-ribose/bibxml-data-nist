@@ -1,6 +1,6 @@
 <reference anchor="NIST.TN.2190" target="https://doi.org/10.6028/NIST.TN.2190">
   <front>
-    <title>NIST Special Database 302: Supplemental Release of Latent Annotations</title>
+    <title>NIST Special Database 302 :supplemental release of latent annotations</title>
     <author fullname="Gregory Fiumara" initials="G." surname="Fiumara">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -20,7 +20,7 @@
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -30,6 +30,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="2"/>
+    <abstract>The National Institute of Standards and Technology (NIST) released a collection of latent fingerprint images as part of Special Database (SD) 302 in December 2019. While the dataset included 10 000 never-before-seen operational quality images from 200 study participants, SD 302 has been of somewhat limited usability, in part due to the omission of study participant finger position ground truth. To help make SD 302 as robust and useful to the community as possible, NIST has funded certified latent print examiners to annotate and determine the source of the latent fingerprint images distributed as part of SD 302.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2190"/>
   <seriesInfo name="NIST Technical Notes" value="2190"/>

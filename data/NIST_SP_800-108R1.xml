@@ -1,11 +1,11 @@
 <reference anchor="NIST.SP.800-108r1" target="https://doi.org/10.6028/NIST.SP.800-108r1">
   <front>
-    <title>Recommendation for Key Derivation Using Pseudorandom Functions</title>
+    <title>Recommendation for key derivation using pseudorandom functions</title>
     <author fullname="Lily Chen" initials="L." surname="Chen">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +14,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="August" day="17"/>
+    <abstract>This Recommendation specifies techniques for the derivation of additional keying material from a secret key either established through a key-establishment scheme or shared through some other manner using pseudorandom functions: HMAC, CMAC, and KMAC.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.800-108r1"/>
   <seriesInfo name="NIST Special Publications (General)" value="800-108r1"/>

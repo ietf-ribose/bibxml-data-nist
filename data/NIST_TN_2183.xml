@@ -1,17 +1,17 @@
 <reference anchor="NIST.TN.2183" target="https://doi.org/10.6028/NIST.TN.2183">
   <front>
-    <title>Reduced-Scale Compartment Gaseous Fuels Backdraft Experiments</title>
-    <author fullname="Christopher U. Brown" initials="C." surname="Brown">
+    <title>Reduced-scale compartment gaseous fuels backdraft experiments</title>
+    <author fullname="Christopher U Brown" initials="C." surname="Brown">
       <organization>Engineering Laboratory</organization>
     </author>
     <author fullname="Ryan Falkenstein-Smith" initials="R." surname="Falkenstein-Smith">
       <organization>Engineering Laboratory</organization>
     </author>
-    <author fullname="Thomas G. Cleary" initials="T." surname="Cleary">
+    <author fullname="Thomas G Cleary" initials="T." surname="Cleary">
       <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -21,6 +21,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="19"/>
+    <abstract>This report documents the design and construction of a reduced-scale compartment and summary data for a set of gaseous fuel experiments to study the backdraft phenomenon. In these experiments, a fire was enclosed in a compartment with modified configurations (e.g., fire size, fuel-off time, spark ignition location, spark delay time, and front opening) to identify precursors to a backdraft event. A moderate fire size of 25 kW was studied using methane, propane, and propene as individual fuels. A 16.7 kW propane fire and 37.5 kW methane fire were also studied. Temperature readings in the upper and lower layers of the compartment, pressure, external heat flux measurements, and heat flux measurements at the compartment floor were recorded during each experiment. For experiments where a backdraft occurred, flame size measurements and ignition times relative to the doorway opening were obtained from video recordings during the experiments. Experiments were repeated at least once for each set of selected experimental conditions. Fuel flow conditions for each fuel and fire size produced events ranging from no ignition to backdrafts for the range of compartment configurations studied. In general, the transition from no ignition to increasingly larger backdrafts was observed for each fuel as its flow time was increased.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.TN.2183"/>
   <seriesInfo name="NIST Technical Notes" value="2183"/>

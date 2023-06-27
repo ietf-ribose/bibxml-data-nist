@@ -1,14 +1,14 @@
 <reference anchor="NIST.IR.8428" target="https://doi.org/10.6028/NIST.IR.8428">
   <front>
-    <title>Digital Forensics and Incident Response (DFIR) Framework for Operational Technology (OT)</title>
+    <title>Digital Forensics and Incident Response (DFIR) framework for Operational Technology (OT)</title>
     <author fullname="Eran Salfati" initials="E." surname="Salfati">
-      <organization>Communications Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author fullname="Michael Pease" initials="M." surname="Pease">
-      <organization>Communications Technology Laboratory</organization>
+      <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -18,6 +18,7 @@
       </address>
     </author>
     <date year="2022" month="June" day="22"/>
+    <abstract>This document provides a new Incident Handling framework dedicated to Operational Technology. This framework expands the traditional technical steps by giving an Incident Response procedure based on the event escalation and provides techniques for OT Digital Forensics. It includes an overview with general terms explanation and a list of unique properties of OT DFIR, the preparation that should be done to establish an OT Incident Response Team, and finally, the suggested OT Incident Handling framework in detail.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8428"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8428"/>

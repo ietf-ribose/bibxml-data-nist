@@ -1,6 +1,6 @@
 <reference anchor="NIST.IR.8392" target="https://doi.org/10.6028/NIST.IR.8392">
   <front>
-    <title>Evaluating the Impact of Contactless Fingerprint Imagery Spatial Loss on Matcher Performance</title>
+    <title>Evaluating the impact of contactless fingerprint imagery spatial loss on matcher performance</title>
     <author fullname="Shahram Orandi" initials="S." surname="Orandi">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -23,7 +23,7 @@
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -33,6 +33,7 @@
       </address>
     </author>
     <date year="2021" month="September" day="23"/>
+    <abstract>Observations in previous studies have shown that contactless capture devices may be prone to capturing superfluous data (e.g., fingernail or finger background), distortion and imaging artifacts especially around the periphery of the captured fingerprint images, as well as not being able to consistently capture certain fingers from each hand. This study tests the hypothesis that eliminating certain error prone fingers, or eliminating some of the periphery of all fingerprint images, may yield an improvement in the matcher s ability to make an identification as well as possibly improving the service time from the matcher.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8392"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8392"/>

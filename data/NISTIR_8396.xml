@@ -1,6 +1,6 @@
 <reference anchor="NIST.IR.8396" target="https://doi.org/10.6028/NIST.IR.8396">
   <front>
-    <title>Open Media Forensics Challenge (OpenMFC) 2020-2021: Past, Present, and Future</title>
+    <title>Open Media Forensics Challenge (OpenMFC) 2020-2021 :past, present, and future</title>
     <author fullname="Haiying Guan" initials="H." surname="Guan">
       <organization>Information Technology Laboratory</organization>
     </author>
@@ -10,7 +10,7 @@
     <author fullname="Lukas Diduch" initials="L." surname="Diduch">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Jesse G. Zhang" initials="J." surname="Zhang">
+    <author fullname="Jesse G Zhang" initials="J." surname="Zhang">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Ilia Ghorbanian" initials="I." surname="Ghorbanian">
@@ -19,7 +19,7 @@
     <author fullname="Timothee Kheyrkhah" initials="T." surname="Kheyrkhah">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Peter C. Fontana" initials="P." surname="Fontana">
+    <author fullname="Peter C Fontana" initials="P." surname="Fontana">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Jon Fiscus" initials="J." surname="Fiscus">
@@ -29,7 +29,7 @@
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -39,6 +39,7 @@
       </address>
     </author>
     <date year="2021" month="September" day="29"/>
+    <abstract>This document describes the online leaderboard public evaluation program, Open Media Forensics Challenge (OpenMFC) 2021-2022. In the report, first, the introduction, objectives, challenges, contributions, and achievements of the evaluation program are covered and discussed in the Section 1. Second, the evaluation website, tasks, datasets, and the leaderboard interface are described in the Section 2. The participants system performance results are also presented in this section. Third, the community engagements, findings, and public participants difficulties are summarized in the Section 3. Then, two new studies for the next year evaluation, OpenMFC 2021-2022, are introduced in the same section. After that, the solutions to help public participants and the OpenMFC 2021-2022 work plan are proposed in the Section 4. Finally, the potential impacts are predicated in the Section 5. In the OpenMFC 2020-2021 evaluation, 56 participants registered the program, and 194 public researchers worldwide received MFC datasets. Since 2016, NIST has released MFC dataset to more than 500 individuals, 200 organizations, from 26 countries and regions worldwide.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8396"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8396"/>

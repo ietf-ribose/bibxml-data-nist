@@ -1,11 +1,44 @@
 <reference anchor="NIST.SP.260-229" target="https://doi.org/10.6028/NIST.SP.260-229">
   <front>
-    <title>Certification of Standard Reference Material® 1568c Rice Flour</title>
-    <author fullname="Chuck Barber" initials="C." surname="Barber">
+    <title>Certification of Standard Reference Material 1568c rice flour</title>
+    <author fullname="Laura J Wood" initials="L." surname="Wood">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Charles A Barber" initials="C." surname="Barber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Colleen E Bryan Sallee" initials="C." surname="Sallee">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Monique E Johnson" initials="M." surname="Johnson">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Shaun Kotoski" initials="S." surname="Kotoski">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Stephen E Long" initials="S." surname="Long">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Rick Paul" initials="R." surname="Paul">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Nicholas Sharp" initials="N." surname="Sharp">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="John R Sieber" initials="J." surname="Sieber">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Maria Vega" initials="M." surname="Vega">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="James H Yen" initials="J." surname="Yen">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Lee L Yu" initials="L." surname="Yu">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +47,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="July" day="29"/>
+    <abstract>The National Institute of Standards and Technology (NIST) recently released SRM 1568c Rice Flour which has value assignments for over 30 analytes, including arsenic species. This material is intended to be used for the evaluation of methods for the determination of elements and arsenic species in this and similar matrices. The material was purchased from commercial vendors. Measurement results were obtained from NIST and interlaboratory comparison exercises. This document describes the material, sample preparations, results, and data analysis.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.260-229"/>
   <seriesInfo name="NIST Special Publications (General)" value="260-229"/>

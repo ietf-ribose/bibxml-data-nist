@@ -1,11 +1,17 @@
 <reference anchor="NIST.SP.260-223" target="https://doi.org/10.6028/NIST.SP.260-223">
   <front>
-    <title>Certification of Standard Reference Material® 915c Calcium Carbonate</title>
+    <title>Certification of Standard Reference Material 915c calcium carbonate</title>
     <author fullname="Thomas W Vetter" initials="T." surname="Vetter">
       <organization>Material Measurement Laboratory</organization>
     </author>
+    <author fullname="Jason F Waters" initials="J." surname="Waters">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
+    <author fullname="Adam L Pintar" initials="A." surname="Pintar">
+      <organization>Material Measurement Laboratory</organization>
+    </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +20,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="September" day="20"/>
+    <abstract>Standard Reference Material (SRM) 915c Calcium Carbonate is certified as a chemical substance of known purity. It is intended for use in the calibration and standardization of procedures for calcium (Ca) determinations employed in clinical analysis and for routine critical evaluation of the daily working standards used in these procedures. A unit of SRM 915c consists of a single glass bottle containing 20 g of the material. This publication documents the production, analytical methods, and computations involved in characterizing this product.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.260-223"/>
   <seriesInfo name="NIST Special Publications (General)" value="260-223"/>

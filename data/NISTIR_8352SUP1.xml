@@ -1,8 +1,8 @@
 <reference anchor="NIST.IR.8352sup1" target="https://doi.org/10.6028/NIST.IR.8352sup1">
   <front>
-    <title>CSAFE Bitemark Thinkshop Report</title>
+    <title>CSAFE Bitemark Thinkshop report</title>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -11,8 +11,7 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
-    <abstract>This report is supplemental information to NISTIR 8352 Bitemark Analysis: A NIST Scientific Foundation Review. See also https://www.nist.gov/forensic-science/scientific-foundation-review-bitemark-analysis.</abstract>
+    <date year="2022" month="October" day="11"/>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8352sup1"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8352sup1"/>

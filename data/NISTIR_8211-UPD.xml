@@ -1,11 +1,11 @@
 <reference anchor="NIST.IR.8211-upd" target="https://doi.org/10.6028/NIST.IR.8211-upd">
   <front>
-    <title>New Software for the Statistical Analysis and Qualification of NIST Charpy Verification Specimen Lots</title>
+    <title>New software for the statistical analysis and qualification of NIST Charpy verification specimen lots</title>
     <author fullname="Enrico Lucon" initials="E." surname="Lucon">
       <organization>Material Measurement Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -15,6 +15,7 @@
       </address>
     </author>
     <date year="2021" month="December" day="6"/>
+    <abstract>New software, in the form of Microsoft Excel 2016 spreadsheets, has been created for the analysis and qualification of Charpy Verification Lots, to be used by personnel of the Charpy Verification Program at NIST in Boulder, Colorado. The new spreadsheets replace the previously used statistical software (in SYSTAT and R-code), adding a more detailed outlier analysis. Of the two spreadsheet templates, the first one assesses the acceptability of a Charpy pilot or production lot by calculating its sample size and identifying statistical outliers. The second spreadsheet establishes the reference value of absorbed energy and the associated uncertainty for the whole Charpy Verification Lot. Both spreadsheets have been checked and validated against calculations performed on several lots by means of the previously used R-language codes, which had been prepared by Jolene Splett of the Statistical Engineering Division of NIST.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8211-upd"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8211-upd"/>

@@ -1,29 +1,29 @@
 <reference anchor="NIST.IR.8312" target="https://doi.org/10.6028/NIST.IR.8312">
   <front>
-    <title>Four Principles of Explainable Artificial Intelligence</title>
-    <author fullname="P. Jonathon Phillips" initials="P." surname="Phillips">
+    <title>Four principles of explainable artificial intelligence</title>
+    <author fullname="P Jonathon Phillips" initials="P." surname="Phillips">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Carina A. Hahn" initials="C." surname="Hahn">
+    <author fullname="Carina A Hahn" initials="C." surname="Hahn">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Peter C. Fontana" initials="P." surname="Fontana">
+    <author fullname="Peter C Fontana" initials="P." surname="Fontana">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Amy N. Yates" initials="A." surname="Yates">
+    <author fullname="Amy N Yates" initials="A." surname="Yates">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author fullname="Kristen Greene" initials="K." surname="Greene">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="David A. Broniatowski" initials="D." surname="Broniatowski">
+    <author fullname="David A Broniatowski" initials="D." surname="Broniatowski">
       <organization>Information Technology Laboratory</organization>
     </author>
-    <author fullname="Mark A. Przybocki" initials="M." surname="Przybocki">
+    <author fullname="Mark A Przybocki" initials="M." surname="Przybocki">
       <organization>Information Technology Laboratory</organization>
     </author>
     <author>
-      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -33,6 +33,7 @@
       </address>
     </author>
     <date year="2021" month="September" day="29"/>
+    <abstract>We introduce four principles for explainable artificial intelligence (AI) that comprise fundamental properties for explainable AI systems. We propose that explainable AI systems deliver accompanying evidence or reasons for outcomes and processes; provide explanations that are understandable to individual users; provide explanations that correctly reflect the system s process for generating the output; and that a system only operates under conditions for which it was designed and when it reaches sufficient confidence in its output. We have termed these four principles as explanation, meaningful, explanation accuracy, and knowledge limits, respectively. Through significant stakeholder engagement, these four principles were developed to encompass the multidisciplinary nature of explainable AI, including the fields of computer science, engineering, and psychology. Because one-sizefits-all explanations do not exist, different users will require different types of explanations. We present five categories of explanation and summarize theories of explainable AI. We give an overview of the algorithms in the field that cover the major classes of explainable algorithms. As a baseline comparison, we assess how well explanations provided by people follow our four principles. This assessment provides insights to the challenges of designing explainable AI systems.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.IR.8312"/>
   <seriesInfo name="NIST NISTIRs (Interagency/Internal Reports)" value="8312"/>

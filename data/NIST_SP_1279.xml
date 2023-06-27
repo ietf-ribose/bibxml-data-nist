@@ -1,11 +1,47 @@
 <reference anchor="NIST.SP.1279" target="https://doi.org/10.6028/NIST.SP.1279">
   <front>
-    <title>Report on the DHS/NIST Workshop on Standards for an Enduring Capability in Wastewater Surveillance for Public Health (SWWS Workshop)</title>
-    <author fullname="Nancy Lin" initials="N." surname="Lin">
-      <organization>Material Measurement Laboratory</organization>
+    <title>Report on the DHSNIST Workshop on Standards for an Enduring Capability in Wastewater Surveillance for Public Health (SWWS Workshop)</title>
+    <author fullname="Nancy J Lin" initials="N." surname="Lin">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Stephanie L Servetas" initials="S." surname="Servetas">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Scott A Jackson" initials="S." surname="Jackson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Katrice A Lippa" initials="K." surname="Lippa">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Kirsten H Parratt" initials="K." surname="Parratt">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Philip Mattson" initials="P." surname="Mattson">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Clare Beahn" initials="C." surname="Beahn">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Mia Mattioli" initials="M." surname="Mattioli">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sally Gutierrez" initials="S." surname="Gutierrez">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Michael Focazio" initials="M." surname="Focazio">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Ted Smith" initials="T." surname="Smith">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Paul Storella" initials="P." surname="Storella">
+      <organization>Engineering Laboratory</organization>
+    </author>
+    <author fullname="Sarah Wright" initials="S." surname="Wright">
+      <organization>Engineering Laboratory</organization>
     </author>
     <author>
-      <organization>National Institute of Standards and Technology</organization>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
       <address>
         <postal>
           <city>Gaithersburg</city>
@@ -14,7 +50,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022"/>
+    <date year="2022" month="August" day="16"/>
+    <abstract>Wastewater surveillance is a promising approach to monitor biological and chemical contaminants on a community level in support of public health and safety decisions. Wastewater surveillance has recently been shown highly effective for the early detection of SARS-CoV-2 outbreaks within specific populations such as communities or buildings. As such, significant advances have been made in wastewater surveillance since the start of the COVID-19 pandemic. Nevertheless, many challenges remain to be addressed to establish an enduring capability for wastewater surveillance poised to respond to new targets as they emerge. The Standards for an Enduring Capability in Wastewater Surveillance for Public Health Workshop, co-sponsored by the National Institute of Standards and Technology and the Department of Homeland Security, aimed to identify these challenges and identify potential standards-based solutions to address them. This free, three-day, virtual workshop convened over 500 participants representing over 20 countries who are involved in all aspects of wastewater surveillance from sampling and testing methods to results/reporting and use of data, and represented organizations including government, public health, testing and manufacturing, academia, and non-profits. The presentations, panel discussions, and polling led to the emergence of three themes for standards for wastewater surveillance: concordance without constraints, nationally consistent, and building for the next pandemic.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.SP.1279"/>
   <seriesInfo name="NIST Special Publications (General)" value="1279"/>
