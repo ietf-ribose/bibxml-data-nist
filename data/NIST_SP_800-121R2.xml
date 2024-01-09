@@ -1,0 +1,39 @@
+<reference anchor="NIST.SP.800-121r2" target="https://doi.org/10.6028/NIST.SP.800-121r2">
+  <front>
+    <title>Guide to bluetooth security</title>
+    <author fullname="John Padgette" initials="J." surname="Padgette">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Bahr" initials="J." surname="Bahr">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Mayank Batra" initials="M." surname="Batra">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Marcel Holtmann" initials="M." surname="Holtmann">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rhonda Smithbey" initials="R." surname="Smithbey">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lily Chen" initials="L." surname="Chen">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="May"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-121r2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-121r2"/>
+</reference>

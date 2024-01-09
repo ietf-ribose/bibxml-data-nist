@@ -1,0 +1,33 @@
+<reference anchor="NIST.SP.1800-25" target="https://doi.org/10.6028/NIST.SP.1800-25">
+  <front>
+    <title>Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events</title>
+    <author fullname="Jennifer Cawthra" initials="J." surname="Cawthra">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Ekstrom" initials="M." surname="Ekstrom">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Lauren Lusty" initials="L." surname="Lusty">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Julian Sexton" initials="J." surname="Sexton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="John Sweetnam" initials="J." surname="Sweetnam">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="December" day="7"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-25"/>
+  <seriesInfo name="NIST Special Publications (General)" value="1800-25"/>
+</reference>

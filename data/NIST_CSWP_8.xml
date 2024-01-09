@@ -1,0 +1,21 @@
+<reference anchor="NIST.CSWP.8" target="https://doi.org/10.6028/NIST.CSWP.8">
+  <front>
+    <title>BowTie – A deep learning feedforward neural network for sentiment analysis</title>
+    <author fullname="Apostol Vassilev" initials="A." surname="Vassilev">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2019"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.8"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="8"/>
+</reference>

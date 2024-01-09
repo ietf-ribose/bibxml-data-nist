@@ -1,0 +1,31 @@
+<reference anchor="NIST.CSWP.27" target="https://doi.org/10.6028/NIST.CSWP.27">
+  <front>
+    <title>Cybersecurity Framework Profile for Hybrid Satellite Networks (HSN) Final Annotated Outline NIST Cybersecurity White Paper NIST CSWP 27 Final Annotated Outline</title>
+    <author fullname="James McCarthy" initials="J." surname="McCarthy">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Dan Mamula" initials="D." surname="Mamula">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Joseph Brule" initials="J." surname="Brule">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karri Meldorf" initials="K." surname="Meldorf">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="November" day="3"/>
+    <abstract>The objective of this Cybersecurity Profile is to identify an approach to assess the cybersecurity posture of Hybrid Satellite Networks (HSN) systems that provide services such as satellite-based systems for communications, position, navigation, and timing (PNT), remote sensing, weather monitoring, and imaging. The HSN systems may interact with other government systems and the Critical Infrastructure as defined by the Department of Homeland Security to provide increased resiliency. This Profile will consider the cybersecurity of all the interacting systems that form the HSN rather than the traditional approach of the government acquiring the entire satellite system that includes the satellite bus, payloads, and ground system. NIST is developing a consistent approach to better understand the attack surface, incorporate security, and achieve greater resilience for space systems that may be leveraged by critical infrastructure owners and operators, the DoD, or other government missions.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.27"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="27"/>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-63-3" target="https://doi.org/10.6028/NIST.SP.800-63-3">
+  <front>
+    <title>Digital identity guidelines: revision 3</title>
+    <author fullname="Paul Grassi" initials="A" surname="Grassi">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Garcia" initials="E" surname="Garcia">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Fenton" initials="L" surname="Fenton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="June" day="22"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63-3"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-63-3"/>
+</reference>

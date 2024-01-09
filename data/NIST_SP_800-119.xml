@@ -1,0 +1,30 @@
+<reference anchor="NIST.SP.800-119" target="https://doi.org/10.6028/NIST.SP.800-119">
+  <front>
+    <title>Guidelines for the secure deployment of IPv6</title>
+    <author fullname="S Frankel" initials="E" surname="Frankel">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="R Graveman" initials="R" surname="Graveman">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="J Pearce" initials="J" surname="Pearce">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="M Rooks" initials="M" surname="Rooks">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2010"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-119"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-119"/>
+</reference>

@@ -1,0 +1,38 @@
+<reference anchor="NIST.SP.800-63B-4.ipd" target="https://doi.org/10.6028/NIST.SP.800-63B-4.ipd">
+  <front>
+    <title>Digital Identity Guidelines:
+Authentication and Lifecycle Management</title>
+    <author fullname="David Temoshok" initials="D." surname="Temoshok">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="James Fenton" initials="J." surname="Fenton">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Yee-Yin Choong" initials="Y." surname="Choong">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Naomi Lefkovitz" initials="N." surname="Lefkovitz">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Andrew Regenscheid" initials="A." surname="Regenscheid">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Justin Richer" initials="J." surname="Richer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="December" day="16"/>
+    <abstract>These guidelines provide technical requirements for federal agencies implementing digital identity services and are not intended to constrain the development or use of standards outside of this purpose. These guidelines focus on the authentication of subjects interacting with government information systems over networks, establishing that a given claimant is a subscriber who has been previously authenticated. The result of the authentication process may be used locally by the system performing the authentication or may be asserted elsewhere in a federated identity system. This document defines technical requirements for each of the three authenticator assurance levels. This publication will supersede NIST Special Publication (SP) 800-63B</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-63B-4.ipd"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-63B-4"/>
+</reference>

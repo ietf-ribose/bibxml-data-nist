@@ -1,0 +1,33 @@
+<reference anchor="NIST.SP.800-79-2" target="https://doi.org/10.6028/NIST.SP.800-79-2">
+  <front>
+    <title>Guidelines for the Authorization of Personal Identity Verification Card Issuers (PCI) and Derived PIV Credential Issuers (DPCI)</title>
+    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ramaswamy Chandramouli" initials="R." surname="Chandramouli">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nabil Ghadiali" initials="N." surname="Ghadiali">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jason Mohler" initials="J." surname="Mohler">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Scott Shorter" initials="S." surname="Shorter">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="July"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-79-2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-79-2"/>
+</reference>

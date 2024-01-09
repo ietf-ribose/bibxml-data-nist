@@ -1,0 +1,25 @@
+<reference anchor="NIST.SP.800-48" target="https://doi.org/10.6028/NIST.SP.800-48">
+  <front>
+    <title>Wireless security :
+802.11, bluetooth and handheld devices</title>
+    <author fullname="A Karygiannis" initials="T" surname="Karygiannis">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="L Owens" initials="L" surname="Owens">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2002"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-48"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-48"/>
+</reference>

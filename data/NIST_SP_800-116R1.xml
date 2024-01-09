@@ -1,0 +1,36 @@
+<reference anchor="NIST.SP.800-116r1" target="https://doi.org/10.6028/NIST.SP.800-116r1">
+  <front>
+    <title>Guidelines for the use of PIV credentials in facility access</title>
+    <author fullname="Hildegard Ferraiolo" initials="H." surname="Ferraiolo">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Ketan Mehta" initials="K." surname="Mehta">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Nabil Ghadiali" initials="N." surname="Ghadiali">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Jason Mohler" initials="J." surname="Mohler">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Vincent Johnson" initials="V." surname="Johnson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Steven Brady" initials="S." surname="Brady">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="June"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-116r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-116r1"/>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="NBS.TN.1234" target="https://doi.org/10.6028/NBS.TN.1234">
+  <front>
+    <title>Thermodynamic properties of a geothermal working fluid :
+90% isobutane-10% isopentane</title>
+    <author fullname="John Gallagher" initials="S" surname="Gallagher">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NBS">National Bureau of Standards</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1987"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NBS.TN.1234"/>
+  <seriesInfo name="NBS Technical Notes" value="1234"/>
+</reference>

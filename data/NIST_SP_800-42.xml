@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-42" target="https://doi.org/10.6028/NIST.SP.800-42">
+  <front>
+    <title>Guideline on network security testing</title>
+    <author fullname="J Wack" initials="P" surname="Wack">
+      <organization/>
+    </author>
+    <author fullname="M Tracy" initials="C" surname="Tracy">
+      <organization/>
+    </author>
+    <author fullname="M Souppaya" initials="P" surname="Souppaya">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2003"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-42"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-42"/>
+</reference>

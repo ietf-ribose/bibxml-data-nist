@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-19" target="https://doi.org/10.6028/NIST.SP.800-19">
+  <front>
+    <title>Mobile agent security</title>
+    <author fullname="Wayne Jansen" initials="W." surname="Jansen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Tom Karygiannis" initials="T." surname="Karygiannis">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1999"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-19"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-19"/>
+</reference>

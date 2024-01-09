@@ -1,0 +1,21 @@
+<reference anchor="NIST.SP.800-2" target="https://doi.org/10.6028/NIST.SP.800-2">
+  <front>
+    <title>Public-key cryptography</title>
+    <author fullname="James Nechvatal" initials="J." surname="Nechvatal">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="1991"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-2"/>
+</reference>

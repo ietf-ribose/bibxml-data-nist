@@ -1,0 +1,22 @@
+<reference anchor="NIST.CSWP.25" target="https://doi.org/10.6028/NIST.CSWP.25">
+  <front>
+    <title>A Data Structure for Integrity Protection with Erasure Capability</title>
+    <author fullname="D Kuhn" initials="D " surname="Kuhn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="May" day="20"/>
+    <abstract>This document describes a data structure, referred to as a data block matrix, that supports the ongoing addition of hash-linked records while also allowing for the deletion of arbitrary records, thereby preserving hash-based integrity assurance that other blocks are unchanged. The block matrix data structure may have utility for incorporation into applications requiring integrity protection that currently use permissioned blockchains. This capability could for example be useful in meeting privacy requirements such as the European Union General Data Protection Regulation (GDPR), which requires that organizations make it possible to delete all information related to a particular individual, at that person’s request.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.25"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="25"/>
+</reference>

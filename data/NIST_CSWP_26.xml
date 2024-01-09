@@ -1,0 +1,28 @@
+<reference anchor="NIST.CSWP.26" target="https://doi.org/10.6028/NIST.CSWP.26">
+  <front>
+    <title>Ordered t-way Combinations for Testing State-based Systems</title>
+    <author fullname="D Kuhn" initials="D " surname="Kuhn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="M Raunak" initials="S" surname="Raunak">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Raghu Kacker" initials="R." surname="Kacker">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="13"/>
+    <abstract>Fault detection often depends on the specific order of inputs that establish states which eventually lead to a failure. However, beyond basic structural coverage metrics, it is often difficult to determine if code has been exercised sufficiently to ensure confidence in its functions. Measures are needed to ensure that relevant combinations of input values have been tested with adequate diversity of ordering to ensure correct operation. Combinatorial testing and combinatorial coverage measures have been applied to many types of applications but have some deficiencies for verifying and testing state-based systems where the response depends on both input values and the current system state. In such systems, internal states change as input values are processed. Examples include network protocols, which may be in listening, partial connection, full connection, disconnected, and many other states depending on the values of packet fields and the order of packets received. Similarly, merchant account balances in credit card systems change continuously as transactions are processed. This publication introduces a notion of ordered t-way combinations, proves a result regarding the construction of adequate blocks of test inputs, and discusses the application of the results to verify and test state-based systems.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.26"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="26"/>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-192" target="https://doi.org/10.6028/NIST.SP.800-192">
+  <front>
+    <title>Verification and test methods for access control policiesmodels</title>
+    <author fullname="Vincent Hu" initials="C" surname="Hu">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Rick Kuhn" initials="R." surname="Kuhn">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Dylan Yaga" initials="D." surname="Yaga">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="June"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-192"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-192"/>
+</reference>

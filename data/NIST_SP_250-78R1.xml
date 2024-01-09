@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.250-78r1" target="https://doi.org/10.6028/NIST.SP.250-78r1">
+  <front>
+    <title>NIST calibration services for hydrometers</title>
+    <author fullname="John Wright" initials="D" surname="Wright">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Vern Bean" initials="E" surname="Bean">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author fullname="Jesus Aguilera" initials="J." surname="Aguilera">
+      <organization>Physical Measurement Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-78r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="250-78r1"/>
+</reference>

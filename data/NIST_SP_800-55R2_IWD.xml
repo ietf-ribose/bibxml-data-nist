@@ -1,0 +1,25 @@
+<reference anchor="NIST.SP.800-55r2.iwd" target="https://doi.org/10.6028/NIST.SP.800-55r2.iwd">
+  <front>
+    <title>Performance Measurement Guide for Information Security</title>
+    <author fullname="Katherine Schroeder" initials="K." surname="Schroeder">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Hung Trinh" initials="H." surname="Trinh">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="November" day="14"/>
+    <abstract>This document provides guidance on how an organization can use metrics to identifies the adequacy of an in-place security controls, policies, and procedures. It provides an approach to help management decide where to invest in additional security protection resources or identify and evaluate nonproductive controls. It explains the metric development and implementation process and how it can also be used to adequately justify security control investments. The results of an effective metric program can provide useful data for directing the allocation of information security resources and should simplify the preparation of performance-related reports.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-55r2.iwd"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-55r2"/>
+</reference>

@@ -1,0 +1,57 @@
+<reference anchor="NIST.SP.800-22r1a" target="https://doi.org/10.6028/NIST.SP.800-22r1a">
+  <front>
+    <title>A statistical test suite for random and pseudorandom number generators for cryptographic applications</title>
+    <author fullname="L Bassham" initials="E" surname="Bassham">
+      <organization/>
+    </author>
+    <author fullname="A Rukhin" initials="L" surname="Rukhin">
+      <organization/>
+    </author>
+    <author fullname="J Soto" initials="J" surname="Soto">
+      <organization/>
+    </author>
+    <author fullname="J Nechvatal" initials="R" surname="Nechvatal">
+      <organization/>
+    </author>
+    <author fullname="M Smid" initials="E" surname="Smid">
+      <organization/>
+    </author>
+    <author fullname="E Barker" initials="B" surname="Barker">
+      <organization/>
+    </author>
+    <author fullname="S Leigh" initials="D" surname="Leigh">
+      <organization/>
+    </author>
+    <author fullname="M Levenson" initials="M" surname="Levenson">
+      <organization/>
+    </author>
+    <author fullname="M Vangel" initials="M" surname="Vangel">
+      <organization/>
+    </author>
+    <author fullname="D Banks" initials="L" surname="Banks">
+      <organization/>
+    </author>
+    <author fullname="N Heckert" initials="A" surname="Heckert">
+      <organization/>
+    </author>
+    <author fullname="J Dray" initials="F" surname="Dray">
+      <organization/>
+    </author>
+    <author fullname="S Vo" initials="S" surname="Vo">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2010"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-22r1a"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-22r1a"/>
+</reference>

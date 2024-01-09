@@ -1,0 +1,21 @@
+<reference anchor="NIST.CSWP.13" target="https://doi.org/10.6028/NIST.CSWP.13">
+  <front>
+    <title>Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)</title>
+    <author fullname="Donna Dodson" initials="D." surname="Dodson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.13"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="13"/>
+</reference>

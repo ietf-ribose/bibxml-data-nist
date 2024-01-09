@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-61" target="https://doi.org/10.6028/NIST.SP.800-61">
+  <front>
+    <title>Computer security incident handling guide</title>
+    <author fullname="T Grance" initials="T" surname="Grance">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="K Kent" initials="A" surname="Kent">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="B Kim" initials="B" surname="Kim">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2004"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-61"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-61"/>
+</reference>

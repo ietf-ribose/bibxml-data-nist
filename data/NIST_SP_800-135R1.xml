@@ -1,0 +1,21 @@
+<reference anchor="NIST.SP.800-135r1" target="https://doi.org/10.6028/NIST.SP.800-135r1">
+  <front>
+    <title>Recommendation for existing application-specific key derivation functions</title>
+    <author fullname="Q Dang" initials="H" surname="Dang">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2011"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-135r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-135r1"/>
+</reference>

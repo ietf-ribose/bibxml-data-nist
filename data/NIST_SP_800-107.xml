@@ -1,0 +1,21 @@
+<reference anchor="NIST.SP.800-107" target="https://doi.org/10.6028/NIST.SP.800-107">
+  <front>
+    <title>Recommendation for applications using approved hash algorithms</title>
+    <author fullname="Q Dang" initials="H" surname="Dang">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2009"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-107"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-107"/>
+</reference>

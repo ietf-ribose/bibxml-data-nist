@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-27ra" target="https://doi.org/10.6028/NIST.SP.800-27ra">
+  <front>
+    <title>Engineering principles for information technology security (a baseline for achieving security), revision a</title>
+    <author fullname="G Stoneburner" initials="G" surname="Stoneburner">
+      <organization/>
+    </author>
+    <author fullname="C Hayden" initials="C" surname="Hayden">
+      <organization/>
+    </author>
+    <author fullname="A Feringa" initials="A" surname="Feringa">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2004"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-27ra"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-27ra"/>
+</reference>

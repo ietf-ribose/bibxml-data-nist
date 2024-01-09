@@ -1,0 +1,21 @@
+<reference anchor="NIST.SP.800-25" target="https://doi.org/10.6028/NIST.SP.800-25">
+  <front>
+    <title>Federal agency use of public key technology for digital signatures and authentication</title>
+    <author fullname="Kathy Lyons-Burke" initials="K." surname="Lyons-Burke">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2000"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-25"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-25"/>
+</reference>

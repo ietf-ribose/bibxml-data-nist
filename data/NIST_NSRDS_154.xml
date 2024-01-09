@@ -1,0 +1,24 @@
+<reference anchor="NIST.NSRDS.154" target="https://doi.org/10.6028/NIST.NSRDS.154">
+  <front>
+    <title>NIST Backscattering-Correction-Factor Database for Auger Electron Spectroscopy, Version 1.1 of SRD 154</title>
+    <author fullname="Cedric Powell" initials="J" surname="Powell">
+      <organization>Materials Measurement Laboratory</organization>
+    </author>
+    <author fullname="Aleksander Jablonski" initials="A." surname="Jablonski">
+      <organization>Materials Measurement Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="July"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.154"/>
+  <seriesInfo name="NIST National Standard Reference Data Series" value="154"/>
+</reference>

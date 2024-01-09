@@ -1,0 +1,37 @@
+<reference anchor="NIST.SP.1500-102" target="https://doi.org/10.6028/NIST.SP.1500-102">
+  <front>
+    <title>Voter records interchange common data format specification :
+version 1.0</title>
+    <author fullname="Sam Dana" initials="S." surname="Dana">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="John Dziurlaj" initials="J." surname="Dziurlaj">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="E Sebes" initials="E " surname="Sebes">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Paul Stenbjorn" initials="P." surname="Stenbjorn">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="John Wack" initials="P" surname="Wack">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Sarah Whitt" initials="S." surname="Whitt">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="November"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-102"/>
+  <seriesInfo name="NIST Special Publications (General)" value="1500-102"/>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="NIST.IR.8259a" target="https://doi.org/10.6028/NIST.IR.8259a">
+  <front>
+    <title>IoT device cybersecurity capability core baseline</title>
+    <author fullname="Michael Fagan" initials="M." surname="Fagan">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Katerina Megas" initials="N" surname="Megas">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Karen Scarfone" initials="K." surname="Scarfone">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Matthew Smith" initials="M." surname="Smith">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8259a"/>
+  <seriesInfo name="NIST IR (Interagency/Internal Reports)" value="8259a"/>
+</reference>

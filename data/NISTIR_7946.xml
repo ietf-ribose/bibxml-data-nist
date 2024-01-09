@@ -1,0 +1,27 @@
+<reference anchor="NIST.IR.7946" target="https://doi.org/10.6028/NIST.IR.7946">
+  <front>
+    <title>CVSS implementation guidance</title>
+    <author fullname="Joshua Franklin" initials="J." surname="Franklin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Charles Wergin" initials="C." surname="Wergin">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Harold Booth" initials="H." surname="Booth">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.7946"/>
+  <seriesInfo name="NIST IR (Interagency/Internal Reports)" value="7946"/>
+</reference>

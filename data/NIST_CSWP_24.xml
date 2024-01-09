@@ -1,0 +1,19 @@
+<reference anchor="NIST.CSWP.24" target="https://doi.org/10.6028/NIST.CSWP.24">
+  <front>
+    <title>Recommended Criteria for Cybersecurity Labeling for Consumer Internet of Things (IoT) Products</title>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="February" day="4"/>
+    <abstract>Executive Order (EO) 14028, “Improving the Nation’s Cybersecurity,” tasks the National Institute of Standards and Technology (NIST), in coordination with the Federal Trade Commission (FTC) and other agencies, to initiate pilot programs for cybersecurity labeling. These labeling programs are intended to educate the public on the security capabilities of …software development practices. To inform this effort, the EO directs NIST to “…identify secure software development practices or criteria for a consumer software labeling program….” This document seeks to fulfill this directive by detailing the following areas: 1) the role of a scheme owner in a labeling program, 2) baseline technical criteria that can inform a label, 3) labeling presentation criteria, 4) conformity assessment criteria, and 5) a detailed discussion concerning consumer education and usability.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.CSWP.24"/>
+  <seriesInfo name="NIST Cybersecurity White Papers" value="24"/>
+</reference>

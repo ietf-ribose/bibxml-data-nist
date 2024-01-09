@@ -1,0 +1,21 @@
+<reference anchor="NIST.TN.1945" target="https://doi.org/10.6028/NIST.TN.1945">
+  <front>
+    <title>Email authentication mechanisms: DMARC, SPF and DKIM</title>
+    <author fullname="Stephen Nightingale" initials="J" surname="Nightingale">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="February"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1945"/>
+  <seriesInfo name="NIST Technical Notes" value="1945"/>
+</reference>

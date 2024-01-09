@@ -1,0 +1,22 @@
+<reference anchor="NIST.SP.800-140E" target="https://doi.org/10.6028/NIST.SP.800-140E">
+  <front>
+    <title>CMVP approved authentication mechanisms:
+CMVP validation authority requirements for ISOIEC 19790:2012 Annex E and ISOIEC 24579:2017</title>
+    <author fullname="Kim Schaffer" initials="K." surname="Schaffer">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="March"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140E"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-140E"/>
+</reference>

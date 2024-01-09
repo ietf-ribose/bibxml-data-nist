@@ -1,0 +1,28 @@
+<reference anchor="NIST.SP.800-41" target="https://doi.org/10.6028/NIST.SP.800-41">
+  <front>
+    <title>Guidelines on firewalls and firewall policy :
+recommendations of the National Institute of Standards and Technology</title>
+    <author fullname="John Wack" initials="J." surname="Wack">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Ken Cutler" initials="K." surname="Cutler">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Jamie Pole" initials="J." surname="Pole">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2002"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-41"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-41"/>
+</reference>

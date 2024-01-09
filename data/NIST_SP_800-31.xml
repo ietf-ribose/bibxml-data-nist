@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-31" target="https://doi.org/10.6028/NIST.SP.800-31">
+  <front>
+    <title>Intrusion detection systems</title>
+    <author fullname="Rebecca Bace" initials="R." surname="Bace">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="Peter Mell" initials="P." surname="Mell">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2001"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-31"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-31"/>
+</reference>

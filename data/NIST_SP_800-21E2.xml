@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-21e2" target="https://doi.org/10.6028/NIST.SP.800-21e2">
+  <front>
+    <title>Guideline for implementing cryptography in the federal government</title>
+    <author fullname="E Barker" initials="B" surname="Barker">
+      <organization/>
+    </author>
+    <author fullname="W Barker" initials="C" surname="Barker">
+      <organization/>
+    </author>
+    <author fullname="A Lee" initials="A" surname="Lee">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2005"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-21e2"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-21e2"/>
+</reference>

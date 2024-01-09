@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-101" target="https://doi.org/10.6028/NIST.SP.800-101">
+  <front>
+    <title>Guidelines on cell phone forensics</title>
+    <author fullname="W Jansen" initials="W" surname="Jansen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="R Ayers" initials="P" surname="Ayers">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2007"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-101"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-101"/>
+</reference>

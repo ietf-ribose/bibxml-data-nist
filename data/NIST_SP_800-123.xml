@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-123" target="https://doi.org/10.6028/NIST.SP.800-123">
+  <front>
+    <title>Guide to general server security</title>
+    <author fullname="K Scarfone" initials="A" surname="Scarfone">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="W Jansen" initials="W" surname="Jansen">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="M Tracy" initials="M" surname="Tracy">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2008"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-123"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-123"/>
+</reference>

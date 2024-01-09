@@ -1,0 +1,25 @@
+<reference anchor="NIST.IR.8214B.ipd" target="https://doi.org/10.6028/NIST.IR.8214B.ipd">
+  <front>
+    <title>Notes on Threshold EdDSA/Schnorr Signatures</title>
+    <author fullname="Luis Brandao" initials="L." surname="Brandao">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author fullname="Michael Davidson" initials="M." surname="Davidson">
+      <organization>Information Technology Laboratory</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="August" day="12"/>
+    <abstract>This report considers threshold signature schemes interchangeable with respect to the verification mechanism of the Edwards-Curve Digital Signature Algorithm (EdDSA). Historically, EdDSA is known as a variant of Schnorr signatures, which are well-studied and suitable for efficient thresholdization, i.e., for being computed when the private signing key is secret-shared across multiple parties. In the threshold setting, signatures remain unforgeable even if up to some threshold number of the cosigners become compromised. The report analyzes the conventional (non-threshold) EdDSA specification from Draft FIPS 186-5, reviews important security properties, with an emphasis on strong unforgeability, and distinguishes various approaches for corresponding threshold schemes. Notably, while providing better security assurances, threshold signatures can be used as drop-in replacement for conventionally produced signatures, without changing legacy code for verification of authenticity. The report identifies various challenges and questions that would benefit from more attention, are of interest for future guidance and recommendations, and may be applicable beyond EdDSA.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8214B.ipd"/>
+  <seriesInfo name="NIST IR (Interagency/Internal Reports)" value="8214B"/>
+</reference>

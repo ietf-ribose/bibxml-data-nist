@@ -1,0 +1,31 @@
+<reference anchor="NIST.SP.800-132" target="https://doi.org/10.6028/NIST.SP.800-132">
+  <front>
+    <title>Recommendation for password-based key derivation :
+part 1: storage applications</title>
+    <author fullname="M Turan" initials="S" surname="Turan">
+      <organization/>
+    </author>
+    <author fullname="E Barker" initials="B" surname="Barker">
+      <organization/>
+    </author>
+    <author fullname="W Burr" initials="E" surname="Burr">
+      <organization/>
+    </author>
+    <author fullname="L Chen" initials="L" surname="Chen">
+      <organization/>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2010"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-132"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-132"/>
+</reference>

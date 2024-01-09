@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.800-64r1" target="https://doi.org/10.6028/NIST.SP.800-64r1">
+  <front>
+    <title>Security considerations in the information system development life cycle</title>
+    <author fullname="T Grance" initials="T" surname="Grance">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="J Hash" initials="J" surname="Hash">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author fullname="M Stevens" initials="M" surname="Stevens">
+      <organization>Computer Security Division.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2004"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-64r1"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-64r1"/>
+</reference>

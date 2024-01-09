@@ -1,0 +1,33 @@
+<reference anchor="NIST.SP.800-128-2011" target="https://doi.org/10.6028/NIST.SP.800-128-2011">
+  <front>
+    <title>Guide for security-focused configuration management of information systems</title>
+    <author fullname="Arnold Johnson" initials="A." surname="Johnson">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Kelley Dempsey" initials="K." surname="Dempsey">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Ron Ross" initials="R." surname="Ross">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Sarbari Gupta" initials="S." surname="Gupta">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author fullname="Dennis Bailey" initials="D." surname="Bailey">
+      <organization>Information Technology Laboratory.</organization>
+    </author>
+    <author>
+      <organization abbrev="NIST">National Institute of Standards and Technology</organization>
+      <address>
+        <postal>
+          <city>Gaithersburg</city>
+          <country>US</country>
+          <region>MD</region>
+        </postal>
+      </address>
+    </author>
+    <date year="2011" month="August"/>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-128-2011"/>
+  <seriesInfo name="NIST Special Publications (General)" value="800-128-2011"/>
+</reference>
