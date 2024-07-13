@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-216" target="https://doi.org/10.6028/NIST.SP.800-216">
+  <front>
+    <title>Recommendations for federal vulnerability disclosure guidelines</title>
+    <author fullname="Schaffer, Kim B.">
+      <organization/>
+    </author>
+    <author fullname="Mell, Peter.">
+      <organization/>
+    </author>
+    <author fullname="Trinh, Hung.">
+      <organization/>
+    </author>
+    <author fullname="Van Wyk, Isabel.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Receiving reports on suspected security vulnerabilities in information systems is one of the best ways for developers and services to become aware of issues. Formalizing actions to accept, assess, and manage vulnerability disclosure reports can help reduce known security vulnerabilities. This document recommends guidance for establishing a federal vulnerability disclosure framework, properly handling vulnerability reports, and communicating the mitigation and/or remediation of vulnerabilities. The framework allows for local resolution support while providing federal oversight and should be applied to all software, hardware, and digital services under federal control.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-216"/>
+  <seriesInfo name="NIST special publication" value="800-216"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-216"/>
+</reference>

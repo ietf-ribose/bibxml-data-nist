@@ -1,0 +1,36 @@
+<reference anchor="NIST.IR.8454" target="https://doi.org/10.6028/NIST.IR.8454">
+  <front>
+    <title>Status report on the final round of the NIST lightweight cryptography standardization process</title>
+    <author fullname="Sonmez Turan, Meltem.">
+      <organization/>
+    </author>
+    <author fullname="McKay, Kerry.">
+      <organization/>
+    </author>
+    <author fullname="Chang, Donghoon.">
+      <organization/>
+    </author>
+    <author fullname="Bassham, Lawrence E.">
+      <organization/>
+    </author>
+    <author fullname="Kang, Jinkeon.">
+      <organization/>
+    </author>
+    <author fullname="Waller, Noah D.">
+      <organization/>
+    </author>
+    <author fullname="Kelsey, John M.">
+      <organization/>
+    </author>
+    <author fullname="Hong, Deukjo.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>The National Institute of Standards and Technology (NIST) initiated a public standardization process to select one or more schemes that provide Authenticated Encryption with Associated Data (AEAD) and optional hashing functionalities and are suitable for constrained environments. In February 2019, 57 candidates were submitted to NIST for consideration. Among these, 56 were accepted as first-round candidates in April 2019. After four months, NIST selected 32 of the candidates for the second round. In March 2021, NIST announced 10 finalists – namely ASCON, Elephant, GIFT-COFB, Grain-128AEAD, ISAP, PHOTON-Beetle, Romulus, SPARKLE, TinyJAMBU, and Xoodyak – to move forward to the final round of the selection process. On February 7, 2023, NIST announced the decision to standardize the ASCON family for lightweight cryptography applications. This report describes the evaluation criteria and selection process, which is based on public feedback and internal review of the finalists.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8454"/>
+  <seriesInfo name="NISTIR" value="8454"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal&#10;                report" value="8454"/>
+</reference>

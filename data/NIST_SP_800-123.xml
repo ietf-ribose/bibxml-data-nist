@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.800-123" target="https://doi.org/10.6028/NIST.SP.800-123">
+  <front>
+    <title>Guide to general server security</title>
+    <author fullname="Scarfone, K. A.">
+      <organization/>
+    </author>
+    <author fullname="Jansen, W.">
+      <organization/>
+    </author>
+    <author fullname="Tracy, M.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>The purpose of this document is to assist organizations in understanding the fundamental activities performed as part of securing and maintaining the security of servers that provide services over network communications as a main function. The document discusses the need to secure servers and provides recommendations for selecting, implementing, and maintaining the necessary security controls.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-123"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-123"/>
+</reference>

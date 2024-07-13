@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.800-56Cr1" target="https://doi.org/10.6028/NIST.SP.800-56Cr1">
+  <front>
+    <title>Recommendation for key-derivation methods in key-establishment schemes</title>
+    <author fullname="Barker, Elaine.">
+      <organization/>
+    </author>
+    <author fullname="Chen, Lily.">
+      <organization/>
+    </author>
+    <author fullname="Davis, Richard.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This Recommendation specifies techniques for the derivation of keying material from a shared secret established during a key-establishment scheme defined in NIST Special Publications 800-56A or 800-56B.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56Cr1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-56Cr1"/>
+</reference>

@@ -1,0 +1,32 @@
+<reference anchor="NIST.VTS.200-1" target="https://doi.org/10.6028/NIST.VTS.200-1">
+  <front>
+    <title>Cybersecurity framework election infrastructure profile</title>
+    <author fullname="Brady, Mary.">
+      <organization/>
+    </author>
+    <author fullname="Howell, Gema.">
+      <organization/>
+    </author>
+    <author fullname="Franklin, Joshua M.">
+      <organization/>
+    </author>
+    <author fullname="Sames, Christina.">
+      <organization/>
+    </author>
+    <author fullname="Schneider, M.">
+      <organization/>
+    </author>
+    <author fullname="Snyder, Julie.">
+      <organization/>
+    </author>
+    <author fullname="Weitzel, David.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This document is a Cybersecurity Framework Profile developed for voting equipment and information systems supporting elections. This Election Infrastructure Profile can be utilized by election administrators and IT professionals managing election infrastructure to reduce the risks associated with these systems. This Profile provides a voluntary, risk-based approach for managing cybersecurity activities and reducing cyber risk to election infrastructure. The Profile is meant to supplement but not replace current cybersecurity standards and industry guidelines that the election administrators are already leveraging.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.VTS.200-1"/>
+  <seriesInfo name="NIST voting technology standard; NIST VTS" value="200-1"/>
+</reference>

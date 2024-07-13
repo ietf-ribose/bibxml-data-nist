@@ -1,0 +1,23 @@
+<reference anchor="NIST.TN.1987" target="https://doi.org/10.6028/NIST.TN.1987">
+  <front>
+    <title>Reduced-order thermal analysis of fire effects on composite slabs</title>
+    <author fullname="Jiang, Jian.">
+      <organization/>
+    </author>
+    <author fullname="Main, Joseph A.">
+      <organization/>
+    </author>
+    <author fullname="Weigand, Jonathan.">
+      <organization/>
+    </author>
+    <author fullname="Sadek, Fahim.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This paper describes a reduced-order modeling approach for thermal analyses of composite slabs with profiled decking. The reduced-order modeling approach consists of alternating strips of layered shell elements, representing the thick and thin portions of slab. Layered shell elements representing the thick portion of the slab adopt a linear reduction in the density of concrete within the rib to account for the tapered profile of the ribs. A dummy material with low specific heat and high through-thickness thermal conductivity is used to represent the voids between the ribs. The specific heat of concrete in the rib is also modified to indirectly consider the heat input through the web of the decking. The optimal ratio of modified to actual specific heat of concrete in the rib is determined, depending on the ratio of the height of the upper continuous portion to the height of the rib. The reduced-order modeling approach is validated against experimental results.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1987"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="1987"/>
+</reference>

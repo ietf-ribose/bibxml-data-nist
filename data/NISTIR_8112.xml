@@ -1,0 +1,26 @@
+<reference anchor="NIST.IR.8112" target="https://doi.org/10.6028/NIST.IR.8112">
+  <front>
+    <title>Attribute metadata</title>
+    <author fullname="Grassi, Paul A.">
+      <organization/>
+    </author>
+    <author fullname="Lefkovitz, Naomi B.">
+      <organization/>
+    </author>
+    <author fullname="Nadeau, Ellen M.">
+      <organization/>
+    </author>
+    <author fullname="Galluzzo, Ryan J.">
+      <organization/>
+    </author>
+    <author fullname="Dinh, Abhiraj T.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This NIST Internal Report contains a metadata schema for attributes that may be asserted about an individual during an online transaction. The schema can be used by relying parties to enrich access control policies, as well as during run-time evaluation of an individual's ability to access protected resources. Attribute metadata could also create the possibility for data sharing permissions and limitations on individual data elements. There are other possible applications of attribute metadata, such as evaluation and execution of business logic in decision support systems or associated with devices or non-person entities; however, the metadata contained herein is focused on supporting an organization's risk-informed authorization policies and evaluation for individuals.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8112"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8112"/>
+</reference>

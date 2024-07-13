@@ -1,0 +1,29 @@
+<reference anchor="NIST.TN.2046" target="https://doi.org/10.6028/NIST.TN.2046">
+  <front>
+    <title>Estimating real-time infiltration for use in residential ventilation control</title>
+    <author fullname="Ng, Lisa.">
+      <organization/>
+    </author>
+    <author fullname="Zimmerman, Stephen.">
+      <organization/>
+    </author>
+    <author fullname="Good, Jeremy.">
+      <organization/>
+    </author>
+    <author fullname="Toll, Brian.">
+      <organization/>
+    </author>
+    <author fullname="Emmerich, Steven J. (Steven John)">
+      <organization/>
+    </author>
+    <author fullname="Persily, Andrew K.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Minimum outdoor air ventilation rates specified in standards such as ASHRAE Standard 62.2 are generally based on envelope airtightness, building floor area, geographical location, and number of occupants. To meet ventilation requirements in practice, simple on/off controls and operating schedules are most commonly used to maintain the required ventilation rate. Ideally, minimum outdoor ventilation rates should account for unintentional leakage through the building envelope, or 'infiltration.' ASHRAE Standard 62.2-2016 allows for an infiltration credit, which reduces the required mechanical ventilation. However, infiltration rates vary based on the indoor-outdoor temperature difference, wind, and system operation</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2046"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2046"/>
+</reference>

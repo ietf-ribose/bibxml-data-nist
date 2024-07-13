@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.800-213" target="https://doi.org/10.6028/NIST.SP.800-213">
+  <front>
+    <title>IoT device cybersecurity guidance for the federal government</title>
+    <author fullname="Fagan, Michael.">
+      <organization/>
+    </author>
+    <author fullname="Marron, Jeffrey.">
+      <organization/>
+    </author>
+    <author fullname="Brady, Kevin.">
+      <organization/>
+    </author>
+    <author fullname="Cuthill, Barbara.">
+      <organization/>
+    </author>
+    <author fullname="Megas, Katerina.">
+      <organization/>
+    </author>
+    <author fullname="Herold, Rebecca.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Organizations will increasingly use Internet of Things (IoT) devices for the mission benefits they can offer, but care must be taken in the acquisition and implementation of IoT devices. This publication contains background and recommendations to help organizations consider how an IoT device they plan to acquire can integrate into a system. IoT devices and their support for security controls are presented in the context of organizational and system risk management. This publication provides guidance on considering system security from the device perspective. This allows for the identification of device cybersecurity requirements the abilities and actions an organization will expect from an IoT device and its manufacturer and/or third parties, respectively.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-213"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-213"/>
+</reference>

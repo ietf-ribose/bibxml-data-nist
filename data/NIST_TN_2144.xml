@@ -1,0 +1,20 @@
+<reference anchor="NIST.TN.2144" target="https://doi.org/10.6028/NIST.TN.2144">
+  <front>
+    <title>Evaluation of timers related to ProSe-based UE-to-network relays</title>
+    <author fullname="Ben Mosbah, Aziza.">
+      <organization/>
+    </author>
+    <author fullname="Gamboa, Samantha.">
+      <organization/>
+    </author>
+    <author fullname="Rouil, Richard.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>User Equipment (UE)-to-Network Relay functionality was introduced in Release 13 of the Third Generation Partnership Project (3GPP) Long Term Evolution (LTE) to extend and improve user connectivity using the sidelink (SL) channels. The UE-to-Network Relay signalling allows the establishment and maintenance of a direct connection between the relay UE and the remote UE. Different procedures and timers are linked to these processes. In this paper, we focus on describing and evaluating the PC5 Signalling Protocol performance through system-level simulations. We also propose recommended timer values to increase the probability of successfully establishing and maintaining the connection between a remote UE and a relay UE.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2144"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2144"/>
+</reference>

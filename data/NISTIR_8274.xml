@@ -1,0 +1,14 @@
+<reference anchor="NIST.IR.8274" target="https://doi.org/10.6028/NIST.IR.8274">
+  <front>
+    <title>Formal methods for statistical software</title>
+    <author fullname="Black, Paul E.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>Statistical software encompasses several distinct classes of software. This report explains what formal methods, tools, and approaches may be able to increase assurance of results of using statistical software and implementing differential privacy. To provide context, we present an exemplary process for assured results. The parts are data assurance, algorithm design, software production, correctness proofs, postproduction assurance of software, and result checking. We note a workshop we organized to support this paper and finish with recommended formal methods, tools, and researchers doing particularly pertinent work.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8274"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8274"/>
+</reference>

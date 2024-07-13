@@ -1,0 +1,23 @@
+<reference anchor="NIST.SP.800-44ver2" target="https://doi.org/10.6028/NIST.SP.800-44ver2">
+  <front>
+    <title>Guidelines on securing public web servers</title>
+    <author fullname="Tracy, M. C.">
+      <organization/>
+    </author>
+    <author fullname="Jansen, W.">
+      <organization/>
+    </author>
+    <author fullname="Scarfone, K. A.">
+      <organization/>
+    </author>
+    <author fullname="Winograd, T.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Web servers are often the most targeted and attacked hosts on organizations' networks. As a result, it is essential to secure Web servers and the network infrastructure that supports them. This document is intended to assist organizations in installing, configuring, and maintaining secure public Web servers. Practices described in detail include choosing Web server software and platforms, securing the underlying operating system and Web server software, deploying appropriate network protection mechanisms, and using, publicizing, and protecting information in a careful and systematic manner. The publication also provides recommendations for maintaining secure configurations through patching and upgrades, security testing, log monitoring, and backups of data and operating system files.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-44ver2"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-44ver2"/>
+</reference>

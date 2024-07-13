@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.800-166" target="https://doi.org/10.6028/NIST.SP.800-166">
+  <front>
+    <title>Derived PIV application and data model test guidelines</title>
+    <author fullname="Cooper, David.">
+      <organization/>
+    </author>
+    <author fullname="Ferraiolo, Hildegard.">
+      <organization/>
+    </author>
+    <author fullname="Chandramouli, Ramaswamy.">
+      <organization/>
+    </author>
+    <author fullname="Ghadiali, Nabil.">
+      <organization/>
+    </author>
+    <author fullname="Mohler, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Brady, Steven.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>NIST Special Publication (SP) 800-157 contains technical guidelines for the implementation of standards-based, secure, reliable, interoperable Public Key Infrastructure (PKI)-based identity credentials that are issued for mobile devices by federal departments and agencies to individuals who possess and prove control over a valid Personal Identity Verification (PIV) Card. This document, SP 800-166, contains the requirements and test assertions for testing the Derived PIV Application and associated Derived PIV data objects implemented on removable hardware tokens and within mobile devices. The tests reflect the design goals of interoperability and interface functions.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-166"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-166"/>
+</reference>

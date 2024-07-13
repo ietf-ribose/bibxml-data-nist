@@ -1,0 +1,20 @@
+<reference anchor="NIST.TN.2106" target="https://doi.org/10.6028/NIST.TN.2106">
+  <front>
+    <title>Comparing instruments</title>
+    <author fullname="Yen, James.">
+      <organization/>
+    </author>
+    <author fullname="Leber, Dennis.">
+      <organization/>
+    </author>
+    <author fullname="Pibida, Leticia.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document details methods to compare instrument performance. Comparison methods for instruments outputting binary (0-1) responses as well as for instruments outputting continuous numeric responses are shown, first for two instruments and then for multiple instruments. Hypothesis tests and confidence intervals for instrument differences are demonstrated. Several nonparametric procedures are shown along with reasons why they might be needed. Finally, equivalence testing is demonstrated for those cases where testing for equivalence rather than for differences is indicated.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2106"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2106"/>
+</reference>

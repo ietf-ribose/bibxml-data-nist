@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.800-73-2" target="https://doi.org/10.6028/NIST.SP.800-73-2">
+  <front>
+    <title>Interfaces for personal identity verification</title>
+    <author fullname="Candramauḷi, Ār.">
+      <organization/>
+    </author>
+    <author fullname="Dray, J. F.">
+      <organization/>
+    </author>
+    <author fullname="Ferraiolo, H.">
+      <organization/>
+    </author>
+    <author fullname="Guthery, S. B.">
+      <organization/>
+    </author>
+    <author fullname="MacGregor, W. I.">
+      <organization/>
+    </author>
+    <author fullname="Mehta, K.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>SP 800-73-2 specifies the PIV data model, Application Programming Interface (API) and card interface requirements necessary to comply with the use cases, as defined in Section 6 of FIPS 201 and further described in this document. Interoperability is defined as the use of PIV identity credentials such that client-application programs, compliant card applications, and compliant integrated circuits cards (ICC) can be used interchangeably by all information processing systems across Federal agencies. SP 800-73-2 defines the PIV data elements identifiers, structure and format. SP 800-73-2 also describes the client application programming interface and card command interface for use of the PIV Card.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-73-2"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-73-2"/>
+</reference>

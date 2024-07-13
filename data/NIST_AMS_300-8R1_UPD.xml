@@ -1,0 +1,23 @@
+<reference anchor="NIST.AMS.300-8r1/upd" target="https://doi.org/10.6028/NIST.AMS.300-8r1/upd">
+  <front>
+    <title>Wireless user requirements for the factory workcell</title>
+    <author fullname="Montgomery, Karl.">
+      <organization/>
+    </author>
+    <author fullname="Candell, Richard.">
+      <organization/>
+    </author>
+    <author fullname="Liu, Yongkang.">
+      <organization/>
+    </author>
+    <author fullname="Hany, Mohamed.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Wireless communication is becoming crucial to advanced manufacturing. Industry 4.0 and Smart Manufacturing depend on networked industrial automation systems. The term Industrial Internet of Things (IIoT) has been used to describe the deployment of interconnected machines, sensors, and actuators within modernized factories. The adoption of wireless systems is essential to these IIoT deployments. Wireless automation significantly reduces capital investment costs, including conduit, cables, networking equipment, and installation labor. To enable the adoption of wireless systems at the factory-floor level, wireless requirements must be established to realize the benefits of wireless communication systems within those factories. One challenge is that existing wireless standards lack technical specifications that support low-latency and high-reliability communication for factory applications. Additionally, requirements for such capabilities are published or advertised without validation of said requirements. Often, requirements published by standards development organizations appear excessively strict and invalidated by empirical study. Moreover, those requirements ignore the capabilities of the applications to use their own intelligence to compensate for lost reliability in the network. This report analyzes existing wireless user requirements stated by industry organizations, and it produces a combined perspective on wireless user requirements for the factory workcell with supporting rationale.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-8r1/upd"/>
+  <seriesInfo name="NIST advanced manufacturing series; NIST AMS" value="300-8r1-upd"/>
+</reference>

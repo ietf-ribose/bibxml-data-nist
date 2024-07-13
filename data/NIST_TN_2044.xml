@@ -1,0 +1,14 @@
+<reference anchor="NIST.TN.2044" target="https://doi.org/10.6028/NIST.TN.2044">
+  <front>
+    <title>Unreliable evidence in binary classification problems</title>
+    <author fullname="Flater, David.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>Binary classification problems include such things as classifying email messages as spam or non-spam and screening for the presence of disease (which can be seen as classifying a subject as disease-positive or disease- negative). Both Bayesian and frequentist approaches have been applied to these problems. Both kinds of approaches provide poor estimates of the predictive value of tests for which the number of positive results in the sample is either very small or very large. A classifier that does not account for the uncertainty of these estimates is vulnerable to making inferences from unreliable evidence. This report explains the problem and explores options for accounting for the often-neglected uncertainty. A neat solution that does no harm to less uncertain cases remains elusive.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2044"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2044"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="NIST.NSRDS.64-2023" target="https://doi.org/10.6028/NIST.NSRDS.64-2023">
+  <front>
+    <title>NIST electron elastic-scattering cross-section database</title>
+    <author fullname="Jablonski, Aleksander.">
+      <organization/>
+    </author>
+    <author fullname="Salvat, F.">
+      <organization/>
+    </author>
+    <author fullname="Powell, Cedric.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Version 5.0 of the database was released in December 2023. Most screens were redesigned. An option was added to provide samplers of polar elastic-scattering angles that can be used in Monte Carlo simulations of electron transport in solids (as was possible in Version 3.2 and earlier versions). However, a more accurate numerical method has been implemented in Version 5.0, as described in Appendix A. The new sampler is designed to generate scattering angles for electron energies between 50 eV and 20 keV. The differential elastic-scattering cross sections (DCSs) were calculated using the relativistic Dirac partial-wave method, as described by Walker [3]. The scattering potential was obtained from the self-consistent Dirac-Hartree-Fock electron density for free atoms [4] with the local exchange potential of Furness and McCarthy [5]. The numerical calculations were performed with the algorithm described by Salvat and Mayol [6]. Transport cross sections were calculated from the DCSs as described by Jablonski et al. [1].</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.64-2023"/>
+  <seriesInfo name="NSRDS-NIST; National standard reference data series" value="64-2023"/>
+</reference>

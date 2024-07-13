@@ -1,0 +1,14 @@
+<reference anchor="NIST.SP.800-125A" target="https://doi.org/10.6028/NIST.SP.800-125A">
+  <front>
+    <title>Security recommendations for hypervisor deployment on servers</title>
+    <author fullname="Chandramouli, Ramaswamy.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>The Hypervisor is a collection of software modules that provides virtualization of hardware resources (such as CPU/GPU, Memory, Network and Storage) and thus enables multiple computing stacks (basically made of an OS and Application programs) called Virtual Machines (VMs) to be run on a single physical host. In addition, it may have the functionality to define a network within the single physical host (called virtual network) to enable communication among the VMs resident on that host as well as with physical and virtual machines outside the host. With all this functionality, the hypervisor has the responsibility to mediate access to physical resources, provide run time isolation among resident VMs and enable a virtual network that provides security-preserving communication flow among the VMs and between the VMs and the external network. The architecture of a hypervisor can be classified in different ways. The security recommendations in this document relate to ensuring the secure execution of baseline functions of the hypervisor and are therefore agnostic to the hypervisor architecture. Further, the recommendations are in the context of a hypervisor deployed for server virtualization and not for other use cases such as embedded systems and desktops. Recommendations for secure configuration of virtual network are dealt with in a separate NIST document (SP 800-125B).</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-125A"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-125A"/>
+</reference>

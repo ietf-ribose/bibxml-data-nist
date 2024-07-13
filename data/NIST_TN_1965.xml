@@ -1,0 +1,26 @@
+<reference anchor="NIST.TN.1965" target="https://doi.org/10.6028/NIST.TN.1965">
+  <front>
+    <title>Mobile manipulator performance measurement data</title>
+    <author fullname="Bostelman, Roger.">
+      <organization/>
+    </author>
+    <author fullname="Li-Baboud, Ya-Shian.">
+      <organization/>
+    </author>
+    <author fullname="Legowik, Steve.">
+      <organization/>
+    </author>
+    <author fullname="Hong, Tsai.">
+      <organization/>
+    </author>
+    <author fullname="Foufou, Sebti.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>The National Institute of Standards and Technology, Intelligent Systems Division has collected data detailing the performance measurement of a mobile manipulator, i.e., an automatic guided vehicle (AGV) with onboard robot arm from two different manufacturers. The performance measurement concept uses a novel artifact and method that is verified using an optical tracking system (OTS) to measure the AGV and manipulator motion and position uncertainty. Associated data from each of the three systems (AGV, manipulator, and OTS) was collected during two tests and all tests have corresponding timestamps relative to global positioning system (GPS) time, where the computer clocks are synchronized using the Network Time Protocol. This paper provides detailed explanation of the data from mobile manipulator performance measurement tests.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1965"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="1965"/>
+</reference>

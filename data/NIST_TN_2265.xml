@@ -1,0 +1,17 @@
+<reference anchor="NIST.TN.2265" target="https://doi.org/10.6028/NIST.TN.2265">
+  <front>
+    <title>Comparison of ice-on-coil thermal energy storage models</title>
+    <author fullname="Kanagala, Kalyan Ram.">
+      <organization/>
+    </author>
+    <author fullname="Pertzborn, Amanda $0 (orcid)0000-0002-1473-7500">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Data collected from the Intelligent Building Agents Laboratory (IBAL) at the National Institute of Standards and Technology (NIST) are used to develop a physics-based and four machine learning models of ice-on-coil thermal energy storage (TES): linear interpolation, linear regression, neural network, and Gaussian process. Data cleaning considerations are discussed in addition to presenting the results of the five models. For this TES system, which is linear over a significant range of operation, the linear interpolation model performs the best, but there is a thorough discussion of the advantages and disadvantages of each model.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2265"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2265"/>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.800-116r1" target="https://doi.org/10.6028/NIST.SP.800-116r1">
+  <front>
+    <title>Guidelines for the use of PIV credentials in facility access</title>
+    <author fullname="Ferraiolo, Hildegard.">
+      <organization/>
+    </author>
+    <author fullname="Mehta, Ketan.">
+      <organization/>
+    </author>
+    <author fullname="Ghadiali, Nabil.">
+      <organization/>
+    </author>
+    <author fullname="Mohler, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Johnson, Vincent.">
+      <organization/>
+    </author>
+    <author fullname="Brady, Steven.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document provides best practice guidelines for integrating the PIV Card with the physical access control systems (PACS) that authenticate the cardholders in Federal facilities. Specifically, this document recommends a risk-based approach for selecting appropriate PIV authentication mechanisms to manage physical access to Federal government facilities and assets.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-116r1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-116r1"/>
+</reference>

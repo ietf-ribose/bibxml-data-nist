@@ -1,0 +1,65 @@
+<reference anchor="NIST.TN.2076" target="https://doi.org/10.6028/NIST.TN.2076">
+  <front>
+    <title>Channel sounder measurement verification</title>
+    <author fullname="Quimby, Jeanne.">
+      <organization/>
+    </author>
+    <author fullname="Jargon, Jeffrey A. (Jeffrey Arendt)">
+      <organization/>
+    </author>
+    <author fullname="Leonhardt, Rod.">
+      <organization/>
+    </author>
+    <author fullname="Rezac, Jacob D.">
+      <organization/>
+    </author>
+    <author fullname="Hale, Paul D.">
+      <organization/>
+    </author>
+    <author fullname="Remley, Kate A.">
+      <organization/>
+    </author>
+    <author fullname="Koepke, Amanda.">
+      <organization/>
+    </author>
+    <author fullname="Streett, Sarah.">
+      <organization/>
+    </author>
+    <author fullname="Johnk, Robert T.">
+      <organization/>
+    </author>
+    <author fullname="Hammerschmidt, Chriss.">
+      <organization/>
+    </author>
+    <author fullname="McKenna, Paul.">
+      <organization/>
+    </author>
+    <author fullname="Stange, Irena.">
+      <organization/>
+    </author>
+    <author fullname="Chang, Mike,">
+      <organization/>
+    </author>
+    <author fullname="DeMinco, N.">
+      <organization/>
+    </author>
+    <author fullname="Diener, Joseph E.">
+      <organization/>
+    </author>
+    <author fullname="Smith, Richard Chad.">
+      <organization/>
+    </author>
+    <author fullname="Hoyt, Christopher.">
+      <organization/>
+    </author>
+    <author fullname="Springer, Sofia.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Channel modeling often provides a basis for the design and deployment of wireless technology. Engineers design systems to operate under certain expected channel conditions. Channel models are typically based on the statistics of a collection of many measurements performed by channel sounders in nominally similar radio-propagation environments. Channel sounders measure characteristics of a radio propagation channel such as path gain, decay time, and angular dispersion, among other channel model metrics. The models developed from these measurements are typically the first step in standardizing a new wireless technology. While many such models currently exist, wireless technology for new use cases is constantly under development, necessitating continued development of new and improved channel models. For example, in the 3550 MHz to 3650 MHz (3.5 GHz) band, rules for spectrum sharing and systems for implementing those rules are being developed based on specific channel models. Success of the spectrum sharing systems will, in part, depend on the accuracy of those models. As another example, it is anticipated that other next-generation wireless systems will operate in the millimeter-wave bands. Here, developing new channel models will be of paramount importance due to the significantly different impact of the propagation phenomena at these higher frequencies. At both microwave and millimeter-wave frequencies, separating measurement uncertainty from channel variations provides rigor for channel-model development and validation. Such measurement uncertainties can be caused by systematic hardware nonidealities, system noise, and the repeatability and reproducibility of the measurements.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2076"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2076"/>
+</reference>

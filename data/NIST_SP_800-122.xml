@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.800-122" target="https://doi.org/10.6028/NIST.SP.800-122">
+  <front>
+    <title>Guide to protecting the confidentiality of Personally Identifiable Information (PII)</title>
+    <author fullname="McCallister, E.">
+      <organization/>
+    </author>
+    <author fullname="Grance, T.">
+      <organization/>
+    </author>
+    <author fullname="Scarfone, K. A.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>The purpose of this document is to assist Federal agencies in protecting the confidentiality of personally identifiable information (PII) in information systems. The document explains the importance of protecting the confidentiality of PII in the context of information security and explains its relationship to privacy using the the Fair Information Practices, which are the principles underlying most privacy laws and privacy best practices. PII should be protected from inappropriate access, use, and disclosure. This document provides practical, context-based guidance for identifying PII and determining what level of protection is appropriate for each instance of PII. The document also suggests safeguards that may offer appropriate levels of protection for PII and provides recommendations for developing response plans for incidents involving PII. Organizations are encouraged to tailor the recommendations to meet their specific requirements.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-122"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-122"/>
+</reference>

@@ -1,0 +1,44 @@
+<reference anchor="NIST.SP.1800-34" target="https://doi.org/10.6028/NIST.SP.1800-34">
+  <front>
+    <title>Supply chain assurance</title>
+    <author fullname="Boyens, Jon.">
+      <organization/>
+    </author>
+    <author fullname="Diamond, Tyler.">
+      <organization/>
+    </author>
+    <author fullname="Grayson, Nakia.">
+      <organization/>
+    </author>
+    <author fullname="Paulsen, Celia.">
+      <organization/>
+    </author>
+    <author fullname="Polk, William T.">
+      <organization/>
+    </author>
+    <author fullname="Regenscheid, Andrew.">
+      <organization/>
+    </author>
+    <author fullname="Souppaya, Murugiah.">
+      <organization/>
+    </author>
+    <author fullname="Brown, Christopher.">
+      <organization/>
+    </author>
+    <author fullname="Deane, Chelsea.">
+      <organization/>
+    </author>
+    <author fullname="Hurlburt, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Scarfone, Karen.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Product integrity and the ability to distinguish trustworthy products is a critical foundation of C-SCRM. Authoritative information regarding the provenance and integrity of components provides a strong basis for trust in a computing device whether it is a client device, server, or other technology. The goal of this project is to demonstrate how organizations can verify that the components of their acquired computing devices are genuine and have not been tampered with or otherwise modified throughout the devices' life cycles. This project addresses several processes: how to create verifiable descriptions of components and platforms, which may be done by original equipment manufacturers (OEMs), platform integrators, and even information technology (IT) departments how to verify devices and components within the single transaction between an OEM and a customer how to verify devices and components at subsequent stages in the system life cycle in the operational environment. This project will use a combination of commercial off-the-shelf and open-source tools to describe the components of a device in a verifiable manner using cryptography. Future builds of this project may cover other critical phases of C-SCRM.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-34"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-34"/>
+</reference>

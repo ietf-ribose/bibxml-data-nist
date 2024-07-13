@@ -1,0 +1,32 @@
+<reference anchor="NIST.SP.1800-1" target="https://doi.org/10.6028/NIST.SP.1800-1">
+  <front>
+    <title>Securing electronic health records on mobile devices</title>
+    <author fullname="O'Brien, Gavin,">
+      <organization/>
+    </author>
+    <author fullname="Lesser, Nate.">
+      <organization/>
+    </author>
+    <author fullname="Pleasant, Brett.">
+      <organization/>
+    </author>
+    <author fullname="Xu, Rulin.">
+      <organization/>
+    </author>
+    <author fullname="Zheng, Kangmin.">
+      <organization/>
+    </author>
+    <author fullname="Bowers, Colin.">
+      <organization/>
+    </author>
+    <author fullname="Kamke, Kyle.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>Health care providers increasingly use mobile devices to receive, store, process, and transmit patient clinical information. According to our own risk analysis, discussed here, and in the experience of many health care providers, mobile devices can present vulnerabilities in a health care organization's networks. At the 2012 Health and Human Services Mobile Devices Roundtable, participants stressed that mobile devices are being used by many providers for health care delivery before they have implemented safeguards for privacy and security. This NIST Cybersecurity Practice Guide provides a modular, open, end-to-end reference design that can be tailored and implemented by health care organizations of varying sizes and information technology sophistication. Specifically, the guide shows how health care providers, using open source and commercially available tools and technologies that are consistent with cybersecurity standards, can more securely share patient information among caregivers using mobile devices. The scenario considered is that of a hypothetical primary care physician using her mobile device to perform reoccurring activities such as sending a referral (e.g., clinicalinformation) to another physician, or sending an electronic prescription to a pharmacy. While the design was demonstrated with a certain suite of products, the guide does not endorse these products in particular. Instead, it presents the characteristics and capabilities that an organization's security experts can use to identify similar standards-based products that can be integrated quickly and cost-effectively with a health care provider's existing tools and infrastructure.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-1"/>
+</reference>

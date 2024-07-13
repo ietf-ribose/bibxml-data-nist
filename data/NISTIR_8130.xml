@@ -1,0 +1,17 @@
+<reference anchor="NIST.IR.8130" target="https://doi.org/10.6028/NIST.IR.8130">
+  <front>
+    <title>Baseline Tailor user guide</title>
+    <author fullname="Lubell, Joshua.">
+      <organization/>
+    </author>
+    <author fullname="Lubell, Anthony.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This guide describes how to use Baseline Tailor, a software tool for navigating the United States Government s Cybersecurity Framework and for tailoring the National Institute of Standards and Technology Special Publication 800-53 Revision 4 security controls. Baseline Tailor generates output in Extensible Markup Language (XML) formats capturing a user s Framework Profile and tailoring choices. More information about Baseline Tailor and supplemental documentation are available at https://www.nist.gov/el/msid/baselinetailor.cfm.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8130"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8130"/>
+</reference>

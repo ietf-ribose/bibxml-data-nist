@@ -1,0 +1,23 @@
+<reference anchor="NIST.SP.800-70r1" target="https://doi.org/10.6028/NIST.SP.800-70r1">
+  <front>
+    <title>National checklist program for IT products</title>
+    <author>
+      <organization>Quinn (S.D.)</organization>
+    </author>
+    <author fullname="Scarfone, K. A.">
+      <organization/>
+    </author>
+    <author fullname="Souppaya, M. P.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Quinn (S.D.)</organization>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>A security configuration checklist is a series of instructions for configuring a product to a particular operational environment. Checklists can comprise templates or automated scripts, patches or patch descriptions, XML files, and other procedures. Checklists are intended to be tailored by each organization to meet its particular security and operational requirements. The use of well-written, standardized checklists can markedly reduce the vulnerability exposure of IT products. This publication gives an overview of the NIST National Checklist Program, explains how to retrieve checklists from the NIST National Checklist Repository, and provides general information about threat discussions and baseline technical security practices for associated operational environments.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-70r1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-70r1"/>
+</reference>

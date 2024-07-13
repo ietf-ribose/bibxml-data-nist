@@ -1,0 +1,17 @@
+<reference anchor="NIST.IR.8239" target="https://doi.org/10.6028/NIST.IR.8239">
+  <front>
+    <title>Performance of an ISA100.11a industrial wireless network with wi-fi interference</title>
+    <author fullname="Kashef, Mohamed.">
+      <organization/>
+    </author>
+    <author fullname="Candell, Richard.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology).</organization>
+    </author>
+    <abstract>In this report, we present network measurement of an ISA100.11a industrial wireless network operating with existing WiFi interference. The IEEE802.15.4-based ISA100.11a wireless protocol operates at the 2.4 GHz band for various industrial application. IEEE802.11 WiFi also may operates at the 2.4 GHz band for industrial and data applications in the same environment. The existing IEEE 802.11 wireless network would have a negative impact on the rated performance parameters of the ISA100.11a networks. In this work, we study WiFi interference impacts on the performance of a single ISA100.11a node using the National Institute of Standards and Technology (NIST) wireless testbed.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8239"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8239"/>
+</reference>

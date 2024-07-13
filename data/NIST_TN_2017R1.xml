@@ -1,0 +1,20 @@
+<reference anchor="NIST.TN.2017r1" target="https://doi.org/10.6028/NIST.TN.2017r1">
+  <front>
+    <title>Assessing the performance of residential energy management control algorithms</title>
+    <author fullname="Omar, Farhad.">
+      <organization/>
+    </author>
+    <author fullname="Bushby, Steven T.">
+      <organization/>
+    </author>
+    <author fullname="Williams, Ronald D.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>For homes to become active participants in a smart grid, intelligent control algorithms are needed to facilitate autonomous interactions that take homeowner preferences into consideration. Many control algorithms for demand response have been proposed in the literature. Comparing the performance of these algorithms has been difficult because each algorithm makes different assumptions or considers different scenarios, i.e., peak load reduction or minimizing cost in response to the variable price of electricity. This work proposes a flexible assessment framework using the Analytical Hierarchy Process to compare and rank residential energy management control algorithms. The framework is a hybrid mechanism that derives a ranking from a combination of subjective user input representing preferences, and objective data from the algorithm performance related to energy consumption, cost and comfort. The Analytical Hierarchy Process results in a single overall score used to rank the alternatives. The approach is illustrated by applying the assessment process to six residential energy management control algorithms.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2017r1"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2017r1"/>
+</reference>

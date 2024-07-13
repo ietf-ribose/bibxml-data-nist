@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.800-78-1" target="https://doi.org/10.6028/NIST.SP.800-78-1">
+  <front>
+    <title>Cryptographic algorithms and key sizes for personal identity verification</title>
+    <author fullname="Polk, W. T.">
+      <organization/>
+    </author>
+    <author fullname="Dodson, Donna F.">
+      <organization/>
+    </author>
+    <author fullname="Burr, W. E.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>SP 800-78-1 has been modified to enhance interoperability, simplify the development of relying party applications, and enhance alignment with the National Security Agency's Suite B Cryptography [SUITE B]. Revision 1 reduces the set of elliptic curves approved for use with PIV cards and the supporting infrastructure from six curves to two. Also, SHA-384 has been added for use with Curve P-384 in this revision. And finally, this revision eliminates the largest size of RSA keys (3072 bits) on PIV cards. These changes simplify applications that require maximum interoperability: the number of OIDs that must be recognized (e.g., in certificates) has been significantly reduced; and elliptic curve implementations of elliptic curve cryptography can be optimized for operations over two specific curves.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-78-1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-78-1"/>
+</reference>

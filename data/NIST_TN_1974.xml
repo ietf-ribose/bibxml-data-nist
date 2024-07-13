@@ -1,0 +1,20 @@
+<reference anchor="NIST.TN.1974" target="https://doi.org/10.6028/NIST.TN.1974">
+  <front>
+    <title>CYCLE_D-HX</title>
+    <author fullname="Brown, J. S.">
+      <organization/>
+    </author>
+    <author fullname="Brignoli, R.">
+      <organization/>
+    </author>
+    <author fullname="Domanski, P. A.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>The CYCLE_D-HX software package simulates the performance of single-component refrigerants and refrigerant blends in subcritical vapor-compression refrigeration cycles. The basic system simulated by CYCLE_D-HX consists of a compressor, discharge line, condenser, expansion device, evaporator, compressor suction line, and an optional liquid-line/suction-line heat exchanger. The other cycles may contain a second compressor, one or two economizers, or an intercooler. In contrast to simplified vapor compression cycle model, which require refrigerant saturation temperatures in the evaporator and condenser as input, CYCLE_D-HX establishes saturation temperatures in the heat exchangers using the temperatures profiles of heat source and heat sink and the mean effective temperature differences (?Thx) in the evaporator and condenser, respectively, which are specified as input to the program. This representation of heat exchangers facilitates the inclusion of both thermodynamic and transport properties in cycle simulations and makes CYCLE_D-HX suitable for comparative evaluations of different refrigerants, particularly when applied in systems relying on forced-convection heat transfer of refrigerant in the heat exchangers. This software package was developed by the National Institute of Standards and Technology (NIST), is not subject to copyright protection, and is in the public domain.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1974"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="1974"/>
+</reference>

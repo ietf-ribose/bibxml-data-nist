@@ -1,0 +1,47 @@
+<reference anchor="NIST.IR.8320B" target="https://doi.org/10.6028/NIST.IR.8320B">
+  <front>
+    <title>Hardware-enabled security</title>
+    <author fullname="Bartock, Michael.">
+      <organization/>
+    </author>
+    <author fullname="Souppaya, Murugiah.">
+      <organization/>
+    </author>
+    <author fullname="Xia, Haidong.">
+      <organization/>
+    </author>
+    <author fullname="Yeluri, Raghu.">
+      <organization/>
+    </author>
+    <author fullname="Shetty, Uttam.">
+      <organization/>
+    </author>
+    <author fullname="Lum, Brandon.">
+      <organization/>
+    </author>
+    <author fullname="Sabath, Mariusz.">
+      <organization/>
+    </author>
+    <author fullname="Singh, Harmeet.">
+      <organization/>
+    </author>
+    <author fullname="Youssef, Alaa.">
+      <organization/>
+    </author>
+    <author fullname="Steinder, Gosia.">
+      <organization/>
+    </author>
+    <author fullname="Cao, Yu.">
+      <organization/>
+    </author>
+    <author fullname="Ramanathan, Jayashree.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>In today's cloud data centers and edge computing, attack surfaces have significantly increased, cyber attacks are industrialized, and most security control implementations are not coherent or consistent. The foundation of any data center or edge computing security strategy should be securing the platform on which data and workloads will be executed and accessed. The physical platform represents the foundation for any layered security approach and provides the initial protections to help ensure that higher-layer security controls can be trusted. This report explains an approach based on hardware-enabled security techniques and technologies for safeguarding container deployments in multi-tenant cloud environments. It also describes a prototype implementation of the approach intended to be a blueprint or template for the general security community.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8320B"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal&#10;                report" value="8320B"/>
+</reference>

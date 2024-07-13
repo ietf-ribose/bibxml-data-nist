@@ -1,0 +1,20 @@
+<reference anchor="NIST.IR.8397" target="https://doi.org/10.6028/NIST.IR.8397">
+  <front>
+    <title>Guidelines on minimum standards for developer verification of software</title>
+    <author fullname="Black, Paul E.">
+      <organization/>
+    </author>
+    <author fullname="Guttman, Barbara.">
+      <organization/>
+    </author>
+    <author fullname="Okun, Vadim.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Executive Order (EO) 14028, Improving the Nation s Cybersecurity, 12 May 2021, directs the National Institute of Standards and Technology (NIST) to recommend minimum standards for software testing within 60 days. This document describes eleven recommendations for software verification techniques as well as providing supplemental information about the techniques and references for further information. It recommends the following techniques: Threat modeling to look for design-level security issues Automated testing for consistency and to minimize human effort Static code scanning to look for top bugs Heuristic tools to look for possible hardcoded secrets Use of built-in checks and protections Black box test cases Code-based structural test cases Historical test cases Fuzzing Web app scanners, if applicable Address included code (libraries, packages, services) The document does not address the totality of software verification, but instead recommends techniques that are broadly applicable and form the minimum standards. The document was developed by NIST in consultation with the National Security Agency. Additionally, we received input from numerous outside organizations through papers submitted to a NIST workshop on the Executive Order held in early June, 2021 and discussion at the workshop as well as follow up with several of the submitters.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8397"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal&#10;                report" value="8397"/>
+</reference>

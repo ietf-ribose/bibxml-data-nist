@@ -1,0 +1,23 @@
+<reference anchor="NIST.GCR.15-990" target="https://doi.org/10.6028/NIST.GCR.15-990">
+  <front>
+    <title>Proposed recommended practice for the representation of schematic symbols in STEP AP 210 (ISO 10303-210)</title>
+    <author fullname="Stori, James.">
+      <organization/>
+    </author>
+    <author fullname="Thurman, Tom R.">
+      <organization/>
+    </author>
+    <author fullname="Lanning, Craig.">
+      <organization/>
+    </author>
+    <author fullname="Benda, Mike.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>The purpose of this document is to propose a recommended practice for the representation of schematic symbols and the integration of schematic symbols with functional and physical representations of packaged electronic component models in ISO 10303-210 (STEP AP 210). While the representation of AP 210 packages and packaged parts has been previously validated through existing implementations, the representation of component functional models and associated schematic symbols has been less thoroughly exercised. AP 210 has dedicated concepts for the representation of a functional element, as well as the association of a functional element with a physical realization through a packaged part and associated package model. The intent in the development of this recommended practice was to leverage existing draughting capabilities within the STEP standards for the presentation of a schematic symbol in AP 210. The schematic symbol is a presentation of the functional model for human visualization, interpretation, and manipulation - the schematic symbol should be a draughting representation of a functional element.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.15-990"/>
+  <seriesInfo name="NIST GCR; NIST grant-contract report; NIST grant contract report" value="15-990"/>
+</reference>

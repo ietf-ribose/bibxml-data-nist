@@ -1,0 +1,20 @@
+<reference anchor="NIST.IR.8040" target="https://doi.org/10.6028/NIST.IR.8040">
+  <front>
+    <title>Measuring the usability and security of permuted passwords on mobile platforms</title>
+    <author fullname="Greene, Kristen K.">
+      <organization/>
+    </author>
+    <author fullname="Kelsey, John.">
+      <organization/>
+    </author>
+    <author fullname="Franklin, Joshua M.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>Password entry on mobile devices significantly impacts both usability and security, but there is a lack of usable security research in this area, specifically for complex password entry. To address this research gap, we set out to assign strength metrics to passwords for which we already had usability data, in an effort to have a more meaningful comparison between usability and security. This document reports a method of optimizing the input of randomly generated passwords on mobile devices via password permutation to allow for a comparison of password usability data. We found that the number of keystrokes saved the efficiency gained via permutation depends on the number of onscreen keyboard changes required in the original password rather than on password length. Additionally, we created and are releasing Python scripts (publicly available from https://github.com/usnistgov/PasswordMetrics) for the experiments on entropy loss we conducted across passwords ranging in length from 5 to 20 characters.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8040"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8040"/>
+</reference>

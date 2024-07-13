@@ -1,0 +1,38 @@
+<reference anchor="NIST.SP.1800-24" target="https://doi.org/10.6028/NIST.SP.1800-24">
+  <front>
+    <title>Securing picture archiving and communication system (PACS) cybersecurity for the healthcare sector</title>
+    <author fullname="Cawthra, Jennifer.">
+      <organization/>
+    </author>
+    <author fullname="Hodges, Bronwyn.">
+      <organization/>
+    </author>
+    <author fullname="Kuruvilla, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Littlefield, Kevin.">
+      <organization/>
+    </author>
+    <author fullname="Niemeyer, Bob.">
+      <organization/>
+    </author>
+    <author fullname="Peloquin, Chris.">
+      <organization/>
+    </author>
+    <author fullname="Wang, Sue.">
+      <organization/>
+    </author>
+    <author fullname="Williams, Ryan.">
+      <organization/>
+    </author>
+    <author fullname="Zheng, Kangmin.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Medical imaging plays an important role in diagnosing and treating patients. The system that manages medical images is known as the picture archiving communication system (PACS) and is nearly ubiquitous in healthcare environments. PACS is defined by the Food and Drug Administration (FDA) as a Class II device that provides one or more capabilities relating to the acceptance, transfer, display, storage, and digital processing of medical images. PACS centralizes functions surrounding medical imaging workflows and serves as an authoritative repository of medical image information.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-24"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-24"/>
+</reference>
