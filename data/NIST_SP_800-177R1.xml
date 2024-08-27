@@ -1,0 +1,23 @@
+<reference anchor="NIST.SP.800-177r1" target="https://doi.org/10.6028/NIST.SP.800-177r1">
+  <front>
+    <title>Trustworthy email</title>
+    <author fullname="Rose, Scott.">
+      <organization/>
+    </author>
+    <author fullname="Nightingale, J. Stephen.">
+      <organization/>
+    </author>
+    <author fullname="Garfinkel, Simson.">
+      <organization/>
+    </author>
+    <author fullname="Chandramouli, Ramaswamy.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document gives recommendations and guidelines for enhancing trust in email. Thee primary audience for these recommendations is federal enterprise email administrators, information security specialists and network managers. While some of the guidelines in this document pertain to federal IT systems and network policy, most of the document will be more general in nature and could apply to any organization. For most of this document, it will be assumed that the organization has some or all responsibility for email and can configure or manage its own email and Domain Name System (DNS) systems. Even if this is not the case, the guidelines and recommendations in this document may help in education about email security and can be used to produce a set of requirements for a contracted service.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-177r1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-177r1"/>
+</reference>

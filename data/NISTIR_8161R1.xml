@@ -1,0 +1,23 @@
+<reference anchor="NIST.IR.8161r1" target="https://doi.org/10.6028/NIST.IR.8161r1">
+  <front>
+    <title>Recommendation</title>
+    <author fullname="Nadel, Lawrence.">
+      <organization/>
+    </author>
+    <author fullname="Laamanen, Mary.">
+      <organization/>
+    </author>
+    <author fullname="Garris, Michael.">
+      <organization/>
+    </author>
+    <author fullname="Russell, Craig.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document updates and replaces NISTIR 8161. This revised recommendation continues to focus on storing metadata to support video analytics. At the FBI's request, NIST conducted research and developed NISTIR 8161 as a recommendation to address the FBI's minimum interoperability requirements for the exporting and exchange of video recordings captured by closed circuit television (CCTV) digital video recording (DVR) systems. NIST termed these requirements 'Level 0'. Subsequently, NIST shared its findings and recommendations with video industry hardware and software manufacturers, and the relevant standards community. This led to NIST collaborating with the Open Network Video Interface Forum (ONVIF) to enhance their Export File Format Specification to support the essential functionality of NISTIR 8161. Working with ONVIF has improved the likelihood of industry's adaptation to law enforcement requirements. Additionally, ONVIF contributed its Export File Format Specification to the International Electrotechnical Commission (IEC) for inclusion in IEC 62676-2-32, Video surveillance systems for use in security applications - Part 2-32: Recording control and replay based on web services (expected publication mid-2019). NIST recommends industry implementation of the ONVIF and IEC standards noted above. These standards provide acceptable alternative implementation approaches to what NIST proposed in NISTIR 8161 for recording and storing time information. The standards also provide additional useful capabilities including the recording of additional metadata and a means to ensure data integrity and chain of custody using a digital signature. The recommendations provided in this document are intended to support law enforcement investigations. This document was prepared by the National Institute of Standards and Technology (NIST), in collaboration with the Federal Bureau of Investigation (FBI), and in conjunction with the CCTV / DVR community.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8161r1"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8161r1"/>
+</reference>

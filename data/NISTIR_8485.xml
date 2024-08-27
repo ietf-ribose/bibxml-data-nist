@@ -1,0 +1,27 @@
+<reference anchor="NIST.IR.8485" target="https://doi.org/10.6028/NIST.IR.8485">
+  <front>
+    <title>Face analysis technology evaluation (FATE) part 11</title>
+    <author fullname="Yang, Joyce.">
+      <organization/>
+    </author>
+    <author fullname="Grother, Patrick.">
+      <organization/>
+    </author>
+    <author fullname="Ngan, Mei.">
+      <organization/>
+    </author>
+    <author fullname="Hanaoka, Kayee.">
+      <organization/>
+    </author>
+    <author fullname="Hom, Austin.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This report summarizes the results of the FATE Quality Vector assessment track, which tests face image quality algorithms’ ability to detect specific defects such as non-frontal pose and background non-uniformity in the context of facial images. All algorithms submitted have some success at measuring various quality-related parameters.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8485"/>
+  <seriesInfo name="NISTIR" value="8485"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal&#10;                report" value="8485"/>
+</reference>

@@ -1,0 +1,32 @@
+<reference anchor="NIST.SP.260-185" target="https://doi.org/10.6028/NIST.SP.260-185">
+  <front>
+    <title>Method for measuring the diameter of polystyrene latex reference spheres by atomic force microscopy</title>
+    <author fullname="Dagata, John A.">
+      <organization/>
+    </author>
+    <author fullname="Farkas, Natalia.">
+      <organization/>
+    </author>
+    <author fullname="Kavuri, Prem.">
+      <organization/>
+    </author>
+    <author fullname="Vladár, András E.">
+      <organization/>
+    </author>
+    <author fullname="Wu, Zhonglin.">
+      <organization/>
+    </author>
+    <author fullname="Itoh, Hiroshi.">
+      <organization/>
+    </author>
+    <author fullname="Ehara, Kensei.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Physical Measurement Laboratory (National Institute of Standards and Technology (U.S.))</organization>
+    </author>
+    <abstract>This report presents a correlated height and width measurement model for particle size analysis of spherical particles by atomic force microscopy (AFM). It is complementary to more familiar methods based on a single value of the particle height or on a line average obtained from a close-packed particle array. Significant influence quantities affecting the determination of average particle size and its uncertainty are considered for the important case of polystyrene latex (PSL) reference materials. Particlesubstrate deformation, resulting from adhesive contact between particle and substrate during sample preparation, is estimated as a function of particle size. Post-processing of AFM datasets is explored as a means of eliminating bias due to non-steady state measurement conditions. These biases arise from variable particle-tip interaction caused by drift of instrumental parameters from their optimal settings during long acquisition times and inevitable wear of the AFM probe. Changes of the initial probe shape are established using a Si/SiO2 multilayer tip characterizer and are updated periodically during the analysis of sequential data sets for combinations of several particles sizes and different probes. Finally, the capability of this procedure to serve as a statistical error-correction scheme in AFM particle-size metrology is assessed.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.260-185"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="260-185"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.500-332" target="https://doi.org/10.6028/NIST.SP.500-332">
+  <front>
+    <title>The NIST Cloud Federation Reference Architecture</title>
+    <author fullname="Lee, C. A. (Craig A.)">
+      <organization/>
+    </author>
+    <author fullname="Bohn, Robert B.">
+      <organization/>
+    </author>
+    <author fullname="Michel, Martial.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document presents the NIST Federated Cloud Reference Architecture model. This actor/role- based model used the guiding principles of the NIST Cloud Computing Reference Architecture to develop an eleven component model. This document describes these components individually and how they function as an ensemble. There are many possible deployments and governance options which lend themselves to create a suite of federation options from simple to complex. The basics of cloud federation can be described through the interactions of the actors in a layered three planes representation of trust, security, and resource sharing and usage. A discussion on possible future standards and use cases are also described in great detail.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-332"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="500-332"/>
+</reference>

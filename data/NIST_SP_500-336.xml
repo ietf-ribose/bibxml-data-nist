@@ -1,0 +1,35 @@
+<reference anchor="NIST.SP.500-336" target="https://doi.org/10.6028/NIST.SP.500-336">
+  <front>
+    <title>Specification for interoperability testing of contactless fingerprint acquisition devices</title>
+    <author fullname="Libert, John.">
+      <organization/>
+    </author>
+    <author fullname="Orandi, Shahram.">
+      <organization/>
+    </author>
+    <author fullname="Grantham, John.">
+      <organization/>
+    </author>
+    <author fullname="Bandini, Bruce.">
+      <organization/>
+    </author>
+    <author fullname="Ko, Kenneth.">
+      <organization/>
+    </author>
+    <author fullname="Stafford, Christopher.">
+      <organization/>
+    </author>
+    <author fullname="Staymates, Matthew.">
+      <organization/>
+    </author>
+    <author fullname="Watson, Craig.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This guidance specifies a protocol and associated metrics for the evaluation of contactless fingerprint acquisition device, and their interoperability with legacy devices. This protocol enables contactless fingerprint developers seeking certification of their devices to perform an integral role in the collection of measurements by which their device will be evaluated by the certifying authority or other stakeholders. The NIST Fingerprint Registration and Comparison Tool (NFRaCT) enables interested parties seeking testing for certification to collect fingerprint images and performance measurements using the NFRaCT and provide those measurements to the certifying authority for analysis and evaluation without requiring the exchange of any underlying fingerprint images. The protocol provides flexibility in that device performance can be evaluated and validated using live fingerprint impressions or three-dimensional (3D) fingerprint target artifacts.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.500-336"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="500-336"/>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.800-90B" target="https://doi.org/10.6028/NIST.SP.800-90B">
+  <front>
+    <title>Recommendation for the entropy sources used for random bit generation</title>
+    <author fullname="Turan, Meltem Sönmez.">
+      <organization/>
+    </author>
+    <author fullname="Barker, Elaine.">
+      <organization/>
+    </author>
+    <author fullname="Kelsey, John.">
+      <organization/>
+    </author>
+    <author fullname="McKay, Kerry A.">
+      <organization/>
+    </author>
+    <author fullname="Baish, Mary L.">
+      <organization/>
+    </author>
+    <author fullname="Boyle, Mike.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This Recommendation specifies the design principles and requirements for the entropy sources used by Random Bit Generators, and the tests for the validation of entropy sources. These entropy sources are intended to be combined with Deterministic Random Bit Generator mechanisms that are specified in SP 800-90A to construct Random Bit Generators, as specified in SP 800-90C.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-90B"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-90b"/>
+</reference>

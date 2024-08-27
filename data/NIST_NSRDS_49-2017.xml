@@ -1,0 +1,20 @@
+<reference anchor="NIST.NSRDS.49-2017" target="https://doi.org/10.6028/NIST.NSRDS.49-2017">
+  <front>
+    <title>CYCLE_D: NIST vapor compression cycle design program, version 5.1.1, user's guide</title>
+    <author fullname="Brown, J. S.">
+      <organization/>
+    </author>
+    <author fullname="Domanski, P.A.">
+      <organization/>
+    </author>
+    <author fullname="Lemmon, Eric W.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>The CYCLE_D package simulates vapor compression refrigeration cycles that use pure refrigerants or blends of refrigerants. The model can simulate a basic subcritical or transcritical refrigeration cycle, both with or without a liquid-line/suction-line heat exchanger. In addition, the model can simulate a subcritical two-stage economizer cycle, a subcritical three- stage economizer cycle, and a subcritical two-stage compression cycle with intercooling. CYCLE_D operates in a Microsoft Windows environment that facilitates evaluating the performance of selected working fluids at different operating conditions. Calculations are based on refrigerant properties as represented in the NIST Reference Fluid Thermodynamic and Transport Properties Program REFPROP, Version 9.1 [1].</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.NSRDS.49-2017"/>
+  <seriesInfo name="NIST NSRDS; NSRDS-NIST; National standard reference data series" value="49-2017"/>
+</reference>

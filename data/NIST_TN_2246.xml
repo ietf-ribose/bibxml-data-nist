@@ -1,0 +1,17 @@
+<reference anchor="NIST.TN.2246" target="https://doi.org/10.6028/NIST.TN.2246">
+  <front>
+    <title>Generator fleet characteristics model</title>
+    <author fullname="O Fallon, Cheyney.">
+      <organization/>
+    </author>
+    <author fullname="Gopstein, Avi.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This manuscript presents the Generator Fleet Characteristics Model (GFCM), a general purpose tool for the analysis of power system operations, economics, and resilience. The GFCM is a collection of MATLAB functions that use publicly available data with national coverage to produce year-long (8760 hour) analyses of the electric grid at the balancing authority level. As the name implies, the GFCM builds up a series of snapshots of electric grid conditions and outcomes using the economics of the generator feet as a starting point for understanding system complexity and dynamics. While the synchronous inertia application we present here uses the GFCM to build a detailed picture of the present state of electric grid operations and market outcomes, the model is designed to facilitate counterfactual study through the comparison of model outputs by an analyst that systematically varies inputs. The GFCM forms a modeling framework intended to aide in the formulation of what if questions regarding how the grid might operate under changing ambient conditions while harnessing evolving technologies.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2246"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2246"/>
+</reference>

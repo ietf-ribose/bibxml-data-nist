@@ -1,0 +1,32 @@
+<reference anchor="NIST.SP.1800-4" target="https://doi.org/10.6028/NIST.SP.1800-4">
+  <front>
+    <title>Mobile device security</title>
+    <author fullname="Franklin, Joshua,">
+      <organization/>
+    </author>
+    <author fullname="Bowler, Kevin.">
+      <organization/>
+    </author>
+    <author fullname="Brown, Christopher.">
+      <organization/>
+    </author>
+    <author fullname="Dog, Spike E.">
+      <organization/>
+    </author>
+    <author fullname="Crouse, Sarah Edwards,">
+      <organization/>
+    </author>
+    <author fullname="McNab, Neil.">
+      <organization/>
+    </author>
+    <author fullname="Steele, Matthew.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document proposes a reference design on how to architect enterprise-class protection for mobile devices accessing corporate resources. The example solutions presented here can be used by any organization implementing an enterprise mobility management solution. This project contains two distinct builds: cloud and hybrid. The cloud build makes use of cloud-based services and solutions, while the hybrid build achieves the same functionality, but hosts at least some of the data and services within an enterprise's own infrastructure. The example solutions and architectures presented here are based upon open standards and commercially available products.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-4"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-4"/>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.800-53r2" target="https://doi.org/10.6028/NIST.SP.800-53r2">
+  <front>
+    <title>Recommended security controls for federal information systems and organizations</title>
+    <author fullname="Ross, R.">
+      <organization/>
+    </author>
+    <author fullname="Katzke, S.">
+      <organization/>
+    </author>
+    <author fullname="Johnson, L. A.">
+      <organization/>
+    </author>
+    <author fullname="Swanson, M.">
+      <organization/>
+    </author>
+    <author fullname="Stoneburner, G.">
+      <organization/>
+    </author>
+    <author fullname="Rogers, G.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This publication revises NIST SP 800-53 Revision 1 by adding specific guidance on the application of security controls to Industrial Control Systems (ICS). That ICS-specific guidance is contained in Appendix I, and addresses the following: Tailoring guidance; Security control enhancements; Supplements to the security control baselines; and Supplemental guidance.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-53r2"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-53r2"/>
+</reference>

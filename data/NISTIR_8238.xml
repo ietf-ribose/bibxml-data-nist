@@ -1,0 +1,20 @@
+<reference anchor="NIST.IR.8238" target="https://doi.org/10.6028/NIST.IR.8238">
+  <front>
+    <title>Ongoing face recognition vendor test (FRVT) part 2</title>
+    <author fullname="Grother, Patrick J.">
+      <organization/>
+    </author>
+    <author fullname="Ngan, Mei.">
+      <organization/>
+    </author>
+    <author fullname="Hanaoka, Kayee.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This report documents performance of face recognition algorithms submitted for evaluation on image datasets maintained at NIST. The algorithms implement one-to-many identification of faces appearing in two-dimensional images. The primary dataset is comprised of 26.6 million reasonably well-controlled live portrait photos of 12.3 million individuals. Three smaller datasets containing more unconstrained photos are also used: 3.2 million webcam images; 2.5 million photojournalism and amateur photographer photos; and 90 thousand faces cropped from surveillance-style video clips. The report will be useful for comparison of face recognition algorithms, and assessment of absolute capability.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8238"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8238"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="NIST.SP.1500-101" target="https://doi.org/10.6028/NIST.SP.1500-101">
+  <front>
+    <title>Election event logging common data format specification</title>
+    <author fullname="Wack, John.">
+      <organization/>
+    </author>
+    <author fullname="Rivello, Richard.">
+      <organization/>
+    </author>
+    <author fullname="Dana, Sam.">
+      <organization/>
+    </author>
+    <author fullname="Dziurlaj, John.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This publication describes an election event logging common data format specification for devices used in U.S. elections such as optical scanners, election management systems, and polling place devices. The data logged generally contains information about the conduct of the election, such as when the polls open, when a voter starts a voting session or casts a ballot, or when administrators logon to the devices, etc. The publication contains a UML model of the relevant election logging data and background information regarding requirements for election event logging in the Election Assistance Commission's Voluntary Voting System Guidelines.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-101"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1500-101"/>
+</reference>

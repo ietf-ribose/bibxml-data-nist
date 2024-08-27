@@ -1,0 +1,17 @@
+<reference anchor="NIST.TN.2221-upd1" target="https://doi.org/10.6028/NIST.TN.2221-upd1">
+  <front>
+    <title>Implementing NIST infiltration correlations</title>
+    <author fullname="Teo, Jyrteanna.">
+      <organization/>
+    </author>
+    <author fullname="Ng, Lisa C.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This tutorial is a guide on how to implement the NIST infiltration correlations [1] into EnergyPlus building energy simulation software for the US Department of Energy prototype commercial buildings. The implementation can also be generalized to other building energy simulation software and other building models. Revision is documented in Appendix B: Change Log.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2221-upd1"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2221-upd1"/>
+</reference>

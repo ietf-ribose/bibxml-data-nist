@@ -1,0 +1,26 @@
+<reference anchor="NIST.SP.1800-11" target="https://doi.org/10.6028/NIST.SP.1800-11">
+  <front>
+    <title>Data integrity</title>
+    <author fullname="Townsend, Anne R.">
+      <organization/>
+    </author>
+    <author fullname="McBride, Timothy J.">
+      <organization/>
+    </author>
+    <author fullname="Lusty, Lauren N.">
+      <organization/>
+    </author>
+    <author fullname="Sexton, Julian T.">
+      <organization/>
+    </author>
+    <author fullname="Ekstrom, Michael R.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Cybersecurity Center of Excellence (U.S.)</organization>
+    </author>
+    <abstract>Businesses face a near-constant threat of destructive malware, ransomware, malicious insider activities, and even honest mistakes that can alter or destroy critical data. These data corruption events could cause a significant loss to a company s reputation, business operations, and bottom line. These types of adverse events, that ultimately impact data integrity, can compromise critical corporate information including emails, employee records, financial records, and customer data. It is imperative for organizations to recover quickly from a data integrity attack and trust the accuracy and precision of the recovered data.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-11"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-11"/>
+</reference>

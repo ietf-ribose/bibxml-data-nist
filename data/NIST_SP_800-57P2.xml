@@ -1,0 +1,26 @@
+<reference anchor="NIST.SP.800-57p2" target="https://doi.org/10.6028/NIST.SP.800-57p2">
+  <front>
+    <title>Recommendation for key management, part 2</title>
+    <author fullname="Barker, E. B.">
+      <organization/>
+    </author>
+    <author fullname="Barker, W. C.">
+      <organization/>
+    </author>
+    <author fullname="Burr, W. E.">
+      <organization/>
+    </author>
+    <author fullname="Polk, W. T.">
+      <organization/>
+    </author>
+    <author fullname="Smid, M. E.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This Recommendation provides cryptographic key management guidance. It consists of three parts. Part 1 provides general guidance and best practices for the management of cryptographic keying material. Part 2 provides guidance on policy and security planning requirements for U.S. government agencies. Finally, Part 3 provides guidance when using the cryptographic features of current systems.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-57p2"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-57p2"/>
+</reference>

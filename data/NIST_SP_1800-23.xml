@@ -1,0 +1,35 @@
+<reference anchor="NIST.SP.1800-23" target="https://doi.org/10.6028/NIST.SP.1800-23">
+  <front>
+    <title>Energy sector asset management for electric utilities, oil and gas industry</title>
+    <author fullname="McCarthy, James.">
+      <organization/>
+    </author>
+    <author fullname="Acierto, Lauren.">
+      <organization/>
+    </author>
+    <author fullname="Joy, Glen.">
+      <organization/>
+    </author>
+    <author fullname="Kuruvilla, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Ogunyale, Titilayo.">
+      <organization/>
+    </author>
+    <author fullname="Urlaub, Nikolas.">
+      <organization/>
+    </author>
+    <author fullname="Wiltberger, John.">
+      <organization/>
+    </author>
+    <author fullname="Wynne, Devin.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>Industrial control systems (ICS) compose a core part of our nation's critical infrastructure. Energy sector companies rely on ICS to generate, transmit, and distribute power and to drill, produce, refine, and transport oil and natural gas. Given the wide variety of ICS assets, such as programmable logic controllers and intelligent electronic devices, that provide command and control information on operational technology (OT) networks, it is essential to protect these devices to maintain continuity of operations. These assets must be monitored and managed to reduce the risk of a cyber attack on ICS-networked environments. Having an accurate OT asset inventory is a critical component of an overall cybersecurity strategy. NIST SP 1800-23B: Energy Sector Asset Management iii The NCCoE at NIST is responding to the energy sector's request for an automated OT asset management solution. To remain fully operational, energy sector entities should be able to effectively identify, control, and monitor their OT assets. This document provides guidance on how to enhance OT asset management practices by leveraging capabilities that may already exist in an energy organization's operating environment as well as implementing new capabilities.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-23"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-23"/>
+</reference>

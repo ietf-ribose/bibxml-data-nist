@@ -1,0 +1,23 @@
+<reference anchor="NIST.IR.8011-4" target="https://doi.org/10.6028/NIST.IR.8011-4">
+  <front>
+    <title>Automation support for security control assessments</title>
+    <author fullname="Dempsey, Kelley.">
+      <organization/>
+    </author>
+    <author fullname="Takamura, Eduardo.">
+      <organization/>
+    </author>
+    <author fullname="Eavy, Paul.">
+      <organization/>
+    </author>
+    <author fullname="Moore, George.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>The NISTIR 8011 capability-specific volumes focus on the automation of security control assessment within each individual information security capability. They add tangible detail to the more general overview given in NISTIR 8011 Volume 1, providing a template for transition to a detailed, NIST standards-compliant automated assessment. This document, Volume 4 of NISTIR 8011, addresses the management of risk created by defects present in software on the network. Software vulnerability management, in the scope of this document, focuses on known defects that have been discovered in software in use on a system. The Common Weakness Enumeration (CWE) provides identifiers for weaknesses that result from poor coding practices and have the potential to result in software vulnerabilities. The Common Vulnerabilities and Exposures (CVEs) program provides a list of many known vulnerabilities. Together, CVE and CWE are used to identify software defects and the weaknesses that caused a given defect. Vulnerable software is a key target that attackers use to initiate an attack internally and to expand control. Patching vulnerabilities discovered in existing software and improving coding practices for future releases of software are two ways to limit the success of attacks.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8011-4"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8011v4"/>
+</reference>

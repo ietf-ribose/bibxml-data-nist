@@ -1,0 +1,39 @@
+<reference anchor="NIST.IR.8323" target="https://doi.org/10.6028/NIST.IR.8323">
+  <front>
+    <title>Foundational PNT profile</title>
+    <author fullname="Bartock, Michael.">
+      <organization/>
+    </author>
+    <author fullname="Brule, Joseph.">
+      <organization/>
+    </author>
+    <author fullname="Li-Baboud, Ya-Shian.">
+      <organization/>
+    </author>
+    <author fullname="Lightman, Suzanne.">
+      <organization/>
+    </author>
+    <author fullname="McCarthy, James.">
+      <organization/>
+    </author>
+    <author fullname="Reczek, Karen.">
+      <organization/>
+    </author>
+    <author fullname="Northrip, Doug.">
+      <organization/>
+    </author>
+    <author fullname="Scholz, Arthur.">
+      <organization/>
+    </author>
+    <author fullname="Suloway, Theresa.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>The national and economic security of the United States (US) is dependent upon the reliable functioning of the nation’s critical infrastructure. Positioning, Navigation, and Timing (PNT) services are widely deployed throughout this infrastructure. In a government wide effort to mitigate the potential impacts of a PNT disruption or manipulation, Executive Order (EO)13905, Strengthening National Resilience Through Responsible Use of Positioning, Navigation and Timing Services was issued on February 12, 2020. The National Institute of Standards and Technology (NIST) as part of the Department of Commerce (DoC), produced this voluntary PNT Profile in response to Sec.4 Implementation (a), as detailed in the EO. The PNT Profile was created by using the NIST Cybersecurity Framework and can be used as part of a risk management program to help organizations manage risks to systems, networks, and assets that use PNT services. The PNT Profile is intended to be broadly applicable and can serve as a foundation for the development of sector-specific guidance. This PNT Profile provides a flexible framework for users of PNT to manage risks when forming and using PNT signals and data, which are susceptible to disruptions and manipulations that can be natural, manufactured, intentional, or unintentional.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.IR.8323"/>
+  <seriesInfo name="NISTIR" value="8323"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal&#10;                report" value="8323"/>
+</reference>

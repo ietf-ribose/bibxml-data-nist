@@ -1,0 +1,35 @@
+<reference anchor="NIST.TN.1951" target="https://doi.org/10.6028/NIST.TN.1951">
+  <front>
+    <title>Industrial wireless systems radio propagation measurements</title>
+    <author fullname="Candell, Richard.">
+      <organization/>
+    </author>
+    <author fullname="Remley, Kate A.">
+      <organization/>
+    </author>
+    <author fullname="Quimby, Jeanne T.">
+      <organization/>
+    </author>
+    <author fullname="Novotný, David.">
+      <organization/>
+    </author>
+    <author fullname="Curtin, Alexandra.">
+      <organization/>
+    </author>
+    <author fullname="Papazian, Peter B.">
+      <organization/>
+    </author>
+    <author fullname="Kashef, Mohamed.">
+      <organization/>
+    </author>
+    <author fullname="Diener, Joseph.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Radio frequency (RF) propagation measurements were conducted at three facilities representing a cross-section of different classes of industrial environments. Selected sites included a multi-acre transmission assembly factory typical of the automotive industry; a medium-sized machine shop primarily engaged in metalworking located on the NIST campus in Gaithersburg; and a steam generation plant located on the NIST campus in Boulder. A spread spectrum correlation sounder was used to take the measurements at a continuum of points throughout the facility by fixing the transmitter and moving the receiver at a constant rate throughout each facility. We analyzed the data collected from the RF propagation measurements of each site. Analysis is based on channel impulse response (CIR) measurements collected during the measurement using equipment developed by the National Institute of Standards and Technology. The results of our analysis includes a tabulated summary and detailed exploration of various industry accepted channel metrics such as path loss, delay spread, and K factor. Our interpretation of the measurements contributes to an improved understanding of radio frequency propagation in factories and an additional perspective on deploying wireless communication devices within factories. The raw measurement data and analysis software is made freely available for public download.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1951"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="1951"/>
+</reference>

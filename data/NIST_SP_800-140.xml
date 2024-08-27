@@ -1,0 +1,14 @@
+<reference anchor="NIST.SP.800-140" target="https://doi.org/10.6028/NIST.SP.800-140">
+  <front>
+    <title>FIPS 140-3 derived test requirements (DTR)</title>
+    <author fullname="Schaffer, Kim.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>NIST Special Publication (SP) 800-140 specifies the Derived Test Requirements (DTR) for Federal Information Processing Standard (FIPS) 140-3. SP 800-140 modifies the test (TE) and vendor (VE) evidence requirements of International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 24759. As a validation authority, the Cryptographic Module Validation Program (CMVP) may modify, add or delete TEs and/or VEs as specified under paragraph 5.2 of ISO/IEC 24759. This NIST Special Publication should be used in conjunction with ISO/IEC 24759 as it modifies only those requirements identified in this document.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-140"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-140"/>
+</reference>

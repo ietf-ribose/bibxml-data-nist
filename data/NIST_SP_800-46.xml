@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.800-46" target="https://doi.org/10.6028/NIST.SP.800-46">
+  <front>
+    <title>Security for telecommuting and broadband communications</title>
+    <author fullname="Kuhn, D. Richard.">
+      <organization/>
+    </author>
+    <author fullname="Tracy, Miles C.">
+      <organization/>
+    </author>
+    <author fullname="Frankel, Sheila E.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This document introduces broadband communication technologies, and the security considerations associated with them. It discusses the use of a personal firewall, which is essential in protecting a home computer from intrusion; provides instructions on how to configure PCs and web browsers for added security. It also explains home networking, and how a home network can be protected; and describes virtual private networks, which are sophisticated technologies that can provide telecommuters with security approximating that available from an isolated inter-office network. This publication compares alternative approaches for securing e-mail and data transfer, depending on the user's needs and value of the data., and summarizes considerations for telecommuting security. Appendixes provide useful checklists, software update procedures, and pointers to additional resources available on the Internet.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-46"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-46"/>
+</reference>

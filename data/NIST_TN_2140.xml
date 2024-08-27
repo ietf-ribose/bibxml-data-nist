@@ -1,0 +1,38 @@
+<reference anchor="NIST.TN.2140" target="https://doi.org/10.6028/NIST.TN.2140">
+  <front>
+    <title>AWS-3 LTE impacts aeronautical mobile telemetry</title>
+    <author fullname="Young, William F.">
+      <organization/>
+    </author>
+    <author fullname="McGillivray, Duncan A.">
+      <organization/>
+    </author>
+    <author fullname="Wunderlich, Adam J.">
+      <organization/>
+    </author>
+    <author fullname="Krangle, Mark A.">
+      <organization/>
+    </author>
+    <author fullname="Sklar, Jack G.">
+      <organization/>
+    </author>
+    <author fullname="Sanders, Aric W.">
+      <organization/>
+    </author>
+    <author fullname="Forsyth, M. Keith">
+      <organization/>
+    </author>
+    <author fullname="Lofquist, Mark.">
+      <organization/>
+    </author>
+    <author fullname="Kuester, Daniel G.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This technical report details an effort to design, demonstrate, and validate a test methodology to measure the impacts of Long Term Evolution (LTE) User Equipment (UE) emissions in the advanced wireless services 3 (AWS-3) band on aeronautical mobile telemetry (AMT) systems operating in the adjacent AMT band. Impacts are assessed by collecting and analyzing AMT system-provided key performance indicators (KPIs), such as bit error rate (BER). The validation process includes the capture and analysis for multiple adjacent band emissions (ABE) and AMT transmission combinations and conditions. The analysis here centers around AMT system behavior with and without the presence of ABE.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2140"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2140"/>
+</reference>

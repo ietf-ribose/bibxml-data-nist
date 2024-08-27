@@ -1,0 +1,23 @@
+<reference anchor="NIST.AMS.300-10" target="https://doi.org/10.6028/NIST.AMS.300-10">
+  <front>
+    <title>Recommendations on ensuring traceability and trustworthiness of manufacturing-related data</title>
+    <author fullname="Hedberg, Thomas Jr.">
+      <organization/>
+    </author>
+    <author fullname="Helu, Moneer.">
+      <organization/>
+    </author>
+    <author fullname="Krima, Sylvere.">
+      <organization/>
+    </author>
+    <author fullname="Feeney, Allison Barnard.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>The purpose of this recommendations report is to provide practical how-to guidance for ensuring traceability and trustworthiness of manufacturing-related data. The recommendations contained herein address both subtractive and additive manufacturing processes. Commercial-solution developers, technical-assessment personnel, and interested end-users are the intended audience of this recommendations report. Guidance for deploying a system, or set of systems, for ensuring traceability and trustworthiness of manufacturing-related data is the scope of this recommendations report. Data formats conforming to selected international, open, consensus-based standards are in scope. Proprietary data formats are out of scope. File-based and data-stream representations are in scope. Data collected from computer numerical control subtractive fabrication processes (e.g., milling, turning) and CNC metal-forming additive (e.g., directed-energy deposition, powder-bed fusion) fabrication processes is in scope. Data collected from polymer-based additive processes, fiber-reinforced plastic (FRP) composite processes, and mass-conserving fabrication processes (e.g., casting, forging) is out of scope.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-10"/>
+  <seriesInfo name="NIST advanced manufacturing series; NIST AMS" value="300-10"/>
+</reference>

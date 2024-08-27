@@ -1,0 +1,18 @@
+<reference anchor="NIST.GCR.23-046" target="https://doi.org/10.6028/NIST.GCR.23-046">
+  <front>
+    <title>Intelligent flexible manufacturing cell</title>
+    <author fullname="Hollingsworth, Ethan.">
+      <organization/>
+    </author>
+    <author fullname="Holterman, Eric.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>Designed around Industry 4.0 based digital technology, flexible manufacturing cells are envisioned to comprise a variety of machines capable of peer-to-peer communication, learning, and adaptation with the end goal of creating a standards-based, brand-agnostic, autonomously managed work cell free of any human influence. In this project, CCAM developed a physical and digital flexible manufacturing cell built primarily on open standards and open-source technologies to address the opportunities and challenges of development of a strong communication framework, as well as the semantics and context to drive individual decision making down to the machine or controller and enable brand-agnostic interoperability. This reference implementation of a full digital and flexible manufacturing cell can be used for the further development of standards and technologies surrounding the digital thread and distributed manufacturing.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.GCR.23-046"/>
+  <seriesInfo name="NIST GCR" value="23-046"/>
+  <seriesInfo name="NIST GCR; NIST grant-contract report; NIST grant contract&#10;                report" value="23-046"/>
+</reference>

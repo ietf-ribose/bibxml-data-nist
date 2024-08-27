@@ -1,0 +1,41 @@
+<reference anchor="NIST.SP.1500-08" target="https://doi.org/10.6028/NIST.SP.1500-08">
+  <front>
+    <title>Timing challenges in the smart grid</title>
+    <author fullname="Allnutt, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Anand, Dhananjay.">
+      <organization/>
+    </author>
+    <author fullname="Arnold, Douglas.">
+      <organization/>
+    </author>
+    <author fullname="Goldstein, Allen">
+      <organization/>
+    </author>
+    <author fullname="Li-Baboud, Ya-Shian.">
+      <organization/>
+    </author>
+    <author fullname="Martin, Aaron.">
+      <organization/>
+    </author>
+    <author fullname="Nguyen, Cuong.">
+      <organization/>
+    </author>
+    <author fullname="Noseworthy, Robert.">
+      <organization/>
+    </author>
+    <author fullname="Subramaniam, Ravi.">
+      <organization/>
+    </author>
+    <author fullname="Weiss, Marc.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology).</organization>
+    </author>
+    <abstract>Correct time and timing is one of the foundational elements in enabling the communication and orchestration of technologies for accurate and optimal wide area monitoring, protection and control in the power industry. NIST and IEEE-SA conducted a workshop to gather inputs from stakeholders in order to identify, analyze, and provide guidance on technologies, standards and methodologies for addressing the practical challenges that are currently being experienced in wide area time synchronization. One of the key drivers for the workshop is the need to prioritize NIST efforts in addressing precision timing needs in power systems. NIST has established a Smart Grid Testbed, which includes the Precision Timing module in order to support the IEEE 1588 Power Profile efforts and to serve as a basis for timing measurement and security research. The objective of the workshop is to identify the challenges, the community of experts and potential collaborators as well as key research priorities to guide future efforts is for ensuring the integrity, availability, accuracy, and precision of timing requirements are met in power systems.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-08"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1500-08"/>
+</reference>

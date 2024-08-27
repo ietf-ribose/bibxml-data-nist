@@ -1,0 +1,20 @@
+<reference anchor="NIST.TN.2225r1" target="https://doi.org/10.6028/NIST.TN.2225r1">
+  <front>
+    <title>Economic evaluation engine (E3) technical manual</title>
+    <author fullname="Kneifel, Joshua">
+      <organization/>
+    </author>
+    <author fullname="Webb, David">
+      <organization/>
+    </author>
+    <author fullname="Donmoyer, Luke">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This technical manual describes E3, including the underlying standards on which its based, the data flow through the tool, details on the code libraries, classes, and file structure, development tools used, guidance on how to use the tool, limitations, planned release, and the development of its future capabilities.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2225r1"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2225r1"/>
+</reference>

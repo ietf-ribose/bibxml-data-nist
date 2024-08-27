@@ -1,0 +1,14 @@
+<reference anchor="NIST.SP.800-108" target="https://doi.org/10.6028/NIST.SP.800-108">
+  <front>
+    <title>Recommendation for key derivation using pseudorandom functions (revised)</title>
+    <author fullname="Chen, L.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This Recommendation specifies techniques for the derivation of additional keying material from a secret key, either established through a key establishment scheme or shared through some other manner, using pseudorandom functions.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-108"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-108"/>
+</reference>

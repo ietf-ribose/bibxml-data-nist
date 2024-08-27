@@ -1,0 +1,17 @@
+<reference anchor="NIST.TN.2120" target="https://doi.org/10.6028/NIST.TN.2120">
+  <front>
+    <title>Gas vs electric</title>
+    <author fullname="Webb, David.">
+      <organization/>
+    </author>
+    <author fullname="Kneifel, Joshua.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Updates to the underlying cost and environmental data have recently been implemented in the BIRDS database. This study evaluates the updated results for validation, as well as determines the potential changes in the results relative to those found in O'Rear, Webb, Kneifel and O'Fallon (1). The updates are found to have a minor impact on the total LCC and the LCA results, but there is a shift in some energy efficiency measures (EEMs) in optimal designs. The continued reduction in solar photovoltaic (PV) installation costs leads to larger system sizes being utilized in life-cycle cost (LCC) designs, while including few additional EEMs. Reducing the efficiency of some building components is possible and still reaching net-zero energy performance. As in the previous study, net-zero energy performance is reached at the lowest LCC using an all-electric design. The incremental increase in initial construction costs relative to the code-compliant design in Maryland is $28222, which has continued a trend in decreasing premium for net-zero energy performance. Over the 30-year study period, NZLCC-E saves the homeowner $34063. Although the homeowner could save more designing to meet the lowest LCC design using natural gas heating (LCC-NG), the additional savings is only $527 while still consuming about 50 % of the baseline building design s total energy. The concept of low-energy buildings must be reconsidered to determine whether new targets should be set, such as a combination of total consumption and net consumption or net-zero goals that include embodied energy. These results are limited in their generalization because they are based on a case study using validated simulation models of the NIST Net-Zero Energy Residential Test Facility (NZERTF). The findings should not be extrapolated to buildings with different climates, energy costs, building codes, or occupancies. The assumptions on the economic analysis are also important factors to consider when using the results and implications in this study for decision making. The baseline building designs in this study are based on 2015 IECC. Maryland has since adopted 2018 IECC, which would influence the relative differences between the optimal designs and the baseline.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.2120"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="2120"/>
+</reference>

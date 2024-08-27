@@ -1,0 +1,27 @@
+<reference anchor="NIST.SP.1296" target="https://doi.org/10.6028/NIST.SP.1296">
+  <front>
+    <title>Economic decision guide software (EDGe$) with loss amplification and risk aversion</title>
+    <author fullname="Elsibaie, Sherie">
+      <organization/>
+    </author>
+    <author fullname="Ayyub, Bilal">
+      <organization/>
+    </author>
+    <author fullname="Helgeson, Jennifer">
+      <organization/>
+    </author>
+    <author fullname="Gore, Christina">
+      <organization/>
+    </author>
+    <author fullname="Butry, David">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>This report demonstrates by examples and case study as a proof of concept the use of loss amplification and risk aversion in benefit cost analysis (BCA) for community resilience planning. The report uses the NIST Economic Decision Guide Software (EDGe$) Online Tool, which assesses the economic feasibility of community resilience alternatives. Loss amplification arises from a catastrophe modeling method used to represent the increased costs associated with repair activity during a demand surge after a large catastrophe. Risk aversion is a measure of a community’s (or other entity’s) preference to avoid uncertainty. Risk aversion parameters can be used to compute certainty equivalent payoffs from uncertain payoffs and specific levels of risk aversion. A fictitious case study of wildfire disaster planning of a wildland-urban interface (WUI) is employed to demonstrate these two model enhancements (i.e., loss amplification and risk aversion) and their effects on the economic indicator outputs from EDGe$. The presented case study evaluates a binary development choice related to the resilience of a large presidential library from the perspective of two neighboring communities.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1296"/>
+  <seriesInfo name="NIST special publication" value="1296"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1296"/>
+</reference>

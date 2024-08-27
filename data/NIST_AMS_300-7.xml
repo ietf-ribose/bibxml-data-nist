@@ -1,0 +1,17 @@
+<reference anchor="NIST.AMS.300-7" target="https://doi.org/10.6028/NIST.AMS.300-7">
+  <front>
+    <title>Proposed expansion of quality information framework (QIF) standard schema with potential failure mode and effects analysis (FMEA) information model</title>
+    <author fullname="Huang, Huimin.">
+      <organization/>
+    </author>
+    <author fullname="Hedberg Jr., Thomas.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Potential Failure Mode and Effects Analysis (FMEA) contains a method and the associated information requirements for quality management and risk analysis. FMEA is applicable to manufacturing processes and product design. Quality Information Framework (QIF) is a standard that covers the quality measurement and analysis phase within a model based enterprise (MBE) for manufacturing. An information model, developed in Extensible Markup Language (XML) for FMEA is described in this paper and is proposed to be included as a part of QIF. This paper also identifies key information sharing between FMEA and QIF.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.AMS.300-7"/>
+  <seriesInfo name="NIST advanced manufacturing series; NIST AMS" value="300-7"/>
+</reference>

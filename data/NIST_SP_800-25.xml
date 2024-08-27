@@ -1,0 +1,14 @@
+<reference anchor="NIST.SP.800-25" target="https://doi.org/10.6028/NIST.SP.800-25">
+  <front>
+    <title>Federal agency use of public key technology for digital signatures and authentication</title>
+    <author fullname="Lyons-Burke, Kathy.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This document builds on the Federal IT Security Assessment Framework (Framework) developed by NIST for the Federal Chief Information Officer (CIO) Council. The Framework established the groundwork for standardizing on five levels of security status and criteria agencies could use to determine if the five levels were adequately implemented. This document provides guidance on applying the Framework by identifying 17 control areas, such as those pertaining to identification and authentication and contingency planning. In addition, the guide provides control objectives and techniques that can be measured for each area.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-25"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-25"/>
+</reference>

@@ -1,0 +1,74 @@
+<reference anchor="NIST.SP.1800-19" target="https://doi.org/10.6028/NIST.SP.1800-19">
+  <front>
+    <title>Trusted cloud</title>
+    <author fullname="Bartock, Michael.">
+      <organization/>
+    </author>
+    <author fullname="Dodson, Donna.">
+      <organization/>
+    </author>
+    <author fullname="Souppaya, Murugiah.">
+      <organization/>
+    </author>
+    <author fullname="Carroll, Daniel.">
+      <organization/>
+    </author>
+    <author fullname="Masten, Robert.">
+      <organization/>
+    </author>
+    <author fullname="Scinta, Gina.">
+      <organization/>
+    </author>
+    <author fullname="Massis, Paul.">
+      <organization/>
+    </author>
+    <author fullname="Prafullchandra, Hemma.">
+      <organization/>
+    </author>
+    <author fullname="Malnar, Jason.">
+      <organization/>
+    </author>
+    <author fullname="Singh, Harmeet.">
+      <organization/>
+    </author>
+    <author fullname="Ghandi, Rajeev.">
+      <organization/>
+    </author>
+    <author fullname="Storey, Laura E.">
+      <organization/>
+    </author>
+    <author fullname="Yeluri, Raghuram.">
+      <organization/>
+    </author>
+    <author fullname="Shea, Tim.">
+      <organization/>
+    </author>
+    <author fullname="Dalton, Michael.">
+      <organization/>
+    </author>
+    <author fullname="Weber, Rocky.">
+      <organization/>
+    </author>
+    <author fullname="Scarfone, Karen.">
+      <organization/>
+    </author>
+    <author fullname="Dukes, Anthony.">
+      <organization/>
+    </author>
+    <author fullname="Haskins, Jeff.">
+      <organization/>
+    </author>
+    <author fullname="Phoenix, Carlos.">
+      <organization/>
+    </author>
+    <author fullname="Swarts, Brenda.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>A cloud workload is an abstraction of the actual instance of a functional application that is virtualized or containerized to include compute, storage, and network resources. Organizations need to be able to monitor, track, apply, and enforce their security and privacy policies on their cloud workloads, based on business requirements, in a consistent, repeatable, and automated way. The goal of this project is to develop a trusted cloud solution that will demonstrate how trusted compute pools leveraging hardware roots of trust can provide the necessary security capabilities. These capabilities not only provide assurance that cloud workloads are running on trusted hardware and in a trusted geolocation or logical boundary, but also improve the protections for the data in the workloads and in the data flows between workloads. The example solution leverages modern commercial off-the-shelf technology and cloud services to address lifting and shifting a typical multi-tier application between an organization-controlled private cloud and a hybrid/public cloud over the internet.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-19"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-19"/>
+</reference>

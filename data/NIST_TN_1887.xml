@@ -1,0 +1,17 @@
+<reference anchor="NIST.TN.1887" target="https://doi.org/10.6028/NIST.TN.1887">
+  <front>
+    <title>CONTAM user guide and program documentation</title>
+    <author fullname="Dols, W. Stuart.">
+      <organization/>
+    </author>
+    <author fullname="Polidoro, Brian J.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This manual describes the computer program CONTAM version 3.2, developed by NIST. CONTAM is a multizone indoor air quality and ventilation analysis program designed to help determine airflows, contaminant concentrations, and personal exposure in buildings. Airflows include infiltration, exfiltration, and room-to-room airflow rates and pressure differences in building systems, and can be driven by mechanical means, wind pressures acting on the exterior of the building, and buoyancy effects induced by temperature differences between zones, including the outdoors. Contaminant concentrations include the transport and fate of airborne contaminants, due to airflow, chemical and radio-chemical transformation, adsorption and desorption to building materials, filtration, and deposition to and resuspension from building surfaces. Personal exposure includes the exposure of building occupants to airborne contaminants, for eventual risk assessment.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.TN.1887"/>
+  <seriesInfo name="NIST technical note; NIST tech note; NIST TN" value="1887"/>
+</reference>

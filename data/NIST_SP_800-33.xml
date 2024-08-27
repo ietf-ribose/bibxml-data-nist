@@ -1,0 +1,14 @@
+<reference anchor="NIST.SP.800-33" target="https://doi.org/10.6028/NIST.SP.800-33">
+  <front>
+    <title>Underlying technical models for information technology security</title>
+    <author fullname="Stoneburner, Gary.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Underlying Technical Models for Information Technology Security provides a description of the technical foundations, termed models, that underlie secure information technology (IT). The intent is to provide, in a concise form, the models that should be considered in the design and development of technical security capabilities. These models encompass lessons learned, good practices, and specific technical considerations.The intended audience consists of both government and private sectors including: IT users desiring a better understanding of system security; engineers and architects designing/building security capabilities; and those developing guidance for others to use in implementing security capabilities.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-33"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-33"/>
+</reference>

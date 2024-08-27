@@ -1,0 +1,20 @@
+<reference anchor="NIST.SP.250-78r1" target="https://doi.org/10.6028/NIST.SP.250-78r1">
+  <front>
+    <title>NIST calibration services for hydrometers</title>
+    <author fullname="Wright, John D.">
+      <organization/>
+    </author>
+    <author fullname="Bean, Vern E.">
+      <organization/>
+    </author>
+    <author fullname="Aguilera, Jesus.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Physical Measurement Laboratory (National Institute of Standards and Technology (U.S.))</organization>
+    </author>
+    <abstract>The National Institute of Standards and Technology (NIST) provides calibration services for hydrometers by Cuckow s method, i.e. by weighing the hydrometer while it is immersed to specified scale markings in a liquid of known density (tridecane). Normally a calibration is done at three points, at approximately 10 %, 50 %, and 90 % of the scale. The calibration report includes a simple equation for each calibration point that gives the user a correction to the hydrometer reading that accounts for the surface tension of the liquid in which the hydrometer is used. The calibration results have an expanded uncertainty (with coverage factor of 2) of 100 parts in 10^6 or less of the liquid density. The apparatus was validated by comparisons using liquids of known density: water, toluene, tridecane, and trichloroethylene. Results from these comparisons agreed within 40 parts in 10^6 or less.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.250-78r1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="250-78r1"/>
+</reference>

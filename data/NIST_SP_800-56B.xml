@@ -1,0 +1,23 @@
+<reference anchor="NIST.SP.800-56b" target="https://doi.org/10.6028/NIST.SP.800-56b">
+  <front>
+    <title>Recommendation for pair-wise key establishment schemes using discrete logarithm cryptography</title>
+    <author fullname="Barker, E. B.">
+      <organization/>
+    </author>
+    <author fullname="Chen, L.">
+      <organization/>
+    </author>
+    <author fullname="Regenscheid, Andrew.">
+      <organization/>
+    </author>
+    <author fullname="Smid, M. E.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This Recommendation specifies key establishment schemes using integer factorization cryptography, based on ANS X9.44, Key Establishment using Integer Factorization Cryptography, which was developed by the Accredited Standards Committee (ASC) X9, Inc.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56b"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-56b"/>
+</reference>

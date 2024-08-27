@@ -1,0 +1,23 @@
+<reference anchor="NIST.SP.1500-201" target="https://doi.org/10.6028/NIST.SP.1500-201">
+  <front>
+    <title>Framework for cyber-physical systems: volume 1, overview</title>
+    <author fullname="Griffor, Edward R.">
+      <organization/>
+    </author>
+    <author fullname="Greer, Chris.">
+      <organization/>
+    </author>
+    <author fullname="Wollman, David A.">
+      <organization/>
+    </author>
+    <author fullname="Burns, Martin J.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>Cyber-Physical Systems (CPS) comprise interacting digital, analog, physical, and human components engineered for function through integrated physics and logic. CPS and related systems (including the Internet of Things, Industrial Internet, and more) are widely recognized as having great potential to enable innovative applications and impact multiple economic sectors in the world-wide economy. These application areas include energy infrastructures, advanced manufacturing, building control, transportation, health care, and others. NIST established the CPS Public Working Group (CPS PWG) to bring together a broad range of CPS experts in an open public forum to help define and shape key characteristics of CPS, so as to better manage development and implementation within and across multiple 'smart' application domains, including smart manufacturing, transportation, energy, and healthcare. The resulting CPS Framework provides an organized presentation of a CPS analysis methodology based on the CPS Framework core concepts of facets (modes of the system engineering process: conceptualization, realization and assurance) and aspects (clusters of concerns: functional, business, human, trustworthiness, timing, data, composition, boundaries, and lifecycle).</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-201"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1500-201"/>
+</reference>

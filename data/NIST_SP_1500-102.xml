@@ -1,0 +1,29 @@
+<reference anchor="NIST.SP.1500-102" target="https://doi.org/10.6028/NIST.SP.1500-102">
+  <front>
+    <title>Voter records interchange common data format specification</title>
+    <author fullname="Dana, Sam.">
+      <organization/>
+    </author>
+    <author fullname="Dziurlaj, John.">
+      <organization/>
+    </author>
+    <author fullname="Sebes, E. John.">
+      <organization/>
+    </author>
+    <author fullname="Stenbjorn, Paul.">
+      <organization/>
+    </author>
+    <author fullname="Wack, John P.">
+      <organization/>
+    </author>
+    <author fullname="Whitt, Sarah.">
+      <organization/>
+    </author>
+    <author>
+      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <abstract>This document presents a specification for voter records data interchange related to voter registration, i.e., registration requests from online voter registration made to voter registration systems, and responses to the requests returning from the voter registration system. The specification includes XML (eXtensible Markup Language) and JSON (JavaScript Object Notation) schemas.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.6028/NIST.SP.1500-102"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1500-102"/>
+</reference>
