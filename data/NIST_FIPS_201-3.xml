@@ -1,6 +1,9 @@
 <reference anchor="NIST.FIPS.201-3" target="https://doi.org/10.6028/NIST.FIPS.201-3">
   <front>
     <title>Personal identity verification (PIV) of federal employees and contractors</title>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
     <author fullname="Romine, Charles H.">
       <organization/>
     </author>
@@ -10,5 +13,5 @@
     <abstract>FIPS 201 establishes a standard for a Personal Identity Verification (PIV) system (Standard) that meets the control and security objectives of Homeland Security Presidential Directive-12 (HSPD-12). It is based on secure and reliable forms of identity credentials issued by the Federal Government to its employees and contractors. These credentials are used by mechanisms that authenticate individuals who require access to federally controlled facilities, information systems, and applications. This Standard addresses requirements for initial identity proofing, infrastructure to support interoperability of identity credentials, and accreditation of organizations issuing PIV credentials. [Supersedes FIPS 201-2 (August 2013 ): https://doi.org/10.6028/NIST.FIPS.201-2]</abstract>
   </front>
   <seriesInfo name="DOI" value="10.6028/NIST.FIPS.201-3"/>
-  <seriesInfo name="NIST federal information processing standards publication; NIST&#10;                FIPS" value="201-3"/>
+  <seriesInfo name="NIST federal information processing standards publication; NIST FIPS" value="201-3"/>
 </reference>
