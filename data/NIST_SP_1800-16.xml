@@ -54,6 +54,6 @@
     </author>
     <abstract>Transport Layer Security (TLS) server certificates are critical to the security of both internet- facing and private web services. Despite the critical importance of these certificates, many organizations lack a formal TLS certificate management program and do not have the ability to centrally monitor and manage their certificates. This NIST Cybersecurity Practice Guide shows large and medium enterprises how to employ a formal TLS certificate management program to address certificate-based risks and challenges. It describes the TLS certificate management challenges faced by organizations; provides recommended best practices for large-scale TLS server certificate management; describes an automated proof-of-concept implementation that demonstrates how to prevent, detect, and recover from certificate-related incidents; and provides a mapping of the demonstrated capabilities to the recommended best practices and to NIST security guidelines and frameworks.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-16"/>
+  <seriesInfo name="DOI" value="NIST.SP.1800-16"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-16"/>
 </reference>

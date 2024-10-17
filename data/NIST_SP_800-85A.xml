@@ -1,4 +1,4 @@
-<reference anchor="NIST.SP.800-85a" target="https://doi.org/10.6028/NIST.SP.800-85a">
+<reference anchor="NIST.SP.800-85A" target="https://doi.org/10.6028/NIST.SP.800-85a">
   <front>
     <title>PIV card application and middleware interface test guidelines (SP800-73 compliance)</title>
     <author fullname="Chandramouli, Ramaswamy.">
@@ -26,6 +26,6 @@
       <organization>Information Technology Laboratory (National Institute of Standards and Technology).</organization>
     </author>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-85a"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-85a"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-85A"/>
 </reference>

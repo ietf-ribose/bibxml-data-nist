@@ -48,7 +48,7 @@
     </author>
     <abstract>Security is essential component of high-performance computing (HPC). HPC systems often differ based on the evolution of their system designs, the applications they run, and the missions they support. An HPC system may also have its own unique security requirements, follow different security guidance, and require tailored security solutions. Their complexity and uniqueness impede the sharing of security solutions and knowledge. This NIST Special Publication aims to standardize and facilitate the information and knowledge-sharing of HPC security using an HPC system reference architecture and key components as the basics of an HPC system lexicon. This publication also analyzes HPC threats, considers current HPC security postures and challenges, and makes best-practice recommendations.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-223"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-223"/>
   <seriesInfo name="NIST special publication" value="800-223"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-223"/>
 </reference>

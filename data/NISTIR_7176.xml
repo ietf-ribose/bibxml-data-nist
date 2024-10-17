@@ -1,13 +1,16 @@
 <reference anchor="NIST.IR.7176" target="https://doi.org/10.6028/NIST.IR.7176">
   <front>
-    <title>System protection profile -- industrial control systems version 1.0</title>
+    <title>System protection profile - industrial control systems version 1.0</title>
     <author>
-      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <organization>Process Control Security Requirements Forum.</organization>
+    </author>
+    <author fullname="Process Control Security Requirements Forum.">
+      <organization/>
     </author>
     <author>
       <organization>National Institute of Standards and Technology (U.S.)</organization>
     </author>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.7176"/>
+  <seriesInfo name="DOI" value="NIST.IR.7176"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="7176"/>
 </reference>

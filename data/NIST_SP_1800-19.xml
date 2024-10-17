@@ -69,6 +69,6 @@
     </author>
     <abstract>A cloud workload is an abstraction of the actual instance of a functional application that is virtualized or containerized to include compute, storage, and network resources. Organizations need to be able to monitor, track, apply, and enforce their security and privacy policies on their cloud workloads, based on business requirements, in a consistent, repeatable, and automated way. The goal of this project is to develop a trusted cloud solution that will demonstrate how trusted compute pools leveraging hardware roots of trust can provide the necessary security capabilities. These capabilities not only provide assurance that cloud workloads are running on trusted hardware and in a trusted geolocation or logical boundary, but also improve the protections for the data in the workloads and in the data flows between workloads. The example solution leverages modern commercial off-the-shelf technology and cloud services to address lifting and shifting a typical multi-tier application between an organization-controlled private cloud and a hybrid/public cloud over the internet.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-19"/>
+  <seriesInfo name="DOI" value="NIST.SP.1800-19"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-19"/>
 </reference>

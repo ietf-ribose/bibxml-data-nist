@@ -1,0 +1,32 @@
+<reference anchor="NIST.SP.800-63r1" target="https://doi.org/10.6028/NIST.SP.800-63-1">
+  <front>
+    <title>Electronic authentication guideline</title>
+    <author fullname="Burr, W. E.">
+      <organization/>
+    </author>
+    <author fullname="Dodson, Donna F.">
+      <organization/>
+    </author>
+    <author fullname="Newton, E. M.">
+      <organization/>
+    </author>
+    <author fullname="Perlner, R. A.">
+      <organization/>
+    </author>
+    <author fullname="Polk, W. T.">
+      <organization/>
+    </author>
+    <author fullname="Gupta, S.">
+      <organization/>
+    </author>
+    <author fullname="Nabbus, E. A.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This recommendation provides technical guidelines for Federal agencies implementing electronic authentication and is not intended to constrain the development or use of standards outside of this purpose. The recommendation covers remote authentication of users (such as employees, contractors, or private individuals) interacting with government IT systems over open networks. It defines technical requirements for each of four levels of assurance in the areas of identity proofing, registration, tokens, management processes, authentication protocols and related assertions. This publication supersedes NIST SP 800-63.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="NIST.SP.800-63-1"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-63-1"/>
+</reference>

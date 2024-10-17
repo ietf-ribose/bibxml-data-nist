@@ -1,4 +1,4 @@
-<reference anchor="NIST.SP.800-56c" target="https://doi.org/10.6028/NIST.SP.800-56c">
+<reference anchor="NIST.SP.800-56C" target="https://doi.org/10.6028/NIST.SP.800-56c">
   <front>
     <title>Recommendation for key derivation through extraction-then-expansion</title>
     <author fullname="Chen, L.">
@@ -9,6 +9,6 @@
     </author>
     <abstract>This Recommendation specifies techniques for the derivation of keying material from a shared secret established during a key establishment scheme defined in NIST Special Publications 800-56A or 800-56B through an extraction-then-expansion procedure.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-56c"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-56c"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-56c"/>
 </reference>

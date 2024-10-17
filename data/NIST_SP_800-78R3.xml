@@ -1,0 +1,26 @@
+<reference anchor="NIST.SP.800-78r3" target="https://doi.org/10.6028/NIST.SP.800-78-3">
+  <front>
+    <title>Cryptographic algorithms and key sizes for personal identity verification</title>
+    <author fullname="Polk, W. T.">
+      <organization/>
+    </author>
+    <author fullname="Dodson, Donna F.">
+      <organization/>
+    </author>
+    <author fullname="Burr, W. E.">
+      <organization/>
+    </author>
+    <author fullname="Ferraiolo, H.">
+      <organization/>
+    </author>
+    <author fullname="Cooper, D. A.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
+    </author>
+    <abstract>This document contains the technical specifications needed for the mandatory and optional cryptographic keys specified in FIPS 201, Personal Identity Verification (PIV) of Federal Employees and Contractors, as well as the supporting infrastructure specified in FIPS 201 and the related Special Publication 800-73, Interfaces for Personal Identity Verification, and SP 800-76, Biometric Data Specification for Personal Identity Verification, that rely on cryptographic functions.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="NIST.SP.800-78-3"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-78-3"/>
+</reference>

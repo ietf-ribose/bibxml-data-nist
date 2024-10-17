@@ -9,6 +9,6 @@
     </author>
     <abstract>NIST-approved digital signature algorithms require the use of an approved cryptographic hash function in the generation and verification of signatures. Approved cryptographic hash functions and digital signature algorithms can be found in FIPS 180-3, Secure Hash Standard (SHS), and FIPS 186-3, Digital Signature Standard (DSS), respectively. The security provided by the cryptographic hash function is vital to the security of a digital signature application. This Recommendation specifies a method to enhance the security of the cryptographic hash functions used in digital signature applications by randomizing the messages that are signed.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-106"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-106"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-106"/>
 </reference>

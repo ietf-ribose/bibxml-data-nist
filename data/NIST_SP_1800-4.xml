@@ -27,6 +27,6 @@
     </author>
     <abstract>This document proposes a reference design on how to architect enterprise-class protection for mobile devices accessing corporate resources. The example solutions presented here can be used by any organization implementing an enterprise mobility management solution. This project contains two distinct builds: cloud and hybrid. The cloud build makes use of cloud-based services and solutions, while the hybrid build achieves the same functionality, but hosts at least some of the data and services within an enterprise's own infrastructure. The example solutions and architectures presented here are based upon open standards and commercially available products.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.1800-4"/>
+  <seriesInfo name="DOI" value="NIST.SP.1800-4"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="1800-4"/>
 </reference>

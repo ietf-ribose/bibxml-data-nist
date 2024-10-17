@@ -1,13 +1,16 @@
 <reference anchor="NIST.IR.6933" target="https://doi.org/10.6028/NIST.IR.6933">
   <front>
-    <title>Semiconductor Electronics Division</title>
+    <title>Semiconductor electronics division</title>
     <author>
-      <organization>National Institute of Standards and Technology (U.S.)</organization>
+      <organization>Electronics and Electrical Engineering Laboratory (National Institute of Standards and Technology)</organization>
+    </author>
+    <author fullname="Electronics and Electrical Engineering Laboratory.">
+      <organization/>
     </author>
     <author>
       <organization>National Institute of Standards and Technology (U.S.)</organization>
     </author>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.6933"/>
+  <seriesInfo name="DOI" value="NIST.IR.6933"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="6933"/>
 </reference>

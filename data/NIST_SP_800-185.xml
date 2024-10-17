@@ -15,6 +15,6 @@
     </author>
     <abstract>This Recommendation specifies four types of SHA-3-derived functions: cSHAKE, KMAC, TupleHash, and ParallelHash, each defined for a 128- and 256-bit security strength. cSHAKE is a customizable variant of the SHAKE function, as defined in Federal Information Processing Standard (FIPS) 202. KMAC (for KECCAK Message Authentication Code) is a variable-length message authentication code algorithm based on KECCAK; it can also be used as a pseudorandom function. TupleHash is a variable-length hash function designed to hash tuples of input strings without trivial collisions. ParallelHash is a variable-length hash function that can hash very long messages in parallel.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-185"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-185"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-185"/>
 </reference>

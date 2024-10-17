@@ -18,6 +18,6 @@
     </author>
     <abstract>Robot arms onboard mobile bases, or mobile manipulators, are advancing and measurement of these systems is critical for robust safety and performance. As mobile manipulators flexibly fixture (i.e., do not fasten) to a worktable or object, they require advanced systems to measure how well they can perform tasks, such as assembly or inspection. The National Institute of Standards and Technology (NIST) has developed a measurement concept that uses the NIST-designed, Reconfigurable Mobile Manipulator Artifact (RMMA) as the worktable/object. The RMMA includes fiducials with relatively high uncertainty, as compared to the mobile manipulator pose performance, that are measured using a mobile manipulator wielded camera or laser retroreflector sensor as the end-effector. The intent of developing the RMMA is for mobile manipulator manufacturers, users, and researchers to perform in-situ measurement during production or research for frequent system calibration. This paper describes the RMMA design and past RMMA evaluation using an automatic guided vehicle and a mobile robot, each supporting a six degree-of-freedom industrial robot arm, and RMMA/mobile manipulator ground truth measurement using an optical tracking system, also with relatively high uncertainty as compared to the mobile manipulator.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.AMS.100-46"/>
+  <seriesInfo name="DOI" value="NIST.AMS.100-46"/>
   <seriesInfo name="NIST advanced manufacturing series; NIST AMS" value="100-46"/>
 </reference>

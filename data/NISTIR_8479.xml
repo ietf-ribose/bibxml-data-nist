@@ -51,7 +51,7 @@
     </author>
     <abstract>With the advent of the COVID-19 pandemic, there was the hope that data science approaches could help discover means for understanding, mitigating, and treating the disease. This manifested itself in the creation of the COVID-19 Open Research Dataset (CORD-19) which aggregated COVID-19- related scientific literature for use by the data mining community. As a group of interdisciplinary informatics researchers at NIST, we embarked on an effort to use our experience and previously developed systems to explore whether we could enhance the CORD-19 data set and facilitate its use. This effort produced a prototype scientific informatics system that extended data curation, data repository, resource registry, term extraction and indexing systems and resulted in a repackaging of CORD-19 as a Python data package. This paper documents our efforts, provides lessons learned, and proposes a general architecture for these types of systems.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.8479"/>
+  <seriesInfo name="DOI" value="NIST.IR.8479"/>
   <seriesInfo name="NISTIR" value="8479"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8479"/>
 </reference>

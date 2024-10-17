@@ -12,6 +12,6 @@
     </author>
     <abstract>Transport Layer Security (TLS) provides mechanisms to protect data during electronic dissemination across the Internet. This Special Publication provides guidance to the selection and configuration of TLS protocol implementations while making effective use of Federal Information Processing Standards (FIPS) and NIST-recommended cryptographic algorithms. It requires that TLS 1.2 configured with FIPS-based cipher suites be supported by all government TLS servers and clients and requires support for TLS 1.3 by January 1, 2024. This Special Publication also provides guidance on certificates and TLS extensions that impact security.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-52r2"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-52r2"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-52r2"/>
 </reference>

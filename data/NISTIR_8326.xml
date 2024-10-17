@@ -9,7 +9,7 @@
     </author>
     <abstract>Simulation and optimization must be used together to design and operate large-scale, complex systems. Integrating them presents a number of conceptual and technical problems, which can be addressed with more expressive, computer-interpretable system models. This paper presents a model-driven approach to integrating simulation and optimization methods by exchanging system designs that specialize analysis abstractions, both defined in the Systems Modeling Language (SysML). The analysis abstractions enable translation of system models to corresponding analysis models and tool interfaces. This approach (model-driven system-analysis integration) is demonstrated by developing a multi-fidelity, multi-method simulation optimization methodology and applying it to a supply chain design case study.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.8326"/>
+  <seriesInfo name="DOI" value="NIST.IR.8326"/>
   <seriesInfo name="NISTIR" value="8326"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8326"/>
 </reference>

@@ -9,6 +9,6 @@
     </author>
     <abstract>System primitives allow formalisms, reasoning, simulations, and reliability and security risktradeoffs to be formulated and argued. In this work, five core primitives belonging to most distributed systems are presented. These primitives apply well to systems with large amounts of data, scalability concerns, heterogeneity concerns, temporal concerns, and elements of unknown pedigree with possible nefarious intent. These primitives are the basic building blocks for a Network of Things (NoT), including the Internet of Things (IoT). This document offers an underlying and foundational understanding of IoT based on the realization that IoT involves sensing, computing, communication, and actuation. The material presented here is generic to all distributed systems that employ IoT technologies (i.e., things and networks). The expected audience is computer scientists, IT managers, networking specialists, and networking and cloud computing software engineers. To our knowledge, the ideas and the manner in which IoT is presented here is unique.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-183"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-183"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-183"/>
 </reference>

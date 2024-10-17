@@ -1,4 +1,4 @@
-<reference anchor="NIST.SP.800-38c" target="https://doi.org/10.6028/NIST.SP.800-38c">
+<reference anchor="NIST.SP.800-38C" target="https://doi.org/10.6028/NIST.SP.800-38c">
   <front>
     <title>Recommendation for block cipher modes of operation</title>
     <author fullname="Dworkin, M. J.">
@@ -9,6 +9,6 @@
     </author>
     <abstract>This Recommendation defines a mode of operation, called Counter with Cipher Block Chaining-Message Authentication Code (CCM), for a symmetric key block cipher algorithm. CCM may be used to provide assurance of the confidentiality and the authenticity of computer data by combining the techniques of the Counter (CTR) mode and the Cipher Block Chaining-Message Authentication Code (CBC-MAC) algorithm.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-38c"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-38c"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-38c"/>
 </reference>

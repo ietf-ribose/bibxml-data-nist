@@ -27,6 +27,6 @@
     </author>
     <abstract>The National Institute of Standards and Technology (NIST) is in the process of selecting one or more authenticated encryption and hashing schemes suitable for constrained environments through a public, competition-like process. In February 2019, 57 candidates were submitted to NIST for consideration. Among these, 56 were accepted as first-round candidates in April 2019, and after four months, NIST selected 32 of these as second-round candidates. In March 2021, NIST announced 10 finalists to move forward to the final round of the standardization process. This report describes the evaluation criteria and selection process based on public feedback and internal review of the second-round candidates. The following candidates are selected as finalists: ASCON, Elephant, GIFT-COFB, Grain128-AEAD, ISAP, Photon-Beetle, Romulus, Sparkle, TinyJambu, and Xoodyak.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.8369"/>
+  <seriesInfo name="DOI" value="NIST.IR.8369"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8369"/>
 </reference>

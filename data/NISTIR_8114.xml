@@ -18,6 +18,6 @@
     </author>
     <abstract>NIST-approved cryptographic standards were designed to perform well using general-purpose computers. In recent years, there has been increased deployment of small computing devices that have limited resources with which to implement cryptography. When current NIST-approved algorithms can be engineered to fit into the limited resources of constrained environments, their performance may not be acceptable. For these reasons, NIST started a lightweight cryptography project that was tasked with learning more about the issues and developing a strategy for the standardization of lightweight cryptographic algorithms. This report provides an overview of the lightweight cryptography project at NIST, and describes plans for the standardization of lightweight cryptographic algorithms.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.8114"/>
+  <seriesInfo name="DOI" value="NIST.IR.8114"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8114"/>
 </reference>

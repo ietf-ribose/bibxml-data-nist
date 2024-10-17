@@ -15,6 +15,6 @@
     </author>
     <abstract>This report documents the Face in Video Evaluation (FIVE), an independent, public test of face recognition of non-cooperating subjects who are recorded passively and are mostly oblivious to the presence of cameras. The report enumerates accuracy and speed of face recognition algorithms applied to the identification of persons appearing in video sequences drawn from six different video datasets mostly sequestered at NIST. These datasets represent video surveillance, chokepoint, and social media applications of the technology. In six cases, videos from fixed cameras are searched against portrait-style photographs of up to 48 000 enrolled identities. In one case, videos are searched against faces enrolled from other videos. Additionally, the effect of supplementing enrollment with non-frontal images is examined.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.IR.8173"/>
+  <seriesInfo name="DOI" value="NIST.IR.8173"/>
   <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8173"/>
 </reference>

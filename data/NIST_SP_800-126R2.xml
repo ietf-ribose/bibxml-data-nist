@@ -18,6 +18,6 @@
     </author>
     <abstract>This document provides the definitive technical specification for version 1.2 of the Security Content Automation Protocol (SCAP). SCAP consists of a suite of specifications for standardizing the format and nomenclature by which information about software flaws and security configurations is communicated, both to machines and humans. This document defines requirements for creating and processing SCAP content. These requirements build on the requirements defined within the individual SCAP component specifications. Each new requirement pertains either to using multiple component specifications together or to further constraining one of the individual component specifications.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.6028/NIST.SP.800-126r2"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-126r2"/>
   <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-126r2"/>
 </reference>
