@@ -1,0 +1,21 @@
+<reference anchor="NIST.IR.8386" target="https://doi.org/10.6028/NIST.IR.8386">
+  <front>
+    <title>Statistics of visual features in the human iris</title>
+    <author fullname="Matey, James R.">
+      <organization/>
+    </author>
+    <author fullname="Grother, Patrick.">
+      <organization/>
+    </author>
+    <author fullname="Watters III, Edward C.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>In most current applications of iris recognition, matching is done by computer algorithms. The dominant algorithms are based on the work of John Daugman and are well understood because of the extensive analysis in the literature of iris2pi (the shorthand name for the Daugman algorithms). However, the internals of the dominant algorithms are not intuitive – the features that lead to the determination of a match between two iris images are not obvious to a casual observer. In forensic cases, evidence may be presented to non-technical people. Hence there is interest in the forensic community in human adjudication of matches between iris images, where the human relies upon easily understood visible features. This paper presents an analysis of the distribution of visible features in the human eye that may be of use in assessing the likelihood of a set of visible features occurring in two eyes by chance.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="NIST.IR.8386"/>
+  <seriesInfo name="NISTIR" value="8386"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8386"/>
+</reference>

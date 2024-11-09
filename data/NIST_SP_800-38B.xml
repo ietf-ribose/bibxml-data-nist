@@ -1,14 +1,14 @@
-<reference anchor="NIST.SP.800-38B" target="https://doi.org/10.6028/NIST.SP.800-38B">
+<reference anchor="NIST.SP.800-38B" target="https://doi.org/10.6028/NIST.SP.800-38b">
   <front>
     <title>Recommendation for block cipher modes of operation</title>
-    <author fullname="Dworkin, Morris.">
+    <author fullname="Dworkin, M. J.">
       <organization/>
     </author>
     <author>
-      <organization>Information Technology Laboratory (National Institute of Standards and Technology)</organization>
+      <organization>National Institute of Standards and Technology (U.S.).</organization>
     </author>
     <abstract>This Recommendation specifies a message authentication code (MAC) algorithm based on a symmetric key block cipher. This block cipher-based MAC algorithm, called CMAC, may be used to provide assurance of the authenticity and, hence, the integrity of binary data.</abstract>
   </front>
-  <seriesInfo name="DOI" value="NIST.SP.800-38B"/>
-  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-38B"/>
+  <seriesInfo name="DOI" value="NIST.SP.800-38b"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-38b"/>
 </reference>

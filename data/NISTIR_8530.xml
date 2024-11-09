@@ -1,0 +1,18 @@
+<reference anchor="NIST.IR.8530" target="https://doi.org/10.6028/NIST.IR.8530">
+  <front>
+    <title>A unified model of core metrological concepts</title>
+    <author fullname="Kacker, Raghu N.">
+      <organization/>
+    </author>
+    <author fullname="Foxvog, Douglas.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>The definitions of core metrological terms, especially quantity, quantity value, and unit, have been the subject of years of wrangling in standards organizations. A chronic disagreement exists over whether quantities are conceptualized primarily as mathematical entities or as physical ones. This report provides a unified model into which all of the competing definitions can be mapped and productively integrated. This model should enable software that interacts with measurement systems to be more insulated from changing and conflicting metrological terminology.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="NIST.IR.8530"/>
+  <seriesInfo name="NISTIR" value="8530"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8530"/>
+</reference>

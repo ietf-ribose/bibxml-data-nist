@@ -1,0 +1,24 @@
+<reference anchor="NIST.SP.800-800pt1-5r73" target="https://doi.org/10.6028/NIST.SP.800-800-73pt1-5">
+  <front>
+    <title>Interfaces for personal identity verification</title>
+    <author fullname="Mehta, Ketan.">
+      <organization/>
+    </author>
+    <author fullname="Francomacaro, Salvatore.">
+      <organization/>
+    </author>
+    <author fullname="Chandramouli, Ramaswamy.">
+      <organization/>
+    </author>
+    <author fullname="Gupta, Sarbari.">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>FIPS 201 defines the requirements and characteristics of government-wide interoperable identity credentials for use in applications that provide access to federally controlled facilities and information systems. FIPS 201 supports multiple types of authenticators, including authenticators on smart cards (also known as PIV Cards). The 3-part SP 800-73 contains the technical specifications to interface with PIV Cards to retrieve and use identity credentials.This document — SP 800-73pt1-5, Interfaces for Personal Identity Verification: Part 1 – PIV Card Application Namespace, Data Model, and Representation specifies the PIV Card Application Namespace, the PIV Data Model, and its logical representation on the PIV Card. [Supersedes SP 800-73-4 (February 2016): https://www.nist.gov/manuscript-publication-search.cfm?pub_id=920323]</abstract>
+  </front>
+  <seriesInfo name="DOI" value="NIST.SP.800-800-73pt1-5"/>
+  <seriesInfo name="NIST special publication" value="800-800-73pt1-5"/>
+  <seriesInfo name="NIST special publication; NIST special pub; NIST SP" value="800-73pt1-5"/>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="NIST.IR.8520" target="https://doi.org/10.6028/NIST.IR.8520">
+  <front>
+    <title>Report from the 2nd international workshop on FAIR containerized computational software</title>
+    <author fullname="Hotaling, Nathan">
+      <organization/>
+    </author>
+    <author>
+      <organization>National Institute of Standards and Technology (U.S.)</organization>
+    </author>
+    <abstract>The National Institute of Standards and Technology (NIST) is evaluating and improving the specification for achieving interoperability of containerized computational software. Adherence to a specification for Findable, Accessible, Interoperable, and Reusable (FAIR) Containerized Computational Software (FAIR–CCS) enables better reuse of containerized tools in complex data analyses by chaining tools into computational workflows. NIST requested information from the community on approaches to achieving interoperability of containerized software, designing a container manifest file that meets the community needs, and lowering the barrier for constructing such a manifest file. Responses to this RFI informed a possible revision of the current approach to achieving FAIR–CCS via a manifest file, the entries in the current manifest file specification of FAIR–CCS, and the current tools that aim at automating adherence to the FAIR–CCS manifest specification.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="NIST.IR.8520"/>
+  <seriesInfo name="NISTIR" value="8520"/>
+  <seriesInfo name="NISTIR; NIST IR; NIST interagency report; NIST internal report" value="8520"/>
+</reference>
